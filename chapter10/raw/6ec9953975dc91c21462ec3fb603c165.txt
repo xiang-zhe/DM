@@ -1,0 +1,580 @@
+<!DOCTYPE html><html lang="en-US" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+<title>China’s Private Army: Protecting the New Silk Road | The Diplomat</title>
+<link id="page_favicon" href="/favicon.ico" rel="icon" type="image/x-icon">
+<meta property="fb:pages" content="308456097978" />
+<meta property="fb:app_id" content="957344281046692" />
+
+<meta name="title" content="China’s Private Army: Protecting the New Silk Road"><meta name="description" content="How will Beijing provide security for Chinese personnel and infrastructure along the Belt and Road?"><meta name="author" content="Alessandro Arduino, The Diplomat"><meta name="keywords" content="The Diplomat, News, Magazine, Asia-Pacific, Asia, Pacific, Flashpoints, Belt and Road Initiative, BRI, China, Chinese Military, military contractors, People's Liberation Army, People's Liberation Army (PLA), private security companies (PSCs)"><meta name="news_keywords" content="Belt and Road Initiative, BRI, China, Chinese Military, military contractors, People's Liberation Army, People's Liberation Army (PLA), private security companies (PSCs)"><meta property="og:title" content="China’s Private Army: Protecting the New Silk Road"/><meta property="og:type" content="article"/><meta property="og:image" content="https://thediplomat.com/wp-content/uploads/2018/03/thediplomat-4135019113_c026f4b02a_b-553x360.jpg"/><meta property="og:image:width" content="553"/><meta property="og:image:height" content="360"/><meta property="og:updated_time" content="2018-03-20 00:50:53"/><meta property="og:site_name" content="The Diplomat"/><meta property="og:description" content="How will Beijing provide security for Chinese personnel and infrastructure along the Belt and Road?"/><link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/thediplomat.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='scap.flashblock-group-css' href='https://thediplomat.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/compact-wp-audio-player/css/flashblock.css,wp-content/plugins/compact-wp-audio-player/css/player.css,wp-content/plugins/captcha/css/front_end_style.css,wp-content/plugins/captcha/css/desktop_style.css,wp-content/plugins/contact-form-7/includes/css/styles.css,wp-content/plugins/wp-pro-quiz/css/wpProQuiz_front.min.css,wp-content/themes/the_diplomat_v2/css/diplomat_20170511_1800.css,wp-content/themes/the_diplomat_v2/css/td-ads.css,wp-content/themes/the_diplomat_v2/css/print.css&#038;ver=2017-05-11' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimpSF_main_css-css'  href='https://thediplomat.com/?mcsf_action=main_css&#038;ver=4.7.3' type='text/css' media='all' />
+<!--[if IE]>
+<link rel='stylesheet' id='mailchimpSF_ie_css-group-css' href='https://thediplomat.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/mailchimp/css/ie.css&#038;ver=2017-05-11' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='dashicons-css'  href='https://thediplomat.com/wp-includes/css/dashicons.min.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='diplomat-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin' type='text/css' media='all' />
+<link rel='stylesheet' id='diplomat-fonts-cond-css'  href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700&#038;subset=latin' type='text/css' media='all' />
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js?ver=4.7.3'></script>
+<link rel="canonical" href="https://thediplomat.com/2018/03/chinas-private-army-protecting-the-new-silk-road/" />
+<link rel='shortlink' href='https://thediplomat.com/?p=131504' />
+
+<script src="/dpl-web/build-1489132542342/js/angular.min.js"></script><script src="/dpl-web/build-1489132542342/js/angular-cookies.min.js"></script><script src="/dpl-web/build-1489132542342/js/firebase.js"></script><script src="/dpl-web/build-1489132542342/js/app.min.js"></script><link href="/dpl-web/build-1489132542342/css/app.min.css" type="text/css" rel="stylesheet"><link href="/dpl-web/build-1489132542342/css/dpl-web-overrides.css" type="text/css" rel="stylesheet"><!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-11999347-10', 'auto');
+
+
+ga('send', 'pageview');
+
+</script>
+<!-- End Google Analytics -->
+
+<!-- Google Ads -->
+
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js">
+</script>
+<script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+</script>
+<script>
+	googletag.cmd.push(function() {
+		googletag.defineSlot('/4711575/Leaderboard', [728, 90], 'div-gpt-ad-1343666802946-0').addService(googletag.pubads());
+		googletag.defineSlot('/4711575/Half-Page', [[300, 600], [300, 250], [240, 400]], 'div-gpt-ad-1343666802946-1').addService(googletag.pubads());
+		googletag.defineSlot('/4711575/Medium-Rectangle', [300, 250], 'div-gpt-ad-1343666802946-2').addService(googletag.pubads());
+		googletag.defineSlot('/4711575/Mobile_Header_Leaderboard', [[728, 90], [320, 100], [320, 50]], 'div-gpt-ad-1434588807065-1').addService(googletag.pubads());
+		googletag.defineSlot('/4711575/Mobile_Footer_Leaderboard', [[728, 90], [320, 100], [320, 50]], 'div-gpt-ad-1434588807065-0').addService(googletag.pubads());
+		
+		googletag.pubads().enableSingleRequest();
+		googletag.enableServices();
+	});
+</script>
+
+
+<!-- Chartbeat (see also footer) -->
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<style>
+
+	.mobile-header {
+		background: #000000;
+		z-index: 1;
+	}
+
+	#mobile-header-menu,
+	#mobile-header-logo,
+	#mobile-header-login {
+		position: absolute;
+		overflow: hidden;
+		text-indent: -99em;
+		background-position: center center;
+		background-repeat: no-repeat;
+		cursor: pointer;
+		-moz-user-select: none;
+		-webkit-user-select: none;
+		-ms-user-select: none;
+		user-select: none;
+	}
+
+	#mobile-header-menu,
+	#mobile-header-login {
+		top: 0;
+		width: 55px;
+		height: 44px;
+		opacity: 0.6;
+	}
+	#mobile-header-menu {
+		left: 0;
+		background-image: url('https://thediplomat.com/wp-content/themes/the_diplomat_v2/mobile/mobile-menu.svg');
+	}
+	#mobile-header-menu.active {
+		background-image: url('https://thediplomat.com/wp-content/themes/the_diplomat_v2/mobile/mobile-clear.svg');
+		opacity: 1;
+	}
+	#mobile-header-logo {
+		top: 12px;
+		left: 70px;
+		right: 70px;
+		height: 20px;
+		background-image: url('https://thediplomat.com/wp-content/themes/the_diplomat_v2/mobile/mobile-logo.svg');
+		background-size: contain;
+	}
+	#mobile-header-login {
+		right: 0;
+		background-image: url('https://thediplomat.com/wp-content/themes/the_diplomat_v2/mobile/mobile-account.svg');
+	}
+
+	.slideout-menu .siteSearchWrapper {
+		padding: 10px;
+		display: block;
+		background-color: #1f1f1f;
+	}
+	.slideout-menu .siteSearchWrapper input {
+		width: 100%;
+		font-size: 12px;
+		line-height: 18px;
+		padding: 9px;
+		display: block;
+		border: 1px solid #000;
+	}
+	.footer_main li a, .footer_main li strong {
+		margin: 0 10px;
+	}
+
+</style>
+
+</head>
+
+<body class="post-template-default single single-post postid-131504 single-format-standard" ng-app="dpl.web" ng-controller="appCtrl as app">
+
+<div class="mobile-header">
+    <div id="mobile-header-menu">Menu</div>
+    <a id="mobile-header-logo" href="https://thediplomat.com">The Diplomat</a>
+    <div id="mobile-header-login" ng-click="app.openLoginModal()">Account</div></div>
+
+ <div id="area_topbar">
+	<div class="viewport clearFloat">
+		<div class="topBar topBarLeft">
+			<div class="first-child last-child">
+				<a href="https://thediplomat.com"><span>Home</span></a>
+			</div>
+		</div>
+		<div class="topBar topBarRight">
+			<div style="text-transform:uppercase;font-weight:bold;" ng-click="app.openLoginModal()"><a ng-show="account.user_id" class="ng-hide" ng-show="account.user_id" href="#">My Account</a><a ng-click="app.openLoginModal()" ng-hide="account.user_id" href="#">Sign In</a></div><div style="text-transform:uppercase;"><a href="https://thediplomat.com/the-diplomat/">About Us</a></div><div style="text-transform:uppercase;"><a href="https://thediplomat.com/about-us/advertise/">Advertise</a></div><div style="text-transform:uppercase;"><a href="https://thediplomat.com/syndication/">Syndication</a></div><div style="text-transform:uppercase;"><a href="https://thediplomat.com/write-for-us/">Write for Us</a></div><div style="text-transform:uppercase;"><a href="https://thediplomat.com/contact-us/">Contact Us</a></div>		</div>
+	</div>
+</div>
+
+<div id="page-content">
+<div class="viewport">
+
+	<div id="area_top">
+		<div id="head">
+		
+			<div id="logo" itemscope itemtype="https://schema.org/Organization">
+				<a itemprop="url" href="https://thediplomat.com/" height="50">
+					<img itemprop="logo" src="https://thediplomat.com/wp-content/themes/the_diplomat_v2/img/thediplomat_logo.png" width="332" height="50" alt="The Diplomat" />
+					<p itemprop="name">The Diplomat</p>
+				</a>
+			</div>
+
+			<!-- AD : Google Leaderboard -->
+			<div id='div-gpt-ad-1343666802946-0' class="block blockAd">
+				<script type='text/javascript'>
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1343666802946-0'); });
+				</script>
+			</div>
+
+		</div>
+		<div id="navigation" class="block">
+			<div class="block_content">
+				<div class="navigationPrimary"><table><tr><td><a href="https://thediplomat.com/regions/central-asia" class="intref navItem-29247 first-child"><span>Central Asia</span></a></td><td><a href="https://thediplomat.com/regions/east-asia" class="intref navItem-29248"><span>East Asia</span></a></td><td><a href="https://thediplomat.com/regions/oceania-region" class="intref navItem-29249"><span>Oceania</span></a></td><td><a href="https://thediplomat.com/regions/south-asia" class="intref navItem-29250"><span>South Asia</span></a></td><td><a href="https://thediplomat.com/regions/southeast-asia" class="intref navItem-29"><span>Southeast Asia</span></a></td><td><a href="https://thediplomat.com/topics/economy" class="intref navItem-17"><span>Economy</span></a></td><td><a href="https://thediplomat.com/topics/diplomacy" class="intref navItem-18"><span>Diplomacy</span></a></td><td><a href="https://thediplomat.com/topics/environment" class="intref navItem-29243"><span>Environment</span></a></td><td><a href="https://thediplomat.com/topics/politics" class="intref navItem-29244"><span>Politics</span></a></td><td><a href="https://thediplomat.com/topics/security" class="intref navItem-29245"><span>Security</span></a></td><td><a href="https://thediplomat.com/topics/society" class="intref navItem-29246 last-child"><span>Society</span></a></td></tr></table></div><div class="navigationSecondary"><table><tr><td><a href="https://thediplomat.com/category/blogs" class="intref navItem-2 first-child"><span>Blogs</span></a><div class="navDropWrap"><a href="https://thediplomat.com/category/china-power" class="intref">China Power</a><a href="https://thediplomat.com/category/flashpoints" class="intref">Flashpoints</a><a href="https://thediplomat.com/category/asia-defense" class="intref">Asia Defense</a><a href="https://thediplomat.com/category/asean-beat" class="intref">ASEAN Beat</a><a href="https://thediplomat.com/category/the-pulse" class="intref">The Pulse</a><a href="https://thediplomat.com/category/the-koreas" class="intref">The Koreas</a><a href="https://thediplomat.com/category/tokyo-report" class="intref">Tokyo Report</a><a href="https://thediplomat.com/category/the-debate" class="intref">The Debate</a><a href="https://thediplomat.com/category/crossroads-asia" class="intref">Crossroads Asia</a><a href="https://thediplomat.com/category/trans-pacific-view" class="intref">Trans-Pacific View</a><a href="https://thediplomat.com/category/pacific-money" class="intref">Pacific Money</a><a href="https://thediplomat.com/category/asia-life" class="intref">Asia Life</a><a href="https://thediplomat.com/category/oceania" class="intref">Oceania</a></div></td><td><a href="https://thediplomat.com/category/interviews" class="intref navItem-4"><span>Interviews</span></a></td><td><a href="https://thediplomat.com/category/photo-essays" class="intref navItem-15"><span>Photo Essays</span></a></td><td><a href="https://thediplomat.com/category/videos" class="intref navItem-16"><span>Videos</span></a><div class="navDropWrap"><a href="https://thediplomat.com/category/asia-through-the-lens" class="intref">Through the Lens: Life and Politics in Asia</a></div></td><td><a href="https://thediplomat.com/category/podcasts" class="intref navItem-11394"><span>Podcasts</span></a><div class="navDropWrap"><a href="https://thediplomat.com/category/japan-affairs" class="intref">Japan Affairs</a><a href="https://thediplomat.com/category/asia-geopolitics" class="intref">Asia Geopolitics</a><a href="https://thediplomat.com/category/korea-talk" class="intref">Korea Talk</a></div></td><td><a href="https://magazine.thediplomat.com/" class="intref navItem-16992 last-child"><span>Magazine</span></a></td><td class="spacer" style="text-align:left;"><a href="https://thediplomat.com/subscriptions/" class="navItem-gotoshop"><span>Subscribe</span></a></td>
+				<td class="navigationSearch">&nbsp;</td>
+			</tr></table><div id="siteSearch"><div class="siteSearchWrapper"><form role="search" method="get" id="searchform" class="searchform" action="https://thediplomat.com"><div class="siteSearchFormItemWrapper"><input type="text" id="s" class="query" placeholder="Search" name="q" value=""/></div><input type="hidden" name="cref" value="https://thediplomat.com/?glcse=1" /><input type="hidden" name="cof" value="FORID:11" /><input type="hidden" name="ie" value="UTF-8" /><input type="hidden" name="s" value="glcse" /><input type="submit" id="searchsubmit" class="submit" value="Search"></form></div></div></div>			</div>
+		</div>
+	</div><!-- #area_top -->
+
+	<div id="area_content">
+		
+		<div id="div-gpt-ad-1434588807065-1" class="ad-mobile ad-mobile-header">
+			<script type='text/javascript'>
+			googletag.cmd.push(function() { googletag.display('div-gpt-ad-1434588807065-1'); });
+			</script>
+		</div>
+
+
+	<div id="content_main">
+		
+		
+			
+<div class="block postView postSection_7 clearFloat">
+
+		<div class="td_label"><a href="https://thediplomat.com/category/flashpoints/" class="dipl_labelTitle">Flashpoints</a></div><article itemscope itemtype="http://schema.org/Article" class="block_content" data-pwcnt="true"><div class="postWrapper"><div id="postImage" class="postImageWrapper postImageInline" data-current="1" data-total="1"><div class="postImageWrapperInner"><div class="rowPostImage rowPostImage_1 active"><div class="postImage"><img width="386" height="290" src="https://thediplomat.com/wp-content/uploads/2018/03/thediplomat-4135019113_c026f4b02a_b-386x290.jpg" class="wp-post-image" alt="China’s Private Army: Protecting the New Silk Road" itemprop="image"></div><div class="postImageCredit">Image Credit: <a href="https://www.flickr.com/photos/achimh/4135019113/in/photolist-7ip47Z-dWRyza-4Xt9WX-5n5YqC-5aQRDH-6fTVwQ-9Rafcq-axVQZA-22fMfJp-dvsQfm-Y4k9qN-6fPKGH-cVdjcQ-dvsRoG-YzKMfU-61pG9B-61pG8k-NdL9y5-dvsJfd-61tT7W-cVcT5Q-3ouZo-aMRNP-4r24GE-2td15c-4qUpFM-obgAgK-cVdfRm-2koiG7-2kojnj-4qX12o-eRQzLu-dvsRFy-dvsN81-FVKQnK-YMERwL-dvngkc-dvnd7g-dvnkcM-dvsNwb-YMEBaE-YMEM6S-dvsPWf-XCLyb2-FVKTPp-UGx7T5-YzLJn7-ZPDY8G-ZPEm33-HahMZN" target="_blank" rel="nofollow">Flickr /achimh</a></div></div></div></div><h1 class="postTitle" itemprop="name">China’s Private Army: Protecting the New Silk Road</h1><div class="postTeaser"><span itemprop="description"><p>How will Beijing provide security for Chinese personnel and infrastructure along the Belt and Road?</p>
+</span></div><div class="postBylineWrapper"><div class="postByline"><div class="postAuthor">By <span itemprop="author">Alessandro Arduino</span><span style="display:none"> for <span itemprop="publisher">The Diplomat</span></span></div><div class="postDate"><span itemprop="datePublished">March 20, 2018</span></div></div><div class="postSocial"><div class="socialIcons"><div data-text="China’s Private Army: Protecting the New Silk Road" data-url="http://thediplomat.com/2018/03/chinas-private-army-protecting-the-new-silk-road/" class="shareFacebook facebook"><span class="socialIcon">&nbsp;</span></div><div data-text="China’s Private Army: Protecting the New Silk Road @Diplomat_APAC" data-url="http://thediplomat.com/2018/03/chinas-private-army-protecting-the-new-silk-road/" class="shareTwitter twitter"><span class="socialIcon">&nbsp;</span></div><div data-text="China’s Private Army: Protecting the New Silk Road" data-url="http://thediplomat.com/2018/03/chinas-private-army-protecting-the-new-silk-road/" class="shareGoogle google"><span class="socialIcon">&nbsp;</span></div><div data-text="China’s Private Army: Protecting the New Silk Road" data-url="http://thediplomat.com/2018/03/chinas-private-army-protecting-the-new-silk-road/" class="shareLinkedIn linkedin"><span class="socialIcon">&nbsp;</span></div><div class="printpage"><span class="socialIcon">&nbsp;</span></div></div><div class="postSocialTotalCounts"><div class="shareCounts">&nbsp;</div><div class="postComments">&nbsp;</div></div></div></div><div class="postBody" itemprop="articleBody" ng-if="dplpw.read"><p><b></b><span style="font-weight: 400;">At present, China’s private security companies are evolving from local security enterprises operating at the municipal level in China to international companies able to maneuver abroad in high-risk areas.  Although this evolutionary process is developing at a fast pace, the Chinese market for force along the Belt and Road Initiative (BRI) is quite different from the market that emerged during the Iraq and Afghan conflicts.</span></p>
+<p><span style="font-weight: 400;">The BRI, formerly known as One Belt One Road (OBOR), </span><span style="font-weight: 400;">is gaining momentum. Launched by Chinese President <a target="_blank" href="http://www.globaltimes.cn/db/profiles/xijinping.shtml">Xi Jinping</a> in 2013, the BRI aims to promote economic development and exchanges between China and more than 65 countries. The BRI consists of rail and energy transmission corridors from China to the European Union (the “belt”) and a series of deep-water ports in Asia, Africa, the Middle East, and Europe (the “road”).  </span></p>
+<p><span style="font-weight: 400;">Chinese connectivity is intended to enable the unimpeded flow of goods from China to the EU and as well as to increase Chinese access to trade, energy, and information and communication technology (ICT)<em> </em>connections. While the new Silk Road harkens back to the narrative of ancient trade routes, the BRI is in fact a new array of energy corridors and ICT networks that is being built and managed largely by Chinese state-owned enterprises (SOEs).</span></p><a class="td-ad-inline td-ad-inline-txt ng-hide" ng-show="dplpw.ad" href="https://thediplomat.com/subscriptions/"><b>Enjoying this article?</b> Click here to subscribe for full access. Just $5 a month.</a>
+<p><span style="font-weight: 400;">One oversight that must be addressed is that the BRI requires a wide range of security services, along both the maritime as well as the land routes. Chinese corporations acknowledge that the risks associated with foreign direct investments (FDI) in emerging economies carry a potentially high failure rate due to several factors, from economic crises to intrastate conflicts. </span></p>
+<p><span style="font-weight: 400;">At the same time Chinese SOEs, due to their public nature and commercial capacity, have a tendency to blur the lines between commercial and political factors. The SOEs tend to rely too optimistically on Beijing&#8217;s support in the event of a crisis. Lack of oversight on political risks as well as on criminal violence is quite common in projects assessments along the BRI. While the People’s Liberation Army Navy (PLAN) has already showcased good capabilities in rescuing Chinese workers in conflict zones, such as in Libya and Yemen, it is yet to be seen if minor incidents would require the intervention of the People’s Liberation Army (PLA) or People’s Army Police (PAP).</span></p>
+<p><span style="font-weight: 400;">The central government’s support for the BRI is a long-term guarantee of the Chinese will to sustain infrastructure development and connectivity.  At the same time, however, it does not mean that Beijing is providing indefinite support for unreliable or underperforming projects. In this respect, the notion of “unreliable” in the Chinese context differs from the Western liberal market’s perception of financial viability, expressed as Return on Investment (RoI), for example. </span></p>
+<p><span style="font-weight: 400;">The wide threat spectrum that affects the BRI, with particular reference to the project’s flagship, the $63 billion China-Pakistan Economic Corridor (CPEC), is going to force Beijing to adapt and change its decades-old principle of noninterference. Extreme outcomes could also force Beijing to make radical changes in the initiative but it looks improbable that China will totally abandon the BRI. The political capital that the BRI represents for Xi at home and abroad is a guarantee of Chinese commitment. At the same time, however, the commitment is also a constraint from which it is no longer possible to back out, no matter what. </span></p>
+<p><span style="font-weight: 400;">One of the most relevant issues is the question of how to provide security for Chinese personnel and infrastructure along the BRI. Most analysts tend to measure Chinese influence along the BRI in economic and/or political terms.  Thus, there is a security dimension that is fundamentally different from the conventional notion that a government will send in the army when its nationals encounter security problems overseas.  The killing of three Chinese officers from China Railway in Bamako, Mali by local terrorists in November 2015</span> <span style="font-weight: 400;">or the beheading of two Chinese teachers in Quetta, Pakistan by the self-proclaimed Islamic State in May 2017 did not provoke any direct military intervention from Beijing.</span></p>
+<p><span style="font-weight: 400;">Security and proper risk management are becoming major factors that may determine the success or failure of many elements within the larger BRI project. </span><span style="font-weight: 400;">One of the answers to this problem is that in mainland China there are more than 5,000 private security companies (PSCs) that employ almost 3 million security officers. Beside the numbers, the main issue is competence.</span></p>
+<p><span style="font-weight: 400;"> Two compelling questions need to be answered. First, are international and Chinese PSCs a plausible alternative to the Chinese military to provide security to Chinese nationals along the BRI?  </span></p>
+<p><span style="font-weight: 400;">Second, are Chinese PSCs loyal to Beijing or could they actually work in opposition to China’s state interests in protecting assets along the BRI footprint?  </span></p>
+<p><span style="font-weight: 400;">The current regulatory framework and the revolving door from the Chinese army to the Chinese PSCs all but guarantee the their loyalty. In the near future, however, budget increases coupled with the rise of powerful SOEs with their own agenda could affect the reliability and dependability of Chinese PSCs.  </span></p>
+<p><span style="font-weight: 400;">Also, separatism and insurgency are primary variables in the risk assessment equation, but their value is often overestimated because analysts fail to take into account local problems ignited by the influx of Chinese capital and workers. The impact of Chinese infrastructure projects in local communities could alter the internal dynamics of power and wealth, creating a new breed of winners and losers. Security is dynamic, not static. </span></p>
+<p><span style="font-weight: 400;">The debate over whether the BRI is a form of Chinese state-sponsored power projection is still raging, as is the question of whether the BRI is a form of soft power or sharp power. In this contest the PSCs with “Chinese characteristics” play a dual role. The first option is plausible deniability; in case of failure Beijing is not responsible because it was a private undertaking. But on the opposite side of the coin, Chinese PSCs can be perceived as an extension of the PLA. Most of the PSC contractors are former military officers and the CEOs are former officials from the PLA or PAP. This situation creates several scenarios related to the perception of a possible Chinese hidden agenda and indirect power projection. The killing of innocent civilians by U.S. contractors in Iraq &#8212; incidents like the Nisour Square massacre perpetrated by Blackwater employees in 2007 &#8212; severely undermined the U.S. Army’s efforts to win the heart and minds of the local population. Similarly, possible carnage involving the killing of innocent civilians by a Chinese PSC will compromise the BRI’s win-win narrative.</span></p>
+<p><span style="font-weight: 400;">While China is building a blue water navy capable of enforcing their interests in remote areas, it has yet to be seen whether the SOEs have an agenda to expand their reach in high-risk areas that could force Beijing’s hand in employing hard power. At the same time, professional Chinese PSCs that are supported by the SOEs’ capital abroad could start the build-up of specialized military forces that are not in line with Beijing’s vision. SOEs with their private armies could not only protect their interests abroad but also could leverage their newly acquired capabilities against Chinese internal political power plays.</span></p>
+<p><span style="font-weight: 400;">Today, Chinese PSCs are neither an extension of the PLA nor an armed wing of the Chinese Communist Party (CCP). The message from Beijing is quite clear: Chinese PSCs are not some sort of French Foreign Legion that can be called upon by the PLA when required.  </span></p>
+<p><span style="font-weight: 400;">There are more than 5,000 Chinese PSCs in business today. Of these, fewer than 20 have the capability to operate in foreign countries and most of the time they subcontract international and local contractors. These companies have approximately several hundred to several thousands of unarmed security personnel. Their footprint abroad is still relatively small and Chinese law prohibits them from using weapons outside of China. Two important questions are therefore: when does the number of Chinese personnel in a foreign country become one too many? And will the Chinese law on firearms be changed in favor of allowing PSCs to project more assertive power? </span></p>
+<p><span style="font-weight: 400;">Further important questions that must be answered include whether the Chinese PSCs will take orders from the government and whether Beijing is going to frame a clear code of conduct and related rules of engagement. Assume, for the sake of argument, that some sort of crisis occurs in a far-off country that involves dozens of Chinese nationals. In this hypothetical case, assume that a local terrorist organization has kidnapped Chinese workers and is threatening to kill them unless Beijing pays a ransom or provides political support for the terrorists&#8217; cause. If a local PSC is operating in the area, is it going to negotiate on behalf of the Chinese government or undertake kinetic action on its own authority? While a debate is open in Beijing there is still a long way to go before the necessary capabilities are developed, including a code of conduct and most importantly the chain of command and responsibilities.</span></p>
+<p><span style="font-weight: 400;">The current use of international and Chinese PSCs along the BRI has several implications for U.S. foreign policy and national interests. Considering the decades of experience that the U.S. Department of Defense and the State Department have developed in the use of security contractors, the U.S. government could promote international standards and clear guidelines that the Chinese PSCs would be required to follow in a way that would align them with the U.S. security private sector. In this respect, other international actors such as the International Code of Conduct Association (ICoCA) and the International Committee of the Red Cross are at the forefront of this cooperation model. </span></p>
+<p><span style="font-weight: 400;">Ignoring the problem could still result in increased professionalism of Chinese PSCs, but not according to standards established by Western companies. Instead, the role model may be established by new actors that are perceiving the BRI market for force as a very lucrative opportunity, namely Russia’s private military security companies. </span></p>
+<p><i><span style="font-weight: 400;">Alessandro Arduino is author of </span></i><span style="font-weight: 400;">China’s Private Army: Protecting the New Silk Road (Palgrave 2018)</span><i><span style="font-weight: 400;">. He is co-director of the Security &amp; Crisis Management International Center, Shanghai Academy of Social Sciences,UNITO. </span></i></p>
+<p><i><span style="font-weight: 400;">The author’s opinion does not necessarily reflect the opinion of the SCM Center.</span></i></p>
+</div></div><div data-pwmsg class="ng-hide"></div>		
+				
+		<div id="div-gpt-ad-1434588807065-1" class="ad-mobile ad-mobile-belowarticle">
+			<script type='text/javascript'>
+			googletag.cmd.push(function() { googletag.display('div-gpt-ad-1434588807065-0'); });
+			</script>
+		</div>
+
+		<div class="postInfoWrapper">
+			<div class="postInfo postInfoTopics"><div class="postInfoItem postLabel"><div class="pageIcon"></div><span>Topics</span></div><div class="postInfoItem"><a href="https://thediplomat.com/category/flashpoints/" itemprop="keywords" class="intref">Flashpoints</a></div></div>			<div class="postInfo postInfoTags"><div class="postInfoItem postLabel"><div class="pageIcon"></div><span>Tags</span></div><div class="postInfoItem"><a href="https://thediplomat.com/tag/belt-and-road-initiative/" itemprop="keywords" class="intref">Belt and Road Initiative</a></div><div class="postInfoItem"><a href="https://thediplomat.com/tag/bri/" itemprop="keywords" class="intref">BRI</a></div><div class="postInfoItem"><a href="https://thediplomat.com/tag/china/" itemprop="keywords" class="intref">China</a></div><div class="postInfoItem"><a href="https://thediplomat.com/tag/chinese-military/" itemprop="keywords" class="intref">Chinese Military</a></div><div class="postInfoItem"><a href="https://thediplomat.com/tag/military-contractors/" itemprop="keywords" class="intref">military contractors</a></div><div class="postInfoItem"><a href="https://thediplomat.com/tag/peoples-liberation-army/" itemprop="keywords" class="intref">People's Liberation Army</a></div><div class="postInfoItem"><a href="https://thediplomat.com/tag/peoples-liberation-army-pla/" itemprop="keywords" class="intref">People's Liberation Army (PLA)</a></div><div class="postInfoItem"><a href="https://thediplomat.com/tag/private-security-companies-pscs/" itemprop="keywords" class="intref">private security companies (PSCs)</a></div></div>		</div>
+		
+	</article>
+	
+</div>
+<div class="postReadMore clearFloat">
+<div class="block block13 cached"><div class="td_label"><div class="dipl_labelTitle">Related Stories</div></div><div class="block_content"><a class="postPrevLinkWrapper intref" href="https://thediplomat.com/2018/02/asias-energy-security-future-the-geopolitical-dimension/"><div class="postPrevImage"><img width="260" height="170" src="/wp-content/uploads/2018/02/thediplomat-malacca_malaysia_malacca-straits-mosque-09-260x170.jpg" alt="Asia's Energy Security Future: The Geopolitical Dimension"></div><div class="postPrevTxt"><div class="postPrevSubtitle">February 01, 2018</div><div class="postPrevTitle">Asia's Energy Security Future: The Geopolitical Dimension</div><div class="postPrevTeaser prose">Asia’s oil demands are set to boom and security concerns could multiply as well.</div><div class="postPrevLink">Read Story</div></div></a><div class="postPrevList"><a href="https://thediplomat.com/2017/11/us-combatant-commands-with-chinese-flare-the-plas-new-joint-command-structure/">US Combatant Commands With Chinese Flare: The PLA’s New Joint Command Structure</a><a href="https://thediplomat.com/2017/10/the-gordian-rail-tie-russias-mythic-belt-and-road-cooperation/">The Gordian Rail Tie: Russia’s Mythic Belt and Road Cooperation</a><a href="https://thediplomat.com/2017/09/analysts-take-note-wolf-warrior-is-the-new-chinese-rambo/">Analysts Take Note: <em>Wolf Warrior</em> Is the New Chinese Rambo</a><a href="https://thediplomat.com/2017/09/china-and-india-the-roots-of-hostility/">China and India: The Roots of Hostility</a><a href="https://thediplomat.com/2017/09/chinas-peoples-liberation-army-may-have-a-civil-military-relations-problem/">China's People's Liberation Army May Have a Civil-Military Relations Problem</a></div></div></div><div class="block block13 cached"><div class="td_label"><div class="dipl_labelTitle">Latest Blogs</div></div><div class="block_content"><a class="postPrevLinkWrapper intref" href="https://thediplomat.com/2018/03/new-climate-change-fears-old-mekong-problems/"><div class="postPrevImage"><img width="260" height="170" src="/wp-content/uploads/2016/01/thediplomat_2016-01-25_10-18-40-260x170.jpg" alt="New Climate Change Fears, Old Mekong Problems"></div><div class="postPrevTxt"><div class="postPrevSubtitle">March 21, 2018</div><div class="postPrevTitle">New Climate Change Fears, Old Mekong Problems</div><div class="postPrevTeaser prose">The evidence continues to pile up on the river’s bleak future.</div><div class="postPrevLink">Read Post</div></div></a><div class="postPrevList"><a href="https://thediplomat.com/2018/03/china-cambodia-defense-ties-in-the-spotlight-with-military-drills/">China-Cambodia Defense Ties in the Spotlight with Military Drills</a><a href="https://thediplomat.com/2018/03/the-real-significance-of-the-asean-australia-summit/">The Real Significance of the ASEAN-Australia Special Summit</a><a href="https://thediplomat.com/2018/03/left-out-of-north-korea-summits-japan-elevates-abduction-issue/">Left out of North Korea Summits, Japan Elevates Abduction Issue</a><a href="https://thediplomat.com/2018/03/taiwan-wants-the-f-35-stealth-fighter/">Taiwan Wants the F-35 Stealth Fighter</a><a href="https://thediplomat.com/2018/03/tibet-and-indias-china-policy/">Tibet and India’s China Policy</a></div></div></div><div class="block block13 cached"><div class="td_label"><div class="dipl_labelTitle">Latest Features</div></div><div class="block_content"><a class="postPrevLinkWrapper intref" href="https://thediplomat.com/2018/03/the-human-cost-of-india-pakistan-conflict/"><div class="postPrevImage"><img width="260" height="170" src="/wp-content/uploads/2018/03/thediplomat-uri-loc-photo-by-shuaib-masoodi-10-260x170.jpg" alt="The Human Cost of India-Pakistan Conflict"></div><div class="postPrevTxt"><div class="postPrevSubtitle">March 20, 2018</div><div class="postPrevTitle">The Human Cost of India-Pakistan Conflict</div><div class="postPrevTeaser prose">Villagers living near the Line of Control in Kashmir are bearing the brunt of a recent uptick in shelling.</div><div class="postPrevLink">Read Feature</div></div></a><div class="postPrevList"><a href="https://thediplomat.com/2018/03/russian-nukes-facts-vs-fiction/">Russian Nukes: Facts vs. Fiction</a><a href="https://thediplomat.com/2018/03/journalism-in-kyrgyzstan-shoot-the-messenger/">Journalism in Kyrgyzstan: Shoot the Messenger?</a><a href="https://thediplomat.com/2018/03/saving-pakistans-kalasha-community/">Saving Pakistan's Kalasha Community</a><a href="https://thediplomat.com/2018/03/taiwans-nuclear-dilemma/">Taiwan’s Nuclear Dilemma</a><a href="https://thediplomat.com/2018/03/trumps-trade-war/">Trump’s Trade War</a></div></div></div></div>
+			
+				
+	</div><!-- #content_main -->
+
+
+<div id="content_side">
+
+	<!-- AD : Half Page -->
+	<div id='div-gpt-ad-1343666802946-1' class="block blockAd">
+		<script type='text/javascript'>
+			googletag.cmd.push(function() { googletag.display('div-gpt-ad-1343666802946-1'); });
+		</script>
+	</div>
+	
+	<div id="socialBlock" class="block"><div class="td_label"><div class="dipl_labelTitle">Follow Us</div></div><div class="block_content"><div class="socialList socialIcons"><div class="socialListItem"><a href="https://www.facebook.com/diplomatmagazine" class="facebook socialItem" target="_blank"><span class="socialIcon">&nbsp;</span><span class="socialLabel">Facebook</span></a></div><div class="socialListItem"><a href="https://twitter.com/Diplomat_APAC" class="twitter socialItem" target="_blank"><span class="socialIcon">&nbsp;</span><span class="socialLabel">Twitter</span></a></div><div class="socialListItem"><a href="https://plus.google.com/111026462071985595868" class="google socialItem" target="_blank" rel="publisher"><span class="socialIcon">&nbsp;</span><span class="socialLabel">Google</span></a></div><div class="socialListItem"><a href="https://thediplomat.com/feed/" class="rss socialItem" target="_blank"><span class="socialIcon">&nbsp;</span><span class="socialLabel">RSS</span></a></div></div></div></div><div id="newsletterBlock" class="block"><div class="td_label"><div class="dipl_labelTitle">Newsletter</div></div><div class="block_content"><div class="newsletterIntro"><div class="postPrevSubtitle">Sign up for our weekly newsletter</div><div class="postPrevTitle">The Diplomat Brief</div></div><div class="newsletterForm">	<style>
+		.widget_mailchimpsf_widget .widget-title {
+		line-height: 1.4em;
+		margin-bottom: 0.75em;
+	}
+	#mc_subheader {
+		line-height: 1.25em;
+		margin-bottom: 18px;
+	}
+	.mc_merge_var {
+		margin-bottom: 1.0em;
+	}
+	.mc_var_label,
+	.mc_interest_label {
+		display: block;
+		margin-bottom: 0.5em;
+	}
+	.mc_input {
+		-moz-box-sizing: border-box;
+		-webkit-box-sizing: border-box;
+		box-sizing: border-box;
+		width: 100%;
+	}
+	.mc_input.mc_phone {
+		width: auto;
+	}
+	select.mc_select {
+		margin-top: 0.5em;
+		width: 100%;
+	}
+	.mc_address_label {
+		margin-top: 1.0em;
+		margin-bottom: 0.5em;
+		display: block;
+	}
+	.mc_address_label ~ select {
+		width: 100%;		
+	}
+	.mc_list li {
+		list-style: none;
+		background: none !important;
+	}
+	.mc_interests_header {
+		margin-top: 1.0em;
+		margin-bottom: 0.5em;
+	}
+	.mc_interest label,
+	.mc_interest input {
+		margin-bottom: 0.4em;
+	}
+	#mc_signup_submit {
+		margin-top: 1.5em;
+		width: 80%;
+	}
+	#mc_unsub_link a {
+		font-size: 0.75em;
+	}
+	#mc_unsub_link {
+		margin-top: 1.0em;
+	}
+	.mc_header_address,
+	.mc_email_format {
+		display: block;
+		font-weight: bold;
+		margin-top: 1.0em;
+		margin-bottom: 0.5em;
+	}
+	.mc_email_options {
+		margin-top: 0.5em;
+	}
+	.mc_email_type {
+		padding-left: 4px;
+	}
+	</style>
+	
+<div id="mc_signup">
+	<form method="post" action="#mc_signup" id="mc_signup_form">
+		<input type="hidden" id="mc_submit_type" name="mc_submit_type" value="html" />
+		<input type="hidden" name="mcsf_action" value="mc_submit_signup_form" />
+		<input type="hidden" id="_mc_submit_signup_form_nonce" name="_mc_submit_signup_form_nonce" value="dfadaea911" />		
+		
+	<div class="mc_form_inside">
+		
+		<div class="updated" id="mc_message">
+					</div><!-- /mc_message -->
+
+		
+<div class="mc_merge_var">
+		<label for="mc_mv_EMAIL" class="mc_var_label mc_header mc_header_email">Email Address</label>
+	<input type="text" size="18" placeholder="" name="mc_mv_EMAIL" id="mc_mv_EMAIL" class="mc_input"/>
+</div><!-- /mc_merge_var -->
+		<div class="mc_signup_submit">
+			<input type="submit" name="mc_signup_submit" id="mc_signup_submit" value="Subscribe Newsletter" class="button" />
+		</div><!-- /mc_signup_submit -->
+	
+	
+				
+	</div><!-- /mc_form_inside -->
+	</form><!-- /mc_signup_form -->
+</div><!-- /mc_signup_container -->
+	</div></div></div>	
+	<!-- AD - Inhouse - Subscription -->
+	
+	<div class="block">
+		<div class="block_content" style="padding:0px; width: 300px; height: 300px; background-color:669999;">
+			<a style="display:block;line-height:0px;" href="https://thediplomat.com/subscriptions/">
+
+			<img width="300" height="300" style="display:block" src="https://thediplomat.com/ads/subscription/dpl_paywall_ad_300x300_v3.gif">
+			</a>
+		</div>
+	</div>
+	
+	<div id="block-selected" class="block cache"><div class="td_label"><div class="dipl_labelTitle">Popular Stories</div></div><div class="block_content"><div class="postPreviewInline rows rows3"><div class="row row1"><a href="https://thediplomat.com/2018/03/we-are-chinese-how-china-is-influencing-sierra-leones-presidential-election/" class="postPrevLinkWrapper intref"><div class="row_content"><div class="postPrevImage"><img width="120" height="85" src="/wp-content/uploads/2018/03/thediplomat-ap_482708261365-120x85.jpg" alt="‘We Are Chinese’: How China Is Influencing Sierra Leone’s Presidential Election"></div><div class="postPrevSubtitle">March 16, 2018</div><div class="postPrevTitle">‘We Are Chinese’: How China Is Influencing Sierra Leone’s Presidential Election</div><div class="postPrevTeaser prose">China is playing an unusually direct role in Sierra Leone's presidential campaign. </div><div class="postPrevLink">Read Story</div></div></a></div><div class="row row2"><a href="https://thediplomat.com/2018/03/is-thailand-ready-for-its-youngest-prime-minister/" class="postPrevLinkWrapper intref"><div class="row_content"><div class="postPrevImage"><img width="120" height="85" src="/wp-content/uploads/2016/03/thediplomat_2016-03-29_07-55-04-120x85.jpg" alt="Is Thailand Ready for Its Youngest Prime Minister?"></div><div class="postPrevSubtitle">March 15, 2018</div><div class="postPrevTitle">Is Thailand Ready for Its Youngest Prime Minister?</div><div class="postPrevTeaser prose">Though a new voice is ready for Thai politics, it is unclear if Thai politics is ready for him.</div><div class="postPrevLink">Read Story</div></div></a></div><div class="row row3"><a href="https://thediplomat.com/2018/03/the-trouble-with-bangladeshs-military/" class="postPrevLinkWrapper intref"><div class="row_content"><div class="postPrevImage"><img width="120" height="85" src="/wp-content/uploads/2015/12/thediplomat_2015-12-03_20-30-27-120x85.jpg" alt="The Trouble With Bangladesh's Military"></div><div class="postPrevSubtitle">March 10, 2018</div><div class="postPrevTitle">The Trouble With Bangladesh's Military</div><div class="postPrevTeaser prose">Bangladesh’s military is more concerned with profit and power than defending the country.</div><div class="postPrevLink">Read Story</div></div></a></div></div></div></div>	
+	<!-- AD : Medium Rectangle -->
+	<div id='div-gpt-ad-1343666802946-2' class='block blockAd'>
+		<script type='text/javascript'>
+			googletag.cmd.push(function() { googletag.display('div-gpt-ad-1343666802946-2'); });
+		</script>
+	</div>
+	
+	<div class="block block13 cached"><div class="td_label"><a href="/category/interviews/" class="dipl_labelTitle">Interview</a></div><div class="block_content"><a class="postPrevLinkWrapper intref" href="https://thediplomat.com/2018/03/jerome-cohen-xi-and-ccp-aim-for-unchallenged-power/"><div class="postPrevImage"><img width="290" height="170" src="/wp-content/uploads/2018/03/thediplomat-171106-nyu-18-0207-007-290x170.jpg" alt="Jerome Cohen: Xi and CCP Aim for Unchallenged Power"></div><div class="postPrevTxt"><div class="postPrevSubtitle">March 07, 2018</div><div class="postPrevTitle">Jerome Cohen: Xi and CCP Aim for Unchallenged Power</div><div class="postPrevTeaser prose">To whom much is given, much will be required.</div><div class="postPrevLink">Read Interview</div></div></a><div class="postPrevList"></div><div class="postPrevMore"><a href="/category/interviews/" class="intref">More Interviews</a></div></div></div>	
+</div><!-- #secondary -->
+	</div><!-- #area_content -->
+</div><!-- .viewport -->
+
+<div id="area_footer">
+	<div class="viewport">
+	<div class="footer_main">
+	<ul class="regions"><li><strong>Regions</strong></li><li><a href="https://thediplomat.com/regions/central-asia">Central Asia</a></li><li><a href="https://thediplomat.com/regions/east-asia">East Asia</a></li><li><a href="https://thediplomat.com/regions/oceania-region">Oceania</a></li><li><a href="https://thediplomat.com/regions/south-asia">South Asia</a></li><li><a href="https://thediplomat.com/regions/southeast-asia">Southeast Asia</a></li></ul><ul class="topics"><li><strong>Topics</strong></li><li><a href="https://thediplomat.com/category/blogs">Blogs</a></li><li><a href="https://thediplomat.com/topics/diplomacy">Diplomacy</a></li><li><a href="https://thediplomat.com/topics/economy">Economy</a></li><li><a href="https://thediplomat.com/topics/environment">Environment</a></li><li><a href="https://thediplomat.com/category/features">Features</a></li><li><a href="https://thediplomat.com/category/interviews">Interviews</a></li><li><a href="https://thediplomat.com/category/magazine">Magazine</a></li><li><a href="https://thediplomat.com/category/photo-essays">Photo Essays</a></li><li><a href="https://thediplomat.com/category/podcasts">Podcasts</a></li><li><a href="https://thediplomat.com/topics/politics">Politics</a></li><li><a href="https://thediplomat.com/topics/security">Security</a></li><li><a href="https://thediplomat.com/topics/society">Society</a></li><li><a href="https://thediplomat.com/category/the-diplomats-quiz">The Diplomat's Quiz</a></li><li><a href="https://thediplomat.com/category/videos">Videos</a></li></ul><ul class="blogs"><li><strong>Blogs</strong></li><li><a href="https://thediplomat.com/category/china-power">China Power</a></li><li><a href="https://thediplomat.com/category/flashpoints">Flashpoints</a></li><li><a href="https://thediplomat.com/category/asia-defense">Asia Defense</a></li><li><a href="https://thediplomat.com/category/asean-beat">ASEAN Beat</a></li><li><a href="https://thediplomat.com/category/the-pulse">The Pulse</a></li><li><a href="https://thediplomat.com/category/the-koreas">The Koreas</a></li><li><a href="https://thediplomat.com/category/tokyo-report">Tokyo Report</a></li><li><a href="https://thediplomat.com/category/the-debate">The Debate</a></li><li><a href="https://thediplomat.com/category/crossroads-asia">Crossroads Asia</a></li><li><a href="https://thediplomat.com/category/trans-pacific-view">Trans-Pacific View</a></li><li><a href="https://thediplomat.com/category/pacific-money">Pacific Money</a></li><li><a href="https://thediplomat.com/category/asia-life">Asia Life</a></li><li><a href="https://thediplomat.com/category/oceania">Oceania</a></li></ul><ul class="archive"><li><strong>Archives</strong></li><li><a href="https://thediplomat.com/category/sport-culture">Sport &amp; Culture</a></li><li><a href="https://thediplomat.com/category/indian-decade">Indian Decade</a></li><li><a href="https://thediplomat.com/category/a-new-japan">A New Japan</a></li><li><a href="https://thediplomat.com/category/new-leaders-forum">New Leaders Forum</a></li><li><a href="https://thediplomat.com/category/new-emissary">New Emissary</a></li><li><a href="https://thediplomat.com/category/tokyo-notes">Tokyo Notes</a></li><li><a href="https://thediplomat.com/category/apac-insider">APAC Insider</a></li><li><a href="https://thediplomat.com/category/asia-scope">Asia Scope</a></li><li><a href="https://thediplomat.com/category/whats-next-china">China, What's Next?</a></li><li><a href="https://thediplomat.com/category/james-holmes">James Holmes</a></li><li><a href="https://thediplomat.com/category/tech-biz">Tech Biz</a></li><li><a href="https://thediplomat.com/category/zachary-keck">Zachary Keck</a></li></ul><ul class="about"><li><strong>The Diplomat</strong></li><li><a href="https://thediplomat.com/the-diplomat/">About Us</a></li><li><a href="https://thediplomat.com/partners/">Partners</a></li><li><a href="https://thediplomat.com/about-us/advertise/">Advertise</a></li><li><a href="https://thediplomat.com/syndication/">Syndication</a></li><li><a href="https://thediplomat.com/privacy-policy/">Privacy Policy</a></li><li><a href="https://thediplomat.com/contact-us/">Contact Us</a></li></ul>	 
+	 
+		<div class="footer_label">
+			<div class="copyright">&copy; 2018 The Diplomat. All Rights Reserved. </div>
+		</div><!-- .footer_label -->
+		
+		<img height="1" width="1" style="border-style:none;" alt="The Diplomat" src="https://thediplomat.com/dipl_counter.php?p=131504&t=1521616049"/>
+<!-- Google Tag Manager -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-JTDKC"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-JTDKC');</script>
+<!-- End Google Tag Manager -—>
+
+<!-- Chartbeat -->
+<script type="text/javascript">
+var _sf_async_config={};
+_sf_async_config.uid = 4272;
+_sf_async_config.domain = "thediplomat.com";
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement("script");
+    e.setAttribute("language", "javascript");
+    e.setAttribute("type", "text/javascript");
+    e.setAttribute('src', 'https://static.chartbeat.com/js/chartbeat.js');
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != "function") ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+
+		</div><!-- .footer_main -->
+	</div><!-- #area_footer .viewport -->
+</div><!-- #area_footer -->
+
+</div><!-- #page-content -->
+
+
+<!-- WP Audio player plugin v1.9.6 - https://www.tipsandtricks-hq.com/wordpress-audio-music-player-plugin-4556/ -->
+    <script type="text/javascript">
+        soundManager.useFlashBlock = true; // optional - if used, required flashblock.css
+        soundManager.url = 'https://thediplomat.com/wp-content/plugins/compact-wp-audio-player/swf/soundmanager2.swf';
+        function play_mp3(flg, ids, mp3url, volume, loops)
+        {
+            //Check the file URL parameter value
+            var pieces = mp3url.split("|");
+            if (pieces.length > 1) {//We have got an .ogg file too
+                mp3file = pieces[0];
+                oggfile = pieces[1];
+                //set the file URL to be an array with the mp3 and ogg file
+                mp3url = new Array(mp3file, oggfile);
+            }
+
+            soundManager.createSound({
+                id: 'btnplay_' + ids,
+                volume: volume,
+                url: mp3url
+            });
+
+            if (flg == 'play') {
+                    soundManager.play('btnplay_' + ids, {
+                    onfinish: function() {
+                        if (loops == 'true') {
+                            loopSound('btnplay_' + ids);
+                        }
+                        else {
+                            document.getElementById('btnplay_' + ids).style.display = 'inline';
+                            document.getElementById('btnstop_' + ids).style.display = 'none';
+                        }
+                    }
+                });
+            }
+            else if (flg == 'stop') {
+    //soundManager.stop('btnplay_'+ids);
+                soundManager.pause('btnplay_' + ids);
+            }
+        }
+        function show_hide(flag, ids)
+        {
+            if (flag == 'play') {
+                document.getElementById('btnplay_' + ids).style.display = 'none';
+                document.getElementById('btnstop_' + ids).style.display = 'inline';
+            }
+            else if (flag == 'stop') {
+                document.getElementById('btnplay_' + ids).style.display = 'inline';
+                document.getElementById('btnstop_' + ids).style.display = 'none';
+            }
+        }
+        function loopSound(soundID)
+        {
+            window.setTimeout(function() {
+                soundManager.play(soundID, {onfinish: function() {
+                        loopSound(soundID);
+                    }});
+            }, 1);
+        }
+        function stop_all_tracks()
+        {
+            soundManager.stopAll();
+            var inputs = document.getElementsByTagName("input");
+            for (var i = 0; i < inputs.length; i++) {
+                if (inputs[i].id.indexOf("btnplay_") == 0) {
+                    inputs[i].style.display = 'inline';//Toggle the play button
+                }
+                if (inputs[i].id.indexOf("btnstop_") == 0) {
+                    inputs[i].style.display = 'none';//Hide the stop button
+                }
+            }
+        }
+    </script>
+    <script type='text/javascript'>
+/* <![CDATA[ */
+var mailchimpSF = {"ajax_url":"https:\/\/thediplomat.com\/"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://thediplomat.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/compact-wp-audio-player/js/soundmanager2-nodebug-jsmin.js,wp-content/plugins/mailchimp/js/scrollTo.js,wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js,wp-content/plugins/mailchimp/js/mailchimp.js,wp-content/plugins/contact-form-7/includes/js/scripts.js,wp-content/themes/the_diplomat_v2/js/print.js,wp-content/themes/the_diplomat_v2/js/sharrre.js,wp-content/themes/the_diplomat_v2/js/sharrre_impl_20170419.js,wp-content/themes/the_diplomat_v2/js/postImage.js,wp-content/themes/the_diplomat_v2/js/featgal.js,wp-includes/js/wp-embed.min.js&#038;ver=2017-05-11'></script>
+
+<!-- Mobile Menu -->
+<script>
+
+    $(document).ready(function(){
+        $(".footer_main").clone().addClass('slideout-menu').prependTo("body").prepend($(".siteSearchWrapper").clone());
+    });
+
+    $(function() {
+        $('#mobile-header-menu').click(function() {
+            // Calling a function in case you want to expand upon this.
+            toggleNav();
+        });
+    });
+
+    function toggleNav() {
+        if ($('#page-content').hasClass('open')) {
+            // Do things on Nav Close
+            $('#page-content').removeClass('open');
+            $('body').removeClass('lock-scroll');
+            $('#page-content').removeClass('fix');
+            $('#mobile-header-menu').removeClass('active');
+            $('.slideout-menu').removeClass('touch-scroll');
+        } else {
+            // Do things on Nav Open
+            $('#page-content').addClass('open');
+            $('body').addClass('lock-scroll');
+            $('#page-content').addClass('fix');
+            $('#mobile-header-menu').addClass('active');
+            $('.slideout-menu').addClass('touch-scroll');
+        }
+    }
+
+</script>
+<!-- End: Mobile Menu -->
+
+</body>
+</html>
+<!-- *´¨)
+     ¸.•´¸.•*´¨) ¸.•*¨)
+     (¸.•´ (¸.•` ¤ Comet Cache is Fully Functional ¤ ´¨) -->
+
+<!-- Cache File Version Salt:       DPL_PAYWALL_ON_x -->
+
+<!-- Cache File URL:                https://thediplomat.com/2018/03/chinas-private-army-protecting-the-new-silk-road/ -->
+<!-- Cache File Path:               /cache/comet-cache-2017/cache/https/thediplomat-com/2018/03/chinas-private-army-protecting-the-new-silk-road.v/DPL-PAYWALL-ON-x.html -->
+
+<!-- Cache File Generated Via:      HTTP request -->
+<!-- Cache File Generated On:       Mar 20th, 2018 @ 10:07 pm UTC -->
+<!-- Cache File Generated In:       0.32998 seconds -->
+
+<!-- Cache File Expires On:         Mar 21st, 2018 @ 4:07 am UTC -->
+<!-- Cache File Auto-Rebuild On:    Mar 21st, 2018 @ 4:07 am UTC -->
+
+<!-- Loaded via Cache On:    Mar 21st, 2018 @ 4:01 am UTC -->
+<!-- Loaded via Cache In:    0.01578 seconds -->

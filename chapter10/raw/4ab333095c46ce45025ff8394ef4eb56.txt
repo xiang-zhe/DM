@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="da" dir="ltr" class="ie ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="da" dir="ltr" class="ie ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="da" dir="ltr" class="ie ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="da" dir="ltr" class="ie ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="da" dir="ltr"> <!--<![endif]-->
+
+  <head>
+    <!-- Menu items object start -->
+        <!-- Menu items object end -->
+    <!-- DRC head start -->
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-itunes-app" content="app-id=398346158" />
+<meta name="robots" content="index, follow">
+<meta name="name" content="DR">
+<meta name="language" content="da-dk">
+<meta name="copyright" content="© DR" />
+<meta name="description" content="Et halvanden meter højt hegn langs grænsen skal beskytte svineeksporten mod afrikansk svinepest." />
+<meta name="keywords" content="dr1, dr2, dr3, drk, ultra, ramasjang, drtv, tv, p1, p2, p3, p4, p5, p6, mama, podcast, nyheder">
+<meta name="subject" content="tv, live, radio, dr, on-demand">
+<meta name="publisher" content="DR, DR BYEN, Emil Holms Kanal 20, DK-0999 København C, tlf.: +45 35 20 30 40">
+<meta name="site" content="Penge" />
+<meta name="urn" content="urn:dr:drupal:node:3808371" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Regeringen og DF enige: Hegn langs grænsen skal beskytte danske svin" />
+<meta property="og:site_name" content="DR" />
+<meta property="og:description" content="Et halvanden meter højt hegn langs grænsen skal beskytte svineeksporten mod afrikansk svinepest." />
+<meta property="og:url" content="https://www.dr.dk/nyheder/penge/regeringen-og-df-enige-hegn-langs-graensen-skal-beskytte-danske-svin" />
+<meta property="og:image" content="http://asset.dr.dk/ImageScaler/?file=%2Fimages%2Fcrop%2F2018%2F03%2F22%2F1521711728_scanpix-20180321-142445-a.jpg&amp;server=www.dr.dk" />
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@DRNyheder">
+<meta property="fb:app_id" content="334841956565056">
+<script>
+  (function (win, doc) {
+    var head = doc.head || doc.getElementsByTagName("head")[0];
+    if ("-ms-user-select" in doc.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+      var msViewportStyle = doc.createElement("style");
+      msViewportStyle.appendChild(
+          doc.createTextNode("@-ms-viewport{width:auto!important}")
+      );
+      head.appendChild(msViewportStyle);
+    }
+  }(window, document));
+</script>
+<script>
+  !function(A,t){function e(A){var e=t.createElement("style");e.textContent=A,n.appendChild(e)}var a,n=t.getElementsByTagName("head")[0],o=!1;try{a=A.localStorage["drc-webfonts"],a&&e(a)}catch(A){}var c=A.FontFace;if(c){var s=new c("drc-wfl-woff2",'url("data:application/font-woff2;base64,d09GMgABAAAAAAIkAAoAAAAABVwAAAHcAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAABlYAgloKLEoBNgIkAxgLDgAEIAWDcgc1G7IEyB6SJAFID5YA3nAHC6h4+H7s27nP1kTyOoQkGuJWtNGIJKYznRI3VEL7IaHq985ZUuKryZKcAtJsi5eULwUybm9KzajBBhywZ5ZwoJNuwDX5C/xBjvz5DbsoNsvG1NGQiqp0NMLZ7JlnW+5MaM3HwcHheUQeiVokekHkn/FRdefvJaTp2PczN+I1Sc3k9VuX51Tb0Tqqf1deVXGdJsDOhz0/EffMOPOzHNH06pYkDDjs+P8fb/z/8n9Iq8ITzWywkP6PBMMN9L/O7vY2FNoTAkp5PpD6g1nV9WmyQnM5uPpAMHR2fe06jbfvzPriekVTQxC6lpKr43oDtRZfCATl5OVAUKykqwm9o8R/kg37cxa6eZikS7cjK4aIwoyh6jOFplhFrz2b833G3Jii9AjDUiAZ9AxZtxdEYV6imvRF0+0Nej3wu6nPZrTLh81AVcV3kmMVdQj6Qbe9qetzbuDZ7vXOlRrqooFSxCv6SfrDICA6rnHZXQPVcUHJYGcoqa3jVH7ATrjWBNYYkEqF3RFpVIl0q2JvMOJd7/TyjXHw2NyAuJpNaEbz8RTEVtCbSH7JrwQQOqwGl7sTUOtdBZIY2DKqKlvOmPvUxJaURAZZcviTT0SKHCXqzwc=") format("woff2")',{});s.load().catch(function(){}),o="loading"===s.status||"loaded"===s.status}var f=new XMLHttpRequest,d="/assets/css/007/webfonts/"+(o?"woff2":"woff")+".css";f.open("get",d,!0),f.onreadystatechange=function(){if(4===f.readyState&&(f.status>=200&&f.status<300||304===f.status)){var t=f.responseText;if(a!==t){e(t);try{A.localStorage["drc-webfonts"]=t}catch(A){}}}},a?A.addEventListener("load",function(){f.send(null)},!1):t.addEventListener("DOMContentLoaded",function(){f.send(null)},!1)}(window,document);
+</script>
+<link rel="canonical" href="https://www.dr.dk/nyheder/penge/regeringen-og-df-enige-hegn-langs-graensen-skal-beskytte-danske-svin" />
+<link rel="prev" href="">
+<link rel="next" href="">
+<link rel="dns-prefetch" href="//asset.dr.dk">
+<link rel="apple-touch-icon" sizes="" href="">
+<link rel="icon" type="" href="">
+<link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/sites/all/themes/custom/dr_phoenix/favicon.ico">
+<link rel="stylesheet" href="/assets/css/007/global.css">
+<title>Regeringen og DF enige: Hegn langs grænsen skal beskytte danske svin | Penge | DR</title>
+
+
+<script id="ensighten-script" src="//www.dr.dk/drdk-ensighten/Bootstrap.js"></script>
+
+<script src ="//www.dr.dk/global-navigation/topbarbundle.js"></script>    <!-- DRC head end -->
+    <!-- TMS start -->
+    <script>
+    window.dataLayer = window.dataLayer || {};
+    window.dataLayer.content = {"content":{"authors":[{"authorContext":"Skrevet af","authorEmail":"olba@dr.dk","authorName":"Oliver Batchelor","authorUrn":"urn:dr:drupal:author:4d91a833-7c76-4246-8492-2200d3c53af1"}],"changeTime":"2018-03-22T10:03:27+00:00","presentation":"Article","presentationUrn":"urn:dr:content:presentation:article","publishTime":"2018-03-22T07:12:00+00:00","sites":[[{"siteName":"Penge","siteUrn":"urn:dr:drupal:site:347d3021-a697-46f5-a9e4-e35b33ac830d"},{"siteName":"Nyheder","siteUrn":"urn:dr:drupal:site:cb361b66-3a32-4cea-ae23-3c1eba2db3fd"}]],"title":"Regeringen og DF enige: Hegn langs gr\u00e6nsen skal beskytte danske svin","type":"article","typeUrn":"urn:dr:content:type:article","urlCanonical":"https:\/\/www.dr.dk\/nyheder\/penge\/regeringen-og-df-enige-hegn-langs-graensen-skal-beskytte-danske-svin","urn":"urn:dr:drupal:article:6da21719-d2c8-4f9c-b046-e6e496941a7e","version":"11396316"},"presentation":{"publisher":"DR, DR BYEN, Emil Holms Kanal 20, DK-0999 K\u00f8benhavn C, tlf.: +45 35 20 30 40","section":"Nyheder","site":"Penge","system":"1=Drupal","title":"Regeringen og DF enige: Hegn langs gr\u00e6nsen skal beskytte danske svin","urn":"urn:dr:drupal:article:6da21719-d2c8-4f9c-b046-e6e496941a7e","version":"11396316"}};
+</script>
+    <!-- TMS end -->
+    <!-- Drupal Styles start -->
+    <link type="text/css" rel="stylesheet" href="/sites/all/themes/custom/dr_phoenix/assets/build/styles/main.css?p5jtdx" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/all/themes/custom/dr_phoenix/assets/build/sites/nyheder/styles/site.css?p5jtdx" media="all" />
+    <!-- Drupal Styles end -->
+  </head>
+
+  <body class="node-type-article article-type-artikel" >
+    <!--googleoff: index-->
+    <script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>    <div class="site-wrapper">
+  <div class="site-content container">
+          
+  <div class="section mute-heading prioritized-carousel">
+  <div class="carousel" data-slides-to-show="3" data-show-arrows="true">
+          <div class="slide">
+        <div class="row">
+          <div class="col-sm-4">
+          
+<a href="https://www.dr.dk/nyheder/indland/moedre-sendt-hjem-med-maeslingesyge-spaedboern-det-er-grotesk">
+<div  role="presentation" aria-hidden="true" href="https://www.dr.dk/nyheder/indland/moedre-sendt-hjem-med-maeslingesyge-spaedboern-det-er-grotesk" class="image-wrap ratio-16-9"  data-width="2979" data-height="3415" data-scale-after="crop" data-ratio="16-9" data-src="https://www.dr.dk/images/crop/2018/03/22/1521755825_sally2.jpg" >
+  
+  <noscript>
+    <img  width="2979" height="3415" role="presentation" aria-hidden="true" src="https://www.dr.dk/images/crop/2018/03/22/1521755825_sally2.jpg" alt="sally2.jpg" title="sally2.jpg" />
+  </noscript>
+  
+  </div>
+</a>
+
+          </div>
+          <div class="col-sm-8">
+          <a href="/nyheder/indland/moedre-sendt-hjem-med-maeslingesyge-spaedboern-det-er-grotesk" class="heading-xsmall">Mødre sendt hjem med mæslingesyge spædbørn: Det er grotesk</a>          <span class="metainfo">
+            <time datetime="2018-03-22T23:09:00+00:00">
+              kl. 00.09            </time>
+          </span>
+          </div>
+        </div>
+      </div>
+          <div class="slide">
+        <div class="row">
+          <div class="col-sm-4">
+          
+<a href="https://www.dr.dk/nyheder/udland/trump-hiver-velkendt-navn-ind-som-sikkerhedsradgiver">
+<div  role="presentation" aria-hidden="true" href="https://www.dr.dk/nyheder/udland/trump-hiver-velkendt-navn-ind-som-sikkerhedsradgiver" class="image-wrap ratio-16-9"  data-width="4658" data-height="3329" data-scale-after="crop" data-ratio="16-9" data-src="https://www.dr.dk/images/other/2018/03/22/scanpix-20180322-233936-5.jpg" >
+  
+  <noscript>
+    <img  width="4658" height="3329" role="presentation" aria-hidden="true" src="https://www.dr.dk/images/other/2018/03/22/scanpix-20180322-233936-5.jpg" alt="scanpix-20180322-233936-5.jpg" title="scanpix-20180322-233936-5.jpg" />
+  </noscript>
+  
+  </div>
+</a>
+
+          </div>
+          <div class="col-sm-8">
+          <a href="/nyheder/udland/trump-hiver-velkendt-navn-ind-som-sikkerhedsradgiver" class="heading-xsmall">Trump hiver velkendt navn ind som sikkerhedsrådgiver</a>          <span class="metainfo">
+            <time datetime="2018-03-22T22:45:00+00:00">
+              22. mar. 2018 kl. 23.45            </time>
+          </span>
+          </div>
+        </div>
+      </div>
+          <div class="slide">
+        <div class="row">
+          <div class="col-sm-4">
+          
+<a href="https://www.dr.dk/nyheder/indland/rebild-born-far-historisk-stor-erstatning-efter-misbrug">
+<div  role="presentation" aria-hidden="true" href="https://www.dr.dk/nyheder/indland/rebild-born-far-historisk-stor-erstatning-efter-misbrug" class="image-wrap ratio-16-9"  data-width="620" data-height="349" data-scale-after="crop" data-ratio="16-9" data-src="https://www.dr.dk/images/other/2018/03/22/20180322212359566_1000.jpg" >
+  
+  <noscript>
+    <img  width="620" height="349" role="presentation" aria-hidden="true" src="https://www.dr.dk/images/other/2018/03/22/20180322212359566_1000.jpg" alt="20180322212359566_1000.jpg" title="20180322212359566_1000.jpg" />
+  </noscript>
+  
+  </div>
+</a>
+
+          </div>
+          <div class="col-sm-8">
+          <a href="/nyheder/indland/rebild-born-far-historisk-stor-erstatning-efter-misbrug" class="heading-xsmall">Rebild-børn får historisk stor erstatning efter misbrug</a>          <span class="metainfo">
+            <time datetime="2018-03-22T20:46:00+00:00">
+              22. mar. 2018 kl. 21.46            </time>
+          </span>
+          </div>
+        </div>
+      </div>
+          <div class="slide">
+        <div class="row">
+          <div class="col-sm-4">
+          
+<a href="https://www.dr.dk/nyheder/politik/flertal-i-kobenhavn-vil-arbejde-videre-med-formel-1">
+<div  role="presentation" aria-hidden="true" href="https://www.dr.dk/nyheder/politik/flertal-i-kobenhavn-vil-arbejde-videre-med-formel-1" class="image-wrap ratio-16-9"  data-width="5008" data-height="2380" data-scale-after="crop" data-ratio="16-9" data-src="https://www.dr.dk/images/other/2018/03/22/scanpix-20180227-142449-l.jpg" >
+  
+  <noscript>
+    <img  width="5008" height="2380" role="presentation" aria-hidden="true" src="https://www.dr.dk/images/other/2018/03/22/scanpix-20180227-142449-l.jpg" alt="scanpix-20180227-142449-l.jpg" title="scanpix-20180227-142449-l.jpg" />
+  </noscript>
+  
+  </div>
+</a>
+
+          </div>
+          <div class="col-sm-8">
+          <a href="/nyheder/politik/flertal-i-kobenhavn-vil-arbejde-videre-med-formel-1" class="heading-xsmall">Flertal i København vil arbejde videre med Formel 1</a>          <span class="metainfo">
+            <time datetime="2018-03-22T19:57:00+00:00">
+              22. mar. 2018 kl. 20.57            </time>
+          </span>
+          </div>
+        </div>
+      </div>
+          <div class="slide">
+        <div class="row">
+          <div class="col-sm-4">
+          
+<a href="https://www.dr.dk/nyheder/politik/politiske-analyser/analyse-kattegatbroen-et-politisk-kinderaeg">
+<div  role="presentation" aria-hidden="true" href="https://www.dr.dk/nyheder/politik/politiske-analyser/analyse-kattegatbroen-et-politisk-kinderaeg" class="image-wrap ratio-16-9"  data-width="4331" data-height="2883" data-scale-after="crop" data-ratio="16-9" data-src="https://www.dr.dk/images/other/2018/03/22/scanpix-20170228-110832-l.jpg" >
+  
+  <noscript>
+    <img  width="4331" height="2883" role="presentation" aria-hidden="true" src="https://www.dr.dk/images/other/2018/03/22/scanpix-20170228-110832-l.jpg" alt="scanpix-20170228-110832-l.jpg" title="scanpix-20170228-110832-l.jpg" />
+  </noscript>
+  
+  </div>
+</a>
+
+          </div>
+          <div class="col-sm-8">
+          <a href="/nyheder/politik/politiske-analyser/analyse-kattegatbroen-et-politisk-kinderaeg" class="heading-xsmall">Analyse: Kattegatbroen - et politisk kinderæg</a>          <span class="metainfo">
+            <time datetime="2018-03-22T19:08:00+00:00">
+              22. mar. 2018 kl. 20.08            </time>
+          </span>
+          </div>
+        </div>
+      </div>
+          <div class="slide">
+        <div class="row">
+          <div class="col-sm-4">
+          
+<a href="https://www.dr.dk/nyheder/udland/test-dig-selv-hvad-ved-du-om-den-fede-verden">
+<div  role="presentation" aria-hidden="true" href="https://www.dr.dk/nyheder/udland/test-dig-selv-hvad-ved-du-om-den-fede-verden" class="image-wrap ratio-16-9"  data-width="3500" data-height="2333" data-scale-after="crop" data-ratio="16-9" data-src="https://www.dr.dk/images/crop/2018/03/22/1521735232_scanpix-20120228-234044-6.jpg" >
+  
+  <noscript>
+    <img  width="3500" height="2333" role="presentation" aria-hidden="true" src="https://www.dr.dk/images/crop/2018/03/22/1521735232_scanpix-20120228-234044-6.jpg" alt="scanpix-20120228-234044-6.jpg" title="scanpix-20120228-234044-6.jpg" />
+  </noscript>
+  
+  </div>
+</a>
+
+          </div>
+          <div class="col-sm-8">
+          <a href="/nyheder/udland/test-dig-selv-hvad-ved-du-om-den-fede-verden" class="heading-xsmall">Test dig selv: Hvad ved du om den fede verden?</a>          <span class="metainfo">
+            <time datetime="2018-03-22T20:14:00+00:00">
+              22. mar. 2018 kl. 21.14            </time>
+          </span>
+          </div>
+        </div>
+      </div>
+          <div class="slide">
+        <div class="row">
+          <div class="col-sm-4">
+          
+<a href="https://www.dr.dk/nyheder/udland/stort-fald-pa-usa-bors-efter-trump-indforer-told">
+<div  role="presentation" aria-hidden="true" href="https://www.dr.dk/nyheder/udland/stort-fald-pa-usa-bors-efter-trump-indforer-told" class="image-wrap ratio-16-9"  data-width="3000" data-height="1997" data-scale-after="crop" data-ratio="16-9" data-src="https://www.dr.dk/images/other/2018/03/22/scanpix-20171013-223914-3.jpg" >
+  
+  <noscript>
+    <img  width="3000" height="1997" role="presentation" aria-hidden="true" src="https://www.dr.dk/images/other/2018/03/22/scanpix-20171013-223914-3.jpg" alt="scanpix-20171013-223914-3.jpg" title="scanpix-20171013-223914-3.jpg" />
+  </noscript>
+  
+  </div>
+</a>
+
+          </div>
+          <div class="col-sm-8">
+          <a href="/nyheder/udland/stort-fald-pa-usa-bors-efter-trump-indforer-told" class="heading-xsmall">Stort fald på USA-børs efter Trump indfører told</a>          <span class="metainfo">
+            <time datetime="2018-03-22T21:06:00+00:00">
+              22. mar. 2018 kl. 22.06            </time>
+          </span>
+          </div>
+        </div>
+      </div>
+          <div class="slide">
+        <div class="row">
+          <div class="col-sm-4">
+          
+<a href="https://www.dr.dk/nyheder/indland/billeder-kronprinsesse-mary-indviede-besoegscenter-paa-hammershus">
+<div  role="presentation" aria-hidden="true" href="https://www.dr.dk/nyheder/indland/billeder-kronprinsesse-mary-indviede-besoegscenter-paa-hammershus" class="image-wrap ratio-16-9"  data-width="1000" data-height="667" data-scale-after="crop" data-ratio="16-9" data-src="https://www.dr.dk/images/crop/2018/03/22/1521749049_20180322-161255-l-1000x666we.jpg" >
+  
+  <noscript>
+    <img  width="1000" height="667" role="presentation" aria-hidden="true" src="https://www.dr.dk/images/crop/2018/03/22/1521749049_20180322-161255-l-1000x666we.jpg" alt="20180322-161255-l-1000x666we.jpg" title="20180322-161255-l-1000x666we.jpg" />
+  </noscript>
+  
+  </div>
+</a>
+
+          </div>
+          <div class="col-sm-8">
+          <a href="/nyheder/indland/billeder-kronprinsesse-mary-indviede-besoegscenter-paa-hammershus" class="heading-xsmall">BILLEDER Kronprinsesse Mary indviede besøgscenter på Hammershus </a>          <span class="metainfo">
+            <time datetime="2018-03-22T20:58:00+00:00">
+              22. mar. 2018 kl. 21.58            </time>
+          </span>
+          </div>
+        </div>
+      </div>
+          <div class="slide">
+        <div class="row">
+          <div class="col-sm-4">
+          
+<a href="https://www.dr.dk/nyheder/politik/bro-over-kattegat-saa-meget-kan-du-spare-i-kroner-og-minutter">
+<div  role="presentation" aria-hidden="true" href="https://www.dr.dk/nyheder/politik/bro-over-kattegat-saa-meget-kan-du-spare-i-kroner-og-minutter" class="image-wrap ratio-16-9"  data-width="1920" data-height="1080" data-scale-after="crop" data-ratio="16-9" data-src="https://www.dr.dk/images/other/2018/03/22/bro-spare-penge.png" >
+  
+  <noscript>
+    <img  width="1920" height="1080" role="presentation" aria-hidden="true" src="https://www.dr.dk/images/other/2018/03/22/bro-spare-penge.png" alt="bro-spare-penge.png" title="bro-spare-penge.png" />
+  </noscript>
+  
+  </div>
+</a>
+
+          </div>
+          <div class="col-sm-8">
+          <a href="/nyheder/politik/bro-over-kattegat-saa-meget-kan-du-spare-i-kroner-og-minutter" class="heading-xsmall">Bro over Kattegat: Så meget kan du spare i kroner og minutter </a>          <span class="metainfo">
+            <time datetime="2018-03-22T19:07:00+00:00">
+              22. mar. 2018 kl. 20.07            </time>
+          </span>
+          </div>
+        </div>
+      </div>
+          <div class="slide">
+        <div class="row">
+          <div class="col-sm-4">
+          
+<a href="https://www.dr.dk/nyheder/indland/tre-ting-der-kom-frem-paa-tredjedagen-i-ubaadssagen">
+<div  role="presentation" aria-hidden="true" href="https://www.dr.dk/nyheder/indland/tre-ting-der-kom-frem-paa-tredjedagen-i-ubaadssagen" class="image-wrap ratio-16-9"  data-width="6000" data-height="4000" data-scale-after="crop" data-ratio="16-9" data-src="https://www.dr.dk/images/crop/2018/03/22/1521739082_scanpix-20180322-102315-l.jpg" >
+  
+  <noscript>
+    <img  width="6000" height="4000" role="presentation" aria-hidden="true" src="https://www.dr.dk/images/crop/2018/03/22/1521739082_scanpix-20180322-102315-l.jpg" alt="scanpix-20180322-102315-l.jpg" title="scanpix-20180322-102315-l.jpg" />
+  </noscript>
+  
+  </div>
+</a>
+
+          </div>
+          <div class="col-sm-8">
+          <a href="/nyheder/indland/tre-ting-der-kom-frem-paa-tredjedagen-i-ubaadssagen" class="heading-xsmall">Tre ting, der kom frem på tredjedagen i ubådssagen</a>          <span class="metainfo">
+            <time datetime="2018-03-22T17:18:00+00:00">
+              22. mar. 2018 kl. 18.18            </time>
+          </span>
+          </div>
+        </div>
+      </div>
+      </div>
+</div>
+
+
+    <div class="row">
+    <div class="col-sm-offset-1 col-sm-10 col-xs-12">
+      <div class="dr-page-article node node-article node-promoted" role="main"  itemscope="" itemtype="http://schema.org/Article">
+                  <!--googleon: index-->
+          
+
+  
+    <div class="row">
+      <div class="col-xs-12 col-lg-offset-1 col-lg-10">
+        <div class="narrow-top">
+          <a class="section-label" href=/nyheder/penge>Penge</a>
+          <h1 id="access-content">Regeringen og DF enige: Hegn langs grænsen skal beskytte danske svin</h1>
+
+          <p class="summary">Et halvanden meter højt hegn langs grænsen skal beskytte svineeksporten mod afrikansk svinepest.</p>
+
+          
+          
+
+                  </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-xs-12 col-lg-offset-1 col-lg-10">
+                          <div class="dr-widget-video-player" data-resource="//www.dr.dk/mu/programcard/expanded/zoom-vildsvin-drdk-cahc" data-autoplay="false" ></div>    <figure>
+    <figcaption> </figcaption>
+  </figure>
+              </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12 col-lg-offset-1 col-lg-10">
+        <div class="wcms-article-content" itemprop="articleBody">
+          <div class="about-section">
+            <div class="row">
+              <div class="col-xs-12 col-sm-6 col-md-7">
+                <div class="article-author">
+<p>
+<strong>Af</strong> <span class="author-name"><a href="mailto:olba@dr.dk" itemprop="author">Oliver Batchelor</a></span></p>
+</div>
+                <span class="metainfo date-published" itemprop="datePublished">
+                        <time datetime="2018-03-22T08:12:00+01:00">
+      22. mar. 2018 kl. 08.12    </time>
+                          <time datetime="2018-03-22T11:03:27+01:00">
+      opdateret 22. mar. 2018 kl. 11.03    </time>
+                  </span>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-5">
+                <menu class="dr-site-share-horizontal-top" role="presentation" aria-hidden="true" hidden-xs">
+                <menu class="share">
+                  <li><a target="_blank" rel="nofollow" href="//www.dr.dk/tjenester/share/Email" class="dr-icon-mail">Mail</a></li>
+                  <li><a target="_blank" rel="nofollow" href="//www.dr.dk/tjenester/share/Twitter" class="dr-icon-twitter-boxed">Twitter</a></li>
+                  <li><a target="_blank" rel="nofollow" href="//www.dr.dk/tjenester/share/Facebook" class="dr-icon-facebook-boxed">Facebook</a></li>
+                </menu>
+                </menu>
+              </div>
+            </div>
+          </div>
+                    <p>Den afrikanske svinepest skal holdes ude af Danmark med et halvanden meter højt og 70 kilometer langt hegn langs den dansk-tyske grænse.</p>
+
+<div class="dr-site-factbox seesaw item boxed-image col-xs-12 col-sm-5 col-md-5 col-lg-5">
+            <b class="heading-small">
+                  Aftalen mellem regeringen og DF indeholder:              </b>
+      
+    <p>Indsats vedrørende udryddelse af vildsvin i den danske natur.</p>
+
+<p>Etablering af vildtsvinehegn ved den dansk-tyske grænse.</p>
+
+<p>Ændring af vildtskadebekendtgørelsen i forhold til øget regulering af vildsvin.</p>
+
+<p>Øget overvågning i vildsvinepopulationen og gratis undersøgelser af nedskudte vildsvin i Danmark for husdyrsygdomme.</p>
+
+<p>Intensiveret indsats i Sønderjylland på statens arealer og på private arealer.</p>
+
+<p>Faglig opgradering af schweiss-registret.</p>
+
+<p>Styrket samarbejde med Danmarks Jægerforbund.</p>
+
+<p>Jagtlejekontrakter.</p>
+
+<p><em>Kilde: Miljø- og Fødevareministeriet</em></p></div>
+
+
+<p>Sådan lyder et af de initiativer, som Regeringen og Dansk Folkeparti er blevet enige om for at beskytte den danske milliardeksport af svin.</p>
+
+<p>- Jeg vil ikke løbe nogen risiko. Det er en milliardeksport på 11 milliarder kroner årligt, som vi risikerer at sætte over styr. Ved udbrud af afrikansk svinepest i Danmark vil al eksport til tredjelande øjeblikkeligt lukke, udtaler miljø- og fødevareminister Esben Lunde Larsen (V) i en pressemeddelelse.</p>
+
+<p class="linkbox"><span>Læs også: </span><a href="/nyheder/politik/vildsvin-ma-nu-skydes-dognet-rundt-holde-svinepest-vaek">Vildsvin må nu skydes døgnet rundt for at holde svinepest væk</a></p>
+
+<p>Hegnet skal både holde eventuelle inficerede vildsvin fra at løbe over grænsen og gøre indsatsen med at få udryddet vildsvinene i Danmark lettere for jægere, tilføjer ministeren.</p>
+
+<h3>Hegn langs dansk-tysk grænse kræver ny lov</h3>
+
+<p>Det kræver en ny lov at etablere et hegn på knap 70 kilometer langs den dansk-tyske grænse, som skal være med til at understøtte udryddelsen af vildsvin.</p>
+
+<p class="linkbox"><span>Læs også: </span><a href="/nyheder/regionale/syd/svinepest-eksploderer-i-oesteuropa-lastbilchauffoerer-kan-tage-smitten-med-til">Svinepest eksploderer i Østeuropa: Lastbilchauffører kan tage smitten med til Danmark</a></p>
+
+<p>Hegnet etableres på land. Det forventes, at hegnet bliver 1,5 meter højt, mens det graves omtrent 50 centimeter ned i jorden.</p>
+
+<p>Der opsættes samtidig færiste eller låger ved gangstierne, der krydser den dansk-tyske grænse - og vejtrafik over grænsen kan fortsat ske uhindret i overensstemmelse med Schengenreglerne.</p>
+
+<p>Dansk Folkeparti er klar til at stemme for de ændringer, som der er nødvendige, siger landbrugs- og fødevareordfører Lise Bech (DF).</p>
+
+<p>- Det er vigtigt, at vi gør, hvad vi kan for at forebygge afrikansk svinepest på dansk jord og udvise rettidig handlekraft. Derfor har jeg længe presset på for at få opsat et vildsvinehegn, så vi mindsker risikoen for at bringe afrikansk svinepest til Danmark.</p>
+
+<h3>Europæiske lande vil forebygge svinepest med hegn</h3>
+
+<p>Også andre europæiske lande ser på muligheden for at opsætte hegn for at forebygge eller forhindre spredning af afrikansk svinepest.</p>
+
+<div class="dr-site-factbox seesaw oddseesaw item boxed-image col-xs-12 col-sm-5 col-md-5 col-lg-5">
+            <b class="heading-small">
+                  Lodsejere og borgere skal orienteres              </b>
+      
+    <p>Alle lodsejere, som har jord på arealet, hvor hegnet skal opsættes, vil blive kontaktet af Landbrugsstyrelsen om den videre proces.</p>
+
+<p>Desuden afholder miljø- og fødevareministeren borgermøde i Sønderjylland den 3. april 2018 om opsætningen af vildsvinehegnet og afrikansk svinepest.</p>
+
+<p>Derudover afholder Naturstyrelsen, Landbrugsstyrelsen og Fødevarestyrelsen to informationsmøder i Sønderjylland.</p>
+
+<p><em>Kilde: Miljø- og Fødevareministeriet.</em></p></div>
+
+
+<p>Polens regering forventes i næste uge at tage stilling til et vildthegn langs landets østlige grænse.</p>
+
+<p>I Tjekkiet har man allerede opsat et vildthegn, der isolerer vildsvin med afrikansk svinepest i et bestemt område.</p>
+
+<p>Det sker efter at antallet af vildsvin, der er smittet med afrikansk svinepest i Østeuropa på blot tre år er mere end 12-doblet. Det viser tal fra Fødevarestyrelsen.</p>
+
+<p class="linkbox"><span>Læs også: </span><a href="/nyheder/udland/eu-vil-have-milliardstraf-mod-rusland-i-svinestrid">EU vil have milliardstraf mod Rusland i svinestrid</a></p>
+
+<p>Sidste år var der 3.400 udbrud af afrikansk svinepest i Østeuropa - det tilsvarende tal for tamsvin var 122.</p>
+
+<h3>Danske jægere må skyde vildsvin døgnet rundt</h3>
+
+<p>Herhjemme har jægere allerede fået tilladelse til at skyde de nataktive vildsvin døgnet rundt i den danske natur.</p>
+
+<p>På statens arealer i Sønderjylland vil der samtidig ske en intensiveret indsats for at nedskyde og fange vildsvin i fælder, oplyser Miljø- og Fødevareministeriet nu.</p>
+
+<p>- Vi skal gøre, hvad vi kan for at give jægerne et godt udgangspunkt for at udrydde vildsvinene og dermed forebygge afrikansk svinepest, siger fødevare- og landbrugsordfører Carsten Bach (LA).</p>
+
+<p>Flere informationskampagne rettet mod svineproducenter, hobbylandmænd og kælegrisejere om risici ved afrikansk svinepest, skal desuden være med til at holde svinepesten fra landets grænser.</p>
+
+<h3>Lastbilchauffører kan bringe smitte med til Danmark</h3>
+
+<p>En kampagne er allerede iværksat for at kontrollere, at lastbilchauffører overholder reglerne om at rengøre og desinficere lastbilerne efter transport af klovbærende dyr.</p>
+
+<p>Det oplyser Miljø- og Fødevareministeriet.</p>
+
+<p>Og tidligere på måneden fortalte Landbrug &amp; Fødevarer, at interesseorganisationen vil lancere en kampagne på Facebook.</p>
+
+<p class="linkbox"><span>Læs også: </span><a href="/nyheder/penge/frygt-svinepest-lastbiler-fra-polen-og-litauen-skal-vaskes">Frygt for svinepest: Lastbiler fra Polen og Litauen skal vaskes</a></p>
+
+<p>Her får lastbilchaufførerne konkrete råd til, hvordan de kan undgå at tage svinepesten med til Danmark.</p>
+
+<p>- Det handler om at vaske og desinficere sin bil, når man kører over grænsen. At man overholder karantæneregler, ikke smider madaffald i naturen og ikke tager madvarer med ud til svinebesætninger, sagde Julia Vollertsen fra Landbrug &amp; Fødevarer til DR Nyheder.</p>
+
+<p>Eksporten til andre EU-lande vil ikke blive berørt at et udbrud af afrikansk svinepest med undtagelse af det ramte område i Danmark. I alt er den danske svineeksport på 30 milliarder kroner årligt.</p>
+          <menu class="dr-site-share-horizontal" role="presentation" aria-hidden="true">
+            <menu class="share">
+              <li><a target="_blank" rel="nofollow" href="//www.dr.dk/tjenester/share/Email" class="dr-icon-mail">Mail</a></li>
+              <li><a target="_blank" rel="nofollow" href="//www.dr.dk/tjenester/share/Twitter" class="dr-icon-twitter-boxed">Twitter</a></li>
+              <li><a target="_blank" rel="nofollow" href="//www.dr.dk/tjenester/share/Facebook" class="dr-icon-facebook-boxed">Facebook</a></li>
+            </menu>
+          </menu>
+
+        </div><!-- end.wcms-article-content -->
+      </div>
+    </div>
+    
+          <!--googleoff: index-->
+              </div>
+    </div>
+  </div><!-- end.dr-page-article -->
+
+      
+      
+      <link rel="stylesheet" href="//www.dr.dk/hydra/assets/MoreNewsPartial.ae73f2c725e878c899243ed1d56a1282.css"/>
+      <div class="hydra-root" data-hydra-name="MoreNewsPartial"><div class="hydra-more-news-partial" data-reactroot=""></div></div>
+      <script>
+        /*<!--*/
+        window.HYDRA_PROPS = window.HYDRA_PROPS || {};
+        window.HYDRA_PROPS['MoreNewsPartial'] = {"site":{"type":"Site","id":"347d3021-a697-46f5-a9e4-e35b33ac830d","urn":"urn:dr:drupal:site:347d3021-a697-46f5-a9e4-e35b33ac830d","title":"Penge","url":"/nyheder/penge","navigation":[],"colors":{"primary":{"id":"#0861CE","interaction":"#CC380D","accent":"#0861CE"},"secondary":{"id":"#0861CE","interaction":"#CC380D","accent":"#0861CE"}},"parentSite":{"type":"Site","id":"cb361b66-3a32-4cea-ae23-3c1eba2db3fd","urn":"urn:dr:drupal:site:cb361b66-3a32-4cea-ae23-3c1eba2db3fd","title":"Nyheder","url":"/nyheder","navigation":[],"colors":{"primary":{"id":"#0861CE","interaction":"#CC380D","accent":"#0861CE"},"secondary":{"id":"#0861CE","interaction":"#CC380D","accent":"#0861CE"}}}}};
+        /*-->*/
+      </script>
+      <script src="//www.dr.dk/hydra/assets/common.0ca6103ebff2c3f7638e.js"></script>
+      <script src="//www.dr.dk/hydra/assets/MoreNewsPartial.7e287744502b827fb53b.js"></script>
+    
+      
+      
+      <link rel="stylesheet" href="//www.dr.dk/hydra/assets/NewsOverviewPartial.9c13019a14b33916c75d1e0b5242fc3c.css"/>
+      <div class="hydra-root" data-hydra-name="NewsOverviewPartial"><div class="hydra-news-overview-partial" data-reactroot=""></div></div>
+      <script>
+        /*<!--*/
+        window.HYDRA_PROPS = window.HYDRA_PROPS || {};
+        window.HYDRA_PROPS['NewsOverviewPartial'] = {};
+        /*-->*/
+      </script>
+      <script src="//www.dr.dk/hydra/assets/common.0ca6103ebff2c3f7638e.js"></script>
+      <script src="//www.dr.dk/hydra/assets/NewsOverviewPartial.d1219a6539c00318427e.js"></script>
+          </div><!-- end.site-content -->
+</div><!-- end.site-wrapper -->
+
+
+    <!-- Drupal scripts start -->
+    <script type="text/javascript" src="/assets/js/007/global.js" async="async"></script>
+    <!-- Drupal scripts end -->
+    <noscript><img src="//ssl-dr.tns-gallup.dk/j0=,,,;+,cp=website/dr.dk/noscript/ +url=//www.dr.dk;;;" alt=""/></noscript><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"0a9a78a253","applicationID":"5966100","transactionName":"NFRaZBNUDBVTAkVbDA0ee0USQQ0LHRFQXAYPQhdRE0ELBV4E","queueTime":21,"applicationTime":767,"atts":"GBNNEltOH0oQABMIGB5M","errorBeacon":"bam.nr-data.net","agent":""}</script><script type="text/javascript" src="/sites/all/themes/custom/dr_phoenix/assets/build/scripts/main.js?v=1521541298"></script>
+<script type="text/javascript" src="/sites/all/themes/custom/dr_phoenix/assets/build/sites/nyheder/scripts/javascript/script.js?v=1519336879"></script>
+  </body>
+</html>

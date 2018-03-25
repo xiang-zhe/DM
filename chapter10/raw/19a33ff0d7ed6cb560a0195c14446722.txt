@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+    
+    <title>Kaspersky&#039;s &#039;Slingshot&#039; report burned an ISIS-focused intelligence operation - CyberScoop</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v4.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="CyberScoop has learned that Kaspersky&#039;s &#039;Slingshot&#039; is an active, U.S.-led counterterrorism cyber-espionage operation used to target ISIS and Al-Qaeda."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="https://www.cyberscoop.com/kaspersky-slingshot-isis-operation-socom-five-eyes/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Kaspersky&#039;s &#039;Slingshot&#039; report burned an ISIS-focused intelligence operation - CyberScoop" />
+<meta property="og:description" content="CyberScoop has learned that Kaspersky&#039;s &#039;Slingshot&#039; is an active, U.S.-led counterterrorism cyber-espionage operation used to target ISIS and Al-Qaeda." />
+<meta property="og:url" content="https://www.cyberscoop.com/kaspersky-slingshot-isis-operation-socom-five-eyes/" />
+<meta property="og:site_name" content="Cyberscoop" />
+<meta property="article:tag" content="Al-Qaeda" />
+<meta property="article:tag" content="al-Qaida" />
+<meta property="article:tag" content="CIA" />
+<meta property="article:tag" content="CNOS" />
+<meta property="article:tag" content="DHS" />
+<meta property="article:tag" content="Equation Group" />
+<meta property="article:tag" content="ISIS" />
+<meta property="article:tag" content="JSOC" />
+<meta property="article:tag" content="Kaspersky" />
+<meta property="article:tag" content="NSA" />
+<meta property="article:tag" content="slingshot" />
+<meta property="article:tag" content="SOCOM" />
+<meta property="article:tag" content="U.S. Special Operations Command" />
+<meta property="article:section" content="Government" />
+<meta property="article:published_time" content="2018-03-20T16:47:36-04:00" />
+<meta property="article:modified_time" content="2018-03-20T21:55:03-04:00" />
+<meta property="og:updated_time" content="2018-03-20T21:55:03-04:00" />
+<meta property="og:image" content="https://s3-us-west-2.amazonaws.com/cyberscoop-media/wp-content/uploads/2018/03/16142727/GettyImages-871894194.jpg" />
+<meta property="og:image:width" content="2121" />
+<meta property="og:image:height" content="1414" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="CyberScoop has learned that Kaspersky&#039;s &#039;Slingshot&#039; is an active, U.S.-led counterterrorism cyber-espionage operation used to target ISIS and Al-Qaeda." />
+<meta name="twitter:title" content="Kaspersky&#039;s &#039;Slingshot&#039; report burned an ISIS-focused intelligence operation - CyberScoop" />
+<meta name="twitter:image" content="https://s3-us-west-2.amazonaws.com/cyberscoop-media/wp-content/uploads/2018/03/16142727/GettyImages-871894194.jpg" />
+<meta name="twitter:creator" content="@Bing_Chris" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//cdn.taboola.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Cyberscoop &raquo; Feed" href="https://www.cyberscoop.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Cyberscoop &raquo; Comments Feed" href="https://www.cyberscoop.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Cyberscoop &raquo; Kaspersky&#039;s &#039;Slingshot&#039; report burned an ISIS-focused intelligence operation Comments Feed" href="https://www.cyberscoop.com/kaspersky-slingshot-isis-operation-socom-five-eyes/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.cyberscoop.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='font-style-css'  href='https://www.cyberscoop.com/wp-content/themes/cyberscoop/style.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='font-google1-css'  href='https://fonts.googleapis.com/css?family=Fira+Sans%3A300%2C400%2C500%2C700&#038;subset=latin-ext&#038;ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='font-google2-css'  href='https://fonts.googleapis.com/css?family=Oswald%3A300%2C400%2C700&#038;subset=latin-ext&#038;ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='A2A_SHARE_SAVE-css'  href='https://www.cyberscoop.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.13' type='text/css' media='all' />
+<style id='A2A_SHARE_SAVE-inline-css' type='text/css'>
+.addtoany_share_save_container{display: none;}
+.a2a_button_twitter img{width: 24px!important; height: 20px!important; margin: 0 10px 0 0!important}
+.a2a_button_facebook img{width: 24px!important; height: 24px!important; margin: 0 10px 0 0!important}
+.a2a_button_linkedin img{width: 24px!important; height: 22px!important; margin: 0 10px 0 0!important}
+.a2a_button_reddit img{width: 24px; height: 22px!important; margin: 0 10px 0 0!important}
+</style>
+<script type='text/javascript' src='https://www.cyberscoop.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.cyberscoop.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.cyberscoop.com/wp-content/themes/cyberscoop/js/blinkTitle.js?ver=4.7.2'></script>
+<script type='text/javascript' src='https://www.cyberscoop.com/wp-content/themes/cyberscoop/js/singlescroll.js?ver=4.7.2'></script>
+<script type='text/javascript' src='https://www.cyberscoop.com/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.0'></script>
+<script type='text/javascript' src='//cdn.taboola.com/libtrc/fedscoop-sc/tfa.js?ver=4.7.2'></script>
+<script type='text/javascript' src='https://www.cyberscoop.com/wp-content/themes/cyberscoop/js/init-taboola.js?ver=4.7.2'></script>
+<script type='text/javascript' src='https://www.cyberscoop.com/wp-content/themes/cyberscoop/js/app.js?ver=4.7.2'></script>
+<script type='text/javascript' src='https://www.cyberscoop.com/wp-content/themes/cyberscoop/js/menu.js?ver=4.7.2'></script>
+<link rel='https://api.w.org/' href='https://www.cyberscoop.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.cyberscoop.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.cyberscoop.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.2" />
+<link rel='shortlink' href='https://www.cyberscoop.com/?p=23571' />
+<link rel="alternate" type="application/json+oembed" href="https://www.cyberscoop.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cyberscoop.com%2Fkaspersky-slingshot-isis-operation-socom-five-eyes%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.cyberscoop.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cyberscoop.com%2Fkaspersky-slingshot-isis-operation-socom-five-eyes%2F&#038;format=xml" />
+
+<script type="text/javascript">
+var a2a_config=a2a_config||{};a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.templates=a2a_config.templates||{};
+</script>
+<script type="text/javascript" src="https://static.addtoany.com/menu/page.js" async="async"></script>
+<link rel="icon" type="image/png" href="https://s3-us-west-2.amazonaws.com/cyberscoop-media/wp-content/uploads/2016/10/11212052/cs-faviconsmall.png"/>
+<script src="https://www.cyberscoop.com/wp-content/themes/cyberscoop/js/ads.js"></script>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '896395920528126'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+ <img height="1" width="1" 
+src="https://www.facebook.com/tr?id=896395920528126&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+</head>
+<body class="post-template-default single single-post postid-23571 single-format-standard">
+<header class="header">
+    <div class="header__head">
+        <div class="header__links">
+            <a href="#subscribe" id="subscribe" class="header__link">Subscribe</a>
+            <a href="/contact" class="header__link show-s">About</a>
+            <a href="/feed" class="header__link show-s">RSS</a>
+        </div>
+        <a href="/" class="header__logo logo"></a>
+        <div class="header__right"><a href="http://scoopnewsgroup.com/" target="_blank" class="header__link show-s"><span class="show-m">Brought to you by</span><i></i></a>
+            <div id="search" class="header__control"><i class="header__control-icon header__control-icon--search"></i>
+            </div>
+            <div id="menu" class="header__control hide-s"><i class="header__control-icon header__control-icon--menu"></i></div>
+        </div>
+    </div>
+    <nav class="header__nav nav">
+        <ul role="navigation" class="nav__list">
+            <li class="nav__item"><a href="/news/government/" class="nav__link nav__link--government">Government</a></li>
+            <li class="nav__item"><a href="/news/transportation/" class="nav__link nav__link--transportation">Transportation</a></li>
+            <li class="nav__item"><a href="/news/healthcare/" class="nav__link nav__link--healthcare">Healthcare</a></li>
+            <li class="nav__item"><a href="/news/technology/" class="nav__link nav__link--technology">Technology</a></li>
+            <li class="nav__item"><a href="/news/financial/" class="nav__link nav__link--financial">Financial</a></li>
+            <li class="nav__item"><a href="/watch/" class="nav__link nav__link--watch">Watch</a></li>
+            <li class="nav__item"><a href="/listen/" class="nav__link nav__link--listen">Listen</a></li>
+            <li class="nav__item"><a href="/attend/" class="nav__link nav__link--attend">Attend</a></li>
+            <li class="nav__item"><a href="/community/" class="nav__link nav__link--community">Community</a></li>
+        </ul>
+    </nav>
+</header>
+<div class="wrapper"><div class="articles-wrapper">
+        <article itemscope="" itemtype="http://schema.org/NewsArticle" class="article" url="/kaspersky-slingshot-isis-operation-socom-five-eyes/" title="Kaspersky's 'Slingshot' report burned an ISIS-focused intelligence operation">
+        <header class="article__header">
+<span class="article__category article__category--government" >government</span>
+            <h1 class="article__title">Kaspersky's 'Slingshot' report burned an ISIS-focused intelligence operation</h1>
+        </header>
+        <div class="article__media" >
+            <div style="background-image:url(https://s3-us-west-2.amazonaws.com/cyberscoop-media/wp-content/uploads/2018/03/16142727/GettyImages-871894194.jpg)" class="article__image"></div>
+        </div>
+        <div class="article__inner">
+            <div class="article__image-info"><span>(Getty)</span></div>
+            <div class="article__content">
+                <div class="article__content-side">
+                    <div class="side-block">
+                        <h3 class="side-block__title">Share</h3>
+                        <div class="share">
+                            <div class="addtoany_shortcode"><div class="a2a_kit a2a_kit_size_ addtoany_list" data-a2a-url="https://www.cyberscoop.com/kaspersky-slingshot-isis-operation-socom-five-eyes/" data-a2a-title="Kaspersky's 'Slingshot' report burned an ISIS-focused intelligence operation"><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.cyberscoop.com%2Fkaspersky-slingshot-isis-operation-socom-five-eyes%2F&amp;linkname=Kaspersky%27s%20%27Slingshot%27%20report%20burned%20an%20ISIS-focused%20intelligence%20operation" title="Twitter" rel="nofollow" target="_blank"><img src="/wp-content/themes/cyberscoop/images/icons/share-icon/twitter.svg" alt="Twitter"/></a><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.cyberscoop.com%2Fkaspersky-slingshot-isis-operation-socom-five-eyes%2F&amp;linkname=Kaspersky%27s%20%27Slingshot%27%20report%20burned%20an%20ISIS-focused%20intelligence%20operation" title="Facebook" rel="nofollow" target="_blank"><img src="/wp-content/themes/cyberscoop/images/icons/share-icon/facebook.svg" alt="Facebook"/></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fwww.cyberscoop.com%2Fkaspersky-slingshot-isis-operation-socom-five-eyes%2F&amp;linkname=Kaspersky%27s%20%27Slingshot%27%20report%20burned%20an%20ISIS-focused%20intelligence%20operation" title="LinkedIn" rel="nofollow" target="_blank"><img src="/wp-content/themes/cyberscoop/images/icons/share-icon/linkedin.svg" alt="LinkedIn"/></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fwww.cyberscoop.com%2Fkaspersky-slingshot-isis-operation-socom-five-eyes%2F&amp;linkname=Kaspersky%27s%20%27Slingshot%27%20report%20burned%20an%20ISIS-focused%20intelligence%20operation" title="Reddit" rel="nofollow" target="_blank"><img src="/wp-content/themes/cyberscoop/images/icons/share-icon/reddit.svg" alt="Reddit"/></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.cyberscoop.com%2Fkaspersky-slingshot-isis-operation-socom-five-eyes%2F&amp;linkname=Kaspersky%27s%20%27Slingshot%27%20report%20burned%20an%20ISIS-focused%20intelligence%20operation" title="Email" rel="nofollow" target="_blank"><img src="/wp-content/themes/cyberscoop/images/icons/share-icon/email.svg" alt="Email"/></a></div></div>                        </div>
+                    </div>
+
+                    <div class="side-block">
+                        <h3 class="side-block__title">Written by</h3>
+                                                  <!-- found bio :) -->
+                            <!-- <a href="/author/?user=ChrisBing" class="article__author">Chris Bing</a> -->
+                            <a href="javascript:void(0);" class="article__author">Chris Bing and Patrick Howell O'Neill</a>
+                                                                            <span class="article__meta"> Mar 20, 2018 | CyberScoop</span>
+                    </div>
+		    
+        <div class="side-block">
+			    <div class="side-block__ads">
+                    <iframe frameborder="0" scrolling="no" src="/advertising/?id=government_article&category=government" style="width: 100%; height: 250px;"></iframe>
+                </div>
+            </div>
+                </div>
+                <div class="article__content-text">
+                    <p>The U.S. government and Russian cybersecurity giant Kaspersky Lab are currently in the throes of a nasty legal fight that comes on top of a long-running feud over how the company has conducted itself with regard to U.S. intelligence-gathering operations.</p>
+<p>A recent Kaspersky discovery may keep the feud alive for years to come.</p>
+<p>CyberScoop has learned that Kaspersky research <a href="https://securelist.com/apt-slingshot/84312/">recently exposed</a> an active, U.S.-led counterterrorism cyber-espionage operation. According to current and former U.S. intelligence officials, the operation was used to target ISIS and al-Qaeda members.</p>
+<p>On March 9, Kaspersky publicly announced a malware campaign dubbed &#8220;<a href="https://www.cyberscoop.com/kaspersky-slingshot-malware-apt/">Slingshot</a>.&#8221; According to the company&#8217;s researchers, the campaign compromised thousands of devices through breached routers in various African and Middle Eastern countries, including Afghanistan, Iraq, Kenya, Sudan, Somalia, Turkey and Yemen.</p>
+<p>Kaspersky did not attribute Slingshot to any single country or government in its public report, describing it only as an advanced persistent threat (APT). But current and former U.S. intelligence officials tell CyberScoop that Slingshot represents a U.S. military program run out of Joint Special Operations Command (JSOC), a component of Special Operations Command (SOCOM).</p>
+<p>The complex campaign, which researchers say was active for at least six years, allowed for the spread of highly intrusive malware that could siphon large amounts of data from infected devices.</p>
+<p>Slingshot helped the military and intelligence community collect information about terrorists by infecting computers they commonly used, sources told CyberScoop. Often times, these targeted computers would be located within internet cafés in developing countries. ISIS and al-Qaeda targets would use internet cafés to send and receive messages, the sources said.</p>
+<p>These officials, all of whom spoke on condition of anonymity to discuss a classified program, fear the exposure may cause the U.S. to lose access to a valuable, long-running surveillance program and put soldiers&#8217; lives at risk.</p>
+<p>The disclosure comes at a difficult time for Kaspersky. The company is currently <a href="https://www.cyberscoop.com/kaspersky-lawsuit-ndaa-ban/">fighting the U.S. government in court</a> after the government claimed that the Moscow-based company&#8217;s software poses a national security risk due to the company&#8217;s Russian government ties. Kaspersky has consistently denied any wrongdoing.</p>
+<p>CyberScoop&#8217;s reporting of JSOC&#8217;s role in Slingshot provides the first known case of a SOCOM-led cyber-espionage operation. The command is better known for leading physical missions that place elite soldiers on the ground in hostile territories. Over the last decade, SOCOM has been instrumental in the Global War on Terror, having conducted many sensitive missions, including the one that killed former al-Qaeda leader Osama bin Laden.</p>
+<p>Slingshot, CyberScoop has learned, is a complement to JSOC&#8217;s physical missions.</p>
+<p>A former intelligence official told CyberScoop that Kaspersky&#8217;s findings had likely already caused the U.S. to abandon and &#8220;burn&#8221; some of the digital infrastructure that JSOC was using to manage the surveillance program.</p>
+<p>&#8220;SOP [standard operating procedure] is to kill it all with fire once you get caught,&#8221; said the former intelligence official. &#8220;It happens sometimes and we&#8217;re accustomed to dealing with it. But it still sucks &#8230; I can tell you this didn&#8217;t help anyone.&#8221;</p>
+<h3>SOCOM has hackers?</h3>
+<p>While not an intelligence agency by nature, SOCOM has dabbled in cyber-operations <span class="s1">— known inside the unit as </span>&#8220;<a href="https://en.wikipedia.org/wiki/Special_reconnaissance">special reconnaissance</a>&#8221; <span class="s1">— </span>for some time, according to multiple academics who have examined the use of offensive cyber tools within special operations units. Most of these operations would usually combine elements of human (HUMINT) and signals intelligence (SIGINT) in order to catch terrorists.</p>
+<p>As the Global War on Terror grew, most combatant commands took visible steps<span class="s1"> </span>and received considerable funding<span class="s1"> </span>to build out their own espionage capabilities. One of the military organizations which benefited most from this explosive growth in resources was SOCOM, a unit that many describe as the &#8220;tip of the spear&#8221; when it comes to military operations.</p>
+<p>&#8220;Many units within SOCOM possess independent cyber capabilities,&#8221; a senior U.S. intelligence official told CyberScoop.</p>
+<p>Throughout the past decade, SOCOM has used cyber operations in a very ad hoc manner. If cyberwarfare was used in an operation, SOCOM has either been given support from U.S. Cyber Command or reliant on smaller squadrons within various units.</p>
+<p>For instance, a group of hackers organized under the name &#8220;Computer Network Operations Squadron&#8221; (CNOS), were known to operate within JSOC command circa 2007. Though headquartered in Northern Virginia, CNOS helped coordinate missions where on-the-ground agents in the Middle East <span class="s1">— and sometimes undercover operatives </span><span class="s1">— would infiltrate internet cafés and local telecommunications firms. The squadron was first written about in &#8220;Relentless Strike: The Secret History of Joint Special Operations Command,&#8221; a <a href="https://www.amazon.com/dp/B00TDTR5ZW/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1">book</a> by journalist Sean Naylor. </span></p>
+<p>Naylor wrote that CNOS staff could be stationed around the world, including at Fort Meade in Maryland and CIA’s Langley, Virginia, headquarters. CNOS had close connections to CIA, blurring the already fuzzy line between U.S. intel and military organizations.</p>
+<p>In one case mentioned by Naylor&#8217;s book, CNOS infected a terrorist&#8217;s computer with &#8220;keystroke recognition [software], at other times it would covertly activate a webcam if the computer had one, allowing the task force to positively identify a target.&#8221;</p>
+<p>The Slingshot program found by Kaspersky had similar capabilities.</p>
+<p>SOCOM&#8217;s exclusive structure provides an easy way to leverage long-standing intelligence programs, since it is permitted to quickly organize and deploy forces globally wherever defined rules of engagement exist. Teams like CNOS, as described by Naylor, are usually able to work closely with intelligence agencies in foreign, undefined war-zones after receiving approval from the appropriate regional combatant commands and Pentagon.</p>
+<p>JSOC and CIA have a history of working together and when combined, meet a similar profile to how Slingshot would be utilized.</p>
+<p>&#8220;The military kept CNOS in JSOC &#8216;because we want it to operate in areas that are not necessarily &#8230; where we&#8217;re currently at war&#8217; &#8230; we want it to operate around the globe [pursuing] national objectives,&#8221; a passage in Naylor&#8217;s book, citing an unnamed military intelligence officer, reads. &#8220;[CNOS] was how the pesky networks were broken in Iraq.&#8221;</p>
+<h3>Slingshot&#8217;s ties to spies</h3>
+<p>One Kaspersky researcher involved with the Slingshot report said the malware campaign illustrated one of the most skilled and sophisticated hacking operations ever to be publicly documented. Its creators took numerous steps to hide their identity and purpose, making Slingshot extremely difficult to study, explained Kurt Baumgartner, a principal security researcher with Kaspersky.</p>
+<p>Baumgartner, a U.S. citizen, did not author the Slingshot report. Instead, a team of four researchers based overseas, largely in Russia, are credited with writing it.</p>
+<p>&#8220;It is one of the most technically sophisticated groups we&#8217;ve ever seen,&#8221; said Baumgartner. &#8220;Most of the code is entirely unique, meaning that no one has ever seen it before &#8230; the only overlap we&#8217;ve seen, and I think there are people already discussing it, is there&#8217;s some limited similarities maybe to Equation Grayfish and White Lambert.&#8221;</p>
+<p>&#8220;Grayfish&#8221; is a software implant associated with the &#8220;Equation Group,&#8221; an entity that is widely attributed to the National Security Agency. The &#8220;Lamberts,&#8221; another group identified and first catalogued by Kaspersky, has been separately linked to the CIA.</p>
+<p>Hacking tools tied to past Equation Group and Lambert-inspired operations were written in English, just like Slingshot. Akin to Grayfish and Lamberts, Slingshot used a distinct software driver abuse technique to install malicious code onto targeted systems. They are the only three documented APTs to use this exact same driver abuse method.</p>
+<p>Broadly speaking, Kaspersky&#8217;s ability to identify even the most advanced malware variants is well-documented; especially within the highly competitive cybersecurity community. Most of these cases are handled by Kaspersky&#8217;s heralded Global Research &amp; Analysis Team (GReAT) team. The Russian company is known for employing some of the best reverse malware engineers and analysts in the entire industry.</p>
+<p>It also has a vast business presence in the Middle East. Slingshot was discovered through the company&#8217;s work in that region.</p>
+<p>A source close to Kaspersky Lab told CyberScoop that while some researchers may have thought Slingshot was the work of a &#8220;Five Eyes&#8221; nation — a term used to describe an intelligence alliance between Australia, Canada, New Zealand, the United Kingdom and the U.S. — they couldn&#8217;t have known for sure. This source told CyberScoop that the Kaspersky researchers lacked context because there&#8217;s &#8220;only so much that can be gleaned from technical evidence.&#8221;</p>
+<p>Questions sent to the Russian company regarding if they knew about Slingshot&#8217;s U.S. military origin went unanswered.</p>
+<p>Even so, a cursory review provides some tips that Slingshot be linked to U.S. spies.</p>
+<p>The malware is comprised of individual modules, each carrying a different title, like &#8220;Gollum,&#8221; &#8220;Cahnadr&#8221; or &#8220;NeedleWatch,&#8221; according to Kaspersky.  <a href="https://search.edwardsnowden.com/docs/CNEPresenceinCT10StatusReport2015-01-17_nsadocs_snowden_doc">A leaked NSA memo released in 2015</a> describes Gollum as a &#8220;partner implant&#8221; used by another agency aside from NSA. The memo, circulated between Five Eyes nations, talks about the need to create an accessible data pipeline that pulls information from infected computers where an active implant is hidden.</p>
+<p>In addition to &#8220;Gollum,&#8221; the way Slingshot exploits routers made by Latvian company Mikrotik could perhaps be traced back to another spy agency: the CIA. Classified documents published by WikiLeaks as part of the so-called &#8220;Vault 7&#8221; dump show that the CIA has been interested in compromising Mikrotik equipment <a href="https://wikileaks.org/vault7/darkmatter/document/hive-UsersGuide/">since at least 2015</a>. Mikrotik products are popular in the Middle East and Southeast Asia.</p>
+<p>Spokespeople for the Office of the Director of National Intelligence, NSA and Special Operations Command (SOCOM) all declined to comment.</p>
+<h3>Adding fuel to the fire</h3>
+<p>CyberScoop spoke with several U.S. cybersecurity researchers who said they weren&#8217;t surprised or angered by the fact that Kaspersky had potentially publicized a U.S. cyber-espionage operation.</p>
+<p>These experts, who asked for anonymity because they feared blowback for speaking publicly, said that it&#8217;s only natural for Kaspersky to attempt to stop cyberattacks aimed at its clients. Others who spoke to CyberScoop, however, including current U.S. officials, said they were angry because publicly disclosing Slingshot may put lives in danger.</p>
+<p>Complicating the matter is the lawsuit Kaspersky has filed against the U.S. government. The 2018 National Defense Authorization Act banned the use of Kaspersky products across the federal government. Kaspersky charges <a href="https://www.cyberscoop.com/kaspersky-lawsuit-ndaa-ban/">that ban is unconstitutional</a>.</p>
+<p>The ban comes after numerous reports that the company&#8217;s anti-virus engine was leveraged by Russian spies to remotely pilfer secret U.S. documents on systems where the software was installed. In response, Kaspersky launched a transparency effort in October 2017, which it says proves its products are not malicious.</p>
+<p>At the moment, it&#8217;s not clear if the Russian company expected that its focus on Slingshot would eventually expose a sensitive U.S. counterterrorism initiative.</p>
+<p>A senior U.S. intelligence official claimed that it would be hard to believe that Kaspersky was totally unaware of what it was handling.</p>
+<p>&#8220;It&#8217;s clear by the way they wrote about this that they knew what it was being used for,&#8221; said the senior official. &#8220;GReAT is extremely adept at understanding the information needs of different actors out there on the internet. They take into considering the geopolitical circumstances, they&#8217;ve shown that time and time again. It would be a stretch for me to believe they didn&#8217;t know what they&#8217;re dealing with here.&#8221;</p>
+<p><em>Greg Otto contributed to this report. </em></p>
+                                        <div class="in-this-story">
+                        <h3> -In this Story- </h3>
+                        <a href='https://www.cyberscoop.com/tag/al-qaeda/' class='tag-link-3207 tag-link-position-1' title='' style='font-size: 16px;'>Al-Qaeda</a>, <a href='https://www.cyberscoop.com/tag/al-qaida/' class='tag-link-3209 tag-link-position-2' title='' style='font-size: 16px;'>al-Qaida</a>, <a href='https://www.cyberscoop.com/tag/cia/' class='tag-link-131 tag-link-position-3' title='' style='font-size: 16px;'>CIA</a>, <a href='https://www.cyberscoop.com/tag/cnos/' class='tag-link-3208 tag-link-position-4' title='' style='font-size: 16px;'>CNOS</a>, <a href='https://www.cyberscoop.com/tag/dhs/' class='tag-link-35 tag-link-position-5' title='' style='font-size: 16px;'>DHS</a>, <a href='https://www.cyberscoop.com/tag/equation-group/' class='tag-link-233 tag-link-position-6' title='' style='font-size: 16px;'>Equation Group</a>, <a href='https://www.cyberscoop.com/tag/isis/' class='tag-link-1532 tag-link-position-7' title='' style='font-size: 16px;'>ISIS</a>, <a href='https://www.cyberscoop.com/tag/jsoc/' class='tag-link-3204 tag-link-position-8' title='' style='font-size: 16px;'>JSOC</a>, <a href='https://www.cyberscoop.com/tag/kaspersky/' class='tag-link-950 tag-link-position-9' title='' style='font-size: 16px;'>Kaspersky</a>, <a href='https://www.cyberscoop.com/tag/nsa/' class='tag-link-47 tag-link-position-10' title='' style='font-size: 16px;'>NSA</a>, <a href='https://www.cyberscoop.com/tag/slingshot/' class='tag-link-3146 tag-link-position-11' title='' style='font-size: 16px;'>slingshot</a>, <a href='https://www.cyberscoop.com/tag/socom/' class='tag-link-3203 tag-link-position-12' title='' style='font-size: 16px;'>SOCOM</a>, <a href='https://www.cyberscoop.com/tag/u-s-special-operations-command/' class='tag-link-2128 tag-link-position-13' title='' style='font-size: 16px;'>U.S. Special Operations Command</a>                    </div>
+                    <!--                    <div class="article__ads" style="display: none;">-->
+<!--                        <iframe frameborder="0" scrolling="no" src="/advertising/?id=--><!--&category=--><!--" style="width: 100%; height: 250px"></iframe>-->
+<!--                    </div>-->
+                </div>
+            </div>
+        </div>
+    </article>
+        <!-- related news -->
+    <div class="related-news" >
+        <div class="container">
+            <div class="articles articles--noborder">
+                <h2 class="articles__title title">Related news</h2>
+                <div class="articles__list articles__list--home">
+                                            <div class="articles__item articles__item--third">
+                            <div class="article-thumb article-thumb--bordered">
+                                <div class="article-thumb__media"><a href="https://www.cyberscoop.com/nsa-bitcoin-oakstar-monkey-rocket/" style="background-image:url(https://s3-us-west-2.amazonaws.com/cyberscoop-media/wp-content/uploads/2017/09/18162052/bitcoin_sign.jpg)" class="article-thumb__image"></a></div>
+                                <div class="article-thumb__information">
+                                    <div class="article-thumb__category">
+                                        <a href="/news/government" class="article-thumb__category-link article-thumb__category-link--government">
+                                            Government</a>
+                                    </div>
+                                    <a href="https://www.cyberscoop.com/nsa-bitcoin-oakstar-monkey-rocket/" class="article-thumb__title">
+                                        <h3>NSA has been tracking...</h3></a>
+                                    <div class="article-thumb__meta"><span>by <strong>Mark Satter</strong> • 5 hours ago</span></div>
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="articles__item articles__item--third">
+                            <div class="article-thumb article-thumb--bordered">
+                                <div class="article-thumb__media"><a href="https://www.cyberscoop.com/senate-intelligence-committee-election-cybersecurity/" style="background-image:url(https://s3-us-west-2.amazonaws.com/cyberscoop-media/wp-content/uploads/2018/03/20122702/ssci.png)" class="article-thumb__image"></a></div>
+                                <div class="article-thumb__information">
+                                    <div class="article-thumb__category">
+                                        <a href="/news/government" class="article-thumb__category-link article-thumb__category-link--government">
+                                            Government</a>
+                                    </div>
+                                    <a href="https://www.cyberscoop.com/senate-intelligence-committee-election-cybersecurity/" class="article-thumb__title">
+                                        <h3>Senate Intelligence...</h3></a>
+                                    <div class="article-thumb__meta"><span>by <strong>Patrick Howell O'Neill</strong> • 9 hours ago</span></div>
+                                </div>
+                            </div>
+                        </div>
+                                            <div class="articles__item articles__item--third">
+                            <div class="article-thumb article-thumb--bordered">
+                                <div class="article-thumb__media"><a href="https://www.cyberscoop.com/dhs-cyber-incident-response-act-passes-house/" style="background-image:url(https://s3-us-west-2.amazonaws.com/cyberscoop-media/wp-content/uploads/2017/01/12124231/mccaul.jpg)" class="article-thumb__image"></a></div>
+                                <div class="article-thumb__information">
+                                    <div class="article-thumb__category">
+                                        <a href="/news/government" class="article-thumb__category-link article-thumb__category-link--government">
+                                            Government</a>
+                                    </div>
+                                    <a href="https://www.cyberscoop.com/dhs-cyber-incident-response-act-passes-house/" class="article-thumb__title">
+                                        <h3>DHS cyber incident...</h3></a>
+                                    <div class="article-thumb__meta"><span>by <strong>Zaid Shoorbajee</strong> • 12 hours ago</span></div>
+                                </div>
+                            </div>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+    <!-- view advertising cart bottom -->
+    <div class="container">
+        <div class="ads ads--full ads--single">
+	<iframe frameborder="0" scrolling="no" src="/advertising/?id=government_bottom&category=government" style="width: 100%; height: 250px;"></iframe>
+        </div>
+    </div>
+
+    <!-- get news -->
+            <script id="single_load">
+            var true_posts = 'a:66:{s:14:"posts_per_page";i:1;s:11:"post_status";s:7:"publish";s:7:"orderby";s:4:"date";s:5:"order";s:4:"DESC";s:13:"category_name";s:10:"government";s:12:"post__not_in";a:1:{i:0;i:23571;}s:5:"error";s:0:"";s:1:"m";s:0:"";s:1:"p";i:0;s:11:"post_parent";s:0:"";s:7:"subpost";s:0:"";s:10:"subpost_id";s:0:"";s:10:"attachment";s:0:"";s:13:"attachment_id";i:0;s:4:"name";s:0:"";s:6:"static";s:0:"";s:8:"pagename";s:0:"";s:7:"page_id";i:0;s:6:"second";s:0:"";s:6:"minute";s:0:"";s:4:"hour";s:0:"";s:3:"day";i:0;s:8:"monthnum";i:0;s:4:"year";i:0;s:1:"w";i:0;s:3:"tag";s:0:"";s:3:"cat";i:3;s:6:"tag_id";s:0:"";s:6:"author";s:0:"";s:11:"author_name";s:0:"";s:4:"feed";s:0:"";s:2:"tb";s:0:"";s:5:"paged";i:0;s:8:"meta_key";s:0:"";s:10:"meta_value";s:0:"";s:7:"preview";s:0:"";s:1:"s";s:0:"";s:8:"sentence";s:0:"";s:5:"title";s:0:"";s:6:"fields";s:0:"";s:10:"menu_order";s:0:"";s:5:"embed";s:0:"";s:12:"category__in";a:0:{}s:16:"category__not_in";a:0:{}s:13:"category__and";a:0:{}s:8:"post__in";a:0:{}s:13:"post_name__in";a:0:{}s:7:"tag__in";a:0:{}s:11:"tag__not_in";a:0:{}s:8:"tag__and";a:0:{}s:12:"tag_slug__in";a:0:{}s:13:"tag_slug__and";a:0:{}s:15:"post_parent__in";a:0:{}s:19:"post_parent__not_in";a:0:{}s:10:"author__in";a:0:{}s:14:"author__not_in";a:0:{}s:19:"ignore_sticky_posts";b:0;s:16:"suppress_filters";b:0;s:13:"cache_results";b:1;s:22:"update_post_term_cache";b:1;s:19:"lazy_load_term_meta";b:1;s:22:"update_post_meta_cache";b:1;s:9:"post_type";s:0:"";s:8:"nopaging";b:0;s:17:"comments_per_page";s:2:"50";s:13:"no_found_rows";b:0;}';
+            var current_page = 1;
+            var max_pages = '1287';
+            var featured_news = '23571';
+            var category_news = 'government';
+        </script>
+    </div>
+</div>
+<footer class="footer">
+    <div class="footer__nav">
+        <div class="container">
+            <div class="footer__nav-inner">
+                <ul class="footer-nav__list">
+                    <li class="footer-nav__item"><a href="/contact" class="footer-nav__link">About</a></li>
+                    <li class="footer-nav__item"><a href="mailto:sales@scoopnewsgroup.com" class="footer-nav__link">Sponsor</a></li>
+                    <li class="footer-nav__item"><a href="/feed" class="footer-nav__link">RSS</a></li>
+                </ul>
+                <ul class="footer-social__list">
+                    <li class="footer-social__item"><a href="https://www.facebook.com/cyberscoop" class="footer-social__link footer-social__link--facebook"></a></li>
+                    <li class="footer-social__item"><a href="https://twitter.com/cyberscoopnews" class="footer-social__link footer-social__link--twitter"></a></li>
+                    <li class="footer-social__item"><a href="https://www.linkedin.com/company/4847467" class="footer-social__link footer-social__link--linkedin"></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container footer__inner">
+        <div class="footer__bottom">
+            <div class="sng">
+                <a href="/" class="sng__link sng__link--cyberscoop"></a>
+                <a href="http://fedscoop.com" class="sng__link sng__link--fedscoop"></a>
+                <a href="http://scoopnewsgroup.com" class="sng__link sng__link--sng"></a>
+		<a href="http://edscoop.com" class="sng__link sng__link--edscoop"></a>
+                <a href="http://statescoop.com" class="sng__link sng__link--statescoop"></a>
+            </div>
+        </div>
+        <div class="footer__copyright">© 2018 Scoop News Group  |  All Rights Reserved</div>
+    </div>
+</footer>
+<div class="overlay-search">
+    <form role="search" class="overlay-search-form" method="get" id="searchform" action="https://www.cyberscoop.com/">
+    <div><label class="screen-reader-text" for="s">Search for:</label>
+        <input type="text" value="" name="s" id="s" placeholder="Type to search" class="overlay-search-input" />
+    </div>
+</form></div>
+<div data-remodal-id="subscribe" class="remodal">
+    <button data-remodal-action="close" class="remodal-close"></button>
+    <div class="remodal-content">
+        <div class="subscribe subscribe--modal">
+            <div class="subscribe__icon"></div>
+            <div class="subscribe__title">The best cybersecurity news, delivered straight to your inbox. Sign up for our daily newsletter.</div>
+            <!--[if lte IE 8]>
+            <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+            <![endif]-->
+            <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+            <script>
+                hbspt.forms.create({
+                    portalId: '2153467',
+                    formId: '8e5565e5-e1ef-4e2c-ae4b-b1866e4af88b'
+                });
+            </script>
+
+            <!--<form action="https://app.icontact.com/icp/signup.php" method="post" class="subscribe__form" name="icpsignup" id="icpsignup3614" accept-charset="UTF-8" onsubmit="return verifyRequired3614();">
+                <input type="email" name="fields_email" placeholder="Email Address" required class="subscribe__input">
+                <input type="hidden" name="redirect" value="http://www.icontact.com/www/signup/thanks.html">
+                <input type="hidden" name="errorredirect" value="http://www.icontact.com/www/signup/error.html">
+                <input type="hidden" name="listid" value="56694">
+                <input type="hidden" name="specialid:56694" value="SUK8">
+                <input type="hidden" name="clientid" value="668592">
+                <input type="hidden" name="formid" value="3614">
+                <input type="hidden" name="reallistid" value="1">
+                <input type="hidden" name="doubleopt" value="0">
+                <input type="submit" name="Submit" value="GO" class="subscribe__button" onclick="taboola();">
+            </form>-->
+
+        </div>
+    </div>
+</div>
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+<div id="welcomeadMask" style="position: fixed; top: 0px; left: 0px;width: 100%; height: 100%; background-color: rgba(0,0,0,0.9); z-index:20000;">
+
+	  <div id="div-gpt-ad-1488819192129-0" style="text-align: center; margin: 0 auto; margin-top: 100px; color: #ee2a7b;">
+		  	<a onclick="hideAd();" style="text-decoration: underline; color: #ee2a7b; cursor: pointer;">Continue to CyberScoop.com</a><br /><br />
+		  <script type='text/javascript'>
+				googletag.cmd.push(function() {
+  googletag.defineSlot('/18430785/CS_WelcomeAd_640x480', [640, 480], 'div-gpt-ad-1488819192129-0').addService(googletag.pubads());
+  googletag.enableServices();
+
+  googletag.display('div-gpt-ad-1488819192129-0');
+});
+</script>
+
+	  </div>
+</div>
+
+<script type='text/javascript' src='https://www.cyberscoop.com/wp-includes/js/wp-embed.min.js?ver=4.7.2'></script>
+<script type="text/javascript">
+_linkedin_data_partner_id = "121324";
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=121324&fmt=gif" />
+</noscript>
+</body>
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-80491860-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+<script type="text/javascript">
+var isMobile = {
+    Android: function() {
+        return navigator.userAgent.match(/Android/i);
+    },
+    BlackBerry: function() {
+        return navigator.userAgent.match(/BlackBerry/i);
+    },
+    iOS: function() {
+        return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+    },
+    Opera: function() {
+        return navigator.userAgent.match(/Opera Mini/i);
+    },
+    Windows: function() {
+        return navigator.userAgent.match(/IEMobile/i);
+    },
+    any: function() {
+        return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera());
+    }
+};
+function showAd(){
+	document.getElementById("welcomeadMask").style.display = 'inline-block';
+	if(checkCookie()==true){
+		setCookie("visitsb",2,1);
+	}else{
+		setCookie("visitsb",1,1);
+	}
+	setTimeout(function(){ hideAd(); }, 20000);
+}
+
+function hideAd(){
+	document.getElementById("welcomeadMask").style.display = 'none';
+	document.getElementById("google_ads_iframe_/18430785/CS_WelcomeAd_640x480_0__container__").style.display = 'none';
+}
+
+function setCookie(cname, cvalue, exdays) {
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays*24*60*60*1000));
+    var expires = "expires="+d.toUTCString();
+    document.cookie = cname + "=" + cvalue + "; " + expires;
+}
+
+function getCookie(cname) {
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0; i<ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1);
+        if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+    }
+    return "";
+}
+
+function checkCookie() {
+    var visits = getCookie("visitsb");
+    if (visits != "") {
+        return true;
+    } else {
+        return false;
+    }
+}
+console.log(getCookie("visitsb"));
+if(getCookie("visitsb") >= 2){
+	hideAd();
+}else if(isMobile.any()){
+	hideAd();
+}else{
+	showAd();
+}
+
+if( window.canRunAds === undefined ){
+        
+        hideAd();
+      }
+
+</script>
+
+<!-- Start of Async HubSpot Analytics Code -->
+<script type="text/javascript">
+    (function(d,s,i,r) {
+        if (d.getElementById(i)){return;}
+        var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+        n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/2153467.js';
+        e.parentNode.insertBefore(n, e);
+    })(document,"script","hs-analytics",300000);
+</script>
+<!-- End of Async HubSpot Analytics Code -->
+
+<!-- Twitter universal website tag code -->
+<script>
+    !function(e,n,u,a){e.twq||(a=e.twq=function(){a.exe?a.exe.apply(a,arguments):
+        a.queue.push(arguments);},a.version='1',a.queue=[],t=n.createElement(u),
+        t.async=!0,t.src='//static.ads-twitter.com/uwt.js',s=n.getElementsByTagName(u)[0],
+        s.parentNode.insertBefore(t,s))}(window,document,'script');
+    // Insert Twitter Pixel ID and Standard Event data below
+    twq('init','nv8sr');
+    twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+
+
+
+</html>

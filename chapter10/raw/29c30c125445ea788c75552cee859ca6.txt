@@ -1,0 +1,795 @@
+<!DOCTYPE html> 
+<html class="lang-en no-js
+  
+  ">
+<head>
+  <title>Walmart has patented autonomous robot bees | World Economic Forum</title>
+  <link rel="stylesheet" media="all" href="/assets/application-dc29f3157eaeb5ffaeba7eaaea59ea0340be2f8de06d29688224123c2f6c9c53.css" />
+  <link rel="stylesheet" media="print" href="/assets/print-852b12f603d401ee5ae638201d4e5612bd14b331e1c6982678d9c1d3e9ee6727.css" />
+  <link rel="stylesheet" media="all" href="//fast.fonts.net/cssapi/4946bd2e-8cbd-461c-8121-ca6696f6267d.css" />
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="xWPr49JlN4BHSTBjD//RQ0j6PnQaNeMmRPh7sNNkudecRnOeB8lBYlyuu5CtyNO4nVroXr9rA2o+MbOY9PFK2g==" />
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="description" content="Patenting &#39;pollination drones&#39;, Walmart is looking to use these bees in agriculture as the number of real bees decrease.">
+  <meta name="keywords" content="World Economic Forum,WEF,Davos,Klaus Schwab">
+  <meta property="og:title" content="Walmart has patented autonomous robot bees">
+  <meta property="og:description" content="Patenting &#39;pollination drones&#39;, Walmart is looking to use these bees in agriculture as the number of real bees decrease.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.weforum.org/agenda/2018/03/autonomous-robot-bees-are-being-patented-by-walmart/">
+  <meta property="og:image" content="https://assets.weforum.org/editor/kNwwWrRwA6o3potGqjmEbpWTgGkEfQLKJrUk5GXUPm0.jpg">
+  <meta property="og:site_name" content="World Economic Forum">
+  <meta property="fb:pages" content="7746841478">
+  <meta property="fb:app_id" content="1085482764806408">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Walmart has patented autonomous robot bees">
+  <meta name="twitter:description" content="Patenting &#39;pollination drones&#39;, Walmart is looking to use these bees in agriculture as the number of real bees decrease.">
+  <meta name="twitter:url" content="https://www.weforum.org/agenda/2018/03/autonomous-robot-bees-are-being-patented-by-walmart/">
+  <meta name="twitter:image" content="https://assets.weforum.org/editor/kNwwWrRwA6o3potGqjmEbpWTgGkEfQLKJrUk5GXUPm0.jpg">
+
+
+  <link rel="canonical" href="https://futurism.com/robot-bees-drones-walmart/">
+
+  
+  <script>
+//<![CDATA[
+
+  var _sf_async_config = _sf_async_config || {};
+      /** CONFIGURATION START **/
+      _sf_async_config.uid = 58674;
+      _sf_async_config.domain = "weforum.org";
+      _sf_async_config.flickerControl = false;
+      _sf_async_config.useCanonical = true;
+      
+      /** CONFIGURATION END **/
+      var _sf_startpt = (new Date()).getTime();
+
+//]]>
+</script><script async src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+
+
+  
+  <script type="application/ld+json">
+//<![CDATA[
+{"@context":"http://schema.org","@type":"NewsArticle","headline":"Walmart has patented autonomous robot bees","url":"https://www.weforum.org/agenda/2018/03/autonomous-robot-bees-are-being-patented-by-walmart/","thumbnailUrl":"https://assets.weforum.org/editor/kNwwWrRwA6o3potGqjmEbpWTgGkEfQLKJrUk5GXUPm0.jpg","dateCreated":"2018-03-19T12:00:00Z","articleSection":"Artificial Intelligence and Robotics","creator":["Chelsea Gohd"],"keywords":["Futurism","contentpartner","environment-and-natural-resource-security","retail-consumer-goods-and-lifestyle","artificial-intelligence-and-robotics","content-partner"]}
+//]]>
+</script>
+  <script>
+//<![CDATA[
+
+/*! modernizr 3.3.1 (Custom Build) | MIT *
+ * http://modernizr.com/download/?-flexbox-setclasses-shiv !*/
+!function(e,t,n){function r(e,t){return typeof e===t}function o(){var e,t,n,o,a,i,s;for(var l in C)if(C.hasOwnProperty(l)){if(e=[],t=C[l],t.name&&(e.push(t.name.toLowerCase()),t.options&&t.options.aliases&&t.options.aliases.length))for(n=0;n<t.options.aliases.length;n++)e.push(t.options.aliases[n].toLowerCase());for(o=r(t.fn,"function")?t.fn():t.fn,a=0;a<e.length;a++)i=e[a],s=i.split("."),1===s.length?Modernizr[s[0]]=o:(!Modernizr[s[0]]||Modernizr[s[0]]instanceof Boolean||(Modernizr[s[0]]=new Boolean(Modernizr[s[0]])),Modernizr[s[0]][s[1]]=o),y.push((o?"":"no-")+s.join("-"))}}function a(e){var t=S.className,n=Modernizr._config.classPrefix||"";if(b&&(t=t.baseVal),Modernizr._config.enableJSClass){var r=new RegExp("(^|\\s)"+n+"no-js(\\s|$)");t=t.replace(r,"$1"+n+"js$2")}Modernizr._config.enableClasses&&(t+=" "+n+e.join(" "+n),b?S.className.baseVal=t:S.className=t)}function i(e,t){return!!~(""+e).indexOf(t)}function s(){return"function"!=typeof t.createElement?t.createElement(arguments[0]):b?t.createElementNS.call(t,"http://www.w3.org/2000/svg",arguments[0]):t.createElement.apply(t,arguments)}function l(e){return e.replace(/([a-z])-([a-z])/g,function(e,t,n){return t+n.toUpperCase()}).replace(/^-/,"")}function c(e,t){return function(){return e.apply(t,arguments)}}function u(e,t,n){var o;for(var a in e)if(e[a]in t)return n===!1?e[a]:(o=t[e[a]],r(o,"function")?c(o,n||t):o);return!1}function f(e){return e.replace(/([A-Z])/g,function(e,t){return"-"+t.toLowerCase()}).replace(/^ms-/,"-ms-")}function d(){var e=t.body;return e||(e=s(b?"svg":"body"),e.fake=!0),e}function p(e,n,r,o){var a,i,l,c,u="modernizr",f=s("div"),p=d();if(parseInt(r,10))for(;r--;)l=s("div"),l.id=o?o[r]:u+(r+1),f.appendChild(l);return a=s("style"),a.type="text/css",a.id="s"+u,(p.fake?p:f).appendChild(a),p.appendChild(f),a.styleSheet?a.styleSheet.cssText=e:a.appendChild(t.createTextNode(e)),f.id=u,p.fake&&(p.style.background="",p.style.overflow="hidden",c=S.style.overflow,S.style.overflow="hidden",S.appendChild(p)),i=n(f,e),p.fake?(p.parentNode.removeChild(p),S.style.overflow=c,S.offsetHeight):f.parentNode.removeChild(f),!!i}function m(t,r){var o=t.length;if("CSS"in e&&"supports"in e.CSS){for(;o--;)if(e.CSS.supports(f(t[o]),r))return!0;return!1}if("CSSSupportsRule"in e){for(var a=[];o--;)a.push("("+f(t[o])+":"+r+")");return a=a.join(" or "),p("@supports ("+a+") { #modernizr { position: absolute; } }",function(e){return"absolute"==getComputedStyle(e,null).position})}return n}function h(e,t,o,a){function c(){f&&(delete j.style,delete j.modElem)}if(a=r(a,"undefined")?!1:a,!r(o,"undefined")){var u=m(e,o);if(!r(u,"undefined"))return u}for(var f,d,p,h,g,v=["modernizr","tspan"];!j.style;)f=!0,j.modElem=s(v.shift()),j.style=j.modElem.style;for(p=e.length,d=0;p>d;d++)if(h=e[d],g=j.style[h],i(h,"-")&&(h=l(h)),j.style[h]!==n){if(a||r(o,"undefined"))return c(),"pfx"==t?h:!0;try{j.style[h]=o}catch(y){}if(j.style[h]!=g)return c(),"pfx"==t?h:!0}return c(),!1}function g(e,t,n,o,a){var i=e.charAt(0).toUpperCase()+e.slice(1),s=(e+" "+w.join(i+" ")+i).split(" ");return r(t,"string")||r(t,"undefined")?h(s,t,o,a):(s=(e+" "+_.join(i+" ")+i).split(" "),u(s,t,n))}function v(e,t,r){return g(e,n,n,t,r)}var y=[],C=[],E={_version:"3.3.1",_config:{classPrefix:"",enableClasses:!0,enableJSClass:!0,usePrefixes:!0},_q:[],on:function(e,t){var n=this;setTimeout(function(){t(n[e])},0)},addTest:function(e,t,n){C.push({name:e,fn:t,options:n})},addAsyncTest:function(e){C.push({name:null,fn:e})}},Modernizr=function(){};Modernizr.prototype=E,Modernizr=new Modernizr;var S=t.documentElement,b="svg"===S.nodeName.toLowerCase(),x="Moz O ms Webkit",w=E._config.usePrefixes?x.split(" "):[];E._cssomPrefixes=w;var _=E._config.usePrefixes?x.toLowerCase().split(" "):[];E._domPrefixes=_;b||!function(e,t){function n(e,t){var n=e.createElement("p"),r=e.getElementsByTagName("head")[0]||e.documentElement;return n.innerHTML="x<style>"+t+"</style>",r.insertBefore(n.lastChild,r.firstChild)}function r(){var e=C.elements;return"string"==typeof e?e.split(" "):e}function o(e,t){var n=C.elements;"string"!=typeof n&&(n=n.join(" ")),"string"!=typeof e&&(e=e.join(" ")),C.elements=n+" "+e,c(t)}function a(e){var t=y[e[g]];return t||(t={},v++,e[g]=v,y[v]=t),t}function i(e,n,r){if(n||(n=t),f)return n.createElement(e);r||(r=a(n));var o;return o=r.cache[e]?r.cache[e].cloneNode():h.test(e)?(r.cache[e]=r.createElem(e)).cloneNode():r.createElem(e),!o.canHaveChildren||m.test(e)||o.tagUrn?o:r.frag.appendChild(o)}function s(e,n){if(e||(e=t),f)return e.createDocumentFragment();n=n||a(e);for(var o=n.frag.cloneNode(),i=0,s=r(),l=s.length;l>i;i++)o.createElement(s[i]);return o}function l(e,t){t.cache||(t.cache={},t.createElem=e.createElement,t.createFrag=e.createDocumentFragment,t.frag=t.createFrag()),e.createElement=function(n){return C.shivMethods?i(n,e,t):t.createElem(n)},e.createDocumentFragment=Function("h,f","return function(){var n=f.cloneNode(),c=n.createElement;h.shivMethods&&("+r().join().replace(/[\w\-:]+/g,function(e){return t.createElem(e),t.frag.createElement(e),'c("'+e+'")'})+");return n}")(C,t.frag)}function c(e){e||(e=t);var r=a(e);return!C.shivCSS||u||r.hasCSS||(r.hasCSS=!!n(e,"article,aside,dialog,figcaption,figure,footer,header,hgroup,main,nav,section{display:block}mark{background:#FF0;color:#000}template{display:none}")),f||l(e,r),e}var u,f,d="3.7.3",p=e.html5||{},m=/^<|^(?:button|map|select|textarea|object|iframe|option|optgroup)$/i,h=/^(?:a|b|code|div|fieldset|h1|h2|h3|h4|h5|h6|i|label|li|ol|p|q|span|strong|style|table|tbody|td|th|tr|ul)$/i,g="_html5shiv",v=0,y={};!function(){try{var e=t.createElement("a");e.innerHTML="<xyz></xyz>",u="hidden"in e,f=1==e.childNodes.length||function(){t.createElement("a");var e=t.createDocumentFragment();return"undefined"==typeof e.cloneNode||"undefined"==typeof e.createDocumentFragment||"undefined"==typeof e.createElement}()}catch(n){u=!0,f=!0}}();var C={elements:p.elements||"abbr article aside audio bdi canvas data datalist details dialog figcaption figure footer header hgroup main mark meter nav output picture progress section summary template time video",version:d,shivCSS:p.shivCSS!==!1,supportsUnknownElements:f,shivMethods:p.shivMethods!==!1,type:"default",shivDocument:c,createElement:i,createDocumentFragment:s,addElements:o};e.html5=C,c(t),"object"==typeof module&&module.exports&&(module.exports=C)}("undefined"!=typeof e?e:this,t);var N={elem:s("modernizr")};Modernizr._q.push(function(){delete N.elem});var j={style:N.elem.style};Modernizr._q.unshift(function(){delete j.style}),E.testAllProps=g,E.testAllProps=v,Modernizr.addTest("flexbox",v("flexBasis","1px",!0)),o(),a(y),delete E.addTest,delete E.addAsyncTest;for(var k=0;k<Modernizr._q.length;k++)Modernizr._q[k]();e.Modernizr=Modernizr}(window,document);
+
+//]]>
+</script>
+    <link rel="apple-touch-icon" type="image/png" href="/assets/apple-touch-icon-72x72-1b4c2b319595c5eca0920f58b593228992a06dd1df8d4bb61ae70fb0b82e274b.png" sizes="72x72" />
+  <link rel="apple-touch-icon" type="image/png" href="/assets/apple-touch-icon-114x114-98e7618233154ca9312469713264e33078bbc686269017b337edc98a60521f7e.png" sizes="114x114" />
+  <link rel="apple-touch-icon" type="image/png" href="/assets/apple-touch-icon-144x144-0236f0315f872d6cc16cda122fcdd464aeb823a376e1919390b425c6c4f153c0.png" sizes="144x144" />
+<link rel="icon" type="image/png" href="/assets/apple-touch-icon-b06a2da26ff9f31c003469ba0063a247f90385a960064b3440dc4f69451b3b18.png" sizes="192x192" />
+
+  
+</head>
+<body data-controller="articles" data-action="show">
+    <div class="event-takeover loading js-event-takeover" data-fragment-path="/fragments/event-takeover" data-event=""></div>
+  <div class="side-drawer">
+
+  <div class="search-widget">
+    <form action="/search" accept-charset="UTF-8" method="get">
+  <input type="text" maxlength="128" name="query" id="edit-query-1-mobile" size="15" value="" placeholder="Search" class="search-bar">
+  <button class="form-submit">
+    <img src="/assets/search-blue-715a427482333d528468c3c8af0b9cfebc53a95bf65505564d8b789be22fcb87.svg" alt="Search">
+  </button>
+</form>
+  </div>
+  <ul class="side-drawer__nav">
+    <li class="side-drawer__item">
+      <a class="side-drawer__link" href="/es/agenda">Agenda</a>
+    </li>
+    <li class="side-drawer__item">
+      <a class="side-drawer__link" href="/system-initiatives">Iniciativas</a>
+    </li>
+    <li class="side-drawer__item">
+      <a class="side-drawer__link" href="/reports">Informes</a>
+    </li>
+    <li class="side-drawer__item">
+      <a class="side-drawer__link" href="/events">Eventos</a>
+    </li>
+    <li class="side-drawer__item">
+        <div class="side-drawer__link filter__options js-filter" data-filter-id="about">
+          <div class="filter-show-controls">
+            Quiénes Somos
+          </div>
+          <div class="filter-collapse-controls">
+            Quiénes Somos
+          </div>
+        </div>
+
+        <div class="filter__content js-filter-content" data-filter-id="about">
+          <ul class="side-drawer__sublinks">
+              <li class="side-drawer__sublink">
+                <a href="/about/world-economic-forum">Our Mission</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/leadership-and-governance">Leadership and Governance</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/world-economic-forum-center-for-the-fourth-industrial-revolution">Center for the Fourth Industrial Revolution</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/our-members-and-partners">Our Members and Partners</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/communities">Communities</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/history">History</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/klaus-schwab">Klaus Schwab</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/our-impact">Our Impact</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/pictures">Pictures</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/press">Media</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/a-global-platform-for-geostrategic-collaboration">A Global Platform for Geostrategic Collaboration</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/transformation-maps">Mapping Global Transformations </a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/contact">Contact Us</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/careers">Careers</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/code-of-conduct">Code of Conduct</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/world-economic-forum-llc">World Economic Forum LLC</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/privacy-and-terms-of-use">Privacy and Terms of Use</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/world-economic-forum-japan">日本事務所</a>
+              </li>
+              <li class="side-drawer__sublink">
+                <a href="/about/sustainability-world-economic-forum">Sustainability</a>
+              </li>
+          </ul>
+        </div>
+    </li>
+  </ul>
+  <ul class="side-secondary-nav">
+    <li>
+      
+<div class="locale-switcher locale-switcher__side-drawer">
+    <a class="locale-link locale-link--en" href="/agenda">EN</a>    
+      <span class="locale-link locale-link--ES">ES</span>
+    <a class="locale-link locale-link--fr" href="/fr/agenda">FR</a>    <a class="locale-link locale-link--中文" href="http://cn.weforum.org/">中文</a>    <a class="locale-link locale-link--日本語" href="http://www.weforum.jp/">日本語</a></div>
+    </li>
+    <li class="drawer-toplink-container">
+      <a href="https://toplink.weforum.org/">
+        <div class="drawer-toplink-button">
+          Login to TopLink
+        </div>
+</a>    </li>
+  </ul>
+</div>
+<div class="side-drawer__close"></div>
+
+  <div class="content-container">
+    <div id="cookie-policy" class="cookie-policy">
+	<div class="cookie-policy__container">
+	  <div id="cookie-policy-dismiss" class="cookie-policy__dismiss"></div>
+	  <div class="cookie-policy__message">We are using cookies to give you the best experience on our site. By continuing to use our site, you are agreeing to our use of cookies.</div>
+	</div>
+</div>
+    <header class="header">
+  <div class="row nav">
+    <ul class="header-container">
+      <a class="drawer-icon js-show-hide-menu">
+        <img src="/assets/hamburger-d4a8924e2554b1c8a9206e72c97a44cc624d3da299ccb9e9d4a2a8ef37e76f72.svg" alt="Hamburger" />
+      </a>
+      <li class="header-item logo">
+        <a href="/"><img class="header-wef__logo" src="/assets/logo-d8b23e233f85a1af9093a1946e18cff462b0ca82fcd720e2a9633270e53a0bcd.svg" alt="Logo" /></a>
+      </li>
+      <div class="header-pane-selectors">
+        <li class="header-pane" data-pane="agenda">
+          <a class="header-item__link link--selected" href="/agenda">Agenda</a>
+        </li>
+        <li class="header-pane" data-pane="projects">
+          <a class="header-item__link" href="/system-initiatives">Initiatives</a>
+        </li>
+        <li class="header-pane" data-pane="reports">
+          <a class="header-item__link" href="/reports">Reports</a>
+        </li>
+        <li class="header-pane" data-pane="events">
+          <a class="header-item__link" href="/events">Events</a>
+        </li>
+        <li class="header-pane" data-pane="about">
+          <a class="header-item__link" href="/about/world-economic-forum">About</a>
+        </li>
+      </div>
+
+      <div class="header-secondary-links">
+        <li class="header-item">
+          <a class="header-item__link toplink" href="https://toplink.weforum.org/">
+            <div class="header-toplink-button">
+              TopLink
+            </div>
+          </a>
+        </li>
+        <li class="header-item search">
+          <a href="" class="header-item__link header-item__link--search js-search-bar">
+            <img class="search-bar--icon" src="/assets/search-blue-715a427482333d528468c3c8af0b9cfebc53a95bf65505564d8b789be22fcb87.svg" alt="Search blue" />
+            <img class="search-bar--close" src="/assets/cancel-998e2eb8fea89573a049e4fbf34e36c215c3bb07b8562fe2d73ad104714a6044.svg" alt="Cancel" />
+          </a>
+        </li>
+      </div>
+    </ul>
+  </div>
+</header>
+
+<div class="search-container">
+  <div class="search__content">
+    <div class="row">
+      <div class="search-bar-container">
+        <form action="/search" accept-charset="UTF-8" method="get">
+  <input type="text" maxlength="128" name="query" id="edit-query-1" size="15" value="" placeholder="Search" class="search-bar">
+  <button class="form-submit">
+    <img src="/assets/search-blue-715a427482333d528468c3c8af0b9cfebc53a95bf65505564d8b789be22fcb87.svg" alt="Search">
+  </button>
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="meganav-container loading js-meganav-container" data-fragment-path="/fragments/meganav"></div>
+
+    <section>
+      <div class="row">
+  <div class="small-12 columns">
+    <ul class="topic-list">
+        <li class="topic-list__item">
+          <a href="/agenda/regional">Regional Agenda</a>
+        </li>
+
+      
+          <li class="topic-list__item">
+            <a href="/agenda/archive/artificial-intelligence-and-robotics">Artificial Intelligence and Robotics</a>
+          </li>
+          <li class="topic-list__item">
+            <a href="/agenda/archive/retail-consumer-goods-and-lifestyle">Retail, Consumer Goods and Lifestyle</a>
+          </li>
+          <li class="topic-list__item">
+            <a href="/system-initiatives/shaping-the-future-of-environment-and-natural-resource-security/articles">Environment and Natural Resource Security</a>
+          </li>
+    </ul>
+    <h1 class="article__headline">Walmart has patented autonomous robot bees</h1>
+      <div class="article__lead-image">
+        <figure class="st__content-block st__content-block--image">
+  <img alt="Bees land on a flower in Laqlouq village, Lebanon June 27, 2015. REUTERS/Jamal Saidi" src="https://assets.weforum.org/article/image/large_cOeP2o1u0wzy-PafDYfmZhm4HHj7hjOGkhE00_aU4Og.jpg" />
+    <div class="image__caption">
+      Walmart has filed a patent for robot bees that will help pollinate in the same way as living bees.
+    </div>
+    <div class="image__credit">
+      Image: REUTERS/Jamal Saidi
+    </div>
+</figure>
+
+      </div>
+  </div>
+</div>
+<div class="row">
+  <div class="small-12 medium-4 columns">
+
+    <div class="article-details">
+
+        <div class="article-source">
+          This article is published in collaboration with <a target="_blank" href="https://futurism.com/robot-bees-drones-walmart/">Futurism</a>
+        </div>
+
+      <div class="article-published">19 Mar 2018</div>
+
+      
+          <ol class="article-authors">
+              <li class="article-authors__author">
+                <div class="author-details">
+                  <a href="/agenda/authors/chelsea-gohd-d1c1f2f6-d5a7-462d-959f-96907caa31f4">Chelsea Gohd</a>
+                  <span>Science Writer</span>
+                </div>
+                
+              </li>
+          </ol>
+
+      <div class="article-details__meta">
+        <div class="social-sharing ">
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.weforum.org%2Fagenda%2F2018%2F03%2Fautonomous-robot-bees-are-being-patented-by-walmart%2F" class="social-share--container js-social-share" target="_blank"><span class="social-share--facebook"></span></a>
+  <a href="https://twitter.com/intent/tweet?via=wef&amp;text=Walmart%20has%20patented%20autonomous%20robot%20bees&amp;url=https%3A%2F%2Fwww.weforum.org%2Fagenda%2F2018%2F03%2Fautonomous-robot-bees-are-being-patented-by-walmart%2F" class="social-share--container js-social-share" target="_blank"><span class="social-share--twitter"></span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&amp;source=WEF&amp;url=https%3A%2F%2Fwww.weforum.org%2Fagenda%2F2018%2F03%2Fautonomous-robot-bees-are-being-patented-by-walmart%2F" class="social-share--container js-social-share" target="_blank"><span class="social-share--linkedin"></span></a>
+  <a href="whatsapp://send?text=Walmart%20has%20patented%20autonomous%20robot%20bees+https%3A%2F%2Fwww.weforum.org%2Fagenda%2F2018%2F03%2Fautonomous-robot-bees-are-being-patented-by-walmart%2F" data-action="share/whatsapp/share" class="social-share--container"><div class="social-share--whatsapp"></div></a>
+</div>
+
+      </div>
+
+      <div class="hide-until-loaded loading js-featured-event-key-moments" data-fragment-path="/fragments/key-moments/for/33172">
+        <div class="further-reading-group">
+  <div class="list-group__header">
+    <div class="further-reading__header-title">Latest Articles</div>
+  </div>
+    <div class="row collapse">
+      <article class="tout tout--mini tout--article"><a class="tout__link" data-video-id="null" href="/agenda/2018/03/heres-what-the-future-of-energy-looks-like"><figure class="placeholder tiny"><img class="image" alt="" src="https://assets.weforum.org/article/image/tiny_Cf0TY15zbH7dnQ-4bqMmmXO-kg71Wcvmsb7Pug-zLB0.jpg" /><img class="tiny-fallback" src="https://assets.weforum.org/article/image/tiny_Cf0TY15zbH7dnQ-4bqMmmXO-kg71Wcvmsb7Pug-zLB0.jpg" alt="Tiny cf0ty15zbh7dnq 4bqmmmxo kg71wcvmsb7pug zlb0" /></figure><div class="tout__details"><h3 class="tout__title">What does the future of energy look like, how do we get there, and who will benefit?</h3><div class="tout__meta"><div class="caption"><span class="article__author bold">Katherine Hamilton</span> <span>20 Mar 2018</span></div></div></div></a></article>
+      <article class="tout tout--mini tout--article"><a class="tout__link" data-video-id="null" href="/agenda/2018/03/5-things-everyone-should-know-to-be-happier"><figure class="placeholder tiny"><img class="image" alt="" src="https://assets.weforum.org/article/image/tiny_CVA93fVYeZOmMkj7_xTbBE1GIgmf3wktILP8UZzipu0.jpg" /><img class="tiny-fallback" src="https://assets.weforum.org/article/image/tiny_CVA93fVYeZOmMkj7_xTbBE1GIgmf3wktILP8UZzipu0.jpg" alt="Tiny cva93fvyezommkj7 xtbbe1gigmf3wktilp8uzzipu0" /></figure><div class="tout__details"><h3 class="tout__title">5 things everyone needs to know about happiness</h3><div class="tout__meta"><div class="caption"><span class="article__author bold">Briony  Harris</span> <span>20 Mar 2018</span></div></div></div></a></article>
+      <article class="tout tout--mini tout--article"><a class="tout__link" data-video-id="null" href="/agenda/2018/03/these-are-the-world-s-most-densely-populated-places"><figure class="placeholder tiny"><img class="image" alt="" src="https://assets.weforum.org/article/image/tiny_wrErB10Zeo68R_GvN2dvZBzOaxhKrZg1P7_XTzODIuQ.jpg" /><img class="tiny-fallback" src="https://assets.weforum.org/article/image/tiny_wrErB10Zeo68R_GvN2dvZBzOaxhKrZg1P7_XTzODIuQ.jpg" alt="Tiny wrerb10zeo68r gvn2dvzbzoaxhkrzg1p7 xtzodiuq" /></figure><div class="tout__details"><h3 class="tout__title">These are the world’s most densely populated places</h3><div class="tout__meta"><div class="caption"><span class="article__author bold">Rob Smith</span> <span>20 Mar 2018</span></div></div></div></a></article>
+
+    <div class="further-reading__more">
+      <a href="/agenda/archive">
+        <span class="further-reading__more-link">More on the agenda</span>
+        <span class="further-reading__more-arrow">
+          <img src="/assets/further-reading-arrow-984f0b2d46101716e9c621b9fc9e0192e3e5be4e69b301ddf6e866ef4108d8db.svg" alt="Further reading arrow" />
+        </span>
+</a>    </div>
+  </div>
+</div>
+
+      </div>
+
+      
+          <div class="impact-story further-reading-group">
+            <div class="list-group__header">
+              <div class="further-reading__header-title">Our Impact</div>
+            </div>
+            <div class="row collapse">
+              <h2 class="impact-title">Accelerating climate action</h2>
+              <a href="/our-impact/accelerating-climate-action">
+                <figure class="placeholder medium"><img class="image" alt="" src="https://assets.weforum.org/vertical_page/image/medium_aT-Z3DAnWfQJ92lg4HvAfmyqAYV9xXRoq0xx-lIEFak.jpg" /><img class="tiny-fallback" src="https://assets.weforum.org/vertical_page/image/tiny_aT-Z3DAnWfQJ92lg4HvAfmyqAYV9xXRoq0xx-lIEFak.jpg" alt="Tiny at z3danwfqj92lg4hvafmyqayv9xxroq0xx liefak" /></figure>
+</a>              <div class="further-reading__more">
+                <a href="/our-impact/accelerating-climate-action">
+                  <span class="further-reading__more-link"><span class="translation_missing" title="translation missing: en.impact_stories.our_impact">Our Impact</span></span>
+                  <span class="further-reading__more-arrow">
+                    <img src="/assets/further-reading-arrow--grey-e8c7261c38c4117ea24fd30c56eeb164007f5ea1abb00e01c25f05b6d613e6ab.svg" alt="Further reading arrow  grey" />
+                  </span>
+</a>              </div>
+            </div>
+          </div>
+      </div>
+
+      <div class="transformation-map">
+    <div class="list-group__header">
+      <div class="further-reading__header-title">
+        Explore context
+        <img alt="" class="transformation-map__icon" src="/assets/tmap-icon-530be9a014cb9ffe203fec35a67842b2570dad7823793b0021d23ad8be6f3fa7.svg" />
+      </div>
+    </div>
+    <div class="further-reading__sub-title">
+      Artificial Intelligence and Robotics
+    </div>
+    <a target="_blank" href="https://toplink.weforum.org/knowledge/insight/a1Gb0000000pTDREA2/explore/summary">
+      <figure class="transformation-map__content">
+        <img src="https://assets.weforum.org/topic/transformation_map_image/medium_W0TwW6dDAGKXlhtOaGbAIHdtQlNl8AQsx7AiQild0TM.png" alt="Medium w0tww6ddagkxlhtoagbaihdtqlnl8aqsx7aiqild0tm" />
+      </figure>
+</a>    <div class="further-reading__more">
+      <a target="_blank" href="https://toplink.weforum.org/knowledge/insight/a1Gb0000000pTDREA2/explore/summary">
+        <span class="further-reading__more-link">Explore the latest strategic trends, research and analysis</span>
+        <span class="further-reading__more-arrow">
+          <img src="/assets/further-reading-arrow--grey-e8c7261c38c4117ea24fd30c56eeb164007f5ea1abb00e01c25f05b6d613e6ab.svg" alt="Further reading arrow  grey" />
+        </span>
+</a>    </div>
+  </div>
+
+
+  </div>
+  <div class="article-show-container">
+    <div class="article-body"><div class="st__content-block st__content-block--text">
+  <p>Walmart has <a href="https://www.sciencealert.com/walmart-has-filed-a-patent-for-robot-bees-pollination-drones">just filed a patent</a> for autonomous, robot bees. Yes, that Walmart — and no, you didn’t slip into another, stranger dimension. The mega-corporation’s patent specifically covers “pollination drones.” These tiny robots could act just like bees, <a href="https://futurism.com/japan-has-created-black-mirror-inspired-bee-drones/">pollinating crops autonomously</a>.</p>
+</div>
+<div class="st__content-block st__content-block--text">
+  <p>The robot bees would operate using sensors and cameras to help them navigate to crops. Flying around autonomously, these drones could potentially pollinate as effectively as the real thing.</p>
+</div>
+<figure class="st__content-block st__content-block--image">
+  <a href="https://wp-assets.futurism.com/2018/03/robot-bees.jpg"><img alt="  " src="https://assets.weforum.org/editor/kNwwWrRwA6o3potGqjmEbpWTgGkEfQLKJrUk5GXUPm0.jpg" /></a>
+    <div class="image__caption">
+      Robot bees could be the future of agriculture.
+    </div>
+    <div class="image__credit">
+      Image: Polynoid/Greenpeace/Vimeo
+    </div>
+</figure>
+<div class="st__content-block st__content-block--text">
+  <p>Oddly enough, this is not the only farming patent that Walmart has filed recently. <a href="https://www.cbinsights.com/research/walmart-farming-drones-patent/?mc_cid=b65788187a&amp;amp;mc_eid=aafe86284f">According to <i>CB Insights</i></a>, this is only one of six Walmart patents for farming drones that would do everything from monitor crop damage to spray pesticides. Incorporating autonomous robots into farming could cut costs and increase agriculture efficiency.</p>
+</div>
+<div class="st__content-block st__content-block--text">
+  <p>The thing that’s so puzzling about this move is: why Walmart?</p>
+</div>
+<div class="st__content-block st__content-block--text">
+  <p>The retailer hasn’t publicly commented on the patents yet, so the reasons behind Walmart’s sudden interest in farming drones has to be left up to interpretation. Yet since many Walmart locations do carry produce, it’s possible that the company is looking to gain more control of the food it’s selling. Perhaps by taking such a significant role in agriculture, the company will be able to improve quality and cut costs.</p>
+</div>
+<div class="st__content-block st__content-block--searchable-list list-group">
+  <h3 class="list-group__header">
+    <span class="list-group__title">Have you read?</span>
+  </h3>
+  <ul class="list-group__items">
+      <li class="list-group__item">
+        <a href="https://www.weforum.org/agenda/2016/09/12-cutting-edge-technologies-that-could-save-our-oceans">
+          12 robots that could make (or break) the oceans  
+</a>      </li>
+      <li class="list-group__item">
+        <a href="https://www.weforum.org/agenda/2015/09/is-humanity-just-a-phase-in-a-robotic-evolution">
+          Is humanity just a phase in a robotic evolution?  
+</a>      </li>
+      <li class="list-group__item">
+        <a href="https://www.weforum.org/agenda/2017/12/what-warring-wikipedia-bots-tell-us-about-our-robot-future">
+          What warring Wikipedia bots tell us about our robot future  
+</a>      </li>
+  </ul>
+</div>
+<div class="st__content-block st__content-block--text">
+  <p>This seems like a sound explanation, especially since Walmart has <a href="http://www.businessinsider.com/walmart-free-grocery-delivery-code-2018-3?IR=T">decided to expand its grocery delivery service</a>. According to a patent filed by the company in January, this service will allow shoppers to accept or reject produce. While such a service has potential to rake in serious business for Walmart, it also means they will need to step up the quality of their produce. Hence, potentially, the robo-bees.</p>
+</div>
+<div class="st__content-block st__content-block--text">
+  <p>Meanwhile, <a href="https://futurism.com/strong-evidence-really-killing-bees/">honeybee populations are dying,</a> and we can no longer take pollination for granted. These small creatures are the backbone of agriculture and the food that we eat. While scientists work to better understand declining pollinator populations, and hopefully come up with solutions, these Walmart farming drones could keep agriculture, and fresh produce, alive.</p>
+</div>
+</div>
+    <div class="post-article">
+      <div class="post-article__share">
+        Share
+      </div>
+      <div class="social-sharing ">
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.weforum.org%2Fagenda%2F2018%2F03%2Fautonomous-robot-bees-are-being-patented-by-walmart%2F" class="social-share--container js-social-share" target="_blank"><span class="social-share--facebook"></span></a>
+  <a href="https://twitter.com/intent/tweet?via=wef&amp;text=Walmart%20has%20patented%20autonomous%20robot%20bees&amp;url=https%3A%2F%2Fwww.weforum.org%2Fagenda%2F2018%2F03%2Fautonomous-robot-bees-are-being-patented-by-walmart%2F" class="social-share--container js-social-share" target="_blank"><span class="social-share--twitter"></span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&amp;source=WEF&amp;url=https%3A%2F%2Fwww.weforum.org%2Fagenda%2F2018%2F03%2Fautonomous-robot-bees-are-being-patented-by-walmart%2F" class="social-share--container js-social-share" target="_blank"><span class="social-share--linkedin"></span></a>
+  <a href="whatsapp://send?text=Walmart%20has%20patented%20autonomous%20robot%20bees+https%3A%2F%2Fwww.weforum.org%2Fagenda%2F2018%2F03%2Fautonomous-robot-bees-are-being-patented-by-walmart%2F" data-action="share/whatsapp/share" class="social-share--container"><div class="social-share--whatsapp"></div></a>
+</div>
+
+      <div class="article-footer">
+            <div id="byline" class="article-footer__author">
+              <p>Written by</p>
+                <p>
+                  <a href="/agenda/authors/chelsea-gohd-d1c1f2f6-d5a7-462d-959f-96907caa31f4">Chelsea Gohd</a>, <span>Science Writer</span>
+                </p>
+            </div>
+          <p class="article-footer__source">This article is published in collaboration with <a target="_blank" href="https://futurism.com/robot-bees-drones-walmart/">Futurism</a>. </p>
+        <p class="article-footer__source">The views expressed in this article are those of the author alone and not the World Economic Forum.</p>
+      </div>
+    </div>
+      <div class="transformation-map">
+    <div class="list-group__header">
+      <div class="further-reading__header-title">
+        Explore context
+        <img alt="" class="transformation-map__icon" src="/assets/tmap-icon-530be9a014cb9ffe203fec35a67842b2570dad7823793b0021d23ad8be6f3fa7.svg" />
+      </div>
+    </div>
+    <div class="further-reading__sub-title">
+      Artificial Intelligence and Robotics
+    </div>
+    <a target="_blank" href="https://toplink.weforum.org/knowledge/insight/a1Gb0000000pTDREA2/explore/summary">
+      <figure class="transformation-map__content">
+        <img src="https://assets.weforum.org/topic/transformation_map_image/medium_W0TwW6dDAGKXlhtOaGbAIHdtQlNl8AQsx7AiQild0TM.png" alt="Medium w0tww6ddagkxlhtoagbaihdtqlnl8aqsx7aiqild0tm" />
+      </figure>
+</a>    <div class="further-reading__more">
+      <a target="_blank" href="https://toplink.weforum.org/knowledge/insight/a1Gb0000000pTDREA2/explore/summary">
+        <span class="further-reading__more-link">Explore the latest strategic trends, research and analysis</span>
+        <span class="further-reading__more-arrow">
+          <img src="/assets/further-reading-arrow--grey-e8c7261c38c4117ea24fd30c56eeb164007f5ea1abb00e01c25f05b6d613e6ab.svg" alt="Further reading arrow  grey" />
+        </span>
+</a>    </div>
+  </div>
+
+    <div class="post-article">
+      <div class="newsletter">
+        <div class="newsletter__callout">
+          <b>Subscribe for updates</b>
+          <div class="newsletter__callout__description">A weekly update of what’s on the Global Agenda</div>
+        </div>
+        <form action="https://weforum.us3.list-manage.com/subscribe/post?u=79c86265202b9840297f805ad&amp;id=7361259375" method="post" target="_blank" class="newsletter__form">
+          <div class="newsletter__form__field">
+            <input type="email" name="EMAIL" placeholder="Email" class="newsletter__form__input">
+            <input type="submit" value="Subscribe" name="subscribe" class="newsletter__form__submit">
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+  
+
+      <section class="highlights-section highlights-section--featured">
+        <div class="row">
+          <div class="columns">
+              <h2 class="sub-title">
+                <span class="highlight__featured-text">Featured:</span>
+                Artificial Intelligence and Robotics
+                <a class="view-all-link" href="/agenda/archive/artificial-intelligence-and-robotics">                    View all <img src="/assets/thin-chevron-8a1b04b5181ea90a0b42486358eb215e5c907b3aba8d6e1fb852d05d2eda620b.svg" alt="Thin chevron" /></a>              </h2>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="highlights-section__main small-12 large-8 columns">
+            <div class="gutter-marking"></div>
+            <div class="tout-list">
+                    <article class="tout tout--large tout--article"><a class="tout__link" data-video-id="null" href="/agenda/2018/03/a-i-may-spot-heart-failure-signs-early"><figure class="placeholder small"><img class="image" alt="" src="https://assets.weforum.org/article/image/small_HRwP2bjvwqT-0O3CKycd5IwVNDOP77IuFug_j6jWLFg.jpg" /><img class="tiny-fallback" src="https://assets.weforum.org/article/image/tiny_HRwP2bjvwqT-0O3CKycd5IwVNDOP77IuFug_j6jWLFg.jpg" alt="Tiny hrwp2bjvwqt 0o3ckycd5iwvndop77iufug j6jwlfg" /></figure><div class="tout__details"><h3 class="tout__title">This AI could spot early signs of heart failure</h3><div class="tout__meta"><div class="caption"><span class="article__author bold">Kristen Perez · Futurity</span> <span>20 Mar 2018</span></div></div></div></a></article>
+                    <article class="tout tout--large tout--article"><a class="tout__link" data-video-id="null" href="/agenda/2018/03/google-cofounder-larry-page-has-been-secretly-testing-flying-taxis-in-new-zealand"><figure class="placeholder small"><img class="image" alt="" src="https://assets.weforum.org/article/image/small_bHCzlYb0t_R2uUw0q-zI7uooSlJQhnKLE4nYTqiZADg.jpg" /><img class="tiny-fallback" src="https://assets.weforum.org/article/image/tiny_bHCzlYb0t_R2uUw0q-zI7uooSlJQhnKLE4nYTqiZADg.jpg" alt="Tiny bhczlyb0t r2uuw0q zi7uoosljqhnkle4nytqizadg" /></figure><div class="tout__details"><h3 class="tout__title">This startup is testing flying taxis in New Zealand</h3><div class="tout__meta"><div class="caption"><span class="article__author bold">Shona  Ghosh · Business Insider</span> <span>20 Mar 2018</span></div></div></div></a></article>
+            </div>
+          </div>
+
+          <div class="small-12 large-4 columns">
+            <div class="row">
+              <div class="small-12 columns">
+                      <article class="tout tout--mini tout--no-image tout--article"><a class="tout__link" data-video-id="null" href="/agenda/2018/03/google-cofounder-larry-page-has-been-secretly-testing-flying-taxis-in-new-zealand"><div class="tout__details"><h3 class="tout__title">This startup is testing flying taxis in New Zealand</h3><div class="tout__meta"><div class="caption"><span class="article__author bold">Shona  Ghosh · Business Insider</span> <span>20 Mar 2018</span></div></div></div></a></article>
+                      <article class="tout tout--mini tout--no-image tout--article"><a class="tout__link" data-video-id="null" href="/agenda/2018/03/autonomous-robot-bees-are-being-patented-by-walmart"><div class="tout__details"><h3 class="tout__title">Walmart has patented autonomous robot bees</h3><div class="tout__meta"><div class="caption"><span class="article__author bold">Chelsea Gohd · Futurism</span> <span>19 Mar 2018</span></div></div></div></a></article>
+                      <article class="tout tout--mini tout--no-image tout--article"><a class="tout__link" data-video-id="null" href="/agenda/2018/03/stephen-hawking-s-most-dire-predictions-for-the-future"><div class="tout__details"><h3 class="tout__title">These were Stephen Hawking’s most dire predictions for the future of mankind </h3><div class="tout__meta"><div class="caption"><span class="article__author bold">Alexandra Ossola · Futurism</span> <span>16 Mar 2018</span></div></div></div></a></article>
+                      <article class="tout tout--mini tout--no-image tout--article"><a class="tout__link" data-video-id="null" href="/agenda/2018/03/a-fleet-of-underwater-robots-will-create-detailed-map-of-marine-microbes"><div class="tout__details"><h3 class="tout__title">This fleet of underwater robots is studying ocean microbes</h3><div class="tout__meta"><div class="caption"><span class="article__author bold">Claudia Geib · Futurism</span> <span>16 Mar 2018</span></div></div></div></a></article>
+                      <article class="tout tout--mini tout--no-image tout--article"><a class="tout__link" data-video-id="null" href="/agenda/2018/03/3-ways-ai-could-threaten-our-world-and-what-we-need-to-do-to-stay-safe"><div class="tout__details"><h3 class="tout__title">3 ways AI could threaten our world, and what we need to do to stay safe</h3><div class="tout__meta"><div class="caption"><span class="article__author bold">Rob Smith</span> <span>14 Mar 2018</span></div></div></div></a></article>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+    </section>
+    <footer class="footer">
+  <div class="footer__wrapper">
+    <div class="row">
+      <div class="footer__newsletter">
+        <div class="newsletter">
+          <div class="newsletter__callout">
+            <b>Subscribe for updates</b>
+            <div class="newsletter__callout__description">A weekly update of what’s on the Global Agenda</div>
+          </div>
+          <form action="https://weforum.us3.list-manage.com/subscribe/post?u=79c86265202b9840297f805ad&amp;id=7361259375" method="post" target="_blank" class="footer__form">
+            <div class="newsletter__form__field">
+              <input type="email" name="EMAIL" placeholder="Email" class="footer__form__input">
+              <input type="submit" value="Subscribe" name="subscribe" class="footer__form__submit">
+            </div>
+          </form>
+        </div>
+      </div>
+
+      <div class="footer__socialmedia">
+        <div class="footer__socialmedia-title">Follow Us</div>
+        <div class="footer__socialmedia-group">
+          <a href="https://www.facebook.com/worldeconomicforum/" class="social-share--facebook" target="_blank"></a>
+          <a href="https://twitter.com/wef" class="social-share--twitter" target="_blank"></a>
+          <a href="https://www.linkedin.com/company/world-economic-forum" class="social-share--linkedin" target="_blank"></a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="footer__list-group">
+      <div class="list-group">
+        <div class="list-group__header">
+          <span>About</span>
+        </div>
+        <div class="list-group__items">
+          
+              <div class="list-group__item">
+                <a href="/about/world-economic-forum">Our Mission</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/leadership-and-governance">Leadership and Governance</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/world-economic-forum-center-for-the-fourth-industrial-revolution">Center for the Fourth Industrial Revolution</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/our-members-and-partners">Our Members and Partners</a>
+              </div>
+                <div class="list-group__item">
+                  <a href="/agenda/2015/12/the-fourth-industrial-revolution-what-it-means-and-how-to-respond">The Fourth Industrial Revolution</a>
+                </div>
+              <div class="list-group__item">
+                <a href="/about/communities">Communities</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/history">History</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/klaus-schwab">Klaus Schwab</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/our-impact">Our Impact</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/pictures">Pictures</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/press">Media</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/a-global-platform-for-geostrategic-collaboration">A Global Platform for Geostrategic Collaboration</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/transformation-maps">Mapping Global Transformations </a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/contact">Contact Us</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/careers">Careers</a>
+              </div>
+                <div class="list-group__item">
+                  <a href="http://www.openforumdavos.ch/en/">Open Forum</a>
+                </div>
+              <div class="list-group__item">
+                <a href="/about/code-of-conduct">Code of Conduct</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/world-economic-forum-llc">World Economic Forum LLC</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/privacy-and-terms-of-use">Privacy and Terms of Use</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/world-economic-forum-japan">日本事務所</a>
+              </div>
+              <div class="list-group__item">
+                <a href="/about/sustainability-world-economic-forum">Sustainability</a>
+              </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer__list-group">
+        <div class="list-group">
+          <div class="list-group__header">
+            <span>Media</span>
+          </div>
+          <div class="list-group__items">
+            <div class="list-group__item">
+              <a href="/press/">News</a>
+            </div>
+            <div class="list-group__item">
+              <a href="https://www.weforummedia.org/">Accreditation</a>
+            </div>
+            <div class="list-group__item">
+              <a href="https://weforum.us3.list-manage.com/subscribe/?u=6308fe51b420dc9ff3834abc8&amp;id=bf3fa00e64" target="_blank">Subscribe to our news</a>
+            </div>
+          </div>
+      </div>
+    </div>
+    <div class="footer__list-group">
+        <div class="list-group">
+          <div class="list-group__header">
+            <span>Members &amp; Partners</span>
+          </div>
+          <div class="list-group__items">
+            <div class="list-group__item">
+              <a href="https://toplink.weforum.org/">Member login to TopLink</a>
+            </div>
+            <div class="list-group__item">
+              <a href="https://toplink.weforum.org/">Strategic Partners&#39; area</a>
+            </div>
+            <div class="list-group__item">
+              <a href="https://toplink.weforum.org/">Partner Institutes&#39; area</a>
+            </div>
+          </div>
+      </div>
+    </div>
+    <div class="footer__list-group">
+        <div class="list-group">
+          <div class="list-group__header">
+            <span>Global sites</span>
+          </div>
+          <div class="list-group__items">
+            <div class="list-group__item">
+              <a href="https://www.weforum.org/center-for-the-fourth-industrial-revolution/">Center for the Fourth Industrial Revolution</a>
+            </div>
+            <div class="list-group__item">
+              <a href="https://www.weforum.org/open-forum">Open Forum</a>
+            </div>
+            <div class="list-group__item">
+              <a href="http://www.globalshapers.org/">Global Shapers</a>
+            </div>
+            <div class="list-group__item">
+              <a href="http://www.schwabfound.org/">Schwab Foundation for Social Entrepreneurship</a>
+            </div>
+            <div class="list-group__item">
+              
+<div class="locale-switcher locale-switcher__footer">
+    
+      <span class="locale-link locale-link--EN">EN</span>
+    <a class="locale-link locale-link--es" href="/es/agenda">ES</a>    <a class="locale-link locale-link--fr" href="/fr/agenda">FR</a>    <a class="locale-link locale-link--中文" href="http://cn.weforum.org/">中文</a>    <a class="locale-link locale-link--日本語" href="http://www.weforum.jp/">日本語</a></div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="small-12 columns">
+      <div class="footer__info-container">
+        <div class="footer__info-group">
+          © 2018 World Economic Forum
+        </div>
+        <div class="footer__info-group">
+          <a href="/about/privacy-and-terms-of-use">Privacy Policy &amp; Terms of Service</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<div id="modal" class="modal__container">
+  <div id="modalBackground" class="modal__background"></div>
+  <div id="modalContent" class="modal__content"></div>
+</div>
+
+  </div>
+
+  
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-15704185-3', 'auto');
+  ga('send', 'pageview');
+
+
+</script>
+
+    <!-- START Parse.ly Include: Standard -->
+<div id="parsely-root" style="display: none">
+  <div id="parsely-cfg" data-parsely-site="agenda.weforum.org"</div>
+</div>
+<script>
+(function(s, p, d) {
+  var h=d.location.protocol, i=p+"-"+s,
+      e=d.getElementById(i), r=d.getElementById(p+"-root"),
+      u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+      :"static."+p+".com";
+  if (e) return;
+  e = d.createElement(s); e.id = i; e.async = true;
+  e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+})("script", "parsely", document);
+</script>
+<!-- END Parse.ly Include -->
+
+    <script>
+//<![CDATA[
+
+  var _sf_async_config = _sf_async_config || {};
+  /** CONFIGURATION START **/
+  _sf_async_config.title = 'Walmart has patented autonomous robot bees';
+  _sf_async_config.sections = 'Article, Futurism, contentpartner, environment-and-natural-resource-security, retail-consumer-goods-and-lifestyle, artificial-intelligence-and-robotics, content-partner';
+  _sf_async_config.authors = 'Chelsea Gohd';
+  
+  /** CONFIGURATION END **/
+  (function() {
+      function loadChartbeat() {
+          window._sf_endpt = (new Date()).getTime();
+          var e = document.createElement('script');
+          e.setAttribute('language', 'javascript');
+          e.setAttribute('type', 'text/javascript');
+          e.setAttribute('src', '//static.chartbeat.com/js/chartbeat_video.js');
+
+          document.body.appendChild(e);
+      }
+      var _cbv = window._cbv || (window._cbv = []);
+      _cbv.push(['autoDetectYouTubeIframes']);
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+          loadChartbeat : function() {
+              oldonload();
+              loadChartbeat();
+          };
+  })();
+
+//]]>
+</script>
+
+  <script src="/assets/application-c0ddc4b0ff18c85d0477086bebc8ee35804f6b91454bd7a1743ede99e5fc65fa.js"></script>
+  
+
+</body>
+</html>

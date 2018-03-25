@@ -1,0 +1,956 @@
+
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="en">
+<head id="head1"><title>
+	Egypt's court bars Uber, Careem from operating in country - Politics  - Egypt - Ahram Online 
+</title><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="shortcut icon" href="../UI/Front/favicon32.ico" type="image/x-icon" /><meta name="msapplication-task" content="name=Ahram Online;action-uri=http://english.ahram.org.eg/;icon-uri=favicon32.ico" /><meta name="application-name" content="Ahram Online" /><meta name="msapplication-tooltip" content="Ahram Online" />
+    <base id="head_MainBase" href="http://english.ahram.org.eg/"></base>
+
+<link href="../Responsive/css/style.css" rel="stylesheet" /><link href="../Responsive/css/foundation.css" rel="stylesheet" /><link href="../App_Themes/Black/lightbox.css" rel="stylesheet" type="text/css" /><link href="../App_Themes/Black/jquery.lightbox-0.5.css" rel="stylesheet" type="text/css" />
+
+    <script src="../../Responsive/js/vendor/modernizr.js"></script>
+    <script src="../../Responsive/js/Inter.js"></script>
+    <script src="../../JS/jx.js"></script>
+
+    <script src="../../js/jquery-1.4.2.min.js" type="text/javascript"></script>
+
+    
+    <script src="inc/mbGallery.js"></script>
+
+    <script src="../../JS/jquery.lightbox-0.5.js" type="text/javascript"></script>
+
+
+<meta name="Keywords" content="Ayat Al Tawy,Ahram Online, Egypt, Uber, Careem, ban, operation," /><meta name="Description" content="Egypt&#39;s court bars Uber, Careem from operating in country" /></head>
+<body id="page1">
+    
+<style>
+    .adsR-container {
+        height: 100%;
+        margin-left: -670px;
+        position: fixed;
+        left: 49%;
+        top: 5px;
+        width: 179px;
+        text-align: right;
+
+    }
+
+    .adsL-container {
+        height: 100%;
+        margin-right: -670px;
+        position: fixed;
+        right: 49%;
+        top: 5px;
+        width: 180px;
+    }
+
+
+</style>
+
+<div id="divAd1" class="adsL-container">
+    <div id="AdvSiteSkin_divRight"><iframe src='http://www.ahram.org.eg/newadv/a.aspx?ZoneID=197&amp;Task=Get&amp;PageID=73263&amp;SiteID=1' width=180 height=720 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No>
+                                    <script language='javascript1.1' src='http://www.ahram.org.eg/newadv/a.aspx?ZoneID=197&amp;Task=Get&amp;Browser=NETSCAPE4&amp;NoCache=True&PageID=73263&amp;SiteID=1'></script>
+                                    <noscript><a href='http://www.ahram.org.eg/newadv/a.aspx?ZoneID=197&amp;Task=Click&amp;Mode=HTML&amp;SiteID=1&amp;PageID=73263' target='_blank'>
+                                    <img src='http://www.ahram.org.eg/newadv/a.aspx?ZoneID=197&amp;Task=Get&amp;Mode=HTML&amp;SiteID=1&amp;PageID=73263' width='180' height='720' border='0'  alt=''></a>
+                                    </noscript>
+                                    </iframe></div>
+
+</div>
+<div id="divAd2" class="adsR-container">
+    <div id="AdvSiteSkin_divleft"><iframe src='http://www.ahram.org.eg/newadv/a.aspx?ZoneID=198&amp;Task=Get&amp;PageID=73263&amp;SiteID=1' width=180 height=720 Marginwidth=0 Marginheight=0 Hspace=0 Vspace=0 Frameborder=0 Scrolling=No>
+                                    <script language='javascript1.1' src='http://www.ahram.org.eg/newadv/a.aspx?ZoneID=198&amp;Task=Get&amp;Browser=NETSCAPE4&amp;NoCache=True&PageID=73263&amp;SiteID=1'></script>
+                                    <noscript><a href='http://www.ahram.org.eg/newadv/a.aspx?ZoneID=198&amp;Task=Click&amp;Mode=HTML&amp;SiteID=1&amp;PageID=73263' target='_blank'>
+                                    <img src='http://www.ahram.org.eg/newadv/a.aspx?ZoneID=198&amp;Task=Get&amp;Mode=HTML&amp;SiteID=1&amp;PageID=73263' width='180' height='720' border='0'  alt=''></a>
+                                    </noscript>
+                                    </iframe></div>
+</div>
+
+
+    <form method="post" action="/News/293155.aspx" id="form1">
+<input type="hidden" name="ToolkitScriptManager1_HiddenField" id="ToolkitScriptManager1_HiddenField" value="" />
+<input type="hidden" name="__VIEWSTATE_CACHEKEY" id="__VIEWSTATE_CACHEKEY" value="VIEWSTATE_q0aorfgibqvowzycfelifzwr_/News/293155.aspx_636572073019206245" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+
+
+<script src="/ScriptResource.axd?d=DKGH334PNwLQEwjbekhja8IWHfgMr3qcUUf84OC-DXGBb0y9vYbKJ-K0RwEpDluNyuZFllLeTiZP-Lvf-BYkCul-LDOjUnfxwBmvWMVlKnFobw7ClQxDgO4yqBeA7oPugofVNK1CL8s7lRhPNL7lGA2&amp;t=5f8643ea" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/UI/Front/Inner.aspx?_TSM_HiddenField_=ToolkitScriptManager1_HiddenField&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.40412.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a065e08c0-e2d1-42ff-9483-e5c14441b311%3a475a4ef5%3a5546a2b%3ad2e10b12%3aeffe2a26%3af9e9a939" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="dbxlNfLr5s2o7Dx0f8D7ZU66DkHCo5_0e8MFfSFaR8iNfrtSbv8F8k8ae6YYptmM0OFophbzXQ7jwlR9zcv58TjHNtxRicbj-YzRP8UpI0g1" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="bmpPcQDdbBcGM86xxXCZYVDRhuJlVMemn56ZZyvaNYp3Ay9D35ZOn3w/tUEsVmQKuupxMy79QOR0FL48bzHpOxL7p/z6VMc28iMLw0o8txZu4yJQy+ew8eOZblcjDe3J+tjy+pU8Idyq1dbaRm6nmZN5W2DtOdv9k06+cl3CuVs+DcNm6mtyB0PMuHqfGV8wXKdH4kw8X5a8d6F3D6z5BMvrnrYGUF8RpDGa/V8D406gi5U7U8gDcle8yweUKQDKzeoH+K4gpQzaavGX52tOSAtX0pFoHGT8G9qaV0l4bGBes4s13VJ0bFqzZzsdXELx" />
+
+        
+
+        <div id="divScript"><script>var BaseURLAddress='http://english.ahram.org.eg/';</script></div>
+
+
+        <div id="headerMob" class="show-for-small-only">
+
+            <div class="small-6 column topSocial">
+                <ul class="large-block-grid-3 small-block-grid-3">
+                    <li><a target="_blank" href="https://plus.google.com/115177451874746263968" rel="publisher">
+                        <img border="0" src="../../Responsive/img/google-plus1.jpg" width="16" height="16" alt="Find us on Google+" title="Find us on Google+"></a></li>
+                    <li><a href="http://www.facebook.com/pages/Ahram-Online/138561829527411" target="_blank">
+                        <img border="0" src="../../Responsive/img/1284892600_facebook.png" width="16" height="16" alt="Find us on facebook" title="Find us on facebook"></a></li>
+                    <li><a href=" http://twitter.com/ahramonline" target="_blank">
+                        <img border="0" src="../../Responsive/img/twitterIcon.png" width="15" height="15" alt="Find us on twitter" title="Find us on twitter"></a></li>
+                </ul>
+            </div>
+
+            
+
+            <div class="aoLogo" style="text-align: center;">
+                <a href="../../Index.aspx">
+                    <img src="../../Responsive/img/online.jpg" alt=""></a>
+            </div>
+            <div class="row">
+                <nav class="top-bar" data-topbar role="navigation">
+                    <ul class="title-area">
+                        <li class="name">
+                            
+                            
+                        </li>
+                        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+                        <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+                    </ul>
+
+                    <section class="top-bar-section">
+                        <!-- Left Nav Section -->
+                        <ul id="ulMobileMenu" class="left"><li><a href='http://english.ahram.org.eg/'>Home</a></li><li><a href='http://english.ahram.org.eg/Portal/1/Egypt.aspx'>Egypt</a><li><a href='http://english.ahram.org.eg/Portal/8/Travel.aspx'>Travel</a><li><a href='http://english.ahram.org.eg/Portal/2/World.aspx'>World</a><li><a href='http://english.ahram.org.eg/Portal/3/Business.aspx'>Business</a><li><a href='http://english.ahram.org.eg/UI/Front/Opinion.aspx?NewsPortalID=4'>Opinion</a><li><a href='http://english.ahram.org.eg/Portal/5/Arts--Culture.aspx'>Arts & Culture</a><li><a href='http://english.ahram.org.eg/Portal/32/Folk.aspx'>Folk</a><li><a href='http://english.ahram.org.eg/Portal/6/Sports.aspx'>Sports</a><li><a href='http://english.ahram.org.eg/Portal/7/Life--Style.aspx'>Life & Style</a><li><a href='http://english.ahram.org.eg/Portal/9/Heritage.aspx'>Heritage</a><li><a href='http://english.ahram.org.eg/UI/Front/Books.aspx?NewsPortalID=18'>Books</a><li><a href='http://english.ahram.org.eg/Portal/44/Analysis.aspx'>Analysis</a><li><a href='http://english.ahram.org.eg/PortalM/13/Multimedia.aspx'>Multimedia</a></ul>
+                    </section>
+                </nav>
+            </div>
+
+
+
+        </div>
+
+        <div class="row hide-for-small-only">
+            <div class="topBar clearfix">
+                <div class="list_bar">
+                    <div class="large-4 medium-4 small-4 column" style="margin-top: 4px;">
+                        <span id="lblLastUpdate" style="margin-right: 37px;">Last Update 22:29</span>
+                        <img src="App_Themes/Black/images/line_bar.jpg" width="1" height="14" alt="" />
+
+                    </div>
+
+                    <div class="large-2 medium-2 small-2 column topSocial">
+                        <ul class="large-block-grid-3 small-block-grid-3">
+                            <li><a target="_blank" href="https://plus.google.com/115177451874746263968" rel="publisher">
+                                <img border="0" src="Responsive/img/google-plus1.jpg" width="16" height="16" alt="Find us on Google+" title="Find us on Google+"></a></li>
+                            <li><a href="http://www.facebook.com/pages/Ahram-Online/138561829527411" target="_blank">
+                                <img border="0" src="Responsive/img/1284892600_facebook.png" width="16" height="16" alt="Find us on facebook" title="Find us on facebook"></a></li>
+                            <li><a href=" http://twitter.com/ahramonline" target="_blank">
+                                <img border="0" src="Responsive/img/twitterIcon.png" width="15" height="15" alt="Find us on twitter" title="Find us on twitter"></a></li>
+                        </ul>
+                    </div>
+
+                    <div class="large-4 medium-4 small-4 column" style="margin-top: 4px;">
+                        <img src="App_Themes/Black/images/line_bar.jpg" width="1" height="14" alt="" />
+                        <a id="ctl00_HyperLink1" href="UI/Front/Aboutus.aspx" style="margin-left: 37px;">About Us</a>
+                    </div>
+
+                    
+
+                    <div class="large-2 medium-2 small-2 column">
+                        <img src="App_Themes/Black/images/line_bar.jpg" width="1" height="14" alt="" />
+                        <img src="Responsive/img/gate-miniAdv.png" alt="" />
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+
+        <div class="row hide-for-small-only">
+            <div class="large-5 medium-5 small-2 column aoLogo">
+                <a href="../../Index.aspx">
+                    <img src="../../Responsive/img/online.jpg" alt="" /></a>
+            </div>
+            <div class="large-3 medium-3 small-2 column date">
+                <span id="lblDate">Wednesday, 21 March 2018</span>
+            </div>
+            <div class="large-4 medium-4 small-2 column">
+                <div id="Panel1">
+	
+                    <div class="search clearfix">
+                        <div class="text_search large-8 medium-8 small-8 column">
+                            
+                            <input name="ctl00$txtSearch" type="text" id="txtSearch" placeholder="Please enter keyword" border="1" style="padding: 0px; width: 90%;" />
+                        </div>
+
+                        <div class="button_search large-4 medium-4 small-4 column">
+                            
+                            <input type="image" name="ctl00$imgbSearch" id="imgbSearch" src="../Responsive/img/button.png" onclick="return CheckSearchForm();" />
+                        </div>
+                    </div>
+                
+</div>
+
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="bk_menu hide-for-small-only">
+                <div id="divMainCategory" class="menu_text"><ul id='topnav' class='clearfix'><li><a href='http://english.ahram.org.eg/'>Home</a></li><li><a href='http://english.ahram.org.eg/Portal/1/Egypt.aspx'>Egypt</a><span style='display: none;'><a href='http://english.ahram.org.eg/Category/1/64/Egypt/Politics-.aspx'>Politics </a> | <a href='http://english.ahram.org.eg/Category/1/1187/Egypt/-Presidential-Elections--.aspx'> Presidential Elections 2018 </a></span></li><li><a href='http://english.ahram.org.eg/Portal/8/Travel.aspx'>Travel</a></li><li><a href='http://english.ahram.org.eg/Portal/2/World.aspx'>World</a><span style='display: none;'><a href='http://english.ahram.org.eg/Category/2/8/World/Region.aspx'>Region</a> | <a href='http://english.ahram.org.eg/Category/2/9/World/International.aspx'>International</a> | <a href='http://english.ahram.org.eg/Category/2/10/World/Africa.aspx'>Africa</a> | <a href='http://english.ahram.org.eg/Category/2/1192/World/The-Quest-for-Water.aspx'>The Quest for Water</a></span></li><li><a href='http://english.ahram.org.eg/Portal/3/Business.aspx'>Business</a><span style='display: none;'><a href='http://english.ahram.org.eg/Category/3/12/Business/Economy.aspx'>Economy</a></span></li><li><a href='http://english.ahram.org.eg/UI/Front/Opinion.aspx?NewsPortalID=4'>Opinion</a></li><li><a href='http://english.ahram.org.eg/Portal/5/Arts--Culture.aspx'>Arts & Culture</a><span style='display: none;'><a href='http://english.ahram.org.eg/Category/5/25/Arts--Culture/Visual-Art.aspx'>Visual Art</a> | <a href='http://english.ahram.org.eg/Category/5/32/Arts--Culture/Film.aspx'>Film</a> | <a href='http://english.ahram.org.eg/Category/5/33/Arts--Culture/Music.aspx'>Music</a> | <a href='http://english.ahram.org.eg/Category/5/35/Arts--Culture/Stage--Street.aspx'>Stage & Street</a> | <a href='http://english.ahram.org.eg/Category/5/159/Arts--Culture/Entertainment.aspx'>Entertainment</a> | <a href='http://english.ahram.org.eg/Category/5/38/Arts--Culture/Time-Out.aspx'>Time Out</a> | <a href='http://english.ahram.org.eg/Category/5/1188/Arts--Culture/City-Lights.aspx'>City Lights</a></span></li><li><a href='http://english.ahram.org.eg/Portal/32/Folk.aspx'>Folk</a><span style='display: none;'><a href='http://english.ahram.org.eg/Category/32/97/Folk/Street-Smart.aspx'>Street Smart</a> | <a href='http://english.ahram.org.eg/Category/32/98/Folk/Folk-Arts.aspx'>Folk Arts</a> | <a href='http://english.ahram.org.eg/Category/32/99/Folk/Special-Files.aspx'>Special Files</a> | <a href='http://english.ahram.org.eg/Category/32/138/Folk/Photo-Heritage.aspx'>Photo Heritage</a> | <a href='http://english.ahram.org.eg/Category/32/1168/Folk/Inspiring-Women.aspx'>Inspiring Women</a> | <a href='http://english.ahram.org.eg/Category/32/1169/Folk/Inspiring-Minds.aspx'>Inspiring Minds</a></span></li><li><a href='http://english.ahram.org.eg/Portal/6/Sports.aspx'>Sports</a><span style='display: none;'><a href='http://english.ahram.org.eg/Category/6/51/Sports/Egyptian-Football.aspx'>Egyptian Football</a> | <a href='http://english.ahram.org.eg/Category/6/53/Sports/Talents-Abroad.aspx'>Talents Abroad</a> | <a href='http://english.ahram.org.eg/Category/6/52/Sports/National-Teams.aspx'>National Teams</a> | <a href='http://english.ahram.org.eg/Category/6/55/Sports/World.aspx'>World</a> | <a href='http://english.ahram.org.eg/Category/6/56/Sports/Omni-Sports.aspx'>Omni Sports</a> | <a href='http://english.ahram.org.eg/Category/6/54/Sports/Africa.aspx'>Africa</a> | <a href='http://english.ahram.org.eg/PortalM/6/Multimedia.aspx'>Multimedia</a></span></li><li><a href='http://english.ahram.org.eg/Portal/7/Life--Style.aspx'>Life & Style</a><span style='display: none;'><a href='http://english.ahram.org.eg/Category/7/47/Life--Style/Style.aspx'>Style</a> | <a href='http://english.ahram.org.eg/Category/7/48/Life--Style/Health.aspx'>Health</a> | <a href='http://english.ahram.org.eg/Category/7/49/Life--Style/Food.aspx'>Food</a></span></li><li><a href='http://english.ahram.org.eg/Portal/9/Heritage.aspx'>Heritage</a></li><li><a href='http://english.ahram.org.eg/UI/Front/Books.aspx?NewsPortalID=18'>Books</a></li><li><a href='http://english.ahram.org.eg/Portal/44/Analysis.aspx'>Analysis</a></li><li><a href='http://english.ahram.org.eg/PortalM/13/Multimedia.aspx'>Multimedia</a></li></ul></div>
+                <div class="sub_menu">
+                </div>
+            </div>
+        </div>
+
+        <div id="topContent" class="row">
+            
+
+    <div class="large-9 medium-9 small-12 column noPadall clearfix" style="border-right: #999 thin solid">
+        <div class="large-9 medium-9 small-12 column ">
+           
+
+            <div id="ctl00_ContentPlaceHolder1_divLeftTitle">
+                <div id="ContentPlaceHolder1_hd" class="hd_inner mobhd"><h1>Egypt's court bars Uber, Careem from operating in country</h1></div>
+
+                
+                <div id="ContentPlaceHolder1_bref" class="bref_inner"><h2></h2></div>
+
+                <div style="clear: both;">
+                </div>
+                <div class="line_inner">
+                </div>
+                <div id="ContentPlaceHolder1_source" class="bref_list" style="text-align: left; background: none;">
+                <a href='http://english.ahram.org.eg/WriterArticles/Ayat-Al-Tawy/538/0.aspx'>Ayat Al Tawy</a> , Tuesday 20 Mar 2018</div>
+                <div style="clear: both;">
+                    <div class="line_inner">
+                    </div>
+                </div>
+            </div>
+            <div id="ContentPlaceHolder1_divImg" class="img_inner"><img src='http://english.ahram.org.eg/Media/News/2018/3/20/2018-636571525722262012-226.jpg' alt='Uber ' title='Uber ' /><br /><div class='Caption'>A file photo for Uber application in India in 2014 (Photo: Reuters) </div><link href='http://english.ahram.org.eg/Media/News/2018/3/20/2018-636571525722262012-226.jpg' type='image/jpeg' rel='image_src'></div>
+                <!--  div social for mobile -->
+             <div id="ctl00_ContentPlaceHolder1_share" class="icons_inner show-for-small-only">
+                <div class="line_icons">
+                </div>
+                <div id="ContentPlaceHolder1_divPrintmob" class="C_icon" style=" text-align: left; display:inline-block;"><div class='icon1'>
+                                            <a href='http://english.ahram.org.eg/NewsPrint/293155.aspx' id='PrintRef2' title='Printable Version'>
+                                                <img alt='' src='http://english.ahram.org.eg/Responsive/img/icon_1.jpg' width='16' height='16' style='border-width: 0;'></a>
+                                        </div></div>
+               
+                <div id="ContentPlaceHolder1_divtwittermob" style="display: inline-block; width:62px;" class="text_icons"><a href='http://twitter.com/share' class='twitter-share-button' rel='me' data-url='http://english.ahram.org.eg/News/293155.aspx' data-count='horizontal' data-text='Egypt&apos;s court bars Uber, Careem from operating in country' data-via='ahramonline'>Tweet</a><script type='text/javascript' src='http://platform.twitter.com/widgets.js'></script></div>
+               
+                <div id="ContentPlaceHolder1_divfbmob" style="display: inline-block;" class="text_icons"><fb:like layout='button_count' data-action='recommend' href='http://english.ahram.org.eg/News/293155.aspx'></fb:like></div>
+
+                 <div class="icon1" style="display:inline-block; ">
+                    <div id="___plusone_1" style="text-indent: 0px; margin: 0px; padding: 0px; border-style: none; float: none; line-height: normal; font-size: 1px; vertical-align: baseline; display: inline-block; width: 106px; height: 24px; background: transparent;">
+                        <iframe frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position: static; top: 0px; width: 70px !important; margin: 0px; border-style: none; left: 0px; visibility: visible; height: 24px;" tabindex="0" vspace="0" width="100%" id="I0_1438675891698" name="I0_1438675891698" src="https://apis.google.com/se/0/_/+1/fastbutton?usegapi=1&amp;origin=http%3A%2F%2Fenglish.ahram.org.eg&amp;url=http%3A%2F%2Fenglish.ahram.org.eg%2FNewsContent%2F2%2F9%2F136853%2FWorld%2FInternational%2FObama-sets-stricter-power-plant-cuts-in-global-cha.aspx&amp;gsrc=3p&amp;ic=1&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.ar.4Y1CumubAuE.O%2Fm%3D__features__%2Fam%3DAQ%2Frt%3Dj%2Fd%3D1%2Ft%3Dzcms%2Frs%3DAGLTcCNYJqlDRC7maA-sQoPxrby7lqbL_Q#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh&amp;id=I0_1438675891698&amp;parent=http%3A%2F%2Fenglish.ahram.org.eg&amp;pfname=&amp;rpctoken=32002479" data-gapiattached="true" title="1+"></iframe>
+                    </div>
+                </div>
+                
+                <div class="icon1" style="display: inline-block;">
+                    <div id="ContentPlaceHolder1_AddThisButtonmob" style="display: inline-block;"><a class="a2a_dd" href="http://www.addtoany.com/share_save"><img src="http://static.addtoany.com/buttons/share_save_171_16.png" width="135" height="16" border="0" alt="Share/Bookmark" /></a>
+                                            <script type="text/javascript">var a2a_config = a2a_config || {};
+                                            a2a_config.linkurl = "http://english.ahram.org.eg/News/293155.aspx"</script><script type="text/javascript" src="http://static.addtoany.com/menu/page.js"></script></div>
+                    <div style="display: inline-block;" id="DivImgToSharemob">
+                    </div>
+                </div>                              
+                <div class="line_icons">
+                </div>
+                     <div id="ContentPlaceHolder1_ReadDiv">
+                    <div class="icon1" style="float: left;">
+                        <img alt="" src="../../App_Themes/Black/images/reading-2.png" width="16" height="16"
+                            style="border-width: 0;" />
+                    </div>
+                    <div id="ContentPlaceHolder1_ReadCountDiv" class="text_icons" style="color: #005689; float: left">Views: 9054</div>
+                    <div class="line_icons" style="float: left; width: 100%;">
+                    </div>
+                </div>
+            </div>
+             <!--div social end -->
+
+        </div>
+
+        <div class="large-3 medium-3 small-12 column hide-for-small-only">
+            
+
+
+            <div id="ctl00_ContentPlaceHolder1_Div1" class="icons_inner">
+                <div class="line_icons">
+                </div>
+                <div id="ContentPlaceHolder1_divPrint" class="C_icon" style="text-align: left; display: inline-flex;"><div class='icon1'>
+                                            <a href='http://english.ahram.org.eg/NewsPrint/293155.aspx' id='PrintRef2' title='Printable Version'>
+                                                <img alt='' src='http://english.ahram.org.eg/Responsive/img/icon_1.jpg' width='16' height='16' style='border-width: 0;'></a>
+                                        </div>
+                                        <div class='text_icons'>
+                                            <a href='http://english.ahram.org.eg/NewsPrint/293155.aspx' id='PrintRef' title='Printable Version'>Print</a>
+                                        </div></div>
+
+                <div class="line_icons">
+                </div>
+                
+
+
+                <div id="ContentPlaceHolder1_divtwitter" class="text_icons"><a href='http://twitter.com/share' class='twitter-share-button' rel='me' data-url='http://english.ahram.org.eg/News/293155.aspx' data-count='horizontal' data-text='Egypt&apos;s court bars Uber, Careem from operating in country' data-via='ahramonline'>Tweet</a><script type='text/javascript' src='http://platform.twitter.com/widgets.js'></script></div>
+                <div class="line_icons">
+                </div>
+                <div id="ContentPlaceHolder1_divfb" class="text_icons"><fb:like layout='button_count' data-action='recommend' href='http://english.ahram.org.eg/News/293155.aspx'></fb:like></div>
+                <div class="line_icons">
+                </div>
+                <div class="icon1">
+                    <div id="ContentPlaceHolder1_AddThisButton"><a class="a2a_dd" href="http://www.addtoany.com/share_save"><img src="http://static.addtoany.com/buttons/share_save_171_16.png" width="135" height="16" border="0" alt="Share/Bookmark" /></a>
+                                            <script type="text/javascript">var a2a_config = a2a_config || {};
+                                            a2a_config.linkurl = "http://english.ahram.org.eg/News/293155.aspx"</script><script type="text/javascript" src="http://static.addtoany.com/menu/page.js"></script></div>
+                    <div id="DivImgToShare">
+                    </div>
+                </div>
+                <div class="line_icons">
+                </div>
+                <div class="icon1">
+                    <div id="___plusone_0" style="text-indent: 0px; margin: 0px; padding: 0px; border-style: none; float: none; line-height: normal; font-size: 1px; vertical-align: baseline; display: inline-block; width: 106px; height: 24px; background: transparent;">
+                        <iframe frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position: static; top: 0px; width: 106px; margin: 0px; border-style: none; left: 0px; visibility: visible; height: 24px;" tabindex="0" vspace="0" width="100%" id="I0_1438675891698" name="I0_1438675891698" src="https://apis.google.com/se/0/_/+1/fastbutton?usegapi=1&amp;origin=http%3A%2F%2Fenglish.ahram.org.eg&amp;url=http%3A%2F%2Fenglish.ahram.org.eg%2FNewsContent%2F2%2F9%2F136853%2FWorld%2FInternational%2FObama-sets-stricter-power-plant-cuts-in-global-cha.aspx&amp;gsrc=3p&amp;ic=1&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.ar.4Y1CumubAuE.O%2Fm%3D__features__%2Fam%3DAQ%2Frt%3Dj%2Fd%3D1%2Ft%3Dzcms%2Frs%3DAGLTcCNYJqlDRC7maA-sQoPxrby7lqbL_Q#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh&amp;id=I0_1438675891698&amp;parent=http%3A%2F%2Fenglish.ahram.org.eg&amp;pfname=&amp;rpctoken=32002479" data-gapiattached="true" title="1+"></iframe>
+                    </div>
+                </div>
+                <div class="line_icons">
+                </div>
+                <div id="ContentPlaceHolder1_ReadDiv2">
+                    <div class="icon1" style="float: left;">
+                        <img alt="" src="../../App_Themes/Black/images/reading-2.png" width="16" height="16"
+                            style="border-width: 0;" />
+                    </div>
+                    <div id="ContentPlaceHolder1_ReadCountDiv2" class="text_icons" style="color: #005689; float: left">Views: 9054</div>
+                    <div class="line_icons" style="float: left; width: 100%;">
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+
+        <div class="large-12 medium-12 small-12 column ">
+
+            <div id="ContentPlaceHolder1_divContent" class="text_inner mob"><p>
+	Egypt&#39;s administrative court banned on Tuesday taxi-hailing services Uber and Careem from operating in the country.</p>
+<p>
+	The case against the two companies was filed in February 2017 by a group of traditional taxi drivers, who accused the services of violating the traffic law by using privately-owned vehicles for commercial purposes. The case was filed against the two operators as well as the government.</p>
+<p>
+	Judicial sources said Tuesday's court decision should immediately go into effect and that companies must cease their services pending a final ruling. The verdict can still be appealed before Egypt's Higher Administrative Court.
+<p>
+	Abdellatif Waked, Uber Egypt&rsquo;s general manager,&nbsp;said in comments emailed to Ahram Online that the San Francisco-based company intends to appeal the court decision.</p>
+<p>
+	&ldquo;We respect the rulings of the Egyptian judiciary, and cannot comment in detail on ongoing legal proceedings. However, we will appeal this decision, and continue to be available in Egypt,&quot; he said.</p>
+<p>
+	&quot;It is important to clarify that today&rsquo;s verdict does not mean suspending the operations of Uber in Egypt,&quot; Waked added.</p>
+<p>
+	Hours earlier, the Dubai-based Careem said in a brief statement on Facebook that it has not officially been notified about the ban, and that its operations in the country are continuing as normal.</p>
+<p>
+	The ride-hailing smartphone applications had sparked several protests from cab drivers in the capital Cairo over their use of private vehicles to transport commuters, which they&nbsp;say violates traffic regulations.</p>
+<p>
+	Taxi drivers have been angered because they are losing clients to both services, as many people are opting to use the two apps to commute in the capital and other cities.</p>
+<p>
+	Uber, first launched in San Francisco seven years ago, began operating in Egypt in November 2014. The service is now operating in more than 80 countries.</p>
+<p>
+	Its rival Careem operates across13 countries and more than 90cities&nbsp;in the Middle East and Asia. It also launched in Egypt in 2014.</p>
+<p>
+	Uber Egypt&#39;s General Manager Waked said on Tuesday that his company has provided &quot;more than 150,000 economic opportunities in Egypt in 2017 alone,&quot; and has over the past two years been working with the Egyptian government to set up a &quot;ridesharing framework.&quot;</p>
+<p>
+	&quot;We will do all we can to ensure millions of Egyptians can continue to enjoy the benefits of on-demand transportation,&quot; he said.</p>
+<p>
+	Late last year, Egypt&#39;s cabinet approved a transportation bill allowing and regulating the operations of the two ride-hailing companies. The law has been passed on to Egypt&#39;s State Council for a final legal review.</p>
+<p>
+	Last October, Uber announced it would make investments of $20 million over the next five years on its support centre in Cairo.</p>
+<p>
+	The company has said that Egypt is one of the company&#39;s fastest-growing markets. Uber had 2 million users and employed 60,000 drivers in 2016, the company&#39;s Middle East and Africa chief Pierre-Dimitri Gore-Coty told Reuters in October.</p>
+<div class='line_inner_AfterTopic'></div><div  class="search_word" dir='ltr'><div  class="hd_word" dir='ltr'>Search Keywords:</div><div  class="words" dir='ltr' style='width: auto;display: inline-block;'><a href="http://english.ahram.org.eg/UI/Front/Search.aspx?Text=Ayat Al Tawy" lang='ar' dir='ltr'><h5>Ayat Al Tawy</h5>- </a><a href="http://english.ahram.org.eg/UI/Front/Search.aspx?Text=Ahram Online" lang='ar' dir='ltr'><h5>Ahram Online</h5>- </a><a href="http://english.ahram.org.eg/UI/Front/Search.aspx?Text= Egypt" lang='ar' dir='ltr'><h5> Egypt</h5>- </a><a href="http://english.ahram.org.eg/UI/Front/Search.aspx?Text= Uber" lang='ar' dir='ltr'><h5> Uber</h5>- </a><a href="http://english.ahram.org.eg/UI/Front/Search.aspx?Text= Careem" lang='ar' dir='ltr'><h5> Careem</h5>- </a><a href="http://english.ahram.org.eg/UI/Front/Search.aspx?Text= ban" lang='ar' dir='ltr'><h5> ban</h5>- </a><a href="http://english.ahram.org.eg/UI/Front/Search.aspx?Text= operation" lang='ar' dir='ltr'><h5> operation</h5>- </a></div></div><div class='shortlnk'>Short link: <br /><input type='text' class='text_inner_ShortLink' value='http://english.ahram.org.eg/News/293155.aspx' /></div><p>&nbsp;</p></div>
+        </div>
+        <div id="ContentPlaceHolder1_Relatedmob"></div>  
+        <div id="ContentPlaceHolder1_InternalAds_divInternalAds" class="large-12 medium-12 small-12 column noPadall clearfix"> <div class="large-6 medium-6 small-12 column noPadall clearfix">                                            
+                                                <script language="javascript">
+                                                <!--
+                                                if (window.adgroupid == undefined) {
+                                                 window.adgroupid = Math.round(Math.random() * 1000);
+                                                }
+                                                document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/1425/4945018/0/170/ADTECH;loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+                                                //-->
+                                                </script><noscript><a href="http://adserver.adtech.de/adlink/3.0/1425/4945018/0/170/ADTECH;loc=300" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/1425/4945018/0/170/ADTECH;loc=300" border="0" width="300" height="250"></a></noscript>
+                                                <!-- End of JavaScript Tag -->
+                                        </div>
+                                        <div class="large-6 medium-6 small-12 column noPadall clearfix">                                           
+                                                <script language="javascript">
+                                                <!--
+                                                if (window.adgroupid == undefined) {
+                                                 window.adgroupid = Math.round(Math.random() * 1000);
+                                                }
+                                                document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/1425/5571682/0/170/ADTECH;loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+                                                //-->
+                                                </script><noscript><a href="http://adserver.adtech.de/adlink/3.0/1425/5571682/0/170/ADTECH;loc=300" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/1425/5571682/0/170/ADTECH;loc=300" border="0" width="300" height="250"></a></noscript>
+                                                <!-- End of JavaScript Tag -->
+                                        </div></div>
+
+        <div class="hide-for-small-only">
+            
+<script type="text/javascript">
+    function ShowWait() {
+        if (document.getElementById('ctl00_ContentPlaceHolder1_UC_UserComment1_txtName').value == "" || document.getElementById('ctl00_ContentPlaceHolder1_UC_UserComment1_txtCommentTitle').value == "" || document.getElementById('ctl00_ContentPlaceHolder1_UC_UserComment1_txtComment').value == "") {
+            document.getElementById('ctl00_ContentPlaceHolder1_UC_UserComment1_divButton').style.display = '';
+            document.getElementById('ctl00_ContentPlaceHolder1_UC_UserComment1_divButtonWait').style.display = 'none';
+        }
+        else {
+            Page_ClientValidate();
+            if (Page_IsValid) {
+                document.getElementById('ctl00_ContentPlaceHolder1_UC_UserComment1_divButton').style.display = 'none';
+                document.getElementById('ctl00_ContentPlaceHolder1_UC_UserComment1_divButtonWait').style.display = '';
+            }
+        }
+    }
+</script>
+<div id="ContentPlaceHolder1_UC_UserComment1_updatePanelComments">
+	
+        <div class="large-12 medium-12 small-12 column">
+            <div id="ContentPlaceHolder1_UC_UserComment1_frmvPanelM">
+		
+                <div class="User_comments" id="divAddComment">
+                    <div class="content_comments">
+                        
+                        <div class="logo_comment">
+                            <img src="../../App_Themes/Black/images/logo_comment.jpg" width="182" height="75"
+                                alt="" />
+                        </div>
+                        <div class="center_comment">
+                            <div class="User_content_comment">
+                                <div class="User_text_name">
+                                    Email
+                                </div>
+                                <div class="input_comment">
+                                    <input name="ctl00$ContentPlaceHolder1$UC_UserComment1$txtEmail" type="text" id="ContentPlaceHolder1_UC_UserComment1_txtEmail" size="75" dir="ltr" />
+                                </div>
+                                &nbsp;
+                            </div>
+                            <div class="User_content_comment">
+
+                                <div class="User_text_name">
+                                    Name
+                                </div>
+                                <div class="input_comment">
+                                    <input name="ctl00$ContentPlaceHolder1$UC_UserComment1$txtName" type="text" id="ContentPlaceHolder1_UC_UserComment1_txtName" dir="ltr" size="75" />
+                                </div>
+
+                                &nbsp;
+                            </div>
+                            <div class="User_content_comment">
+                                <div class="User_text_name">
+                                    Comment's<br />
+                                    Title
+                                </div>
+                                <div class="input_comment">
+                                    <input name="ctl00$ContentPlaceHolder1$UC_UserComment1$txtCommentTitle" type="text" id="ContentPlaceHolder1_UC_UserComment1_txtCommentTitle" dir="ltr" size="75" />
+                                </div>
+
+                                &nbsp;
+                            </div>
+                            <div class="User_content_comment">
+                                <div class="User_text_name">
+                                    Comment
+                                </div>
+                                <div class="input_comment" style="height: 154px;">
+
+                                    <textarea name="ctl00$ContentPlaceHolder1$UC_UserComment1$textarea_1_1" id="ContentPlaceHolder1_UC_UserComment1_textarea_1_1" cols="55" rows="7" dir="ltr" maxlength="1000"></textarea>
+                                    
+                                </div>
+
+                                
+                            </div>
+                            <div class="User_content_comment">
+                                <div>
+                                    <span id="ContentPlaceHolder1_UC_UserComment1_lblNotes" style="font-weight: bold;">Ahram Online welcomes readers' comments on all issues covered by the site, along with any criticisms and/or corrections. Readers are asked to limit their feedback to a maximum of 1000 characters (roughly 200 words). All comments/criticisms will, however, be subject to the following </span>
+
+
+                                    <a href="javascript:void(0);" id="ContentPlaceHolder1_UC_UserComment1_Codehref" style="color: #730000; font-weight: bold; text-decoration: underline;">code</a>
+                                </div>
+                                <input type="hidden" name="ctl00$ContentPlaceHolder1$UC_UserComment1$CodeExtender_ClientState" id="ContentPlaceHolder1_UC_UserComment1_CodeExtender_ClientState" />
+                                <div style="display:inline">
+                                    <div id="ContentPlaceHolder1_UC_UserComment1_CodePanel">
+			
+
+                                        <div id="ContentPlaceHolder1_UC_UserComment1_CodeDiv">
+                                            <ul  style="font-size:13px;">
+                                                <li>We will not publish comments which contain rude or abusive language, libelous statements,
+                                            slander and personal attacks against any person/s. </li>
+                                                <li>We will not publish comments which contain racist remarks or any kind of racial
+                                            or religious incitement against any group of people, in Egypt or outside it.
+                                                </li>
+                                                <li>We welcome criticism of our reports and articles but we will not publish personal
+                                            attacks, slander or fabrications directed against our reporters and contributing
+                                            writers. </li>
+                                                <li>We reserve the right to correct, when at all possible, obvious errors in spelling
+                                            and grammar. However, due to time and staffing constraints such corrections will
+                                            not be made across the board or on a regular basis. </li>
+                                            </ul>
+                                        </div>
+                                    
+		</div>
+                                </div>
+                            </div>
+                            <div id="ContentPlaceHolder1_UC_UserComment1_divButton" class="button_comment">
+                                <input type="image" name="ctl00$ContentPlaceHolder1$UC_UserComment1$btnSubmit" id="ContentPlaceHolder1_UC_UserComment1_btnSubmit" src="../App_Themes/Black/images/buttonComment.png" onclick="ShowWait();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$UC_UserComment1$btnSubmit&quot;, &quot;&quot;, true, &quot;UserComments&quot;, &quot;http://english.ahram.org.eg/NewsContent/1/64/293155/Egypt/Politics-/Egypts-court-bars-Uber,-Careem-from-operating-in-c.aspx#divAddComment&quot;, false, false))" />
+                            </div>
+                            <div id="ContentPlaceHolder1_UC_UserComment1_divButtonWait" class="button_Send" style="display: none; width: 200px; margin-bottom: 20px;">
+                                <img alt='' src='../../App_Themes/Black/images/lightbox-ico-loading.gif' />
+                                Please Wait
+                            </div>
+                            <div>
+                                
+                                <input type="hidden" name="ctl00$ContentPlaceHolder1$UC_UserComment1$hdnfTopicTitle" id="ContentPlaceHolder1_UC_UserComment1_hdnfTopicTitle" value="Egypt&#39;s court bars Uber, Careem from operating in country" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            
+	</div>
+            <div id="ContentPlaceHolder1_UC_UserComment1_Messages">
+            </div>
+            <div style="float: left;">
+                <div>
+
+	</div>
+            </div>
+            
+        </div>
+    
+</div>
+
+        </div>
+      
+    </div>
+
+    <div class="large-3 medium-3 small-12 column noPadall">
+        
+
+        
+
+<div class="list_top_news_most">
+    <div class="header_top_news">
+        <div class="titils">Latest</div>
+    </div>
+    <div class="list_top_news">
+        <table id="ContentPlaceHolder1_UC_latestNews_dlTopNews" cellspacing="0" width="100%">
+	<tr>
+		<td>
+                <div class="text_list">
+                    <div class="bref_list">
+                        <span>21:04</span>
+                        <a id="ContentPlaceHolder1_UC_latestNews_dlTopNews_hyplnkTitle_0" href="http://english.ahram.org.eg/NewsContent/6/53/293178/Sports/Talents-Abroad/Egypt-midfielder-ElShahat-pens-permanent-deal-with.aspx">Egypt midfielder El-Shahat pens permanent deal with Emirati side Al-Ain </a>
+                    </div>
+                </div>
+            </td>
+	</tr><tr>
+		<td>
+                <div class="text_list">
+                    <div class="bref_list">
+                        <span>20:56</span>
+                        <a id="ContentPlaceHolder1_UC_latestNews_dlTopNews_hyplnkTitle_1" href="http://english.ahram.org.eg/NewsContent/2/8/293179/World/Region/Iranian-leader-says-Tehran-has-defused-regional-th.aspx">Iranian leader says Tehran has defused regional threats</a>
+                    </div>
+                </div>
+            </td>
+	</tr><tr>
+		<td>
+                <div class="text_list">
+                    <div class="bref_list">
+                        <span>19:08</span>
+                        <a id="ContentPlaceHolder1_UC_latestNews_dlTopNews_hyplnkTitle_2" href="http://english.ahram.org.eg/NewsContent/2/9/293176/World/International/Trump-says-will-meet-with-Putin-in-the-not-too-dis.aspx">Trump says will meet with Putin 'in the not too distant future'</a>
+                    </div>
+                </div>
+            </td>
+	</tr><tr>
+		<td>
+                <div class="text_list">
+                    <div class="bref_list">
+                        <span>18:03</span>
+                        <a id="ContentPlaceHolder1_UC_latestNews_dlTopNews_hyplnkTitle_3" href="http://english.ahram.org.eg/NewsContent/6/52/293173/Sports/National-Teams/Door-remains-wide-open-for-Egypt-squad-hopefuls-As.aspx">Door remains wide open for Egypt squad hopefuls: Assistant coach</a>
+                    </div>
+                </div>
+            </td>
+	</tr><tr>
+		<td>
+                <div class="text_list">
+                    <div class="bref_list">
+                        <span>17:52</span>
+                        <a id="ContentPlaceHolder1_UC_latestNews_dlTopNews_hyplnkTitle_4" href="http://english.ahram.org.eg/NewsContent/3/12/293163/Business/Economy/Egypt-President-ratifies-Amended-Capital-Market-La.aspx">Egypt President ratifies Amended Capital Market Law</a>
+                    </div>
+                </div>
+            </td>
+	</tr><tr>
+		<td>
+                <div class="text_list">
+                    <div class="bref_list">
+                        <span>17:26</span>
+                        <a id="ContentPlaceHolder1_UC_latestNews_dlTopNews_hyplnkTitle_5" href="http://english.ahram.org.eg/NewsContent/2/9/293171/World/International/Norway-politician-who-hit-asylum-seeker-becomes-ju.aspx">Norway politician who hit asylum seeker becomes justice minister</a>
+                    </div>
+                </div>
+            </td>
+	</tr><tr>
+		<td>
+                <div class="text_list">
+                    <div class="bref_list">
+                        <span>17:17</span>
+                        <a id="ContentPlaceHolder1_UC_latestNews_dlTopNews_hyplnkTitle_6" href="http://english.ahram.org.eg/NewsContent/3/12/293170/Business/Economy/Ethiopia-signs--million-loan,-grant-deal-with-Worl.aspx">Ethiopia signs $600 million loan, grant deal with World Bank</a>
+                    </div>
+                </div>
+            </td>
+	</tr><tr>
+		<td>
+                <div class="text_list">
+                    <div class="bref_list">
+                        <span>17:16</span>
+                        <a id="ContentPlaceHolder1_UC_latestNews_dlTopNews_hyplnkTitle_7" href="http://english.ahram.org.eg/NewsContent/2/9/293169/World/International/Russia-says-spy-poison-claim-against-Sweden-just-a.aspx">Russia says spy poison claim against Sweden 'just a guess'</a>
+                    </div>
+                </div>
+            </td>
+	</tr><tr>
+		<td>
+                <div class="text_list">
+                    <div class="bref_list">
+                        <span>16:56</span>
+                        <a id="ContentPlaceHolder1_UC_latestNews_dlTopNews_hyplnkTitle_8" href="http://english.ahram.org.eg/NewsContent/2/9/293167/World/International/UK-MPs-ask-Facebooks-Zuckerberg-to-testify-on-data.aspx">UK MPs ask Facebook's Zuckerberg to testify on data row</a>
+                    </div>
+                </div>
+            </td>
+	</tr><tr>
+		<td>
+                <div class="text_list">
+                    <div class="bref_list">
+                        <span>16:55</span>
+                        <a id="ContentPlaceHolder1_UC_latestNews_dlTopNews_hyplnkTitle_9" href="http://english.ahram.org.eg/NewsContent/2/9/293157/World/International/S-Korea-musicians-to-play-first-concert-in-North-s.aspx">S. Korea musicians to play first concert in North since 2007</a>
+                    </div>
+                </div>
+            </td>
+	</tr><tr>
+		<td>
+                <div class="text_list">
+                    <div class="bref_list">
+                        <span>16:43</span>
+                        <a id="ContentPlaceHolder1_UC_latestNews_dlTopNews_hyplnkTitle_10" href="http://english.ahram.org.eg/NewsContent/3/12/293166/Business/Economy/Trade-war-fears-weigh-on-investor-sentiment-in-Ger.aspx">Trade war fears weigh on investor sentiment in Germany</a>
+                    </div>
+                </div>
+            </td>
+	</tr><tr>
+		<td>
+                <div class="text_list">
+                    <div class="bref_list">
+                        <span>13:48</span>
+                        <a id="ContentPlaceHolder1_UC_latestNews_dlTopNews_hyplnkTitle_11" href="http://english.ahram.org.eg/NewsContent/7/48/293152/Life--Style/Health/Want-to-avoid-the-flu-while-flying-Try-a-window-se.aspx">Want to avoid the flu while flying? Try a window seat</a>
+                    </div>
+                </div>
+            </td>
+	</tr><tr>
+		<td>
+                <div class="text_list">
+                    <div class="bref_list">
+                        <span>13:33</span>
+                        <a id="ContentPlaceHolder1_UC_latestNews_dlTopNews_hyplnkTitle_12" href="http://english.ahram.org.eg/NewsContent/2/8/293151/World/Region/US-warns-Turkey-over-civilians-caught-in-Syria-ass.aspx">US warns Turkey over civilians caught in Syria assault</a>
+                    </div>
+                </div>
+            </td>
+	</tr><tr>
+		<td>
+                <div class="text_list">
+                    <div class="bref_list">
+                        <span>13:02</span>
+                        <a id="ContentPlaceHolder1_UC_latestNews_dlTopNews_hyplnkTitle_13" href="http://english.ahram.org.eg/NewsContent/2/9/293146/World/International/European-rights-court-condemns-Turkey-over-journal.aspx">European rights court condemns Turkey over journalists' detention</a>
+                    </div>
+                </div>
+            </td>
+	</tr><tr>
+		<td>
+                <div class="text_list">
+                    <div class="bref_list">
+                        <span>13:02</span>
+                        <a id="ContentPlaceHolder1_UC_latestNews_dlTopNews_hyplnkTitle_14" href="http://english.ahram.org.eg/NewsContent/2/8/293149/World/Region/UN-seeks-access-to-Syrias-Ghouta-and-Afrin-as-need.aspx">UN seeks access to Syria's Ghouta and Afrin as needs grow</a>
+                    </div>
+                </div>
+            </td>
+	</tr><tr>
+		<td>
+                <div class="text_list">
+                    <div class="bref_list">
+                        <span>13:01</span>
+                        <a id="ContentPlaceHolder1_UC_latestNews_dlTopNews_hyplnkTitle_15" href="http://english.ahram.org.eg/NewsContent/2/9/293147/World/International/Three-buses-leave-Russian-embassy-in-London-as-exp.aspx">Three buses leave Russian embassy in London as expelled diplomats head to Moscow</a>
+                    </div>
+                </div>
+            </td>
+	</tr><tr>
+		<td>
+                <div class="text_list">
+                    <div class="bref_list">
+                        <span>12:15</span>
+                        <a id="ContentPlaceHolder1_UC_latestNews_dlTopNews_hyplnkTitle_16" href="http://english.ahram.org.eg/NewsContent/5/33/293130/Arts--Culture/Music/Art-Alert-Spring-comes-to-Cairo-with-violin-and-so.aspx">Art Alert: Spring comes to Cairo with violin and soprano</a>
+                    </div>
+                </div>
+            </td>
+	</tr><tr>
+		<td>
+                <div class="text_list">
+                    <div class="bref_list">
+                        <span>12:03</span>
+                        <a id="ContentPlaceHolder1_UC_latestNews_dlTopNews_hyplnkTitle_17" href="http://english.ahram.org.eg/NewsContent/5/35/293136/Arts--Culture/Stage--Street/From-strength-to-strength-Arab-Arts-Focus-at-the-D.aspx">From strength to strength: Arab Arts Focus at the Downtown Contemporary Arts.....</a>
+                    </div>
+                </div>
+            </td>
+	</tr><tr>
+		<td>
+                <div class="text_list">
+                    <div class="bref_list">
+                        <span>11:57</span>
+                        <a id="ContentPlaceHolder1_UC_latestNews_dlTopNews_hyplnkTitle_18" href="http://english.ahram.org.eg/NewsContent/2/9/293143/World/International/Uncertainty-prevails-as-scandal-clouds-Japan-Abes-.aspx">Uncertainty prevails as scandal clouds Japan Abe's future</a>
+                    </div>
+                </div>
+            </td>
+	</tr><tr>
+		<td>
+                <div class="text_list">
+                    <div class="bref_list">
+                        <span>11:30</span>
+                        <a id="ContentPlaceHolder1_UC_latestNews_dlTopNews_hyplnkTitle_19" href="http://english.ahram.org.eg/NewsContent/2/8/293142/World/Region/Russia-says--pct-of-Syrias-eastern-Ghouta-is-free-.aspx">Russia says 65 pct of Syria's eastern Ghouta is free of rebels: RIA</a>
+                    </div>
+                </div>
+            </td>
+	</tr><tr>
+		<td>
+                <div class="text_list">
+                    <div class="bref_list">
+                        <span>10:42</span>
+                        <a id="ContentPlaceHolder1_UC_latestNews_dlTopNews_hyplnkTitle_20" href="http://english.ahram.org.eg/NewsContent/5/1188/293127/Arts--Culture/City-Lights/Egypt-and-South-Korea-to-celebrate-diplomatic-rela.aspx">Egypt and South Korea to celebrate diplomatic relations with artistic and cultural.....</a>
+                    </div>
+                </div>
+            </td>
+	</tr><tr>
+		<td>
+                <div class="text_list">
+                    <div class="bref_list">
+                        <span>10:16</span>
+                        <a id="ContentPlaceHolder1_UC_latestNews_dlTopNews_hyplnkTitle_21" href="http://english.ahram.org.eg/NewsContent/5/1188/293125/Arts--Culture/City-Lights/Egypts-textiles-museum-to-celebrate-Mother%e2%80%99s-Day-w.aspx">Egypt's textiles museum to celebrate Mother’s Day with special tours</a>
+                    </div>
+                </div>
+            </td>
+	</tr><tr>
+		<td>
+                <div class="text_list">
+                    <div class="bref_list">
+                        <span>10:01</span>
+                        <a id="ContentPlaceHolder1_UC_latestNews_dlTopNews_hyplnkTitle_22" href="http://english.ahram.org.eg/NewsContent/2/9/293135/World/International/French-expresident-Sarkozy-in-custody-in-campaign-.aspx">French ex-president Sarkozy in custody in campaign funding probe: Source</a>
+                    </div>
+                </div>
+            </td>
+	</tr><tr>
+		<td>
+                <div class="text_list">
+                    <div class="bref_list">
+                        <span>09:46</span>
+                        <a id="ContentPlaceHolder1_UC_latestNews_dlTopNews_hyplnkTitle_23" href="http://english.ahram.org.eg/NewsContent/2/8/293134/World/Region/IS-group-takes-Damascus-area-after-rebels-pull-out.aspx">IS group takes Damascus area after rebels pull out: Monitor</a>
+                    </div>
+                </div>
+            </td>
+	</tr><tr>
+		<td>
+                <div class="text_list">
+                    <div class="bref_list">
+                        <span>09:14</span>
+                        <a id="ContentPlaceHolder1_UC_latestNews_dlTopNews_hyplnkTitle_24" href="http://english.ahram.org.eg/NewsContent/2/8/293131/World/Region/India-says--workers-abducted-in-Iraq-in--are-confi.aspx">India says 39 workers abducted in Iraq in 2014 are confirmed dead</a>
+                    </div>
+                </div>
+            </td>
+	</tr><tr>
+		<td>
+                <div class="text_list">
+                    <div class="bref_list">
+                        <span>22:04</span>
+                        <a id="ContentPlaceHolder1_UC_latestNews_dlTopNews_hyplnkTitle_25" href="http://english.ahram.org.eg/NewsContent/2/8/293124/World/Region/Israel-court-rejects-bid-to-make-Palestinian-teen-.aspx">Israel court rejects bid to make Palestinian teen Ahed Tamimi trial public</a>
+                    </div>
+                </div>
+            </td>
+	</tr><tr>
+		<td>
+                <div class="text_list">
+                    <div class="bref_list">
+                        <span>21:36</span>
+                        <a id="ContentPlaceHolder1_UC_latestNews_dlTopNews_hyplnkTitle_26" href="http://english.ahram.org.eg/NewsContent/5/1188/293120/Arts--Culture/City-Lights/Serbian-officials,-Arab-ambassadors-attend-Egyptia.aspx">Serbian officials, Arab ambassadors attend Egyptian play 'The Visit' held by.....</a>
+                    </div>
+                </div>
+            </td>
+	</tr><tr>
+		<td>
+                <div class="text_list">
+                    <div class="bref_list">
+                        <span>21:26</span>
+                        <a id="ContentPlaceHolder1_UC_latestNews_dlTopNews_hyplnkTitle_27" href="http://english.ahram.org.eg/NewsContent/2/8/293123/World/Region/Palestinian-president-calls-US-ambassador-to-Israe.aspx">Palestinian president calls US ambassador to Israel 'son of a dog'</a>
+                    </div>
+                </div>
+            </td>
+	</tr><tr>
+		<td>
+                <div class="text_list">
+                    <div class="bref_list">
+                        <span>21:07</span>
+                        <a id="ContentPlaceHolder1_UC_latestNews_dlTopNews_hyplnkTitle_28" href="http://english.ahram.org.eg/NewsContent/2/8/293102/World/Region/UN-mission-on-LebanonIsrael-border-marks-th-annive.aspx">UN mission on Lebanon-Israel border marks 40th anniversary</a>
+                    </div>
+                </div>
+            </td>
+	</tr><tr>
+		<td>
+                <div class="text_list">
+                    <div class="bref_list">
+                        <span>20:52</span>
+                        <a id="ContentPlaceHolder1_UC_latestNews_dlTopNews_hyplnkTitle_29" href="http://english.ahram.org.eg/NewsContent/2/8/293083/World/Region/French-consulate-worker-accused-of-smuggling-guns-.aspx">French consulate worker accused of smuggling guns from Gaza</a>
+                    </div>
+                </div>
+            </td>
+	</tr>
+</table>
+        
+    </div>
+</div>
+<div style="clear:both;"></div>
+
+        
+<div class="POPULAR_outer">
+    <div class="header_p_outer">
+        <div class="titils_outer">
+            Readers Picks
+        </div>
+        <div id="ContentPlaceHolder1_UC_NewsContentMost_Left_MainTopics" class="buttons_p_outer">
+                      <div class="active_button_p_outer" id="tabMostRead"><a href="javascript:void(null)" onclick="getTabData3(1,2,7,'tabMostRead','mostContent',0,8,0,0,293155)">Most Viewed </a></div>
+                      <div class="normal_button_p_outer" id="tabMostComment"><a href="javascript:void(null)" onclick="getTabData3(1,2,8,'tabMostComment','mostContent',0,8,0,0,293155)">Most Commented </a></div>
+                     </div>
+    </div>
+    <div class="list_popular_outer">
+        <div class="most_bref_outer" id="mostContent">
+        </div>
+    </div>
+    <div id="ContentPlaceHolder1_UC_NewsContentMost_Left_divLoad"><script type='text/javascript'>getTabData3(1, 2, 7, 'tabMostRead', 'mostContent', 0, 8,0,0,293155);</script></div>
+</div>
+
+<div style="clear:both;"></div>
+            <div style="text-align: center;margin-top:10px;"  class="hide-for-small-only">                    
+                    <iframe src="http://www.ahram.org.eg/newadv/a.aspx?ZoneID=447&amp;Task=Get&amp;PageID=66245&amp;SiteID=1" width="120" height="600" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No">
+                        <script language='javascript1.1' src="http://www.ahram.org.eg/newadv/a.aspx?ZoneID=447&amp;Task=Get&amp;Browser=NETSCAPE4&amp;NoCache=True&PageID=66245&amp;SiteID=1"></script>
+                        <noscript>
+                            <a href="http://www.ahram.org.eg/newadv/a.aspx?ZoneID=447&amp;Task=Click&amp;Mode=HTML&amp;SiteID=1&amp;PageID=66245" target="_blank">
+                                <img src="http://www.ahram.org.eg/newadv/a.aspx?ZoneID=447&amp;Task=Get&amp;Mode=HTML&amp;SiteID=1&amp;PageID=66245" width=120 height="600" border="0" alt=""></a>
+                        </noscript>
+                    </iframe>
+
+                </div>
+    </div>
+
+
+    <div id="ContentPlaceHolder1_CounterIncreaseScript">
+    </div>
+    <script type="text/javascript" src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+
+
+    <script type="text/javascript">
+        jQuery(document).ready(function () {
+            jQuery('#ctl00_ContentPlaceHolder1_UC_UserComment1_textarea_1_1').maxlength({
+                events: ['blur'], // Array of events to be triggerd   
+                maxCharacters: 1000, // Characters limit  
+                status: true, // True to show status indicator bewlow the element   
+                statusClass: "status", // The class on the status div 
+                statusText: "character left", // The status text 
+                notificationClass: "notification",  // Will be added when maxlength is reached 
+                showAlert: false, // True to show a regular alert message   
+                alertText: "You have typed too many characters.", // Text in alert message  
+                slider: false // True Use counter slider   
+            });
+        });
+    </script>
+
+     <script type="text/javascript">         
+         jQuery(function () {
+             jQuery('#gallery2 a').lightBox();
+         });
+    </script>
+
+
+
+            <div class="hide-for-small">
+                <!-- Begin -  Site: ahram.org.eg Zone: English_Inners_980*200 -->
+                <iframe src="http://www.ahram.org.eg/newadv/a.aspx?ZoneID=461&amp;Task=Get&amp;PageID=15533&amp;SiteID=1" width="980" height="200" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="No">
+                    <script language='javascript1.1' src="http://www.ahram.org.eg/newadv/a.aspx?ZoneID=461&amp;Task=Get&amp;Browser=NETSCAPE4&amp;NoCache=True&PageID=15533&amp;SiteID=1"></script>
+                    <noscript>
+                        <a href="http://www.ahram.org.eg/newadv/a.aspx?ZoneID=461&amp;Task=Click&amp;Mode=HTML&amp;SiteID=1&amp;PageID=15533" target="_blank">
+                            <img src="http://www.ahram.org.eg/newadv/a.aspx?ZoneID=461&amp;Task=Get&amp;Mode=HTML&amp;SiteID=1&amp;PageID=15533" width="980" height="200" border="0" alt=""></a>
+                    </noscript>
+                </iframe>
+                <!-- End -  Site: ahram.org.eg Zone: English_Inners_980*200 -->
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="footer">
+                Ahram <span>online</span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="text_list_footer">
+                <div id="divRight" class="large-4 medium-4 small-12 column right_footer">
+                </div>
+                <div id="divCenter" class="large-4 medium-4 small-12 column center_footer">
+                </div>
+                <div id="divLeft" class="large-4 medium-4 small-12 column left_footer">
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="line_footers">
+                <p>
+                    © 2010 Ahram Online.
+                </p>
+            </div>
+        </div>
+
+    
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get('ToolkitScriptManager1_HiddenField').value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.CollapsiblePanelBehavior, {"ClientStateFieldID":"ContentPlaceHolder1_UC_UserComment1_CodeExtender_ClientState","CollapseControlID":"ContentPlaceHolder1_UC_UserComment1_Codehref","Collapsed":true,"CollapsedSize":0,"ExpandControlID":"ContentPlaceHolder1_UC_UserComment1_Codehref","SuppressPostBack":true,"id":"ContentPlaceHolder1_UC_UserComment1_CodeExtender"}, null, null, $get("ContentPlaceHolder1_UC_UserComment1_CodePanel"));
+});
+//]]>
+</script>
+</form>
+    
+    <script src='http://english.ahram.org.eg/Responsive/js/foundation.min.js'></script>
+
+
+    <script>
+        $(document).foundation();
+    </script>
+
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-11370086-19']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+
+     <!-- Start Alexa Certify Javascript -->
+        <script type="text/javascript">
+            _atrk_opts = { atrk_acct: "Hg0cp1IWh910N8", domain: "ahram.org.eg", dynamic: true };
+            (function () { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(as, s); })();
+        </script>
+        <noscript>
+        <img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=Hg0cp1IWh910N8" style="display: none" height="1" width="1" alt="" />
+    </noscript>
+        <!-- End Alexa Certify Javascript -->
+
+</body>
+</html>

@@ -1,0 +1,2521 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="HandheldFriendly" content="true" />
+	<title>Narendra Modi is not fighting corruption, he is corruption, says Rahul Gandhi at Congress' 84th plenary session - Firstpost</title>
+    <meta name="description" content="In one of the most scathing attacks against the BJP and Prime Minister Narendra Modi, Congress president Rahul Gandhi on Sunday said is not fighting corruption, he stands for it.
+"/>
+	<meta property="fb:app_id" content="1162386820478832" />
+   <meta property="fb:admins" content="500851548" />
+   <meta property="fb:pages" content="165818073477856" />
+    <meta property="og:title" content="Narendra Modi is not fighting corruption, he is corruption, says Rahul Gandhi at Congress' 84th plenary session - Firstpost" />
+    <meta property="og:description" content="In one of the most scathing attacks against the BJP and Prime Minister Narendra Modi, Congress president Rahul Gandhi on Sunday said is not fighting corruption, he stands for it.
+" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:site_name" content="Firstpost" />
+	<meta property="og:type" content="website" />
+		<meta property="og:image" content="https://images.firstpost.com/wp-content/uploads/2018/03/Rahul-Congress-plenary.png" />
+		<meta name="twitter:title" content="Narendra Modi is not fighting corruption, he is corruption, says Rahul Gandhi at Congress' 84th plenary session - Firstpost"/>
+    <meta name="twitter:description" content="In one of the most scathing attacks against the BJP and Prime Minister Narendra Modi, Congress president Rahul Gandhi on Sunday said is not fighting corruption, he stands for it.
+"/>
+	<meta name="twitter:card" content="summary_large_image"/>
+	<meta property="twitter:account_id" content="4503599627804328" />
+			<meta name="twitter:widgets:csp" content="on">
+	<meta name="twitter:domain" content="Firstpost"/>
+	<meta name="twitter:site" value="@firstpost">
+	<meta name="twitter:url" content="http://www.firstpost.com/politics/narendra-modi-is-not-fighting-corruption-he-is-corruption-says-rahul-gandhi-at-congress-84th-plenary-session-4395201.html">
+    <link rel="canonical" href="http://www.firstpost.com/politics/narendra-modi-is-not-fighting-corruption-he-is-corruption-says-rahul-gandhi-at-congress-84th-plenary-session-4395201.html"  />
+    
+             
+    <meta property="og:url" content="http://www.firstpost.com/politics/narendra-modi-is-not-fighting-corruption-he-is-corruption-says-rahul-gandhi-at-congress-84th-plenary-session-4395201.html" />
+    <link href="http://www.firstpost.com/assets/css/bootstrap.min.css?v=86.39" rel="stylesheet" type="text/css" />
+	
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ })(window,document,'script','dataLayer','GTM-MLJQLND');</script>
+
+    <link rel="shortcut icon prefetch" href="https://images.firstpost.com/wp-content/themes/firstpost/images/favicon.ico" />
+    <link rel="icon prefetch" type="image/vnd.microsoft.icon" href="https://images.firstpost.com/wp-content/themes/firstpost/images/favicon.ico" />
+    <link href='https://images.firstpost.com/wp-content/themes/firstpost/images/favicon.ico' rel='shortcut icon prefetch' type='image/x-icon'>
+    <link href='https://images.firstpost.com/wp-content/themes/firstpost/images/favicon.ico' rel='icon prefetch' type='image/x-icon'/>
+    <style>
+        .featured-news .news-cells .cell a{line-height: 18px;}
+        .featured-news .news-cells .cell label{line-height: 12px;margin-bottom: 0;}
+    </style>
+
+    <!-- jQuery -->
+    <script type="text/javascript" src="https://images.firstpost.com/wp-content/uploads/assets/js/jquery.min.js"></script>
+	<link href="https://images.firstpost.com/wp-content/uploads/assets/css/owl.carousel.css" rel="stylesheet prefetch" type="text/css" />
+    <script type="text/javascript" async src="https://images.firstpost.com/wp-content/uploads/assets/js/owl.carousel.min.js"></script>
+
+    <script async type="text/javascript" src="https://images.firstpost.com/wp-content/uploads/assets/js/bootstrap.min.js?v=5.3"></script>
+    <script async type="text/javascript" src="https://images.firstpost.com/wp-content/uploads/assets/js/jquery.history.js"></script>
+<!--    <script src="--><!--app.min.js?v=12.72"></script>-->
+    <script src="http://www.firstpost.com/assets/js/app.min.js?v=12.84"></script>
+    
+<script type="text/javascript">
+
+
+    function FPgetcookieForDFP(cookiename) {
+    var cookiestring=document.cookie;
+    var index1=cookiestring.indexOf(cookiename);
+    if (index1==-1 || cookiename=='') return '';
+    var index2=cookiestring.indexOf(';',index1);
+    if (index2==-1) index2=cookiestring.length;
+    return unescape(cookiestring.substring(index1+cookiename.length+1,index2));
+}
+    function setUserBehaviour()
+    {
+        var i, x, y, cl = document.cookie.split(";");
+        var _w18userinfo_out = {};
+        var c = 0;
+        for (i = 0; i < cl.length; i++) {
+            x = cl[i].substr(0, cl[i].indexOf("="));
+            y = cl[i].substr(cl[i].indexOf("=") + 1);
+            x = x.replace(/^\s+|\s+$/g, "");
+            if (x == "_w18userinfo") {
+                _w18userinfo_out._w18userinfo = unescape(y);
+                c = c + 1
+            }
+            if (c == 1) {
+                break;
+            }
+        }
+        if(c==1){
+            var contact = JSON.parse(_w18userinfo_out._w18userinfo);
+            for (var item in contact) {
+                googletag.pubads().setTargeting(item,contact[item]);
+            }
+        }
+    }
+    //var googletag = googletag || {};
+  //  googletag.cmd = googletag.cmd || [];
+
+
+   /* (function() {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })(); */
+	
+	 var googletag = googletag || {};
+       googletag.cmd = googletag.cmd || [];  
+	 
+	googletag.cmd.push(function() {
+  googletag.pubads().disableInitialLoad();
+ });
+
+       (function (){ 
+             window.advBidxc = window.advBidxc || {}; 
+             window.advBidxc.renderAd = function (){}; 
+             window.advBidxc.startTime = new Date().getTime(); 
+             window.advBidxc.timeout = 400; 
+             window.advBidxc.version = 4.1; 
+             window.advBidxc.section = "<section name>"; 
+             window.advBidxc.customerId = "8CULMRSPO"; 
+             window.advBidxc.domain = window.location.hostname; 
+             function loadScript(tagSrc) {
+                   if (tagSrc.substr(0, 4) !== 'http') { 
+                   var isSSL = 'https:' == document.location.protocol; 
+                   tagSrc = (isSSL ? 'https:' : '') + tagSrc; 
+                   } 
+                   var scriptTag = document.createElement('script'), placeTag = 
+document.getElementsByTagName("script")[0];
+              scriptTag.type = 'text/javascript'; 
+              scriptTag.async = true; 
+              scriptTag.src = tagSrc; 
+              placeTag.parentNode.insertBefore(scriptTag, placeTag); 
+         } 
+         function loadGPT(){ 
+              if(!window.advBidxc.isAdServerLoaded){ 
+              loadScript('//www.googletagservices.com/tag/js/gpt.js'); 
+              window.advBidxc.isAdServerLoaded = true; 
+                    } 
+         } 
+         window.advBidxc.loadGPT = setTimeout(loadGPT, window.advBidxc.timeout); 
+         var isSSL = 'https:' == document.location.protocol; 
+         var mnSrc = (isSSL ? 'https:' : 'http:') + '//contextual.media.net/bidexchange.js?cid=' + window.advBidxc.customerId + '&dn=' + window.advBidxc.domain + '&version=' + window.advBidxc.version + (isSSL ? '&https=1' : ''); 
+          loadScript(mnSrc); 
+     })(); 
+</script>
+<script type='text/javascript' id='dfp_slot_details'>
+    var width = window.innerWidth || document.documentElement.clientWidth;
+    var adKey = "";
+    var dimArr = '';
+    var n1 = '';
+    var n2 = '';
+    
+    var ads = {"ads":{"FirstPost\/FirstPost_Politics\/FirstPost_Politics_Internal\/FirstPost_Politics_Internal_300x250_1":"300,250","FirstPost\/FirstPost_Politics\/FirstPost_Politics_Internal\/FirstPost_Politics_Internal_300x250_2":"300,250","FirstPost\/FirstPost_Politics\/FirstPost_Politics_Internal\/FirstPost_Politics_Internal_300x600":"300,600","FirstPost\/FirstPost_Ros\/FirstPost_Internal_also_see_article_nativead_240x260":"240,260","FirstPost\/FirstPost_Ros\/FirstPost_Ros_FlipQuote_300x100_Left":"300,100","FirstPost\/FirstPost_Ros\/FirstPost_Ros_FlipQuote_300x100_Right":"300,100","FirstPost\/FirstPost_Ros\/Firstpost_Ros_Across_OOP_2x2":"2,2","FirstPost\/Firstpost_Pagepush_Across\/Firstpost_PagePush_Across_940x60":"940,60","FirstPost\/FirstPost_Footer\/FirstPost_Footer_300x250_USUK":"300,250","FirstPost\/FirstPost_Footer\/FirstPost_Footer_728x90_USUK":"728,90","FirstPost_Wap_New\/FirstPost_Wap_New_Politics\/FirstPost_Wap_New_Politics_Internal\/FirstPost_Wap_New_Politics_Internal_After_Section_300x250_3":"300,250","FirstPost_Wap_New\/FirstPost_Wap_New_Politics\/FirstPost_Wap_New_Politics_Internal\/FirstPost_Wap_New_Politics_Internal_After_Section_320x50_Middle":"320,50","FirstPost_Wap_New\/FirstPost_Wap_New_Politics\/FirstPost_Wap_New_Politics_Internal\/FirstPost_Wap_New_Politics_Internal_Between_Sections_300x250_2":"300,250","FirstPost_Wap_New\/FirstPost_Wap_New_Politics\/FirstPost_Wap_New_Politics_Internal\/FirstPost_Wap_New_Politics_Internal_Bottom_320x50_Sticky":"320,50","FirstPost_Wap_New\/FirstPost_Wap_New_Politics\/FirstPost_Wap_New_Politics_Internal\/FirstPost_Wap_New_Politics_Internal_Interstitial_1x1":"1,1","FirstPost_Wap_New\/FirstPost_Wap_New_ROS\/FirstPost_Wap_New_ROS_OutOfPage_1x1":"1,1","FirstPost_Wap_New\/FirstPost_Wap_New_ROS\/FirstPost_Wap_New_ROS_Top_320x35":"320,35","FirstPost_Wap_New\/FirstPost_Wap_New_ROS\/FirstPost_Wap_New_ROS_Native_320x100":"320,100","FirstPost_Wap_New\/FirstPost_Wap_New_ROS\/FirstPost_Wap_New_ROS_AMP_320x50":"320,50","FirstPost_Wap_New\/FirstPost_Wap_New_ROS\/FirstPost_Wap_New_ROS_AMP_300x250":"300,250"},"fallback":{"lhs":{"quote":"ConnectTheDots","title":"Samsung Galaxy S9 Plus review","url":"http:\/\/www.firstpost.com\/tech\/reviews\/samsung-galaxy-s9-plus-review-dual-camera-and-improvements-over-galaxy-s8-makes-this-the-android-smartphone-to-beat-4392279.html","image":"https:\/\/images.firstpost.com\/fpimages\/380x285\/fixed\/jpg\/flip_quote\/20180316052302_Samsung-Galaxy-S9-Plus-Review-380-285.jpg"},"rhs":{"quote":"Review","title":"Facebook, Cambridge Analytica and the alleged 'data breach': Here's all you need to know","url":"http:\/\/www.firstpost.com\/tech\/news-analysis\/facebook-cambridge-analytica-and-the-alleged-data-breach-heres-all-you-need-to-know-4395747.html","image":"https:\/\/images.firstpost.com\/fpimages\/380x285\/fixed\/jpg\/flip_quote\/20180320043237_Facebook cover 380.jpg"}}};
+     googletag.cmd.push(function() {
+
+            $.each(ads.ads,function(key,value){
+                if(value !==  null){
+                    dimArr = value.split(",");    
+                    n1 = parseInt(dimArr[0]);
+                    n2 = parseInt(dimArr[1]);
+                }
+				var width = window.innerWidth || document.documentElement.clientWidth;
+                    
+                if(value == '300,250' || value == '300,600' || value == '728,90') {
+
+                    if (width >= 768 && key.indexOf("FirstPost") != -1 && key.indexOf("FirstPost_Wap_New") < 0) {
+					
+                         googletag.defineSlot('/1039154/'+key, [n1,n2], key).addService(googletag.pubads()); 
+                    }
+
+                    if (width <= 768 && key.indexOf("FirstPost_Wap_New") != -1) {
+					
+                      googletag.defineSlot('/1039154/'+key, [n1,n2], key).addService(googletag.pubads());
+                    }
+
+                } else {
+				
+                    if (width >= 768 && key.indexOf("FirstPost") != -1 && key.indexOf("FirstPost_Wap_New") < 0) {
+				
+                        googletag.defineSlot('/1039154/'+key, [n1,n2], key).addService(googletag.pubads());   
+                    }
+
+                    if (width <= 768 && key.indexOf("FirstPost_Wap_New") != -1) {
+					
+                        googletag.defineSlot('/1039154/'+key, [n1,n2], key).addService(googletag.pubads());   
+                    }
+                }
+                    
+              
+            });
+
+           
+
+            googletag.pubads().enableSingleRequest();googletag.pubads().collapseEmptyDivs(true);
+            setUserBehaviour();
+            googletag.enableServices();
+                
+
+     });
+	 </script>
+
+     <script type="text/javascript" src="https://player.nw18.com/jv7/jwplayer7_4_4_secure.js"></script>
+	 <script src="http://do02v6ejdir9s.cloudfront.net/prod-global-322856.js"></script>
+
+		<script data-cfasync="false" type="text/javascript">(function(w, d) { var s =
+		d.createElement('script'); s.src = '//cdn.adpushup.com/33030/adpushup.js'; s.type
+		= 'text/javascript'; s.async = true; (d.getElementsByTagName('head')[0] ||
+		d.getElementsByTagName('body')[0]).appendChild(s); })(window,
+		document);</script>
+	 
+<!--     <script type="text/javascript" src="https://player.nw18.com/jv7/jwplayer7_4_4_min.js"></script>-->
+    <script type="text/javascript">
+
+        $(document).ready(function(){
+
+            $(".submenu").on("mouseover", function () {
+                $('.fp-lazy-navbar').each(function(){
+                    src = $(this).data("src");
+                    $(this).attr("src",src);
+                    src = "";
+                });
+            });
+
+            $("#mobile-menu").click(function(){
+                if ($("#mobile-menu .fa").hasClass("fa-bars")) {
+                    $("#mobile-menu .fa").removeClass("fa-bars");
+                    $("#mobile-menu .fa").addClass("fa-close");
+                }else{
+                    $("#mobile-menu .fa").removeClass("fa-close");
+                    $("#mobile-menu .fa").addClass("fa-bars");
+                }
+                $("body").toggleClass("menu-open");
+                $("html").toggleClass("noscroll");
+            });
+        })
+
+        $(window).on('DOMContentLoaded load resize scroll', function () {
+
+            var images = $(".fp-lazy");
+            // load images that have entered the viewport
+            $(images).each(function (index) {
+                if (isElementInViewport(this) && $(this).data("src") != '') {
+                    $(this).attr("src",$(this).attr("data-src"));
+                    $(this).removeAttr("data-src");
+                    $(this).removeClass('fp-lazy');
+                }
+            })
+            // if all the images are loaded, stop calling the handler
+            /*if (images.length == 0) {
+             $(window).off('DOMContentLoaded load resize scroll')
+             }*/
+        })
+
+        function isElementInViewport (el) {
+
+            var rect = el.getBoundingClientRect();
+
+            return (
+                    rect.top >= 0 &&
+                    rect.left >= 0 &&
+                    rect.bottom <= $(window).height() &&
+                    rect.right <= $(window).width()
+            );
+        }
+
+        $("#searchDropDown").on('click',function(){
+            setTimeout(function() {
+                $("#searchDropDownInput").focus();
+            }, 100);
+
+        });
+
+        /*----------  Smooth scroll to anchor  ----------*/
+        $("#go-to-top").on('click',function(e) {
+            var $anchor = $(this);
+            $('html,body').stop().animate({
+                scrollTop: $($anchor.attr('href')).offset().top
+            }, 500);
+            event.preventDefault();
+        });
+
+        /*----------  BS Tabs  ----------*/
+        $('#videos-grid .nav-tabs > li > a').click(function (e) {
+            e.preventDefault();
+            $(this).tab('show');
+        });
+
+        /*----------  Mobile Menu Dropdown  ----------*/
+
+        $(".down-arrow").click(function(e){
+            e.preventDefault();
+            e.stopPropagation();
+            $(this).parent().next(".dropdown").slideToggle();
+        });
+
+        /*----------  Mobile trending news - show more show less  ----------*/
+        $("#more-link").click(function(){
+            $h = $(this).text("Show less").siblings("ul").height();
+            if($h > '183'){
+                $(this).text("Show less").siblings("ul").css("height","183px");
+            }
+            else{
+                $(this).text("Show less").siblings("ul").css("height","auto");
+            }
+        });
+
+
+        $('.table-striped tr').click(function(){
+            if($(this).hasClass('active-expanded'))
+            {
+                $(this).toggleClass('active-expanded');
+                $(this).next('tr').slideToggle();
+            }
+            else
+            {
+                $('.table-striped').find('tr').removeClass('active-expanded').next('tr.Dnone').slideUp();
+                $(this).toggleClass('active-expanded');
+                $(this).next('tr').slideToggle();
+            }
+        });
+
+
+        /*----------  tax calculator  ----------*/
+        $(function(){
+            $('#next').click(function (e) {
+                e.preventDefault();
+                $(".nav-tabs li").removeClass("active");
+                $("#next-link").parent("li").addClass("active");
+            });
+
+            if ($('[data-toggle="tooltip"]').length > 0) {
+                $('[data-toggle="tooltip"]').tooltip();
+            }
+        });
+        /*----------  end of tax calculator  ----------*/
+    </script>
+  
+    <script type="text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-22956444-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+
+    <!-- Begin comScore Tag -->
+    <script>
+        var curntUrl = window.location.href;
+  curntUrl = curntUrl.replace(window.location.hostname,"www.firstpost.com");
+  
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6683813", c7: curntUrl });
+  (function() {
+  var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+  s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+  el.parentNode.insertBefore(s, el);
+  })();
+  </script>
+    <noscript>
+        <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6683813&cv=2.0&cj=1" />
+    </noscript>
+    <!-- End comScore Tag -->
+
+   <!-- <script>
+        function GetURLParameterValue(sParam) {
+
+            var sPageURL = window.location.search.substring(1);
+            var sURLVariables = sPageURL.split('&');
+            for (var i = 0; i < sURLVariables.length; i++) {
+                var sParameterName = sURLVariables[i].split('=');
+                if (sParameterName[0] == sParam) {
+                    return sParameterName[1];
+                }
+            }
+        }
+
+        var no_comscore = false;
+        var target_name = GetURLParameterValue('target');
+
+        if( target_name == 'homepage' ) {
+            no_comscore = true;
+        }
+
+        if( no_comscore == true ){
+
+        }else{
+
+            var _comscore = _comscore || [];
+            _comscore.push({ c1: "2", c2: "6683813" });
+            (function() {
+                var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+                s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+                el.parentNode.insertBefore(s, el);
+            })();
+        }
+
+    </script>-->
+
+
+
+    <!-- adblock detect start -->
+
+    <!-- adblock detect end -->
+    <!--izooto Script-->
+    <script> window._izq = window._izq || []; window._izq.push(["init"]); </script>
+    <script src="//cdn.izooto.com/scripts/00acb2139b7de30d5754c91bdabbe2d808c2e453.js"></script>
+    <!--izooto Script-->
+    <style>
+        @media screen and (max-width: 800px){
+            .main-logo img {
+                width: 158px;
+                height: auto;
+                margin-top: 12px;
+            }
+        }
+    </style>
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+                n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+            n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+                document,'script','https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '482038382136514');
+        fbq('track', 'PageView');
+    </script>
+    <!-- End Facebook Pixel Code -->
+        
+        <script src="//player.h-cdn.com/loader.js?customer=network18" crossorigin="anonymous" async></script>
+       <!-- Honeywell start -->
+  <!--  <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>-->
+    <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+    </script>
+
+    <script>
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/1039154/FirstPost/Firstpost_ImpressionTracker/Firstpost_ImpressionTracker_Honeywell_Widget_1x1', [1, 1], 'div-gpt-ad-1508223058503-0').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+        });
+    </script>
+    <!-- Honeywell end -->
+
+    <!-- adblock detect start -->
+
+    <!-- adblock detect end -->
+
+    
+<script type="text/javascript" src="//go.automatad.com/geo/Rieq63/fp.js" async></script>
+
+</head>
+
+
+    <body class="home-page " id="top" data-spy="scroll" data-target="#myScrollspy">
+    <input type="hidden" id="akamaiCityName"  value="">
+    <!-- Start Google Tag Manager (noscript) -->
+<!--    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MLJQLND"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>-->
+
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="wrapper">
+
+    
+
+
+   
+
+
+
+  
+<script type="text/javascript" src="http://www.firstpost.com/assets/js/slick.min.js"></script>
+
+<header id="header" class="container">
+ <div class="ad ad728x90" style="text-align: center;"></div>
+ <div class="ad ad728x90" style="text-align: center;"></div>
+   <div class="header-main">
+        <div class="">
+            <div class="row">
+                <div class="col-lg-3 col-md-4 hidden-sm hidden-xs">
+                        <!-- Ads Display Widget Start -->
+                                            <div id='FirstPost/FirstPost_Ros/FirstPost_Ros_FlipQuote_300x100_Left'><script type='text/javascript'>
+                            var width = window.innerWidth || document.documentElement.clientWidth;
+                            adKey = 'FirstPost/FirstPost_Ros/FirstPost_Ros_FlipQuote_300x100_Left';
+                            if (width >= 768 && (adKey.indexOf('FirstPost') != -1 || adKey.indexOf('Tech') != -1) && adKey.indexOf('FirstPost_Wap_New') < 0) {
+                                googletag.cmd.push(function() { googletag.display('FirstPost/FirstPost_Ros/FirstPost_Ros_FlipQuote_300x100_Left') });
+                            }
+                            if (width < 768 && adKey.indexOf('FirstPost_Wap_New') != -1) {
+                                googletag.cmd.push(function() { googletag.display('FirstPost/FirstPost_Ros/FirstPost_Ros_FlipQuote_300x100_Left') });
+                            }
+                        </script></div>
+                                            <!-- Ads Display Widget End -->
+
+                   
+                </div>
+                <div class="col-lg-6 col-md-4 col-sm-12 col-xs-12 text-center">
+                   <button id="mobile-menu" class="mobile-menu transparent-btn btn btn-default"><i class="icon-bars"></i></button>
+                    <a href="/" class="main-logo"><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAXwAAAA/CAYAAADjXHO8AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyhpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTMyIDc5LjE1OTI4NCwgMjAxNi8wNC8xOS0xMzoxMzo0MCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUuNSAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MjkyRTc4OUE2OUU3MTFFNjk5QkFCNkJGMzk3MjVGOEEiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MjkyRTc4OUI2OUU3MTFFNjk5QkFCNkJGMzk3MjVGOEEiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDoyOTJFNzg5ODY5RTcxMUU2OTlCQUI2QkYzOTcyNUY4QSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDoyOTJFNzg5OTY5RTcxMUU2OTlCQUI2QkYzOTcyNUY4QSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Ptjlk9QAAB06SURBVHja7J0HuFTFFceHB0G6CIqI0kEpSYSoQIpBsWFEihixgiBKFDERgxIRUYoiSJASxEDAYIwCYotokKhINEpHRUpEwYIojy5N2mR+k2/5ln23zL07u295b/7fdz/x7e69c+89c+aU/zlTQkr5hRCihjp2CwcHBweHoojy6vi6hFL429U/jnfPw8HBwaFIY0eeewYODg4OxQNO4Ts4ODg4he/g4ODg4BS+g4ODg4NT+A4ODg4OTuE7ODg4OBQiSrlHULywbds2sWbNGvHFF1+IHTt2iAoVKogzzjhDNG7cWJQtW9Y9oCKOgwcPik8//VRs2rRJfP3112L37t2iRIkSolKlSuKUU04Rp512mqhZs6b+W2Fi3759YvXq1WL9+vVi8+bNokyZMqJ27driRz/6kahcubJ7kbYV/r///W8xaNAg/eJ/8IMfFNoADx8+rIWyZ8+eonv37uK5554TDz/8sDjppJPSPu93330nOnfuLH7/+98f+fuoUaPEjBkzxAknnGBtgjFWJtPJJ58sGjRooI9TTz1VnHjiiVl5hlu3bhVPP/20mDlzpvjkk0/EN998c9TnvOO6detqxX/uueeKSy65RDRp0kRPslQ8/vjjYvLkyeKRRx4RF154Yc7KTRi+//57UbFiRfGnP/1JzJ49W/z1r3/V/5+Xl2flnZcvX14/U947iyn/rlOnjr5GtufP4sWLxWuvvabfzZdffim++uorsWfPHs/vI/fIJsell16qj9NPPz1rSv6VV14Rf/nLX8SqVav0OA8dOnTUd2rUqKHnT6tWrfTYfvKTn+jFKhX/+te/xIABA8SNN94obr311gKff/TRR6Jfv35aDo477ricldP9+/eLUqVKiYceekicffbZ6Z+QwivpgdGjR0s+zpXjtttu0+MaPHiw1fMqBXfUfV9++eVZuR8lpLJdu3by0UcflUq4ZSaghEU+9thjsmrVqpHHpyaVVAuhVApRKiUvx48fLzt27Hjk8yeeeMLzmpMmTcopuQk6lEcj1cSX7du3z8r1lBKV119/vZw2bZpUVqvMJJQxo9+ZUohpj1spVjl9+nR54MCBjI33hRdekMrgiDw2ZUzJm2++WY4dO1bLKQf/rxZc/XmvXr08r6cW+WNGTjlefPFFG495u6/CRyDnzZsn1QoZeXDlypWTyjXUB0Lud9SqVUsef/zxRue855579Lg+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' /></a>
+                    <div class="date-ebook">
+                        <span class="date">Wednesday, March 21, 2018</span>
+                        <!--<span><a href="http://www.firstpost.com/ebook_download.php">Latest E-book</a></span>-->
+                        <span><a href="http://hindi.firstpost.com/"><strong>Switch to हिन्दी</strong></a></span>
+                        <span class="accuweatherresults" id="aw_desktop"></span>
+                    </div>
+                    <!--<span class="accuweatherresults" style="display: none" id="aw_mobile"></span>-->
+                     <!-- air quality index -->
+					<!-- <div class="air-quality">
+						<div class="left">
+							<div id="slidecontainer">
+								<div class="overlay"></div>
+								<div id="range-badge" class="range-badge"></div>
+							    <input id="aqi_data" type="range" class="slider" min="0" max="500" step="1" value="" />
+							</div>
+						</div>
+						<div class="right">
+							<p id="city" class="city"></p>
+							<div class="s-logo">
+								<a href="http://pubads.g.doubleclick.net/gampad/clk?id=4454349253&iu=/1039154/FirstPost/FirstPost_clickTracker/Firstpost_Clicktracker_Honeywell_Widget_1x1" title="Honeywell" target="_blank">
+								<img src="https://images.firstpost.com/wp-content/uploads/assets/images/honeywell.png">
+								</a>                              
+								<span>Air Purifiers</span>
+								<div id='div-gpt-ad-1508223058503-0' style='height:1px; width:1px;'>
+								<script>
+								googletag.cmd.push(function() { googletag.display('div-gpt-ad-1508223058503-0'); });
+								</script>
+								</div>  								
+							</div>
+						</div>
+					</div> -->
+					<!--air-quality-->					
+                    <!-- <div class="weather-widget-mobile text-center" id="accuweatherresults"></div> -->
+                </div>
+                <div class="col-lg-3 col-md-4 text-right">
+
+                    <div class="search-dropdown dropdown hidden-md hidden-lg">
+                        <button class="btn btn-default dropdown-toggle" type="button" id="searchDropDownMobile" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><i class="icon-search"></i></button>
+                        <div class="dropdown-menu" aria-labelledby="searchDropDownMobile">
+                            <div class="nav-search-box open">
+                                <div class="site-search">
+                                    <input autocomplete="off" class="search" type="text" name="search" tabindex="1" placeholder="Search..."/>
+                                    <button type="submit" tabindex="2" class="submit-search"><i class="icon-search"></i></button>
+                                    <div class="suggesting"><img src="" /></div>
+                                </div>
+                                <div class="search-suggestions hidden"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                                                <div id='FirstPost/FirstPost_Ros/FirstPost_Ros_FlipQuote_300x100_Right'><script type='text/javascript'>
+                            var width = window.innerWidth || document.documentElement.clientWidth;
+                            adKey = 'FirstPost/FirstPost_Ros/FirstPost_Ros_FlipQuote_300x100_Right';
+                            if (width >= 768 && (adKey.indexOf('FirstPost') != -1 || adKey.indexOf('Tech') != -1) && adKey.indexOf('FirstPost_Wap_New') < 0) {
+                                googletag.cmd.push(function() { googletag.display('FirstPost/FirstPost_Ros/FirstPost_Ros_FlipQuote_300x100_Right') });
+                            }
+                            if (width < 768 && adKey.indexOf('FirstPost_Wap_New') != -1) {
+                                googletag.cmd.push(function() { googletag.display('FirstPost/FirstPost_Ros/FirstPost_Ros_FlipQuote_300x100_Right') });
+                            }
+                        </script></div>
+						                   
+                  
+                </div>
+            </div>
+        </div>
+    </div>
+	<div class="header-bottom">
+    <div class="container">
+        <div class="nav-wrap clearfix" id="main-menu">
+            <a href="/" id="nav-flogo"><img src="https://images.firstpost.com/wp-content/uploads/f-logo-v1.png" alt="Firstpost"/></a>
+            <nav class="category-list">
+                <ul>
+                                                            <li class=""><a href="/"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAOCAMAAAD+MweGAAAAPFBMVEUAAADzQC/zQC/zQC/zQC/zQC/zQC/zQC/zQC/zQC/zQC/zQC/zQC/zQC/zQC/zQC/zQC/zQC/zQC/zQC/ddf9BAAAAE3RSTlMAeNIQZPLV1L6uooJNRR4Gxy4t6OducgAAAE9JREFUCNelyEkSgCAMBdEvCfOk5v53tSixCGt71w+z+7ywVa3YqoFlxAuyvOX5PclX6gMoyCoQ0LzofEPhqCByAXAoOYApjojcJgaA+SMPFJcIkZ4l/DUAAAAASUVORK5CYII=" style="padding-top:2px;vertical-align:top"></a></li>
+                                            
+                                                                                                                                                        <li class="submenu " >
+                                                                    <a href="/category/politics">Politics</a>
+                                                                                                    <ul class="dropdown">
+                                        <li>
+                                            <a href="http://www.firstpost.com/politics/raj-babbar-resigns-as-uttar-pradesh-congress-chief-say-media-reports-party-yet-to-accept-his-resignation-4398999.html" class="main-news-item" title="Raj Babbar resigns as Uttar Pradesh Congress chief, say media reports; party yet to accept his resignation">
+                                                <div class="news-img">
+                                                    <img class="fp-lazy-navbar" src="https://images.firstpost.com/wp-content/uploads/placeholder-thumb.jpg" data-src="https://images.firstpost.com/fpimages/80x60/fixed/jpg/2013/07/RajBabbar1.jpg" />
+                                                </div>
+                                                <div class="news-text">Raj Babbar resigns as Uttar Pradesh Congress chief, say media reports; party yet to accept his resignation</div>
+                                                <div class=""></div>
+                                            </a>
+                                        </li>
+                                                                                    <li><a href="http://www.firstpost.com/politics/raj-babbar-resigns-as-uttar-pradesh-congress-chief-say-media-reports-party-yet-to-accept-his-resignation-4398999.html">Raj Babbar resigns as Uttar Pradesh Congress chief, say media reports; party yet to accept his resignation</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/politics/reform-within-congress-will-only-work-if-rahul-gandhi-corrects-mistakes-made-within-the-party-in-the-past-4398931.html">Reform within Congress will only work if Rahul Gandhi corrects mistakes made within the party in the past</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/politics/rahul-gandhi-in-karnataka-congress-president-invokes-mahabharat-again-slams-modi-on-note-ban-and-farmers-crisis-4398463.html">Rahul Gandhi in Karnataka: Congress chief invokes Mahabharat again, slams Modi on note ban, farmers' crisis</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/politics/arvind-kejriwals-apology-spree-hits-roadblock-arun-jaitley-may-not-allow-delhi-chief-minister-an-easy-escape-4398449.html">Arvind Kejriwal's apology spree hits roadblock: Arun Jaitley may not allow Delhi chief minister an easy escape</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/politics/chengannur-bypoll-ldf-launches-election-convention-pinarayi-vijayan-hits-out-at-bjp-congress-4398447.html">Chengannur bypoll: LDF launches election convention; Pinarayi Vijayan hits out at BJP, Congress</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/politics/upa-denied-separate-religion-tag-to-lingayat-in-2013-karnataka-govt-doing-vote-bank-politics-says-ananth-kumar-4398453.html">UPA denied separate religion tag to Lingayat in 2013, Karnataka govt doing vote-bank politics, says Ananth Kumar</a></li>
+                                        
+                                    </ul>
+                                                            </li>
+                                                                    
+                                                                                                                                                        <li class="submenu " >
+                                                                    <a href="/category/sports">Sports</a>
+                                                                                                    <ul class="dropdown">
+                                        <li>
+                                            <a href="http://www.firstpost.com/sports/bernard-tomics-bid-to-mount-comeback-to-top-10-hits-roadblock-after-round-1-loss-in-challenger-tournament-in-lille-4399011.html" class="main-news-item" title="Bernard Tomic's bid to mount comeback to top 10 hits roadblock after Round 1 loss in Challenger tournament in Lille">
+                                                <div class="news-img">
+                                                    <img class="fp-lazy-navbar" src="https://images.firstpost.com/wp-content/uploads/placeholder-thumb.jpg" data-src="https://images.firstpost.com/fpimages/80x60/fixed/jpg/2018/03/BERNARD-TOMIC-AFP-380.jpg" />
+                                                </div>
+                                                <div class="news-text">Bernard Tomic's bid to mount comeback to top 10 hits roadblock after Round 1 loss in Challenger tournament in Lille</div>
+                                                <div class=""></div>
+                                            </a>
+                                        </li>
+                                                                                    <li><a href="http://www.firstpost.com/sports/bernard-tomics-bid-to-mount-comeback-to-top-10-hits-roadblock-after-round-1-loss-in-challenger-tournament-in-lille-4399011.html">Bernard Tomic's bid to mount comeback to top 10 hits roadblock after Round 1 loss in Challenger tournament in Lille</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/sports/lionel-messi-joins-argentinas-training-session-at-manchester-city-ahead-of-world-cup-warm-up-against-italy-4398725.html">Lionel Messi joins Argentina's training session at Manchester City ahead of World Cup warm-up against Italy</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/sports/commonwealth-games-2018-weightlifter-vikas-thakur-would-look-to-mark-his-new-weight-category-with-gold-at-gold-coast-4387027.html">Commonwealth Games 2018: Weightlifter Vikas Thakur would look to mark his new weight category with gold at Gold Coast</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/sports/santosh-trophy-mizoram-stun-six-time-champions-goa-in-group-b-opening-fixture-punjab-edge-past-odisha-4398267.html">Santosh Trophy: Mizoram stun six-time champions Goa in Group B opening fixture; Punjab edge past Odisha</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/sports/formula-1-podcast-from-predictions-for-2018-australian-grand-prix-to-battle-of-the-renaults-4398433.html">Formula 1 podcast: From predictions for 2018 Australian Grand Prix to 'Battle of the Renaults'</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/sports/isl-2017-18-chennaiyin-fc-announce-contract-extensions-for-mailson-alves-gregory-nelson-4398333.html">ISL 2017-18: Chennaiyin FC announce contract extensions for Mailson Alves, Gregory Nelson</a></li>
+                                        
+                                    </ul>
+                                                            </li>
+                                                                    
+                                                                                                                                                        <li class="submenu " >
+                                                                    <a href="/category/india">India</a>
+                                                                                                    <ul class="dropdown">
+                                        <li>
+                                            <a href="http://www.firstpost.com/india/to-tackle-delhi-pollution-centre-spent-rs-36-lakh-on-140-air-purifiers-for-narendra-modis-offices-and-six-federal-depts-between-2014-and-2017-4399003.html" class="main-news-item" title="To tackle Delhi pollution, Centre spent Rs 36 lakh on 140 air purifiers for Narendra Modi's offices and six federal depts between 2014 and 2017">
+                                                <div class="news-img">
+                                                    <img class="fp-lazy-navbar" src="https://images.firstpost.com/wp-content/uploads/placeholder-thumb.jpg" data-src="https://images.firstpost.com/fpimages/80x60/fixed/jpg/2017/11/Delhi-air-pollution-my-right-to-breath_380_AP.jpg" />
+                                                </div>
+                                                <div class="news-text">To tackle Delhi pollution, Centre spent Rs 36 lakh on 140 air purifiers for Narendra Modi's offices and six federal depts between 2014 and 2017</div>
+                                                <div class=""></div>
+                                            </a>
+                                        </li>
+                                                                                    <li><a href="http://www.firstpost.com/india/to-tackle-delhi-pollution-centre-spent-rs-36-lakh-on-140-air-purifiers-for-narendra-modis-offices-and-six-federal-depts-between-2014-and-2017-4399003.html">To tackle Delhi pollution, Centre spent Rs 36 lakh on 140 air purifiers for Narendra Modi's offices and six federal depts between 2014 and 2017</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/india/mumbai-police-registers-second-case-of-sexual-harassment-against-seedfund-co-founder-mahesh-murthy-4398989.html">Mumbai Police registers second case of sexual harassment against Seedfund co-founder Mahesh Murthy</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/world/facebook-gets-hammered-cambridge-analytica-ceo-alexander-nix-suspended-as-stunning-data-breach-spooks-users-4398825.html">Facebook gets hammered, Cambridge Analytica CEO Alexander Nix suspended as stunning data breach spooks users</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/world/google-doubles-down-on-facebook-woes-commits-300-million-to-help-news-publishers-4398771.html">Google doubles down on Facebook woes, commits $300 million to help news publishers</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/fwire/fifth-device-explodes-in-texas-seen-linked-to-others-reuters-4398791.html">Fifth device explodes in Texas, seen linked to others | Reuters</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/fwire/weinstein-co-says-its-bankruptcy-filing-wont-protect-ex-chairman-reuters-4398893.html">Weinstein Co says its bankruptcy filing won't protect ex-chairman | Reuters</a></li>
+                                        
+                                    </ul>
+                                                            </li>
+                                                                    
+                                                                                                                                                        <li class="submenu " >
+                                                                    <a href="/category/world">World</a>
+                                                                                                    <ul class="dropdown">
+                                        <li>
+                                            <a href="http://www.firstpost.com/world/maldives-to-lift-state-of-emergency-tomorrow-will-charge-former-president-maumoon-gayoom-chief-justice-with-bribery-4399027.html" class="main-news-item" title="Maldives to lift State of Emergency tomorrow, will charge former president Maumoon Gayoom, chief justice with bribery">
+                                                <div class="news-img">
+                                                    <img class="fp-lazy-navbar" src="https://images.firstpost.com/wp-content/uploads/placeholder-thumb.jpg" data-src="https://images.firstpost.com/fpimages/80x60/fixed/jpg/2018/02/Abdulla-Yameen_380_Reuters.jpg" />
+                                                </div>
+                                                <div class="news-text">Maldives to lift State of Emergency tomorrow, will charge former president Maumoon Gayoom, chief justice with bribery</div>
+                                                <div class=""></div>
+                                            </a>
+                                        </li>
+                                                                                    <li><a href="http://www.firstpost.com/world/maldives-to-lift-state-of-emergency-tomorrow-will-charge-former-president-maumoon-gayoom-chief-justice-with-bribery-4399027.html">Maldives to lift State of Emergency tomorrow, will charge former president Maumoon Gayoom, chief justice with bribery</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/world/former-playboy-model-karen-mcdougal-files-lawsuit-seeking-to-discuss-alleged-relationship-with-us-president-4398949.html">Former Playboy model Karen McDougal files lawsuit seeking to discuss alleged relationship with US president</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/world/donald-trump-congratulates-vladimir-putin-on-reelection-as-russia-president-doesnt-discuss-alleged-meddling-in-us-election-4398959.html">Donald Trump congratulates Vladimir Putin on reelection as Russia president, doesn't discuss alleged meddling in US election</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/world/ex-french-president-nicolas-sarkozy-held-over-claims-that-he-received-campaign-funding-from-muammar-gaddafi-4398917.html">Ex-French president Nicolas Sarkozy held over claims that he received campaign funding from Muammar Gaddafi</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/world/sixth-parcel-bomb-blast-in-texas-leaves-us-investigators-baffled-donald-trump-promises-action-4398921.html">Sixth parcel bomb blast in Texas leaves US investigators baffled; Donald Trump promises action</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/world/syria-29-civilians-killed-in-heavy-air-strikes-shelling-in-rebel-enclave-of-eastern-ghouta-4398911.html">Syria: 29 civilians killed in heavy air strikes, shelling in rebel enclave of Eastern Ghouta</a></li>
+                                        
+                                    </ul>
+                                                            </li>
+                                                                    
+                                                                                                                                                        <li class="submenu " >
+                                                                    <a href="/category/business">Business</a>
+                                                                                                    <ul class="dropdown">
+                                        <li>
+                                            <a href="http://www.firstpost.com/business/wto-ministerial-summit-india-to-take-up-issue-of-trade-protectionism-with-us-says-suresh-prabhu-4399025.html" class="main-news-item" title="WTO ministerial summit: India to take up issue of trade protectionism with US, says Suresh Prabhu">
+                                                <div class="news-img">
+                                                    <img class="fp-lazy-navbar" src="https://images.firstpost.com/wp-content/uploads/placeholder-thumb.jpg" data-src="https://images.firstpost.com/fpimages/80x60/fixed/jpg/2017/11/Suresh-Prabhu_380_AFP_1.jpg" />
+                                                </div>
+                                                <div class="news-text">WTO ministerial summit: India to take up issue of trade protectionism with US, says Suresh Prabhu</div>
+                                                <div class=""></div>
+                                            </a>
+                                        </li>
+                                                                                    <li><a href="http://www.firstpost.com/business/wto-ministerial-summit-india-to-take-up-issue-of-trade-protectionism-with-us-says-suresh-prabhu-4399025.html">WTO ministerial summit: India to take up issue of trade protectionism with US, says Suresh Prabhu</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/business/indigo-says-it-is-actively-engaged-with-pratt-whitney-to-get-all-of-its-grounded-aircraft-back-in-operation-4399009.html">IndiGo says it is 'actively engaged' with Pratt & Whitney to get all of its grounded aircraft back in operation</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/business/nandan-nilekani-bats-for-privatisation-of-psbs-says-rationale-behind-bank-nationalisation-has-ceased-to-exist-4398975.html">Nandan Nilekani bats for privatisation of PSBs, says rationale behind bank nationalisation has ceased to exist</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/business/dri-charges-nirav-modi-and-his-firms-for-diverting-duty-free-diamonds-and-pearls-worth-rs-890-crore-4398953.html">DRI charges Nirav Modi and his firms for diverting duty-free diamonds and pearls worth Rs 890 crore</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/business/7-5-growth-not-enough-to-employ-1-2-cr-people-joining-indias-workforce-every-year-raghuram-rajan-4398133.html">7.5% growth not enough to employ 1.2 cr people joining India’s workforce every year: Raghuram Rajan</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/business/maharashtra-power-supplier-msedc-admits-financial-crisis-over-rs-39000-cr-dues-4398217.html">Maharashtra power supplier MSEDC admits 'financial crisis' over Rs 39,000 cr dues</a></li>
+                                        
+                                    </ul>
+                                                            </li>
+                                                                    
+                                                                                                                                                                        
+                                                                                                                                                        <li class="submenu " >
+                                                                    <a href="/category/entertainment">Entertainment</a>
+                                                                                                    <ul class="dropdown">
+                                        <li>
+                                            <a href="http://www.firstpost.com/entertainment/why-ranveer-singh-and-kangana-ranaut-are-true-representatives-of-the-ever-evolving-hindi-film-industry-of-today-4399013.html" class="main-news-item" title="Why Ranveer Singh and Kangana Ranaut are true representatives of the ever-evolving Hindi film industry of today">
+                                                <div class="news-img">
+                                                    <img class="fp-lazy-navbar" src="https://images.firstpost.com/wp-content/uploads/placeholder-thumb.jpg" data-src="https://images.firstpost.com/fpimages/80x60/fixed/jpg/2018/03/Kangana-Ranveer-380.jpg" />
+                                                </div>
+                                                <div class="news-text">Why Ranveer Singh and Kangana Ranaut are true representatives of the ever-evolving Hindi film industry of today</div>
+                                                <div class=""></div>
+                                            </a>
+                                        </li>
+                                                                                    <li><a href="http://www.firstpost.com/entertainment/why-ranveer-singh-and-kangana-ranaut-are-true-representatives-of-the-ever-evolving-hindi-film-industry-of-today-4399013.html">Why Ranveer Singh and Kangana Ranaut are true representatives of the ever-evolving Hindi film industry of today</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/entertainment/google-doodle-celebrates-renowned-shehnai-player-ustad-bismillah-khan-on-his-102th-birthday-4398935.html">Google Doodle celebrates renowned shehnai player Ustad Bismillah Khan on his 102th birthday</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/entertainment/rapper-trey-songz-arrested-after-allegedly-punching-woman-at-a-party-in-los-angeles-4398331.html">Rapper Trey Songz arrested after allegedly punching woman at a party in Los Angeles</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/entertainment/former-talking-heads-frontman-david-byrne-earns-first-top-10-album-on-billboard-chart-with-american-utopia-4398335.html">Former Talking Heads frontman David Byrne earns first top 10 album on Billboard chart with American Utopia</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/entertainment/raid-box-office-collection-ajay-devgn-starrer-continues-strong-run-beyond-weekend-inches-closer-to-rs-50-cr-mark-4398265.html">Raid box office collection: Ajay Devgn starrer continues strong run beyond weekend, inches closer to Rs 50 cr mark</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/entertainment/british-broadcaster-itv-commissions-gurinder-chadhas-beecham-house-a-period-drama-set-in-19th-century-delhi-4398231.html">British broadcaster ITV commissions Gurinder Chadha's Beecham House, a period drama set in 19th century Delhi</a></li>
+                                        
+                                    </ul>
+                                                            </li>
+                                                                    
+                                                                                                                                                        <li class="submenu " >
+                                                                    <a title="First Cricket" href="http://www.firstpost.com/firstcricket/" style="background: #086779; color: #FFF;">F.Cricket</a>
+                                                                                                    <ul class="dropdown">
+                                        <li>
+                                            <a href="http://www.firstpost.com/firstcricket/sports-news/psl-2018-peshawar-zalmi-survive-anwar-ali-scare-to-beat-quetta-gladiators-by-a-run-as-league-returns-home-4398743.html" class="main-news-item" title="PSL 2018: Peshawar Zalmi survive Anwar Ali scare to beat Quetta Gladiators by a run as league returns home">
+                                                <div class="news-img">
+                                                    <img class="fp-lazy-navbar" src="https://images.firstpost.com/wp-content/uploads/placeholder-thumb.jpg" data-src="https://images.firstpost.com/fpimages/80x60/fixed/jpg/2018/03/Peshawar-Quetta-PSL-2018-eliminator-AFP-380.jpg" />
+                                                </div>
+                                                <div class="news-text">PSL 2018: Peshawar Zalmi survive Anwar Ali scare to beat Quetta Gladiators by a run as league returns home</div>
+                                                <div class=""></div>
+                                            </a>
+                                        </li>
+                                                                                    <li><a href="http://www.firstpost.com/firstcricket/sports-news/psl-2018-peshawar-zalmi-survive-anwar-ali-scare-to-beat-quetta-gladiators-by-a-run-as-league-returns-home-4398743.html">PSL 2018: Peshawar Zalmi survive Anwar Ali scare to beat Quetta Gladiators by a run as league returns home</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/firstcricket/sports-news/mithali-raj-insists-on-the-importance-of-strong-domestic-set-up-before-having-ipl-for-women-4398533.html">Mithali Raj insists on the importance of strong domestic set-up before having IPL for women</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/firstcricket/sports-news/icc-world-cup-qualifier-2018-rashid-khan-spins-afghanistan-to-5-wicket-victory-over-united-arab-emirates-4398493.html">ICC World Cup Qualifier 2018: Rashid Khan spins Afghanistan to 5-wicket victory over United Arab Emirates</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/firstcricket/sports-news/highlights-psl-2018-peshawar-zalmi-vs-quetta-gladiators-eliminator-lahore-full-cricket-score-zalmi-win-1-run-4398211.html">Highlights, PSL 2018, Peshawar Zalmi vs Quetta Gladiators, Eliminator at Lahore, Full cricket score: Zalmi win by 1 run</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/firstcricket/sports-news/nidahas-trophy-2018-ms-dhoni-is-a-topper-in-a-university-where-i-am-studying-says-dinesh-karthik-4398629.html">Nidahas Trophy 2018: 'MS Dhoni is a topper in a university, where I am studying,' says Dinesh Karthik</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/firstcricket/sports-news/icc-world-cup-qualifier-2018-rashid-khan-insists-afghanistan-can-still-make-it-to-the-2019-event-4398509.html">ICC World Cup Qualifier 2018: Rashid Khan insists Afghanistan can still make it to the 2019 event</a></li>
+                                        
+                                    </ul>
+                                                            </li>
+                                                                    
+                                                                                                                                                        <li class="submenu " >
+                                                                    <a href="http://www.firstpost.com/tech">TECH</a>
+                                                                                                    <ul class="dropdown">
+                                        <li>
+                                            <a href="http://www.firstpost.com/tech/news-analysis/pride-of-india-expo-organised-as-part-of-the-indian-science-congress-saw-a-huge-turnout-4398517.html" class="main-news-item" title="Pride of India Expo organised as part of the India Science Congress saw a huge turnout">
+                                                <div class="news-img">
+                                                    <img class="fp-lazy-navbar" src="https://images.firstpost.com/wp-content/uploads/placeholder-thumb.jpg" data-src="https://images.firstpost.com/fpimages/80x60/fixed/jpg/2018/03/India-Science-Congress.jpg" />
+                                                </div>
+                                                <div class="news-text">Pride of India Expo organised as part of the India Science Congress saw a huge turnout</div>
+                                                <div class=""></div>
+                                            </a>
+                                        </li>
+                                                                                    <li><a href="http://www.firstpost.com/tech/news-analysis/pride-of-india-expo-organised-as-part-of-the-indian-science-congress-saw-a-huge-turnout-4398517.html">Pride of India Expo organised as part of the India Science Congress saw a huge turnout</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/tech/news-analysis/tesla-says-that-elon-musk-did-not-discuss-a-collaboration-with-cortica-while-visiting-israel-4399047.html">Tesla says that Elon Musk did not discuss a collaboration with Cortica while visiting Israel</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/tech/news-analysis/cambridge-analytica-data-breach-can-see-the-end-of-mark-zuckerbergs-ambitions-for-facebook-4398961.html">Cambridge Analytica data breach can see the end of Mark Zuckerberg's ambitions for Facebook</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/tech/news-analysis/amd-plans-to-release-security-patches-to-fix-some-of-the-flaws-that-cts-labs-discovered-last-week-4398957.html">AMD plans to release security patches to fix some of the flaws that CTS Labs discovered last week</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/tech/news-analysis/google-buys-chelsea-market-a-food-hall-in-new-york-for-2-4-billion-to-expand-its-campus-4398933.html">Google buys Chelsea Market, a food hall in New York, for $2.4 billion to expand its campus</a></li>
+                                                                                    <li><a href="http://www.firstpost.com/tech/news-analysis/google-news-initiative-launched-along-with-an-easier-way-to-subscribe-to-news-in-its-bid-to-fight-fake-news-4398995.html">Google News Initiative launched along with an easier way to subscribe to news in its bid to fight fake news</a></li>
+                                        
+                                    </ul>
+                                                            </li>
+                                                                    
+                                                                                                                                                        <li class="submenu " >
+                                                                    <a href="/category/photos">Photos</a>
+                                                                                            </li>
+                                                                    
+                                                                                                                                                        <li class="submenu " >
+                                                                    <a href="/category/videos">Videos</a>
+                                                                                            </li>
+                                            
+
+                     <li><a href="http://www.firstpost.com/shows/" alt="F.Shows" title="F.Shows">Shows</a></li>
+
+                    <!-- <li><a href="http://www.firstpost.com/culture-of-world/"  alt="FirstCulture" title="FirstCulture">FirstCulture</a></li> -->
+                    <li><a href="http://www.firstpost.com/isl-2017-18/"  alt="ISL 2018" title="ISL 2018">ISL 2018</a></li>
+                    <li><a href="https://www.news18.com/rising-india-summit/" style="background:  #255ee1;color:white"  alt="RISING INDIA SUMMIT" title="RISING INDIA SUMMIT" target="_blank">RISING INDIA SUMMIT</a></li>
+
+                    <!-- <li><a href="http://www.firstpost.com/tech/mwc-2018" style="background:  #ed3147;color:white" alt="Mobile world congress 2018" title="Mobile world congress 2018">MWC 2018</a></li> -->
+                     
+                    <!--<li><a href="http://www.fakingnews.firstpost.com" target="_blank">FAKING NEWS</a></li>-->
+                    <!--<li><a href="http://www.firstpost.com/nikon/" style="background: #fde401;color: #000;" target="_blank">Nikon</a></li>-->
+					
+					
+					
+
+                </ul>
+                <!-- <button id="search"><i class="fa fa-search"></i></button> -->
+            </nav>
+             <div class="search-dropdown dropdown hidden-sm hidden-xs">
+                <button class="btn btn-default dropdown-toggle" type="button" id="searchDropDown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"><i class="icon-search"></i></button>
+                <div class="dropdown-menu" aria-labelledby="searchDropDown">
+                    <div class="nav-search-box open">
+                        <div class="site-search">
+                            <input autocomplete="off" class="search" autofocus="true" id="searchDropDownInput" type="text" name="search" tabindex="1" placeholder="Search..."/>
+                            <button type="submit" tabindex="2" class="submit-search"><i class="icon-search"></i></button>
+                            <div class="suggesting"><img src="" /></div>
+                        </div>
+                        <div class="search-suggestions hidden">
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div><!-- container -->
+</div><!-- header-bottom -->
+
+
+
+</header>
+<div class="ad text-center">
+                <div class="ad-wap-ros-top">
+                    <div id='FirstPost/Firstpost_Pagepush_Across/Firstpost_PagePush_Across_940x60'><script type='text/javascript'>
+                            var width = window.innerWidth || document.documentElement.clientWidth;
+                            adKey = 'FirstPost/Firstpost_Pagepush_Across/Firstpost_PagePush_Across_940x60';
+                            if (width >= 768 && (adKey.indexOf('FirstPost') != -1 || adKey.indexOf('Tech') != -1) && adKey.indexOf('FirstPost_Wap_New') < 0) {
+                                googletag.cmd.push(function() { googletag.display('FirstPost/Firstpost_Pagepush_Across/Firstpost_PagePush_Across_940x60') });
+                            }
+                            if (width < 768 && adKey.indexOf('FirstPost_Wap_New') != -1) {
+                                googletag.cmd.push(function() { googletag.display('FirstPost/Firstpost_Pagepush_Across/Firstpost_PagePush_Across_940x60') });
+                            }
+                        </script></div>
+                    <!-- Ads Display Widget End -->
+                </div>
+            </div>
+
+
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.firstpost.com/politics/narendra-modi-is-not-fighting-corruption-he-is-corruption-says-rahul-gandhi-at-congress-84th-plenary-session-4395201.html" />
+<link rel="amphtml" href="http://www.firstpost.com/politics/narendra-modi-is-not-fighting-corruption-he-is-corruption-says-rahul-gandhi-at-congress-84th-plenary-session-4395201.html/amp" >
+<script type="text/javascript" async="async" src="https://widgets.outbrain.com/outbrain.js"></script>
+
+<meta property="article:tag" content="84th Congress Plenary" />
+<meta property="article:tag" content="Amit Shah" />
+<meta property="article:tag" content="BJP" />
+<meta property="article:tag" content="Congress" />
+<meta property="article:tag" content="Congress plenary" />
+<meta property="article:tag" content="Congress plenary live" />
+<meta property="article:tag" content="Congress plenary live updates" />
+<meta property="article:tag" content="Congress plenary session" />
+<meta property="article:tag" content="Economy" />
+<meta property="article:tag" content="farmers' crisis" />
+<meta property="article:tag" content="Hindutva" />
+<meta property="article:tag" content="Indian National Congress" />
+<meta property="article:tag" content="Kaurava" />
+<meta property="article:tag" content="Mahatma Gandhi" />
+<meta property="article:tag" content="Manmohan Singh" />
+<meta property="article:tag" content="Narendra Modi" />
+<meta property="article:tag" content="New Delhi" />
+<meta property="article:tag" content="NewsTracker" />
+<meta property="article:tag" content="Rafale deal" />
+<meta property="article:tag" content="Rahul Gandhi" />
+<meta property="article:tag" content="Rahul Gandhi Live" />
+<meta property="article:tag" content="Rahul Gandhi Speech" />
+<meta property="article:tag" content="RSS" />
+<meta property="article:tag" content="Sonia Gandhi" />
+<meta property="article:tag" content="Unemployment" />
+<meta property="article:tag" content="Vyapam scam" />
+
+
+<meta property="article:section" content="Politics" />
+<meta property="article:published_time" content="2018-03-18T18:47:17+05:30" />
+<meta property="article:modified_time" content="2018-03-18T19:31:42+05:30" />
+<meta property="og:updated_time" content="2018-03-18T19:31:42+05:30" />
+
+<meta name="news_keywords" content="84th Congress Plenary,Amit Shah,BJP,Congress,Congress plenary,Congress plenary live,Congress plenary live updates,Congress plenary session,Economy,farmers' crisis,Hindutva,Indian National Congress,Kaurava,Mahatma Gandhi,Manmohan Singh,Narendra Modi,New Delhi,NewsTracker,Rafale deal,Rahul Gandhi,Rahul Gandhi Live,Rahul Gandhi Speech,RSS,Sonia Gandhi,Unemployment,Vyapam scam" />
+<meta name="keywords" content="84th Congress Plenary,Amit Shah,BJP,Congress,Congress plenary,Congress plenary live,Congress plenary live updates,Congress plenary session,Economy,farmers' crisis,Hindutva,Indian National Congress,Kaurava,Mahatma Gandhi,Manmohan Singh,Narendra Modi,New Delhi,NewsTracker,Rafale deal,Rahul Gandhi,Rahul Gandhi Live,Rahul Gandhi Speech,RSS,Sonia Gandhi,Unemployment,Vyapam scam" />
+<!-- Ads Config Widget Start -->
+
+
+
+
+
+<script type="text/javascript">
+
+
+    var width = window.innerWidth || document.documentElement.clientWidth;
+    if(width >= 768) {
+
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/1039154/FirstPost/FirstPost_Ros/Firstpost_Ros_Across_OOP_2x2', [2,2], 'FirstPost/FirstPost_Ros/Firstpost_Ros_Across_OOP_2x2').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+        });
+
+    }
+
+
+</script>
+
+
+<div id='FirstPost/FirstPost_Ros/Firstpost_Ros_Across_OOP_2x2'>
+    <script>
+        var width = window.innerWidth || document.documentElement.clientWidth;
+        if(width >= 768) {
+            googletag.cmd.push(function() { googletag.display('FirstPost/FirstPost_Ros/Firstpost_Ros_Across_OOP_2x2'); });
+        }
+    </script>
+</div>
+
+
+<script type="text/javascript">
+    var width = window.innerWidth || document.documentElement.clientWidth;
+    if (width <= 768 ) {
+
+        googletag.cmd.push(function(){
+            googletag.defineOutOfPageSlot('/63833091/Out_fp_WAP_Swipe-Up_OOP', 'div-gpt-ad-1482931374058-0').addService(googletag.pubads());
+        });
+    }
+
+    /*if(width <= 768) {
+        googletag.cmd.push(function() {
+            googletag.defineOutOfPageSlot('/1039154/FIRSTPOST_WAP/FIRSTPOST_WAP_ROS/FIRSTPOST_WAP_ROS_Across_OOP_1x1', 'div-gpt-ad-1501742782171-0').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+        });
+    }*/
+	
+	if (width >= 768 ) {
+	var FP_FloatingAd_300x250_defineslot_cook = FPgetcookieForDFP('FP_FloatingAd_300x250');
+	googletag.cmd.push(function(){
+		if ( typeof FP_FloatingAd_300x250_defineslot_cook === 'undefined' || FP_FloatingAd_300x250_defineslot_cook == '' || FP_FloatingAd_300x250_defineslot_cook < '5' )  {
+			googletag.defineSlot('/1039154/FirstPost/Firstpost_Flying/Firstpost_Flying_300x250', [300,250], 'FirstPost/Firstpost_Flying/Firstpost_Flying_300x250').addService(googletag.pubads());
+			googletag.pubads().enableSingleRequest();
+			googletag.enableServices();
+		}
+	});
+	}
+
+</script>
+
+<!-- Ads Config Widget End -->
+
+<!--live blog css prem panicker-->
+
+<style type="text/css">
+    .green-load,.green-load a{text-align: center;margin: 10px 0;}.panel-title img{max-width:100%;width:auto}.green-brd{border:1px solid #A6CE39!important}.green-load a{background-color:#A6CE39;padding:5px;border-radius:5px;color:#fff;text-transform:uppercase;font-size:12px}.green-load a:hover{color: #fff}.firstpost-commentary .highlight-list li:last-child { padding: 15px 5px 0;border-bottom: 0px dashed #CCC;}.page-title.article-title{margin-bottom: 0px;}.main{margin-top: 0px !important;}.article-meta{margin-top: 10px;}
+</style>
+
+<!--live blog css prem panicker-->
+
+<style type="text/css">
+    .iframe-responsive{
+        height: 0;
+        max-width: 100%;
+        overflow: hidden;
+        padding-bottom: 77%;
+        position: relative;
+    }
+
+    .iframe-responsive embed {
+        height: 100%;
+        width: 100%;
+    }
+
+
+</style>
+
+<div id="fb-root"></div>
+<script>
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.9&appId=1117108234997285";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+<!-- Social Sharing Buttons Starts Here-->
+<style>
+
+    .custom-twitter-share-button{
+        display: inline-block;
+        text-decoration: none;
+        font-family: sans-serif;
+        /*line-height: 28px;*/
+        padding: 6px 10px;
+        position: relative;
+        box-sizing: border-box;
+        background-color: #1b95e0;
+        color: #fff !important;
+        border-radius: 3px;
+        font-weight: 500;
+        height: 28px;
+        cursor: pointer;
+    }
+    .custom-twitter-share-button:hover,
+    .custom-twitter-share-button:focus{
+        background-color: #0570B2;
+        text-decoration: none;
+    }
+
+    .custom-twitter-share-button i {
+        top: 4px;
+        height: 18px;
+        width: 18px;
+    }
+    .custom-twitter-share-button i {
+        position: relative;
+        top: 2px;
+        display: inline-block;
+        width: 14px;
+        height: 14px;
+        background: transparent 0 0 no-repeat;
+        background-image: url(data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2072%2072%22%3E%3Cpath%20fill%3D%22none%22%20d%3D%22M0%200h72v72H0z%22%2F%3E%3Cpath%20class%3D%22icon%22%20fill%3D%22%23fff%22%20d%3D%22M68.812%2015.14c-2.348%201.04-4.87%201.744-7.52%202.06%202.704-1.62%204.78-4.186%205.757-7.243-2.53%201.5-5.33%202.592-8.314%203.176C56.35%2010.59%2052.948%209%2049.182%209c-7.23%200-13.092%205.86-13.092%2013.093%200%201.026.118%202.02.338%202.98C25.543%2024.527%2015.9%2019.318%209.44%2011.396c-1.125%201.936-1.77%204.184-1.77%206.58%200%204.543%202.312%208.552%205.824%2010.9-2.146-.07-4.165-.658-5.93-1.64-.002.056-.002.11-.002.163%200%206.345%204.513%2011.638%2010.504%2012.84-1.1.298-2.256.457-3.45.457-.845%200-1.666-.078-2.464-.23%201.667%205.2%206.5%208.985%2012.23%209.09-4.482%203.51-10.13%205.605-16.26%205.605-1.055%200-2.096-.06-3.122-.184%205.794%203.717%2012.676%205.882%2020.067%205.882%2024.083%200%2037.25-19.95%2037.25-37.25%200-.565-.013-1.133-.038-1.693%202.558-1.847%204.778-4.15%206.532-6.774z%22%2F%3E%3C%2Fsvg%3E);
+    }
+    .custom-twitter-share-button{
+        display: inline-block;
+        vertical-align: top;
+        zoom: 1;
+        cursor: pointer
+    }
+
+    /* Custom FB Share button */
+    .custom-fb-share{display: none; margin-right: 0px;}
+    .dynamicArticle #fb_share{display: none;}
+    .dynamicArticle .custom-fb-share{
+        display: inline-block;
+        vertical-align: top;
+        border-radius: 4px;
+        font-size: 13px;
+        line-height: 28px;
+        height: 28px;
+        padding: 0 6px;
+        margin-right: 10px;
+        background: #365899;
+        color: #FFF;
+        text-decoration: none;
+    }
+    .dynamicArticle .custom-fb-share:hover,
+    .dynamicArticle .custom-fb-share:focus{
+        text-decoration: none;
+        outline: none;
+    }
+    .dynamicArticle .custom-fb-share svg{
+        display: inline-block;
+        vertical-align: middle;
+        width: 18px;
+        height: 18px;
+        margin: -2px 2px 0 0;
+    }
+    .dynamicArticle .panel.sidebar-video{
+        display: none;
+    }
+    .social-share-wrap .social-item{
+        display: inline-block;
+        vertical-align: top;
+    }
+    .social-share-wrap .social-item:last-child{
+        margin-left: 20px;
+    }
+    #comment-btn{
+        color: #fff !important;
+        padding: 4px 13px;
+        font-size: 14px;
+        line-height: 1.3;
+        border-radius: 4px;
+        margin-right: 7px;
+    }
+
+
+    .post-break{
+        background: #FFF;
+        border-bottom: none;
+    }
+    .dynamicArticle{
+        padding-top: 0px;
+    }
+    .dynamicArticle .panel-top-stories{
+        display: none;
+    }
+    .custom-twitter-share-button{
+        line-height: 18px
+    }
+
+    .sw-wrap span{
+        display: inline-block;
+        vertical-align: top;
+        padding-right: 10px;
+        padding-top: 5px;
+        font-weight: bold;
+    }
+
+    .sw-wrap{
+        display: block;
+        padding-left: 10px;
+    }
+
+    @media screen and (max-width: 700px){
+        .dynamicArticle{  padding-top: 10px; }
+        .sidebar .panel.panel-danger .panel-body{  max-height: none !important;  }
+        .post-break{  height: 55px !important;  }
+        .sidebar .panel.panel-danger .panel-body,
+        .panel-score-widget .panel-body .tab-content .match-list{
+            height: auto !important;
+            max-height: none !important;
+        }
+        .sidebar br{ display: none}
+        #wrapper{ padding-top: 50px; }
+
+        .sw-wrap{
+            display: table;
+            margin: 0 auto;
+            padding-top: 10px;
+        }
+    }
+    .live-update {
+        display: block;
+        background: #181f27;
+        margin-bottom: 15px;
+        max-width: 860px;
+        margin: 0 auto;
+    }
+</style>
+<!-- Social Sharing Buttons Ends Here-->
+
+
+
+<script type="application/ld+json">
+        [{
+          "@context": "http://schema.org",
+          "mainEntityOfPage":"http://www.firstpost.com/politics/narendra-modi-is-not-fighting-corruption-he-is-corruption-says-rahul-gandhi-at-congress-84th-plenary-session-4395201.html",
+          "@type": "NewsArticle",
+          "url": "http://www.firstpost.com/politics/narendra-modi-is-not-fighting-corruption-he-is-corruption-says-rahul-gandhi-at-congress-84th-plenary-session-4395201.html",
+          "articleBody":" Congress president Rahul Gandhi, in one of his most scathing attacks on the prime minister, said on Sunday that Narendra Modi 'is not fighting corruption; he is corruption.' 
+ 
+ Live : Congress President Rahul Gandhi addresses the  #CongressPlenary   #ChangeIsNow   https://t.co/kQ2SXxUkDG  
+ — Congress (@INCIndia)  March 18, 2018   
+    
+  BJP is the voice of an organization. Congress is the voice of a nation: Congress President Rahul Gandhi  #CongressPlenary   #ChangeIsNow   pic.twitter.com/BB29yRXPGr  — Congress (@INCIndia)  March 18, 2018   
+    
+  Narendra Modi cannot fight corruption  
+ Taking a swipe at the prime minister over the PNB fraud, Rahul said, Modi gives Modi 30,000 crores of your money and in turn, Modi gives Modi money for marketing Modi and fighting elections. Even in cricket, the most corrupt name is similar to that of our prime minister. The name Modi symbolises the collusion between India's biggest crony capitalists and the prime minister of India, said Rahul. Today, the corrupt and powerful control the conversation in the country, added Rahul. 
+ Talking about the Rafale controversy, Rahul alleged that Modi personally changed the deal. We paid Rs 570 crores per plane and Modi paid Rs 1,670 crores for the same plane. He paid Rs 1,100 crore more per plane. Forget fighter planes, you can’t trust such a man to buy vegetables!, he said. 
+ Rahul said that for the poor, the only options are to be contractors, labourers or be unemployed since they are destined to live in Modi's m aya . Accusing the prime minister of jumping from one event to another to divert attention from real issues, Rahul said, At a time when there is no employment and farmers are dying, Modi tells us to go to India Gate to do yoga. When it's time for the prime minister to speak, he goes silent. No one can prevent the Congress party from speaking for India and seeking truth and justice for the people. 
+ Continuing his attacks on Modi, he said, Modi ji thinks he is not human but an incarnation of God. 
+   Congress vice-president addresses the crowd at 84th Congress plenary on Sunday. Twitter@INCIndia  
+ About BJP's recent electoral performances, Rahul said, Modi's expression has changed after the recent defeats. He is probably scared that now if we have lost parts of Gujarat, we might be in trouble in the 2019 general elections. 
+ Saying that the BJP has spread fear everywhere and even the media is scared of Modi, the Congress president said, For the first time in history, Supreme Court judges sought justice from public, said Rahul. Recalling the Vyapam scam and paper leaks, Rahul said, Education is not just for the elites. If we come to power, we will ensure higher education in every nook and corner. 
+  'BJP fights for power like Kauravas'  
+ Drawing a Mahabharata analogy, Rahul said, The Kauravas were powerful and arrogant. The Pandavas were humble and fought for the truth. Like the Kauravas, the BJP and RSS are designed to fight for power. Like the Pandavas, Congress is designed to fight for truth. 
+ Acknowledging that the Congress has made mistakes, Rahul said, The last government we formed did not stand up to the expectations of the people. The people of the country were let down by us. 
+ He said that India expects more from the Congress because it holds it to a higher standard than any other party. 
+ Taking a jibe at Amit Shah, Rahul said that, The RSS will even accept a man accused of murder as the president of the BJP. 
+ They tell Muslims of India, who never went to Pakistan and supported this great nation, that you don't belong here. They tell the Tamils to change their beautiful language, they tell the people of the North East that they don't like what you eat. They told Gauri Lankesh and Kalburgi that if you question us, you will die. They tell our honest businessman to shut up and allow corrupt officers to extort their hard earned money. They tell our farmers to work for nothing, said Rahul. 
+ The Congress president also assured that ground level workers of the party will get tickets and that he wishes to break the wall between the grassroots workers and leaders. 
+  BJP slams Rahul's address, calls it rhetoric of a loser  
+ Union defence minister Nirmala Sitharaman, addressing the media after Rahul Gandhi's speech, said that the Congress president's accusations were the 'rhetoric of a loser.' 
+ Sitharaman said, While the Congress compares itself to the Pandavas, its leader questions the existence of Ram. She alleged that the party 'always chooses to mock Hindu rituals.' 
+ Sitharaman added, How can the Congress refer to themselves as Pandavas? They imposed the Emergency and were solely responsible for the anti-Sikh riots. They were involved in corruption cases worth Rs 12 lakh crore. 
+ Referring to the results of the recent bypolls in Uttar Pradesh and Bihar, she said, The BJP graciously accepted its mistakes and said that it would work on them. However, the Congress lost its deposit. 
+ The defence minister also touched upon the concerns raised by four Supreme Court judges, saying that, These are the internal concerns of the judiciary and they will sort it out. Since when has the Congress become the protector of the judiciary? 
+ &nbsp; 
+",
+          "articleSection":"Politics",
+          "headline": "Narendra Modi is not fighting corruption, he is corru.., says Rahul Gandhi at Congress' 84th plenary session",
+          "description":"In one of the most scathing attacks against the BJP and Prime Minister Narendra Modi, Congress president Rahul Gandhi on Sunday said is not fighting corruption, he stands for it.
+",
+          "author": "FP Staff",
+          "datePublished": "2018-03-18T18:47:17+05:30",
+          "dateModified": "2018-03-18T19:31:42+05:30",
+          "image":{
+                "@context": "http://schema.org",
+                "@type": "ImageObject",
+                "width": "100px",
+                "height": "100px",
+                "url":"https://images.firstpost.com/wp-content/uploads/2018/03/Rahul-_-Congressplenary-@INCIndia.png"
+              },
+          "publisher":{
+                "@context": "http://schema.org",
+                "@type": "Organization",
+                "name": "Firstpost",
+                "logo": {
+                        "@context": "http://schema.org",
+                        "@type": "ImageObject",
+                        "width": "100px",
+                        "height": "100px",
+                      "url": "https://images.firstpost.com/wp-content/uploads/2016/03/FP-Logo.png"
+                    },
+                "url":"http://www.firstpost.com/"
+              }
+        }]
+    </script>
+
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "WebPage",
+        "name": "Narendra Modi is not fighting corruption, he is corru.., says Rahul Gandhi at Congress' 84th plenary session",
+        "description": "In one of the most scathing attacks against the BJP and Prime Minister Narendra Modi, Congress president Rahul Gandhi on Sunday said is not fighting corruption, he stands for it.
+",
+        "keywords":"84th Congress Plenary,Amit Shah,BJP,Congress,Congress plenary,Congress plenary live,Congress plenary live updates,Congress plenary session,Economy,farmers' crisis,Hindutva,Indian National Congress,Kaurava,Mahatma Gandhi,Manmohan Singh,Narendra Modi,New Delhi,NewsTracker,Rafale deal,Rahul Gandhi,Rahul Gandhi Live,Rahul Gandhi Speech,RSS,Sonia Gandhi,Unemployment,Vyapam scam",
+        "url" : "http://www.firstpost.com/politics/narendra-modi-is-not-fighting-corruption-he-is-corruption-says-rahul-gandhi-at-congress-84th-plenary-session-4395201.html"
+    }
+</script>
+
+<script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "ImageObject",
+      "name": "Narendra Modi is not fighting corruption, he is corru.., says Rahul Gandhi at Congress' 84th plenary session",
+      "author": "FP Staff",
+      "datePublished": "Mar, 18 2018 18:47:17 IST"
+    }
+    </script>
+
+<input type="hidden" id="infiniteArticlesList" value="[{"id":0,"title":"Narendra Modi is not fighting corruption, he is corruption, says Rahul Gandhi at Congress' 84th plenary session","url":"http:\/\/www.firstpost.com\/politics\/narendra-modi-is-not-fighting-corruption-he-is-corruption-says-rahul-gandhi-at-congress-84th-plenary-session-4395201.html","articleId":4395201},{"id":1,"title":"Raj Babbar resigns as Uttar Pradesh Congress chief, say media reports; party yet to accept his resignation","url":"http:\/\/www.firstpost.com\/politics\/raj-babbar-resigns-as-uttar-pradesh-congress-chief-say-media-reports-party-yet-to-accept-his-resignation-4398999.html","articleId":4398999},{"id":2,"title":"Reform within Congress will only work if Rahul Gandhi corrects mistakes made within the party in the past","url":"http:\/\/www.firstpost.com\/politics\/reform-within-congress-will-only-work-if-rahul-gandhi-corrects-mistakes-made-within-the-party-in-the-past-4398931.html","articleId":4398931},{"id":3,"title":"Rahul Gandhi in Karnataka: Congress chief invokes Mahabharat again, slams Modi on note ban, farmers' crisis","url":"http:\/\/www.firstpost.com\/politics\/rahul-gandhi-in-karnataka-congress-president-invokes-mahabharat-again-slams-modi-on-note-ban-and-farmers-crisis-4398463.html","articleId":4398463},{"id":4,"title":"Arvind Kejriwal's apology spree hits roadblock: Arun Jaitley may not allow Delhi chief minister an easy escape","url":"http:\/\/www.firstpost.com\/politics\/arvind-kejriwals-apology-spree-hits-roadblock-arun-jaitley-may-not-allow-delhi-chief-minister-an-easy-escape-4398449.html","articleId":4398449}]">
+<div id='div-gpt-ad-1483535494214-0'>
+    
+    <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1483535494214-0'); });
+    </script>
+    
+</div>
+
+<div style="display:block;" id='div-gpt-ad-1482931374058-0'>
+    
+    <script>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1482931374058-0'); });
+    </script>
+    
+</div>
+
+<div class="content" id="main" data-article-id="4395201" data-category-id="1" data-category-name="Politics">
+    <div class="contentMain">
+        <div class="container article contentMainArticle" id="aid_4395201">
+          
+            <!-- Ads Display Widget Start -->
+            <div class="ad text-center">
+                <div class="ad-wap-ros-top">
+                    <div id='FirstPost/Firstpost_Pagepush_Across/Firstpost_PagePush_Across_940x60'><script type='text/javascript'>
+                            var width = window.innerWidth || document.documentElement.clientWidth;
+                            adKey = 'FirstPost/Firstpost_Pagepush_Across/Firstpost_PagePush_Across_940x60';
+                            if (width >= 768 && (adKey.indexOf('FirstPost') != -1 || adKey.indexOf('Tech') != -1) && adKey.indexOf('FirstPost_Wap_New') < 0) {
+                                googletag.cmd.push(function() { googletag.display('FirstPost/Firstpost_Pagepush_Across/Firstpost_PagePush_Across_940x60') });
+                            }
+                            if (width < 768 && adKey.indexOf('FirstPost_Wap_New') != -1) {
+                                googletag.cmd.push(function() { googletag.display('FirstPost/Firstpost_Pagepush_Across/Firstpost_PagePush_Across_940x60') });
+                            }
+                        </script></div>
+                    <!-- Ads Display Widget End -->
+                </div>
+            </div>
+                <!-- Ticker Start -->
+                
+                <!-- Ticker End --> 
+                <!-- Live Match Start -->
+                
+                <!-- Live Match End -->
+
+            <div class="breadcrumbs-wrap">
+                <span>You are here: </span>
+                <ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                        <a href="http://www.firstpost.com/" itemprop="item">Latest News</a>
+                    </li>
+                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                        <a href="http://www.firstpost.com/category/politics" itemprop="item">Politics News</a>
+                    </li>
+                </ol>
+            </div>
+             
+            <div class="main" role="main">
+                        <h1 itemprop="headline" id="headlineitem" class="page-title article-title">Narendra Modi is not fighting corruption, he is corruption, says Rahul Gandhi at Congress' 84th plenary session</h1>
+
+                                <div class="article-meta clearfix">
+                    <div class="row">
+                        <div class="col-md-7 col-sm-6 col-xs-12">
+                            <div class="author-date pull-left col-xs-12 clearfix">
+                                <div>
+                                                                        <a class="section-btn" href="/category/politics">Politics</a>
+                                                                        <a class="article-by" href="http://www.firstpost.com/author/fp-staff">FP Staff</a>
+                                    <span class="article-date">Mar 18, 2018 19:31:42 IST</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-5 col-sm-6 col-xs-12">
+                            <div class="social-share-wrap">
+                       <span class="social-item com">
+                    <button class="btn btn-info btn-xs comment-btn" id="comment-btn" style="margin-right:0;"><a href="#comments-section-4395201" name="comment-btn">Comment <div class="fb-comments-count" style="display: inline;" data-href="http://www.firstpost.com/politics/narendra-modi-is-not-fighting-corruption-he-is-corruption-says-rahul-gandhi-at-congress-84th-plenary-session-4395201.html">0</div></a></button>
+                    </span>
+                        <span class="social-item fb">
+                                <div class="fb-share-button"  data-href="http://www.firstpost.com/politics/narendra-modi-is-not-fighting-corruption-he-is-corruption-says-rahul-gandhi-at-congress-84th-plenary-session-4395201.html"  data-layout="button_count" data-size="large"> </div>
+                        </span>
+                        <span class="social-item tw">
+                                    <a href="https://twitter.com/share?text=Narendra Modi is not fighting corruption, he is corruption, says Rahul Gandhi at Congress' 84th plenary session" class="custom-twitter-share-button" data-url="http://www.firstpost.com/politics/narendra-modi-is-not-fighting-corruption-he-is-corruption-says-rahul-gandhi-at-congress-84th-plenary-session-4395201.html" data-text="Narendra Modi is not fighting corruption, he is corruption, says Rahul Gandhi at Congress' 84th plenary session" data-size="large" target="_blank"><i></i> Tweet</a>
+                        </span>
+                        <span class="social-item wa">
+                          <a href="https://web.whatsapp.com/send?text=Narendra Modi is not fighting corruption, he is corruption, says Rahul Gandhi at Congress' 84th plenary session - http://www.firstpost.com/politics/narendra-modi-is-not-fighting-corruption-he-is-corruption-says-rahul-gandhi-at-congress-84th-plenary-session-4395201.html" data-action="share/whatsapp/share" class="hidden-sm whatsup">
+                          <img class="icon-whatsup" height="28px" width="28px" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAA4VBMVEUAAABku1Jlu1NjvVRlvFJju1Nku1NpvlRovFZkulJkvFRju1RkvFNkvFNju1Nmu1VkulNlvFNkvFNnvVFlvFT////9/v37/ftnvVdpvlmCyXRuwF5wwWDy+fDv+O3t9+ux3qmn2Z34/Pj2+/WV0YmRz4WLzX57xmzq9ujf8tzI58G/5Li84rWOzoJ+x29sv1vn9eTi89/C5byq2qCGynh1w2bR7MzM6caj15lzwmPl9OKc1JHV7c+44bGs26Pd8Nm1362g1pZ4xWn0+vPX7tLO6smv3Kba79aZ046d1ZPb79ftrEsJAAAAFHRSTlMA+5wk6/bTCQzqy8iLWVYPMI2HL6eJg/oAAAbFSURBVHjazZtne5swEIBx6qZJm+47DAYP8MAbx3vvJE7+/w/qSJAMBiRBGvp+DvhFdzqdlEcS5evni4/pFPxjUumPF5+/Sue8u3gPb8b7i3eSmw/fU/CmpG4+uD7/Et6cy5NB+HYNCZD+Rr7/GhIh/TIGV5eQEJfPefAdEuPmbwBSkBipP0G4gAS5kKSv7yFB3l9JnyFRviQVARqDj5Aon6Q0RGJYWTVHt4VSBuVMqVa/axlVHSKQllIgTKd/l0Mfao3tEARJSSDIoFXAEG7vLRBCTGC6qiGT9daGAGIKdHoZ5GK/mf4DAauB/GSW+isL6C0ZhSj11dcUmO/RBzk/Wz891bs5X7lu9dUEhgv0MusZVTrnFKuyGp/Pjqb9OgLlvWd0G0ffCO8mI9kzCNlXEFCW6GJxDAmuNqm7k/ExtoC2cL2waTEr1RhPaSnxBHYzpMitKVe9cCmM7DgCVuH0VRZwUr1FyoMWXcDKIyF3BH6UVQYJdS2qwO7k90dTECJ7MghPdjQBvUaj3wdR1N6JvRJFQF3Tmd+GCBi0KvSiCNAvyHcgEmWaCBNxgQk6FCyISNUkMRyICnSIfWEHkWmTt9Q0MQGFJPG+AzEokzxoiAnck+JbhVgY6FAREbDI0G0hJj0SSltAYEQHLi4qCWYRuAUqJHVsiAtN58wQeAXIou5NgKmxKfYNDYRYkXLEK1AOemJuPq8uCghAZ5S84xRYOxVY9/y+M6fmgvWIdCd8AgN8oe95D5kaaxDD6VBMnUug4SwBKpyiFZCQFcxD8kk8AnrG/683SOlFHIIZj8DEyQDNPQAmUkwNRKBRzXIIHJxtBbh4xFMMEIFO7CVbYBog6+62uyACHdYaW2AeEK4aumiDELozgztMgUZA5c6gizsQY0EymyVQ8I+Aim5kK9qyfMcSGDrbAAgQiLhOW+S9DIFy0BCX0E0WxHD2GEOGQBGfWQUtEEQwYi2qMATGQVnewlPyQ2DA+WVSUMU4+4E2nmCKBoDGtskQyL10L+BFySEhUwFhss4BR7iAElzpNkgogjiac5YaLqA7m3o4Y0pLUR9EoZWsEC5ghST5kqagBoLQ4JbCBGjrMPYbxD0xaII4NZJdYQLZsP3AY4S1iNLFZ2IIwIgI5KZRR0AWDwFFp1PxQQER6CpnhgsMyWz1pRK1LaSLSS5cwPbO1uCCvAEhVFJhQgXAJJ6+qPWo5cjyrzBSUK7a4M9uj4Sm4kmRZmsAQbSd9GYILFjLfVVGwkE/e3ZdZrREG4ZAi9nwPCIlXz1fcGdzJeygYs4Q2LJr3T2e0NToeutQ26pwxq3/0EpBq+YMglniCXtDfX7QREph4lXQXiInqwwBxVnzprwGmF9pAMM8ushX/PuRNbMtPzCSgIabYjb7NST4VpJmwN5MCozwCMKYyMig699PtRkCNAlkHcKolBgCB98qYKpMAcjzbYCtWwyl5bvhuwO2QIvMg3DUJYZx9D30OHIIZLmbjsEMAzFtv6Q1bQ4BuCVRZKEYOQygCCfYObKG8whM6DElE7tfQD9Giu9RZZZLwN6LnMYp5ZGMXnqu39dLwc2+FFpm5sDFsO+eEYWyfxHCCp8ANc7pwIl1X5edCmSoAUdkde7D6mKU03q9vGmMl8cOeFBnZAC4Bew8fSY2LaSNLq8AzPGFAcSEtglyB8QFChCXTgnpOsgvMCIPxWRaI22SCvwCmvxKEdDqAf+5ZAhsHWuIh/1wWpoFBBakhY6FvkaHhQICArpMSnccdl3aJ+sgIjAhXVUcqjnaOVsAIgIHErcYrGQM+PcvU2Dqf7SuCg3/AQmZNogJTM57MqXdzBf4y7LSN4MPFdkCD54IqOVG6TmVOZOyMkNKqQqCAkN84W/maPM7EwljDoX22tUbZEFUwKBbm+FkIXvb/bICIWgTd6P6NAVhgSenrVqt0Y9csxrgYJcbJrpoKSAssEM2pTtjoHo+vXp/yHhVKwDiAn3kQ+6OmkXjcT7f9je9g19v3JhCFIE6vg7dNvAgcUYg31pmUICcoUA0gZXfx2wGADBcmshJvm8DJxIzAvX7Dkm0VQE5qD+qAFEFLHeiPRg7T5VplBgf38qCCFLwCVhmtPVLY7XS7AZNjHpxAIJIATtjc3zUIJBheTOquWpkZja+b2sgjuR3Wr/vVTiiqOwG5fnEmGyP7ewUoiKlvHuyfKuqwJuR8lzxGG8G8Kakk7/kkvg1n8QvOiV+1Svxy27JX/eTbiAxfjxf+U36yqf0Lg2JcP2OXPtNxOD65/9z8fl3Hty89dXvHx/+r8vvf7j6cvHpLa7/f7r4ciURfgH/eEWpH3AlUwAAAABJRU5ErkJggg=="/></a>
+                        </span>
+                            </div>
+
+                            <style type="text/css">
+                                .social-share-wrap{
+                                    text-align: right;
+                                }
+                                .social-share-wrap .social-item{
+                                    display: inline-block;
+                                    vertical-align: top;
+                                    margin: 0 5px;
+                                }
+                                .social-share-wrap .social-item:last-child{
+                                    margin-right: 0px;
+                                }
+                                @media screen and (max-width: 800px){
+                                    .social-share-wrap{
+                                        padding-top: 10px;
+                                        text-align: center;
+                                    }
+                                    .author-date{
+                                        text-align: center;
+                                    }
+                                }
+                                #comment-btn{
+                                    padding: 4px 13px;
+                                    font-size: 14px;
+                                    line-height: 1.3;
+                                    border-radius: 4px;
+                                    margin-right: 7px;
+                                }
+                            </style>
+                        </div>
+
+                    </div><!--.row-->
+                </div><!-- article-meta -->
+                                <!--Live Blog Code Starts here-->
+                                <!--Live Blog Code Ends here-->
+
+                <section class="article-body section" itemprop='articleBody'>
+                                                            
+
+                    <div class="article-full-content" itemprop='articleBody'>
+                        <p><p>Congress president Rahul Gandhi, in one of his most scathing attacks on the prime minister, said on Sunday that Narendra Modi 'is not fighting corruption; he is corruption.'</p>
+<blockquote class="twitter-tweet" data-lang="en">
+<p dir="ltr" lang="en">Live : Congress President Rahul Gandhi addresses the <a rel="nofollow" target="_blank" href="https://twitter.com/hashtag/CongressPlenary?src=hash&amp;ref_src=twsrc%5Etfw">#CongressPlenary</a> <a rel="nofollow" target="_blank" href="https://twitter.com/hashtag/ChangeIsNow?src=hash&amp;ref_src=twsrc%5Etfw">#ChangeIsNow</a> <a rel="nofollow" target="_blank" href="https://t.co/kQ2SXxUkDG">https://t.co/kQ2SXxUkDG</a></p>
+<p>— Congress (@INCIndia) <a rel="nofollow" target="_blank" href="https://twitter.com/INCIndia/status/975318870058676224?ref_src=twsrc%5Etfw">March 18, 2018</a></p></blockquote>
+<p><script src="https://platform.twitter.com/widgets.js" async="" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-lang="en"><p>BJP is the voice of an organization. Congress is the voice of a nation: Congress President Rahul Gandhi <a rel="nofollow" target="_blank" href="https://twitter.com/hashtag/CongressPlenary?src=hash&amp;ref_src=twsrc%5Etfw">#CongressPlenary</a> <a rel="nofollow" target="_blank" href="https://twitter.com/hashtag/ChangeIsNow?src=hash&amp;ref_src=twsrc%5Etfw">#ChangeIsNow</a> <a rel="nofollow" target="_blank" href="https://t.co/BB29yRXPGr">pic.twitter.com/BB29yRXPGr</a> — Congress (@INCIndia) <a rel="nofollow" target="_blank" href="https://twitter.com/INCIndia/status/975321589712498688?ref_src=twsrc%5Etfw">March 18, 2018</a></p></blockquote>
+<p><script src="https://platform.twitter.com/widgets.js" async="" charset="utf-8"></script></p>
+<p><strong>"Narendra Modi cannot fight corruption"</strong></p>
+<p>Taking a swipe at the prime minister over the PNB fraud, Rahul said, "Modi gives Modi 30,000 crores of your money and in turn, Modi gives Modi money for marketing Modi and fighting elections. Even in cricket, the most corrupt name is similar to that of our prime minister. The name Modi symbolises the collusion between India's biggest crony capitalists and the prime minister of India," said Rahul. "Today, the corrupt and powerful control the conversation in the country," added Rahul.</p>
+<p>Talking about the Rafale controversy, Rahul alleged that Modi personally changed the deal. "We paid Rs 570 crores per plane and Modi paid Rs 1,670 crores for the same plane. He paid Rs 1,100 crore more per plane. Forget fighter planes, you can’t trust such a man to buy vegetables!," he said.</p>
+<p>Rahul said that for the poor, the only options are to be contractors, labourers or be unemployed since "they are destined to live in Modi's m<em>aya"</em>. Accusing the prime minister of jumping from one event to another to divert attention from real issues, Rahul said, "At a time when there is no employment and farmers are dying, Modi tells us to go to India Gate to do yoga. When it's time for the prime minister to speak, he goes silent. No one can prevent the Congress party from speaking for India and seeking truth and justice for the people."</p>
+<p>Continuing his attacks on Modi, he said, "Modi ji thinks he is not human but an incarnation of God".</p>
+<div id="attachment_4395245" style="width: 390px" class="wp-caption alignleft"><img class="size-full wp-image-4395245" src="https://images.firstpost.com/wp-content/uploads/2018/03/Rahul-_-Congressplenary-@INCIndia.png" alt="Congress vice-president addresses the crowd at 84th Congress plenary on Sunday. Twitter@INCIndia" width="380" height="285" /><p class="wp-caption-text">Congress vice-president addresses the crowd at 84th Congress plenary on Sunday. Twitter@INCIndia</p></div>
+<p>About BJP's recent electoral performances, Rahul said, "Modi's expression has changed after the recent defeats. He is probably scared that now if we have lost parts of Gujarat, we might be in trouble in the 2019 general elections."</p>
+<p>Saying that the BJP has spread fear everywhere and even the media is scared of Modi, the Congress president said, "For the first time in history, Supreme Court judges sought justice from public," said Rahul. Recalling the Vyapam scam and paper leaks, Rahul said, "Education is not just for the elites. If we come to power, we will ensure higher education in every nook and corner."</p>
+<p><strong>'BJP fights for power like Kauravas'</strong></p>
+<div id="FirstPost_Wap_New/FirstPost_Wap_New_Politics/FirstPost_Wap_New_Politics_Internal/FirstPost_Wap_New_Politics_Internal_Between_Sections_300x250_2" style="text-align: center;" class="between-300x250"><div class="ad-section text-center">
+                   <script type="text/javascript">
+        var width = window.innerWidth || document.documentElement.clientWidth;
+        adKey = "FirstPost_Wap_New/FirstPost_Wap_New_Politics/FirstPost_Wap_New_Politics_Internal/FirstPost_Wap_New_Politics_Internal_Between_Sections_300x250_2";
+        if (width >= 768 && (adKey.indexOf("FirstPost") != -1 || adKey.indexOf("Tech") != -1) && adKey.indexOf("FirstPost_Wap_New") < 0) {
+            googletag.cmd.push(function() { googletag.display("FirstPost_Wap_New/FirstPost_Wap_New_Politics/FirstPost_Wap_New_Politics_Internal/FirstPost_Wap_New_Politics_Internal_Between_Sections_300x250_2") });
+        }
+
+        if (width < 768 && adKey.indexOf("FirstPost_Wap_New") != -1) {
+            googletag.cmd.push(function() { googletag.display("FirstPost_Wap_New/FirstPost_Wap_New_Politics/FirstPost_Wap_New_Politics_Internal/FirstPost_Wap_New_Politics_Internal_Between_Sections_300x250_2") });
+        }
+
+    </script>
+                    </div></div><p>Drawing a Mahabharata analogy, Rahul said, "The Kauravas were powerful and arrogant. The Pandavas were humble and fought for the truth. Like the Kauravas, the BJP and RSS are designed to fight for power. Like the Pandavas, Congress is designed to fight for truth."</p>
+<p>Acknowledging that the Congress has made mistakes, Rahul said, "The last government we formed did not stand up to the expectations of the people. The people of the country were let down by us".</p>
+<div id="FirstPost_Wap_New/FirstPost_Wap_New_ROS/FirstPost_Wap_New_ROS_Native_320x100" style="text-align: center;">
+    <div class="ad-section text-center">
+                   <script type="text/javascript">
+        var width = window.innerWidth || document.documentElement.clientWidth;
+        adKey = "FirstPost_Wap_New/FirstPost_Wap_New_ROS/FirstPost_Wap_New_ROS_Native_320x100";
+        if (width >= 768 && (adKey.indexOf("FirstPost") != -1 || adKey.indexOf("Tech") != -1) && adKey.indexOf("FirstPost_Wap_New") < 0) {
+            googletag.cmd.push(function() { googletag.display("FirstPost_Wap_New/FirstPost_Wap_New_ROS/FirstPost_Wap_New_ROS_Native_320x100") });
+        }
+
+        if (width < 768 && adKey.indexOf("FirstPost_Wap_New") != -1) {
+            googletag.cmd.push(function() { googletag.display("FirstPost_Wap_New/FirstPost_Wap_New_ROS/FirstPost_Wap_New_ROS_Native_320x100") });
+        }
+
+    </script>
+                    </div></div><p>He said that India expects more from the Congress because it holds it to a higher standard than any other party.</p>
+<p>Taking a jibe at Amit Shah, Rahul said that, "The RSS will even accept a man accused of murder as the president of the BJP."</p>
+<p>"They tell Muslims of India, who never went to Pakistan and supported this great nation, that you don't belong here. They tell the Tamils to change their beautiful language, they tell the people of the North East that they don't like what you eat. They told Gauri Lankesh and Kalburgi that if you question us, you will die. They tell our honest businessman to shut up and allow corrupt officers to extort their hard earned money. They tell our farmers to work for nothing," said Rahul.</p>
+<p>The Congress president also assured that ground level workers of the party will get tickets and that he wishes to break the wall between the grassroots workers and leaders.</p>
+<p><strong>BJP slams Rahul's address, calls it "rhetoric of a loser"</strong></p>
+<p>Union defence minister Nirmala Sitharaman, addressing the media after Rahul Gandhi's speech, said that the Congress president's accusations were the 'rhetoric of a loser.'</p>
+<p>Sitharaman said, "While the Congress compares itself to the Pandavas, its leader questions the existence of Ram." She alleged that the party 'always chooses to mock Hindu rituals.'</p>
+<p>Sitharaman added, "How can the Congress refer to themselves as Pandavas? They imposed the Emergency and were solely responsible for the anti-Sikh riots. They were involved in corruption cases worth Rs 12 lakh crore."</p>
+<p>Referring to the results of the recent bypolls in Uttar Pradesh and Bihar, she said, "The BJP graciously accepted its mistakes and said that it would work on them. However, the Congress lost its deposit."</p>
+<p>The defence minister also touched upon the concerns raised by four Supreme Court judges, saying that, "These are the internal concerns of the judiciary and they will sort it out. Since when has the Congress become the protector of the judiciary?"</p>
+<p>&nbsp;</p>
+
+                        
+                        <br />
+
+                        
+                    </div>
+
+                                        <p>Published Date: Mar 18, 2018 18:47 PM
+                                                | Updated Date: Mar 18, 2018 19:31 PM
+                                            </p>
+                    
+                                        <div class="article-tags hidden-xs hidden-sm">
+                        <span>Tags :</span>
+                                                <a href="http://www.firstpost.com/tag/84th-congress-plenary">#84th Congress Plenary</a>
+                                                <a href="http://www.firstpost.com/tag/amit-shah">#Amit Shah</a>
+                                                <a href="http://www.firstpost.com/tag/bjp">#BJP</a>
+                                                <a href="http://www.firstpost.com/tag/congress">#Congress</a>
+                                                <a href="http://www.firstpost.com/tag/congress-plenary">#Congress Plenary</a>
+                                                <a href="http://www.firstpost.com/tag/congress-plenary-live">#Congress Plenary Live</a>
+                                                <a href="http://www.firstpost.com/tag/congress-plenary-live-updates">#Congress Plenary Live Updates</a>
+                                                <a href="http://www.firstpost.com/tag/congress-plenary-session">#Congress Plenary Session</a>
+                                                <a href="http://www.firstpost.com/tag/economy">#Economy</a>
+                                                <a href="http://www.firstpost.com/tag/farmers-crisis">#Farmers' Crisis</a>
+                                                <a href="http://www.firstpost.com/tag/hindutva">#Hindutva</a>
+                                                <a href="http://www.firstpost.com/tag/indian-national-congress">#Indian National Congress</a>
+                                                <a href="http://www.firstpost.com/tag/kaurava">#Kaurava</a>
+                                                <a href="http://www.firstpost.com/tag/mahatma-gandhi">#Mahatma Gandhi</a>
+                                                <a href="http://www.firstpost.com/tag/manmohan-singh">#Manmohan Singh</a>
+                                                <a href="http://www.firstpost.com/tag/narendra-modi">#Narendra Modi</a>
+                                                <a href="http://www.firstpost.com/tag/new-delhi">#New Delhi</a>
+                                                <a href="http://www.firstpost.com/tag/newstracker">#NewsTracker</a>
+                                                <a href="http://www.firstpost.com/tag/rafale-deal">#Rafale Deal</a>
+                                                <a href="http://www.firstpost.com/tag/rahul-gandhi">#Rahul Gandhi</a>
+                                                <a href="http://www.firstpost.com/tag/rahul-gandhi-live">#Rahul Gandhi Live</a>
+                                                <a href="http://www.firstpost.com/tag/rahul-gandhi-speech">#Rahul Gandhi Speech</a>
+                                                <a href="http://www.firstpost.com/tag/rss">#RSS</a>
+                                                <a href="http://www.firstpost.com/tag/sonia-gandhi">#Sonia Gandhi</a>
+                                                <a href="http://www.firstpost.com/tag/unemployment">#Unemployment</a>
+                                                <a href="http://www.firstpost.com/tag/vyapam-scam">#Vyapam Scam</a>
+                        
+                    </div>
+                </section>
+
+                                <div class="more-news">
+                    <h3>Also See</h3>
+                    <ul class="more-news-grid">
+                                                                        <li>
+                            <a href="http://www.firstpost.com/politics/congress-plenary-session-live-updates-rahul-gandhi-says-bjp-rss-designed-to-fight-for-power-like-kauravas-4395197.html">
+                                                                <img src="https://images.firstpost.com/wp-content/uploads/2018/03/Rahul-Gandhi-at-84th-Congress-Plenary-Session-speech_380_Twitter-at-INCIndia.jpg" class="also-see-img crawl-desktop" />
+                                
+
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MEM0RTJCRkI1MENBMTFFN0I5QkI4MDU4ODUwNzlDOTUiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MEM0RTJCRkM1MENBMTFFN0I5QkI4MDU4ODUwNzlDOTUiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDowQzRFMkJGOTUwQ0ExMUU3QjlCQjgwNTg4NTA3OUM5NSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDowQzRFMkJGQTUwQ0ExMUU3QjlCQjgwNTg4NTA3OUM5NSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PlkafKIAAAAaSURBVHjaYvz//z8DJYCJgUIwasCwMAAgwADlXwMPf2Q73AAAAABJRU5ErkJggg==" style="background: url(https://images.firstpost.com/wp-content/uploads/2018/03/Rahul-Gandhi-at-84th-Congress-Plenary-Session-speech_380_Twitter-at-INCIndia.jpg);" class="crawl-mobile" />
+                                <p>Congress plenary session updates: Modi is not fighting corruption, he is corruption, says Rahul Gandhi</p>
+                            </a>
+                        </li>
+                                                                                                <li>
+                            <a href="http://www.firstpost.com/business/rahul-gandhi-just-doesnt-get-it-beyond-trashing-modinomics-theres-nothing-in-congress-economic-resolution-4395853.html">
+                                                                <img src="https://images.firstpost.com/wp-content/uploads/2018/03/Rahul-Gandhi-at-84th-Congress-Plenary-Session-speech_380_Twitter-at-INCIndia-300x225.jpg" class="also-see-img crawl-desktop" />
+                                
+
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MEM0RTJCRkI1MENBMTFFN0I5QkI4MDU4ODUwNzlDOTUiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MEM0RTJCRkM1MENBMTFFN0I5QkI4MDU4ODUwNzlDOTUiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDowQzRFMkJGOTUwQ0ExMUU3QjlCQjgwNTg4NTA3OUM5NSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDowQzRFMkJGQTUwQ0ExMUU3QjlCQjgwNTg4NTA3OUM5NSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PlkafKIAAAAaSURBVHjaYvz//z8DJYCJgUIwasCwMAAgwADlXwMPf2Q73AAAAABJRU5ErkJggg==" style="background: url(https://images.firstpost.com/wp-content/uploads/2018/03/Rahul-Gandhi-at-84th-Congress-Plenary-Session-speech_380_Twitter-at-INCIndia-300x225.jpg);" class="crawl-mobile" />
+                                <p>Rahul Gandhi just doesn't get it; beyond trashing Modinomics, there's nothing in Congress' economic resolution </p>
+                            </a>
+                        </li>
+                                                                                                <li>
+                            <a href="http://www.firstpost.com/politics/rahul-gandhi-should-apologise-for-misdeeds-of-congress-before-criticising-narendra-modi-prakash-javadekar-4395361.html">
+                                                                <img src="https://images.firstpost.com/wp-content/uploads/2017/11/Prakash_Javadekar_pti.jpg" class="also-see-img crawl-desktop" />
+                                
+
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MEM0RTJCRkI1MENBMTFFN0I5QkI4MDU4ODUwNzlDOTUiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MEM0RTJCRkM1MENBMTFFN0I5QkI4MDU4ODUwNzlDOTUiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDowQzRFMkJGOTUwQ0ExMUU3QjlCQjgwNTg4NTA3OUM5NSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDowQzRFMkJGQTUwQ0ExMUU3QjlCQjgwNTg4NTA3OUM5NSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PlkafKIAAAAaSURBVHjaYvz//z8DJYCJgUIwasCwMAAgwADlXwMPf2Q73AAAAABJRU5ErkJggg==" style="background: url(https://images.firstpost.com/wp-content/uploads/2017/11/Prakash_Javadekar_pti.jpg);" class="crawl-mobile" />
+                                <p>Rahul Gandhi should apologise for misdeeds of Congress before criticising Narendra Modi: Prakash Javadekar</p>
+                            </a>
+                        </li>
+                                                                        						<li class="ibox1">
+                        <div id='FirstPost/FirstPost_Ros/FirstPost_Internal_also_see_article_nativead_240x260'><script type='text/javascript'>
+                            var width = window.innerWidth || document.documentElement.clientWidth;
+                            adKey = 'FirstPost/FirstPost_Ros/FirstPost_Internal_also_see_article_nativead_240x260';
+                            if (width >= 768 && (adKey.indexOf('FirstPost') != -1 || adKey.indexOf('Tech') != -1) && adKey.indexOf('FirstPost_Wap_New') < 0) {
+                                googletag.cmd.push(function() { googletag.display('FirstPost/FirstPost_Ros/FirstPost_Internal_also_see_article_nativead_240x260') });
+                            }
+                            if (width < 768 && adKey.indexOf('FirstPost_Wap_New') != -1) {
+                                googletag.cmd.push(function() { googletag.display('FirstPost/FirstPost_Ros/FirstPost_Internal_also_see_article_nativead_240x260') });
+                            }
+                        </script></div>
+						</li>
+                                                
+                    </ul>
+                </div>
+                
+                             <div class="outbrainWidget" id=outbrainWidget_4395201>
+
+                </div>
+                                <!--FB Comments-->
+                <div class="disqus-wrap" id="comments-section-4395201">
+                    <div class="fb-comments" data-href="http://www.firstpost.com/politics/narendra-modi-is-not-fighting-corruption-he-is-corruption-says-rahul-gandhi-at-congress-84th-plenary-session-4395201.html" data-numposts="5" data-width="100%" data-width="100%" data-numposts="5" data-article-id="4395201"></div>
+                </div><br/>
+                <!--FB Comments-->
+
+                <!-- Tead Ad Script Starts-->
+                <!-- ad spruce -->
+                                
+                <script type="text/javascript" src="//sdk.adspruce.com/1/adsprucetag.js?pid=2087&sid=3" defer></script>
+                 
+                                 <!-- ad spruce ends -->
+
+            </div><!--Main -->
+
+            <!-- RHS Sidebar-->
+            <div class="sidebar" role="aside">
+                <div class="article_4395201 ad-block-one">
+     
+     
+    <div id='FirstPost/FirstPost_Politics/FirstPost_Politics_Internal/FirstPost_Politics_Internal_300x250_1'><script type='text/javascript'>
+                            var width = window.innerWidth || document.documentElement.clientWidth;
+                            adKey = 'FirstPost/FirstPost_Politics/FirstPost_Politics_Internal/FirstPost_Politics_Internal_300x250_1';
+                            if (width >= 768 && (adKey.indexOf('FirstPost') != -1 || adKey.indexOf('Tech') != -1) && adKey.indexOf('FirstPost_Wap_New') < 0) {
+                                googletag.cmd.push(function() { googletag.display('FirstPost/FirstPost_Politics/FirstPost_Politics_Internal/FirstPost_Politics_Internal_300x250_1') });
+                            }
+                            if (width < 768 && adKey.indexOf('FirstPost_Wap_New') != -1) {
+                                googletag.cmd.push(function() { googletag.display('FirstPost/FirstPost_Politics/FirstPost_Politics_Internal/FirstPost_Politics_Internal_300x250_1') });
+                            }
+                        </script></div>
+</div>
+ <br/>
+<div class="ad-block-major">
+    <div id='FirstPost/FirstPost_Politics/FirstPost_Politics_Internal/FirstPost_Politics_Internal_300x600'><script type='text/javascript'>
+                            var width = window.innerWidth || document.documentElement.clientWidth;
+                            adKey = 'FirstPost/FirstPost_Politics/FirstPost_Politics_Internal/FirstPost_Politics_Internal_300x600';
+                            if (width >= 768 && (adKey.indexOf('FirstPost') != -1 || adKey.indexOf('Tech') != -1) && adKey.indexOf('FirstPost_Wap_New') < 0) {
+                                googletag.cmd.push(function() { googletag.display('FirstPost/FirstPost_Politics/FirstPost_Politics_Internal/FirstPost_Politics_Internal_300x600') });
+                            }
+                            if (width < 768 && adKey.indexOf('FirstPost_Wap_New') != -1) {
+                                googletag.cmd.push(function() { googletag.display('FirstPost/FirstPost_Politics/FirstPost_Politics_Internal/FirstPost_Politics_Internal_300x600') });
+                            }
+                        </script></div>
+    
+</div>
+<br/>
+<!--  <div class='vivo-special' id="vivo-special">
+    <div class='clearfix'><a href="http://pubads.g.doubleclick.net/gampad/clk?id=437699284&iu=/1039154/FirstPost/FirstPost_clickTracker/Firstpost_clickTracker_Budget" target="_blank" class="vivo-logo"><img src="data:image/png;base64,/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAAA8AAD/4QN5aHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjMtYzAxMSA2Ni4xNDU2NjEsIDIwMTIvMDIvMDYtMTQ6NTY6MjcgICAgICAgICI+IDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+IDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ9InhtcC5kaWQ6OWE1ZTVkMDQtZjYyNi00NDQ0LWJlZGMtYzQ4ZjU3YWViNDY3IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkEyN0E3NUQxMzAwNDExRTdBQkM5RUMwRENBNTZEMDVEIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkEyN0E3NUQwMzAwNDExRTdBQkM5RUMwRENBNTZEMDVEIiB4bXA6Q3JlYXRvclRvb2w9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE3IChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6NjVFNDA2ODJFOURCMTFFNkI3RDY5NkZDOTkzNTY3MUUiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6NjVFNDA2ODNFOURCMTFFNkI3RDY5NkZDOTkzNTY3MUUiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz7/7gAOQWRvYmUAZMAAAAAB/9sAhAAGBAQEBQQGBQUGCQYFBgkLCAYGCAsMCgoLCgoMEAwMDAwMDBAMDg8QDw4MExMUFBMTHBsbGxwfHx8fHx8fHx8fAQcHBw0MDRgQEBgaFREVGh8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx//wAARCAANAC8DAREAAhEBAxEB/8QAhgABAQEBAAAAAAAAAAAAAAAAAgQFAAEAAgMBAQAAAAAAAAAAAAAAAQMAAgQGBxAAAgIBAwIEBAcBAAAAAAAAAQIDBAUREgYAFCExMhNBQiMVUXGBkSJSJAcRAAECBAUCBQMFAAAAAAAAAAERAgASEwQhMUFRA2Ei8LEyMxRxkWKBocFCgv/aAAwDAQACEQMRAD8AXKOMLiBSuU5zdw+RiEtO5t26sABJG6gnRkb4dd1a3NRWuwc3MeUebXlpSlc0zMcMD5/aLeP8XP2uDO27ArGW5BXxMLoJBYk90e4zKx9CDz8NCelc913njaFRpLum0OtrPsHKTKrgG9SvlF/LOKSWZM/lYLS2b+MuuuSqRxCLbAfROiqT4a+Dfv0q0ug0MYQjXNwKrjqIfe2RceR4KuY7uCJhoYwOJ8akz2RMLy9rQrI1jIXW8VhgQak/mfIda7q5pMVFccAOsYbK1rPRUaMXHYRsz8W4hiYa5z2TtCzcQWK9apCjMld9faaUuwAZ18do8us4uubkJptCNwxOuqRrdZ8HEBVc5XYgNGmix0XFuH5GtPZw2StuuPCz5GrYhRZjUDASyQlWKlkU66HoG65mENe1vdkQcJtAYjbS35AXcbnGXEggLLqR9Iq4kYhwvIDkiFuLGdO1KsVsi38e1BVlP8fXqQNP16pdrXbS91Mdk/KGWSfHdW9lcN5vx/mHy45A8vwBCRLhP832Ja7Foe33r8xVTv19eo6FpLRfnPjMua+MotfTV+PKn2yJkijwYqrnOD/r2UOOSNgJpzkEnYrXNXT6olbadF0+O3z06o6n8Ns+wlTNdEhjKvz3SJmZl9Muq9IHIGx54VcHDk24bvNc2zMTY11+iNCo/wA4+U66/iB49G3mrit607duv67xW5Lfju+P7c3fv0/zt+8HkB4wauIHLUspmRRh0fFsjboNv0ffWZVVZNvnsJ6HBVV1FKa/2XPVEiXVFGV1nlHo20WbWHgDxEY3Mrx5LbSmsfusl1kWwMduXue1SNWjZ9v92HUuK07KkqL2plNousG2oSPpTZd0yLJhNKmH3j//2Q==" alt=""><img src="https://pubads.g.doubleclick.net/gampad/ad?iu=/1039154/FirstPost/Firstpost_ImpressionTracker/Firstpost_ImpressionTracker_Vivo_Widget&sz=1x1&c=[TIMESTAMP]" style="display:none;"></a></div>
+
+</div> -->
+
+<div id="rhs_score_widget" class="live-score-sidebar"></div>
+
+<style>
+   
+</style>
+
+<br>
+ 
+            <br>
+<!-- Video Widget Start -->
+<div class="panel panel-danger panel-top-stories sidebar-video">
+    <div class="panel-heading"><h3 class="panel-title text-center"><a href="http://www.firstpost.com/shows/what-the-duck-cricket-conversations/what-the-duck-a-candid-chat-with-virender-sehwag-4396115.html" class="noCase">What The Duck: A candid chat with Virender Sehwag</a></h3></div>
+    <div id="first_sidebar"></div>
+
+<script type="text/javascript">
+    var playerSize = 'small';
+    var preroll_ad  = 'https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/1039154/FirstPost/FirstPost_Ros/FirstPost_ROS_Video_Preroll_SmallPlayer_1&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=[referrer_url]&description_url=[description_url]&correlator=[timestamp]';
+
+    if(playerSize != "" || playerSize == "small"){
+        var preroll_ad  = 'https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/1039154/FirstPost/FirstPost_Ros/FirstPost_ROS_Video_Preroll_SmallPlayer_1&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=[referrer_url]&description_url=[description_url]&correlator=[timestamp]';
+
+
+    }
+        jwplayer.key = "3dWutZ5N7IsrB64wOTnfsH+RUzTJ3PGrcXmQmg==";
+</script>
+<!--<script src="//player.h-cdn.com/loader.js?customer=network18" crossorigin="anonymous" async></script>-->
+<!--<script id=hola_jwplayer_hls_provider src="https://player.nw18.com/jv7/hola_jwplayer_hls.min.js?customer=network18"></script>-->
+<script type="text/javascript">
+    var windowWidth = window.innerWidth || document.documentElement.clientWidth;
+    var errorCount = 1;
+    var adCount = 1;
+    var playCount = 1;
+
+    if (windowWidth >= 768) {
+//        autoplay = true;
+        autoplay = "1"
+    }
+
+    if (windowWidth <= 768) {
+        autoplay = false
+    }
+    var player = jwplayer("first_sidebar");
+
+    var time_frame = [5,10,15,20,30,40,50,60,70,80,90,100];
+    var time_duration = 0;
+    var video_id = "4396115_rhs";
+
+
+    player.setup({
+        ga: {},
+        image: 'https://images.firstpost.com/wp-content/uploads/2011/04/F-Logodummy.jpg',
+        playlist: [
+            {
+                sources: [
+                    {
+                        file: "http://fpvodhls-vh.akamaihd.net/i/fp-audio/2018/03/19-03-2018/WTDViru-,256000,512000,712000,.mp4.csmil/master.m3u8?hdnts=exp=1521608323~acl=/*~hmac=d1ce88219a296a3f22c37fbbd06a3ae12aed25540f53f4055596216e6d2b65c8",
+                        label: "0",
+                        type: "hls",
+                        preload: "none"
+                    }
+                ]
+            }
+        ],
+        hlshtml: true,
+        cookies:true,
+        withCredentials:true,
+        modes: [{
+            type: 'hls'
+        }],
+        primary: 'html5',
+        width: "300",
+        height: "250",
+        aspectratio: '16:9',
+        fallback: false,
+        mute:true,
+        flashplayer: 'http://player.in.com/jv7/jwplayer.flash.7_4_4.swf',
+        skin: {
+            name: "stormtrooper",
+            active: "#e1261c",
+            inactive: "#fff",
+            background: "#000"
+        },
+        autostart: autoplay,
+        advertising: {
+            client: 'googima',
+            schedule: {
+                preroll: {
+                    offset: 'pre',
+                    tag: preroll_ad
+                },
+                /* midroll:{
+                  offset:60,
+                  tag:'https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/1039154/FirstPost/FirstPost_Ros/FirstPost_ROS_Video_Midroll_BigPlayer&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=[referrer_url]&description_url=[description_url]&correlator=[timestamp]'
+                  },
+                  postroll: {
+                  offset: 'post',
+                  tag: 'https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/1039154/FirstPost/FirstPost_Ros/FirstPost_ROS_Video_Postroll_BigPlayer&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=[referrer_url]&description_url=[description_url]&correlator=[timestamp]'
+                  }*/
+            }
+        }
+    });
+
+    player.on('error', function (event) {
+
+        if(errorCount == 1) {
+            ga('send', 'event', 'Video Fallback', 'Play', event.message+' '+"4396115_rhs");
+
+            player.setup({
+                ga:{},
+                file:"http://vod.firstpost.com/fp-audio/2018/03/19-03-2018/WTDViru.mp4?hdnts=exp=1521608323~acl=/*~hmac=d1ce88219a296a3f22c37fbbd06a3ae12aed25540f53f4055596216e6d2b65c8",
+                primary: 'html'
+            });
+            player.play();
+            player.on('error', function(event) {
+                ga('send', 'event', 'Video Error', 'Error', event.message+' '+"4396115_rhs");
+                ga('send', 'event', 'JW Player Video', 'Error', event.message+' '+"4396115_rhs");
+            });
+        }
+        errorCount++;
+    });
+
+    player.on('play', function(event) {
+
+        if(adCount == 1 && playCount == 1) {
+            ga('send', 'event', 'ad Block', 'count', "4396115_rhs");
+        }
+
+        if(playCount == 1) {
+            ga('send', 'event', 'Video Play', 'Play', "4396115_rhs");
+            ga('send', 'event', 'JW Player Video', 'Play', "4396115_rhs");
+            playCount++;
+        }
+    });
+
+    player.on('pause', function(event) {
+        ga('send', 'event', 'Video Play', 'Pause', "4396115_rhs");
+        ga('send', 'event', 'JW Player Video', 'Pause', "4396115_rhs");
+    });
+
+    player.on('seek', function(event) {
+        ga('send', 'event', 'JW Player Video', 'Seek', "4396115_rhs");
+    });
+
+    player.on('buffer', function(event) {
+        ga('send', 'event', 'JW Player Video', 'Buffer', "4396115_rhs");
+    });
+
+    player.on('complete', function(event) {
+        ga('send', 'event', 'JW Player Video', 'Complete', "4396115_rhs");
+    });
+
+    player.on('resume', function(event) {
+        ga('send', 'event', 'JW Player Video', 'Resume', "4396115_rhs");
+    });
+
+    player.on('adPlay', function(event) {
+
+        if(adCount == 1){
+            ga('send', 'event', 'Video Advertisement', 'Play', "4396115_rhs");
+            adCount++;
+        }
+    });
+
+    player.on('time', function(event) {
+        if(typeof(time_frame) != "undefined"){
+            for (i = 0; i < time_frame.length; i++) {
+                var completion_time = parseFloat(event.duration)*time_frame[i]/100;
+                if(Math.round(event.position) ==  Math.round(completion_time) && time_duration != Math.round(event.position) ){
+                    ga('send', 'event', 'JW Player Video', 'Play - '+time_frame[i]+ '%' , video_id);
+                    time_duration = Math.round(event.position);
+                }
+
+            }
+        }
+        if(Math.round(event.position) ==  10){
+            ga('send', 'event', 'JW Player Video', 'Time Completion - '+Math.round(event.position)+ 'sec' , video_id);
+        }else if(Math.round(event.position) ==  30){
+            ga('send', 'event', 'JW Player Video', 'Time Completion - '+Math.round(event.position)+ 'sec' , video_id);
+        }
+        else if (Math.round(event.position) ==  120){
+            ga('send', 'event', 'JW Player Video', 'Time Completion - '+Math.round(event.position)+ 'sec' , video_id);
+        }
+
+    });
+
+    player.on('adSkipped',function(event){
+        ga('send', 'event', 'Video Advertisement', 'Skip',video_id);
+    });
+
+</script>
+
+
+</div>
+
+<br/>
+<div class="">
+    
+</div>
+<br/>
+
+
+<div class="panel panel-danger" style="max-height: 777px;overflow: hidden;">
+    <div class="panel-heading clearfix">
+        <h3 class="panel-title text-center">Top Stories</h3>
+    </div>
+    <ul class="nav nav-tabs" id="top-stories-tab">
+        <li class="active"><a data-toggle="tab" href="#english_4395201">English</a></li>
+        <li><a data-toggle="tab" href="#hindi_4395201">Hindi</a></li>
+    </ul>
+
+    <div class="panel-body">
+        <div class="tab-content">
+            <div id="english_4395201" class="tab-pane fade in active">
+                <ul class="list side-img single-column">
+                    <li class="featured-item">
+                        <a href="http://www.firstpost.com/world/sixth-parcel-bomb-blast-in-texas-leaves-us-investigators-baffled-donald-trump-promises-action-4398921.html">
+                            <img class="fp-lazy"  alt="Sixth parcel bomb blast in Texas leaves US investigators baffled; Donald Trump promises action" title="Sixth parcel bomb blast in Texas leaves US investigators baffled; Donald Trump promises action" src="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2013/12/FedEx_Reuters.jpg" />
+                            <p>Sixth parcel bomb blast in Texas leaves US investigators baffled; Donald Trump promises action</p>
+                        </a>
+                    </li>
+                    																					                                        <li>
+                        <a href="http://www.firstpost.com/politics/reform-within-congress-will-only-work-if-rahul-gandhi-corrects-mistakes-made-within-the-party-in-the-past-4398931.html">
+                            <img class="fp-lazy" alt="Reform within Congress will only work if Rahul Gandhi corrects mistakes made within the party in the past" title="Reform within Congress will only work if Rahul Gandhi corrects mistakes made within the party in the past" src="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2018/03/Rahul-Congress-plenary-PTI.png" />
+                            <p>Reform within Congress will only work if Rahul Gandhi corrects mistakes made within the party in the past</p>
+                        </a>
+                    </li>
+                                        					                                        <li>
+                        <a href="http://www.firstpost.com/entertainment/why-ranveer-singh-and-kangana-ranaut-are-true-representatives-of-the-ever-evolving-hindi-film-industry-of-today-4399013.html">
+                            <img alt="Why Ranveer Singh and Kangana Ranaut are true representatives of the ever-evolving Hindi film industry of today" title="Why Ranveer Singh and Kangana Ranaut are true representatives of the ever-evolving Hindi film industry of today" src="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2018/03/Kangana-Ranveer-380.jpg" />
+                            <p>Why Ranveer Singh and Kangana Ranaut are true representatives of the ever-evolving Hindi film industry of today</p>
+                        </a>
+                    </li>
+                                        					                                        <li>
+                        <a href="http://www.firstpost.com/india/39-indians-killed-in-mosul-spat-over-delay-in-announcing-deaths-unfortunate-govt-cannot-jump-the-gun-based-on-unverified-sources-4398273.html">
+                            <img class="fp-lazy" alt="39 Indians killed in Mosul: Spat over 'delay' in announcing deaths unfortunate; government can't jump gun" title="39 Indians killed in Mosul: Spat over 'delay' in announcing deaths unfortunate; government can't jump gun" src="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2018/03/38018.jpg" />
+                            <p>39 Indians killed in Mosul: Spat over 'delay' in announcing deaths unfortunate; government can't jump gun</p>
+                        </a>
+                    </li>
+                                        					                                        <li>
+                        <a href="http://www.firstpost.com/sports/bernard-tomics-bid-to-mount-comeback-to-top-10-hits-roadblock-after-round-1-loss-in-challenger-tournament-in-lille-4399011.html">
+                            <img class="fp-lazy" alt="Bernard Tomic's bid to mount comeback to top 10 hits roadblock after Round 1 loss in Challenger tournament in Lille" title="Bernard Tomic's bid to mount comeback to top 10 hits roadblock after Round 1 loss in Challenger tournament in Lille" src="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2018/03/BERNARD-TOMIC-AFP-380.jpg" />
+                            <p>Bernard Tomic's bid to mount comeback to top 10 hits roadblock after Round 1 loss in Challenger tournament in Lille</p>
+                        </a>
+                    </li>
+                                        					                                        <li>
+                        <a href="http://www.firstpost.com/business/7-5-growth-not-enough-to-employ-1-2-cr-people-joining-indias-workforce-every-year-raghuram-rajan-4398133.html">
+                            <img class="fp-lazy" alt="7.5% growth not enough to employ 1.2 cr people joining India’s workforce every year: Raghuram Rajan" title="7.5% growth not enough to employ 1.2 cr people joining India’s workforce every year: Raghuram Rajan" src="https://images.firstpost.com/fpimages/380x285/fixed/jpg/2018/03/RaghuramRajan-PTI.jpg" />
+                            <p>7.5% growth not enough to employ 1.2 cr people joining India’s workforce every year: Raghuram Rajan</p>
+                        </a>
+                    </li>
+                                        
+                </ul>
+            </div>
+            <div id="hindi_4395201" class="tab-pane fade">
+                <ul class="list side-img single-column">
+                    <li class="featured-item">
+                        <a href="https://hindi.firstpost.com/special/indian-election-after-emergeny-swept-out-congress-decoded-by-kuldeep-nayyar-and-de-formation-of-janta-party-am-98030.html">
+                            <img class="fp-lazy"  alt="21 मार्च 1977: जब जनता ने पहली बार देश को 'कांग्रेस मुक्त' किया था" title="21 मार्च 1977: जब जनता ने पहली बार देश को 'कांग्रेस मुक्त' किया था" src="https://static.hindi.firstpost.com/static-hindi-firstpost/uploads/268x150/jpg/2018/03/INDIRA-GANDHI-EMERGENCY-RAGHURAI.jpg" />
+                            <p>21 मार्च 1977: जब जनता ने पहली बार देश को 'कांग्रेस मुक्त' किया था</p>
+                        </a>
+                    </li>
+                    																					                    <li>
+                        <a href="https://hindi.firstpost.com/politics/uttar-pradesh-congress-president-raj-babbar-resigns-from-his-post-ta-98152.html">
+                            <img class="fp-lazy" alt="उत्तर प्रदेश कांग्रेस अध्यक्ष पद से राज बब्बर ने दिया इस्तीफा" title="उत्तर प्रदेश कांग्रेस अध्यक्ष पद से राज बब्बर ने दिया इस्तीफा" src="https://static.hindi.firstpost.com/static-hindi-firstpost/uploads/75x55/jpg/2018/02/PTI2_22_2018_000179B.jpg" />
+                            <p>उत्तर प्रदेश कांग्रेस अध्यक्ष पद से राज बब्बर ने दिया इस्तीफा</p>
+                        </a>
+                    </li>
+
+                    					                    <li>
+                        <a href="https://hindi.firstpost.com/politics/no-confidence-motion-against-narendra-modi-led-nda-government-are-opposition-parties-really-serious-about-it-97985.html">
+                            <img class="fp-lazy" alt="मोदी सरकार के खिलाफ अविश्वास प्रस्ताव पर विपक्ष कितना गंभीर है?" title="मोदी सरकार के खिलाफ अविश्वास प्रस्ताव पर विपक्ष कितना गंभीर है?" src="https://static.hindi.firstpost.com/static-hindi-firstpost/uploads/75x55/jpg/2018/03/andhra-pradesh.jpg" />
+                            <p>मोदी सरकार के खिलाफ अविश्वास प्रस्ताव पर विपक्ष कितना गंभीर है?</p>
+                        </a>
+                    </li>
+
+                    					                    <li>
+                        <a href="https://hindi.firstpost.com/politics/narendra-modis-corruption-mukt-bharat-still-a-distant-dream-bureaucratic-hurdles-derail-timely-action-against-dishonest-babus-98075.html">
+                            <img class="fp-lazy" alt="भ्रष्टाचार मुक्त भारत का सपना: लालफीताशाही की वजह से अब तक अधूरा" title="भ्रष्टाचार मुक्त भारत का सपना: लालफीताशाही की वजह से अब तक अधूरा" src="https://static.hindi.firstpost.com/static-hindi-firstpost/uploads/75x55/jpg/2018/03/narendra-modi-twitter.jpg" />
+                            <p>भ्रष्टाचार मुक्त भारत का सपना: लालफीताशाही की वजह से अब तक अधूरा</p>
+                        </a>
+                    </li>
+
+                    					                    <li>
+                        <a href="https://hindi.firstpost.com/special/forty-one-years-of-1977-elections-indira-gandhi-was-wrong-in-her-hunch-about-election-98131.html">
+                            <img class="fp-lazy" alt="इमरजेंसी के बाद चुनाव: इंदिरा गांधी को लगा था कांग्रेस जीतेगी, लेकिन हुआ उल्टा" title="इमरजेंसी के बाद चुनाव: इंदिरा गांधी को लगा था कांग्रेस जीतेगी, लेकिन हुआ उल्टा" src="https://static.hindi.firstpost.com/static-hindi-firstpost/uploads/75x55/jpg/2016/11/indira6.jpg" />
+                            <p>इमरजेंसी के बाद चुनाव: इंदिरा गांधी को लगा था कांग्रेस जीतेगी, लेकिन हुआ उल्टा</p>
+                        </a>
+                    </li>
+
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<br/>
+<div class="ad-block-two">
+    <div id='FirstPost/FirstPost_Politics/FirstPost_Politics_Internal/FirstPost_Politics_Internal_300x250_2'><script type='text/javascript'>
+                            var width = window.innerWidth || document.documentElement.clientWidth;
+                            adKey = 'FirstPost/FirstPost_Politics/FirstPost_Politics_Internal/FirstPost_Politics_Internal_300x250_2';
+                            if (width >= 768 && (adKey.indexOf('FirstPost') != -1 || adKey.indexOf('Tech') != -1) && adKey.indexOf('FirstPost_Wap_New') < 0) {
+                                googletag.cmd.push(function() { googletag.display('FirstPost/FirstPost_Politics/FirstPost_Politics_Internal/FirstPost_Politics_Internal_300x250_2') });
+                            }
+                            if (width < 768 && adKey.indexOf('FirstPost_Wap_New') != -1) {
+                                googletag.cmd.push(function() { googletag.display('FirstPost/FirstPost_Politics/FirstPost_Politics_Internal/FirstPost_Politics_Internal_300x250_2') });
+                            }
+                        </script></div>
+</div>
+<br/>
+<div class="">
+    
+</div>
+<br/>
+<div class="ad-300x250">
+    
+</div>
+<div class="panel panel-score-widget">
+    <h3 class="panel-title text-center">Cricket Scores</h3>
+    <div class="panel-body">
+        <div class="tabs">
+            <ul>
+                <li class="active"><a data-toggle="tab" href="#current-recent_4395201">Current & Recent</a></li>
+                <li><a data-toggle="tab" href="#upcoming_4395201">Upcoming</a></li>
+            </ul>
+        </div>
+        <div class="tab-content">
+            <div id="current-recent_4395201" class="tab-pane fade in active">
+                <div class="match-list">
+                    <ul>
+                                                <li>
+                            <p>Pakistan Super League, 2018</p>
+                            <p>PZ Vs QG</p>
+                                                        <p> <a href="http://www.firstpost.com/firstcricket/sports-news/highlights-psl-2018-peshawar-zalmi-vs-quetta-gladiators-eliminator-lahore-full-cricket-score-zalmi-win-1-run-4398211.html">Peshawar Zalmi beat Quetta Gladiators by 1 run</a></p>
+                                                    </li>
+                                                <li>
+                            <p>Pakistan Super League, 2018</p>
+                            <p>IU Vs KK</p>
+                                                        <p> <a href="">Islamabad United beat Karachi Kings by 8 wickets</a></p>
+                                                    </li>
+                                                <li>
+                            <p>Pakistan Super League, 2018</p>
+                            <p>IU Vs KK</p>
+                                                        <p> <a href="">Karachi Kings beat Islamabad United by 7 wickets</a></p>
+                                                    </li>
+                                                <li>
+                            <p>West Indies Women in New Zealand, 5 T20I Series, 2018</p>
+                            <p>NZW Vs WIW</p>
+                                                        <p> <a href="">New Zealand Women beat West Indies Women by 1 run</a></p>
+                                                    </li>
+                                                <li>
+                            <p>Australia Women in India, 3 ODI Series, 2018</p>
+                            <p>INDW Vs AUSW</p>
+                                                        <p> <a href="">Australia Women beat India Women by 97 runs</a></p>
+                                                    </li>
+                                                <li>
+                            <p>West Indies Women in New Zealand, 5 T20I Series, 2018</p>
+                            <p>NZW Vs WIW</p>
+                                                        <p> <a href="">New Zealand Women beat West Indies Women by 106 runs</a></p>
+                                                    </li>
+                                                <li>
+                            <p>ICC Cricket World Cup Qualifiers, 2018</p>
+                            <p>UAE Vs AFG</p>
+                                                        <p> <a href="">Afghanistan beat United Arab Emirates by 5 wickets</a></p>
+                                                    </li>
+                                                <li>
+                            <p>ICC Cricket World Cup Qualifiers, 2018</p>
+                            <p>WI Vs ZIM</p>
+                                                        <p> <a href="">West Indies beat Zimbabwe by 4 wickets</a></p>
+                                                    </li>
+                                                <li>
+                            <p>Nidahas Tri-Series, 2018</p>
+                            <p>IND Vs BAN</p>
+                                                        <p> <a href="http://www.firstpost.com/firstcricket/sports-news/highlights-india-vs-bangladesh-t20-nidahas-trophy-final-full-cricket-score-karthik-seals-the-title-with-last-ball-six-4395101.html">India beat Bangladesh by 4 wickets</a></p>
+                                                    </li>
+                                                <li>
+                            <p>ICC Cricket World Cup Qualifiers, 2018</p>
+                            <p>IRE Vs SCO</p>
+                                                        <p> <a href="">Ireland beat Scotland by 25 runs</a></p>
+                                                    </li>
+                        
+                    </ul>
+                </div>
+            </div>
+            <div id="upcoming_4395201"  class="tab-pane fade">
+                <div class="match-list">
+                    <ul>
+                                                <li>
+                            <p><a href="/firstcricket/cricket-live-score/west-indies-vs-scotland-odi-live-cricket-score-full/2943/185933.html">ICC Cricket World Cup Qualifiers, 2018</a></p>
+                            <p>WI vs SCO - Mar 21st, 2018, 01:00 PM IST</p>
+                        </li>
+                                                <li>
+                            <p><a href="/firstcricket/cricket-live-score/new-zealand-vs-england-test-live-cricket-score-full/2825/183984.html">England in New Zealand, 2 Test Series, 2018</a></p>
+                            <p>NZ vs ENG - Mar 22nd, 2018, 06:30 AM IST</p>
+                        </li>
+                                                <li>
+                            <p><a href="/firstcricket/cricket-live-score/united-arab-emirates-vs-zimbabwe-odi-live-cricket-score-full/2943/185934.html">ICC Cricket World Cup Qualifiers, 2018</a></p>
+                            <p>UAE vs ZIM - Mar 22nd, 2018, 01:00 PM IST</p>
+                        </li>
+                                                <li>
+                            <p><a href="/firstcricket/cricket-live-score/south-africa-vs-australia-test-live-cricket-score-full/2730/183123.html">Australia in South Africa, 4 Test Series, 2018</a></p>
+                            <p>SA vs AUS - Mar 22nd, 2018, 02:00 PM IST</p>
+                        </li>
+                                                <li>
+                            <p><a href="/firstcricket/cricket-live-score/ireland-vs-afghanistan-odi-live-cricket-score-full/2943/185935.html">ICC Cricket World Cup Qualifiers, 2018</a></p>
+                            <p>IRE vs AFG - Mar 23rd, 2018, 01:00 PM IST</p>
+                        </li>
+                                                <li>
+                            <p><a href="/firstcricket/cricket-live-score/tbc-vs-tbc-list-a-live-cricket-score-full/2943/185936.html">ICC Cricket World Cup Qualifiers, 2018</a></p>
+                            <p>TBC vs TBC - Mar 25th, 2018, 01:00 PM IST</p>
+                        </li>
+                                                <li>
+                            <p><a href="/firstcricket/cricket-live-score/new-zealand-vs-england-test-live-cricket-score-full/2825/183985.html">England in New Zealand, 2 Test Series, 2018</a></p>
+                            <p>NZ vs ENG - Mar 30th, 2018, 03:30 AM IST</p>
+                        </li>
+                                                <li>
+                            <p><a href="/firstcricket/cricket-live-score/south-africa-vs-australia-test-live-cricket-score-full/2730/183124.html">Australia in South Africa, 4 Test Series, 2018</a></p>
+                            <p>SA vs AUS - Mar 30th, 2018, 01:30 PM IST</p>
+                        </li>
+                                                <li>
+                            <p><a href="/firstcricket/cricket-live-score/pakistan-vs-west-indies-t20-live-cricket-score-full/2904/185214.html">West Indies in Pakistan, 3 T20I Series, 2018</a></p>
+                            <p>PAK vs WI - Apr 1st, 2018, 07:30 PM IST</p>
+                        </li>
+                                                <li>
+                            <p><a href="/firstcricket/cricket-live-score/pakistan-vs-west-indies-t20-live-cricket-score-full/2904/185215.html">West Indies in Pakistan, 3 T20I Series, 2018</a></p>
+                            <p>PAK vs WI - Apr 2nd, 2018, 07:30 PM IST</p>
+                        </li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Ads Display Widget Start -->
+<!-- Ads Display Widget End -->
+<!--side-content-->
+
+<div class="ad-block-USUK">
+    <div id='FirstPost/FirstPost_Footer/FirstPost_Footer_300x250_USUK'><script type='text/javascript'>
+                            var width = window.innerWidth || document.documentElement.clientWidth;
+                            adKey = 'FirstPost/FirstPost_Footer/FirstPost_Footer_300x250_USUK';
+                            if (width >= 768 && (adKey.indexOf('FirstPost') != -1 || adKey.indexOf('Tech') != -1) && adKey.indexOf('FirstPost_Wap_New') < 0) {
+                                googletag.cmd.push(function() { googletag.display('FirstPost/FirstPost_Footer/FirstPost_Footer_300x250_USUK') });
+                            }
+                            if (width < 768 && adKey.indexOf('FirstPost_Wap_New') != -1) {
+                                googletag.cmd.push(function() { googletag.display('FirstPost/FirstPost_Footer/FirstPost_Footer_300x250_USUK') });
+                            }
+                        </script></div>
+    <!-- Ads Display Widget End -->
+    <br/>
+</div>
+
+            </div><!-- RHS Sidebar-->
+
+ <div class="text-center 728X90Ad">
+ <div id='FirstPost/FirstPost_Footer/FirstPost_Footer_728x90_USUK'><script type='text/javascript'>
+                            var width = window.innerWidth || document.documentElement.clientWidth;
+                            adKey = 'FirstPost/FirstPost_Footer/FirstPost_Footer_728x90_USUK';
+                            if (width >= 768 && (adKey.indexOf('FirstPost') != -1 || adKey.indexOf('Tech') != -1) && adKey.indexOf('FirstPost_Wap_New') < 0) {
+                                googletag.cmd.push(function() { googletag.display('FirstPost/FirstPost_Footer/FirstPost_Footer_728x90_USUK') });
+                            }
+                            if (width < 768 && adKey.indexOf('FirstPost_Wap_New') != -1) {
+                                googletag.cmd.push(function() { googletag.display('FirstPost/FirstPost_Footer/FirstPost_Footer_728x90_USUK') });
+                            }
+                        </script></div>
+ </div>
+            <div id='div-gpt-ad-1501232183174-0'>
+                <script>
+                    var width = window.innerWidth || document.documentElement.clientWidth;
+                    if(width >= 768) {
+                        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1501232183174-0'); });
+                    }
+                </script>
+            </div>
+
+        </div><!--.container-->
+        
+    </div><!--.contentMain-->
+</div><!--.content-->
+ 
+
+
+
+<script>
+
+    $(document).ready(function () {
+
+        /* Script Only For Desktops*/
+        if ($(window).width() > 768) {
+
+            var adId = '#header_ad';
+
+            $(adId).css({
+                'margin': '0',
+                'z-index': '9999',
+                'background': 'white',
+                'position': 'sticky',
+                'top': '-1px',
+                'padding': '3px 0px',
+                'border-bottom': '1px #e1dcdc solid',
+                'width': '100%'
+            });
+            $('.fixBtm').css('bottom', '-270px');
+
+
+            $(window).scroll(function () {
+                if ($(window).scrollTop() > 0) {
+                    $(adId).css({
+                        'box-shadow': '0px 0px 8px #d7caca'
+                    })
+                };
+                if ($(window).scrollTop() > $('.article-body').offset().top) {
+                    $(adId).css({
+                        'position': 'inherit',
+                        'box-shadow': '0px 0px 0px rgba(0,0,0,0)'
+                    })
+                    $('.fixBtm').animate({'bottom':'0px'},1000)
+                };
+            });
+        };
+
+
+    });
+
+
+</script>
+
+
+
+<script type="text/javascript">
+
+    function FPgetcookie(cookiename) {
+        var cookiestring=document.cookie;
+        var i=0;
+        var index1=cookiestring.indexOf(cookiename);
+        if (index1==-1 || cookiename=="") return "";
+        var index2=cookiestring.indexOf(';',index1);
+        if (index2==-1) index2=cookiestring.length;
+        return unescape(cookiestring.substring(index1+cookiename.length+1,index2));
+    }
+
+
+    try{
+        if(FPgetcookie('mc_fp_popunder_v2')=='') {
+            var js = document.createElement("script");
+            js.type = "text/javascript";
+            js.src = "https://images.firstpost.com/promo/js/mcfp-popunder.js?v=20160725";
+            document.body.appendChild(js);
+        }
+    }catch(e){
+    }
+</script>
+
+
+
+
+
+<!--<script src="//a.teads.tv/page/26003/tag" async="true"></script>-->
+
+
+
+<script type="text/javascript">
+    dfp_floating_banner_ad_new('FirstPost/Firstpost_Flying/Firstpost_Flying_300x250');
+    function FPsetcookie(c_name,value,expiredays){
+
+        var exdate=new Date();
+
+        exdate.setDate(exdate.getDate()+expiredays);
+
+        document.cookie=c_name+ "=" +escape(value)+ ";path=/;domain=;" +
+
+                ((expiredays==null) ? "" : ";expires="+exdate.toGMTString());
+
+    }
+    function dfp_floating_banner_ad_new(dfp_ad) {
+        FPAdJ = jQuery;
+        if ( navigator.appName.indexOf("Microsoft")==-1 ){
+            FP_FloatingAd_300x250 = FPgetcookieForDFP('FP_FloatingAd_300x250');
+            if ( typeof FP_FloatingAd_300x250 == "undefined" || FP_FloatingAd_300x250 == '' ){
+                FPsetcookie('FP_FloatingAd_300x250',1,1);
+                document.write("<style> .fixBtm{ position:fixed; left:0px; bottom:0px; width:300px;z-index:99999} .cls{ color:#333; font:13px Arial;} </style>");
+                document.write("<s"+"cript type='text/javas"+"cript'> FPAdJ(document).ready(function() { $(window).scroll(function() { if ($(window).scrollTop() > 100) {FPAdJ('.fixBtm').animate({ bottom:0, left:0 },2000);}else{}}); FPAdJ('.cls').click(function() {    FPAdJ('.fixBtm').hide(); }); });</s"+"cript>");
+                document.write('<div class="fixBtm"><a href="javas'+'cript:;" class="cls">close</a><div id="'+dfp_ad+'"><s' + 'cript language="JavaS' + 'cript">googletag.cmd.push(function() { googletag.display("'+dfp_ad+'");  });</s' + 'cript></div></div>');
+            }else if(FP_FloatingAd_300x250 <= '5'){
+                var val=parseInt(FP_FloatingAd_300x250)+1
+                FPsetcookie('FP_FloatingAd_300x250',val,1);
+                document.write("<style> .fixBtm{ position:fixed; left:0px; bottom:0px; width:300px;z-index:99999} .cls{ color:#333; font:13px Arial;} </style>");
+                document.write("<s"+"cript type='text/javas"+"cript'> FPAdJ(document).ready(function() { $(window).scroll(function() { if ($(window).scrollTop() > 100) {FPAdJ('.fixBtm').animate({ bottom:0, left:0 },2000);}else{}}); FPAdJ('.cls').click(function() {    FPAdJ('.fixBtm').hide(); }); });</s"+"cript>");
+                document.write('<div class="fixBtm"><a href="javas'+'cript:;" class="cls">close</a><div id="'+dfp_ad+'"><s' + 'cript language="JavaS' + 'cript">googletag.cmd.push(function() { googletag.display("'+dfp_ad+'");  });</s' + 'cript></div></div>');
+            }
+        }
+    }
+</script>
+
+
+<script>
+
+    $(document).ready(function(){
+        var id = 'aid_'+$("#main").data('article-id');
+        $(document).scroll(function() {
+            var pos_high1 = $('.article-full-content').position().top+$('.article-full-content').outerHeight(true);
+            var wtop1 = $(document).scrollTop();
+            if (wtop1 >= (pos_high1-700)){
+                $('.fixBtm').hide();
+            }
+            else{
+                $('.fixBtm').show();
+            }
+        });
+
+    });
+    $(window).load(function(){
+        activateOutbrain('4395201');
+    });
+    document.write("<s"+"cript type='text/javas"+"cript'> $(document).ready(function() { $('.cls').click(function() {   $('.fixBtm').html(''); }); });</s"+"cript>");
+    function OpenSharePopup(sUrl, siteName){
+        if (siteName == 'linkedin'){
+            var sSiteUrl = 'http://www.linkedin.com/shareArticle?'+sUrl;
+        }else if (siteName == 'facebook'){
+            var sSiteUrl = "http://www.facebook.com/sharer.php?"+sUrl;
+        }else if(siteName == 'google'){
+            var sSiteUrl = "https://plus.google.com/share?url="+sUrl;
+        }
+        window.open(sSiteUrl, "twitter","menubar=0,resizable=1,width=600,height=300");
+    }
+
+    function twitterShare(url, headline){
+        window.open("https://twitter.com/share?text="+headline+"&counturl="+url+"&url="+url+"", "twitter","menubar=0,resizable=1,width=550,height=300");
+    }
+
+</script>
+<script type="text/javascript">
+    var hash = '';
+    $(document).ready(function(){
+        if ($(".refresh-live-blog").length > 0 ) {
+            hash = window.location.hash;
+            hash = hash.replace("#",".");
+            if(hash != "") {
+
+                $('html, body').animate({
+                    scrollTop: $(hash).offset().top - 100
+                }, 1000);
+            }
+
+
+        }
+    });
+
+</script>
+<!-- Start: Addng Ads -->
+<div id='div-gpt-ad-1501232183174-0'>
+    <script>
+        var width = window.innerWidth || document.documentElement.clientWidth;
+        if(width >= 768) {
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1501232183174-0'); });
+        }
+    </script>
+</div>
+
+
+
+
+<script>
+    function activateOutbrain(id){
+        var url      = window.location.href;
+        if (window.location.hostname == "staging.firstpost.com" || window.location.hostname == "firstpost.staging" || window.location.hostname == "fpssl.live") {
+            url = url.replace(window.location.hostname,"www.firstpost.com");
+        }
+        if (!navigator.userAgent.match(/Android/i) &&
+                !navigator.userAgent.match(/webOS/i) &&
+                !navigator.userAgent.match(/iPhone/i) &&
+                !navigator.userAgent.match(/iPod/i) &&
+                !navigator.userAgent.match(/iPad/i) &&
+                !navigator.userAgent.match(/Blackberry/i)) {
+            $("#outbrainWidget_"+id).html('<div  class="OUTBRAIN" data-src="'+url+'" data-widget-id="AR_1" data-ob-template="firstpostcom"></div>');
+        } else {
+            $("#outbrainWidget_"+id).html('<div  class="OUTBRAIN" data-src="'+url+'" data-widget-id="MB_1" data-ob-template="firstpostcom""></div>');
+        }
+
+       
+
+
+        //colombia.clearData();
+    }
+</script>
+
+<!-- Footer -->
+<br>
+<div class="ad-300x250 text-center">
+
+    <div id='FirstPost/FirstPost_Footer/FirstPost_Footer_728x90_USUK'><script type='text/javascript'>
+                            var width = window.innerWidth || document.documentElement.clientWidth;
+                            adKey = 'FirstPost/FirstPost_Footer/FirstPost_Footer_728x90_USUK';
+                            if (width >= 768 && (adKey.indexOf('FirstPost') != -1 || adKey.indexOf('Tech') != -1) && adKey.indexOf('FirstPost_Wap_New') < 0) {
+                                googletag.cmd.push(function() { googletag.display('FirstPost/FirstPost_Footer/FirstPost_Footer_728x90_USUK') });
+                            }
+                            if (width < 768 && adKey.indexOf('FirstPost_Wap_New') != -1) {
+                                googletag.cmd.push(function() { googletag.display('FirstPost/FirstPost_Footer/FirstPost_Footer_728x90_USUK') });
+                            }
+                        </script></div>
+	</div>
+<div class="ad-300x250 text-center floating-bottom">
+    
+	</div>
+<footer id="footer">
+    <div class="container">
+        <a id="site-index-button" type="button" data-toggle="collapse" data-target="#site-index" aria-expanded="false" aria-controls="site-index">
+        <span class="icon circle"><i class="icon-angle-down"></i></span>
+            Site Index
+        </a>
+    </div>
+    <div class="container container-border collapse" id="site-index">
+        <div class="row">
+            <div class="col-md-10 col-sm-10">
+                <div class="inline vat">
+                    <ul class="list simple">
+                        <li><a href="/"><img src="data:image/png;base64,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" class="footer-logo"></a></li>
+                        <li><a href="http://hindi.firstpost.com/" target="_blank">हिंदी फर्स्टपोस्ट</a></li>
+                        <li><a href="http://www.firstpost.com/about-firstpost">About Firstpost</a></li>
+                        <!-- <li><a href="#">Newsletter</a></li> -->
+                        <li><a href="http://www.firstpost.com/rss">RSS</a></li>
+                        <li><a href="http://twitter.com/firstpost" rel="nofollow" target="_blank">Twitter</a></li>
+                        <li><a href="http://www.facebook.com/pages/Firstpost/165818073477856" rel="nofollow" target="_blank">Facebook</a></li>
+                    </ul>
+                </div>
+                <div class="inline vat">
+                    <ul class="list simple">
+                        <li class="title">Sections</li>
+                        <li><a href="http://www.firstpost.com/">Front Page</a></li>
+                                                                        <li><a href="http://www.firstpost.com/category/politics" title="">Politics</a></li>
+                                                                                                <li><a href="http://www.firstpost.com/category/sports" title="">Sports</a></li>
+                                                                                                <li><a href="http://www.firstpost.com/category/india" title="">India</a></li>
+                                                                                                <li><a href="http://www.firstpost.com/category/world" title="">World</a></li>
+                                                                                                <li><a href="http://www.firstpost.com/category/business" title="">Business</a></li>
+                                                                                                <li><a href="http://www.firstpost.com/category/living" title="">Life</a></li>
+                                                                                                <li><a href="http://www.firstpost.com/category/entertainment" title="">Entertainment News</a></li>
+                                                                                                <li><a href="http://www.firstpost.com/firstcricket" title="">F.Cricket</a></li>
+                                                                                                <li><a href="http://www.firstpost.com/tech" title="">Tech</a></li>
+                                                                                                <li><a href="http://www.firstpost.com/category/photos" title="">Photos</a></li>
+                                                                                                <li><a href="http://www.firstpost.com/category/videos" title="">Videos</a></li>
+                                                
+                    </ul>
+                </div>
+                <div class="inline vat">
+                    <ul class="list simple">
+                        <li class="title">Plus</li>
+                        <li><a title="First Cricket" href="/firstcricket/">First Cricket</a></li>
+                        <li><a title="CRICKET LIVE SCORE" href="http://www.firstpost.com/firstcricket/cricket-live-score">Cricket Live Score</a></li>
+                        <!--<li><a title="Pro Kabaddi 2017" href="/pro-kabaddi-2017/">Pro Kabaddi 2017</a></li>-->
+                        <li class="item"><a title="Budget 2018" href="/budget-2018/">Budget 2018</a></li>
+                        <li class="item"><a title="Tax Calculator" href="/tax-calculator">Tax Calculator</a></li>
+                        <li class="item"><a title="Budget 2018 Live TV" href="/budget-2018-live-tv/">Budget 2018 Live TV</a></li>
+                        <!--<li><a href="http://www.firstpost.com/fifa-under-17-world-cup-2017/" alt="FIFA under 17 World Cup 2017" title="FIFA under 17 World Cup 2017">FIFA U17 WC</a></li>-->
+                        <li><a title="Laureus 2017" href="/laureus/">Laureus World Sports Awards 2017</a></li>
+                        <li><a href="http://www.firstpost.com/category/delhi">New Delhi</a></li>
+                        <li><a href="http://www.firstpost.com/category/mumbai">Mumbai</a></li>
+                        <li><a href="http://www.firstpost.com/category/photos">Photos</a></li>
+                        <li><a href="http://www.firstpost.com/category/f-pedia">F. Pedia</a></li>
+                        <li><a href="http://www.firstpost.com/videos/">Videos</a></li>
+                        <li><a href="http://www.firstpost.com/category/exclusives">FP Exclusives</a></li>
+                        <li><a href="http://www.firstpost.com/category/videos">Video Room</a></li>
+                        <li><a href="http://www.firstpost.com/weather/">Weather</a></li>
+                    </ul>
+                </div>
+                <div class="inline vat">
+                    <ul class="list simple">
+                        <li class="title">Network 18 sites</li>
+                        <li><a href="http://www.in.com/" target="_blank" rel="nofollow">In.com</a></li>
+                        <li><a href="http://www.moneycontrol.com/" target="_blank" rel="nofollow">Moneycontrol</a></li>
+                        <li><a href="http://www.burrp.com/"  target="_blank" rel="nofollow">Burrp</a></li>
+                        <li><a href="https://www.topperlearning.com/" target="_blank" rel="nofollow">Topper Learning</a></li>
+                        <li><a href="http://overdrive.in/" target="_blank" rel="nofollow">Overdrive</a></li>
+                        <li><a href="http://www.ibnlokmat.tv/" target="_blank" rel="nofollow">IBN Live</a></li>
+                        <li><a href="http://www.news18.com/" target="_blank" rel="nofollow">News18</a></li>
+                        <li><a href="http://www.topperlearning.com/learn/sample-papers?ps1" target="_blank" rel="nofollow">Sample Papers Online</a></li>
+                        <li><a href="http://www.firstpost.com/category/business/biztech">Business Technology News</a></li>
+                        <li><a href="http://mtv.in.com/" target="_blank" rel="nofollow">MTV India</a></li>
+                        <li><a href="http://www.homeshop18.com/"target="_blank"  rel="nofollow">Online Shopping in India</a></li>
+                        <li><a href="http://www.caprep18.com/" target="_blank" rel="nofollow">CAprep18</a></li>
+                        <li><a href="http://www.firstpost.com/shows/">F. Shows</a></li>
+                        <!-- <li><a href="http://www.firstpost.com/iifa-awards-2017">IIFA 2017</a></li> -->
+                        <li><a href="http://www.topperlearning.com/franchisee" target="_blank" rel="nofollow">E-Learning Franchise Opportunity</a></li>
+                        <!--<li><a href="http://www.firstpost.com/gst-rate-list-india/" rel="nofollow">GST Rate List India</a></li>-->
+                    </ul>
+                </div>
+                <div class="inline vat">
+                    <ul class="list simple">
+                        <li class="title">Tools</li>
+                        <li><a href="http://feeds.feedburner.com/firstpost/xfJh" target="_blank">RSS Feeds</a></li>
+                    </ul>
+                    <ul class="list simple">
+                        <li class="title">Apps</li>
+                        <li><a href="https://itunes.apple.com/in/app/firstpost/id445829858?mt=8"  target="_blank">iOS</a></li>
+                        <li><a href="https://play.google.com/store/apps/details?id=com.firstpost" target="_blank">Android</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-2 col-sm-2">
+                <div class="footer-social-wrap">
+                    <div class="inline">
+                        <ul class="top-social">
+                            <li><a href="https://www.facebook.com/firstpostin" rel="nofollow" target="_blank"><i class="icon-fb"></i></a></li>
+                            <li><a href="https://twitter.com/firstpost" rel="nofollow" target="_blank"><i class="icon-twit"></i></a></li>
+                            <li><a href="https://plus.google.com/+Firstpost/posts" rel="nofollow" target="_blank"><i class="icon-google-plus"></i></a></li>
+                        </ul>
+                    </div>
+                    <div class="inline">
+                        <a href="http://www.network18online.com/" id="logo18" target="_blank">
+                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyhpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTMyIDc5LjE1OTI4NCwgMjAxNi8wNC8xOS0xMzoxMzo0MCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUuNSAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6RTAyNERCMjU2OTI3MTFFNkFBMzdCQzcxNTAxQUNDQzMiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6RTAyNERCMjY2OTI3MTFFNkFBMzdCQzcxNTAxQUNDQzMiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpFMDI0REIyMzY5MjcxMUU2QUEzN0JDNzE1MDFBQ0NDMyIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpFMDI0REIyNDY5MjcxMUU2QUEzN0JDNzE1MDFBQ0NDMyIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PrSvNQ0AAAPkSURBVHjatFZbbAxRGP7PmdnZ3XZ6fUGp+zUSgngRtwhNKBUhxYMHUYlGoqi4pQ/iiUSUkBCXJ0HqBU1KQsQtIoRKRYhqmrpELOl2MWNnd2f2OOfM7ly3u/XgTyZnzvX7L9//n4NeDB/zoVzAleAUAoAQog2BvMKmkd2NGeloVyrReWDgx+XvaaPduRR9GjP+t2xg2XcIBQJCBu8XWH89rlzbk1AaBxQlyvo4qZMkX1QIJB9Ajv6asFzfXlxxv0KWubdwbpeQIY2RtAHE0N3zhFhg0wPBGceC8hmO3zNyXH8lFiv5hriWW+niYpelRFXNrkw9XiwCicTM+XAIkCC6AWlbP6m6ho8SRYHAsgUQWLPWB2LEYpA8eQJASVnaB9fXQaBuFQgTxptnfotA6uFj0K5c5aBcAYdsfP2uAZhF/RUjiNK8m+QSCkSiU6eR/qpx/ItfbSODif7+LYktWETYedFRE82vehJ5PKy6CyNA+Sms/jZb6tbwts0Q2lA/6FJh8jSQTx/nLnRKGOEi7MoVI84/kosMdLO0fp1rrXr2HKiN28DofmeDzZgNgflzrThmSSJmg53suA3685d8UL5whmtnW6XTeIym31hrSH/yDLSmvfw/HR2AkrY2aw5Xj/JRX+QGUQeSXxoYkW5zVIu7raHMSvd9hXSkH3CVeQgqL6UKFlHN/9gHZyT9+YsvLUQOSjucltQylhs5U4syM9l2DUK7dlsuKr1xBfSv3yGwcoXt0dedoD99ZcbJEQKxQDVzxejPsdMgzpkN4sLF5mbaik5Lfv4EdV8LV4pT3AFks44UgKSsC9bVAJ45a/BqVFoKoR3bOYhVMTJxwkOyhpIBDSuH8JGjgMvKLNZprcdB3dNssY5VfGl5LYS2brKrTMYAbKHmKZxMO6l2uQ3CsM9fAnX/YdBOXQS1qdlMjYxIq2t9uWTmESGFXTdxinvjj0imDhaB0ddHcRwkCoU5uTix/sl1joOzEtyyGQJL5nGXSk07QXDWN5oezAsIC448GoIw7ZJ370GopYXHgQPTfCq51UHz75fLpUySNzvMGDnAsVWB8l1uNGGNN92QONHqueOQD4QRg1VxK48sMqAcFxv1sQ1S4sojVt+cgXeK/ugBKA2N5lUhuJ0leh8YzK9a60nqmpGZJIyZ9KbjLLiJg4fAuHkDpJqlgKdOAUyrSeItLV1dnZBov2NfiB5yoZ4qesMKYqU1wV4/NLN9N6zjHWFV5hzVg1viAenVUz0iII/bWN3LXt3eB0im9c173xbIX22wJCIp76smLx09iZ7te/JSwkgSP2qp3jJBKIf/KJ9Q6uNfAQYAFZfaPTS/4U8AAAAASUVORK5CYII="/>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container end-links">
+        <p class="inline">Copyright &copy; 2018. Firstpost - All Rights Reserved.</p>
+        <p class="inline">
+            <a href="http://www.firstpost.com/terms-of-use">Terms of use</a>
+            <a href="http://www.firstpost.com/privacy">Privacy</a>
+        </p>
+    </div>
+</footer>
+
+
+</div><!--wrapper-->
+<!-- jQuery -->
+
+
+<!-- <link rel="stylesheet" type="text/css" href="http://www.firstpost.com/assets/fonts/external/fonts.css?v=2"> -->
+<link href="https://fonts.googleapis.com/css?family=Frank+Ruhl+Libre:400,700" rel="stylesheet dns-prefetch" type="text/css" >
+<!-- <link href="https://fonts.googleapis.com/css?family=Oswald:400,500,600,700" rel="stylesheet"> -->
+
+<!-- <link rel="stylesheet" type="text/css" href="http://www.firstpost.com/assets/css/jquery.bxslider.min.css">
+<script type="text/javascript" src="http://www.firstpost.com/assets/js/jquery.bxslider.min.js"></script> -->
+<!--<script type="text/javascript" async src="http://www.firstpost.com/assets/js/app.min.js?v=12.72"></script>-->
+<!-- <script type="text/javascript" async src="http://www.firstpost.com/assets/js/app.js?v=12.74"></script> -->
+<script type="text/javascript">
+	var Index = 2;
+
+// window.setInterval(ChangeVisibleDiv, 2000);
+
+function ChangeVisibleDiv()
+{
+	if(Index == 1){
+	    if(width >= 768){
+            $("#aw_desktop").hide();
+        }else{
+            $("#aw_mobile").hide();
+        }
+		$(".weather-widget-mobile").hide(); //display','none');
+     	$(".air-quality").show(); //css('display','inline-block');
+     	Index++;
+	}else{
+        if(width >= 768){
+            $("#aw_desktop").show();
+        }else{
+            $("#aw_mobile").show();
+        }
+		$(".air-quality").hide();//css('display','none');
+     	$(".weather-widget-mobile").show();//css('display','inline-block');
+     	Index = 1;
+	};
+}
+// ChangeVisibleDiv();
+</script>
+
+
+
+
+<script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 1043201315;
+        var google_conversion_label = "vQUcCJHdmwMQo_q38QM";
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+
+   
+
+    <noscript>
+        <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1043201315/?value=1.00&amp;currency_code=INR&amp;label=vQUcCJHdmwMQo_q38QM&amp;guid=ON&amp;script=0"/>
+        </div>
+    </noscript>
+    <script type="text/javascript">
+
+        $( "[name^='google_conversion_frame']" ).css('position','absolute');
+        $( "[name^='google_conversion_frame']" ).css('height',0);
+
+    </script>
+
+
+    <!-- BetterCampaign Goal Tracker -->
+
+    <!-- BetterCampaign Goal Tracker -->
+
+    <!-- arjun code start -->
+    <script type="text/javascript">
+        (function() {
+            window._w18hn = "FP";
+            window._w18_config={"microsite":"own","sections":"Politics","tags":"84th Congress Plenary,Amit Shah,BJP,Congress,Congress plenary,Congress plenary live,Congress plenary live updates,Congress plenary session,Economy,farmers' crisis,Hindutva,Indian National Congress,Kaurava,Mahatma Gandhi,Manmohan Singh,Narendra Modi,New Delhi,NewsTracker,Rafale deal,Rahul Gandhi,Rahul Gandhi Live,Rahul Gandhi Speech,RSS,Sonia Gandhi,Unemployment,Vyapam scam","language":"English"};
+            var w18 = document.createElement('script'); w18.type = 'text/javascript'; w18.async = true;
+            w18.src = 'http://s.in.com/common/script_catch.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(w18, s);
+        })();
+    </script>
+    <!-- arjun code end -->
+   
+   
+   <!--MENU TOGGLE SCRIPT-->
+  
+
+ <script async src='https://cdn.onthe.io/io.js/xmKBQHduOqzQ'></script>
+    <script src="//ht-fpweb.native.andbeyond.media/direct/Firstpost_IMP_PIXEL_1X1_TEST.js" type="text/javascript"></script>
+    </body>
+
+    <script>
+        var width = window.innerWidth || document.documentElement.clientWidth;
+        if (width <= 768) {
+            document.write('<iframe style="display:none" src="http://spl.zeotap.com/?zdid=78&ziid={impression_id}&zpb=Firstpost&env=mWeb"/>');
+        }
+    </script>
+	
+<script type="text/javascript">
+    var windowWidth = $(window).width();
+    if(windowWidth < 640){
+        $('.reviews-wrap .row').addClass('reviews-slider');
+        $('.reviews-wrap .row div').removeClass('col-md-3 col-sm-6');
+        $('.reviews-slider').bxSlider({
+            minSlides: 1,
+            maxSlides: 4,
+            slideWidth: 300,
+            slideMargin: 0,
+            pager: false,
+        });
+    }
+
+    // caragoke slider
+    $('.caraoke-slider').bxSlider({
+        mode: 'horizontal',
+        pager:false,
+    });
+
+    // latest reviews
+    $('.l-reviews-slider').bxSlider({
+        minSlides: 1,
+        maxSlides: 4,
+        slideWidth: 260,
+        slideMargin: 10,
+        pager: false,
+    });
+
+    $('.v-reviews-slider').bxSlider({
+        minSlides: 1,
+        maxSlides: 4,
+        slideWidth: 280,
+        slideMargin: 10,
+        pager: false,
+    });
+
+    // firstpost menu
+    $('.fp-icon').mouseenter(function(){
+        $(this).addClass('open');
+    });
+    $('.fp-menu').mouseleave(function(){
+        $('.fp-icon').removeClass('open');
+    });
+</script>
+
+<!-- FH Analytics -->
+
+<script type="text/javascript">
+    var _paq = _paq || [];
+    _paq.push(["setDomains", ["*.www.firstpost.com","*.www.moneycontrol.com","*.www.news18.com"]]);
+    _paq.push(["enableCrossDomainLinking"]);
+    _paq.push(['trackEvent', 'Viewed', 'CategoryViewed', 'Category', 'Viewed',{dimension6:'null',dimension7:'null',dimension8:"politics",dimension9:'null'}]);
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+        var u="//www.fhpro.in/piwik/";
+        _paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '88']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    })();
+</script>
+<noscript><img src="//www.fhpro.in/piwik/piwik.php?idsite=88&rec=1" style="border:0" alt="" /></noscript>
+
+<!-- End FH Analytics Code -->

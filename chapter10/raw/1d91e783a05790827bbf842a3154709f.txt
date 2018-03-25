@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+.ntv-mw .socialContainer.twoCol {
+  position:relative !important;
+}
+</style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<link rel="icon" type="image/png" href="../../dist/assets/icons/favicon.ico">
+<link href="../../dist/assets/icons/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="../../dist/assets/icons/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="../../dist/assets/icons/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="../../dist/assets/icons/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+<link href="../../dist/assets/icons/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
+<link href="../../dist/assets/icons/icon-hires.png" rel="icon" sizes="192x192" />
+<link href="../../dist/assets/icons/icon-normal.png" rel="icon" sizes="128x128" />
+<link rel="stylesheet" type="text/css" href="/dist/css_1521016599896/main.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<script type="text/javascript" src="/dist/bower_components/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular/angular.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular-animate/angular-animate.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular-touch/angular-touch.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular-ui/build/angular-ui.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/toastr/toastr.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/waypoints/lib/jquery.waypoints.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/waypoints/lib/shortcuts/sticky.min.js"></script>
+<script type="text/javascript"
+        src="/dist/bower_components/angular-ui-router/release/angular-ui-router.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/moment/min/moment.min.js"></script>
+<script type='text/javascript' src='../../dist/assets/js/ng-infinite-scroll.js'></script>
+<meta property="al:ios:app_name" content="ap-news-app">
+<meta property="al:ios:app_store_id" content="364677107">
+
+<meta name="ap-news-app" content="app-id=364677107, app-argument=https://www.apnews.com/595b6e686e324b4caf80b796cf537af1/Russia:-Asking-permission-before-taking-organs-is-%27inhumane%27">
+<meta property="fb:pages" content="249655421622"/>
+
+<meta name="referrer" content="origin">
+<meta name="google-site-verification" content="LJ7vk4czBDDGQtqBLAiY_a9dcLP5v9X-sLlrYaW5kbM" />
+
+<script type="text/javascript">
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 11689; // ACCOUNT NUMBER
+    _sf_async_config.domain = 'apnews.com'; // DOMAIN
+    _sf_async_config.flickerControl = false;
+    _sf_async_config.useCanonical = true;
+    /** CONFIGURATION END **/
+    var _sf_startpt = (new Date()).getTime();
+</script>
+<script async src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+<script type='text/javascript'>
+    var environment_type = 'PRODUCTION';
+
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function () {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script>
+
+<!-- Branch WEB SDK
+    TODO: Implement deeplinks and Journeys
+-->
+<script type="text/javascript">
+  (function(b,r,a,n,c,h,_,s,d,k){if(!b[n]||!b[n]._q){for(;s<_.length;)c(h,_[s++]);d=r.createElement(a);d.async=1;d.src="https://cdn.branch.io/branch-latest.min.js";k=r.getElementsByTagName(a)[0];k.parentNode.insertBefore(d,k);b[n]=h}})(window,document,"script","branch",function(b,r){b[r]=function(){b._q.push([r,arguments])}},{_q:[],_v:1},"addListener applyCode banner closeBanner creditHistory credits data deepview deepviewCta first getCode init link logout redeem referrals removeListener sendSMS setBranchViewData setIdentity track validateCode".split(" "), 0);
+
+    branch.init('key_live_ndufC8VAc2V3dnaX3lenvdhkvAc3rs4S', function(err, data) {
+    });
+</script>
+
+    <script type="text/javascript" src="../../dist/assets/js/jquery.mobile.min.js"></script>
+    <script type="text/javascript" src="../../dist/assets/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../../dist/assets/js/smartquotes.js"></script>
+    <script>smartquotes()</script>
+
+    <!-- APNews app tags -->
+    <meta property="al:ios:url" content="apnews://595b6e686e324b4caf80b796cf537af1">
+    <!-- video js -->
+    <link href="//vjs.zencdn.net/5.3/video-js.min.css" rel="stylesheet">
+    <!--<link rel="stylesheet" href="../../dist/assets/js/videojs.ads.css"/>
+    <link rel="stylesheet" href="../../dist/assets/js/videojs.ima.css"/>-->
+    <title>Russia: Asking permission before taking organs is &#39;inhumane&#39;</title>
+    <meta id="adMetaTags" name="keywords" content="Lawsuits,Europe,Russia"/>
+    <meta name="description" content="
+              At least two lawsuits filed at a top European court claim Russia violated Europe&#39;s Human Rights Convention by removing organs from the recently dead without telling relatives.
+         "/>
+    <link rel="canonical" href="https://www.apnews.com/595b6e686e324b4caf80b796cf537af1"/>
+    <link rel="amphtml" href="https://www.apnews.com/amp/595b6e686e324b4caf80b796cf537af1">
+
+    <!-- OG Tags -->
+    <meta property="og:url" content="https://www.apnews.com/595b6e686e324b4caf80b796cf537af1/Russia:-Asking-permission-before-taking-organs-is-%27inhumane%27"/>
+    <meta property="og:image" content="https://storage.googleapis.com/afs-prod/media/media:8aaa254cef7d4a8db34464218ef277d9/800.jpeg"/>
+    <meta property="og:image:width" content="800"/>
+    <meta property="og:image:height" content="600"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:title" content="Russia: Asking permission before taking organs is &#39;inhumane&#39;"/>
+    <meta property="og:site_name" content="AP News"/>
+    <meta property="fb:app_id" content="870613919693099"/>
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:description" content="
+              At least two lawsuits filed at a top European court claim Russia violated Europe&#39;s Human Rights Convention by removing organs from the recently dead without telling relatives.
+         "/>
+    <meta property="article:publisher" content="https://www.facebook.com/APNews"/>
+
+    <!-- Twitter Card tags -->
+    <meta property="twitter:card" content="summary_large_image"/>
+    <meta property="twitter:site" content="@ap"/>
+    <meta property="twitter:title" content="Russia: Asking permission before taking organs is &#39;inhumane&#39;"/>
+    <meta property="twitter:description" content="
+              At least two lawsuits filed at a top European court claim Russia violated Europe&#39;s Human Rights Convention by removing organs from the recently dead without telling relatives.
+         "/>
+    <meta property="twitter:image" content="https://storage.googleapis.com/afs-prod/media/media:8aaa254cef7d4a8db34464218ef277d9/800.jpeg"/>
+    <meta property="twitter:url" content=" https://www.apnews.com/595b6e686e324b4caf80b796cf537af1"/>
+    <meta name="twitter:image:alt" content="https://storage.googleapis.com/afs-prod/media/media:8aaa254cef7d4a8db34464218ef277d9/800.jpeg"/>
+
+    <!-- AppNexus -->
+    <script src="https://acdn.adnxs.com/prebid/c/7403/pb.js" async=true></script>
+    <script>
+        var googletag = googletag || {};
+
+        googletag.cmd = googletag.cmd || [];
+        googletag.cmd.push(function () {
+          googletag.pubads().disableInitialLoad();
+        });
+    </script>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push(
+                {article: 'auto'}
+        );
+        !function (e, f, u) {
+            e.async = 1;
+            e.src = u;
+            f.parentNode.insertBefore(e, f);
+        }(document.createElement('script'),
+                document.getElementsByTagName('script')[0],
+                '//cdn.taboola.com/libtrc/associatedpress-apnews/loader.js');
+    </script>
+    <script type='text/javascript'>
+      googletag.cmd.push(function(){
+        var isSticked = false;
+        var bottomAdPos;
+        googletag.pubads().addEventListener('slotRenderEnded', function (event) {
+            if (event.slot.getSlotElementId() === "div-gpt-ad-1461247613791-1") {
+              var bottomAd = $("#bottomAd");
+              bottomAdPos = bottomAd.position().top;
+              var articleContent = $("#articleContent");
+              var rightRail = $(".rightRail");
+              $(window).scroll(function() {
+                  var windowPos = $(window).scrollTop();
+                  if (windowPos >=  bottomAd.position().top + bottomAd.height()){
+                      if(!isSticked){
+                        bottomAdPos = bottomAd.position().top;
+                        isSticked = true;
+                      }
+                      bottomAd.addClass("stickBottomAd");
+                  }
+                  if(windowPos < bottomAdPos){
+                      bottomAd.removeClass("stickBottomAd");
+                  }
+              });
+             }
+         });
+        googletag.defineSlot('/15786418/APNews/site/article/rectangle1', [[300, 250], [300, 600]], 'div-gpt-ad-1461247613791-1').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        googletag.defineSlot('/15786418/APNews/site/article/rectangle2', [300, 250], 'div-gpt-ad-1461247613791-2').addService(googletag.pubads());
+      });
+    </script>
+
+    <base href="/">
+    <script type="text/javascript">
+      $(document).ready(function(){
+        var imageClassList = $('.articleImage').prop('classList');
+        if(jQuery.inArray('tallImage',imageClassList) != -1){
+          $('.articleBody .ad-placeholder:nth(0)').remove();
+        }
+        $('a').on('click', function(){
+            ga('send',{
+                hitType: 'event',
+                eventCategory: 'StoryLink',
+                eventAction: 'LinkOpened',
+                eventLabel: $(this).href
+            });
+        });
+      });
+    </script>
+    <script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-19104461-33', 'auto');
+        ga('set', {
+            'dimension1': '595b6e686e324b4caf80b796cf537af1',
+            'dimension4': "Russia: Asking permission before taking organs is 'inhumane'",
+            'dimension8': '',
+            'dimension11'   : 'NO'
+        });
+        ga('send', 'pageview');
+
+    </script>
+
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.apnews.com/595b6e686e324b4caf80b796cf537af1"
+        },
+        "headline": "Russia: Asking permission before taking organs is &#39;inhumane&#39;",
+        "image":{
+            "@type": "ImageObject",
+            "url": "https://storage.googleapis.com/afs-prod/media/media:8aaa254cef7d4a8db34464218ef277d9/800.jpeg",
+            "height": "533",
+            "width": "800"
+        },
+        "datePublished": "2018-03-21 08:12:04",
+        "dateModified": "2018-03-21 08:12:04",
+        "author": {
+            "@type": "Person",
+            "name": "By MARIA CHENG"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Associated Press",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "http://apcontextual.appspot.com/Support/AMPLogo.png",
+              "width": 600,
+              "height": 60
+            }
+        },
+        "description": ""
+      }
+
+
+    </script>
+
+</head>
+<body ng-app="articleContent" style="background-color: white">
+<script type="text/javascript" src="../../dist/assets/js/socialMedia.js"></script>
+
+<!-- Modal -->
+<div id="imageModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="closeContentModalButton">
+                    <a type="button" data-dismiss="modal">&times;</a>
+                </div>
+            </div>
+            <div class="modal-body">
+                <div id="imageCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner" role="listbox">
+                        
+                        <div class="item  active ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:8aaa254cef7d4a8db34464218ef277d9/800.jpeg" alt="Elena Sablina">
+                            <div class="carousel-caption">
+                                
+              <p>
+              In this photo taken on Friday, March 16, 2018, Elena Sablina poses for the Associated Press in Yekaterinburg, Russia . Sablina's daughter Alina was killed in a Moscow car crash in 2014. At least two lawsuits filed at a top European court allege Russia violated Europe&#8217;s Human Rights Convention by removing organs from the recently dead without telling relatives of Alina Sablina and  Igor Verevkin . Russia&#8217;s response: Asking relatives&#8217; permission would be &#8220;inhumane.&#8221; Documents provided to the Associated Press detail how Russia is fighting charges over how it harvests organs in two cases submitted to the court last year. Separate decisions are expected in the coming months and could order Russia to rewrite its laws. (AP Photo/Kirill Zarubin)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                    </div>
+
+                    <!-- Left and right controls -->
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div page-header></div>
+
+
+<div class="articleView" >
+    <div class="articleContentContainer">
+        <div class="sideRail leftRail" >
+            <div class="fullscreen">
+                <div>
+                    <h4>By MARIA CHENG</h4>
+                </div>
+                <div>
+                    <h4 class="updatedString">Yesterday</h4>
+                </div>
+            </div>
+            <div class="outerShareContainer">
+                <!--share-container is Angular directive, search for 'searchContainer'-->
+<!--fbShare, tweet and deeplink are handled by jQuery, search for file socialMedia.js-->
+<div class="fbShare socialIcons" data-url="https://www.apnews.com/595b6e686e324b4caf80b796cf537af1/Russia:-Asking-permission-before-taking-organs-is-%27inhumane%27" data-title="Russia: Asking permission before taking organs is &#39;inhumane&#39;" data-image="https://storage.googleapis.com/afs-prod/media/media:8aaa254cef7d4a8db34464218ef277d9/800.jpeg"
+     data-member="" data-id="urn:publicid:ap.org:595b6e686e324b4caf80b796cf537af1" data-cardType="">
+    <img src="../../dist/assets/icons/facebook-share.png" class="shareIcon"/>
+</div>
+<div class="tweet socialIcons" data-title="Russia: Asking permission before taking organs is &#39;inhumane&#39;" data-url="https://www.apnews.com/595b6e686e324b4caf80b796cf537af1"
+     data-member="" data-id="urn:publicid:ap.org:595b6e686e324b4caf80b796cf537af1" data-cardType="">
+    <img src="../../dist/assets/icons/twitter-share.png" class="shareIcon"/>
+</div>
+<div id="mailTo" class="socialIcons" data-url="https://www.apnews.com/595b6e686e324b4caf80b796cf537af1" data-member=""
+     data-id="urn:publicid:ap.org:595b6e686e324b4caf80b796cf537af1" data-cardType="">
+    <img src="../../dist/assets/icons/email.png" class="shareIcon"/>
+</div>
+<div class="deeplink socialIcons" data-url="https://www.apnews.com/595b6e686e324b4caf80b796cf537af1">
+    <img  class="deeplink-image" src="../../dist/assets/icons/permalink-field.jpg"/>
+    <span class="deeplink-text">https://www.apnews.com/595b6e686e324b4caf80b796cf537af1</span>
+    <div class="deeplink-hint">Link copied!</div>
+</div>
+<div share-container name="Russia: Asking permission before taking organs is &#39;inhumane&#39;" is-share="false" url="https://www.apnews.com/595b6e686e324b4caf80b796cf537af1" id="urn:publicid:ap.org:595b6e686e324b4caf80b796cf537af1" short-id="595b6e686e324b4caf80b796cf537af1" type="content" page="card"
+     card-type="" card-title="Russia: Asking permission before taking organs is &#39;inhumane&#39;" member-name=""></div>
+            </div>
+
+            <div class="leftRailTags leftRailTitle">
+                <h4>RELATED TOPICS</h4>
+                <ul>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/Lawsuits">Lawsuits</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/Russia">Russia</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <div>
+                <span class="leftRailTitle">More from</span><br/>
+                <a href="/tag/apf-europe"><span class="moreFrom">Europe</span></a>
+            </div>
+        </div>
+
+        
+        <div class="articleContent" id="articleContent">
+            <div class="dtTitle">
+                <ul class="topTags">
+                    
+                    <li class="tagsList">
+                        <a href="/tag/Lawsuits">Lawsuits</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/Russia">Russia</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-europe">Europe</a>
+                    </li>
+                </ul>
+                <div class="dtTitleContainer">
+                    <h1 class="topTitle">Russia: Asking permission before taking organs is &#39;inhumane&#39;</h1>
+                </div>
+            </div>
+            
+            <div class=" articleImage modalImageButton  ">
+                <div class="articleIcons">
+                    
+                    
+                </div>
+                <img class="afkl-lazy-image primaryImage" src="https://storage.googleapis.com/afs-prod/media/media:8aaa254cef7d4a8db34464218ef277d9/800.jpeg"><!--src="https://storage.googleapis.com/afs-prod/media/media:8aaa254cef7d4a8db34464218ef277d9/800.jpeg"-->
+            </div>
+            
+            <script>
+            </script>
+            <article id="contentArea"
+                     class="    ">
+                
+                <div class="mobileTitle">
+                    <ul style="padding: 0">
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Lawsuits">Lawsuits</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Russia">Russia</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-europe">Europe</a>
+                        </li>
+                    </ul>
+                    <h3>Russia: Asking permission before taking organs is &#39;inhumane&#39;</h3>
+                </div>
+                
+                <div class="tabletTitle">
+                    <ul style="padding: 0">
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Lawsuits">Lawsuits</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Russia">Russia</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-europe">Europe</a>
+                        </li>
+                    </ul>
+                    <h3>Russia: Asking permission before taking organs is &#39;inhumane&#39;</h3>
+                </div>
+                <div class="mobile">
+                    <div>
+                        <h6>By MARIA CHENG</h6>
+                    </div>
+                    <div>
+                        <h6>Yesterday</h6>
+                    </div>
+
+                </div>
+                <div class="mobile mobileShareTemplate">
+                    <!--share-container is Angular directive, search for 'searchContainer'-->
+<!--fbShare, tweet and deeplink are handled by jQuery, search for file socialMedia.js-->
+<div class="fbShare socialIcons" data-url="https://www.apnews.com/595b6e686e324b4caf80b796cf537af1/Russia:-Asking-permission-before-taking-organs-is-%27inhumane%27" data-title="Russia: Asking permission before taking organs is &#39;inhumane&#39;" data-image="https://storage.googleapis.com/afs-prod/media/media:8aaa254cef7d4a8db34464218ef277d9/800.jpeg"
+     data-member="" data-id="urn:publicid:ap.org:595b6e686e324b4caf80b796cf537af1" data-cardType="">
+    <img src="../../dist/assets/icons/facebook-share.png" class="shareIcon"/>
+</div>
+<div class="tweet socialIcons" data-title="Russia: Asking permission before taking organs is &#39;inhumane&#39;" data-url="https://www.apnews.com/595b6e686e324b4caf80b796cf537af1"
+     data-member="" data-id="urn:publicid:ap.org:595b6e686e324b4caf80b796cf537af1" data-cardType="">
+    <img src="../../dist/assets/icons/twitter-share.png" class="shareIcon"/>
+</div>
+<div id="mailTo" class="socialIcons" data-url="https://www.apnews.com/595b6e686e324b4caf80b796cf537af1" data-member=""
+     data-id="urn:publicid:ap.org:595b6e686e324b4caf80b796cf537af1" data-cardType="">
+    <img src="../../dist/assets/icons/email.png" class="shareIcon"/>
+</div>
+<div class="deeplink socialIcons" data-url="https://www.apnews.com/595b6e686e324b4caf80b796cf537af1">
+    <img  class="deeplink-image" src="../../dist/assets/icons/permalink-field.jpg"/>
+    <span class="deeplink-text">https://www.apnews.com/595b6e686e324b4caf80b796cf537af1</span>
+    <div class="deeplink-hint">Link copied!</div>
+</div>
+<div share-container name="Russia: Asking permission before taking organs is &#39;inhumane&#39;" is-share="false" url="https://www.apnews.com/595b6e686e324b4caf80b796cf537af1" id="urn:publicid:ap.org:595b6e686e324b4caf80b796cf537af1" short-id="595b6e686e324b4caf80b796cf537af1" type="content" page="card"
+     card-type="" card-title="Russia: Asking permission before taking organs is &#39;inhumane&#39;" member-name=""></div>
+                </div>
+                <div class="articleBody" mark-urls>
+                    
+<p>At least two lawsuits filed at a top European court claim Russia violated Europe's Human Rights Convention by removing organs from the recently dead without telling relatives.</p>
+<p>Russia's response: Asking relatives' permission would be "inhumane."</p>
+<p>Documents provided to The Associated Press detail how Russia is fighting charges over the way it harvests organs in two cases submitted to the European Court of Human Rights in Strasbourg, France, last year. Separate decisions are expected in the coming months.</p><div class="ad-placeholder"></div>
+<p>It is simply "inhumane" to ask family members about organ removal "almost simultaneously with notification of the death of their loved one," Russia claimed in a July memo to the court. And there is not enough time to get consent before taking organs, government lawyers added.</p>
+<p>As part of Russia's "presumed consent" system, doctors routinely &#8212; and legally &#8212; remove organs from people who have died without either their approval or that of their loved ones. Russia argues in legal briefs that if doctors were required to get permission before taking organs, people would refuse and the transplantation system would collapse.</p>
+<p>But that failure to inform grieving families, some of whom later discover their relatives' organs were secretly taken, has led to at least two lawsuits that contend the Russian law and how it is interpreted violates fundamental human rights guaranteed in Europe.</p>
+<p>Legal experts say the Russian approach to taking organs can be dangerous because it undermines trust. But some ethicists said Russia's approach should be commended &#8212; and even copied &#8212; to help the living.</p>
+<p>Many countries have presumed consent systems, including Austria, Spain and Sweden, and others across Europe are moving toward a similar approach, including England and the Netherlands. But many physicians say none is as aggressive as Russia. For example, many countries include provisions specifying that doctors cannot take organs if there are no next of kin or if the next of kin have serious misgivings.</p>
+<p>Transplant doctors say that even though they could legally remove organs from dead people without permission, it's considered unethical to do so and isn't common practice.</p>
+<p>"We respect the situation and the fact that people are suffering," said Dr. Stefan Schneeberger, a deputy director of transplant surgery at Innsbruck University in Austria. "I don't think it's reasonable to just force organ donation."</p><div class="ad-placeholder"></div>
+<p>When Galina Valyuschenko's son, Igor Verevkin, 49, suffered injuries to his head, lungs, ribs and elsewhere during a bar fight in Omsk, southwestern Siberia, in September 2010, she asked doctors not to disconnect him from life-support machines and not to remove his organs. He died within two days of being hospitalized.</p>
+<p>It was only when Valyushchenko read an autopsy report two months later that she realized the hospital's chief physician had taken her son's kidneys.</p>
+<p>"They never asked for permission to take out my son's organs, but I did not put (this) into writing because I did not know they could do this," Valyushchenko told the AP.</p>
+<p>Russia said it was legally unnecessary for doctors to advise Valyushchenko of their plans.</p>
+<p>In a document sent to the European court, Russia said that it should make families feel better, not worse, if they learn their relatives' organs were taken.</p>
+<p>"The Russian government would like to refer to a quite common phenomenon when the family of a deceased person feels emotionally comforted by the fact that the deceased person's organs were recovered for transplantation and used to save other people's lives," the document reads.</p>
+<p>That reasoning was little consolation to Valyushchenko, who brought a case to the Omsk regional court in 2013 against the doctors for improperly taking her son's organs.</p>
+<p>"They told me at the trial, why are you so upset? You should be happy the kidneys went to two guys," Valyushchenko said. The regional court dismissed her case. In her claim to the European court, Valyushchenko asked for 10,000 euros ($12,024) in compensation.</p>
+<p>The Strasbourg court considering the organ cases is an international judicial body established in 1959 by the Council of Europe, which includes Russia.</p>
+<p>If Russia is found to have violated the European human rights convention, the court could order Russia to overhaul its organ donation law.</p>
+<p>In a 2015 case involving a Latvian woman who sued the government after body tissue was removed from her deceased husband without consent, the court ruled in her favor, and Latvia amended its laws.</p>
+<p>Valyushchenko's lawyer Anton Burkov argues that Russian doctors violated her rights by subjecting her to "inhuman or degrading" treatment.</p>
+<p>"Most people never know that their relatives' organs have been taken, so they have no reason to protest," said Burkov, who works for the human rights organization Sutyajnik, based in Yekaterinburg.</p>
+<p>Burkov is also representing Elena Sablina at the European court. Sablina's daughter Alina was killed in a Moscow car crash in 2014 and, like Valyushchenko, Sablina only realized that her daughter's organs had been taken without her consent or knowledge when reviewing a criminal file weeks later.</p>
+<p>"On the ethical side, clearly Russia is unusual," said David Shaw of the Institute of Bioethics at the University of Basel in Switzerland. "I can understand the logic of needing organs for transplantation, but you don't have a leg to stand on if you don't give the family or the donor a chance to object," he said.</p>
+<p>But some ethicists said that Russia's approach is a useful and appropriate way to address a constant shortage of organs.</p>
+<p>"Russians are right to put the interests of living people before the interests of dead people, for the simple reason that the dead have no interests," said John Harris, a professor emeritus in bioethics at the University of Manchester. He said that while it might be prudent for Russian doctors to tell families that they were planning to take their relatives' organs, failing to do so was "more a question of manners than morality."</p>
+<p>Despite having instructed doctors not to remove her son's organs, even Valyushchenko acknowledges she might have changed her mind had doctors taken the time to discuss the complexities of the issue with her.</p>
+<p>"I talked to the deputy chief doctor," she said. "I asked her, why did you do this? Maybe I would have agreed to this. But you alone decided this and did not tell me," she said. "I am his mother, after all."</p>
+<p>___</p>
+<p>Cheng reported from London. Associated Press journalists Naira Davlashyan and Varya Kudryavtseva in Moscow contributed to this report.</p>
+
+                </div>
+            </article>
+            
+            <div class="taboolaContainer" id="taboolaContainer">
+                <div id="taboola-below-article-text-links"></div>
+                <div id="taboola-below-article-thumbnails-2nd"></div>
+                <div id="taboola-below-article-thumbnails"></div>
+            </div>
+        </div>
+        
+        <div class="sideRail rightRail">
+            <div class="adUnit" id="div-gpt-ad-1461247613791-2">
+            </div>
+            <script type='text/javascript'>
+                googletag.cmd.push(function () {
+                    googletag.display('div-gpt-ad-1461247613791-2');
+                });
+            </script>
+            <div class="rightRailContent" side-feed tag-id="apf-europe" content-id="595b6e686e324b4caf80b796cf537af1">
+            </div>
+            <div class="bottomAd" id="bottomAd">
+                <div class="feedAd" id="div-gpt-ad-1461247613791-1">
+                </div>
+            </div>
+            <script type='text/javascript'>
+                googletag.cmd.push(function () {
+                    googletag.display('div-gpt-ad-1461247613791-1');
+                });
+            </script>
+        </div>
+        
+
+
+    </div>
+    <div page-footer></div>
+</div>
+<script type="application/javascript" src="/dist/articleContent_1521016612264.js"></script> 
+<script type="application/javascript" src="/dist/contentTemplates_1521016624504/templates.js"></script>
+<script src="//vjs.zencdn.net/5.3/video.min.js"></script>
+<script type="text/javascript" src="//imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
+<script src="../../dist/assets/js/videojs.ads.js"></script>
+<script src="../../dist/assets/js/videojs.ima.js"></script>
+<script type="application/javascript" src="/dist/articleManager_1521016612264.js"></script> 
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push(
+            {flush: true}
+    );
+</script>
+
+<script type="text/javascript">
+    $(function () {
+        window._taboola = window._taboola || [];
+        _taboola.push(
+                {
+                    mode: 'thumbnails-a',
+                    container: 'taboola-below-article-thumbnails',
+                    placement: 'Below Article Thumbnails',
+                    target_type: 'mix'
+                }
+        );
+        _taboola.push(
+            {
+                mode: 'organic-thumbnails-a',
+                container: 'taboola-below-article-thumbnails-2nd',
+                placement: 'Below Article Thumbnails 2nd',
+                target_type: 'mix'
+            }
+        );
+        _taboola.push(
+            {
+                mode: 'organic-text-links-a',
+                container: 'taboola-below-article-text-links',
+                placement: 'Below Article Text Links',
+                target_type: 'mix'
+            }
+        );
+    });
+</script>
+<!-- Twitter universal website tag code -->
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">twttr.conversion.trackPid('nv0fp',
+        {tw_sale_amount: 0, tw_order_quantity: 0}
+);</script>
+<noscript>
+    <img height="1" width="1" style="display:none;" alt=""
+         src="https://analytics.twitter.com/i/adsct?txn_id=nv0fp&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0"/>
+    <img height="1" width="1" style="display:none;" alt=""
+         src="//t.co/i/adsct?txn_id=nv0fp&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0"/>
+</noscript>
+<!-- End Twitter universal website tag code -->
+<input id="hiddenTitle" type="hidden" value="Russia: Asking permission before taking organs is &#39;inhumane&#39;">
+<input type="hidden" value="None" id="userAccount">
+<input type="hidden" value="None" id="userToken">
+<input type="hidden" value="https://afs-prod.appspot.com" id="baseAFS">
+<input type="hidden" value="https://storage.googleapis.com/afs-prod/" id="baseGCS">
+<input type="hidden" value="31.230416,121.473701" id="latLong">
+<input type="hidden" value="31" id="region">
+<input type="hidden" value="shanghai" id="city">
+<input type="hidden" value="CN" id="country">
+
+<script type='text/javascript'>
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.sections = 'Europe';
+    _sf_async_config.authors = 'By MARIA CHENG';
+    _sf_async_config.alias = window.location.href;
+
+    /** CONFIGURATION END **/
+    (function() {
+      function loadChartbeat() {
+          window._sf_endpt = (new Date()).getTime();
+          var e = document.createElement('script');
+          e.setAttribute('language', 'javascript');
+          e.setAttribute('type', 'text/javascript');
+          e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+          document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+          loadChartbeat : function() {
+              oldonload();
+              loadChartbeat();
+          };
+
+      })();
+  </script>
+</body>
+</html>

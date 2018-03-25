@@ -1,0 +1,747 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2249023-27"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-2249023-27');
+	</script>
+	<title>Twitter CEO: The World Will Have A Single Currency | SafeHaven.com</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Despite volatility and regulatory uncertainty, Twitter CEO Jack Dorsey is making a bold claim for the future of global currencies" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="csrf_token_name" content="csrf_safehaven">
+	<meta name="csrf_hash" content="1bba1f7436069ce763abc8ad6a92d729">
+
+	<!--<meta property="fb:admins" content="578866092" />-->
+	<meta property="fb:page_id" content="1601259879967852" />
+	<meta name="author" content="Safehaven.com" />
+	<meta name="msvalidate.01" content="8ACC877552C132A56B84A9B803A459D8" />
+	<meta name="alexaVerifyID" content="E9CT9Dh1izW4XMxECSy0tQ_QleE" />
+	<meta name="y_key" content="d9e1457c0b562066">
+
+	<meta name="robots" content="noodp, noydir" />
+	<meta name="news_keywords" content="Regulation, Volatility, Cryptocurrency, Bitcoin, Twitter, Jack Dorsey, Currency, Technology, Blockchain" />
+		
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="@Safehaven" />
+	<meta name="twitter:title" content="Twitter CEO: The World Will Have A Single Currency | SafeHaven.com" />
+	<meta name="twitter:description" content="Despite volatility and regulatory uncertainty, Twitter CEO Jack Dorsey is making a bold claim for the future of global currencies" />
+	<meta name="twitter:url" content="https://safehaven.com/article/45148/Twitter-CEO-The-World-Will-Have-A-Single-Currency" />
+	<meta name="twitter:image" content="https://d2t794khe5w43b.cloudfront.net/article/718x300/d121603a2050b4dda100802d25074477.jpg" />
+		
+	<meta property="og:site_name" content="Safehaven" />
+	<meta property="og:title" content="Twitter CEO: The World Will Have A Single Currency | SafeHaven.com" />
+	<meta property="og:image" content="https://d2t794khe5w43b.cloudfront.net/article/718x300/d121603a2050b4dda100802d25074477.jpg" />
+	<meta property="og:image:secure_url" content="https://d2t794khe5w43b.cloudfront.net/article/718x300/d121603a2050b4dda100802d25074477.jpg" />
+	<meta property="og:description" content="Despite volatility and regulatory uncertainty, Twitter CEO Jack Dorsey is making a bold claim for the future of global currencies" />
+	<meta property="og:url" content="https://safehaven.com/article/45148/Twitter-CEO-The-World-Will-Have-A-Single-Currency" />
+
+	<link rel="shortcut icon" type="image/x-icon" href="https://d2p6ty67371ecn.cloudfront.net/a/img/favicon.ico" />
+
+	<link href="https://d2p6ty67371ecn.cloudfront.net/min/f=a/css/style.css,a/css/articles/style.css,a/css/category/style.css?v=5" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="https://d2p6ty67371ecn.cloudfront.net/a/js/third_party/jquery-1.12.3.min.js"></script>
+	
+	<link rel="canonical" href="https://safehaven.com/article/45148/Twitter-CEO-The-World-Will-Have-A-Single-Currency" />
+
+	<script>
+
+</script></head>
+
+<body id="pagetop" class="articles category loggedout">
+
+
+<div class="siteWrapper">
+	<div class="header">
+		<div class="siteContainer">
+			<p class="quote">&quot;No warning can save people determined to grow suddently rich&quot; - <i>Lord Overstone</i></p>
+			<a class="siteLogo" href="https://safehaven.com/"><img src="https://d2p6ty67371ecn.cloudfront.net/a/img/logo-no-light.png" alt="Crude oil prices today - Oilprice.com" title="Oil prices - Oilprice.com"><img class="logo-light" src="https://d2p6ty67371ecn.cloudfront.net/a/img/logo-light.png"></a>
+			<div class="primaryNavigation">
+				<div id="primaryNavigationButtonContainer" class="primaryNavigation__buttonContainer">
+					<a href="#" id="primaryNavigationButton" class="primaryNavigation__button">
+						<i></i><i></i><i></i>
+					</a>
+				</div>
+						<ul id="primaryNavigation" class="primaryNavigation__menu">
+				<li class="primaryNavigation__menuItem "><a href="https://safehaven.com/" class="primaryNavigation__link primaryNavigation__link--first">Home</a></li>
+			<li class="primaryNavigation__menuItem menu_item_markets "><a href="https://safehaven.com/markets/" class="primaryNavigation__link">Markets</a></li>
+				<!-- <div class="primaryNavigation__megaMenuContainer">
+					<ul class="primaryNavigation__megaMenu"> -->
+											<!-- </ul>
+					<ul class="primaryNavigation__megaMenu">
+						<li class="primaryNavigation__subMenuItem"><a href="https://safehaven.com/oilcompanynews" class="primaryNavigation__subMenuLink primaryNavigation__subMenuLinkCategory">Finance</a></li>
+						<li class="primaryNavigation__subMenuItem"><a href="https://safehaven.com/Interviews/" class="primaryNavigation__subMenuLink primaryNavigation__subMenuLinkCategory">Interviews</a></li>
+					</ul>
+				</div> -->
+			<li class="primaryNavigation__menuItem menu_item_commodities "><a href="https://safehaven.com/commodities/" class="primaryNavigation__link">Commodities</a></li>
+			<li class="primaryNavigation__menuItem menu_item_energy "><a href="https://safehaven.com/energy/" class="primaryNavigation__link">Energy</a></li>
+			<li class="primaryNavigation__menuItem menu_item_crypto "><a href="https://safehaven.com/cryptocurrencies" class="primaryNavigation__link">Cryptocurrencies</a></li>
+				<!-- <ul class="primaryNavigation__subMenu"> -->
+									</ul>
+			</li>
+								</ul>
+					<!-- /.siteContainer -->
+			</div>
+			<!-- /.primaryNavigation -->
+			<div class="primaryNavigation__icon-search"><div class="searchIcon"></div></div>
+			<form action="https://safehaven.com/search/index" id="form-search" method="post" accept-charset="utf-8">
+<input type="hidden" name="csrf_safehaven" value="1bba1f7436069ce763abc8ad6a92d729" style="display:none;" />
+				<div id="search-close" class="open">
+					<span></span>
+					<span></span>
+					<span></span>
+					<span></span>
+				</div>
+				<fieldset>
+					<label for="keyword">Type your search and press <b>Enter</b></label>
+					<input type="text" id="keyword" name="keyword" value="" placeholder="Search">
+				</fieldset>
+			</form>		</div>
+		<!-- /.siteContainer -->
+	</div>
+	<!-- /.header -->
+
+	<div class="header_charts">
+		<div class="siteContainer">
+			<div class="left_block">
+				<div class="section_bar">
+					<ul>
+						<li class="active"><a href="#" class="">Commodity Prices</a></li>
+					</ul>
+				</div>
+									<div class="blends_block active" data-id="1">
+						<div class="left_column">
+							<table>
+																	<tr class="change_up link_oilprice_row" data-id="45" data-periods="2,3,4,5,7">
+										<td class="mobile_graph"><img class="graph_up" src="https://d1o9e4un86hhpc.cloudfront.net/a/img/common/header/chart_green.svg"></td>
+										<td class="blend_name">WTI Crude <span class="dot">•</span><span class="last_updated">11 mins</span></td>
+										<td class="value">65.12 <i class="fa fa-caret-up" aria-hidden="true"></i></td>
+										<td class="change_amount">+0.82</td>
+										<td class="change_percent">+1.28%</td>
+									</tr>
+																	<tr class="change_up link_oilprice_row" data-id="46" data-periods="">
+										<td class="mobile_graph"><img class="graph_up" src="https://d1o9e4un86hhpc.cloudfront.net/a/img/common/header/chart_green.svg"></td>
+										<td class="blend_name">Brent Crude <span class="dot">•</span><span class="last_updated">11 mins</span></td>
+										<td class="value">69.14 <i class="fa fa-caret-up" aria-hidden="true"></i></td>
+										<td class="change_amount">+0.76</td>
+										<td class="change_percent">+1.11%</td>
+									</tr>
+																	<tr class="change_up link_oilprice_row" data-id="54" data-periods="4,5">
+										<td class="mobile_graph"><img class="graph_up" src="https://d1o9e4un86hhpc.cloudfront.net/a/img/common/header/chart_green.svg"></td>
+										<td class="blend_name">Ethanol <span class="dot">•</span><span class="last_updated">5 hours</span></td>
+										<td class="value">1.481 <i class="fa fa-caret-up" aria-hidden="true"></i></td>
+										<td class="change_amount">+0.010</td>
+										<td class="change_percent">+0.68%</td>
+									</tr>
+																	<tr class="change_up link_oilprice_row" data-id="51" data-periods="">
+										<td class="mobile_graph"><img class="graph_up" src="https://d1o9e4un86hhpc.cloudfront.net/a/img/common/header/chart_green.svg"></td>
+										<td class="blend_name">Natural Gas <span class="dot">•</span><span class="last_updated">12 mins</span></td>
+										<td class="value">2.662 <i class="fa fa-caret-up" aria-hidden="true"></i></td>
+										<td class="change_amount">+0.006</td>
+										<td class="change_percent">+0.23%</td>
+									</tr>
+																	<tr class="change_up link_oilprice_row" data-id="53" data-periods="">
+										<td class="mobile_graph"><img class="graph_up" src="https://d1o9e4un86hhpc.cloudfront.net/a/img/common/header/chart_green.svg"></td>
+										<td class="blend_name">Gasoline <span class="dot">•</span><span class="last_updated">15 mins</span></td>
+										<td class="value">2.037 <i class="fa fa-caret-up" aria-hidden="true"></i></td>
+										<td class="change_amount">+0.019</td>
+										<td class="change_percent">+0.93%</td>
+									</tr>
+																	<tr class="change_up link_oilprice_row" data-id="52" data-periods="">
+										<td class="mobile_graph"><img class="graph_up" src="https://d1o9e4un86hhpc.cloudfront.net/a/img/common/header/chart_green.svg"></td>
+										<td class="blend_name">Heating Oil <span class="dot">•</span><span class="last_updated">10 mins</span></td>
+										<td class="value">2.011 <i class="fa fa-caret-up" aria-hidden="true"></i></td>
+										<td class="change_amount">+0.016</td>
+										<td class="change_percent">+0.80%</td>
+									</tr>
+															</table>
+						</div>
+						<div class="right_column">
+							<table>
+																	<tr class="change_up link_oilprice_row" data-id="53" data-periods="">
+										<td class="mobile_graph"><img src="https://d1o9e4un86hhpc.cloudfront.net/a/img/common/header/chart.svg"></td>
+										<td class="spacer"></td>
+										<td class="blend_name">Gasoline <span class="dot">•</span> <span class="last_updated">15 mins</span></td>
+										<td class="value">2.037  <i class="fa fa-caret-up" aria-hidden="true"></i></td>
+										<td class="change_amount">+0.019</td>
+										<td class="change_percent">+0.93%</td>
+									</tr>
+																	<tr class="change_up link_oilprice_row" data-id="52" data-periods="">
+										<td class="mobile_graph"><img src="https://d1o9e4un86hhpc.cloudfront.net/a/img/common/header/chart.svg"></td>
+										<td class="spacer"></td>
+										<td class="blend_name">Heating Oil <span class="dot">•</span> <span class="last_updated">10 mins</span></td>
+										<td class="value">2.011  <i class="fa fa-caret-up" aria-hidden="true"></i></td>
+										<td class="change_amount">+0.016</td>
+										<td class="change_percent">+0.80%</td>
+									</tr>
+																	<tr class="change_up link_oilprice_row" data-id="29" data-periods="4,5,7">
+										<td class="mobile_graph"><img src="https://d1o9e4un86hhpc.cloudfront.net/a/img/common/header/chart.svg"></td>
+										<td class="spacer"></td>
+										<td class="blend_name">Opec Basket <span class="dot">•</span> <span class="last_updated">2 days</span></td>
+										<td class="value">65.39  <i class="fa fa-caret-up" aria-hidden="true"></i></td>
+										<td class="change_amount">+1.28</td>
+										<td class="change_percent">+2.00%</td>
+									</tr>
+																	<tr class="change_up link_oilprice_row" data-id="gc" data-periods="4,5,7">
+										<td class="mobile_graph"><img src="https://d1o9e4un86hhpc.cloudfront.net/a/img/common/header/chart.svg"></td>
+										<td class="spacer"></td>
+										<td class="blend_name">Gold <span class="dot">•</span> <span class="last_updated">10 mins</span></td>
+										<td class="value">1,338.60  <i class="fa fa-caret-up" aria-hidden="true"></i></td>
+										<td class="change_amount">+11.20</td>
+										<td class="change_percent">+0.84%</td>
+									</tr>
+															</table>
+						</div>
+					</div>
+
+
+							</div>
+			<div class="middle_block">
+				<div class="header_bar">
+					<ul class="graph_changer">
+						<li class="active"><a href="#" data-id="2">1D</a></li>
+						<li class=""><a href="#" data-id="4">1M</a></li>
+						<li class=""><a href="#" data-id="6">3M</a></li>
+						<li class=""><a href="#" data-id="5">1Y</a></li>
+					</ul>
+					<!--<a class="all_charts" href="http://localhost/oil-price-charts">All Charts</a>-->
+				</div>
+				<div class="graph_area" data-blend="45">
+					<img data-base="https://d32r1sh890xpii.cloudfront.net/header_graphs/blend_" src="https://d32r1sh890xpii.cloudfront.net/header_graphs/blend_45_2.png?cb=1521773409">
+				</div>
+			</div>
+			<div class="right_block">
+				<div class="header_bar">
+					<ul>
+						<li class="active"><a href="#" class="">Headlines</a></li>
+						<!--<li><a href="#" class="">Community</a></li>-->
+					</ul>
+					<a href="#" class="news_scroll_up"><i class="fa fa-caret-up" aria-hidden="true"></i></a>
+					<a href="#" class="news_scroll_down active"><i class="fa fa-caret-down" aria-hidden="true"></i></a>
+				</div>
+				<div class="news_block">
+					<ul>
+						<li>
+	<div class='headline_row' data-id='0'>
+		<a href='https://safehaven.com/article/45148/Twitter-CEO-The-World-Will-Have-A-Single-Currency' class='full_parent'></a>
+		<span class='time_ago'>4 hours</span>
+		<span class='article_name'>Twitter CEO: The World Will Have A Single Currency</span>
+	</div>
+</li><li>
+	<div class='headline_row' data-id='1'>
+		<a href='https://safehaven.com/article/45147/Asian-Currency-Correction-Could-Signal-Looming-Crisis' class='full_parent'></a>
+		<span class='time_ago'>5 hours</span>
+		<span class='article_name'>Asian Currency Correction Could Signal Looming Crisis</span>
+	</div>
+</li><li>
+	<div class='headline_row' data-id='2'>
+		<a href='https://safehaven.com/article/45146/Best-Buy-Drops-Telecom-Giant-Over-National-Security-Threat' class='full_parent'></a>
+		<span class='time_ago'>6 hours</span>
+		<span class='article_name'>Best Buy Drops Telecom Giant Over National Security Threat</span>
+	</div>
+</li><li>
+	<div class='headline_row' data-id='3'>
+		<a href='https://safehaven.com/article/45145/The-Pros-And-Cons-Of-The-Federal-Interest-Rate-Hike' class='full_parent'></a>
+		<span class='time_ago'>7 hours</span>
+		<span class='article_name'>The Pros And Cons Of The Federal Interest Rate Hike</span>
+	</div>
+</li><li>
+	<div class='headline_row' data-id='4'>
+		<a href='https://safehaven.com/article/45144/Good-News-For-Gold-Bulls-Despite-Interest-Rate-Hike' class='full_parent'></a>
+		<span class='time_ago'>8 hours</span>
+		<span class='article_name'>Good News For Gold Bulls Despite Interest Rate Hike</span>
+	</div>
+</li><li>
+	<div class='headline_row' data-id='5'>
+		<a href='https://safehaven.com/article/45143/Trump-Hits-China-With-50-Billion-Tariffs' class='full_parent'></a>
+		<span class='time_ago'>10 hours</span>
+		<span class='article_name'>Trump Hits China With $50 Billion In Tariffs</span>
+	</div>
+</li><li>
+	<div class='headline_row' data-id='6'>
+		<a href='https://safehaven.com/article/45142/Russian-Gold-Reserves-Hit-Record-High-Amid-Rising-Tensions-With-West' class='full_parent'></a>
+		<span class='time_ago'>11 hours</span>
+		<span class='article_name'>Russian Gold Reserves Hit Record High Amid Rising Tensions With West</span>
+	</div>
+</li><li>
+	<div class='headline_row' data-id='7'>
+		<a href='https://safehaven.com/article/45141/Stocks-Pull-Back-Following-Interest-Rate-Hike' class='full_parent'></a>
+		<span class='time_ago'>12 hours</span>
+		<span class='article_name'>Stocks Pull Back Following Interest Rate Hike</span>
+	</div>
+</li><li>
+	<div class='headline_row' data-id='8'>
+		<a href='https://safehaven.com/article/45140/Will-Regulatory-Rollbacks-Make-Banks-Too-Big-To-Fail' class='full_parent'></a>
+		<span class='time_ago'>1 day</span>
+		<span class='article_name'>Will Regulatory Rollbacks Make Banks 'Too Big To Fail?'</span>
+	</div>
+</li><li>
+	<div class='headline_row' data-id='9'>
+		<a href='https://safehaven.com/article/45139/Elon-Musks-26-Billion-Tesla-Challenge' class='full_parent'></a>
+		<span class='time_ago'>1 day</span>
+		<span class='article_name'>Elon Musk’s $2.6 Billion Tesla Challenge</span>
+	</div>
+</li><li>
+	<div class='headline_row' data-id='10'>
+		<a href='https://safehaven.com/article/45138/Tech-Giants-Could-Be-First-Victims-Of-US-Trade-War' class='full_parent'></a>
+		<span class='time_ago'>1 day</span>
+		<span class='article_name'>Tech Giants Could Be First Victims Of U.S. Trade War</span>
+	</div>
+</li><li>
+	<div class='headline_row' data-id='11'>
+		<a href='https://safehaven.com/article/45137/Dow-Gains-Despite-Feds-Rate-Hike' class='full_parent'></a>
+		<span class='time_ago'>1 day</span>
+		<span class='article_name'>Dow Gains Despite Fed’s Rate Hike</span>
+	</div>
+</li><li>
+	<div class='headline_row' data-id='12'>
+		<a href='https://safehaven.com/article/45136/The-Biggest-Threat-To-Chinese-Oil-Futures' class='full_parent'></a>
+		<span class='time_ago'>1 day</span>
+		<span class='article_name'>The Biggest Threat To Chinese Oil Futures</span>
+	</div>
+</li><li>
+	<div class='headline_row' data-id='13'>
+		<a href='https://safehaven.com/article/45135/Spending-Bill-Could-Cause-US-Debt-To-Soar-To-99-Of-GDP' class='full_parent'></a>
+		<span class='time_ago'>1 day</span>
+		<span class='article_name'>Spending Bill Could Cause U.S. Debt To Soar To 99% Of GDP</span>
+	</div>
+</li><li>
+	<div class='headline_row' data-id='14'>
+		<a href='https://safehaven.com/article/45134/Precious-Metals-Slide-Ahead-Of-Feds-Interest-Rate-Decision' class='full_parent'></a>
+		<span class='time_ago'>1 day</span>
+		<span class='article_name'>Precious Metals Slide Ahead Of Fed’s Interest Rate Decision</span>
+	</div>
+</li><li>
+	<div class='headline_row' data-id='15'>
+		<a href='https://safehaven.com/article/45133/Chinas-Soft-Power-Grab-May-Be-Bad-News-For-Emerging-Economies' class='full_parent'></a>
+		<span class='time_ago'>2 days</span>
+		<span class='article_name'>China’s Soft Power Grab May Be Bad News For Emerging Economies</span>
+	</div>
+</li><li>
+	<div class='headline_row' data-id='16'>
+		<a href='https://safehaven.com/article/45132/The-Secretive-Wall-Street-Firm-Betting-On-Bitcoin' class='full_parent'></a>
+		<span class='time_ago'>2 days</span>
+		<span class='article_name'>The Secretive Wall Street Firm Betting On Bitcoin</span>
+	</div>
+</li><li>
+	<div class='headline_row' data-id='17'>
+		<a href='https://safehaven.com/article/45131/Data-Is-King-The-Oil-Industrys-Next-Most-Valuable-Resource' class='full_parent'></a>
+		<span class='time_ago'>2 days</span>
+		<span class='article_name'>‘Data Is King’: The Oil Industry’s Next Most Valuable Resource</span>
+	</div>
+</li><li>
+	<div class='headline_row' data-id='18'>
+		<a href='https://safehaven.com/article/45130/Google-Invests-300-Million-To-Combat-Fake-News' class='full_parent'></a>
+		<span class='time_ago'>2 days</span>
+		<span class='article_name'>Google Invests $300 Million To Combat Fake News</span>
+	</div>
+</li><li>
+	<div class='headline_row' data-id='19'>
+		<a href='https://safehaven.com/article/45129/Zuckerberg-Dodges-A-Bullet-As-Facebook-Loses-Billions' class='full_parent'></a>
+		<span class='time_ago'>2 days</span>
+		<span class='article_name'>Zuckerberg Dodges A Bullet As Facebook Loses Billions</span>
+	</div>
+</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+		<div id="pagecontent">
+		<link href="https://safehaven.com/a/css/third_party/featherlight.css" rel="stylesheet" media="screen" type="text/css">
+
+<div class="articleOtherNews" data-mi-id="">
+	<div class="siteContainer">
+		<div class="tableGrid">
+
+							<div class="tableGrid__column">
+					<a href="https://safehaven.com/article/45132/The-Secretive-Wall-Street-Firm-Betting-On-Bitcoin"><img src="https://d2t794khe5w43b.cloudfront.net/article/110x92/fcb9912e8bfa8a87911681f08c2a9bc9.jpg" onerror="handleImageError(this,'https://d2p6ty67371ecn.cloudfront.net/a/img/content/110x92-default.png')" alt="The Secretive Wall Street Firm Betting On Bitcoin" title="The Secretive Wall Street Firm Betting On Bitcoin" class="articleOtherNews__image"></a>
+					<div class="articleOtherNews__text">
+						<h3 class="articleOtherNews__title"><a href="https://safehaven.com/article/45132/The-Secretive-Wall-Street-Firm-Betting-On-Bitcoin">The Secretive Wall Street Firm Betting On Bitcoin</a></h3>
+						<p class="articleOtherNews__excerpt">A little-known Wall Street firm&#8230;</p>
+					</div>
+					<!-- /.articleOtherNewsText -->
+									</div>
+				<!-- /.tableGrid__column -->
+							<div class="tableGrid__column">
+					<a href="https://safehaven.com/article/45123/Cryptos-Resist-Social-Media-Crackdown"><img src="https://d2t794khe5w43b.cloudfront.net/article/110x92/4a9644a4997385a320f94eaa3f7812fd.jpg" onerror="handleImageError(this,'https://d2p6ty67371ecn.cloudfront.net/a/img/content/110x92-default.png')" alt="Cryptos Resist Social Media Crackdown" title="Cryptos Resist Social Media Crackdown" class="articleOtherNews__image"></a>
+					<div class="articleOtherNews__text">
+						<h3 class="articleOtherNews__title"><a href="https://safehaven.com/article/45123/Cryptos-Resist-Social-Media-Crackdown">Cryptos Resist Social Media Crackdown</a></h3>
+						<p class="articleOtherNews__excerpt">Taking a cue from Facebook&#8230;</p>
+					</div>
+					<!-- /.articleOtherNewsText -->
+									</div>
+				<!-- /.tableGrid__column -->
+							<div class="tableGrid__column">
+					<a href="https://safehaven.com/article/45134/Precious-Metals-Slide-Ahead-Of-Feds-Interest-Rate-Decision"><img src="https://d2t794khe5w43b.cloudfront.net/article/110x92/2d96355c20831e0f5e6a7cc3c7c91ce4.jpg" onerror="handleImageError(this,'https://d2p6ty67371ecn.cloudfront.net/a/img/content/110x92-default.png')" alt="Precious Metals Slide Ahead Of Fed’s Interest Rate Decision" title="Precious Metals Slide Ahead Of Fed’s Interest Rate Decision" class="articleOtherNews__image"></a>
+					<div class="articleOtherNews__text">
+						<h3 class="articleOtherNews__title"><a href="https://safehaven.com/article/45134/Precious-Metals-Slide-Ahead-Of-Feds-Interest-Rate-Decision">Precious Metals Slide Ahead Of Fed’s Interest Rate Decision</a></h3>
+						<p class="articleOtherNews__excerpt">With the two-day FOMC meeting&#8230;</p>
+					</div>
+					<!-- /.articleOtherNewsText -->
+									</div>
+				<!-- /.tableGrid__column -->
+			
+			
+		</div>
+		<!-- /.tableGrid -->
+	</div>
+	<!-- /.siteContainer -->
+</div>
+<!-- /.articleOtherNews -->
+
+<div class="siteContainer singleArticleWrapper">
+  <div class="tableGrid">
+    <div class="tableGrid__column tableGrid__column--articleContent singleArticle">
+
+	    <div class="singleArticle__wrapper">
+		    <div id="singleArticle__sidebar" class="singleArticle__sidebar">
+			    							<div class="authorBox">
+								<img src="https://d2t794khe5w43b.cloudfront.net/avatars/small/cfcf03127309575d2f18178bf8387fbb.jpg" alt="Michael Kern" title="Michael Kern" class="authorBox__avatar">
+								<p class="authorBox__authorName">Michael Kern</p>
+								<p class="authorBox__authorBio">Michael Kern is a newswriter and editor at Safehaven.com and Oilprice.com, and a writer at Crypto Insider. Michael has several years of experience covering cryptocurrencies,&#8230;</p>
+								<p><a class="authorBox__moreInfo" href="https://safehaven.com/contributors/michael-kern-833">More Info</a></p>
+								<!-- /.authorBox__authorBio -->
+							</div>
+							<!-- /.authorBox -->
+										    
+			    <div class="sidebarShare">
+				    <div class="sectionHeading"><h2 class="sectionHeading__title sidebarRelatedArticles__title">Share</h2></div>
+				    <ul class="sidebarShareLinks">
+					    <li class="facebook"><a href="http://www.facebook.com/share.php?u=https%3A%2F%2Fsafehaven.com%2Farticle%2F45148%2FTwitter-CEO-The-World-Will-Have-A-Single-Currency&t=" class="article-share-btn facebook-share-btn" rel="external nofollow"><i></i>Facebook</a></li>
+					    <li class="twitter"><a href="https://twitter.com/intent/tweet?text=Twitter+CEO%3A+The+World+Will+Have+A+Single+Currency+%7C+Safehaven&url=https%3A%2F%2Fsafehaven.com%2Farticle%2F45148%2FTwitter-CEO-The-World-Will-Have-A-Single-Currency&hashtags=safehaven" id="share-twitter" class="article-share-btn twitter-share-btn" rel="external nofollow"><i></i>Twitter</a></li>
+					    <li class="google"><a href="https://plus.google.com/share?url=https%3A%2F%2Fsafehaven.com%2Farticle%2F45148%2FTwitter-CEO-The-World-Will-Have-A-Single-Currency" id="share-googleplus" class="article-share-btn google-share-btn" rel="external nofollow"><i></i>Google +</a></li>
+					    <li class="linkedin"><a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsafehaven.com%2Farticle%2F45148%2FTwitter-CEO-The-World-Will-Have-A-Single-Currency&title=Twitter+CEO%3A+The+World+Will+Have+A+Single+Currency+%7C+Safehaven&summary=Volatility may rule the day as regulatory uncertainty divides analysts on what will come next for cryptocurrency, but according to Twitter CEO Jack Dorsey, 10 years from now&mdash;or less&mdash;bitcoin is likely to emerge as the world&rsquo;s only currency.Everyone knows Dorsey, also the CEO of Square, is a raging bitcoin bull,&#8230;&source=safehaven.com" class="article-share-btn linkedin-share-btn" rel="external nofollow"><i></i>Linkedin</a></li>
+					    <li class="reddit"><a href="http://reddit.com/submit?url=https%3A%2F%2Fsafehaven.com%2Farticle%2F45148%2FTwitter-CEO-The-World-Will-Have-A-Single-Currency&title=Twitter+CEO%3A+The+World+Will+Have+A+Single+Currency" class="article-share-btn reddit-share-btn" rel="external nofollow"><i></i>Reddit</a></li>
+
+				    </ul>
+				    <!-- /.sidebarRelatedArticles -->
+			    </div>
+			    <!-- /.sidebarRelatedArticles -->
+
+			    <div class="sidebarRelatedArticles">
+				    <div class="sectionHeading"><h2 class="sectionHeading__title sidebarRelatedArticles__title">Related News</h2></div>
+				    <ul class="sidebarRelatedArticles__list">
+					    						    <li class="sidebarRelatedArticles__item"><a class="sidebarRelatedArticles__itemLink" href="https://safehaven.com/article/45123/Cryptos-Resist-Social-Media-Crackdown">Cryptos Resist Social Media Crackdown</a></li>
+					    						    <li class="sidebarRelatedArticles__item"><a class="sidebarRelatedArticles__itemLink" href="https://safehaven.com/article/45121/Bitcoin-Bounces-Back-Ahead-Of-G20-Meeting">Bitcoin Bounces Back Ahead Of G20 Meeting</a></li>
+					    						    <li class="sidebarRelatedArticles__item"><a class="sidebarRelatedArticles__itemLink" href="https://safehaven.com/article/45109/How-Low-Can-Bitcoin-Go">How Low Can Bitcoin Go?</a></li>
+					    						    <li class="sidebarRelatedArticles__item"><a class="sidebarRelatedArticles__itemLink" href="https://safehaven.com/article/45101/SEC-And-IRS-Take-An-Aggressive-Stance-On-Cryptocurrencies">SEC And IRS Take An Aggressive Stance On Cryptocurrencies</a></li>
+					    						    <li class="sidebarRelatedArticles__item"><a class="sidebarRelatedArticles__itemLink" href="https://safehaven.com/article/45099/Bitcoin-Is-Winning-Over-Housing-Market">Bitcoin Is Winning Over The Housing Market</a></li>
+					    				    </ul>
+				    <!-- /.sidebarRelatedArticles -->
+			    </div>
+			    <!-- /.sidebarRelatedArticles -->
+
+		    </div>
+		    <!-- /.singleArticle__sidebar -->
+
+		    <div id="singleArticle__content" data-spons="0" data-id="45148" class="singleArticle__content" >
+
+			    			    			    <h1>Twitter CEO: The World Will Have A Single Currency</h1>
+											<span class="article_byline">By <a href="https://safehaven.com/contributors/michael-kern-833">Michael Kern</a> - Mar 22, 2018, 3:45 PM CDT</span>
+						
+					<script type="application/ld+json">
+					{
+					  "@context": "http://schema.org",
+					  "@type": "NewsArticle",
+					  "url": "https://safehaven.com/article/45148/Twitter-CEO-The-World-Will-Have-A-Single-Currency",
+						"datePublished": "2018-03-22T18:00:00-05:00",
+						"dateModified": "2018-03-22T18:57:43-05:00",
+						"dateCreated": "2018-03-22T18:00:00-05:00",
+						"wordCount": "584",
+						"inLanguage": "en-US",
+						"name": "Twitter CEO: The World Will Have A Single Currency",
+						"description": "Despite volatility and regulatory uncertainty, Twitter CEO Jack Dorsey is making a bold claim for the future of global currencies",
+						"articleBody": "Volatility may rule the day as regulatory uncertainty divides analysts on what will come next for cryptocurrency, but according to Twitter CEO Jack Dorsey, 10 years from now&mdash;or less&mdash;bitcoin is likely to emerge as the world&rsquo;s only currency.  Everyone knows Dorsey, also the CEO of Square, is a raging bitcoin bull, but he&rsquo;s taken things one step further in a Wednesday interview with The Times in his biggest endorsement yet.&nbsp;  &ldquo;The world ultimately will have a single currency, the internet will have a single currency. I personally believe that it will be bitcoin,&rdquo; Dorsey told The Times.  And while Dorsey says that bitcoin &ldquo;does not have the capabilities right now to become an effective currency&rdquo;, he defines &ldquo;ultimately&rdquo; as &ldquo;probably over ten years, but it could go faster&rdquo;.  Bitcoin may be struggling with scaling and approachability issues that are slowing it down, but &ldquo;as more and more people have it, those things go away. There are newer technologies that build off of blockchain and make it more approachable&rdquo;.  It&rsquo;s not the first time Dorsey has endorsed bitcoin generously.  In an earlier interview with The Verge, he called the original cryptocurrency&mdash;and its underlying blockchain technology, the &ldquo;next big unlock&rdquo; for global finance.  Related: Trump Hits China With $50 Billion In Tariffs  But before rushing out to buy bitcoin on the eve of its world domination tour, investors will be noting that Dorsey&rsquo;s comments come amid a promotional tour of his own, for Square, Inc. (NYSE:SQ), which recently dropped hints that it may try to rival the biggest crypto exchanges on the market, like Coinbase and Kraken.  With talk on Wall Street already comparing Square to &ldquo;Amazon in the early days,&rdquo; Dorsey has every reason to endorse bitcoin with a renewed vigor.  Square is working to do just what Dorsey says bitcoin needs: make transactions cheaper and faster.   Last November, Square held trials allowing users to buy and sell bitcoin using the company&rsquo;s Cash App, which already has 7 million users. Now, Square is offering the bitcoin service in Wyoming and eyeing licenses in other states, with New York on the top of its list.  Square is taking the mobile payments segment by storm&mdash;so far--so many will be forgiven for buying into the bitcoin endorsement.  By Michael Kern for Safehaven.com  More Top Reads From Safehaven.com:    The Pros And Cons Of The Federal Interest Rate Hike  Best Buy Drops Telecom Giant Over National Security Threat  Asian Currency Correction Could Signal Looming Crisis",
+						"headline": "Twitter CEO: The World Will Have A Single Currency",
+						"about": [{
+							"@type": "Thing",
+							"description": "Despite volatility and regulatory uncertainty, Twitter CEO Jack Dorsey is making a bold claim for the future of global currencies"
+						}],
+						"mainEntityOfPage": "https://safehaven.com/article/45148/Twitter-CEO-The-World-Will-Have-A-Single-Currency",
+													"image": [{
+								"@type": "ImageObject",
+								"url": "https://d2t794khe5w43b.cloudfront.net/article/718x300/d121603a2050b4dda100802d25074477.jpg",
+								"height": "700",
+								"width": "1680"
+							}],
+																		"copyrightHolder": [{
+							"@type": "Organization",
+							"name": "SafeHaven.com",
+							"url": "https://safehaven.com/",
+							"description": "Preservation of Capital"
+						}],
+						"publisher": [{
+							"@type": "Organization",
+							"name": "SafeHaven.com",
+							"url": "https://safehaven.com/",
+							"description": "Preservation of Capital",
+							"logo": [{
+								"@type": "ImageObject",
+								"url": "https://safehaven.com/a/img/logo-no-light.png",
+								"height": "72",
+								"width": "352"
+							}]
+						}],
+						"audience": [{
+							"@type": "Audience",
+							"audienceType": "BusinessAudience"
+						}]
+					}
+					</script>
+
+											<picture>
+																<source media="(max-width: 480px)" srcset="https://d2t794khe5w43b.cloudfront.net/article/495x320/d121603a2050b4dda100802d25074477.jpg">
+																									<img src="https://d2t794khe5w43b.cloudfront.net/article/718x300/d121603a2050b4dda100802d25074477.jpg" class="singleArticle__articleImage" alt="BTC" title="BTC" >
+															</picture>
+						
+			    						<div id="article-content" class="wysiwyg clear">
+							<p>Volatility may rule the day as regulatory uncertainty divides analysts on what will come next for cryptocurrency, but according to Twitter CEO Jack Dorsey, 10 years from now&mdash;or less&mdash;bitcoin is likely to emerge as the world&rsquo;s only currency.</p><p>Everyone knows Dorsey, also the CEO of Square, is a raging bitcoin bull, but he&rsquo;s taken things one step further in a Wednesday interview with <a href="https://www.thetimes.co.uk/article/bitcoin-will-become-the-worlds-single-currency-tech-chief-says-66slm0p6b">The Times</a> in his biggest endorsement yet.&nbsp;</p><p>&ldquo;The world ultimately will have a single currency, the internet will have a single currency. I personally believe that it will be bitcoin,&rdquo; Dorsey told The Times.</p><p>And while Dorsey says that bitcoin &ldquo;does not have the capabilities right now to become an effective currency&rdquo;, he defines &ldquo;ultimately&rdquo; as &ldquo;probably over ten years, but it could go faster&rdquo;.</p><p>Bitcoin may be struggling with scaling and approachability issues that are slowing it down, but &ldquo;as more and more people have it, those things go away. There are newer technologies that build off of blockchain and make it more approachable&rdquo;.</p><p>It&rsquo;s not the first time Dorsey has endorsed bitcoin generously.</p><p>In an earlier interview with <a href="https://www.theverge.com/2017/8/11/16126610/square-twitter-founder-jack-dorsey-blockchain-bitcoin-banks">The Verge</a>, he called the original cryptocurrency&mdash;and its underlying blockchain technology, the &ldquo;next big unlock&rdquo; for global finance. <span style="color: #800000;"><strong class="related"> <a href="https://safehaven.com/article/45143/Trump-Hits-China-With-50-Billion-Tariffs">Related: Trump Hits China With $50 Billion In Tariffs</a></strong></span></p><p>But before rushing out to buy bitcoin on the eve of its world domination tour, investors will be noting that Dorsey&rsquo;s comments come amid a promotional tour of his own, for Square, Inc. (NYSE:SQ), which <a href="https://safehaven.com/article/45096/Bitcoin-And-Banking-The-Next-Mobile-Payment-Revolution">recently dropped hints</a> that it may try to rival the biggest crypto exchanges on the market, like Coinbase and Kraken.</p><p>With talk on Wall Street already comparing Square to &ldquo;Amazon in the early days,&rdquo; Dorsey has every reason to endorse bitcoin with a renewed vigor.</p><p>Square is working to do just what Dorsey says bitcoin needs: make transactions cheaper and faster. <br /> <br /> Last November, Square held trials allowing users to buy and sell bitcoin using the company&rsquo;s Cash App, which already has 7 million users. Now, Square is offering the bitcoin service in <a href="https://cointelegraph.com/news/square-cash-adds-btc-buysell-option-for-wyoming-customers-working-on-new-york">Wyoming</a> and <a href="https://www.coindesk.com/twitter-ceo-jack-dorsey-bitcoin-will-be-the-worlds-single-currency/">eyeing licenses in other states</a>, with New York on the top of its list.</p><p>Square is taking the mobile payments segment by storm&mdash;so far--so many will be forgiven for buying into the bitcoin endorsement.</p><p>By Michael Kern for Safehaven.com</p><p><strong>More Top Reads From Safehaven.com:</strong></p><ul><li><span style="color: #800000;"><strong><a href="https://safehaven.com/article/45145/The-Pros-And-Cons-Of-The-Federal-Interest-Rate-Hike">The Pros And Cons Of The Federal Interest Rate Hike</a></strong></span></li><li><span style="color: #800000;"><strong><a href="https://safehaven.com/article/45146/Best-Buy-Drops-Telecom-Giant-Over-National-Security-Threat">Best Buy Drops Telecom Giant Over National Security Threat</a></strong></span></li><li><span style="color: #800000;"><strong><a href="https://safehaven.com/article/45147/Asian-Currency-Correction-Could-Signal-Looming-Crisis">Asian Currency Correction Could Signal Looming Crisis</a></strong></span></li></ul>						</div>
+						
+										<p><a href="https://safehaven.com/">Back to homepage</a></p>
+
+		    </div>
+		    <!-- /.singleArticle__content -->
+
+	    </div>
+	    <!-- /.singleArticle__wrapper -->
+
+			<div id="bannerzone2">	<div id="banner2" class="banner">
+	<div class="solar_banner"><a href="https://oilprice.com/er/video?utm_source=safehaven&utm_medium=banner&utm_campaign=solar&utm_content=2" rel="external nofollow" class="full_parent"></a><img src="/a/img/banners/solar/3/text.png" class="banner_text"><img src="/a/img/banners/solar/3/image.png" class="banner_image"></a></div>	</div>
+	</div><!--/#bannerzone2-->
+			<div class="share-buttons">
+				<script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+				<a href="http://www.facebook.com/share.php?u=https%3A%2F%2Fsafehaven.com%2Farticle%2F45148%2FTwitter-CEO-The-World-Will-Have-A-Single-Currency&t=" class="article-share-btn facebook-share-btn" rel="external nofollow"><i></i>FACEBOOK</a>
+				<a href="https://twitter.com/intent/tweet?text=Twitter+CEO%3A+The+World+Will+Have+A+Single+Currency+%7C+Safehaven&url=https%3A%2F%2Fsafehaven.com%2Farticle%2F45148%2FTwitter-CEO-The-World-Will-Have-A-Single-Currency&hashtags=safehaven" id="share-twitter" class="article-share-btn twitter-share-btn" rel="external nofollow"><i></i>Twitter</a>
+				<a href="https://plus.google.com/share?url=https%3A%2F%2Fsafehaven.com%2Farticle%2F45148%2FTwitter-CEO-The-World-Will-Have-A-Single-Currency" id="share-googleplus" class="article-share-btn google-share-btn" rel="external nofollow"><i></i>GOOGLE+</a>
+				<a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsafehaven.com%2Farticle%2F45148%2FTwitter-CEO-The-World-Will-Have-A-Single-Currency&title=Twitter+CEO%3A+The+World+Will+Have+A+Single+Currency+%7C+Safehaven&summary=Volatility may rule the day as regulatory uncertainty divides analysts on what will come next for cryptocurrency, but according to Twitter CEO Jack Dorsey, 10 years from now&mdash;or less&mdash;bitcoin is likely to emerge as the world&rsquo;s only currency.Everyone knows Dorsey, also the CEO of Square, is a raging bitcoin bull,&#8230;&source=safehaven.com" class="article-share-btn linkedin-share-btn" rel="external nofollow"><i></i>LINKEDIN</a>
+				<a href="http://reddit.com/submit?url=https%3A%2F%2Fsafehaven.com%2Farticle%2F45148%2FTwitter-CEO-The-World-Will-Have-A-Single-Currency&title=Twitter+CEO%3A+The+World+Will+Have+A+Single+Currency" class="article-share-btn reddit-share-btn" rel="external nofollow"><i></i>REDDIT</a>
+				<a href="#" class="article-share-btn print-share-btn" rel="external nofollow" onClick="window.print()"><i class="fa fa-print" aria-hidden="true"></i>PRINT</a>
+			</div>
+
+      <div class="singleArticle__navigation">
+                  <a href="https://safehaven.com/article/45134/Precious-Metals-Slide-Ahead-Of-Feds-Interest-Rate-Decision" class="singleArticle__navigation__previous">
+            <div class="singleArticle__navigation__previousContent">
+              <p class="singleArticle__navigation__title"><span class="singleArticle__navigation__titleLink">Previous Post</span></p>
+              <p class="singleArticle__navigation__articleTitle"><span class="singleArticle__navigation__articleTitleLink">Precious Metals Slide Ahead Of Fed’s Interest Rate Decision</span></p>
+            </div>
+            <!-- /.singleArticle__navigation__previousContent -->
+          </a>
+                      </div>
+      <!-- /.singleArticle__navigation -->
+
+			
+      <div class="articleRelatedPosts">
+        <h2 class="articleRelatedPosts__heading">Related posts</h2>
+        <div>
+        <div class="grid grid__edgeToEdge">
+
+                      <a href="https://safehaven.com/article/45134/Precious-Metals-Slide-Ahead-Of-Feds-Interest-Rate-Decision" class="grid__col grid__3col articleRelatedPosts__article">
+
+				<picture>
+					<source media="(max-width: 480px)" srcset="https://d2t794khe5w43b.cloudfront.net/article/495x320/2d96355c20831e0f5e6a7cc3c7c91ce4.jpg">
+
+					<img src="https://d2t794khe5w43b.cloudfront.net/article/495x320/2d96355c20831e0f5e6a7cc3c7c91ce4.jpg" class="articleRelatedPosts__image" alt="Precious Metals Slide Ahead Of Fed’s Interest Rate Decision" title="Precious Metals Slide Ahead Of Fed’s Interest Rate Decision" >
+				</picture>
+
+              <h3 class="articleRelatedPosts__articleTitle">Precious Metals Slide Ahead Of Fed’s Interest Rate Decision</h3>
+            </a>
+            <!-- /.grid__col -->
+                      <a href="https://safehaven.com/article/45132/The-Secretive-Wall-Street-Firm-Betting-On-Bitcoin" class="grid__col grid__3col articleRelatedPosts__article">
+
+				<picture>
+					<source media="(max-width: 480px)" srcset="https://d2t794khe5w43b.cloudfront.net/article/495x320/fcb9912e8bfa8a87911681f08c2a9bc9.jpg">
+
+					<img src="https://d2t794khe5w43b.cloudfront.net/article/495x320/fcb9912e8bfa8a87911681f08c2a9bc9.jpg" class="articleRelatedPosts__image" alt="The Secretive Wall Street Firm Betting On Bitcoin" title="The Secretive Wall Street Firm Betting On Bitcoin" >
+				</picture>
+
+              <h3 class="articleRelatedPosts__articleTitle">The Secretive Wall Street Firm Betting On Bitcoin</h3>
+            </a>
+            <!-- /.grid__col -->
+                      <a href="https://safehaven.com/article/45127/Are-Alt-Coins-On-The-Verge-Of-A-Break-Out" class="grid__col grid__3col articleRelatedPosts__article">
+
+				<picture>
+					<source media="(max-width: 480px)" srcset="https://d2t794khe5w43b.cloudfront.net/article/495x320/bbf4f83bb726134ac4fbec181936bebf.jpg">
+
+					<img src="https://d2t794khe5w43b.cloudfront.net/article/495x320/bbf4f83bb726134ac4fbec181936bebf.jpg" class="articleRelatedPosts__image" alt="Are Alt-Coins On The Verge Of A Break Out?" title="Are Alt-Coins On The Verge Of A Break Out?" >
+				</picture>
+
+              <h3 class="articleRelatedPosts__articleTitle">Are Alt-Coins On The Verge Of A Break Out?</h3>
+            </a>
+            <!-- /.grid__col -->
+          
+
+        </div>
+        <!-- /.grid -->
+        </div>
+      </div>
+      <!-- /.articleRelatedPosts -->
+
+					<a href="#" class="leaveComment" id="join-discussion">Leave a comment</a>
+
+			
+			<form action="https://safehaven.com/article/45148/Twitter-CEO-The-World-Will-Have-A-Single-Currency#commentsform" id="commentsform" method="post" accept-charset="utf-8">
+<input type="hidden" name="csrf_safehaven" value="1bba1f7436069ce763abc8ad6a92d729" style="display:none;" />
+
+				<h3>Leave a comment</h3>
+				<fieldset>
+					
+											<div class="row clear">
+														<label for="commentform_name" id="label_commentform_name">Name</label>							<input type="text" name="commentform_name" value="" id="commentform_name" class="text" placeholder="Name"  />
+						</div>
+
+						<div class="row clear">
+														<label for="commentform_email" id="label_commentform_email">Email</label>							<input type="text" name="commentform_email" value="" id="commentform_email" class="text" placeholder="Email"  />
+						</div>
+						
+											<div class="row rowcaptcha clear">
+														<label for="captcha" id="label_captcha">Captcha</label>							<input type="text" name="captcha" value="" id="captcha" maxlength="80" size="30" class="text"  />
+						</div>
+						
+					<div class="row clear">
+						<div id="maxlength_message"></div>
+												<label for="commentform_comment" id="label_commentform_comment">Comment</label>						<textarea name="commentform_comment" cols="40" rows="10" id="commentform_comment" maxlength="5000" placeholder="Comments" ></textarea>
+					</div>
+
+					<div class="row clear">
+						<input type="submit" name="submit" value="Leave comment"  class="submit" id="commentform_submit" />
+					</div>
+
+					<div><input type="hidden" name="action" id="action" value="add" /></div>
+				</fieldset>
+
+			</form>			
+		<br><br><br>
+	</div>
+    <!-- /.tableGrid__column -->
+	
+	<div class="tableGrid__column tableGrid__column--sidebar">
+		<div class="tableGrid__column--sidebar--inner">
+
+			<div class="sidebarTop">
+
+					<div class="sectionHeading sectionHeading__first">
+		<h2 class="sectionHeading__title">Sign Up For The Safehaven Newsletter</h2>
+	</div>
+
+	<form id="form-newsletter-signup" method="post" action="./">
+		<div id="newsletter_signup" class="newsletter_signup">
+			<input id="newsletter-signup-email" class="email" type="text" name="email" placeholder="Enter your email">
+			<button id="newsletter-signup-button" type="submit" class="safehaven-red-button">Sign Me Up</button>
+		</div>
+	</form>
+	
+				<div class="sidebarAd">
+					<div id="bannerzone1">	<div id="banner1" class="banner">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- SafeHaven - Right Column -->
+<ins class="adsbygoogle"
+		 style="display:block"
+		 data-ad-client="ca-pub-3591192809579527"
+		 data-ad-slot="4567744068"
+		 data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>	</div>
+	</div><!--/#bannerzone1-->				</div>
+
+			</div>
+
+			
+		</div>
+	</div>
+
+	<!-- /.tableGrid__column--sidebar -->
+	<!-- /.tableGrid__column -->
+  </div>
+  <!-- /.tableGrid -->
+</div>
+<!-- /.siteContainer -->
+
+<script type="text/javascript">
+var box2_html = '';
+	var banner_html = '';
+	var article_id = '45148';
+	var captcha_completed = 1;
+	
+	$('.menu_item_crypto').addClass('primaryNavigation__menuItem__currentPage');
+</script>
+	</div>
+
+	<div class="footer">
+		<div class="siteContainer">
+			<div class="footerNavigation">
+				<div class="footerNavigation__column">
+					<ul class="footerNavigation__linkList">
+						<li class="footerNavigation__linkItem"><a href="https://safehaven.com/" class="footerNavigation__link footerNavigation__link--title">Safehaven</a></li>
+						<li class="footerNavigation__linkItem"><a href="https://safehaven.com/markets" class="footerNavigation__link">Markets</a></li>
+						<li class="footerNavigation__linkItem"><a href="https://safehaven.com/commodities" class="footerNavigation__link">Commodities</a></li>
+						<li class="footerNavigation__linkItem"><a href="https://safehaven.com/energy" class="footerNavigation__link">Energy</a></li>
+						<li class="footerNavigation__linkItem"><a href="https://safehaven.com/cryptocurrencies" class="footerNavigation__link">Cryptocurrencies</a></li>
+					</ul>
+				</div>
+
+				<div class="footerNavigation__column">
+					<ul class="footerNavigation__linkList">
+						<li class="footerNavigation__linkItem footerNavigation__linkItem--top"><a href="https://safehaven.com/contact" class="footerNavigation__link">Contact</a></li>
+						<li class="footerNavigation__linkItem"><a href="https://safehaven.com/Sitemap/" class="footerNavigation__link">Sitemap</a></li>
+													<li class="footerNavigation__linkItem"><a href="https://safehaven.com/auth/login" class="footerNavigation__link">Login</a></li>
+													<!-- <li class="footerNavigation__linkItem footerNavigation__linkItem--top"><a href="https://safehaven.com/newsroom" class="footerNavigation__link">Newsroom Roster</a></li>
+						<li class="footerNavigation__linkItem"><a href="https://safehaven.com/media-archive" class="footerNavigation__link">Media Archive</a></li>
+						<li class="footerNavigation__linkItem"><a href="https://safehaven.com/premium-products" class="footerNavigation__link">Premium Products</a></li>
+						<li class="footerNavigation__linkItem"><a href="https://safehaven.com/mobile" class="footerNavigation__link">Mobile</a></li> -->
+					</ul>
+				</div>
+				<!-- /.footerNavigation__column -->
+
+								<div class="footerNavigation__column footerNavigation__column--social">
+					<ul class="footerNavigation__linkList">
+						<li class="footerNavigation__linkItem"><a class="footerNavigation__link footerNavigation__link--title">Connect with us</a></li>
+						<a href="https://twitter.com/SafehavenNews?lang=en" class="footerNavigation__link"><img src="https://d2p6ty67371ecn.cloudfront.net/a/img/common/twitter.png" class="footerNavigation__socialItem"></li></a>
+						<a href="https://www.facebook.com/SafehavenNews/?notif_id=1519322109290495&notif_t=page_user_activity&ref=notif" class="footerNavigation__link"><img src="https://d2p6ty67371ecn.cloudfront.net/a/img/common/facebook.png" class="footerNavigation__socialItem"></li></a>
+						<a href="https://plus.google.com/106909181079166580357" class="footerNavigation__link"><img src="https://d2p6ty67371ecn.cloudfront.net/a/img/common/google-plus.png" class="footerNavigation__socialItem"></li></a>
+						<!--<a href="" class="footerNavigation__link"><img src="/a/img/common/linked-in.png" class="footerNavigation__socialItem"></li></a>-->
+						<a href="https://safehaven.com/feed/rss" class="footerNavigation__link"><img src="https://d2p6ty67371ecn.cloudfront.net/a/img/common/rss.png" class="footerNavigation__socialItem"></li></a>
+					</ul>
+				</div>
+				<!-- /.footerNavigation__column -->
+			</div>
+			<!-- /.footerNavigation -->
+			<div class="footerCopyright">
+				<p><strong>Copyright © 2018 Safehaven.com All rights reserved.</strong></br>
+				By using this site you agree to the <a href="https://safehaven.com/disclaimer">Disclaimer</a>, <a href="https://safehaven.com/privacy-policy">Privacy and Cookie Policy</a>.</p>
+			</div>
+		</div>
+		<!-- /.siteContainer -->
+	</div>
+	<!-- /.footer -->
+
+</div>
+<!-- /wrapper-container -->
+
+<script type="text/javascript" src="https://d2p6ty67371ecn.cloudfront.net/min/f=a/js/third_party/jquery.cookie.js,a/js/third_party/jquery.lightbox_me.js,a/js/script.js,a/js/third_party/featherlight.js,a/js/articles/view/script.js,a/js/third_party/jquery.sticky-kit.min.js,a/js/category/script.js?v=5"></script>
+	
+<script type="text/javascript">
+country('');
+</script>
+
+	
+<script>
+  var cb = function() {
+	var l = document.createElement('link'); l.rel = 'stylesheet';
+	l.href = 'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css';
+	var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
+  };
+  var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+	  webkitRequestAnimationFrame || msRequestAnimationFrame;
+  if (raf) raf(cb);
+  else window.addEventListener('load', cb);
+</script>
+
+</body>
+</html>

@@ -1,0 +1,562 @@
+<!DOCTYPE html>
+  <html lang="en-AU">
+
+  <head>
+    <title>Chinese authorities use facial recognition, public shaming to crack down on jaywalking, criminals - ABC News (Australian Broadcasting Corporation)</title>
+
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="initial-scale=1.0" />
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="ABC.ContentType" content="CMArticle" />
+    <meta name="ContentId" content="9567430" />
+    <meta name="apple-mobile-web-app-title" content="ABC News"/>
+  <link rel="canonical" data-abc-platform="standard" href="http://www.abc.net.au/news/2018-03-20/china-deploys-ai-cameras-to-tackle-jaywalkers-in-shenzhen/9567430?pfmredir=sm" />
+
+      <link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://mobile.abc.net.au/cm/cb/8413652/News+iOS+76x76+2017/data.png" />
+          <link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://mobile.abc.net.au/cm/cb/4355924/News+iOS+120x120/data.png" />
+          <link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://mobile.abc.net.au/cm/cb/8413660/News+iOS+152x152+2017/data.png" />
+          <link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://mobile.abc.net.au/cm/cb/8413674/News+iOS+180x180+2017/data.png" />
+          <link rel="stylesheet" type="text/css" href="https://res.abc.net.au/bundles/2.2.0/styles/abc.bundle.2.2.0.min.css" media="all"/>
+  <link rel="stylesheet" type="text/css" href="http://www.abc.net.au/res/sites/news-projects/news-core/1.3.3/mobile.css" media="all"/>
+  </head>
+
+  <body class="platform-mobile">
+
+  <header>
+    <!-- Start ABC Bundle Header 2.2.0 (customised) -->
+<!--noindex-->
+<nav id="abcHeader" class="global" aria-label="ABC Network Navigation" data-resourcebase="https://res.abc.net.au/bundles/2.2.0/" data-scriptsbase="https://res.abc.net.au/bundles/2.2.0/scripts/" data-version="2.2.0">
+ <a class="abcLink home" href="http://www.abc.net.au/" data-mobile="http://mobile.abc.net.au/"><img src="https://res.abc.net.au/bundles/2.2.0/images/logo-abc@2x.png" width="65" height="16" alt="" />ABC Home</a>
+ <div class="sites">
+  <a class="controller" href="javascript:;" aria-controls="abcNavSites"><img src="https://res.abc.net.au/bundles/2.2.0/images/icon-menu-grey@1x.gif" 
+   data-src="images/icon-menu-grey@1x.gif" data-hover="images/icon-menu-blue@1x.gif" class="icon" alt="" /><span class='text'><span>Open</span> Sites <span>menu</span></span></a>
+  <div id="abcNavSites" class="menu" role="menu" aria-expanded="false">
+   <ul>
+    <li class='odd'><a class="abcLink" role="menuitem" href="http://www.abc.net.au/" data-mobile="http://mobile.abc.net.au/">ABC Home</a></li>
+    <li><a class="abcLink" role="menuitem" href="http://www.abc.net.au/news/" data-mobile="http://mobile.abc.net.au/news/">News</a></li>
+    <li class='odd'><a class="abcLink" role="menuitem" href="http://www.abc.net.au/iview/" data-mobile="http://www.abc.net.au/iview/">iview</a></li>
+    <li><a class="abcLink" role="menuitem" href="http://www.abc.net.au/tv/" data-mobile="http://www.abc.net.au/tv/">TV</a></li>
+    <li class='odd'><a class="abcLink" role="menuitem" href="http://www.abc.net.au/radio/" data-mobile="http://www.abc.net.au/radio/">Radio</a></li>
+    <li><a class="abcLink" role="menuitem" href="http://www.abc.net.au/children/" data-mobile="http://mobile.abc.net.au/children/">Kids</a></li>
+    <li class='odd'><a class="abcLink" role="menuitem" href="https://shop.abc.net.au/" data-mobile="https://shop.abc.net.au/">Shop</a></li>
+    <li><a class="abcLink more" role="menuitem" href="http://www.abc.net.au/more/" data-mobile="http://www.abc.net.au/more/">More</a></li>
+   </ul>
+  </div>
+ </div>
+ <div class="accounts">
+  <!-- Accounts is currently injected due to different URLs --><span data-src="images/icon-user-grey@1x.png" data-hover="images/icon-user-blue@1x.png"></span>
+ </div>
+ <a class="abcLink search" href="http://search.abc.net.au/s/search.html?collection=abcall_meta&form=simple"
+  data-mobile="http://search.abc.net.au/s/search.html?collection=abcall_meta&form=simple"><span>Search</span>
+  <img src="https://res.abc.net.au/bundles/2.2.0/images/icon-search-grey@1x.png" data-hover="images/icon-search-blue@1x.png" class="icon" alt="" /></a>
+</nav>
+<!--endnoindex-->
+<!-- End ABC Bundle Header 2.2.0 (customised) -->
+<nav class="site">
+    <a href="/news/" class="home">ABC News</a><div class="menu">
+      <ul>
+    <li>
+      <a href="/news/">Home</a></li>
+  <li>
+      <a href="/news/justin/">Just In</a></li>
+  <li>
+      <a href="/news/politics/">Politics</a></li>
+  <li>
+      <a href="/news/world/">World</a></li>
+  <li>
+      <a href="/news/analysis-and-opinion/">Analysis &amp; Opinion</a></li>
+  <li>
+      <a href="/news/business/">Business</a></li>
+  <li>
+      <a href="/news/sport/">Sport</a></li>
+  <li>
+      <a href="/news/science/">Science</a></li>
+  <li>
+      <a href="/news/health/">Health</a></li>
+  <li>
+      <a href="/news/arts-culture/">Arts</a></li>
+  <li>
+      <a href="/news/">Live Streams</a></li>
+  <li>
+      <a href="/news/video/">Video</a></li>
+  <li>
+      <a href="/news/photos/">Photos</a></li>
+  <li>
+      <a href="/news/entertainment/">Entertainment</a></li>
+  <li>
+      <a href="/news/upload/">Upload</a></li>
+  <li>
+      <a href="/news/alerts/subscribe/">Subscribe</a></li>
+  <li>
+      <a href="/news/rural/">Rural</a></li>
+  <li>
+      <a href="/news/more/">More &gt;</a></li>
+  </ul>
+    <a href="http://www.abc.net.au/news/2018-03-20/china-deploys-ai-cameras-to-tackle-jaywalkers-in-shenzhen/9567430?pfm=ms&amp;pfmredir=sm" class="platform-standard switch">Change to standard view</a></div>
+  </nav>
+<div class="section">
+        <p><a href="/news/">News Home</a></p>
+      </div>
+    </header>
+
+  <div class="content">
+    <article>
+    <header>
+      <h1>Chinese authorities use facial recognition, public shaming to crack down on jaywalking, criminals</h1>
+        <span class="attribution richtext">
+        By <a href="/news/vicky-xiuzhong-xu/9568026" target="_self" title="">Vicky Xu</a> and <a href="/news/bang-xiao/9528622" target="_self" title="">Bang Xiao</a></span>
+    <time class="updated" datetime="2018-03-20T21:52+11:00">
+            <small>Updated</small>
+            Tue 20 Mar 2018, 9:52 PM AEDT</time>
+    </header>
+  <figure class="type-photo">
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+<div class="media present-image">
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <a href="http://www.abc.net.au/news/image/9568002-3x2-700x467.jpg"><img src="http://www.abc.net.au/news/image/9568002-3x2-460x307.jpg" alt="The Shenzhen traffic police website publishes the photos and identification details of offenders." title="Jaywalkers in Shenzhen" width="460" height="307"/></a>
+</div>
+<figcaption>
+    <strong>Photo</strong>
+  <p class="caption richtext">The Shenzhen traffic police website publishes the photos and identification details of offenders.</p>
+  <span class="attribution richtext">Supplied: Shenzhen Traffic Police</span>
+  </figcaption>
+</figure>
+<div class="story richtext">
+      <p>In the southern city of Shenzhen, Chinese authorities have launched a new surveillance system<strong> </strong>loaded with facial recognition, artificial intelligence, and a big database to crack down on jaywalking as well as other crimes.</p><aside class="embed-wysiwyg richtext">
+            <h2>Key points:</h2><ul><li>Residents of Shenzhen express concern that the surveillance systems are authoritarian</li><li>Surveys however have shown that 80 per cent of pollsters are in favour of the technology</li><li>Rights groups report that the technology has already been abused in some regions</li></ul></aside><p> </p><p>As a result, photographs of pedestrians caught in the act, along with their names and social identification numbers, are now instantly displayed on LED screens installed at Shenzhen road junctions.</p><p>At some crosswalks, a brake-sounding alarm even goes off if someone walks when the pedestrian light is red, reportedly to alarm the jaywalkers and capture their photo in a moment of panic.</p><p>The Shenzhen police have also launched a public website to name and shame offenders — in just six months at only one road junction in Shenzhen, the new system has already snapped 13,930 jaywalking offenders.</p><figure class="embed-content">
+        <article class="type-external image-none">
+    <a href="https://media.giphy.com/media/8AKX0kxlFWZMc/giphy.gif"><h3>
+        <strong>External Link</strong>
+        A GIF of the facial recognition system in China.</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+</figure><p> </p><p>The technology is also used by the authority to find missing family members, apprehending fugitives, and identify forged documents.</p><p>Similar systems have been in place in other major Chinese cities including Beijing and Shanghai, but the latest deployment in Shenzhen has some citizens and observers worried the digital surveillance systems are reaching a point of violating personal privacy.</p><p>"Despite how obnoxious jaywalking is, there is no legal basis for the police to publish people's identifying information," William Long, a famous Shenzhen tech blogger tweeted.</p><blockquote class="quote--pullquote"><p>"If you want a picture of the future, imagine a boot stamping on a human face — forever," another Twitter user wrote, a reference to George Orwell's novel 1984.</p></blockquote><p>According to Chinese state media, once someone has been recorded into the system, jaywalking and other petty crimes also potentially damage one's score in the country's reported "social credit system".</p><p>The ambitious initiative reportedly proposes a system by which it can "rate" the trustworthiness of citizens with an index, while looking to "purify" Chinese society by awarding the trustworthy and punishing the disobedient by, for example, banning them from public transport.</p><p>But despite this, a survey published by Chinese state media last year showed 80 per cent of pollsters were in favour of using the artificial intelligence cameras to name and shame petty criminals.</p><p>"After having their photos displayed on the massive screens, some offenders would contact the traffic police department and request to have their photos removed," traffic officer Xia Jianshe told state media last year.</p><blockquote class="quote--pullquote"><p>"Some would say that they're willing to pay the fine while promising that they will never run a red light again."</p></blockquote><p>Alternatively, Mr Xia said, the traffic department can contact the jaywalkers after verifying their identities and retrieving their contact information from the police database.</p><p>Currently keeping a watchful eye on its 1.4 billion population with over 176 million surveillance cameras, by 2020, China is looking to quadruple the number of cameras and build an overreaching surveillance network that is "omnipresent, completely connected, always on and fully controllable", according to the country's National Development and Reform Commission.</p><h2>Could the technology be used to create a police state?</h2><figure class="embed-content">
+        <article class="type-photo">
+    <a href="/news/2018-03-20/ai-cameras-china.jpg/9567852"><h3>
+    <strong>Photo</strong>
+    A photo is snapped as soon as the pedestrian starts jaywalking … three more photos are then taken.</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/9567578-3x2-220x147.jpg" alt="Photos of a jaywalker." title="AI cameras China" width="220" height="147"/>
+<span class="attribution">Supplied: Shenzhen Traffic Police</span>
+   </a></article>
+</figure><p> </p><p>As of February, police in China's Zhengzhou region have launched sunglasses with built-in, facial-recognition technology to track suspects and scan documents.</p><p>Meanwhile, Chinese companies, from tech start-ups like SenseTime and Hikvision, to multinational e-commerce giant Alibaba, are working hand-in-glove with the Chinese Government to build the proposed nationwide surveillance and data-sharing platform.</p><p>Facial recognition has also been used to prevent toilet paper theft in China since last year, which was reportedly a nationwide problem.</p><p>But in addition to managing petty crimes, Human Rights Watch reported last month Chinese authorities were using the technology to monitor ethnic minorities who were deemed a threat to the Communist Party's rule in the country's far west province of Xinjiang.</p><blockquote class="quote--pullquote"><p>"For the first time, we are able to demonstrate that the Chinese Government's use of big data and predictive policing not only blatantly violates privacy rights, but also enables officials to arbitrarily detain people," Maya Wang, senior China researcher at Human Rights Watch, said in the report.</p></blockquote><p>In Australia, authorities have access to an unprecedented level of information about citizens, and privacy concerns over the use of digital surveillance have been on the rise, but observers say the use of surveillance technology can be very different in China and in Australia.</p><p>"We're seeing a lot of advances in the technology and more widespread use of the technology in China," Australian Strategic Policy Institute analyst Fergus Ryan told the ABC.</p><p>"And that is largely to do with a different attitude that the Chinese Government and Chinese citizens have to the use of the technology, and different attitudes towards privacy concerns and whatnot."</p><p>However, he warned different political systems could lead to different outcomes and uses of the technology down the line.</p><p>"Without having an independent judiciary, the Chinese Communist Party is more willing and able to look into the potential to use these technologies," he said.</p><p>"They could be used to try to create a more stable society or reduce the amount of conflicts in society."</p><figure class="embed-content">
+        <article class="type-photo">
+    <a href="/news/2018-03-20/llvision-facial-recognition/9568186"><h3>
+    <strong>Photo</strong>
+    Tech companies like LLVision have been developing the facial recognition smart glasses.</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/9568172-3x2-220x147.jpg" alt="A promotion video shows an actor wearing LLVision facial recognition smart glasses." title="LLVision facial recognition" width="220" height="147"/>
+<span class="attribution">Reuters: Thomas Peter</span>
+   </a></article>
+</figure><p> </p></div>
+  <footer>
+      <time class="original" datetime="2018-03-20T18:15+11:00">
+            <small>Posted</small>
+            Tue 20 Mar 2018, 6:15 PM AEDT</time>
+    </footer>
+   <div class="share">
+    <h2>Share</h2>
+    <a class="email" href="mailto:?subject=Chinese%20authorities%20use%20facial%20recognition%2c%20public%20shaming%20to%20crack%20down%20on%20jaywalking%2c%20criminals&body=http%3a%2f%2fwww.abc.net.au%2fnews%2f2018-03-20%2fchina-deploys-ai-cameras-to-tackle-jaywalkers-in-shenzhen%2f9567430%3fpfmredir%3dsm">Email</a>
+    <a class="facebook" target="_blank" href="http://www.facebook.com/sharer.php?t=Chinese+authorities+use+facial+recognition%2c+public+shaming+to+crack+down+on+jaywalking%2c+criminals&u=http%3a%2f%2fwww.abc.net.au%2fnews%2f2018-03-20%2fchina-deploys-ai-cameras-to-tackle-jaywalkers-in-shenzhen%2f9567430%3fpfmredir%3dsm">Facebook</a>
+    <a class="twitter" target="_blank" href="http://twitter.com/home?status=Chinese+authorities+use+facial+recognition%2c+public+shaming+to+crack+down+on+jaywalking%2c+criminals+http%3a%2f%2fwww.abc.net.au%2fnews%2f2018-03-20%2fchina-deploys-ai-cameras-to-tackle-jaywalkers-in-shenzhen%2f9567430%3fpfmredir%3dsm+%40abcnews">Twitter</a>
+  </div>
+<aside class="related image-omit">
+        <h2>Related</h2>
+        <article >
+    <a href="/news/2018-02-14/stan-grant-rise-of-chinese-robots-and-what-it-means-for-humanity/9444872"><h3>
+        The rise of the Chinese robots, and what it means for humanity</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2018-01-25/china-determined-to-match-western-competitors-in-ai/9357048"><h3>
+        China catching up to US in race towards artificial intelligence</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+</aside>
+    </article>
+
+  <section class="image-omit">
+      <h2>More Stories</h2>
+      <article >
+    <a href="/news/2018-03-21/justine-damond-minneapolis-officer-charged-in-shooting/9569918"><h3>
+        &#039;Disregard for human life&#039;: Police officer charged over Justine Damond&#039;s death</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2018-03-21/justine-damond-what-we-now-know-about-her-last-moments/9570200"><h3>
+        &#039;I&#039;m dying&#039;: What we now know about Justine Damond&#039;s final moments</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2018-03-21/james-packer-resigns-from-crown-resorts/9570344"><h3>
+        James Packer leaves Crown Resorts for mental health reasons</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2018-03-21/real-estate-boom-town-where-most-homes-now-sell-for-a-loss/9566710"><h3>
+        &#039;We got caught up in the hype&#039;: When a property boom town goes bust</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2018-03-21/cambridge-analytica-claimed-it-secured-donald-trump-presidentia/9570690"><h3>
+        Cambridge Analytica bosses filmed taking credit for &#039;Crooked Hillary&#039; campaign</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2018-03-21/myer-sales-plunge-and-no-dividend-for-shareholders/9571138"><h3>
+        Myer posts $476 million loss, after pricey write-down of its brand name</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2018-03-21/cyclone-marcus-is-heading-for-perth-but-you-dont-need-to-panic/9569042"><h3>
+        Cyclone Marcus has hit category five and is heading for Perth, but you don&#039;t need to panic</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2018-03-21/ballarat-trench-collapse-man-killed-another-rescued/9571302"><h3>
+        Man dead, another rescued after trench collapses at Ballarat</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2018-03-21/foul-play-concerns-as-ships-engineer-goes-missing-townsville-qld/9570322"><h3>
+        Foul play concerns after man &#039;lost over the side&#039; of live cattle ship</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2018-03-21/how-to-spot-a-charity-scam/9571060"><h3>
+        How do you spot a charity scammer?</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+</section>
+  </div>
+
+  <footer>
+    <nav class="site">
+    <h2>More from ABC News</h2>
+    <ul>
+    <li>
+      <a href="/news/">Home</a></li>
+  <li>
+      <a href="/news/justin/">Just In</a></li>
+  <li>
+      <a href="/news/politics/">Politics</a></li>
+  <li>
+      <a href="/news/world/">World</a></li>
+  <li>
+      <a href="/news/analysis-and-opinion/">Analysis &amp; Opinion</a></li>
+  <li>
+      <a href="/news/business/">Business</a></li>
+  <li>
+      <a href="/news/sport/">Sport</a></li>
+  <li>
+      <a href="/news/science/">Science</a></li>
+  <li>
+      <a href="/news/health/">Health</a></li>
+  <li>
+      <a href="/news/arts-culture/">Arts</a></li>
+  <li>
+      <a href="/news/">Live Streams</a></li>
+  <li>
+      <a href="/news/video/">Video</a></li>
+  <li>
+      <a href="/news/photos/">Photos</a></li>
+  <li>
+      <a href="/news/entertainment/">Entertainment</a></li>
+  <li>
+      <a href="/news/upload/">Upload</a></li>
+  <li>
+      <a href="/news/alerts/subscribe/">Subscribe</a></li>
+  <li>
+      <a href="/news/rural/">Rural</a></li>
+  <li>
+      <a href="/news/more/">More &gt;</a></li>
+  </ul>
+    <a class="top" href="#">Top of page</a>
+    <a href="http://www.abc.net.au/news/2018-03-20/china-deploys-ai-cameras-to-tackle-jaywalkers-in-shenzhen/9567430?pfm=ms&amp;pfmredir=sm" class="platform-standard switch">Change to standard view</a></nav>
+<nav class="global">
+        <ul>
+          <li><a href="/news/">ABC News</a></li>
+    <li><a href="/news/justin/">Just In</a></li>
+    <li><a href="/news/australia/">Australia</a></li>
+    <li><a href="/news/world/">World</a></li>
+    <li><a href="/news/business/">Business</a></li>
+    <li><a href="/news/entertainment/">Entertainment</a></li>
+    <li><a href="/news/sport/">Sport</a></li>
+    <li><a href="/news/analysis-and-opinion/">Analysis &amp; Opinion</a></li>
+    <li><a href="/news/weather/">Weather</a></li>
+    <li><a href="/news/topics/">Topics</a></li>
+    <li><a href="/news/archive/">Archive</a></li>
+    <li><a href="/news/corrections/">Corrections &amp; Clarifications</a></li>
+    </ul>
+      </nav>
+    </footer>
+
+  <script type="text/javascript" src="http://mobile.abc.net.au/res/libraries/jquery/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="http://www.abc.net.au/res/libraries/location/abc.location-1.latest.min.js"></script>
+    <script type="text/javascript" src="http://mobile.abc.net.au/res/bundles/mobile/abc.bundle.mobile-1.0.1.min.js"></script>
+    <script type="text/javascript" src="http://mobile.abc.net.au/res/bundles/mobile/abc.bundle.mobile.media-1.0.min.js"></script>
+    <script type="text/javascript" src="http://www.abc.net.au/res/sites/news-projects/news-core/1.3.2/mobile.js"></script>
+    <script type="text/javascript" src="/cm/code/8724582/abc.news.config-2018-03-20.js" async></script>
+    <!-- Start ABC Bundle Footer 2.2.0 (customised) -->
+<!--noindex-->
+<nav id="abcFooter" class="global" aria-label="ABC Footer Navigation" data-version="2.2.0">
+ <ul>
+  <li><a class="abcLink" href="http://about.abc.net.au/terms-of-use/">Terms of Use</a></li>
+  <li><a class="abcLink" href="http://about.abc.net.au/abc-privacy-policy/">Privacy Policy</a></li>
+  <li><a class="abcLink" href="http://about.abc.net.au/accessibility-statement/">Accessibility</a></li>
+  <li><a class="abcLink" href="http://about.abc.net.au/talk-to-the-abc/">Contact Us</a></li>
+  <li><a class="abcLink" href="http://about.abc.net.au/terms-of-use/#UseOfContent">&copy; <time>2018</time> ABC</a></li>
+ </ul>
+</nav>
+<script type="text/javascript" src="https://res.abc.net.au/bundles/2.2.0/scripts/abc.bundle.2.2.0.min.js"></script>
+<script type="text/javascript" src="https://res.abc.net.au/libraries/stats/abc.stats.bundle.js"></script>
+<!-- START Webtrends -->
+<noscript><img alt="dcsimg" id="dcsimg" width="1" height="1" src="//statse.webtrendslive.com/dcsg85fae000004n0vfjpj8oa_9m4q/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.2.10&amp;dcssip=www.abc.net.au"></noscript>
+<!-- END Webtrends -->
+<!-- Google Tag Manager -->
+<script type="text/javascript">
+// <![CDATA[
+ (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ })(window,document,'script','dataLayer','GTM-PB2GX');
+ // ]]>
+</script>
+<noscript>
+ <iframe src="//www.googletagmanager.com/ns.html?id=GTM-PB2GX" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager -->
+<!-- ABC MyLogin -->
+<script type="text/javascript" src="https://mylogin.abc.net.au/js/abc.mylogin.embedded.js"></script>
+<script type="text/javascript">ABC.MyLoginEmbedded.init();</script>
+<!-- END ABC MyLogin -->
+<!--endnoindex-->
+<!-- End ABC Bundle Footer 2.2.0 (customised) -->
+</body>
+
+  </html>

@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>PressTV-Trump hails Saudi ‘friendship’ in meeting with bin Salman</title>
+    <meta name="viewport" content="width=device-width">
+        <meta name="title" content="PressTV-Trump hails Saudi ‘friendship’ in meeting with bin Salman" />
+        <meta property="og:title" content="PressTV-Trump hails Saudi ‘friendship’ in meeting with bin Salman" />
+                <meta property="og:description" content="The Saudi crown prince is in Washington for official talks at the White House on his first visit to the US, which is mainly aimed at pushing for an ambitious nuclear deal." />
+        <meta property="og:type" content="article" />
+        <meta name="description" content="The Saudi crown prince is in Washington for official talks at the White House on his first visit to the US, which is mainly aimed at pushing for an ambitious nuclear deal." />
+            <meta property="og:image" content="http://107.189.40.46/photo/20180320/b19a7613-dff1-4d7b-a8b4-64d4f6a7ec7d.jpg" />
+        <meta name="thumbnail" content="http://107.189.40.46/photo/20180320/b19a7613-dff1-4d7b-a8b4-64d4f6a7ec7d.jpg" />
+        <meta itemprop="thumbnailUrl" content="http://107.189.40.46/photo/20180320/b19a7613-dff1-4d7b-a8b4-64d4f6a7ec7d.jpg" />
+        <meta itemprop="image" content="http://107.189.40.46/photo/20180320/b19a7613-dff1-4d7b-a8b4-64d4f6a7ec7d.jpg" />
+        <link rel="image_src" href="http://107.189.40.46/photo/20180320/b19a7613-dff1-4d7b-a8b4-64d4f6a7ec7d.jpg" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/Content/Site151104.css">
+    <link rel="stylesheet" href="/Content/ovverrides.css?_=20180222">
+    <script src="/Scripts/modernizr-2.6.2.min.js"></script>
+</head>
+<body>
+    <div id="breaking" style="display: none;">
+        <div class="inner">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="panel ticker ticker-breaking title-overlay">
+                            <div class="panel-title">
+                                <h2>Breaking News</h2>
+                            </div>
+                            <div class="panel-body">
+                                <ul></ul>
+                                <button type="button" class="close">&times;</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <header id="header">
+        <div id="masthead" class="wrapper _bluedark">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-4 col-sm-3 col-md-2 col-lg-1">
+                        <h1 class="logo">
+                            <a href="/">PressTV</a>
+                        </h1>
+                    </div>
+                    <div class="col-xs-8 col-sm-9 col-md-10 col-lg-11">
+                        <ul class="menu header-menu">
+                            <li><a href="/Default/Schedule"><i class="icon-calendar"></i>Schedule</a></li>
+                            <li><a href="/Default/Live"><i class="icon-video"></i>Watch Live</a></li>
+                            <li class="search haschild">
+                                <a href="#"><i class="icon-search"></i></a>
+                                <div class="child">
+                                    <form role="form" class="search-form" action="/Default/Search" method="get">
+                                        <input type="text" name="q" class="form-control" placeholder="Search..." />
+                                        <button type="submit">&nbsp;</button>
+                                    </form>
+                                </div>
+                            </li>
+                            <li class="hidden-sm hidden-md hidden-lg"><a href="#" class="menu-toggle" data-toggle="slide" data-target="#menu"><i class="icon-bars"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="navbar" class="wrapper _bluedarker">
+            <div class="container">
+                <div class="row">
+                    <nav id="menu" class="col-xs-12 col-md-10">
+                        <ul class="menu menu-inline">
+                            <li class="haschild">
+                                <a href="#">News</a>
+                                <div class="child">
+                                    <ul>
+                                        <li><a href="/Default/Section/102">Middle East</a></li>
+                                        <li><a href="/Default/Section/104">Asia-Pacific</a></li>
+                                        <li><a href="/Default/Section/105">Africa</a></li>
+                                        <li><a href="/Default/Section/106">Europe</a></li>
+                                        <li><a href="/Default/Section/107">Americas</a></li>
+                                        <li><a href="/Default/Section/12001">Society</a></li>
+                                        <li><a href="/Default/Section/12002">Arts</a></li>
+                                        <li><a href="/Default/Section/12004">Business</a></li>
+                                        <li><a href="/Default/Section/12005">Sports</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="haschild">
+                                <a href="/Default/Section/101">Iran</a>
+                                <div class="child">
+                                    <ul>
+                                        <li><a href="/Default/Section/10101">Politics</a></li>
+                                        <li><a href="/Default/Section/10102">Economy</a></li>
+                                        <li><a href="/Default/Section/10103">Energy</a></li>
+                                        <li><a href="/Default/Section/10104">Nuclear Energy</a></li>
+                                        <li><a href="/Default/Section/10105">Culture</a></li>
+                                        <li><a href="/Default/Section/10106">Defence</a></li>
+                                        <li><a href="/Default/Section/10107">Sport</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li><a href="/Default/Section/103"><span>US</span></a></li>
+                            <li><a href="/Default/Section/108"><span>UK</span></a></li>
+                            <li><a href="/Default/Section/130"><span>Videos</span></a></li>
+                            <li class="haschild">
+                                <a href="/Default/Section/150">Programs</a>
+                                <div class="child">
+                                    <ul>
+                                        <li><a href="/Default/Section/15006">Iran Today</a></li>
+                                        <li><a href="/Default/Section/15067">Economic Divide</a></li>
+                                        <li><a href="/Default/Section/15070">On The News Line</a></li>
+                                        <li><a href="/Default/Section/15076">The Isle</a></li>
+                                        <li><a href="/Default/Section/15082">We The People</a></li>
+                                        <li><a href="/Default/Section/15064">Press Plus</a></li>
+                                        <li><a href="/Default/Section/15045">A Simple Question</a></li>
+                                        <li><a href="/Default/Section/15034">Africa Today</a></li>
+                                        <li><a href="/Default/Section/15060">The Sun Will Rise</a></li>
+                                        <li><a href="/Default/Section/15079">The Big Conversation</a></li>
+                                        <li><a href="/Default/Section/15072">Islam And Life</a></li>
+                                        <li><a href="/Default/Section/15071">Food For Thought</a></li>
+                                        <li><a href="/Default/Section/15031">Face To Face</a></li>
+                                        <li><a href="/Default/Section/15057">The Debate</a></li>
+                                        <li><a href="/Default/Section/15015">Iran</a></li>
+                                        <li><a href="/Default/Section/15081">Opinion</a></li>
+                                        <li><a href="/Default/Section/15084">Doc Review</a></li>
+                                        <li><a href="/Default/Section/15085">Unreported</a></li>
+                                        <li><a href="/Default/Section/15086">New Chapter</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li><a target="_blank" href="http://presstvdoc.com">Docs</a></li>
+                            <li class="hidden-md hidden-lg"><a href="/Farsi">فارسی</a></li>
+                            <li class="hidden-md hidden-lg"><a href="/French">French</a></li>
+                        </ul>
+                    </nav>
+                    <div id="sidemenu" class="hidden-xs hidden-sm col-md-2">
+                        <ul class="menu menu-inline">
+                            <li class="rtl">
+                                <a href="/Farsi">فارسی</a>
+                            </li>
+                            <li class="rtl">
+                                <a href="/French">French</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    
+
+<section id="main">
+    <div id="mainbody" class="wrapper">
+        <div class="container">
+            <div id="page" class="row">
+                <div class="col-xs-12 col-md-8">
+                    <article id="item" class="item">
+                        <header class="page-heading">
+                            <h2 class="page-header">Trump hails Saudi ‘friendship’ in meeting with bin Salman</h2>
+                            <div class="item-meta">
+                                <div class="item-date" id="header-pubdate" data-id="556073">Tue Mar 20, 2018 02:27PM</div>
+                                <ol class="breadcrumb">
+                                    <li><a href="/">Home</a></li><li><a href="/Default/Section/102">Middle East</a></li><li><a href="/Default/Section/10205">Saudi Arabia</a></li>
+                                </ol>
+                            </div>
+                        </header>
+                        <div class="item-body">
+                            <figure class="item-image">
+
+
+                                    <div>
+                                        <div id="mediaplayer">
+                                            <img id="imgPlayback" src="http://107.189.40.46/photo/20180320/b19a7613-dff1-4d7b-a8b4-64d4f6a7ec7d.jpg" alt="US President Donald Trump (center R) holds a lunch meeting with Saudi Crown Prince Mohammed bin Salman (center L), and members of his delegation, at the White House in Washington, DC, March 20, 2018. (Photo by AFP)" />
+                                        </div>
+                                    </div>
+
+                                <figcaption id="mainFigCap">US President Donald Trump (center R) holds a lunch meeting with Saudi Crown Prince Mohammed bin Salman (center L), and members of his delegation, at the White House in Washington, DC, March 20, 2018. (Photo by AFP)</figcaption>
+                                </figure>
+                                <input type="hidden" id="inpShortCode" value="2YRr" />
+                                    <input type="hidden" id="inpPlayback" value="/SiteVideo/20180320/trump.mp4" />
+                                    <script type='text/javascript' language='javascript' src='http://smartplugin.youbora.com/1.3/js/libs/youbora-data.js'></script>
+                                    <script type='text/javascript' language='javascript' src='http://smartplugin.youbora.com/1.3/js/libs/youbora-api.js'></script>
+                                    <script src="/Scripts/player/flowplayer/flowplayer.min.js"></script>
+                                    <script src="/Scripts/player/hlsjs/hls.min.js"></script> 
+                                    <script src="/Scripts/player/flowplayer/flowplayer.hlsjs.min.js"></script>
+                                    <script src='/Scripts/playback-new.js?20171208'></script>
+                                    <!-- <script src='/Scripts/playback.js?20171208'></script> -->
+                                                                                                    <ul class="item-tools">
+                                        <li class="embed">
+                                            <div>
+                                                <a href="#" class="btn btn-xs" data-toggle="slide" data-target=".embed textarea"><i class="icon-code"></i> Embed</a>
+                                                <textarea class="form-control">&lt;iframe src="http://PressTV.com/Default/Embed/556073" width="580" height="326" frameborder="0"&gt;&lt;/iframe&gt;</textarea>
+                                            </div>
+                                        </li>
+                                        <li class="embed">
+                                            <div>
+                                                <a class="btn btn-xs" href="http://107.189.40.50/ptv//SiteVideo/20180320/trump.mp4"><i class="icon-download"></i> Download</a>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                <div class="item-text">
+                                    <p><strong>Saudi Crown Prince Mohammed bin Salman is in Washington for official talks at the White House on his first visit to the US, which observers say is mainly meant to consolidate his grip on power at home and push for an ambitious nuclear deal.</strong></p>
+
+<p>The heir to the Saudi throne arrived in Washington on Monday as part of his three-week multi-city tour of the United States.</p>
+
+<p>On Tuesday, bin Salman sat down with US President Donald Trump at the White House, where the two sides discussed a range of issues from bilateral ties to arms deals.</p>
+
+<p>Trump praised the &ldquo;great friendship&rdquo; with Saudi Arabia and its crown prince.</p>
+
+<p>&ldquo;The relationship is probably the strongest it&#39;s ever been -- we understand each other,&rdquo; said the US president. &ldquo;We really have a great friendship, a great relationship.&rdquo;</p>
+
+<p>Washington and Riyadh, Trump added, produced charts to show the depth of Saudi purchases of US military hardware and what he said were the number of American jobs they are providing.</p>
+
+<p>&ldquo;The relationship now is probably as good as it&rsquo;s really ever been and I think will probably only get better &ndash; tremendous investments made in our country and that means jobs for our workers,&rdquo; he told reporters during a picture-taking session with the crown prince.</p>
+
+<p>In the Oval Office, Trump and&nbsp;bin Salman discussed an agreement last year for $200 billion worth of Saudi investments in the US, including large purchases of US arms.&nbsp;</p>
+
+<p><strong>Three weeks in the US</strong></p>
+
+<p>During his week-long stay in Washington, bin Salman will reportedly hold talks with senior administration officials, including Vice President Mike Pence, national security adviser H.R. McMaster, and Trump&rsquo;s son-in-law and senior adviser Jared Kushner.</p>
+
+<figure class="image"><img alt="" height="312" src="http://217.218.67.233//photo/20180320/f12c7d1a-1d80-4931-a91b-df5c16835d4d.jpg" width="555" />
+<figcaption>Saudi Crown Prince Mohammed bin Salman is welcomed upon his arrival in Washington, US, March 19, 2018. (Photo by Reuters)</figcaption>
+</figure>
+
+<p>The 32-year old is also expected to meet with leaders in Congress and Cabinet officials such as Defense Secretary James Mattis and Mike Pompeo, CIA director and Trump&rsquo;s new pick to replace Rex Tillerson as secretary of state.</p>
+
+<p>The lengthy tour will also take bin Salman&nbsp;to Boston, New York City, Seattle, Los Angeles and Houston to&nbsp;meet with high-profile business leaders in the tech industry. He will end his trip towards the end of April.</p>
+
+<p>Many analysts say bin Salman&rsquo;s trip has not much to do with the expansion of the already-flourishing ties between the two allies, but serves to help pave the young prince&rsquo;s way to the Saudi throne and introduce him as the power in the kingdom to US and global public opinion.</p>
+
+<p>Bin Salman&rsquo;s&nbsp;visit comes after his self-promoting campaign at home, which saw hundreds of royals and businessmen detained and tortured. Most of them were later released after reaching financial settlement deals with the kingdom.</p>
+
+<p>The House of Saud&rsquo;s designated successor has also been attempting to portray himself as a &ldquo;reformer&rdquo; and an advocate of women&rsquo;s rights.</p>
+
+<p>While in the US, he is expected to rally support for his so-called political, economic and social reforms.</p>
+
+<p><strong>Nuclear ambitions high on agenda</strong></p>
+
+<p>Bin Salman&rsquo;s visit comes only weeks after Washington and Riyadh resumed their nuclear cooperation talks, which had stalled under Trump&rsquo;s predecessor, Barack Obama.</p>
+
+<p>The Saudis plan&nbsp;to construct 16 nuclear power reactors over the next 20 to 25 years at a cost of more than $80 billion, according to the World Nuclear Association.</p>
+
+<p>The Trump administration is said to be mulling over a controversial concession only to secure a lucrative reactor construction deal&mdash;allowing the Saudis to enrich and reprocess plutonium, which could be used to produce fuel for nuclear weapons.</p>
+
+<p>Trump&rsquo;s planned concession has raised concerns&nbsp;among American congressmen.</p>
+
+<p>Riyadh claims its pursuit of a &ldquo;civilian&rdquo; atomic program is not out of rivalry with Iran, but that it wants to diversify its energy resources. The Saudi cabinet even scrambled to adopt a national nuclear policy to that effect ahead of bin Salman&rsquo;s trip to the US.</p>
+
+<p>However, the crown prince cast serious doubts on those claims last week when he told CBS News&rsquo; 60 Minutes program that the kingdom would be quick to develop nuclear bombs if Iran does so.</p>
+
+<div data-oembed-url="http://www.presstv.com/Detail/2018/03/15/555550/Saudi-Iran-bin-Salman">
+<div class="oembed"><a href="http://www.presstv.com/Detail/2018/03/15/555550/Saudi-Iran-bin-Salman" target="_blank"><img class="thumbnail" src="http://107.189.40.46/photo/20180315/9633e0e9-2ea9-4c38-99ad-9a762acf4131.jpg" /></a>
+
+<div class="title"><a href="http://www.presstv.com/Detail/2018/03/15/555550/Saudi-Iran-bin-Salman" target="_blank">PressTV-Bin Salman says Riyadh possible to make nuclear bombs</a></div>
+</div>
+<a href="http://www.presstv.com/Detail/2018/03/15/555550/Saudi-Iran-bin-Salman" target="_blank">The Saudi crown prince, who is in Washington for nuclear talks, says Riyadh will quickly develop nuclear bombs if Iran does so.</a></div>
+
+<blockquote>
+<p>&ldquo;Saudi Arabia&rsquo;s crown prince has confirmed what many have long suspected &mdash; nuclear energy in Saudi Arabia is about more than just electrical power, it&rsquo;s about geopolitical power,&rdquo; Sen. Ed Markey (D-Mass.) said in a statement. &ldquo;The United States must not compromise on nonproliferation standards in any 123 agreement it concludes with Saudi Arabia.&rdquo;</p>
+</blockquote>
+
+<p>Meanwhile, non-proliferation expert Henry Sokolski is set to brief American lawmakers on Thursday on the issue. He is reportedly set to persuade lawmakers not to accept anything but a &ldquo;gold standard&rdquo; that forbids uranium enrichment for the recipients of US nuclear technology.</p>
+
+<p><strong>Partners in Yemen crimes</strong></p>
+
+<p>The talks between Saudi and US officials are also set to focus on Riyadh&rsquo;s Washington-backed war against Yemen.</p>
+
+<p>Washington, along with the UK, has been the main arms provider to Saudi Arabia during the military campaign, which has killed over 13,600 people in Yemen as it is about to enter its third year on March 25.</p>
+
+<p><a href="https://www.sipri.org/news/press-release/2018/asia-and-middle-east-lead-rising-trend-arms-imports-us-exports-grow-significantly-says-sipri">A report</a> by the Stockholm International Peace Research Institute (SIPRI) revealed earlier this month that the US has increased its arms sales by 25 percent over the past five years.</p>
+
+<p>According to the SIPRI report, which was released last week, Saudi Arabia increased its arms purchases by 225 percent&nbsp;over the past five years, importing 98 percent&nbsp;of its weapons from the US and EU countries.</p>
+
+<p>The White House&rsquo;s support for the bloody Saudi war has also turned into a thorny issue in the US.</p>
+
+<div data-oembed-url="http://www.presstv.com/Detail/2018/03/20/556025/Senate-to-vote-on-ending-US-war-on-Yemen">
+<div class="oembed"><a href="http://www.presstv.com/Detail/2018/03/20/556025/Senate-to-vote-on-ending-US-war-on-Yemen" target="_blank"><img class="thumbnail" src="http://107.189.40.46/photo/20180320/fbb13749-64cf-4d71-bf3a-a277a56d9b2f.jpg" /></a>
+
+<div class="title"><a href="http://www.presstv.com/Detail/2018/03/20/556025/Senate-to-vote-on-ending-US-war-on-Yemen" target="_blank">PressTV-Senate to vote on ending US war on Yemen</a></div>
+</div>
+<a href="http://www.presstv.com/Detail/2018/03/20/556025/Senate-to-vote-on-ending-US-war-on-Yemen" target="_blank">The US Senate has teed up a vote on ending the US military involvement in the Saudi war on Yemen.</a></div>
+
+<p>Just as the architect of the Yemen war, bin Salman, has arrived in America, a bipartisan group of senators are trying to extricate the US from Saudi Arabia&rsquo;s military campaign in Yemen.</p>
+
+<p><strong>Iran in focus</strong></p>
+
+<p>In the US, bin Salman, a stalwart critic of the 2015 Iran nuclear deal, is expected to push for more pressure against the Islamic Republic.</p>
+
+<p>The royal&rsquo;s visit to Washington precedes a May 12 deadline for Trump to extend&nbsp;waivers of economic sanctions on Iran, a US commitment under the multilateral pact.</p>
+
+<p>He vowed in January, when he last extended those waivers, not to do so again unless the Europeans meet his demands to fix what he calls &ldquo;flaws&rdquo; in the deal.</p>
+
+<p>Bin Salman-Trump talks are expected to play a &ldquo;critical role&rdquo; in the president&rsquo;s next steps regarding the 2015 nuclear agreement, CNBC cited a senior administration official as saying.</p>
+
+<p>The Associated Press, citing anonymous US officials, reported that the Saudis might be willing to accept curbs on their nuclear abilities only if the nuclear deal with Iran is tightened.</p>
+
+<p>Iran has repeatedly said the deal, officially called the Joint Comprehensive Plan of Action, is not re-negotiable.</p>
+                                </div>
+</div>
+                        <div class="item-sharings">
+                            <ul>
+                                <li class="facebook"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://presstv.com//Detail/2018/03/20/556073/Saudi-bin-Salman-US-Trump"><i class="icon-facebook"></i></a></li>
+                                <li class="twitter"><a target="_blank" href="https://twitter.com/intent/tweet?text=Trump hails Saudi ‘friendship’ in meeting with bin Salman&url=http://presstv.com//Detail/2018/03/20/556073/Saudi-bin-Salman-US-Trump"><i class="icon-twitter"></i></a></li>
+                                <li class="gplus"><a target="_blank" href="https://plus.google.com/share?url=http://presstv.com//Detail/2018/03/20/556073/Saudi-bin-Salman-US-Trump"><i class="icon-gplus"></i></a></li>
+                                <li class="pinterest"><a target="_blank" href="http://pinterest.com/pin/create/button/?url=http://presstv.com//Detail/2018/03/20/556073/Saudi-bin-Salman-US-Trump&media=http://107.189.40.46/photo/20180320/b19a7613-dff1-4d7b-a8b4-64d4f6a7ec7d.jpg"><i class="icon-pinterest"></i></a></li>
+                                <li class="reddit"><a target="_blank" href="https://www.reddit.com/url=http://presstv.com//Detail/2018/03/20/556073/Saudi-bin-Salman-US-Trump"><i class="icon-reddit"></i></a></li>
+                                <li class="print margin-top"><a href="javascript:window.print()"><i class="icon-print"></i></a></li>
+                                <li class="mail"><a href="#"><i class="icon-mail"></i></a></li>
+                            </ul>
+                        </div>
+                        <div class="item-comments">
+                            <div id="hypercomments_widget"></div>
+                        </div>
+                        <script type="text/javascript">
+                            var extid = "ptvdefaultdetail556073";
+                            _hcwp = window._hcwp || [];
+                            _hcwp.push({ widget: "Stream", widget_id: 26215, xid: extid, hc_disable: 1, quote_disable: 1, social: "google, facebook, twitter, openid", comments_level: 2 });
+                            (function () {
+                                if ("HC_LOAD_INIT" in window) return;
+                                HC_LOAD_INIT = true;
+                                var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage || "en").substr(0, 2).toLowerCase();
+                                var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+                                hcc.src = ("https:" == document.location.protocol ? "https" : "http") + "://w.hypercomments.com/widget/hc/26215/" + lang + "/widget.js";
+                                var s = document.getElementsByTagName("script")[0];
+                                s.parentNode.insertBefore(hcc, s.nextSibling);
+                            })();
+                        </script>
+                    </article>
+                </div>
+                <div id="sidebar" class="col-xs-12 col-md-4">
+                    <div class="panel list titles sidebar-titles has-tabs">
+                        <span class="loading" data-loading="/callback/Latest1">Loading ...</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<img src="http://217.218.67.231/Submission/ViewCounter/556073" />
+    <footer id="footer">
+        <div class="wrapper _gray">
+            <div class="container">
+                <div id="sitemap" class="row">
+                    <div class="col-xs-4 col-sm-2 col-md-2 hidden-xs">
+                        &nbsp;
+                    </div>
+                    <div class="col-xs-12 col-sm-4 col-md-4">
+                        <div class="footer-menu">
+                            <h4 class="menu-title">
+                                <a href="#">News</a>
+                            </h4>
+                            <div class="row">
+                                <div class="col-xs-6">
+                                    <ol>
+                                        <li><a href="/Default/Section/101">Iran</a></li>
+                                        <li><a href="/Default/Section/102">Middle East</a></li>
+                                        <li><a href="/Default/Section/103"><span>US</span></a></li>
+                                        <li><a href="/Default/Section/108"><span>UK</span></a></li>
+                                        <li><a href="/Default/Section/104">Asia-Pacific</a></li>
+                                        <li><a href="/Default/Section/105">Africa</a></li>
+                                    </ol>
+                                </div>
+                                <div class="col-xs-6">
+                                    <ol>
+                                        <li><a href="/Default/Section/106">Europe</a></li>
+                                        <li><a href="/Default/Section/107">Americas</a></li>
+                                        <li><a href="/Default/Section/12001">Society</a></li>
+                                        <li><a href="/Default/Section/12002">Arts</a></li>
+                                        <li><a href="/Default/Section/12004">Business</a></li>
+                                        <li><a href="/Default/Section/12005">Sports</a></li>
+                                    </ol>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-2 col-md-2">
+                        <div class="footer-menu">
+                            <h4 class="menu-title">
+                                <a href="/Default/Section/130">Video</a>
+                            </h4>
+                            <ol>
+                                <li><a href="/Default/Section/13012">News Bulletin</a></li>
+                                <li><a href="/Default/Section/13001">Reports</a></li>
+                                <li><a href="/Default/Section/13002">Interviews</a></li>
+                            </ol>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-2 col-md-2">
+                        <div class="footer-menu">
+                            <h4 class="menu-title">
+                                <a href="#">TV</a>
+                            </h4>
+                            <ol>
+                                <li><a href="/Default/Live">Watch Live</a></li>
+                                <li><a href="/Default/Schedule">Schedule</a></li>
+                                <li><a href="#">Shows</a></li>
+                                <li><a href="http://presstvdoc.com">Documentaries</a></li>
+                            </ol>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-2 col-md-2">
+                        <div class="footer-menu">
+                            <h4 class="menu-title">
+                                <a href="#">PressTV</a>
+                            </h4>
+                            <ol>
+                                <li><a href="/Detail/2014/12/31/390988/About-PressTV">About PressTV</a></li>
+                                <li><a href="/Default/Frequencies">Frequencies</a></li>
+                                <li><a href="/Detail/2018/02/20/553044/privacy-policy">Privacy Policy</a></li>
+                                <li><a href="/Detail/2014/12/31/390989/Contact-Press-TV">Contact Info</a></li>
+                                <li><a href="/Default/SMS">SMS</a></li>
+                            </ol>
+                        </div>
+                    </div>
+                </div>
+                <div class="row hidden-xs">
+                    <div class="col-xs-12">
+                        <form class="form-inline newsletter" action="#" method="get" id="newsletter-form">
+                            <div class="form-group">
+                                <input id="inpEmail" type="email" placeholder="Subscribe to Newsletter" name="email" class="form-control" />
+                                <button type="submit" class="btn btn-default">Subscribe</button>
+                            </div>
+                            <div class="clearfix"></div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="copyright" class="wrapper _black">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-2 logo-container text-right">
+                        <a href="#" class="footer-logo">PressTV</a>
+                    </div>
+                    <div class="col-sm-10 text-right">
+                        &copy; Copyright 2018 PressTV. All rights reserved.
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="to-top">
+            <i class="icon-up-open-big"></i> Top
+        </div>
+    </footer>
+    <script src="/Scripts/jquery-1.11.3.min.js"></script>
+    <script src="/Scripts/owl.carousel.min.js"></script>
+    <script src="/Scripts/site.js"></script>
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-39704733-12', 'auto');
+        ga('send', 'pageview');
+
+
+        var upgradeTime = -26439662;
+        var seconds = upgradeTime;
+        function timer() {
+            var days = Math.floor(seconds / 24 / 60 / 60);
+            var hoursLeft = Math.floor((seconds) - (days * 86400));
+            var hours = Math.floor(hoursLeft / 3600);
+            var minutesLeft = Math.floor((hoursLeft) - (hours * 3600));
+            var minutes = Math.floor(minutesLeft / 60);
+            var remainingSeconds = seconds % 60;
+            if (remainingSeconds < 10) {
+                remainingSeconds = "0" + remainingSeconds;
+            }
+            if(location.pathname.toLowerCase().indexOf('section') < 0)
+                document.getElementById('countdown').innerHTML = 'VOTING STARTS IN ' + hours + ":" + minutes + ":" + remainingSeconds;
+            if (seconds <= 0) {
+                clearInterval(countdownTimer);
+                //document.getElementById('countdown').innerHTML = "Completed";
+            } else {
+                seconds--;
+            }
+        }
+
+    </script>
+</body>
+</html>

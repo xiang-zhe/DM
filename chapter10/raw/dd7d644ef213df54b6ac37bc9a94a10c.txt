@@ -1,0 +1,752 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html itemscope itemtype="http://schema.org/NewsArticle" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product#" class="no-js ie iem7" lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html itemscope itemtype="http://schema.org/NewsArticle" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product#" class="no-js ie lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html itemscope itemtype="http://schema.org/NewsArticle" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product#" class="no-js ie lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html itemscope itemtype="http://schema.org/NewsArticle" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product#" class="no-js ie lt-ie9" lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><html itemscope itemtype="http://schema.org/NewsArticle" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product#" class="no-js ie" lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product#"><![endif]-->
+<!--[if !IE]><!--><html itemscope itemtype="http://schema.org/NewsArticle" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product#" class="no-js" lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product#"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet" />
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+<link rel="shortcut icon" href="https://www.commondreams.org/sites/all/themes/omega_dreams/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon-precomposed" href="https://www.commondreams.org/sites/all/themes/omega_dreams/images/apple-touch/favicon-76x76.png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="https://www.commondreams.org/sites/all/themes/omega_dreams/images/apple-touch/favicon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://www.commondreams.org/sites/all/themes/omega_dreams/images/apple-touch/favicon-150x150.png" sizes="150x150" />
+<link rel="apple-touch-icon-precomposed" href="https://www.commondreams.org/sites/all/themes/omega_dreams/images/apple-touch/favicon-120x120.png" sizes="120x120" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="MobileOptimized" content="width" />
+
+<!-- Shareaholic Open Graph Tags -->
+<meta property='og:image' content='https://www.commondreams.org/sites/default/files/headline/thumbs/screen_shot_2017-10-20_at_2.18.09_pm_0.png' />
+<!-- Shareaholic Open Graph Tags End -->
+<link rel="amphtml" href="https://www.commondreams.org/news/2018/03/20/neglect-and-bureaucracy-six-months-after-maria-trump-condemned-failed-response?amp" />
+  <script type='text/javascript' data-cfasync='false'>
+    //<![CDATA[
+      _SHR_SETTINGS = {"endpoints":{"share_counts_url":"https:\/\/www.commondreams.org\/shareaholic\/api\/share_counts\/v1"}};
+    //]]>
+  </script>
+  <!-- This site is powered by Shareaholic - https://shareaholic.com -->
+  <script type='text/javascript'
+    data-cfasync='false'
+    src='//apps.shareaholic.com/assets/pub/shareaholic.js'
+    data-shr-siteid='cd402eba906de7188c28179edbb4ddef'
+    async='async' >
+  </script>
+
+<!-- Shareaholic Content Tags -->
+<meta name='shareaholic:site_name' content='Common Dreams' />
+<meta name='shareaholic:language' content='en' />
+<meta name='shareaholic:site_id' content='cd402eba906de7188c28179edbb4ddef' />
+<meta name='shareaholic:drupal_version' content='7.x-3.29' />
+<meta name='shareaholic:url' content='https://www.commondreams.org/news/2018/03/20/neglect-and-bureaucracy-six-months-after-maria-trump-condemned-failed-response' />
+<meta name='shareaholic:article_published_time' content='2018-03-20T14:45:40-04:00' />
+<meta name='shareaholic:article_modified_time' content='2018-03-20T17:45:42-04:00' />
+<meta name='shareaholic:article_author_name' content='jessica' />
+<meta name='shareaholic:keywords' content='u.s., menu categories, puerto rico, hurricane maria, fema' />
+<meta name='shareaholic:image' content='https://www.commondreams.org/sites/default/files/headline/thumbs/screen_shot_2017-10-20_at_2.18.09_pm_0.png' />
+<!-- Shareaholic Content Tags End -->
+<meta name="description" content="&quot;We&#039;re tired of being treated like second-class citizens.&quot;" />
+<meta name="keywords" content="U.S., Puerto Rico, Hurricane Maria, FEMA" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+<meta name="generator" content="Drupal 7 (https://drupal.org)" />
+<link rel="image_src" href="https://www.commondreams.org/sites/default/files/headlines/screen_shot_2017-10-20_at_2.18.09_pm_0.png" />
+<link rel="canonical" href="https://www.commondreams.org/news/2018/03/20/neglect-and-bureaucracy-six-months-after-maria-trump-condemned-failed-response" />
+<link rel="shortlink" href="https://www.commondreams.org/node/117270" />
+<meta property="og:site_name" content="Common Dreams" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="&#039;Neglect and Bureaucracy&#039;: Six Months After Maria, Trump Condemned for Failed Response in Puerto Rico" />
+<meta property="og:url" content="https://www.commondreams.org/news/2018/03/20/neglect-and-bureaucracy-six-months-after-maria-trump-condemned-failed-response" />
+<meta property="og:description" content="&quot;We&#039;re tired of being treated like second-class citizens.&quot;" />
+<meta property="og:image" content="https://www.commondreams.org/sites/default/files/headlines/screen_shot_2017-10-20_at_2.18.09_pm_0.png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@commondreams" />
+<meta name="twitter:site:id" content="14296273" />
+<meta name="twitter:creator:id" content="14296273" />
+<meta name="twitter:creator" content="@commondreams" />
+<meta name="twitter:url" content="https://www.commondreams.org/news/2018/03/20/neglect-and-bureaucracy-six-months-after-maria-trump-condemned-failed-response" />
+<meta name="twitter:title" content="&#039;Neglect and Bureaucracy&#039;: Six Months After Maria, Trump Condemned for Failed Response in Puerto Rico" />
+<meta name="twitter:description" content="&quot;We&#039;re tired of being treated like second-class citizens.&quot;" />
+<meta name="twitter:image" content="https://www.commondreams.org/sites/default/files/headlines/screen_shot_2017-10-20_at_2.18.09_pm_0.png" />
+<meta name="twitter:image:alt" content="A woman shields her face from the sun with a piece of wood, as residents wait to receive food and water, provided by FEMA, in a neighborhood without grid electricity or running water on Oct. 17, 2017 in San Isidro, Puerto Rico. (Photo: Mario Tama/Getty Images)" />
+  <title>'Neglect and Bureaucracy': Six Months After Maria, Trump Condemned for Failed Response in Puerto Rico</title>
+  <link type="text/css" rel="stylesheet" href="https://www.commondreams.org/sites/default/files/css/css_Fv50EZIGLeaXrpATgDt7418bTKMZuYI9JWOVVL3pG0g.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.commondreams.org/sites/default/files/css/css_kLfEoFabmjkUxxGRvzv0deRm0Ja-2RG3vWrmrR81fMo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.commondreams.org/sites/default/files/css/css_CXpF3yiPFnPY2ep5yZdtMEiF4suMqIrK0flnJt0tUxI.css" media="all" />
+
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="https://www.commondreams.org/sites/default/files/css/css_wpJzFglesB33x_2-2FkObj7L7ABV__2H8VCDbmSfD5Q.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://www.commondreams.org/sites/default/files/css/css_f5MRPfWVasRfNy-x_DzIo2PKKF-5lh9Oq_rxffu_uQQ.css" media="all" />
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js'>\x3C/script>")</script>
+<script src="https://www.commondreams.org/sites/default/files/js/js_ALflW1qsV-wPL6o1rSDEQRU4nUcXy95j4wWybir5MUc.js"></script>
+<script src="https://www.commondreams.org/sites/default/files/js/js_CaLfg8G471nyYwgmuC2-ievdAnqE9J_KCTCKN6ZoyE4.js"></script>
+
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script src="https://www.commondreams.org/sites/default/files/js/js_l1iEl-hY65c79QTBBcl2tmNsnQFuMrbhOOFZUO_dkyw.js"></script>
+<![endif]-->
+<script src="https://www.commondreams.org/sites/default/files/js/js_Wn-8pWIPKrKyxVGK87oeLevqbRY4GAusRwtx-dfNOfI.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-19360686-1", {"cookieDomain":".commondreams.org"});ga("send", "pageview");</script>
+<script src="https://www.commondreams.org/sites/default/files/js/js_VVAo6F6twt36JIyYoJ6N7Vjmum0NXMggeo5KxSCeGps.js"></script>
+<script src="//platform.twitter.com/widgets.js"></script>
+<script src="https://www.commondreams.org/sites/default/files/js/js_qkszW65KIuWugDOAjTYzg6Hu6YH7bQgXZp45zDjLjHY.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","image_caption":{"selector":".node--full .node__content img, img.caption, .field--type-image.caption img"},"discourseComments":{"host":"https:\/\/commons.commondreams.org","topic":{"id":"50128","slug":"neglect-and-bureaucracy-six-months-after-maria-trump-condemned-for-failed-response-in-puerto-rico"},"params":{"best":1,"min_trust_level":3,"min_score":2000}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"urlIsAjaxTrusted":{"\/news\/2018\/03\/20\/neglect-and-bureaucracy-six-months-after-maria-trump-condemned-failed-response":true},"ctas":{"modal_popup":{"delta":"cta_modal_winter_2017","after_page_views":"5"}}});</script>
+  <link href=”https://plus.google.com/u/0/112945048567964551573” rel=”publisher” />
+    <script type="text/javascript">
+        var _sf_async_config = _sf_async_config || {};
+        /** CONFIGURATION START **/
+        _sf_async_config.uid = 65712; // ACCOUNT NUMBER
+        _sf_async_config.domain = 'commondreams.org'; // DOMAIN
+        _sf_async_config.flickerControl = false;
+        _sf_async_config.useCanonical = true;
+        /** CONFIGURATION END **/
+        var _sf_startpt = (new Date()).getTime();
+    </script>
+    <script async src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-117270 node-type-headline section-news">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+    
+  <div id="navigation" class="slide-menu">
+<!--    <div id="close-slide-menu-button"><a href="#"><i class="fa fa-window-close-o"></i></a></div>-->
+    <div class="slide-menu-container">
+        <div class="l-region l-region--navigation">
+    <div id="block-block-63" class="block block--block block--block-63">
+        <div class="block__content">
+    <ul class="menu"><li><a href="/">Home</a></li>
+<li><a href="/email-subscription">Subscribe</a></li>
+<li><a href="https://secure.actblue.com/donate/support-independent-media?refcode=menu" target="blank">Donate</a></li>
+</ul>  </div>
+</div>
+<nav id="block-system-main-menu" role="navigation" class="block block--system block--menu block--system-main-menu">
+      
+  <ul class="menu"><li class="first leaf"><a href="/world" title="International news and editorials published by Common Dreams, an independent media outlet based in Portland Maine since 1997">World</a></li>
+<li class="leaf"><a href="/war-peace" title="War &amp;amp; Peace news and editorials published by Common Dreams, an independent media outlet based in Portland Maine since 1997">War &amp; Peace</a></li>
+<li class="leaf"><a href="/economy" title="News and editorials related to the economy published by Common Dreams, an independent media outlet based in Portland Maine since 1997">Economy</a></li>
+<li class="leaf"><a href="/climate" title="News and editorials related to the climate, climate change, and global warming published by Common Dreams, an independent media outlet based in Portland Maine since 1997">Climate</a></li>
+<li class="leaf"><a href="/rights" title="News and editorials related to the human and civil rights published by Common Dreams, an independent media outlet based in Portland Maine since 1997">Rights</a></li>
+<li class="leaf"><a href="/solutions" title="Solutions to issues facing U.S. citizens and humanity within news and editorials published by Common Dreams, an independent media outlet based in Portland Maine since 1997">Solutions</a></li>
+<li class="leaf"><a href="/us" title="News and editorials related to issues within the United States published by Common Dreams, an independent media outlet based in Portland Maine since 1997">U.S.</a></li>
+<li class="last leaf"><a href="/canada" title="News and editorials related to issues within the Canada published by Common Dreams, an independent media outlet based in Portland Maine since 1997">Canada</a></li>
+</ul></nav>
+<div id="block-block-64" class="block block--block block--block-64">
+        <div class="block__content">
+    <ul class="menu"><li><a href="https://www.facebook.com/commondreams.org" target="blank"><img src="https://www.commondreams.org/sites/default/files/facebook-white-300.png" alt="Common Dreams on Facebook" width="30" height="40" style="vertical-align: middle;" /></a><a href="https://www.twitter.com/commondreams" target="blank"><img src="https://www.commondreams.org/sites/default/files/twitter-white-transparent-lg.png" alt="Common Dreams on Twitter" width="40" height="40" style="vertical-align: middle; margin-right: 8px; margin-left: 8px;" /></a><a href="/rss.xml"><img src="https://www.commondreams.org/sites/default/files/rss-white-lg.png" alt="Common Dreams RSS feed" width="40" height="40" style="vertical-align: middle;" /></a></li>
+</ul>  </div>
+</div>
+<div id="block-block-65" class="block block--block block--block-65">
+        <div class="block__content">
+    <ul class="menu"><li><a href="/about-us">Common Dreams, a non-profit newscenter, was founded in 1997</a></li>
+<li><a href="/testimonials">Testimonials</a></li>
+</ul>  </div>
+</div>
+  </div>
+    </div>
+  </div>
+
+<div class="l-page has-one-sidebar has-sidebar-second">
+  <div id="header-container">
+    <div id="header-top">
+      <div class="l-header">
+        <div class="col header-left">
+          <div id="mobile-menu-wrapper">
+            <a id="slide-menu-button" href="#">
+              <span class="slide-menu-lines"></span>
+              <span class="label">Sections</span>
+            </a>
+          </div>
+
+          <div id="search-icon">
+            <a id="search-toggle" href="#"><i class="fa fa-search"></i> </a>
+          </div>
+        </div>
+
+        <div class="col header-middle">
+          <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+            <meta itemprop="name" content="Common Dreams">
+            <meta itemprop="url" content="https://www.commondreams.org/sites/default/files/cd_stacked_white_600.png">
+                          <a href="/" title="Home" rel="home" class="site-logo">
+                  <meta itemprop="foundingdate" content="1997" />
+                  <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+                  <img src="/sites/all/themes/omega_dreams/images/cd_stacked_blue.jpg" alt="Home" />
+                  <meta itemprop="url" content="https://www.commondreams.org/sites/default/files/cd_stacked_white_600.png">
+                  <meta itemprop="width" content="600">
+                  <meta itemprop="height" content="60">
+                </span>
+              </a>
+                                  </div>
+        </div>
+
+        <div class="col header-right">
+          <a class="button button--secondary" href="/email-subscription">SUBSCRIBE</a>
+          <a class="button button--primary" href="https://secure.actblue.com/donate/support-independent-media?refcode=header" target="_blank">DONATE</a>
+        </div>
+      </div>
+
+    </div>
+
+          <div id="header-content">
+          <div class="l-region l-region--header">
+    <div id="block-search-form" role="search" class="block block--search block--search-form">
+        <div class="block__content">
+    <form class="search-block-form" action="/news/2018/03/20/neglect-and-bureaucracy-six-months-after-maria-trump-condemned-failed-response" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><button type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt;" class="form-button"><i class="fa fa-search"></i></button></div><input type="hidden" name="form_build_id" value="form-MMlixWqV4p7AgTBnEqfyR1mesRvtuj3QV3G-3lREfKI" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+  </div>
+      </div>
+    
+<!--    <div id="navigation-container">-->
+<!--      --><!--    </div>-->
+  </div>
+
+  <div id="highlighted-container">
+        </div>
+
+  <div class="l-main">
+    <div class="l-content" role="main">
+      <a id="main-content"></a>
+                                    <article role="article" class="node node--headline node--full node--headline--full">
+  
+  
+  <div class="grid-size-12 node__content">
+    <div class="field-wrapper content-container clearfix inline-fields" id="field-wrapper-attribution"><div class="grouping-prefix">Published on </div><div class="field field--name-field-article-date field--type-datestamp field--label-hidden"><div class="field__items"><div class="field__item even"><span class="pb-timestamp" itemprop="datePublished" content="Tue, 20 Mar 2018 14:30:00 -0400"><span class="date-display-single">Tuesday, March 20, 2018</span><time class="dateline" datetime="Tue, 20 Mar 2018 14:30:00 -0400" itemprop="dateModified" content="Tue, 20 Mar 2018 14:30:00 -0400"></time></span></div></div></div><div class="grouping-spacer">by</div><div class="profile-titles clearfix"><span class="pb-byline" itemprop="author" itemscope itemtype="http://schema.org/Person"><meta itemprop="url" content="https://www.commondreams.org"><a href="https://www.commondreams.org" target="_blank" rel="nofollow"><span itemprop="name">Common Dreams</span></a></span></div></div><h1 class="node__title managed-node-title" itemprop="headline"><span itemprop="mainEntityOfPage">&#039;Neglect and Bureaucracy&#039;: Six Months After Maria, Trump Condemned for Failed Response in Puerto Rico</span></h1>
+<div class="field field--name-field-subtitle field--type-text-long field--label-hidden"><div class="field__items"><div class="field__item even"><div itemprop="description"><p>"We're tired of being treated like second-class citizens."</p></div></div></div></div><div class="field-wrapper content-container clearfix inline-fields" id="field-wrapper-authors"><div class="grouping-prefix">by</div><div class="profile-titles clearfix"><span class="pb-byline" itemprop="author" itemscope itemtype="http://schema.org/Person"><meta itemprop="url" content="https://www.commondreams.org/author/jessica-corbett-staff-writer"><a href="/author/jessica-corbett-staff-writer" target="_blank" rel="nofollow"><span itemprop="name">Jessica Corbett, staff writer</span></a></span></div></div><div class='shareaholic-canvas' data-app-id='6840204' data-app-id-name='headline_above_content' data-app='share_buttons' data-title='&#039;Neglect and Bureaucracy&#039;: Six Months After Maria, Trump Condemned for Failed Response in Puerto Rico' data-link='https://www.commondreams.org/news/2018/03/20/neglect-and-bureaucracy-six-months-after-maria-trump-condemned-failed-response' data-summary=''></div><div class="discourse-comments-link"><a href="https://commons.commondreams.org/t/neglect-and-bureaucracy-six-months-after-maria-trump-condemned-for-failed-response-in-puerto-rico/50128" target="_blank"><i class="fa fa-comment"></i> <span class="comment-count">0</span> Comments</a></div><div class="field field--name-field-article-img field--type-image field--label-hidden"><div class="field__items"><div class="field__item even"><div itemscope itemprop="image" itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="https://www.commondreams.org/sites/default/files/headlines/screen_shot_2017-10-20_at_2.18.09_pm_0.png"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_large/public/headlines/screen_shot_2017-10-20_at_2.18.09_pm_0.png?itok=I0YTxeMI" width="955" height="500" alt="Puerto Rico" /></div></div></div></div><div class="field field--name-field-main-caption field--type-text-long field--label-hidden"><div class="field__items"><div class="field__item even"><p>A woman shields her face from the sun with a piece of wood, as residents wait to receive food and water, provided by FEMA, in a neighborhood without grid electricity or running water on Oct. 17, 2017 in San Isidro, Puerto Rico. (Photo: Mario Tama/Getty Images)</p></div></div></div><div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even"><div itemprop="articleBody"><meta itemprop="image" content="https://www.commondreams.org/sites/default/files/headline/thumbs/screen_shot_2017-10-20_at_2.18.09_pm_0.png"><meta itemprop="wordCount" content="1147"><p>It has been exactly six months since <a href="https://www.commondreams.org/tag/hurricane-maria">Hurricane Maria</a> ravaged the island of Puerto Rico, but thousands of residents of the American territory still lack electricity or are unable to return home, illustrating how the Trump administration and Congress have failed to adequately address the crisis that followed the devastating storm in September.  </p>
+<p>Carmen Yulín Cruz, mayor of San Juan and an <a href="https://www.commondreams.org/news/2017/12/29/disaster-chief-san-juan-major-blasts-trump-slow-recovery-drags-100-days-after">outspoken critic</a> of the floundering federal relief efforts, tweeted Tuesday:</p>
+<div align="center">
+<blockquote class="twitter-tweet" data-lang="en">
+<p lang="en" dir="ltr" xml:lang="en">Six months after María things are not what they should be. Thousands still w/o electricity due to neglect and bureaucracy. Our lives matter!</p>
+<p>— Carmen Yulín Cruz (@CarmenYulinCruz) <a href="https://twitter.com/CarmenYulinCruz/status/976057283254898689?ref_src=twsrc%5Etfw">March 20, 2018</a></p></blockquote>
+<script charset="utf-8" type="text/javascript" src="https://platform.twitter.com/widgets.js"></script></div>
+<p>The <em>Associated Press </em><a href="https://apnews.com/de367742d0c440de85e4b6cb107973d4">reports</a> that "crews already have restored water to 99 percent of clients and power to 93 percent of customers, but more than 100,000 of them still remain in the dark and there are frequent power outages."</p>
+<p>The interim director of the <a href="https://www.commondreams.org/news/2018/02/19/instability-mounts-puerto-rico-amid-privatization-efforts-and-power-authoritys-cash">beleaguered</a> Puerto Rico Electric Power Authority (PREPA), Justo Gonzalez, said he doesn't expect the island to be fully powered until May, which will be, as the <em>AP</em> notes, "eight months after the Category 4 storm destroyed two-thirds of the island's power distribution system—and just as the 2018 Atlantic hurricane season is about to start."</p>
+<p class="pullquote">"The Trump administration must honor its commitment to Puerto Rico. Our hurricane-ravaged island may no longer be in the headlines, but we're still suffering, and we need help."<br />—<span style="font-size: 17px;">Mariangelie Ortiz Ortiz,<br />resident of Puerto Rico</span></p>
+<p>While the Center for Puerto Rican Studies at Hunter College in New York estimates that about 135,000 Puerto Ricans fled to the mainland after Maria, those who stayed behind are far from prepared to battle another season of intense storms.</p>
+<p>"There's so much left to do. We're still fighting to get our lights back on," Mariangelie Ortiz Ortiz, a student at the island's University of Turabo and a volunteer with two local organizations, <a href="https://www.nytimes.com/2018/03/20/opinion/hurricane-maria-puerto-rico.html?smid=tw-share">wrote</a> in a <em>New York Times </em>op-ed Tuesday. "We're working collectively to lift ourselves out of this nightmare, but we can't do it on our own."</p>
+<p>"I struggle to understand why the United States government continues to withhold the aid we were promised," Ortiz added. "We're tired of being treated like second-class citizens. The Trump administration must honor its commitment to Puerto Rico. Our hurricane-ravaged island may no longer be in the headlines, but we're still suffering, and we need help."</p>
+<p>Rep. Ro Khanna (D-Calif.) as well as Sens. Bernie Sanders (I-Vt.) and Elizabeth Warren (D-Mass.) are among the federal lawmakers who are fighting for additional aid for Puerto Rico. They acknowledged the six-month anniversary by condemning the U.S. government's response so far and demanding more action by the Trump administration and Congress.</p>
+<div align="center">
+<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en">
+<p lang="en" dir="ltr" xml:lang="en"><a href="https://twitter.com/hashtag/PuertoRico?src=hash&amp;ref_src=twsrc%5Etfw">#PuertoRico</a> is far from recovering from the impact of <a href="https://twitter.com/hashtag/HurricaneMaria?src=hash&amp;ref_src=twsrc%5Etfw">#HurricaneMaria</a>. Now is the time for <a href="https://twitter.com/fema?ref_src=twsrc%5Etfw">@FEMA</a> &amp; the federal government to make investments that reduce the vulnerability of the island to future natural disasters. <a href="https://t.co/hRUyWah4es">https://t.co/hRUyWah4es</a></p>
+<p>— Rep. Ro Khanna (@RepRoKhanna) <a href="https://twitter.com/RepRoKhanna/status/976138800568057857?ref_src=twsrc%5Etfw">March 20, 2018</a></p></blockquote>
+<script charset="utf-8" type="text/javascript" src="https://platform.twitter.com/widgets.js"></script><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr" xml:lang="en">6 months after Hurricane Maria we are still seeing a humanitarian crisis with schools being closed and people struggling to get clean drinking water. 1 in 10 people in Puerto Rico still have no electricity – in the wealthiest nation on earth. That is a disgrace.</p>
+<p>— Bernie Sanders (@SenSanders) <a href="https://twitter.com/SenSanders/status/976170105016082432?ref_src=twsrc%5Etfw">March 20, 2018</a></p></blockquote>
+<script charset="utf-8" type="text/javascript" src="https://platform.twitter.com/widgets.js"></script></div>
+<p>Warren, i<span style="font-size: 17px;">n a</span><span style="font-size: 17px;"> </span><a style="font-size: 17px;" href="https://medium.com/@SenWarren/six-months-after-hurricane-maria-c796cb696448">piece</a><span style="font-size: 17px;"> </span><span style="font-size: 17px;">published Tuesday on</span><span style="font-size: 17px;"> </span><em style="font-size: 17px;">Medium</em><span style="font-size: 17px;">, </span><span style="font-size: 17px;">wrote that "recovery is happening — </span><a style="font-size: 17px;" href="https://www.apnews.com/aacab7041b4748408bd3911ad476d140" rel="nofollow noopener" target="_blank" data-href="https://www.apnews.com/aacab7041b4748408bd3911ad476d140">but too slowly</a><span style="font-size: 17px;">," noting that "Puerto Rico has received only a fraction of the financial assistance it requested from the federal government." Echoing demands she has made on Capitol Hill, Warren called on her colleagues to pass legislation that provides federal assistance for the island's battered </span><a style="font-size: 17px;" href="https://www.warren.senate.gov/oversight/letters/warren-colleagues-seek-update-from-fema-army-corps-on-power-restoration-efforts-in-puerto-rico" rel="nofollow noopener" target="_blank" data-href="https://www.warren.senate.gov/oversight/letters/warren-colleagues-seek-update-from-fema-army-corps-on-power-restoration-efforts-in-puerto-rico">electrical grid</a><span style="font-size: 17px;">; </span><a style="font-size: 17px;" href="https://www.warren.senate.gov/newsroom/press-releases/warren-markey-urge-fema-to-extend-benefits-for-transitional-shelter-assistance-program-to-puerto-rico-evacuees" rel="nofollow noopener" target="_blank" data-href="https://www.warren.senate.gov/newsroom/press-releases/warren-markey-urge-fema-to-extend-benefits-for-transitional-shelter-assistance-program-to-puerto-rico-evacuees">additional housing</a><span style="font-size: 17px;"> for those who have been displaced;</span><a style="font-size: 17px;" href="https://www.warren.senate.gov/newsroom/press-releases/-warren-massachusetts-delegation-question-samhsa-on-mental-health-challenges-in-puerto-rico-us-virgin-islands" rel="nofollow noopener" target="_blank" data-href="https://www.warren.senate.gov/newsroom/press-releases/-warren-massachusetts-delegation-question-samhsa-on-mental-health-challenges-in-puerto-rico-us-virgin-islands"> mental health services</a><span style="font-size: 17px;">; and </span><a style="font-size: 17px;" href="https://www.warren.senate.gov/newsroom/press-releases/senator-warren-colleagues-urge-ed-to-help-college-students-and-student-loan-borrowers-affected-by-hurricanes-irma-and-maria" rel="nofollow noopener" target="_blank" data-href="https://www.warren.senate.gov/newsroom/press-releases/senator-warren-colleagues-urge-ed-to-help-college-students-and-student-loan-borrowers-affected-by-hurricanes-irma-and-maria">college students</a><span style="font-size: 17px;"> who hope to continue earning their degrees.</span></p>
+<p>"I'm fighting to ensure that every penny of federal disaster relief <a href="https://velazquez.house.gov/sites/velazquez.house.gov/files/21618%20Letter%20to%20FOMB%20re%20disaster%20supplemental%20funds%20to%20be%20used%20only%20for%20relief.pdf" rel="nofollow noopener" target="_blank" data-href="https://velazquez.house.gov/sites/velazquez.house.gov/files/21618%20Letter%20to%20FOMB%20re%20disaster%20supplemental%20funds%20to%20be%20used%20only%20for%20relief.pdf">goes to those in need</a>, not to Wall Street vulture funds," Warren declared, referring to the island's <a href="https://www.commondreams.org/news/2017/09/29/wall-street-vultures-circle-demands-immediate-puerto-rico-debt-relief">struggle with substantial debt</a>, which has hindered the recovery. "And I'll keep fighting for disaster and <a href="https://www.warren.senate.gov/newsroom/press-releases/sen-warren-rep-velazquez-call-for-discharge-of-puerto-rico-and-039s-debt" rel="nofollow noopener" target="_blank" data-href="https://www.warren.senate.gov/newsroom/press-releases/sen-warren-rep-velazquez-call-for-discharge-of-puerto-rico-and-039s-debt">debt relief</a> for Puerto Rico."</p>
+<p class="pullquote">"At the core of this battle, is a very simple question: Who is Puerto Rico for? Is it for Puerto Ricans, or is it for outsiders? And after a collective trauma like Hurricane Maria, who has a right to decide?"<br />—Naomi Klein, <em>The Intercept</em></p>
+<p>However, as Naomi Klein outlined in <em>The Intercept</em> on Tuesday, as Puerto Ricans plead for improvements to the government's contributions to the ongoing recovery, there is a war of ideas raging on the island over how exactly to rebuild.</p>
+<p>"One dream is grounded in a desire for people to exercise collective sovereignty over their land, energy, food, and water; the other in a desire for a small elite to secede from the reach of government altogether, liberated to accumulate unlimited private profit," Klein explained.</p>
+<p>"At the core of this battle," Klein noted, "is a very simple question: Who is Puerto Rico for? Is it for Puerto Ricans, or is it for outsiders? And after a collective trauma like Hurricane Maria, who has a right to decide?"</p>
+<p>Displaced Puerto Ricans and critics of the U.S. government's response <a href="https://www.nbcnews.com/storyline/puerto-rico-crisis/still-waiting-power-six-months-after-hurricane-maria-frustrated-puerto-n857951">protested</a> outside the Federal Emergency Management Agency (FEMA) headquarters in Washington, D.C. on Tuesday. They were joined by Democratic Reps. Luis Gutiérrez (Ill.) and Darren Soto (Fla.), who are of Puerto Rican descent, as well as Adriano Espaillat (N.Y.), whose district includes one of the largest Puerto Rican communities in the country.</p>
+<div align="center">
+<blockquote class="twitter-tweet" data-lang="en">
+<p lang="en" dir="ltr" xml:lang="en">Today marks <a href="https://twitter.com/hashtag/6MonthsAfterMaria?src=hash&amp;ref_src=twsrc%5Etfw">#6MonthsAfterMaria</a> devastated much of PR &amp; USVI. It’s been the longest blackout in US history. Our American citizens went months w/ out potable water, electricity, and thousands still in crisis. UNACCEPTABLE. We demand better &amp; must rebuild stronger! <a href="https://t.co/Y1c8ctwPJq">pic.twitter.com/Y1c8ctwPJq</a></p>
+<p>— US Rep. Darren Soto (@RepDarrenSoto) <a href="https://twitter.com/RepDarrenSoto/status/976150200753491968?ref_src=twsrc%5Etfw">March 20, 2018</a></p></blockquote>
+<script charset="utf-8" type="text/javascript" src="https://platform.twitter.com/widgets.js"></script></div>
+<p>While a FEMA spokesman <a href="https://www.nbcnews.com/storyline/puerto-rico-crisis/still-waiting-power-six-months-after-hurricane-maria-frustrated-puerto-n857951">told</a> <em>NBC News</em> that due to lack of power and potable water, the agency is still distributing "50,000 meals and 50,000 liters a day to parts of the island," the agency's on-the-ground efforts have been hobbled by scandals over the past six months. As <em>Democracy Now!</em> <a href="https://www.democracynow.org/2018/2/19/san_juan_mayor_calls_for_end">reported</a> last month, multiple contractors have failed to deliver necessary items, ranging from tarps to meals.</p>
+<p class="pullquote">"It's impossible to talk about what happened in Puerto Rico without talking about climate change."<br />—Elizabeth Yeampierre, UPROSE</p>
+<p>And despite the fact that 2017 was the <a href="https://www.commondreams.org/news/2018/01/08/climate-crisis-intensifies-300-billion-damages-makes-2017-costliest-year-ever">costliest year on record</a> for damage from disasters like the hurricane that destroyed Puerto Rico, the Trump administration's four-year strategic plan for FEMA, released late last week, <a href="https://www.commondreams.org/news/2018/03/16/despite-unprecedented-year-extreme-weather-fema-ditches-every-single-mention-climate">does not include</a> a single mention of "climate change," even as global warming <a href="https://www.commondreams.org/news/2017/09/07/planet-rages-fires-and-storms-ire-aimed-murderous-climate-denialism">amplifies</a> the destructiveness of extreme weather events.</p>
+<p>"It's impossible to talk about what happened in Puerto Rico without talking about climate change," Elizabeth Yeampierre, executive director of the Brooklyn-based Latino group UPROSE, one of the organizations working on a '<a href="http://www.ourpowercampaign.org/pr_jan18">just recovery</a>' for the island, told Klein.</p>
+<p>"It would be foolish for us to think that this is the last storm, that there aren't going to be other recurring extreme weather events," Yeampierre added, concluding that if recovery efforts properly account for long-term sustainability, Puerto Rico could be a model that enables the U.S. and the rest of the world to "start really thinking about how you prepare for the fact that climate change is here."</p>
+</div></div></div></div><div class="field-wrapper content-container clearfix" id="field-wrapper-cta-change"><div class="content-prompt clearfix"><div class="slim-header-content" data-cta-slim-header="&lt;i class='fa fa-info-circle'&gt;&lt;/i&gt; &lt;strong&gt;Did you find this article useful? &lt;/strong&gt; Support our journalism.&lt;a href='https://secure.actblue.com/donate/free-and-independent?refcode=winter18_cta2' target='_blank' class='btn text-center'&gt;Donate Today&lt;/a&gt;"></div>
+</div></div><div class="field-wrapper content-container clearfix" id="field-wrapper-copyright-cond"><div class="field field--name-field-copyright field--type-text field--label-hidden"><div class="field__items"><div class="field__item even">This work is licensed under a Creative Commons Attribution-Share Alike 3.0 License</div></div></div></div><div class="field-wrapper content-container clearfix" id="field-wrapper-fundraising"><div class="content-prompt clearfix"><p><div class="cta-content-block-one">
+    <div class="card">
+        <div class="card-header">
+            <h4>FRIENDS: Now More Than Ever</h4>
+        </div>
+        <div class="card-block">
+          <p><big>Independent journalism has become the last firewall against government and corporate lies. Yet, with frightening regularity, independent media sources are losing funding, closing down or being blacked out by Google and Facebook. Never before has independent media been more endangered. <strong>If you believe in Common Dreams, if you believe in people-powered independent media, <a href="https://secure.actblue.com/donate/free-and-independent?refcode=article_body" target="_blank"> please support us now</a> and help us fight—with truths—against the lies that would smother our democracy.</strong> Please help keep Common Dreams alive and growing. Thank you. <em>-- Craig Brown, Co-founder </em></big></p>
+<p><a href="https://secure.actblue.com/donate/free-and-independent?refcode=article_body_button" target="_blank"><img src="/sites/default/files/users/user18439/support-common-dreams-gold.png" alt="Support Common Dreams" width="265" height="42" /></a><a href="https://secure.actblue.com/donate/free-and-independent?refcode=article_body_button_cc" target="_blank"><img src="/sites/default/files/users/user18439/cc_payment_options.svg" alt="Support Common Dreams" width="269" height="42" /></a></p>
+        </div>
+    </div>
+</div>
+</p>
+</div></div><div class="field-wrapper content-container clearfix" id="field-wrapper-share-this-article"><h3 class="field-wrapper-title">Share This Article</h3>
+<div class='shareaholic-canvas' data-app-id='6840195' data-app-id-name='headline_below_content' data-app='share_buttons' data-title='&#039;Neglect and Bureaucracy&#039;: Six Months After Maria, Trump Condemned for Failed Response in Puerto Rico' data-link='https://www.commondreams.org/news/2018/03/20/neglect-and-bureaucracy-six-months-after-maria-trump-condemned-failed-response' data-summary=''></div></div><div class="iwsearch-related-content clearfix">
+  <div class="related-content-title clearfix"><h3>Related Articles</h3></div>
+
+  <div class="clearfix related-content-wrapper">
+            <div class="clearfix">
+                                          <div class="related-item alpha">
+                      <article role="article" class="node node--headline node--promoted node--sticky node--related node--headline--related">
+                        <div class="grid-size-12 node__content">
+                                                        <div class="field field--name-field-image field--type-image field--label-hidden">
+                                <div class="field__items">
+                                    <div class="field__item even">
+                                        <a href="/news/2018/02/19/instability-mounts-puerto-rico-amid-privatization-efforts-and-power-authoritys-cash"><img src="https://www.commondreams.org/sites/default/files/styles/cd_medium_thumb/public/headline/thumbs/25010415247_267e0fd2b5_o11.jpg?itok=hNxjjgs3" width="220" height="115" alt="" /></a>                                    </div>
+                                </div>
+                            </div>
+                                                                                    <div class="field field--name-field-hp-title field--type-text field--label-hidden">
+                                <div class="field__items">
+                                    <div class="field__item even">
+                                        <a href="/news/2018/02/19/instability-mounts-puerto-rico-amid-privatization-efforts-and-power-authoritys-cash">Instability Mounts in Puerto Rico Amid Privatization Efforts and Power Authority&#039;s Cash Shortfall</a>                                    </div>
+                                </div>
+                            </div>
+                                                    </div>
+                      </article>
+                  </div>
+                                                        <div class="related-item">
+                      <article role="article" class="node node--headline node--promoted node--sticky node--related node--headline--related">
+                        <div class="grid-size-12 node__content">
+                                                        <div class="field field--name-field-image field--type-image field--label-hidden">
+                                <div class="field__items">
+                                    <div class="field__item even">
+                                        <a href="/news/2018/03/16/despite-unprecedented-year-extreme-weather-fema-ditches-every-single-mention-climate"><img src="https://www.commondreams.org/sites/default/files/styles/cd_medium_thumb/public/headline/thumbs/gettyimages-8625927621.jpg?itok=74WuglwT" width="220" height="115" alt="" /></a>                                    </div>
+                                </div>
+                            </div>
+                                                                                    <div class="field field--name-field-hp-title field--type-text field--label-hidden">
+                                <div class="field__items">
+                                    <div class="field__item even">
+                                        <a href="/news/2018/03/16/despite-unprecedented-year-extreme-weather-fema-ditches-every-single-mention-climate">Despite Unprecedented Year of Extreme Weather, FEMA Ditches Every Single Mention of &#039;Climate&#039; From Four-Year Strategic Plan</a>                                    </div>
+                                </div>
+                            </div>
+                                                    </div>
+                      </article>
+                  </div>
+                                                        <div class="related-item">
+                      <article role="article" class="node node--headline node--promoted node--sticky node--related node--headline--related">
+                        <div class="grid-size-12 node__content">
+                                                        <div class="field field--name-field-image field--type-image field--label-hidden">
+                                <div class="field__items">
+                                    <div class="field__item even">
+                                        <a href="/news/2018/03/16/midst-immense-suffering-caused-climate-crisis-caribbean-religious-leaders-call-debt"><img src="https://www.commondreams.org/sites/default/files/styles/cd_medium_thumb/public/headline/thumbs/gettyimages-845814718_0.png?itok=5mkR09Ux" width="220" height="115" alt="" /></a>                                    </div>
+                                </div>
+                            </div>
+                                                                                    <div class="field field--name-field-hp-title field--type-text field--label-hidden">
+                                <div class="field__items">
+                                    <div class="field__item even">
+                                        <a href="/news/2018/03/16/midst-immense-suffering-caused-climate-crisis-caribbean-religious-leaders-call-debt">In Midst of &#039;Immense Suffering&#039; Caused by Climate Crisis, Caribbean Religious Leaders Call for Debt Relief</a>                                    </div>
+                                </div>
+                            </div>
+                                                    </div>
+                      </article>
+                  </div>
+                                                        <div class="related-item omega">
+                      <article role="article" class="node node--headline node--promoted node--sticky node--related node--headline--related">
+                        <div class="grid-size-12 node__content">
+                                                        <div class="field field--name-field-image field--type-image field--label-hidden">
+                                <div class="field__items">
+                                    <div class="field__item even">
+                                        <a href="/news/2018/03/21/battle-paradise-naomi-klein-disaster-capitalism-fight-puerto-ricos-future"><img src="https://www.commondreams.org/sites/default/files/styles/cd_medium_thumb/public/headline/thumbs/battleforparadise-klein-dn.jpg?itok=Z_JuqZJn" width="220" height="115" alt="" /></a>                                    </div>
+                                </div>
+                            </div>
+                                                                                    <div class="field field--name-field-hp-title field--type-text field--label-hidden">
+                                <div class="field__items">
+                                    <div class="field__item even">
+                                        <a href="/news/2018/03/21/battle-paradise-naomi-klein-disaster-capitalism-fight-puerto-ricos-future">“The Battle for Paradise”: Naomi Klein on Disaster Capitalism &amp; the Fight for Puerto Rico’s Future</a>                                    </div>
+                                </div>
+                            </div>
+                                                    </div>
+                      </article>
+                  </div>
+                                </div>
+      </div>
+</div>
+<div class="field-wrapper content-container clearfix inline-fields" id="field-wrapper-terms"><div class="grouping-prefix">More in: </div><div class="field field--name-field-menu-categories field--type-taxonomy-term-reference field--label-hidden"><div class="field__items"><div class="field__item even"><a href="/us">U.S.</a></div></div></div><div class="grouping-spacer">, </div><div class="field field--name-field-topics field--type-taxonomy-term-reference field--label-hidden"><div class="field__items"><div class="field__item even"><a href="/tag/puerto-rico">Puerto Rico</a>, <a href="/tag/hurricane-maria">Hurricane Maria</a>, <a href="/tag/fema">FEMA</a></div></div></div></div>
+<div class="discourse-comments">
+  <div id="discourse-comments-header" class="comments-header clearfix">
+      <h3><a class="discourse-title-link" target="_blank" href="https://commons.commondreams.org/t/neglect-and-bureaucracy-six-months-after-maria-trump-condemned-for-failed-response-in-puerto-rico/50128">Top Comments</a></h3>
+  </div>
+    
+  <div id="discourse-comments-footer" class="comments-footer clearfix">
+            <a class="discourse-footer-link" target="_blank" href="https://commons.commondreams.org/t/neglect-and-bureaucracy-six-months-after-maria-trump-condemned-for-failed-response-in-puerto-rico/50128">(Click to see more comments or to join the conversation)</a>
+  </div>
+</div>
+  </div>
+
+    </article>
+          </div>
+
+          <aside class="l-region l-region--sidebar-second">
+    <div id="block-block-54" class="block block--block block--block-54">
+        <h2 class="block__title"><span>Sign-up for Newsletter</span></h2>
+      <div class="block__content">
+    <div class="newsletter-form">
+<form name="custom_form" action="https://info.commondreams.org/acton/eform/33231/0004/d-ext-0001" enctype="multipart/form-data" accept-charset="UTF-8" id="custom_form">
+<p><input type="checkbox" name="Subscription Choice" id="form_0004_fld_1-0" value="Daily Newsletter" checked="checked" /> Daily Newsletter<br /><input type="checkbox" name="Subscription Choice" id="form_0004_fld_1-1" value="Weekly Newsletter" checked="checked" /> Weekly Newsletter</p>
+<p><input type="text" class="formFieldText formFieldLarge" id="form_0004_fld_0" name="Email" placeholder="E-mail address" required="" /></p>
+<p><input id="form_0004_ao_submit_input" type="submit" name="Submit" value="Sign Up" onclick="doSubmit(document.getElementById('form_0004'))" /><br /></p></form>
+</div>  </div>
+</div>
+<div id="block-views-views-articles-block-1" class="block block--views block--views-views-articles-block-1">
+        <h2 class="block__title"><span>Today's Views</span></h2>
+      <div class="block__content">
+    <div class="view view-views-articles view-id-views_articles view-display-id-block_1 view-dom-id-da4f5fd967bfde4e7db23392ede0b6fc">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1">
+      
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="/views/2018/03/22/study-finds-single-payer-viable-2018-elections"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/views-article/thumbs/dems-m4a-share-image-800x420.jpg?itok=mlqOWuNn" width="100" height="58" alt="" /></a></span>  </span>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Russell Mokhiber</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2018/03/22/study-finds-single-payer-viable-2018-elections">Study Finds Single Payer Viable in 2018 Elections</a></div>  </div>  </div>
+  <div class="views-row views-row-2">
+      
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="/views/2018/03/22/what-death-white-rhino-really-tells-us"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/views-article/thumbs/15965594976_64bb70733b_z.jpg?itok=Vx9bhyU3" width="100" height="58" alt=" &quot;The Kenyan government&#039;s rank corruption also compromises its ability to productively fight the scourge of poaching, and contributes to national instability and widespread poverty -- which in turn drives more poaching.&quot;(Photo: Gerry Zambonini/flickr/cc) " /></a></span>  </span>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Jill Filipovic</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2018/03/22/what-death-white-rhino-really-tells-us">What the Death of a White Rhino Really Tells Us</a></div>  </div>  </div>
+  <div class="views-row views-row-3">
+      
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="/views/2018/03/22/betsy-devos-wants-cut-public-education-bone"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/views-article/thumbs/devos_0.jpeg?itok=K6Fv2s7W" width="100" height="58" alt="&quot;The outrage over DeVos is warranted. Her inability to answer direct questions is confounding, and she insults public school educators, who she’s expected to help support and lead, at nearly every turn.&quot; (Photo: Reuters)" /></a></span>  </span>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Jeff Bryant</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2018/03/22/betsy-devos-wants-cut-public-education-bone">Betsy DeVos Wants To Cut Public Education to The Bone</a></div>  </div>  </div>
+  <div class="views-row views-row-4">
+      
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="/views/2018/03/22/how-change-your-facebook-settings-opt-out-platform-api-sharing"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/views-article/thumbs/facebook.jpeg?itok=KIbs56Mm" width="100" height="58" alt="&quot;This news is a reminder of the inevitable privacy risks that users face when their personal information is captured, analyzed, indefinitely stored, and shared by a constellation of data brokers, marketers, and social media companies.&quot;(Photo: Legal Loop)" /></a></span>  </span>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Gennie Gebhart</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2018/03/22/how-change-your-facebook-settings-opt-out-platform-api-sharing">How To Change Your Facebook Settings To Opt Out of Platform API Sharing</a></div>  </div>  </div>
+  <div class="views-row views-row-5">
+      
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="/views/2018/03/22/donald-trumps-america-already-hell-enough-muslim-american"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/views-article/thumbs/dumppp.jpeg?itok=5j9oQCzm" width="100" height="58" alt="&quot;In this moment of growing Islamophobia, at a time when a president has a desire to simply ban foreign Muslims and cast American ones as the worst of the worst, it’s just one more step into my fears of the future.&quot; (Photo: Sue Ogrocki / AP)" /></a></span>  </span>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Nate Terani</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2018/03/22/donald-trumps-america-already-hell-enough-muslim-american">Donald Trump’s America: Already Hell Enough for This Muslim-American</a></div>  </div>  </div>
+  <div class="views-row views-row-6">
+      
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="/views/2018/03/22/sea-shining-sea-industrial-ag-fouls-americas-waterways"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/views-article/thumbs/20851963168_a735971c72_z.jpg?itok=JP_Qtoku" width="100" height="58" alt="&quot;Industrial agribusiness, led by multi-billion dollar corporations like Tyson, is destroying our most precious natural resource—water.&quot; (Photo: Dept. of Fish and Wildlife Resources) " /></a></span>  </span>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Katherine Paul</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2018/03/22/sea-shining-sea-industrial-ag-fouls-americas-waterways">From 'Sea to Shining Sea,' Industrial Ag Fouls America's Waterways...</a></div>  </div>  </div>
+  <div class="views-row views-row-7">
+      
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="/views/2018/03/22/how-congress-censored-internet"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/views-article/thumbs/screen_shot_2018-03-22_at_7.23.38_am.png?itok=bYMT3Bk8" width="100" height="58" alt="" /></a></span>  </span>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Elliot Harmon</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2018/03/22/how-congress-censored-internet">How Congress Censored the Internet</a></div>  </div>  </div>
+  <div class="views-row views-row-8">
+      
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="/views/2018/03/22/trump-terrorism-and-politics-witch-hunts"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/views-article/thumbs/thumbsup_0.jpg?itok=CCUbyWK2" width="100" height="58" alt="" /></a></span>  </span>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">John Feffer</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2018/03/22/trump-terrorism-and-politics-witch-hunts">Trump, Terrorism, and the Politics of Witch Hunts</a></div>  </div>  </div>
+  <div class="views-row views-row-9">
+      
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="/views/2018/03/22/current-gun-control-debate-not-really-about-gun-control"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/views-article/thumbs/blah.png?itok=Nj2ptBDi" width="100" height="58" alt="&quot;Society has only a few tools in its toolkit to solve public-health crises. Perhaps the most powerful of these tools is legislation.&quot; (Photo: David Becker/Getty Images)" /></a></span>  </span>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Ken Levy</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2018/03/22/current-gun-control-debate-not-really-about-gun-control">The (Current) Gun-Control Debate Is Not Really About Gun Control</a></div>  </div>  </div>
+  <div class="views-row views-row-10">
+      
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="/views/2018/03/22/im-taking-action-protect-my-grandchildrens-future"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/views-article/thumbs/stoppp.jpeg?itok=HuQfHS0-" width="100" height="58" alt="Terry Christenson inside Kinder Morgan’s compound peacefully protesting the controversial Trans Mountain pipeline. (Photo: Risingtidenorthamerica.org) " /></a></span>  </span>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Andy Rowell</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2018/03/22/im-taking-action-protect-my-grandchildrens-future">“I’m Taking This Action To Protect My Grandchildren’s Future”</a></div>  </div>  </div>
+  <div class="views-row views-row-11">
+      
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="/views/2018/03/22/vulture-hedge-fund-capitalism-still-devouring-us-jobs-will-we-ever-do-something"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/views-article/thumbs/14840689356_044dc38565_z.jpg?itok=BshZidfv" width="100" height="58" alt="Toys R Us’s management has told its employees that it will sell or close all of its U.S. stores.  (Photo: Mike Mozart/flickr/cc) " /></a></span>  </span>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Will Bunch</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2018/03/22/vulture-hedge-fund-capitalism-still-devouring-us-jobs-will-we-ever-do-something">Vulture Hedge-Fund Capitalism Still Devouring U.S. Jobs. Will We Ever Do Something?</a></div>  </div>  </div>
+  <div class="views-row views-row-12">
+      
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="/views/2018/03/22/normalizing-violence"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/views-article/thumbs/guns_2.jpeg?itok=zqhMWE6o" width="100" height="58" alt="&quot;When violence is normal and ongoing and, in the case of war, celebrated and glorified, it feeds on itself.&quot; (Joshua Roberts / Reuters)" /></a></span>  </span>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Robert C. Koehler</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2018/03/22/normalizing-violence">Normalizing Violence</a></div>  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="https://www.commondreams.org/views">
+    More Views  </a>
+</div>
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-block-28" class="block block--block block--block-28">
+        <h2 class="block__title"><span>Order stickers here...</span></h2>
+      <div class="block__content">
+    <table style="width: 100%;border-spacing: 5px; text-align: center;"><tbody><tr><td style="width: 32%; text-align: left;">
+<p><a href="/resist#resist"><img src="/sites/default/files/resist-bumper-sticker-200px.jpg" alt="Order 99% Stickers Here..." /></a></p>
+</td>
+<td style="width: 2%; text-align: left;"> </td>
+<td style="width: 32%; text-align: left;">
+<p align="center"><a href="/resist#99"><img src="/sites/default/files/users/user18439/99_h.png" alt="Order 99% Stickers Here..." /></a></p>
+</td>
+<td style="width: 2%; text-align: left;"> </td>
+<td style="width: 32%; text-align: left;">
+<p><a href="/resist#notnormal"><img src="/sites/default/files/notnormal-resist-bumper-sticker-200px.jpg" alt="Order #NotNormal Stickers Here..." /></a></p>
+</td>
+</tr></tbody></table>  </div>
+</div>
+<div id="block-views-news-block-todays-top-news" class="block block--views block--views-news-block-todays-top-news">
+        <h2 class="block__title"><span>News That Matters</span></h2>
+      <div class="block__content">
+    <div class="view view-news view-id-news view-display-id-block_todays_top_news primary-news-article view-dom-id-097060dbb71f1859dba313a20307fc20">
+        
+  
+      <div class="attachment attachment-before">
+      <div class="view view-news view-id-news view-display-id-block_promoted primary-news-article">
+        
+  
+  
+      <div class="view-content">
+      <table class="views-table cols-0">
+      <tbody>
+      <tr>
+              <td class="views-field views-field-field-image">
+          <a href="/news/2018/03/22/trump-picks-unhinged-advocate-world-war-iii-john-bolton-national-security-adviser"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/headline/thumbs/blog_zuma_john_bolton.jpg?itok=PZTYamam" width="100" height="58" alt="" /></a>        </td>
+              <td class="views-field views-field-field-hp-title">
+          <a href="/news/2018/03/22/trump-picks-unhinged-advocate-world-war-iii-john-bolton-national-security-adviser">Trump Picks &#039;Unhinged Advocate for World War III&#039; John Bolton as New National Security Adviser</a>        </td>
+          </tr>
+      <tr>
+              <td class="views-field views-field-field-image">
+          <a href="/news/2018/03/22/amid-deletefacebook-fervor-experts-say-time-tackle-big-data-profiteers"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/headline/thumbs/2017-10-23-image-221.jpg?itok=Radaix57" width="100" height="58" alt="" /></a>        </td>
+              <td class="views-field views-field-field-hp-title">
+          <a href="/news/2018/03/22/amid-deletefacebook-fervor-experts-say-time-tackle-big-data-profiteers">Amid #DeleteFacebook Fervor, Experts Say Time to Tackle Big Data Profiteers</a>        </td>
+          </tr>
+      <tr>
+              <td class="views-field views-field-field-image">
+          <a href="/news/2018/03/22/uproar-after-congress-sneaks-attack-digital-privacy-rights-omnibus-spending-bill"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/headline/thumbs/cloud-leaky.jpg?itok=5zNrcdS8" width="100" height="58" alt="cloud Act graphic" /></a>        </td>
+              <td class="views-field views-field-field-hp-title">
+          <a href="/news/2018/03/22/uproar-after-congress-sneaks-attack-digital-privacy-rights-omnibus-spending-bill">Uproar After Congress Sneaks Attack on Digital Privacy Rights Into Omnibus Spending Bill</a>        </td>
+          </tr>
+      <tr>
+              <td class="views-field views-field-field-image">
+          <a href="/news/2018/03/22/days-after-calling-doj-kill-mueller-probe-trump-personal-attorney-john-dowd-quits"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/headline/thumbs/2018-03-222_0.jpg?itok=A7Xhphgy" width="100" height="58" alt="" /></a>        </td>
+              <td class="views-field views-field-field-hp-title">
+          <a href="/news/2018/03/22/days-after-calling-doj-kill-mueller-probe-trump-personal-attorney-john-dowd-quits">Days After Calling on DOJ to Kill Mueller Probe, Trump Attorney John Dowd Quits</a>        </td>
+          </tr>
+    </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+      <div class="view-content">
+      <table class="views-table cols-0">
+      <tbody>
+      <tr>
+              <td class="views-field views-field-field-image">
+          <a href="/news/2018/03/22/students-demand-end-nras-stranglehold-group-says-stronger-democracy-key-gun-control"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/headline/thumbs/40767782472_172bca272f_o1.jpg?itok=FkH_xUwi" width="100" height="58" alt="" /></a>        </td>
+              <td class="views-field views-field-field-hp-title">
+          <a href="/news/2018/03/22/students-demand-end-nras-stranglehold-group-says-stronger-democracy-key-gun-control">As Students Demand End to NRA&#039;s Stranglehold, Group Says Stronger Democracy Key to Gun Control Victory</a>        </td>
+          </tr>
+      <tr>
+              <td class="views-field views-field-field-image">
+          <a href="/news/2018/03/22/demands-federal-probe-saudi-crown-prince-reportedly-claims-kushner-his-pocket"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/headline/thumbs/gettyimages-9351696981.jpg?itok=MtT6sdjm" width="100" height="58" alt="" /></a>        </td>
+              <td class="views-field views-field-field-hp-title">
+          <a href="/news/2018/03/22/demands-federal-probe-saudi-crown-prince-reportedly-claims-kushner-his-pocket">Federal Probe Demanded as Saudi Prince Reportedly Said Kushner &#039;In His Pocket&#039;</a>        </td>
+          </tr>
+      <tr>
+              <td class="views-field views-field-field-image">
+          <a href="/news/2018/03/22/curb-corporate-abuse-stock-buyback-bamboozle-baldwin-bill-would-bolster-worker-power"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/headline/thumbs/stock_buybacks.jpg?itok=zPOHWXta" width="100" height="58" alt="" /></a>        </td>
+              <td class="views-field views-field-field-hp-title">
+          <a href="/news/2018/03/22/curb-corporate-abuse-stock-buyback-bamboozle-baldwin-bill-would-bolster-worker-power">To Curb Corporate Abuse of Stock Buyback &#039;Bamboozle,&#039; Baldwin Bill Would Bolster Worker Power</a>        </td>
+          </tr>
+      <tr>
+              <td class="views-field views-field-field-image">
+          <a href="/news/2018/03/22/no-justice-under-occupation-palestinian-teenager-ahed-tamimi-gets-8-months-prison"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/headline/thumbs/dy2cecfvoaewhar.png-large.jpg?itok=Z__XzUS0" width="100" height="58" alt="Ahed Tamimi" /></a>        </td>
+              <td class="views-field views-field-field-hp-title">
+          <a href="/news/2018/03/22/no-justice-under-occupation-palestinian-teenager-ahed-tamimi-gets-8-months-prison">&#039;No Justice Under Occupation&#039;: Palestinian Teenager Ahed Tamimi Gets 8 Months in Prison for Slapping Israeli Soldier</a>        </td>
+          </tr>
+      <tr>
+              <td class="views-field views-field-field-image">
+          <a href="/news/2018/03/22/latest-biden-and-trump-exchange-exposes-bipartisan-commitment-toxic-masculinity"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/headline/thumbs/biden_trump_toxic_masculinity.jpg?itok=mRPiwoEo" width="100" height="58" alt="" /></a>        </td>
+              <td class="views-field views-field-field-hp-title">
+          <a href="/news/2018/03/22/latest-biden-and-trump-exchange-exposes-bipartisan-commitment-toxic-masculinity">Latest Biden and Trump Exchange Exposes Bipartisan Commitment to Toxic Masculinity</a>        </td>
+          </tr>
+      <tr>
+              <td class="views-field views-field-field-image">
+          <a href="/news/2018/03/22/demanding-real-gun-control-laws-parkland-students-reject-mandatory-clear-backpacks"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/headline/thumbs/clear_backpacks.jpg?itok=LlOeJg1B" width="100" height="58" alt="clear backpacks" /></a>        </td>
+              <td class="views-field views-field-field-hp-title">
+          <a href="/news/2018/03/22/demanding-real-gun-control-laws-parkland-students-reject-mandatory-clear-backpacks">Demanding Real Gun Control Laws, Parkland Students Reject Mandatory Clear Backpacks That Make School Feel &#039;Like Jail&#039;</a>        </td>
+          </tr>
+    </tbody>
+</table>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="https://www.commondreams.org/news">
+    More News  </a>
+</div>
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-views-further-block" class="block block--views block--views-further-block">
+        <h2 class="block__title"><span>Further</span></h2>
+      <div class="block__content">
+    <div class="view view-further view-id-further view-display-id-block view-dom-id-cd64615821d057962356db581c249612">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/further/2018/03/22/three-years-one-picture">Three Years For One Picture</a></div>  </div>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><p class="print-no">
+   <a href="/further/2018/03/22/three-years-one-picture"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/further/zehra_nice_c1927cd6-4993-4f53-9201-573c197ecd70-620x465.jpg?itok=zBwrk-1X" width="420" height="220" alt="" /></a></p>
+</div>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content">In a move coinciding with the first anniversary of her imprisonment, Banksy has returned to New York after a five-year hiatus to paint a mural in honor of political prisoner Zehra Doğan, a Turkish/Kurdish painter and journalist sentenced to almost three years for painting a watercolor of a Kurdish city reduced to rubble by Turkish forces - an image, oddly , based on a photograph they themselves had proudly circulated. "They did it," she argued after her sentencing. "I just painted it."</div>  </div>  
+  <div class="views-field views-field-field-more-text">        <div class="field-content"><a href="/further/2018/03/22/three-years-one-picture">Read More...</a></div>  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="https://www.commondreams.org/further">
+    More Further  </a>
+</div>
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-block-73" class="block block--block block--block-73">
+        <div class="block__content">
+    <p><a href="https://secure.actblue.com/donate/free-and-independent?refcode=winter18_sidebar" target="_blank"><img src="/sites/default/files/users/user18439/sidebar-jon_1.png" alt="Help Common Dreams Survive" width="433" height="300" /></a></p>
+  </div>
+</div>
+<div id="block-block-9" class="block block--block block--block-9">
+        <div class="block__content">
+    <div class="sidebar-social"><center>Connect With Us <a href="http://www.facebook.com/commondreams.org" target="_blank"><em class="fa fa-facebook-square"></em></a><a href="http://www.twitter.com/commondreams" target="_blank"><em class="fa fa-twitter-square"></em></a><a href="/rss.xml" target="_blank"><em class="fa fa-rss-square"></em></a></center></div>
+  </div>
+</div>
+  </aside>
+  </div>
+
+  <footer class="l-footer" role="contentinfo">
+      <div class="l-region l-region--footer">
+    <div id="block-panels-mini-footer-panel" class="block block--panels-mini block--panels-mini-footer-panel">
+        <div class="block__content">
+    <div class="grid-3 panel-display panel-display--grid-3">
+            <div class="grid-3-region grid-3-region--first">
+        <div class="panel-pane pane-block pane-block-5">
+          <h2 class="pane-title"><span>About Common Dreams</span></h2>
+        <p>Our Mission:<br />To inform. To inspire.<br />To ignite change for the common good.</p>
+<p>Common Dreams has been providing breaking news &amp; views for the progressive community since 1997. We are independent, non-profit, advertising-free and 100% reader supported.</p>
+<ul><li><a rel="nofollow" href="/about-us">About Common Dreams</a></li>
+<li><a rel="nofollow" href="/testimonials">Testimonials</a></li>
+<li><a rel="nofollow" href="/key-staff">Key Staff</a></li>
+<li><a rel="nofollow" href="/writers-guidelines">Writers' Guidelines</a></li>
+<li><a rel="nofollow" href="/commons-community-guidelines">The Commons - Community Guidelines</a></li>
+<li><a rel="nofollow" href="/privacy-policy">Privacy Policy</a></li>
+<li><a rel="nofollow" href="/jobs">Jobs</a></li>
+</ul>    </div>
+      </div>
+                <div class="grid-3-region grid-3-region--second">
+        <div class="panel-pane pane-block pane-block-4">
+          <h2 class="pane-title"><span>Contact Us</span></h2>
+        <p class="contact-map">Common Dreams<br />P.O. Box 443<br />Portland, ME 04112-0443<br />USA</p>
+
+<p class="contact-mail">via Email:</p>
+
+<ul><li><a href="mailto:editor@commondreams.org">Editor</a></li><li><a href="mailto:newstips@commondreams.org">News Tips?</a></li><li><a href="mailto:submissions@commondreams.org">Article Submissions</a></li><li><a href="mailto:news@commondreams.org">News Release Submissions</a></li><li><a href="mailto:webmaster@commondreams.org">Webmaster / General Info</a></li></ul>
+
+<p class="contact-phone">207.775.0488</p>    </div>
+      </div>
+                <div class="grid-3-region grid-3-region--third">
+        <div class="panel-pane pane-block pane-block-6">
+          <h2 class="pane-title"><span>Common Dreams brings you the news that matters.</span></h2>
+        <p><a rel="nofollow" href="https://secure.actblue.com/donate/support-independent-media?refcode=footer" target="_blank" class="button">SUPPORT Common Dreams</a></p>
+    </div>
+<div class="panel-pane pane-block pane-block-8">
+          <h2 class="pane-title"><span>Sign up for Newsletter</span></h2>
+        <p><a class="button" rel="nofollow" href="https://www.commondreams.org/common-dreams-count-us" target="_blank">Click to Sign Up</a></p>
+    </div>
+<div class="panel-pane pane-block pane-block-7">
+          <h2 class="pane-title"><span>Connect With Us</span></h2>
+        <div class="footer-social"><span itemscope="" itemtype="http://schema.org/Organization"><a itemprop="sameAs" target="_blank" rel="nofollow" href="http://www.facebook.com/commondreams.org"><em class="fa fa-facebook-square"></em></a><a itemprop="sameAs" target="_blank" rel="nofollow" href="http://www.twitter.com/commondreams"><em class="fa fa-twitter-square"></em></a><a target="_blank" rel="nofollow" href="/rss.xml"><em class="fa fa-rss-square"></em></a><a itemprop="sameAs" target="_blank" rel="nofollow" href="https://plus.google.com/u/0/b/112945048567964551573"><em class="fa fa-google-plus-square"></em></a></span></div>
+    </div>
+      </div>
+                        </div>
+  </div>
+</div>
+<div id="block-block-3" class="block block--block block--block-3">
+        <div class="block__content">
+    <div style="margin-top:10px;">
+<div style="float:left;" itemscope="" itemtype="http://schema.org/Organization"><a itemprop="url" href="https://www.commondreams.org"><img itemprop="logo" src="/sites/default/files/cd_stacked_white_600.png" alt="Common Dreams News and Views Published in Maine Since 1997" width="200" height="50" /></a></div>
+<div style="float:right;">
+<a href="/commons-community-guidelines">© <span itemprop="copyrightYear">2017</span><span itemprop="copyrightHolder provider sourceOrganization" itemscope="" itemtype="http://schema.org/Organization" itemid="https://www.commondreams.org"><span itemprop="name"> Common Dreams</span></span><br /></a>
+</div>
+</div>
+  </div>
+</div>
+<div id="block-ctas-cta-modal-winter-2017" class="block block--ctas block--ctas-cta-modal-winter-2017">
+        <div class="block__content">
+    <style>
+#bio_ep {
+  border: 3px solid #FFCC00;
+  border-radius: 6px;
+}
+#bio_ep .content {
+  padding: 15px;
+}
+#bio_ep #bio_ep_close {
+    position: relative;
+    left: auto;
+    float: right;
+    background: transparent;
+    color: #000;
+    margin: 0;
+}
+</style>
+<div id="bio_ep_bg"></div>
+<div id="bio_ep">
+  <div id="bio_ep_close">X</div>
+  <div class="content">
+    
+<div class="logo"><img src="/sites/all/modules/custom/ctas/images/common-dreams-logo.png" alt="Common Dreams Free Newsletter Subscription" /></div><div class="text"><br /><big><strong>SUBSCRIBE FOR OUR FREE NEWSLETTER</strong></big></div><form action="https://info.commondreams.org/acton/eform/33231/0002/d-ext-0001" name="custom_form" enctype="multipart/form-data" accept-charset="UTF-8"><p><input id="form_0002_fld_0_1" class="formFieldText formFieldMediumLeft" type="text" name="First Name" value="" />&nbsp;&nbsp; <input id="form_0002_fld_0_2" class="formFieldText formFieldMediumRight" type="text" name="Last Name" value="" /></p><p>&nbsp;<input id="form_0002_fld_2-0" type="checkbox" name="Subscription Choice" value="Daily Newsletter" checked="checked" /> <span style="color: white;">Daily Newsletter&nbsp; &nbsp;<input id="form_0002_fld_2-1" type="checkbox" name="Subscription Choice" value="Weekly Newsletter" checked="checked" /> Weekly Newsletter</span></p><p><input id="form_0002_fld_1" class="formFieldText formFieldLarge" type="text" name="Email" /></p><p><input id="form_0002_ao_submit_input" onclick="doSubmit(document.getElementById('form_0002'))" type="submit" name="Submit" value="Sign Up" /></p><div class="actions"><a href="#" class="btn btn-default" id="close-modal">No Thank You</a></div></form>  </div>
+</div>
+  </div>
+</div>
+  </div>
+  </footer>
+</div>
+  <script src="https://www.commondreams.org/sites/default/files/js/js_GdW4c3QuRKuLgT0IcbsFzRiRiPPjmBoj882j85OMt3w.js"></script>
+  <!-- Hotjar Tracking Code for https://www.commondreams.org -->
+  <script>
+      (function(h,o,t,j,a,r){
+          h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+          h._hjSettings={hjid:783101,hjsv:6};
+          a=o.getElementsByTagName('head')[0];
+          r=o.createElement('script');r.async=1;
+          r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+          a.appendChild(r);
+      })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+  </script>
+  <script>/*<![CDATA[*/(function(w,a,b,d,s){w[a]=w[a]||{};w[a][b]=w[a][b]||{q:[],track:function(r,e,t){this.q.push({r:r,e:e,t:t||+new Date});}};var e=d.createElement(s);var f=d.getElementsByTagName(s)[0];e.async=1;e.src='//info.commondreams.org/cdnr/29/acton/bn/tracker/33231';f.parentNode.insertBefore(e,f);})(window,'ActOn','Beacon',document,'script');ActOn.Beacon.track();/*]]>*/</script>
+  <script type='text/javascript'>
+      var _sf_async_config = _sf_async_config || {};
+      /** CONFIGURATION START **/
+      _sf_async_config.sections = "U.S.";
+      _sf_async_config.authors = "Jessica Corbett, staff writer";
+      /** CONFIGURATION END **/
+      (function() {
+          function loadChartbeat() {
+              window._sf_endpt = (new Date()).getTime();
+              var e = document.createElement('script');
+              e.setAttribute('language', 'javascript');
+              e.setAttribute('type', 'text/javascript');
+              e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+
+              document.body.appendChild(e);
+          }
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function() {
+                  oldonload();
+                  loadChartbeat();
+              };
+
+      })();
+  </script>
+</body>
+</html>

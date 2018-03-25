@@ -1,0 +1,1318 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7" manifest="default.appcache?v=1"><![endif]-->
+<!--[if IE 8 ]><html class="no-js ie8 ie" lang="en"><![endif]-->
+<!--[if IE 9 ]><html class="no-js ie9" lang="en"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!-->
+<html class="no-js" lang="en"><!--<![endif]-->
+    <head>
+        <title>&#039;Neo&#039;Nazi&#039; plotted terrorist attacks from Scots home</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta property="fb:app_id" content="167069041547" />
+
+    <meta name="description" content="&#039;Neo-Nazi&#039; plotted terrorist attacks from Banff home. Connor Ward, 25, gathered bomb components and kept list of Scottish mosques.">
+
+    
+    <link rel="canonical" href="https://stv.tv/news/north/1410309-neo-nazi-plotted-terrorist-attacks-from-scots-home/">
+    <link rel="amphtml" href="https://stv.tv/amp/1410309-neo-nazi-plotted-terrorist-attacks-from-scots-home/">
+    <link rel="alternate" type="application/rss+xml" title="STV: STV News" href="https://stv.tv/news/?format=rss">
+    <link rel="alternate" type="application/rss+xml" title="STV: STV News - Aberdeen, North &amp; Tayside" href="https://stv.tv/news/north/?format=rss">
+
+<meta property="og:title" content="'Neo-Nazi' plotted terrorist attacks from Banff home"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://stv.tv/news/north/1410309-neo-nazi-plotted-terrorist-attacks-from-scots-home/"/>
+<meta property="og:image" content="https://images.stv.tv/articles/w1280xh720xmFitxoNews/577750-connor-ward-and-weapons.jpg"/>
+<meta property="og:site_name" content="STV News"/>
+<meta property="og:description" content="Connor Ward, 25, gathered bomb components and kept list of Scottish mosques."/>
+<meta name="twitter:url" content="https://stv.tv/news/north/1410309-neo-nazi-plotted-terrorist-attacks-from-scots-home/"/>
+<meta name="twitter:title" content="'Neo-Nazi' plotted terrorist attacks from Banff home"/>
+<meta name="twitter:description" content="Connor Ward, 25, gathered bomb components and kept list of Scottish mosques."/>
+<meta name="twitter:image" content="https://images.stv.tv/articles/w1280xh720xmFitxoNews/577750-connor-ward-and-weapons.jpg"/>
+<meta name="twitter:image:src" content="https://images.stv.tv/articles/w1280xh720xmFitxoNews/577750-connor-ward-and-weapons.jpg"/>
+<meta name="twitter:image:width" content="410"/>
+<meta name="twitter:image:height" content="230"/>
+<meta name="twitter:card" content="summary_large_image"/>
+
+<link rel="apple-touch-icon" href="/assets/source/widgets/img/touch-icon-iphone.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/source/widgets/img/touch-icon-ipad.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/source/widgets/img/touch-icon-iphone-retina.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/source/widgets/img/touch-icon-ipad-retina.png" />
+<link rel="apple-touch-icon-precomposed" href="/assets/global/img/apple-touch-icon-precomposed.png"/>
+<link rel="stylesheet" href="/static/build/styles/metropolis/metropolis.master.css">
+
+                      
+      
+<script>
+    !function(e,n,t,r,o,i){if(!n){n=n||{},window.permutive=n,n.q=[],n.config=i||{},n.config.projectId=r,n.config.apiKey=o,n.config.environment=n.config.environment||"production";for(var c=["addon","identify","track","trigger","query","segment","segments","ready","on","once","user"],a=0;a<c.length;a++){var s=c[a];n[s]=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);n.q.push({functionName:e,arguments:t})}}(s)}var p=window.Worker?"async":"blocking",g=e.createElement("script");g.type="text/javascript",g.async=!0;var m=("https:"==e.location.protocol?"https://":"http://")+"cdn.permutive.com";g.src=m+"/"+r+"-"+p+".js";var u=e.getElementsByTagName(t)[0];u.parentNode.insertBefore(g,u)}}(document,window.permutive,"script",
+    "66a68c73-9edc-4586-ae6a-08d48b020cc6","3d083b8d-8b18-4a63-b3d4-4876a504c6ce",{});
+</script>
+
+ <!-- Permutive Tracking Code -->
+<script>
+    permutive.addon("web", { 
+        page: {
+            stv: {
+                section: "news",
+                subcategory1: "north",
+                article: {
+                    id: "1410309",
+                    title: "&#039;Neo-Nazi&#039; plotted terrorist attacks from Banff home",
+                    author: "STV",
+                    type: "articles",
+                    source: "news/north/1410309-neo-nazi-plotted-terrorist-attacks-from-scots-home"
+                }
+            }
+        }
+    });
+ </script>
+
+
+<script type="application/ld+json">
+  {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "@id": "#article",
+        "mainEntityOfPage" : "https://stv.tv/news/north/1410309-neo-nazi-plotted-terrorist-attacks-from-scots-home/",
+        "headline": "&#039;Neo-Nazi&#039; plotted terrorist attacks from Banff home",
+        "datePublished": "2018-03-14T12:57:17+00:00",
+        "dateModified": "2018-03-14T17:21:00+00:00",
+        "dateCreated": "2018-03-14T12:10:58+00:00",
+        "description": "Connor Ward, 25, gathered bomb components and kept list of Scottish mosques.",
+        "url": "https://stv.tv/news/north/1410309-neo-nazi-plotted-terrorist-attacks-from-scots-home/",
+        "thumbnailUrl": "https://images.stv.tv/articles/w384/577750-connor-ward-and-weapons.jpg",
+        "articleSection": "Aberdeen, North &amp; Tayside",
+        "creator": ["STV"],
+        "keywords": [""],
+        "author": {
+            "@type": "Organization",
+            "name": "STV"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "STV",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "http://stv.tv/static/source/images/stv-logo-small.png",
+                "width": 103,
+                "height": 36
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://images.stv.tv/articles/w1280xh720xmFit/577750-connor-ward-and-weapons.jpg",
+            "height": 1280,
+            "width": 720
+        }
+  }
+</script>
+<script async src="//js-sec.indexww.com/ht/htw-stvtv.js"></script>
+<script>!function(){"use strict";function b(a,b,c){a.addEventListener?a.addEventListener(b,c,!1):a.attachEvent&&a.attachEvent("on"+b,c)}function c(a){return window.localStorage&&localStorage.font_css_cache&&localStorage.font_css_cache_file===a}function d(){if(window.localStorage&&window.XMLHttpRequest)if(c(a))e(localStorage.font_css_cache);else{var d=new XMLHttpRequest;d.open("GET",a,!0),d.onreadystatechange=function(){4===d.readyState&&200===d.status&&(e(d.responseText),localStorage.font_css_cache=d.responseText,localStorage.font_css_cache_file=a)},d.send()}else{var b=document.createElement("link");b.href=a,b.rel="stylesheet",b.type="text/css",document.getElementsByTagName("head")[0].appendChild(b),document.cookie="font_css_cache"}}function e(a){var b=document.createElement("style");b.setAttribute("type","text/css"),document.getElementsByTagName("head")[0].appendChild(b),b.styleSheet?b.styleSheet.cssText=a:b.innerHTML=a}var a="/static/source/fonts/webfonts.css";window.localStorage&&localStorage.font_css_cache||document.cookie.indexOf("font_css_cache")>-1?d():b(window,"load",d)}();</script>
+<script async src="/static/libs/picturefill.min.js"></script>
+<script async src="/static/libs/lazysizes.min.js"></script>
+<script src="/static/libs/modernizr-custom.js"></script>
+<script type="text/javascript">
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() { var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script>
+
+<!-- DFP Permutive Integration Code -->
+<script>
+    googletag.cmd.push(function() {
+        var kvs = localStorage.getItem('_pdfps');
+        googletag.pubads().setTargeting('permutive', kvs ? JSON.parse(kvs) : []);
+    });
+</script>
+<!-- End DFP Permutive Integration Code -->
+
+    <script>function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};</script>
+    <script>var STV = STV || {}; STV.comscoreTags = {"siteName":"responsivenews","counterName":"news.north.1410309-neo-nazi-plotted-terrorist-attacks-from-scots-home.page","url":"https:\/\/uk.sitestat.com\/stv\/responsivenews\/s?name=news.north.1410309-neo-nazi-plotted-terrorist-attacks-from-scots-home.page&stv_site=responsivenews&stv_artcl_id=1410309&stv_artcl_title=%27Neo-Nazi%27+plotted+terrorist+attacks+from+Banff+home&stv_artcl_author=4448022&stv_artcl_type=news&stv_artcl_source=STV&stv_artcl_date=2018-03-14+12%3A57%3A17+%2B0000&stv_artcl_update=2018-03-14+17%3A21%3A00+%2B0000&stv_breadcrumb_1=&stv_breadcrumb_2=news&stv_breadcrumb_3=north&stv_breadcrumb_4=none&stv_breadcrumb_5=none"};</script>
+
+
+
+    </head>
+    <body class="clearfix page-url-path-newsnorth1410309-neo-nazi-plotted-terrorist-attacks-from-scots-home site-stv-news">
+        <div class="pre-body"></div>
+        <div class="global-page-container outer-container">
+            <div class="metro-header">
+                <!-- Global nav -->
+<div data-widgettype="networknav" class="network-nav clearfix " data-track-wname="menu" data-track-wview="global" stv-network-nav>
+
+    <ul class="network-nav__mobile-nav-triggers">
+        <li class="network-nav__mobile-nav-trigger network-nav__mobile-nav-trigger--stv" stv-network-nav-target="stv-network-nav-stv">
+            STV <svg class="network-nav__mobile-nav-trigger-icon"><use xlink:href="/static/source/images/symbolset-icons-sprite.svg#ss-directdown"></use></svg>
+        </li>
+        <li class="network-nav__mobile-nav-trigger network-nav__mobile-nav-trigger--mystv" stv-network-nav-target="stv-network-nav-account">
+            MySTV <svg class="network-nav__mobile-nav-trigger-icon"><use xlink:href="/static/source/images/symbolset-icons-sprite.svg#ss-directdown"></use></svg>
+        </li>
+    </ul>
+
+    <div class="group-capped-large">
+
+        <ul class="network-nav__nav-list" stv-network-nav-stv>
+            <!-- 
+             --><li class="network-nav__nav-item">
+                    <a class="network-nav__nav-link network-nav__nav-link--stv" href="https://www.stv.tv/">STV</a>
+                </li>
+            <!-- 
+             --><li class="network-nav__nav-item">
+                    <a class="network-nav__nav-link network-nav__nav-link--player" href="https://player.stv.tv/">Player</a>
+                </li>
+            <!-- 
+             --><li class="network-nav__nav-item">
+                    <a class="network-nav__nav-link network-nav__nav-link--news" href="https://stv.tv/news/">News</a>
+                </li>
+            <!-- 
+             --><li class="network-nav__nav-item">
+                    <a class="network-nav__nav-link network-nav__nav-link--win" href="https://competitions.stv.tv/">Win</a>
+                </li>
+                
+        </ul>
+
+        <div class="network-nav__account-panel" account-panel stv-network-nav-account>
+            
+        </div>
+    </div>
+</div>
+<!-- End of Global nav -->
+<nav class="news-nav clearfix" data-widgettype="sitenav" data-track-wname="menu" data-track-wview="news" stv-news-nav>
+    <div class="group-capped-large rel clearfix">
+        <div class="news-nav__logo-container">
+            <a href="https://stv.tv/news/"><img class="news-nav__logo" src="/static/source/images/stv-logo.svg" alt="STV News"></a>
+        </div>
+
+        <div class="news-nav__mobile-nav-toggle" stv-news-mobile-nav-toggle>
+            <svg class="news-nav__mobile-nav-toggle-icon"><use xlink:href="/static/source/images/symbolset-icons-sprite.svg#ss-rows"></use></svg>
+        </div>
+
+        <div class="news-nav__nav-list-container" >
+            <ul class="news-nav__nav-list">
+                
+                                        
+                    <li class="news-nav__nav-item news-nav__nav-item--has-sub"  stv-news-sub-nav  >
+
+                        <span stv-news-sub-nav-toggle class="news-nav__nav-link " href="https://stv.tv/news/scotland/">
+                            Scotland
+
+                                                        <svg class="news-nav__nav-item-icon"><use xlink:href="/static/source/images/symbolset-icons-sprite.svg#ss-navigatedown"></use></svg>
+                                                    </span>
+
+                                                <div class="news-nav__sub-nav-container" >
+
+                            <ul class="news-nav__sub-nav-list group-capped-large rel ">
+                                                                <li class="news-nav__sub-nav-item">
+                                    <a class="news-nav__nav-sublink " href="https://stv.tv/news/west-central/">Glasgow &amp; West</a>
+                                </li>
+                                                                <li class="news-nav__sub-nav-item">
+                                    <a class="news-nav__nav-sublink " href="https://stv.tv/news/east-central/">Edinburgh &amp; East</a>
+                                </li>
+                                                                <li class="news-nav__sub-nav-item">
+                                    <a class="news-nav__nav-sublink is-active" href="https://stv.tv/news/north/">Aberdeen, North &amp; Tayside</a>
+                                </li>
+                                                            </ul>
+                        </div>
+                        
+                    </li>
+
+                
+                                        
+                    <li class="news-nav__nav-item"  >
+
+                        <a class="news-nav__nav-link " href="https://stv.tv/news/uk/">
+                            UK
+
+                                                    </a>
+
+                        
+                    </li>
+
+                
+                                        
+                    <li class="news-nav__nav-item"  >
+
+                        <a class="news-nav__nav-link " href="https://stv.tv/news/international/">
+                            International
+
+                                                    </a>
+
+                        
+                    </li>
+
+                
+                                        
+                    <li class="news-nav__nav-item"  >
+
+                        <a class="news-nav__nav-link " href="https://stv.tv/news/politics/">
+                            Politics
+
+                                                    </a>
+
+                        
+                    </li>
+
+                
+                                        
+                    <li class="news-nav__nav-item news-nav__nav-item--has-sub"  stv-news-sub-nav  >
+
+                        <span stv-news-sub-nav-toggle class="news-nav__nav-link " href="https://stv.tv/sport/">
+                            Sport
+
+                                                        <svg class="news-nav__nav-item-icon"><use xlink:href="/static/source/images/symbolset-icons-sprite.svg#ss-navigatedown"></use></svg>
+                                                    </span>
+
+                                                <div class="news-nav__sub-nav-container" >
+
+                            <ul class="news-nav__sub-nav-list group-capped-large rel ">
+                                                                <li class="news-nav__sub-nav-item">
+                                    <a class="news-nav__nav-sublink " href="https://stv.tv/sport/">Latest Sport</a>
+                                </li>
+                                                                <li class="news-nav__sub-nav-item">
+                                    <a class="news-nav__nav-sublink " href="https://stv.tv/sport/football/fixtures-and-results/">Fixtures &amp; Results</a>
+                                </li>
+                                                                <li class="news-nav__sub-nav-item">
+                                    <a class="news-nav__nav-sublink " href="https://stv.tv/sport/football/tables">League Tables</a>
+                                </li>
+                                                            </ul>
+                        </div>
+                        
+                    </li>
+
+                
+                                        
+                    <li class="news-nav__nav-item"  >
+
+                        <a class="news-nav__nav-link " href="https://stv.tv/news/features/">
+                            Features
+
+                                                    </a>
+
+                        
+                    </li>
+
+                
+                                        
+                    <li class="news-nav__nav-item"  >
+
+                        <a class="news-nav__nav-link " href="https://stv.tv/news/entertainment/">
+                            Entertainment
+
+                                                    </a>
+
+                        
+                    </li>
+
+                
+                                        
+                    <li class="news-nav__nav-item"  >
+
+                        <a class="news-nav__nav-link " href="https://stv.tv/weather/">
+                            Weather
+
+                                                    </a>
+
+                        
+                    </li>
+
+                            </ul>
+        </div>
+    </div>
+    <div stv-news-sub-nav-bg class="news-nav__sub-nav-bg"></div>
+</nav>
+
+<div class="ad-masthead js-sticky" data-track-wname="HtmlBlock" data-track-wview="ad">
+	<div class="ad ad-masthead__inner ad-placement-mh advert group-y group-y--small group-capped / " stv-ad="top-masthead" data-max-height="" data-ad-size=""></div>
+</div>
+            </div>
+                        <div class="container / group-capped-large">
+                
+                <ul class="breadcrumbs breadcrumbs--top gutter-colours gutter-colours--dark breadcrumbs--news">
+    		<li class="breadcrumbs__item">
+			<a class="breadcrumbs__link breadcrumbs__link--first " href="http://www.stv.tv/news">Home</a>
+		</li>
+    		<li class="breadcrumbs__item">
+			<a class="breadcrumbs__link  breadcrumbs__link--second" href="https://stv.tv/news/north/">Aberdeen, North &amp; Tayside</a>
+		</li>
+    </ul>
+<article articleId="1410309" itemscope itemtype="https://schema.org/NewsArticle" itemprop="mainEntity" itemid="#article" class="article" data-track-wname="Article" data-track-wview="news" data-guid="1410309-neo-nazi-plotted-terrorist-attacks-from-scots-home">
+    <meta itemprop="datePublished" content="2018-03-14T12:57:17+00:00" />
+    <meta itemprop="dateModified" content="2018-03-14T17:21:00+00:00" />
+    <span itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+        <meta itemprop="url" content="https://images.stv.tv/articles/w384xh216xmFit/577750-connor-ward-and-weapons.jpg" />
+        <meta itemprop="thumbnail" content="https://images.stv.tv/articles/w192/577750-connor-ward-and-weapons.jpg" />
+        <meta itemprop="height" content="216" />
+        <meta itemprop="width" content="384" />
+    </span>
+    <span itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+        <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+            <meta itemprop="url" content="https://images.stv.tv/default/placeholder.jpg"/>
+        </span>
+        <meta itemprop="name" content="STV" />
+    </span>
+        <div class="article__content clearfix">
+        <h1 itemprop="headline" class="article__headline">&#039;Neo-Nazi&#039; plotted terrorist attacks from Banff home</h1>
+
+        <div class="article__group">
+
+            <div class="article__meta">
+            <!-- UIWebViews don't have share, require full width to avoid wrapping -->
+                                        <div class="article__meta-primary">
+                                    <span class="article__publisher">STV</span>
+                    <time itemprop="datePublished" class="article__time" data-timestamp-type="relative-long" data-rel-time data-published-date="2018-03-14T12:57:17+00:00" data-datetime="2018-03-14T17:21:00+00:00">14 March 2018</time>
+                                </div><!--
+
+             --><!--
+
+                 --><ul class="share-links-list">
+    <li class="share-links-list__item"> 
+                <a stv-social-share='{"placement" : "article-top", "destination" : "email"}' class="share-link share-link--mail" href="mailto:?body=Connor Ward, 25, gathered bomb components and kept list of Scottish mosques.%0D%0A %0D%0A Read more here: http://bit.ly/2FPNu38&amp;subject=&#039;Neo-Nazi&#039; plotted terrorist attacks from Banff home">
+            <span class="hide">Share via email</span>
+            <svg class="share-links-list__icon">
+                <use xlink:href="/static/source/images/symbolset-icons-sprite.svg#ss-mail"></use>
+            </svg>
+        </a>
+    </li>
+    <li class="share-links-list__item"> 
+        <a stv-social-share='{"placement" : "article-top", "destination" : "facebook"}' class="share-link share-link--facebook" href="http://www.facebook.com/sharer/sharer.php?u=http://bit.ly/2FPNu38&amp;title=&#039;Neo-Nazi&#039; plotted terrorist attacks from Banff home" target="new">
+            <span class="hide">Share via Facebook</span>
+            <svg class="share-links-list__icon">
+                <use xlink:href="/static/source/images/symbolset-icons-sprite.svg#ss-facebook"></use>
+            </svg>
+        </a>
+    </li>
+    <li class="share-links-list__item"> 
+        <a stv-social-share='{"placement" : "article-top", "destination" : "twitter"}' class="share-link share-link--twitter" href="http://twitter.com/intent/tweet?text=%27Neo-Nazi%27%20plotted%20terrorist%20attacks%20from%20Banff%20home&amp;url=http%3A%2F%2Fbit.ly%2F2FPNu38" target="new">
+            <span class="hide">Share via Twitter</span>
+            <svg class="share-links-list__icon">
+                <use xlink:href="/static/source/images/symbolset-icons-sprite.svg#ss-twitter"></use>
+            </svg>
+        </a>
+    </li>
+    <li class="share-links-list__item"> 
+        <a stv-social-share='{"placement" : "article-top", "destination" : "whatsapp"}' class="share-link share-link--whatsapp" href="whatsapp://send?text=&#039;Neo-Nazi&#039; plotted terrorist attacks from Banff home http://bit.ly/2FPNu38" data-action="share/whatsapp/share" target="new">
+            <span class="hide">Share via Whatsapp</span>
+            <svg class="share-links-list__icon">
+                <use xlink:href="/static/source/images/symbolset-icons-sprite.svg#ss-whatsapp"></use>
+            </svg>
+        </a>
+    </li>
+</ul>
+                
+            </div>
+            <h2 itemprop="alternativeHeadline" class="article__sub-headline">Connor Ward, 25, gathered bomb components and kept list of Scottish mosques.</h2>
+        </div>
+        <div itemprop="articleBody" class="article__main-content" data-cms-content data-guid="1410309-neo-nazi-plotted-terrorist-attacks-from-scots-home" data-id="1410309" data-path="news/north">
+            <div class="article__ad-hpu">
+
+                <div class="" data-track-wname="" data-track-wview="">
+	<div class="ad " stv-ad="right-mau" data-max-height="" data-ad-size=""></div>
+</div>
+            </div>
+            <figure itemscope itemtype="https://schema.org/ImageObject" itemprop="image" class="image-block" data-track-wname="image" data-track-wview="default">
+
+    <div itemprop="image" class="resp-img__frame  ">
+    <img 
+      src="https://images.stv.tv/articles/w288xrLow/577750-connor-ward-and-weapons.jpg" 
+      class="resp-img__image lazyload" 
+      alt="Connor Ward and some of the weapons found."
+ 
+      data-srcset="https://images.stv.tv/articles/w768/577750-connor-ward-and-weapons.jpg 768w, https://images.stv.tv/articles/w384/577750-connor-ward-and-weapons.jpg 384w, https://images.stv.tv/articles/w192/577750-connor-ward-and-weapons.jpg 192w" 
+      sizes="auto"/>
+    <noscript><img class="resp-img__image" src="https://images.stv.tv/articles/w384/577750-connor-ward-and-weapons.jpg" alt="Connor Ward and some of the weapons found."/></noscript>
+    <meta itemprop="url" content="https://images.stv.tv/articles/w768/577750-connor-ward-and-weapons.jpg"></meta>
+    <meta itemprop="width" content="768"></meta>
+    <meta itemprop="height" content="433"></meta>
+</div>
+
+    <figcaption itemprop="caption" class="image-block__info">
+        <span class="image-block__caption">
+                            Connor Ward and some of the weapons found.
+                    </span><!--
+
+        --><span itemprop="copyrightHolder" class="image-block__copyright">
+                                                STV
+                            
+            
+                    </span>
+    </figcaption>
+
+</figure><p><b>An 'exemplary Neo-Nazi' gathered components to make bombs and kept a list of Scottish mosque addresses.</b></p><p>Connor Ward, 25, acquired hundreds of ball bearings which could be used in pipe bombs and rocket tubes which could be used to fire projectiles.</p><p>The High Court in Edinburgh heard he also had a stun gun, hundreds of knuckle dusters, knives and metal bars.</p><p>He was found guilty on Wednesday after a five-week trial of breaching the Terrorism Act 2000 and the Terrorism Act 2006.</p><p>Detectives who searched Ward's home in Banff, Aberdeenshire, found that he had acquired a mobile phone signal jamming device and a machine for picking up hidden bugs.</p><p>They also discovered that Ward had downloaded tens of thousands of documents  on firearms and survival techniques. The files also contained extreme right-wing propaganda and military tactics.</p>
+<div
+    class=""
+    data-track-wname="video"
+    data-track-wview="default"
+    style="overflow: hidden"
+    itemscope
+    itemtype="https://schema.org/VideoObject">
+    <div class="bc-player">
+        <iframe
+            class="bc-player__iframe"
+            src='/static/libs/brightcove-player-iframe-container/index.html?siteName=responsivenews&amp;bcid=5751295817001&amp;articleId=1410309-neo-nazi-plotted-terrorist-attacks-from-scots-home&amp;articleSection=news/north&amp;articleTitle=&#039;Neo&#039;Nazi&#039; plotted terrorist attacks from Scots home'
+            scrolling="no"
+            sandbox="allow-scripts allow-same-origin allow-popups allow-forms"
+            allowfullscreen>
+            <img itemprop="thumbnailUrl" src="https://images.stv.tv/videos/w384xh216xmFit/5751295817001-weapons-16x9.jpg" />
+        </iframe>
+    </div>
+    <meta itemprop="name" content="WEAPONS-16X9" />
+    <meta itemprop="description" content="&#039;Neo-Nazi&#039; plotted terrorist attacks from Banff home" />
+    <meta itemprop="uploadDate" content="" />
+    <meta itemprop="image" content="https://images.stv.tv/videos/w384xh216xmFit/5751295817001-weapons-16x9.jpg" />
+    <meta itemprop="embedUrl" content="https://files.stv.tv/js/bcvid/index.html?bcid=5751295817001&articleId=1410309-neo-nazi-plotted-terrorist-attacks-from-scots-home&articleSection=news/north&articleTitle=&#039;Neo&#039;Nazi&#039; plotted terrorist attacks from Scots home" />
+</div>
+<p>Detectives also found a Google Maps-style file containing the postal addresses of five Islamic places of worship in the Aberdeen area on Ward's computer.</p><p>They also found that Ward, who told jurors that he thought Hitler had made mistakes, had started to compose a book called "Combat 18 British Mosque Address Book". </p><p>The court heard that Combat 18 is the name of an extreme British right-wing paramilitary group.</p><p>Prosecution lawyer Richard Goddard told the court that Ward had been previously jailed for three years at the High Court in Edinburgh on another explosives charge.</p><p>Mr Goddard also told the court that Ward was given a 22-month jail sentence in April 2015 for possessing a stun gun.</p><p>He was also convicted in July 2016 of having an "improvised" knife whilst serving that prison sentence and given another 18 months.</p><p>In August 2016, the court heard how Ward was sentenced to another four months in custody for assaulting somebody whilst in custody.</p><p>On Wednesday, he was convicted of two charges of preparing terror attacks.</p><p>Ward is expected to be sentenced at the High Court in Glasgow in April.</p>
+<div
+    class=""
+    data-track-wname="video"
+    data-track-wview="default"
+    style="overflow: hidden"
+    itemscope
+    itemtype="https://schema.org/VideoObject">
+    <div class="bc-player">
+        <iframe
+            class="bc-player__iframe"
+            src='/static/libs/brightcove-player-iframe-container/index.html?siteName=responsivenews&amp;bcid=5751428901001&amp;articleId=1410309-neo-nazi-plotted-terrorist-attacks-from-scots-home&amp;articleSection=news/north&amp;articleTitle=&#039;Neo&#039;Nazi&#039; plotted terrorist attacks from Scots home'
+            scrolling="no"
+            sandbox="allow-scripts allow-same-origin allow-popups allow-forms"
+            allowfullscreen>
+            <img itemprop="thumbnailUrl" src="https://images.stv.tv/videos/w384xh216xmFit/5751428901001-terror-plot.jpg" />
+        </iframe>
+    </div>
+    <meta itemprop="name" content="Terror Plot" />
+    <meta itemprop="description" content="&#039;Neo-Nazi&#039; plotted terrorist attacks from Banff home" />
+    <meta itemprop="uploadDate" content="" />
+    <meta itemprop="image" content="https://images.stv.tv/videos/w384xh216xmFit/5751428901001-terror-plot.jpg" />
+    <meta itemprop="embedUrl" content="https://files.stv.tv/js/bcvid/index.html?bcid=5751428901001&articleId=1410309-neo-nazi-plotted-terrorist-attacks-from-scots-home&articleSection=news/north&articleTitle=&#039;Neo&#039;Nazi&#039; plotted terrorist attacks from Scots home" />
+</div>
+<h2>Police Scotland reaction</h2>
+<p>Detective Chief Superintendent Gerry Mclean, of Police Scotland's Organised Crime and Counter Terrorism Unit, said: "Following Ward's arrest a vast amount of material was seized by officers who invested a significant amount of time into quantifying the scale of Ward's interest in terrorism. </p><p>"Although he operated alone, the weapons, manuals and downloads he possessed had the potential to cause serious harm.</p><p>"While we may never know the full extent of Ward's intentions thanks to the early intervention of police, we do know that we cannot underestimate the dangerous nature of any behaviour or activity linked to terrorism.</p><p>"These acts are very rare, not least in the North East of Scotland, and while concerted action takes place every day alongside our partners to protect the public it is crucial that communities remain vigilant."</p>
+<aside ns="MACKAY_MAIL" class="hide ns ns--profile ns--profile-mackay">
+    <!-- signed out form -->
+    <form ns-signed-out ns-hide class="hide" validated-form data-options='{"allowSubmission":false}'>
+        <div ns-signed-out-email-entry ns-show>
+            <h3 ns-signed-out-desc class="ns__desc">Want the inside story from John MacKay? Sign up to the &#039;MacKay Mail&#039; newsletter.</h3>
+            <div class="ns__action-box ns__action-box--signed-out">
+                <div class="ns__action-box-inner--signed-out">
+                    <div ns-input-button-group class="ns__input-button-group clearfix">
+                        <div class="ns__input-box">
+                            <input class="ns__input ns__input--signed-out stv-form__input" type="text" name="ns-signed-out-3145932" id="ns-signed-out-3145932" validated-field data-required data-pattern="email" placeholder="Enter your email address">
+                        </div>
+                        <div class="ns__button-box">
+                            <button type="submit" class="ns__btn-submit ns__btn-submit--signed-out stv-form__btn-primary stv-form__btn-primary--lighter stv-form__btn-primary--rounder loading-btn">
+                                <span class="loading-btn__label">Subscribe</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="ns__form-errors">
+                <span class="stv-form__validation-error stv-form__validation-error--ns" validation-error data-bound-field="ns-signed-out-3145932" data-on-error="fieldIsRequired">This field is required.</span>
+                <span class="stv-form__validation-error stv-form__validation-error--ns" validation-error data-bound-field="ns-signed-out-3145932" data-on-error="fieldValidationFailed">That doesn't look like a valid e-mail format, please check.</span>
+                <span class="stv-form__validation-error stv-form__validation-error--ns" validation-error data-bound-field="ns-signed-out-3145932" data-on-error="serverValidationError">That e-mail's already in our system. Please try again.</span>
+            </div>
+        </div>
+        <div ns-signed-out-confirm ns-hide class="ns__captcha hide">
+            <h3 ns-signed-out-desc class="ns__desc">Please tick the box below to confirm your subscription</h3>
+            <div class="ns__action-box ns__action-box--signed-out">
+                <div class="ns__action-box-inner--signed-out">
+                    <div ns-captcha></div>
+                </div>
+            </div>
+        </div>
+        <div ns-signed-out-success ns-hide class="hide ns__signed-out-success">
+            <h3 ns-signed-out-desc class="ns__desc">Thanks for subscribing to our 'MacKay Mail' newsletter.</h3>
+            <div class="ns__action-box ns__action-box--signed-out">
+                <div class="ns__action-box-inner--signed-out">
+                    <div ns-signed-out-success-btn class="ns__btn-submit stv-form__btn-primary stv-form__btn-primary--lighter stv-form__btn-primary--rounder loading-btn has-loaded animated">
+                        <span class="loading-btn__label">Subscribed</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+
+    <!-- signed in form -->
+    <form ns-signed-in ns-hide class="hide" validated-form data-options='{"allowSubmission":false}'>
+        <h3 ns-signed-in-desc ns-show class="ns__desc">Want the inside story from John MacKay? Sign up to the &#039;MacKay Mail&#039; newsletter.</h3>
+        <h3 ns-signed-in-success ns-hide class="ns__desc hide">Thanks for subscribing to our 'MacKay Mail' newsletter.</h3>
+        <div class="ns__action-box">
+            <button type="submit" class="ns__btn-submit stv-form__btn-primary stv-form__btn-primary--lighter stv-form__btn-primary--rounder loading-btn">
+                <span class="loading-btn__label">Subscribe</span>
+            </button>
+        </div>
+    </form>
+
+    <div class="ns__links">
+        <a ns-more-info class="ns__link hide" href="/news/mackay-mail-newsletter/?articleReferral=true">More information</a>
+        <a ns-back class="ns__link hide" onclick="history.back()">Back to article</a>
+    </div>
+
+</aside>
+<p><strong>Download:</strong> The STV News app is Scotland's favourite and is available for iPhone from <a href="http://itunes.apple.com/gb/app/stv-news/id369121433?mt=8&amp;ign-mpt=uo%3D6">the App store</a> and for Android from <a href="https://play.google.com/store/apps/details?id=tv.stv.android.news">Google Play</a>. Download it today and continue to enjoy STV News wherever you are.</p>
+
+        </div>
+
+                <!--
+            Needs a rel because the news template
+            is wider than the others
+         -->
+        <div class="rel">
+
+                <div class="article-low-meta">
+
+                    <div class="article-low-meta__shares">
+                        <h4 class="article-low-meta__share-title">Share this article</h4><!--
+
+                     --><div class="article-low-meta__share-list">
+                             <ul class="share-links-list">
+    <li class="share-links-list__item"> 
+                <a stv-social-share='{"placement" : "article-bottom", "destination" : "email"}' class="share-link share-link--mail" href="mailto:?body=Connor Ward, 25, gathered bomb components and kept list of Scottish mosques.%0D%0A %0D%0A Read more here: http://bit.ly/2FPNu38&amp;subject=&#039;Neo-Nazi&#039; plotted terrorist attacks from Banff home">
+            <span class="hide">Share via email</span>
+            <svg class="share-links-list__icon">
+                <use xlink:href="/static/source/images/symbolset-icons-sprite.svg#ss-mail"></use>
+            </svg>
+        </a>
+    </li>
+    <li class="share-links-list__item"> 
+        <a stv-social-share='{"placement" : "article-bottom", "destination" : "facebook"}' class="share-link share-link--facebook" href="http://www.facebook.com/sharer/sharer.php?u=http://bit.ly/2FPNu38&amp;title=&#039;Neo-Nazi&#039; plotted terrorist attacks from Banff home" target="new">
+            <span class="hide">Share via Facebook</span>
+            <svg class="share-links-list__icon">
+                <use xlink:href="/static/source/images/symbolset-icons-sprite.svg#ss-facebook"></use>
+            </svg>
+        </a>
+    </li>
+    <li class="share-links-list__item"> 
+        <a stv-social-share='{"placement" : "article-bottom", "destination" : "twitter"}' class="share-link share-link--twitter" href="http://twitter.com/intent/tweet?text=%27Neo-Nazi%27%20plotted%20terrorist%20attacks%20from%20Banff%20home&amp;url=http%3A%2F%2Fbit.ly%2F2FPNu38" target="new">
+            <span class="hide">Share via Twitter</span>
+            <svg class="share-links-list__icon">
+                <use xlink:href="/static/source/images/symbolset-icons-sprite.svg#ss-twitter"></use>
+            </svg>
+        </a>
+    </li>
+    <li class="share-links-list__item"> 
+        <a stv-social-share='{"placement" : "article-bottom", "destination" : "whatsapp"}' class="share-link share-link--whatsapp" href="whatsapp://send?text=&#039;Neo-Nazi&#039; plotted terrorist attacks from Banff home http://bit.ly/2FPNu38" data-action="share/whatsapp/share" target="new">
+            <span class="hide">Share via Whatsapp</span>
+            <svg class="share-links-list__icon">
+                <use xlink:href="/static/source/images/symbolset-icons-sprite.svg#ss-whatsapp"></use>
+            </svg>
+        </a>
+    </li>
+</ul>                         </div>
+                    </div>
+
+                </div>
+
+        </div>
+        
+    </div>
+
+</article>
+
+
+<ul class="breadcrumbs breadcrumbs--bottom gutter-colours gutter-colours--dark breadcrumbs--news">
+    		<li class="breadcrumbs__item">
+			<a class="breadcrumbs__link breadcrumbs__link--first " href="http://www.stv.tv/news">Home</a>
+		</li>
+    		<li class="breadcrumbs__item">
+			<a class="breadcrumbs__link  breadcrumbs__link--second" href="https://stv.tv/news/north/">Aberdeen, North &amp; Tayside</a>
+		</li>
+    </ul>
+                <div class="metro-footer clearfix group">
+                    <div class="group-x group-y group-capped">
+                        <div class="grid">
+                            <div class="grid__item one-whole min-683--three-fifths min-753--two-thirds footer-nav__nav-links" data-track-wname="menu" data-track-wview="footer-nav">
+    <h2 class="section-title">WHERE TO NOW?</h2>
+    <ul class="quick-links horizontal cf">
+                    <li class="quick-links__item">
+                <a class="quick-links__link quick-links__link--player" href="http://player.stv.tv">Player</a>
+            </li>
+                    <li class="quick-links__item">
+                <a class="quick-links__link quick-links__link--whats-on-tv" href="http://tvguide.stv.tv">What&#039;s On TV</a>
+            </li>
+                    <li class="quick-links__item">
+                <a class="quick-links__link quick-links__link--news" href="https://stv.tv/news/">News</a>
+            </li>
+                    <li class="quick-links__item">
+                <a class="quick-links__link quick-links__link--sport" href="https://stv.tv/sport/">Sport</a>
+            </li>
+                    <li class="quick-links__item">
+                <a class="quick-links__link quick-links__link--competitions" href="https://competitions.stv.tv">Competitions</a>
+            </li>
+                    <li class="quick-links__item">
+                <a class="quick-links__link quick-links__link--weather" href="https://stv.tv/weather/">Weather</a>
+            </li>
+                    <li class="quick-links__item">
+                <a class="quick-links__link quick-links__link--appeal" href="http://campaigns.stv.tv/stv-appeal/">Appeal</a>
+            </li>
+            </ul>
+</div>
+<div id="gigya-follow" gigya-follow itemscope itemtype="http://schema.org/FollowAction" class="grid__item one-whole min-683--two-fifths min-753--one-third" data-track-wname="HtmlBlock" data-track-wview="metroGigyaFollow">
+    <div id="gigya-googleplus-follow">
+        <a itemprop="url" href="https://plus.google.com/+stvnews"><svg class="gigya-social-icon"><use xlink:href="/static/source/images/symbolset-icons-sprite.svg#ss-googleplus"></use></svg><span class="platform">Follow Us On Google+</span></a>
+    </div>
+    <div id="gigya-twitter-follow">
+        <a itemprop="url" href="https://twitter.com/stvnews"><svg class="gigya-social-icon"><use xlink:href="/static/source/images/symbolset-icons-sprite.svg#ss-twitter"></use></svg><span class="platform">Follow Us On Twitter</span></a>
+    </div>
+    <div id="gigya-facebook-follow">
+        <a itemprop="url" href="https://www.facebook.com/stvnews "><svg class="gigya-social-icon"><use xlink:href="/static/source/images/symbolset-icons-sprite.svg#ss-facebook"></use></svg><span class="platform">Join Us On Facebook</span></a>
+    </div>
+</div>
+<footer class="grid__item one-whole min-683--two-thirds global-footer" data-track-wname="menu>" data-track-wview="footer">
+    <ul class="footer-links horizontal cf mbn">
+                    <li><a href="https://www.stv.tv/info/about/">About us</a></li>
+                    <li><a href="https://www.stv.tv/info/contact/">Contact us</a></li>
+                    <li><a href="https://my.stv.tv/terms-of-use/#privacy">Privacy</a></li>
+                    <li><a href="https://my.stv.tv/terms-of-use/">Terms of Use</a></li>
+                    <li><a href="https://my.stv.tv/terms-of-use/#cookies">Cookie Policy</a></li>
+                    <li><a href="http://www.stvplc.tv/">STV Group plc</a></li>
+            </ul>
+
+    <div>
+        <small class="mts mbn">Copyright &#169; 2007&#150;2018 STV. All rights reserved.</small>
+    </div>
+    <small class="mbn">Cookie Info: To find out how to manage cookies, see our <a class="default-link" href="http://www.stv.tv/cookie-policy/">cookie policy</a>.</small>
+</footer>
+<div class="" data-track-wname="HtmlBlock" data-track-wview="ad">
+	<div class="ad ad-placement-oop advert" stv-ad="out-of-page" data-max-height="" data-ad-size=""></div>
+</div>
+                        </div>
+                    </div>
+                </div>
+
+                <script>
+    window.__gigyaConf = {
+    actionCounterPath:"/",
+            sessionExpiration:-2
+
+    };
+</script>
+<script type="text/javascript">
+    STV = window.STV || {};
+    STV.url = {};
+
+    STV.url.baseUrl = window.location.hostname;
+    STV.url.playerAPIUrl = "player.api.stv.tv";
+
+    STV.environment = "aws-live";
+
+    STV.route = STV.route || {};
+    STV.route.siteGuid = "108";
+    
+    STV.site = STV.site || {};
+    STV.site.guid = "108";
+
+    STV.site.properties = {"defaultImage":"http:\/\/core.stvfiles.com\/assets\/source\/widgets\/img\/stv_news.png","disableGlobalScripts":"true"};
+            STV.site.videoPlazaPlayer = true;
+            STV.gigya = {apiKey: "3_1thFqPfM3T9V06X-UdewVB4qCOME9hrcDbCFZLsPFe9Cjb-2H_vhX6GgIY0fYVxZ"};
+</script>
+
+    <script>var _gaq = [['_setAccount', 'UA-8255250-1'], ['_setDomainName', '.stv.tv'], ['_trackPageview'], ['_trackPageLoadTime']];
+        (function (d, t) {
+            var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+            g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+            s.parentNode.insertBefore(g, s)
+        }(document, 'script'));</script>
+
+<!-- parse.ly analytics (live env only) -->
+    <div id="parsely-root" style="display: none">
+        <span id="parsely-cfg" data-parsely-site="stv.tv"></span>
+    </div>
+    <script>
+        (function(s, p, d) {
+            var h=d.location.protocol, i=p+"-"+s,
+              e=d.getElementById(i), r=d.getElementById(p+"-root"),
+              u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+              :"static."+p+".com";
+            if (e) return;
+            e = d.createElement(s); e.id = i; e.async = true;
+            e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+        })("script", "parsely", document);
+    </script>
+<!-- Begin TVSquared Tracking Code -->
+<script type="text/javascript">
+  var _tvq = window._tvq = window._tvq || [];
+</script>
+<!-- End TVSquared Tracking Code -->
+<!-- Start of Survicate (www.survicate.com) code -->
+<script type="text/javascript">
+ (function(w) {
+   w['_sv'] = {trackingCode: 'MLNneBXprTFXajxdnIttETefvGTDANUS'};
+   var s = document.createElement('script');
+   s.src = '//api.survicate.com/assets/survicate.js';
+   s.async = true;
+   var e = document.getElementsByTagName('script')[0];
+   e.parentNode.insertBefore(s, e);
+ })(window);
+</script>
+<!-- End of Survicate code -->
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1901295293528400'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+<img height="1" width="1" 
+src="https://www.facebook.com/tr?id=1901295293528400&ev=PageView&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+    <script type="text/javascript" src="//cdns.gigya.com/js/socialize.js?apiKey=3_1thFqPfM3T9V06X-UdewVB4qCOME9hrcDbCFZLsPFe9Cjb-2H_vhX6GgIY0fYVxZ"></script>
+    <script type="text/javascript" src="//services.postcodeanywhere.co.uk/js/address-3.20.js?key=DF11-ZT49-RK81-KW67"></script>
+    <script type="text/javascript" src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script type="text/javascript" src="//cdn.embedly.com/widgets/platform.js?async=true"></script>
+    <script type="text/javascript" src="//maps.googleapis.com/maps/api/js?v=3.exp&amp;signed_in=true&amp;libraries=places"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.6/moment.min.js"></script>
+    <script type="text/javascript" src="//js.pusher.com/2.1/pusher.min.js"></script>
+    <script type="text/javascript" src="//www.stv.tv/assets/global/js/libs/md5.js"></script>
+    <script type="text/javascript" src="/static/build/scripts/common/polyfills-lte-ie9.application.js"></script>
+    <script type="text/javascript" src="/static/build/scripts/common/polyfills.application.js"></script>
+    <script type="text/javascript" src="//vp.videoplaza.tv/contrib/uk-dev-stv/vp_inpage.min.js"></script>
+    <script type="text/javascript" src="/static/build/scripts/metropolis.application.js"></script>
+
+                
+
+            </div><!-- end .container-->
+        </div>
+        
+<div static-modal-group id="registration-modal-group">
+
+    <!-- Login Modal -->
+    <div class="stv-modal" static-modal id="sign-in-modal" data-options='{&quot;shadeStyle&quot;:&quot;trans&quot;, &quot;urlControllable&quot;:true}'>
+    <div class="stv-modal__inner">
+        <div class="stv-modal__head">
+            <h3 class="stv-modal__heading">One account. All of STV.</h3>
+            <div class="stv-modal__head-action">
+                <button class="stv-modal__btn-close" data-close-modal stv-click='{ "eventType" : "stv_reg_closex" }'>Close</button>
+            </div>
+        </div>
+        <div class="stv-modal__content">
+                        <!-- Email Form -->
+            <form class="stv-form" validated-form id="emailForm" data-options='{"allowSubmission":false}'>
+                <div class="stv-form__field clearfix">
+                        <label class="stv-form__label stv-form__label--primary" for="emailFormEmail">Please enter your email address to sign in or join.</label>
+        <input class="stv-form__input stv-form__input--primary" type="text" name="emailFormEmail" id="emailFormEmail" validated-field data-required data-pattern='email' placeholder='e.g. johnsmith@gmail.com' >
+
+                    <div class="stv-form__errors">
+                            <span class="stv-form__validation-error" validation-error data-bound-field="emailFormEmail" data-on-error="fieldIsRequired">This field is required.</span>
+
+                            <span class="stv-form__validation-error" validation-error data-bound-field="emailFormEmail" data-on-error="fieldValidationFailed">That doesn't look like a valid e-mail format, please check.</span>
+
+                            <span class="stv-form__validation-error" validation-error data-bound-field="emailFormEmail" data-on-error="serverValidationError">That e-mail's already in our system. Please try again.</span>
+
+                    </div>
+                </div>
+                <div class="stv-modal__content-action">
+                    <input type="submit" class="stv-form__btn-primary" value="Continue">
+                </div>
+            </form>
+            <!-- Sign In Form -->
+            <form class="stv-form hide" validated-form id="signInForm" data-options='{"allowSubmission":false}'>
+                <div class="grid">
+                    <div class="stv-form__field stv-form__field--user-login-id grid__item min-683--one-whole">
+                            <label class="stv-form__label stv-form__label--primary" for="signInFormEmail">Welcome back!</label>
+        <input class="stv-form__input stv-form__input--primary" type="text" name="loginID" id="signInFormEmail" validated-field data-required data-pattern='email'  style="display:none">
+
+                        <div class="stv-form__input-button-group">
+                            <div class="stv-form__valid-address"><span id="sign-in-form-email-lock"></span></div>
+                            <a role="link" class="stv-form__input-button stv-form__input-button--primary stv-form__link" data-launch-section="#emailForm">Wrong email?</a>
+                        </div>
+                        <div class="stv-form__errors">
+                                <span class="stv-form__validation-error" validation-error data-bound-field="signInFormEmail" data-on-error="fieldIsRequired">This field is required.</span>
+
+                                <span class="stv-form__validation-error" validation-error data-bound-field="signInFormEmail" data-on-error="fieldValidationFailed">That doesn't look like a valid e-mail format, please check.</span>
+
+                                <span class="stv-form__validation-error" validation-error data-bound-field="signInFormEmail" data-on-error="serverValidationError">That e-mail's already in our system. Please try again.</span>
+
+                        </div>
+                    </div><!--
+                 --><div class="stv-form__field stv-form__field--password-section grid__item min-683--four-fifths">
+                            <label class="stv-form__label" for="signInFormPassword">Password</label>
+        <div class="stv-form__input-button-group">        <div class="stv-form__password-field" password-reveal>
+            <input password-field class="stv-form__input stv-form__input--password" type="password" name="password" id="signInFormPassword" validated-field data-pattern='.{6,}' data-required  >
+            <span class="stv-form__password-validation"></span>
+            <span class="stv-form__password-toggle stv-form__link" password-reveal-button>
+                <span password-reveal-show>Show</span><span class="hide" password-reveal-hide>Hide</span>
+            </span>
+        </div>
+        <a role="link" class="stv-form__input-button stv-form__link" id="stv-form__reset-password-btn" data-launch-section="#resetPasswordForm">Forgot password?</a>    </div>
+                        <div class="stv-form__errors">
+                                <span class="stv-form__validation-error" validation-error data-bound-field="signInFormPassword" data-on-error="fieldIsRequired">This field is required.</span>
+
+                                <span class="stv-form__validation-error" validation-error data-bound-field="signInFormPassword" data-on-error="fieldValidationFailed">At least 6 characters please.</span>
+
+                                <span class="stv-form__validation-error" validation-error data-bound-field="signInForm" data-on-error="invalidEmailOrPassword">Did you enter your details correctly?<br>If you've forgotten your details then use the 'Forgot password?' link.</span>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="stv-modal__content-action">
+                    <input type="submit" class="stv-form__btn-primary" value="Sign In">
+                </div>
+            </form>
+            <!-- Reset Password Form -->
+            <form class="stv-form hide" validated-form id="resetPasswordForm" data-options='{"allowSubmission":false}'>
+                <span class="stv-form__label stv-form__label--primary">Need to reset your password?</span>
+                <p class="stv-form__field-desc stv-form__field-desc--primary">We'll send a link to reset your password to <strong id="reset-password__user-email"></strong></p>
+                    <label class="stv-form__label " for="resetpasswordemail"></label>
+        <input class="stv-form__input " type="text" name="resetpasswordemail" id="resetpasswordemail" validated-field data-required data-pattern='email'  style="display:none">
+
+                <div class="stv-modal__content-action grid grid--full clearfix">
+                    <div class="grid__item gamma-one-whole min-568--one-half stv-modal__primary-action">
+                        <input type="submit" class="stv-form__btn-primary one-whole" value="Reset Password">
+                    </div><!--
+                 --><div class="grid__item gamma-one-whole min-568--one-half stv-modal__secondary-action">
+                        <button type="button" class="stv-form__btn-secondary one-whole" data-launch-section="#signInForm">Back</button>
+                    </div>
+                </div>
+            </form>
+            <!-- Reset Password Sent Section -->
+            <div class="stv-form hide" id="resetPasswordSentSection">
+                <p class="stv-form__label stv-form__label--primary">We've sent you details on how to reset your password</p>
+                <p class="stv-form__field-desc stv-form__field-desc--primary">Please check your email and follow the instructions.</p>
+            </div>
+            <!-- Forgotten Email Section -->
+            <div class="stv-form hide" id="forgottenEmailSection">
+                <span class="stv-form__label stv-form__label--primary">Forgotten your email address?</span>
+                <p class="stv-form__field-desc stv-form__field-desc--primary">Have you forgotten the email address that you previously joined with? Don't worry, by emailing <a class="stv-form__link" href="mailto:enquiries@stv.tv?subject=I've forgotten the email address I signed up with">enquiries@stv.tv</a> we can help.</p>
+                <div class="stv-modal__content-action">
+                    <button type="button" class="stv-form__btn-primary" class="sign-in-modal__back-btn" data-launch-section="#emailForm">Back</button>
+                </div>
+            </div>
+                </div>
+    </div>
+</div>
+
+    <!-- Join Modal -->
+    <div class="stv-modal" static-modal id="join-modal" data-options='{&quot;shadeStyle&quot;:&quot;trans&quot;}'>
+    <div class="stv-modal__inner">
+        <div class="stv-modal__head">
+            <h3 class="stv-modal__heading">One account. All of STV.</h3>
+            <div class="stv-modal__head-action">
+                <button class="stv-modal__btn-close" data-close-modal stv-click='{ "eventType" : "stv_reg_closex" }'>Close</button>
+            </div>
+        </div>
+        <div class="stv-modal__content">
+                        <form class="stv-form" validated-form id="joinForm" data-options='{"allowSubmission":false}'>
+                <div class="grid">
+                    <div class="stv-form__field stv-form__field--user-login-id grid__item min-683--one-whole">
+                            <label class="stv-form__label stv-form__label--primary" for="email">Glad you're joining us!</label>
+        <input class="stv-form__input stv-form__input--primary" type="text" name="email" id="email" validated-field data-required data-pattern='email'  style="display:none">
+
+                        <div class="stv-form__input-button-group">
+                            <div class="stv-form__valid-address"><span id="join-form-email-lock"></span></div>
+                            <a role="link" class="stv-form__input-button stv-form__input-button--primary stv-form__link" data-launch-registration data-modal-id="sign-in-modal">Wrong email?</a>
+                        </div>
+                        <div class="stv-form__errors">
+                                <span class="stv-form__validation-error" validation-error data-bound-field="email" data-on-error="fieldIsRequired">This field is required.</span>
+
+                                <span class="stv-form__validation-error" validation-error data-bound-field="email" data-on-error="fieldValidationFailed">That doesn't look like a valid e-mail format, please check.</span>
+
+                                <span class="stv-form__validation-error" validation-error data-bound-field="email" data-on-error="serverValidationError">That e-mail's already in our system. Please try again.</span>
+
+                        </div>
+                    </div><!--
+                 --><div class="stv-form__field grid__item min-683--one-half">
+                            <label class="stv-form__label " for="firstName">First name</label>
+        <input class="stv-form__input " type="text" name="firstName" id="firstName" validated-field data-required data-pattern='[a-zA-z]{2,}'  maxlength=25>
+
+                        <div class="stv-form__errors">
+                                <span class="stv-form__validation-error" validation-error data-bound-field="firstName" data-on-error="fieldIsRequired">This field is required.</span>
+
+                                <span class="stv-form__validation-error" validation-error data-bound-field="firstName" data-on-error="fieldValidationFailed">Please enter at least 2 characters</span>
+
+                        </div>
+                    </div><!--
+                 --><div class="stv-form__field grid__item min-683--one-half">
+                            <label class="stv-form__label " for="lastName">Last name</label>
+        <input class="stv-form__input " type="text" name="lastName" id="lastName" validated-field data-required data-pattern='[a-zA-z]{2,}'  maxlength=25>
+
+                        <div class="stv-form__errors">
+                                <span class="stv-form__validation-error" validation-error data-bound-field="lastName" data-on-error="fieldIsRequired">This field is required.</span>
+
+                                <span class="stv-form__validation-error" validation-error data-bound-field="lastName" data-on-error="fieldValidationFailed">Please enter at least 2 characters</span>
+
+                        </div>
+                    </div><!--
+                 --><div class="stv-form__field grid__item min-683--one-half">
+                            <label class="stv-form__label" for="password">Password</label>
+    <span class="stv-form__field-desc">At least 6 characters please</span>            <div class="stv-form__password-field" password-reveal>
+            <input password-field class="stv-form__input stv-form__input--password" type="password" name="password" id="password" validated-field data-pattern='.{6,}' data-required  >
+            <span class="stv-form__password-validation"></span>
+            <span class="stv-form__password-toggle stv-form__link" password-reveal-button>
+                <span password-reveal-show>Show</span><span class="hide" password-reveal-hide>Hide</span>
+            </span>
+        </div>
+            
+                        <div class="stv-form__errors">
+                                <span class="stv-form__validation-error" validation-error data-bound-field="password" data-on-error="fieldIsRequired">This field is required.</span>
+
+                                <span class="stv-form__validation-error" validation-error data-bound-field="password" data-on-error="fieldValidationFailed">At least 6 characters please.</span>
+
+                        </div>
+                    </div><!--
+                 --><div class="stv-form__field grid__item min-683--one-half">
+                            <label class="stv-form__label " for="dob">Date of Birth</label>
+    <span class="stv-form__field-desc"><span id="join-form-dob-label">You have to be 16 or over to join</span></span>    <input class="stv-form__input " type="text" name="dob" id="dob" validated-field data-required data-pattern='.{6,}' placeholder='dd / mm / yyyy' data-format-date>
+
+                        <div class="stv-form__errors">
+                                <span class="stv-form__validation-error" validation-error data-bound-field="dob" data-on-error="fieldIsRequired">This field is required.</span>
+
+                                <span class="stv-form__validation-error" validation-error data-bound-field="dob" data-on-error="fieldValidationFailed">This doesn't appear to be a valid date</span>
+
+                        </div>
+                    </div><!--
+                 --><div class="stv-form__field grid__item one-whole    " id="address-finder" address-finder>
+                            <label class="stv-form__label stv-form__label--location" for="address">Address <a id="join-form-privacy-link" class="stv-form__link stv-form__link--privacy" target="_blank" href="http://my.stv.tv/stv-and-you/" tabindex="-1">Why do we need this?</a></label>
+    <span class="stv-form__field-desc"><span id="address-field-desc">Type your full postcode and select your address</span></span>    <input class="stv-form__input stv-form__input--location" type="text" name="address" id="address" validated-field data-required data-pattern='ukpostcode' placeholder='E.g. G51 1PQ' address-finder-input>
+
+                            <span class="stv-form__validation-error" validation-error data-bound-field="address" data-on-error="fieldIsRequired">This field is required.</span>
+
+                            <span class="stv-form__validation-error" validation-error data-bound-field="address" data-on-error="fieldValidationFailed">It doesn't look like you've entered a valid postcode.</span>
+
+                            <span class="stv-form__validation-error" validation-error data-bound-field="address" data-on-error="fieldForcedValidationError">Can't find your address? Confirm the details you've given us are correct by <a href=# id=confirm-address class=stv-form__link>clicking here</a></span>
+
+                        <span address-finder-locked class="stv-form__valid-address"></span>
+                    </div><!--
+                 --><div class="stv-form__field grid__item min-683--one-whole">
+                        <div class="stv-form__field--marketing">
+                            <label for="marketing" class="stv-form__marketing-label">
+                                <input class="stv-form__marketing-checkbox" type="checkbox" name="marketing" id="marketing"> Now that you've joined STV, we'll be able to send you email updates about STV's programmes and services. If you don't want them, please tick this box.
+                            </label>
+                            <input type="checkbox" name="terms" class="hide" checked>
+                        </div>
+                    </div>
+                </div>
+
+                <p class="stv-form__field-desc">By continuing you agree to our <a class="stv-form__link" target="_blank" href="http://my.stv.tv/terms-of-use/" tabindex="-1">Terms of Use</a>, including our <a class="stv-form__link" target="_blank" href="http://my.stv.tv/terms-of-use/#privacy" tabindex="-1">Privacy Policy</a> and <a class="stv-form__link" target="_blank" href="http://my.stv.tv/terms-of-use/#cookie-policy" tabindex="-1">Cookie Policy</a>. Any issues <a class="stv-form__link" id="issues-link" href="mailto:viewerenquiries@stv.tv?subject=STV join issues&body=I tried to join STV but I was having problems. Please help.%0D%0A%0D%0A[please describe the problems you encountered here]" tabindex="-1">contact us</a>.</p>
+
+                <div class="stv-modal__content-action">
+                    <input type="submit" class="stv-form__btn-primary" value="Join STV" id="joinFormSubmit">
+                </div>
+            </form>
+                </div>
+    </div>
+</div>
+
+    <!-- Upload Avatar Modal -->
+    <div class="stv-modal" static-modal id="profile-avatar" data-options='{&quot;shadeStyle&quot;:&quot;trans&quot;}'>
+    <div class="stv-modal__inner">
+        <div class="stv-modal__head">
+            <h3 class="stv-modal__heading">Upload Profile Picture</h3>
+            <div class="stv-modal__head-action">
+                <button class="stv-modal__btn-close" data-close-modal stv-click='{ "eventType" : "stv_reg_closex" }'>Close</button>
+            </div>
+        </div>
+        <div class="stv-modal__content">
+                    <form class="stv-form" validated-form id="profile-avatar-form" action="/userprofile/uploadavatar/" enctype="multipart/form-data" method="POST">
+            <div class="stv-form__field">
+                <p class="stv-form__field-desc stv-form__field-desc--primary">Please make sure your image is under 2mb in size and a valid JPG, PNG or GIF.</p>
+                <div class="file-upload grid__item one-whole" file-upload>
+                    <input name="user-id" id="user-id" type="hidden" populate-registration-id>
+                    <input name="avatar-image" id="avatar-image" type="file" file-upload-input>
+                    <button type="button" class="stv-form__btn-primary stv-form__btn-primary--muted stv-form__btn-primary--full file-upload__btn" file-upload-control>Select file</button>
+                    <p class="file-upload-box" file-upload-reporting></p>
+                </div>
+            </div>
+            <div class="stv-modal__content-action grid grid--full clearfix">
+                <div class="grid__item gamma-one-whole min-568--one-half stv-modal__primary-action">
+                    <input type="submit" class="stv-form__btn-primary one-whole" value="Upload">
+                </div><!--
+             --><div class="grid__item gamma-one-whole min-568--one-half stv-modal__secondary-action">
+                    <button type="button" class="stv-form__btn-secondary one-whole" data-close-modal>Cancel</button>
+                </div>
+            </div>
+        </form>
+                </div>
+    </div>
+</div>
+
+    <!-- Delete Account Modal -->
+    <div class="stv-modal" static-modal id="profile-delete-account" data-options='{&quot;shadeStyle&quot;:&quot;trans&quot;}'>
+    <div class="stv-modal__inner">
+        <div class="stv-modal__head">
+            <h3 class="stv-modal__heading">Are you sure?</h3>
+            <div class="stv-modal__head-action">
+                <button class="stv-modal__btn-close" data-close-modal stv-click='{ "eventType" : "stv_reg_closex" }'>Close</button>
+            </div>
+        </div>
+        <div class="stv-modal__content">
+                    <form class="stv-form" action="/delete-account/" method="POST">
+            <input type="hidden" name="gigyaDeleteUid" id="gigyaDeleteUid" populate-registration-id>
+            <p class="stv-form__field-desc stv-form__field-desc--primary">Unfortunately, you'll be unable to access our premium content. We’ll be sorry to see you go, but if you change your mind you can rejoin us at any time.</p>
+            <div class="stv-modal__content-action grid grid--full clearfix">
+                <div class="grid__item gamma-one-whole min-568--one-half stv-modal__primary-action">
+                    <input type="submit" class="stv-form__btn-primary one-whole" value="Yes, delete my account">
+                </div><!--
+             --><div class="grid__item gamma-one-whole min-568--one-half stv-modal__secondary-action">
+                    <button type="button" class="stv-form__btn-secondary one-whole" data-close-modal>Cancel</button>
+                </div>
+            </div>
+        </form>
+                </div>
+    </div>
+</div>
+
+    <!-- Verify Account Modal -->
+    <div class="stv-modal" static-modal id="resend-verification" data-options='{&quot;shadeStyle&quot;:&quot;trans&quot;}'>
+    <div class="stv-modal__inner">
+        <div class="stv-modal__head">
+            <h3 class="stv-modal__heading">Please verify your STV account</h3>
+            <div class="stv-modal__head-action">
+                <button class="stv-modal__btn-close" data-close-modal stv-click='{ "eventType" : "stv_reg_closex" }'>Close</button>
+            </div>
+        </div>
+        <div class="stv-modal__content">
+                    <p class="stv-form__field-desc stv-form__field-desc--primary">Please verify your STV account using the email we sent you. If you have lost the email, we can send you another one, just click the button below.</p>
+        <div class="stv-modal__content-action">
+            <input type="submit" class="stv-form__btn-primary one-whole" value="Send me a new verification email" data-resend-verification>
+        </div>
+                </div>
+    </div>
+</div>
+
+    <!-- Verification Email Resent Modal -->
+    <div class="stv-modal" static-modal id="registration-verification-resent" data-options='{&quot;shadeStyle&quot;:&quot;trans&quot;}'>
+    <div class="stv-modal__inner">
+        <div class="stv-modal__head">
+            <h3 class="stv-modal__heading">Thanks</h3>
+            <div class="stv-modal__head-action">
+                <button class="stv-modal__btn-close" data-close-modal stv-click='{ "eventType" : "stv_reg_closex" }'>Close</button>
+            </div>
+        </div>
+        <div class="stv-modal__content">
+                    <p class="stv-form__field-desc stv-form__field-desc--primary">We've sent you a new verification email.<br>Please check your email and follow the instructions to verify your account.</p>
+        <div class="stv-modal__content-action">
+            <button class="stv-form__btn-secondary one-whole" data-close-modal>Close</button>
+        </div>
+                </div>
+    </div>
+</div>
+
+    <!-- Registration Welcome Modal -->
+    <div class="stv-modal" static-modal id="registration-welcome" data-options='{"timeOut":1500, "shadeStyle":"trans"}'>
+        <div class="stv-modal__inner stv-modal__inner--registration-welcome">
+            <img class="stv-modal__stv-logo" src="/assets/source/global/img/stv-logo.png" alt="STV">
+            <h2 class="stv-modal__registration-welcome-message">Welcome to STV <br>Thanks for joining us.</h2>
+        </div>
+    </div>
+
+<!--     <div static-modal id="resend-verification" class="registration-modal__inner" data-options='{"shadeStyle":"trans"}'>
+        <div class="registration-modal__head registration-modal__head--small">
+            <h3 class="registration-modal__title">Please verify your STV account</h3>
+            <button class="registration-modal__close" data-close-modal>Close</button>
+        </div>
+        <div class="registration-modal__form">
+            <div class="registration-modal__field registration-modal__warning">
+                <p>Please verify your STV account using the email we sent you. If you have lost the email, we can send you another one, just click the button below.</p>
+                <p class="centre-align">
+                    <input type="submit" class="registration-modal__btn registration-modal__btn--double registration-modal__btn--style-1 no-margins" value="Send me a new verification email" tabindex="1" data-resend-verification>
+                </p>
+            </div>
+        </div>
+    </div> -->
+
+<!--     <div static-modal id="registration-verification-resent" class="registration-modal__inner" data-options='{"shadeStyle":"trans"}'>
+        <div class="registration-modal__head registration-modal__head--small">
+            <h3 class="registration-modal__title">Thanks</h3>
+            <button class="registration-modal__close" data-close-modal>Close</button>
+        </div>
+        <div class="registration-modal__form">
+            <div class="registration-modal__field registration-modal__warning">
+                <p>We've sent you a new verification email.<br>Please check your email and follow the instructions to verify your account.</p>
+                <p class="centre-align">
+                    <button class="registration-modal__btn registration-modal__btn--double registration-modal__btn--style-1 no-margins" tabindex="1" data-close-modal>Close</button>
+                </p>
+            </div>
+        </div>
+    </div> -->
+
+    <!-- Real heroes -->
+
+    <div static-modal id="ineligible-to-vote" class="registration-modal__inner registration-modal__inner__small" data-options='{"shadeStyle":"trans"}'>
+        <div class="registration-modal__head registration-modal__head--small">
+            <h3 class="registration-modal__title">Oops!</h3>
+            <button class="registration-modal__close" data-close-modal>Close</button>
+        </div>
+        <div class="registration-modal__form registration-modal__form--trim">
+            <p class="text-statement text-statement--warning">Sorry, you must be at least 12 years old to place a vote for your Real Hero.</p>
+            <p>Please review our <a target="_blank" href="http://shows.stv.tv/real-heroes/terms/">Voting Terms of Use</a> for more information.</p>
+            <div class="registration-modal__align-centre">
+                <button class="registration-modal__btn registration-modal__btn--double registration-modal__btn--style-1 registration-modal__form--no-margins" tabindex="1" data-close-modal>Close</button>
+            </div>
+        </div>
+    </div>
+
+    <div static-modal id="in-app-browser-notice" class="registration-modal__inner registration-modal__inner__small" data-options='{"shadeStyle":"trans"}'>
+        <div class="registration-modal__head registration-modal__head--small">
+            <h3 class="registration-modal__title">Oops!</h3>
+            <button class="registration-modal__close" data-close-modal>Close</button>
+        </div>
+        <div class="registration-modal__form registration-modal__form--trim">
+            <p class="text-statement text-statement--warning">Sorry! It seems that you are using a browser that is incompatible with our voting service.</p>
+            <p class="text-statement">To register your vote please copy the below URL in to your regular mobile browser. We recommend Google Chrome, or Safari.</p>
+            <p class="text-statement--url-box">http://shows.stv.tv/real-heroes/voting</p>
+            <div class="registration-modal__align-centre">
+                <button class="registration-modal__btn registration-modal__btn--double registration-modal__btn--style-1 registration-modal__form--no-margins" tabindex="1" data-close-modal>Close</button>
+            </div>
+        </div>
+    </div>
+
+    <div static-modal id="already-voted" class="registration-modal__inner registration-modal__inner__small" data-options='{"shadeStyle":"trans"}'>
+        <div class="registration-modal__head registration-modal__head--small registration-modal__head registration-modal__head--small--small">
+            <h3>Oops!</h3>
+            <button class="registration-modal__close" data-close-modal>&times;</button>
+        </div>
+        <div class="registration-modal__form registration-modal__form--trim">
+            <p class="text-statement text-statement--warning">Sorry, you seem to have already voted in this category.</p>
+            <div class="registration-modal__align-centre">
+                <button class="registration-modal__btn registration-modal__btn--double registration-modal__btn--style-1 registration-modal__form--no-margins" tabindex="1" data-close-modal>Close</button>
+            </div>
+        </div>
+    </div>
+
+    <div static-modal id="share-my-vote" class="registration-modal__inner registration-modal__inner__small" data-options='{"shadeStyle":"trans"}'>
+        <div class="registration-modal__head registration-modal__head--small">
+            <h3 class="registration-modal__title">Thanks for voting</h3>
+            <button class="registration-modal__close" data-close-modal>Close</button>
+        </div>
+        <div class="registration-modal__form registration-modal__form--trim registration-modal__warning">
+            <p>Now share your vote with friends on your social network</p>
+            <p class="registration-modal__align-centre">
+                <a href="" target="_blank" data-rh-twitter-share><img src="/assets/source/widgets/img/gigya-twitter-icon.png" alt="Share on twitter"></a>
+                <a href="" target="_blank" data-rh-facebook-share><img src="/assets/source/widgets/img/gigya-facebook-icon.png" alt="Share on facebook"></a>
+            </p>
+            <div class="registration-modal__align-centre">
+                <button class="registration-modal__btn registration-modal__btn--style-3 registration-modal__btn--full registration-modal__left registration-modal__form--no-margins" tabindex="1" data-close-modal>Skip step</button>
+            </div>
+        </div>
+    </div>
+
+    <div static-modal id="sign-in-to-continue" class="registration-modal__inner" data-options='{"shadeStyle":"trans"}'>
+        <div class="registration-modal__head registration-modal__head--small">
+            <h3 class="registration-modal__title">Cast your vote</h3>
+            <button class="registration-modal__close" data-close-modal>Close</button>
+        </div>
+        <div class="registration-modal__form registration-modal__form--trim registration-modal__field registration-modal__warning">
+            <p>Please register or sign in to continue.</p>
+            <div class="reg-group--tight">
+                <div class="reg-group__col reg-group__col--inverse reg-group__col--half">
+                    <button class="registration-modal__btn registration-modal__btn--style-1 registration-modal__btn--full registration-modal__left" data-launch-registration data-modal-id="registration-join">Register</button>
+                </div>
+                <div class="reg-group__col reg-group__col--inverse reg-group__col--half">
+                    <button class="registration-modal__btn registration-modal__btn--style-1 registration-modal__btn--full registration-modal__left" data-launch-registration data-modal-id="registration-sign-in">Sign in</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div static-modal id="get-user-age" class="registration-modal__inner registration-modal__inner__small" data-options='{"shadeStyle":"trans"}'>
+        <div class="registration-modal__head registration-modal__head--small">
+            <h3 class="registration-modal__title">Cast your vote</h3>
+            <button class="registration-modal__close" data-close-modal>Close</button>
+        </div>
+        <form class="registration-modal__form registration-modal__form--trim" validated-form id="get-user-age-form" data-options='{"allowSubmission":false}'>
+            <div>
+                <div class="registration-modal__field">
+                    <label for="user-age" class="text-paragraph-heading">To submit your vote for <span data-rh-vote-target></span>, please enter your date of birth to help us confirm your eligibility.</label>
+                    <input type="text" name="user-age" id="user-age" placeholder="DD/MM/YYYY" tabindex="1" validated-field data-format-date data-required data-options='{"minAge":0}'>
+                    <span class="registration-modal__field__error" validation-error data-bound-field="user-age" data-on-error="fieldIsRequired">This field is required.</span>
+                    <span class="registration-modal__field__error" validation-error data-bound-field="user-age" data-on-error="fieldValidationFailed">This doesn't appear to be a valid date</span>
+                 </div>
+
+                <div class="reg-group--tight">
+                    <div class="reg-group__col reg-group__col--inverse reg-group__col--sixty">
+                        <div class="gigya-composite-control gigya-composite-control-submit">
+                            <input type="submit" class="gigya-input-submit registration-modal__btn registration-modal__btn--full registration-modal__btn--style-1" value="Next" tabindex="2">
+                        </div>
+                    </div>
+                    <div class="reg-group__col reg-group__col--inverse reg-group__col--forty">
+                        <button class="registration-modal__btn registration-modal__btn--style-3 registration-modal__btn--full registration-modal__left" data-close-modal tabindex="3">Cancel</button>
+                    </div>
+                </div>
+
+            </div>
+        </form>
+    </div>
+
+    <div static-modal id="get-anonymous-details" class="registration-modal__inner" data-options='{"shadeStyle":"trans"}'>
+        <div class="registration-modal__head registration-modal__head--small">
+            <h3 class="registration-modal__title">Cast your vote</h3>
+            <button class="registration-modal__close" data-close-modal>Close</button>
+        </div>
+        <p class="registration-modal__info">Please fill out this form to cast your vote. <span class="text-highlight-alpha">As you are under 16 years old you will not create an STV account</span>. <span class="text-highlight"><a href="http://my.stv.tv/privacy12-15">Why do we need these details?</a></span></p>
+        <form id="get-anonymous-details-form" class="gigya-register-form registration-modal__form mts" validated-form data-options='{"allowSubmission":false}'>
+            <div>
+
+                <div class="reg-group">
+
+                    <div class="registration-modal__field reg-group__col reg-group__col--half">
+                        <label class="registration-modal__form__label" for="rhFirstName">First name</label>
+                        <input type="text" name="rhFirstName" id="rhFirstName" tabindex="1" validated-field data-pattern="[a-zA-z]{2,}" data-required>
+                        <span class="registration-modal__field__error" validation-error data-bound-field="rhFirstName" data-on-error="fieldIsRequired">This field is required.</span>
+                        <span class="registration-modal__field__error" validation-error data-bound-field="rhFirstName" data-on-error="fieldValidationFailed">Please enter at least 2 characters</span>
+                    </div>
+
+                    <div class="registration-modal__field reg-group__col reg-group__col--half">
+                        <label class="registration-modal__form__label" for="rhLastName">Last name</label>
+                        <input type="text" name="rhLastName" id="rhLastName" tabindex="2" validated-field data-pattern="[a-zA-z]{2,}" data-required>
+                        <span class="registration-modal__field__error" validation-error data-bound-field="rhLastName" data-on-error="fieldIsRequired">This field is required.</span>
+                        <span class="registration-modal__field__error" validation-error data-bound-field="rhLastName" data-on-error="fieldValidationFailed">Please enter at least 2 characters</span>
+                    </div>
+
+                </div>
+
+                <div class="registration-modal__field">
+                    <label class="registration-modal__form__label" for="rhEmail">Email address</label>
+                    <input type="text" class="gigya-input-text" name="rhEmail" id="rhEmail" tabindex="3" validated-field data-pattern="email" data-required>
+                    <span class="registration-modal__field__error" validation-error data-bound-field="rhEmail" data-on-error="fieldIsRequired">This field is required.</span>
+                    <span class="registration-modal__field__error" validation-error data-bound-field="rhEmail" data-on-error="fieldValidationFailed">That doesn't look like a valid e-mail format, please check.</span>
+                </div>
+
+                <div class="registration-modal__field">
+                    <span class="registration-modal__form__label">Location</span>
+                    <label class="registration-modal__form__label registration-modal__form__label--light"><input id="rhResidentCheck" validated-field data-required type="checkbox">Please tick this box to confirm that you are a resident of the UK, Channel Islands or Isle of Man.</label>
+                    <span class="registration-modal__field__error" validation-error data-bound-field="rhResidentCheck" data-on-error="fieldIsRequired">This field is required.</span>
+                </div>
+
+                <div class="registration-modal__field">
+                    <span class="registration-modal__form__label">Parental Consent</span>
+                    <label class="registration-modal__form__label registration-modal__form__label--light"><input id="rhParentalConsent" validated-field data-required type="checkbox">Please tick this box to confirm that you have received consent from a parent or guardian in order to complete this form and submit your vote.</label>
+                    <span class="registration-modal__field__error" validation-error data-bound-field="rhParentalConsent" data-on-error="fieldIsRequired">This field is required.</span>
+                </div>
+
+                <p>That's you. All that's left is to click the 'Submit Vote' button below. By doing so, you confirm that you and your parent or guardian have read and accept our <a target="_blank" href="http://shows.stv.tv/real-heroes/terms/">Voting Terms of Use</a>, <a target="_blank" href="http://my.stv.tv/privacy12-15">Privacy Policy</a> and <a target="_blank" href="http://my.stv.tv/terms-of-use/#cookie-policy">Cookie policy</a>, and that the details you have entered are correct. We'll look after them as carefully as if they were our own.</p>
+
+                <div class="gigya-composite-control gigya-composite-control-submit registration-modal__inline-children registration-modal__align-centre">
+                    <input type="submit" class="js-registration-submit gigya-sync gigya-input-submit registration-modal__btn registration-modal__btn--triple registration-modal__btn--style-1" value="Submit Vote">
+                </div>
+
+                <div class="registration-modal__inline-children registration-modal__align-centre registration__modal-close-row">
+                    <input type="button" class="registration-modal__btn registration-modal__btn--style-3 registration-modal__btn--marginless" value="Close" data-close-modal>
+                </div>
+
+            </div>
+        </form>
+    </div>
+
+</div>
+        
+    </body>
+</html>

@@ -1,0 +1,790 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+.ntv-mw .socialContainer.twoCol {
+  position:relative !important;
+}
+</style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<link rel="icon" type="image/png" href="../../dist/assets/icons/favicon.ico">
+<link href="../../dist/assets/icons/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="../../dist/assets/icons/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="../../dist/assets/icons/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="../../dist/assets/icons/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+<link href="../../dist/assets/icons/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
+<link href="../../dist/assets/icons/icon-hires.png" rel="icon" sizes="192x192" />
+<link href="../../dist/assets/icons/icon-normal.png" rel="icon" sizes="128x128" />
+<link rel="stylesheet" type="text/css" href="/dist/css_1521016599896/main.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<script type="text/javascript" src="/dist/bower_components/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular/angular.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular-animate/angular-animate.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular-touch/angular-touch.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular-ui/build/angular-ui.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/toastr/toastr.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/waypoints/lib/jquery.waypoints.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/waypoints/lib/shortcuts/sticky.min.js"></script>
+<script type="text/javascript"
+        src="/dist/bower_components/angular-ui-router/release/angular-ui-router.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/moment/min/moment.min.js"></script>
+<script type='text/javascript' src='../../dist/assets/js/ng-infinite-scroll.js'></script>
+<meta property="al:ios:app_name" content="ap-news-app">
+<meta property="al:ios:app_store_id" content="364677107">
+
+<meta name="ap-news-app" content="app-id=364677107, app-argument=https://apnews.com/5c376ab92d2e470ea0e8f41618c94bce?utm_campaign=SocialFlow&amp;amp;utm_source=Twitter&amp;amp;utm_medium=AP">
+<meta property="fb:pages" content="249655421622"/>
+
+<meta name="referrer" content="origin">
+<meta name="google-site-verification" content="LJ7vk4czBDDGQtqBLAiY_a9dcLP5v9X-sLlrYaW5kbM" />
+
+<script type="text/javascript">
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 11689; // ACCOUNT NUMBER
+    _sf_async_config.domain = 'apnews.com'; // DOMAIN
+    _sf_async_config.flickerControl = false;
+    _sf_async_config.useCanonical = true;
+    /** CONFIGURATION END **/
+    var _sf_startpt = (new Date()).getTime();
+</script>
+<script async src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+<script type='text/javascript'>
+    var environment_type = 'PRODUCTION';
+
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function () {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script>
+
+<!-- Branch WEB SDK
+    TODO: Implement deeplinks and Journeys
+-->
+<script type="text/javascript">
+  (function(b,r,a,n,c,h,_,s,d,k){if(!b[n]||!b[n]._q){for(;s<_.length;)c(h,_[s++]);d=r.createElement(a);d.async=1;d.src="https://cdn.branch.io/branch-latest.min.js";k=r.getElementsByTagName(a)[0];k.parentNode.insertBefore(d,k);b[n]=h}})(window,document,"script","branch",function(b,r){b[r]=function(){b._q.push([r,arguments])}},{_q:[],_v:1},"addListener applyCode banner closeBanner creditHistory credits data deepview deepviewCta first getCode init link logout redeem referrals removeListener sendSMS setBranchViewData setIdentity track validateCode".split(" "), 0);
+
+    branch.init('key_live_ndufC8VAc2V3dnaX3lenvdhkvAc3rs4S', function(err, data) {
+    });
+</script>
+
+    <script type="text/javascript" src="../../dist/assets/js/jquery.mobile.min.js"></script>
+    <script type="text/javascript" src="../../dist/assets/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../../dist/assets/js/smartquotes.js"></script>
+    <script>smartquotes()</script>
+
+    <!-- APNews app tags -->
+    <meta property="al:ios:url" content="apnews://5c376ab92d2e470ea0e8f41618c94bce">
+    <!-- video js -->
+    <link href="//vjs.zencdn.net/5.3/video-js.min.css" rel="stylesheet">
+    <!--<link rel="stylesheet" href="../../dist/assets/js/videojs.ads.css"/>
+    <link rel="stylesheet" href="../../dist/assets/js/videojs.ima.css"/>-->
+    <title>The Latest: State Dept. says Putin re-election &#39;no surprise&#39;</title>
+    <meta id="adMetaTags" name="keywords" content="Vladimir Putin,International News,Politics,North America,John McCain,Elections,Europe,Russia,Donald Trump"/>
+    <meta name="description" content="
+              WASHINGTON (AP) — The Latest on President Donald Trump and Russian President Vladimir Putin (all times local):
+              3:20 p.m.
+              The U.S. State Department says"/>
+    <link rel="canonical" href="https://apnews.com/5c376ab92d2e470ea0e8f41618c94bce"/>
+    <link rel="amphtml" href="https://apnews.com/amp/5c376ab92d2e470ea0e8f41618c94bce">
+
+    <!-- OG Tags -->
+    <meta property="og:url" content="https://apnews.com/5c376ab92d2e470ea0e8f41618c94bce?utm_campaign=SocialFlow&amp;amp;utm_source=Twitter&amp;amp;utm_medium=AP"/>
+    <meta property="og:image" content="https://storage.googleapis.com/afs-prod/media/media:49351faba6d94aa28960793d2d8e41dc/800.jpeg"/>
+    <meta property="og:image:width" content="800"/>
+    <meta property="og:image:height" content="600"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:title" content="The Latest: State Dept. says Putin re-election &#39;no surprise&#39;"/>
+    <meta property="og:site_name" content="AP News"/>
+    <meta property="fb:app_id" content="870613919693099"/>
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:description" content="
+              WASHINGTON (AP) — The Latest on President Donald Trump and Russian President Vladimir Putin (all times local):
+              3:20 p.m.
+              The U.S. State Department says"/>
+    <meta property="article:publisher" content="https://www.facebook.com/APNews"/>
+
+    <!-- Twitter Card tags -->
+    <meta property="twitter:card" content="summary_large_image"/>
+    <meta property="twitter:site" content="@ap"/>
+    <meta property="twitter:title" content="The Latest: State Dept. says Putin re-election &#39;no surprise&#39;"/>
+    <meta property="twitter:description" content="
+              WASHINGTON (AP) — The Latest on President Donald Trump and Russian President Vladimir Putin (all times local):
+              3:20 p.m.
+              The U.S. State Department says"/>
+    <meta property="twitter:image" content="https://storage.googleapis.com/afs-prod/media/media:49351faba6d94aa28960793d2d8e41dc/800.jpeg"/>
+    <meta property="twitter:url" content=" https://apnews.com/5c376ab92d2e470ea0e8f41618c94bce"/>
+    <meta name="twitter:image:alt" content="https://storage.googleapis.com/afs-prod/media/media:49351faba6d94aa28960793d2d8e41dc/800.jpeg"/>
+
+    <!-- AppNexus -->
+    <script src="https://acdn.adnxs.com/prebid/c/7403/pb.js" async=true></script>
+    <script>
+        var googletag = googletag || {};
+
+        googletag.cmd = googletag.cmd || [];
+        googletag.cmd.push(function () {
+          googletag.pubads().disableInitialLoad();
+        });
+    </script>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push(
+                {article: 'auto'}
+        );
+        !function (e, f, u) {
+            e.async = 1;
+            e.src = u;
+            f.parentNode.insertBefore(e, f);
+        }(document.createElement('script'),
+                document.getElementsByTagName('script')[0],
+                '//cdn.taboola.com/libtrc/associatedpress-apnews/loader.js');
+    </script>
+    <script type='text/javascript'>
+      googletag.cmd.push(function(){
+        var isSticked = false;
+        var bottomAdPos;
+        googletag.pubads().addEventListener('slotRenderEnded', function (event) {
+            if (event.slot.getSlotElementId() === "div-gpt-ad-1461247613791-1") {
+              var bottomAd = $("#bottomAd");
+              bottomAdPos = bottomAd.position().top;
+              var articleContent = $("#articleContent");
+              var rightRail = $(".rightRail");
+              $(window).scroll(function() {
+                  var windowPos = $(window).scrollTop();
+                  if (windowPos >=  bottomAd.position().top + bottomAd.height()){
+                      if(!isSticked){
+                        bottomAdPos = bottomAd.position().top;
+                        isSticked = true;
+                      }
+                      bottomAd.addClass("stickBottomAd");
+                  }
+                  if(windowPos < bottomAdPos){
+                      bottomAd.removeClass("stickBottomAd");
+                  }
+              });
+             }
+         });
+        googletag.defineSlot('/15786418/APNews/site/article/rectangle1', [[300, 250], [300, 600]], 'div-gpt-ad-1461247613791-1').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        googletag.defineSlot('/15786418/APNews/site/article/rectangle2', [300, 250], 'div-gpt-ad-1461247613791-2').addService(googletag.pubads());
+      });
+    </script>
+
+    <base href="/">
+    <script type="text/javascript">
+      $(document).ready(function(){
+        var imageClassList = $('.articleImage').prop('classList');
+        if(jQuery.inArray('tallImage',imageClassList) != -1){
+          $('.articleBody .ad-placeholder:nth(0)').remove();
+        }
+        $('a').on('click', function(){
+            ga('send',{
+                hitType: 'event',
+                eventCategory: 'StoryLink',
+                eventAction: 'LinkOpened',
+                eventLabel: $(this).href
+            });
+        });
+      });
+    </script>
+    <script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-19104461-33', 'auto');
+        ga('set', {
+            'dimension1': '5c376ab92d2e470ea0e8f41618c94bce',
+            'dimension4': "The Latest: State Dept. says Putin re-election 'no surprise'",
+            'dimension8': '',
+            'dimension11'   : 'NO'
+        });
+        ga('send', 'pageview');
+
+    </script>
+
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://apnews.com/5c376ab92d2e470ea0e8f41618c94bce"
+        },
+        "headline": "The Latest: State Dept. says Putin re-election &#39;no surprise&#39;",
+        "image":{
+            "@type": "ImageObject",
+            "url": "https://storage.googleapis.com/afs-prod/media/media:49351faba6d94aa28960793d2d8e41dc/800.jpeg",
+            "height": "613",
+            "width": "800"
+        },
+        "datePublished": "2018-03-20 19:25:15",
+        "dateModified": "2018-03-20 19:25:15",
+        "author": {
+            "@type": "Person",
+            "name": "AP Staff"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Associated Press",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "http://apcontextual.appspot.com/Support/AMPLogo.png",
+              "width": 600,
+              "height": 60
+            }
+        },
+        "description": ""
+      }
+
+
+    </script>
+
+</head>
+<body ng-app="articleContent" style="background-color: white">
+<script type="text/javascript" src="../../dist/assets/js/socialMedia.js"></script>
+
+<!-- Modal -->
+<div id="imageModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="closeContentModalButton">
+                    <a type="button" data-dismiss="modal">&times;</a>
+                </div>
+            </div>
+            <div class="modal-body">
+                <div id="imageCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner" role="listbox">
+                        
+                        <div class="item  active ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:49351faba6d94aa28960793d2d8e41dc/800.jpeg" alt="Sarah Huckabee Sanders">
+                            <div class="carousel-caption">
+                                
+              <p>
+              White House press secretary Sarah Huckabee Sanders speaks during the daily press briefing in the Brady press briefing room at the White House, in Washington, Tuesday, March 20, 2018. (AP Photo/Manuel Balce Ceneta)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:3644a7b4c7494f99ac2c4ba7434bce96/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              Russian President Vladimir Putin gestures as he speaks during a meeting with opposition candidates who ran against him in yesterday's presidential election, Boris Titov, Maxim Suraykin, Ksenia Sobchak, Vladimir Zhirinivsky, Pavel Grudinin, Sergei Baburin and Grigory Yavlinsky, at the Kremlin in Moscow, Russia, Monday, March 19, 2018. Putin, who won a landslide victory in Sunday's vote, said during a Kremlin meeting with seven other candidates who challenged him, that the focus should now be on raising living standards and solving other domestic issues. (Yuri Kadobnov/Pool Photo via AP)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:5279d5de5c304821aae1b956dc1158e3/800.jpeg" alt="Donald Trump">
+                            <div class="carousel-caption">
+                                
+              <p>
+              President Donald Trump speaks about his plan to combat opioid drug addiction at Manchester Community College, Monday, March 19, 2018, in Manchester, N.H., even as more Republicans are telling Trump in ever blunter terms to lay off his escalating criticism of special counsel Robert Mueller and his Russia probe. But party leaders are taking no action to protect Mueller from possibly being fired, embracing a familiar strategy with the president _ simply waiting out the storm. (AP Photo/Elise Amendola)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:8efb50e0958147318b672e1858ac5bb6/800.jpeg" alt="Donald Trump, Vladimir Putin">
+                            <div class="carousel-caption">
+                                
+              <p>
+              FILE - In this file photo taken on Friday, July 7, 2017, U.S. President Donald Trump, right, meets with Russian President Vladimir Putin at the G-20 Summit in Hamburg, Germany. The Kremlin said Trump called Putin to congratulate him on re-election, and White House press secretary Sarah Huckabee Sanders confirmed that Trump spoke with Putin Tuesday March 20, 2018. (AP Photo/Evan Vucci)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:7b7c7c37542b46fbb74a1182c5d0f9d3/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              Russian President Vladimir Putin, left, greets Ksenia Sobchak, right, during his meeting with opposition candidates who ran against him in Sunday's presidential election, Boris Titov, Sergei Baburin, Maxim Suraykin, Vladimir Zhirinivsky, Pavel Grudinin, and Grigory Yavlinsky, at the Kremlin in Moscow, Russia, Monday, March 19, 2018. Putin, who won a landslide victory in Sunday's vote, said during a Kremlin meeting with seven other candidates who challenged him, that the focus should now be on raising living standards and solving other domestic issues. (Yuri Kadobnov/Pool Photo via AP)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                    </div>
+
+                    <!-- Left and right controls -->
+                    
+                    <a class="left carousel-control" href="#imageCarousel" role="button" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"><div class="sr-only carousel-round"> <svg class="carousel-arrow" viewBox="0 0 100 100"><path d="M 25,50 L 60,85 L 65,80 L 35,50  L 65,20 L 60,15 Z" class="arrow"></path></svg> </div></span>
+                    </a>
+                    <a class="right carousel-control" href="#imageCarousel" role="button" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"><div class="sr-only carousel-round"> <svg class="carousel-arrow" viewBox="0 0 100 100"><path d="M 25,50 L 60,85 L 65,80 L 35,50  L 65,20 L 60,15 Z" class="arrow" transform="translate(100, 100) rotate(180) "></path></svg> </div></span>
+                    </a>
+
+                    <ol class="carousel-indicators">
+                        
+                        <li data-target="#imageCarousel" data-slide-to="0" 
+                            class="active" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="1" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="2" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="3" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="4" ></li>
+                        
+                    </ol>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div page-header></div>
+
+
+<div class="articleView" >
+    <div class="articleContentContainer">
+        <div class="sideRail leftRail" >
+            <div class="fullscreen">
+                <div>
+                    <h4></h4>
+                </div>
+                <div>
+                    <h4 class="updatedString">Yesterday</h4>
+                </div>
+            </div>
+            <div class="outerShareContainer">
+                <!--share-container is Angular directive, search for 'searchContainer'-->
+<!--fbShare, tweet and deeplink are handled by jQuery, search for file socialMedia.js-->
+<div class="fbShare socialIcons" data-url="https://apnews.com/5c376ab92d2e470ea0e8f41618c94bce?utm_campaign=SocialFlow&amp;amp;utm_source=Twitter&amp;amp;utm_medium=AP" data-title="The Latest: State Dept. says Putin re-election &#39;no surprise&#39;" data-image="https://storage.googleapis.com/afs-prod/media/media:49351faba6d94aa28960793d2d8e41dc/800.jpeg"
+     data-member="" data-id="urn:publicid:ap.org:5c376ab92d2e470ea0e8f41618c94bce" data-cardType="">
+    <img src="../../dist/assets/icons/facebook-share.png" class="shareIcon"/>
+</div>
+<div class="tweet socialIcons" data-title="The Latest: State Dept. says Putin re-election &#39;no surprise&#39;" data-url="https://apnews.com/5c376ab92d2e470ea0e8f41618c94bce"
+     data-member="" data-id="urn:publicid:ap.org:5c376ab92d2e470ea0e8f41618c94bce" data-cardType="">
+    <img src="../../dist/assets/icons/twitter-share.png" class="shareIcon"/>
+</div>
+<div id="mailTo" class="socialIcons" data-url="https://apnews.com/5c376ab92d2e470ea0e8f41618c94bce" data-member=""
+     data-id="urn:publicid:ap.org:5c376ab92d2e470ea0e8f41618c94bce" data-cardType="">
+    <img src="../../dist/assets/icons/email.png" class="shareIcon"/>
+</div>
+<div class="deeplink socialIcons" data-url="https://apnews.com/5c376ab92d2e470ea0e8f41618c94bce">
+    <img  class="deeplink-image" src="../../dist/assets/icons/permalink-field.jpg"/>
+    <span class="deeplink-text">https://apnews.com/5c376ab92d2e470ea0e8f41618c94bce</span>
+    <div class="deeplink-hint">Link copied!</div>
+</div>
+<div share-container name="The Latest: State Dept. says Putin re-election &#39;no surprise&#39;" is-share="false" url="https://apnews.com/5c376ab92d2e470ea0e8f41618c94bce" id="urn:publicid:ap.org:5c376ab92d2e470ea0e8f41618c94bce" short-id="5c376ab92d2e470ea0e8f41618c94bce" type="content" page="card"
+     card-type="" card-title="The Latest: State Dept. says Putin re-election &#39;no surprise&#39;" member-name=""></div>
+            </div>
+
+            <div class="leftRailTags leftRailTitle">
+                <h4>RELATED TOPICS</h4>
+                <ul>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/VladimirPutin">Vladimir Putin</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/apf-politics">Politics</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/apf-NorthAmerica">North America</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/JohnMcCain">John McCain</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/Elections">Elections</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/apf-europe">Europe</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/Russia">Russia</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/DonaldTrump">Donald Trump</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <div>
+                <span class="leftRailTitle">More from</span><br/>
+                <a href="/tag/apf-intlnews"><span class="moreFrom">International News</span></a>
+            </div>
+        </div>
+
+        
+        <div class="articleContent" id="articleContent">
+            <div class="dtTitle">
+                <ul class="topTags">
+                    
+                    <li class="tagsList">
+                        <a href="/tag/VladimirPutin">Vladimir Putin</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-politics">Politics</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-NorthAmerica">North America</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/JohnMcCain">John McCain</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/Elections">Elections</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-europe">Europe</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/Russia">Russia</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/DonaldTrump">Donald Trump</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-intlnews">International News</a>
+                    </li>
+                </ul>
+                <div class="dtTitleContainer">
+                    <h1 class="topTitle">The Latest: State Dept. says Putin re-election &#39;no surprise&#39;</h1>
+                </div>
+            </div>
+            
+            <div class=" articleImage modalImageButton  ">
+                <div class="articleIcons">
+                    
+                    <button data-toggle="modal" class="modalImageButton"><img
+                            src="../../dist/assets/icons/slideshow-story-view.png" class="articleIcon"></button>
+                    
+                    
+                </div>
+                <img class="afkl-lazy-image primaryImage" src="https://storage.googleapis.com/afs-prod/media/media:49351faba6d94aa28960793d2d8e41dc/800.jpeg"><!--src="https://storage.googleapis.com/afs-prod/media/media:49351faba6d94aa28960793d2d8e41dc/800.jpeg"-->
+            </div>
+            
+            <script>
+            </script>
+            <article id="contentArea"
+                     class="    ">
+                
+                <div class="mobileTitle">
+                    <ul style="padding: 0">
+                        
+                        <li class="tagsList">
+                            <a href="/tag/VladimirPutin">Vladimir Putin</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-politics">Politics</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-NorthAmerica">North America</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/JohnMcCain">John McCain</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Elections">Elections</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-europe">Europe</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Russia">Russia</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/DonaldTrump">Donald Trump</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-intlnews">International News</a>
+                        </li>
+                    </ul>
+                    <h3>The Latest: State Dept. says Putin re-election &#39;no surprise&#39;</h3>
+                </div>
+                
+                <div class="tabletTitle">
+                    <ul style="padding: 0">
+                        
+                        <li class="tagsList">
+                            <a href="/tag/VladimirPutin">Vladimir Putin</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-politics">Politics</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-NorthAmerica">North America</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/JohnMcCain">John McCain</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Elections">Elections</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-europe">Europe</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Russia">Russia</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/DonaldTrump">Donald Trump</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-intlnews">International News</a>
+                        </li>
+                    </ul>
+                    <h3>The Latest: State Dept. says Putin re-election &#39;no surprise&#39;</h3>
+                </div>
+                <div class="mobile">
+                    <div>
+                        <h6></h6>
+                    </div>
+                    <div>
+                        <h6>Yesterday</h6>
+                    </div>
+
+                </div>
+                <div class="mobile mobileShareTemplate">
+                    <!--share-container is Angular directive, search for 'searchContainer'-->
+<!--fbShare, tweet and deeplink are handled by jQuery, search for file socialMedia.js-->
+<div class="fbShare socialIcons" data-url="https://apnews.com/5c376ab92d2e470ea0e8f41618c94bce?utm_campaign=SocialFlow&amp;amp;utm_source=Twitter&amp;amp;utm_medium=AP" data-title="The Latest: State Dept. says Putin re-election &#39;no surprise&#39;" data-image="https://storage.googleapis.com/afs-prod/media/media:49351faba6d94aa28960793d2d8e41dc/800.jpeg"
+     data-member="" data-id="urn:publicid:ap.org:5c376ab92d2e470ea0e8f41618c94bce" data-cardType="">
+    <img src="../../dist/assets/icons/facebook-share.png" class="shareIcon"/>
+</div>
+<div class="tweet socialIcons" data-title="The Latest: State Dept. says Putin re-election &#39;no surprise&#39;" data-url="https://apnews.com/5c376ab92d2e470ea0e8f41618c94bce"
+     data-member="" data-id="urn:publicid:ap.org:5c376ab92d2e470ea0e8f41618c94bce" data-cardType="">
+    <img src="../../dist/assets/icons/twitter-share.png" class="shareIcon"/>
+</div>
+<div id="mailTo" class="socialIcons" data-url="https://apnews.com/5c376ab92d2e470ea0e8f41618c94bce" data-member=""
+     data-id="urn:publicid:ap.org:5c376ab92d2e470ea0e8f41618c94bce" data-cardType="">
+    <img src="../../dist/assets/icons/email.png" class="shareIcon"/>
+</div>
+<div class="deeplink socialIcons" data-url="https://apnews.com/5c376ab92d2e470ea0e8f41618c94bce">
+    <img  class="deeplink-image" src="../../dist/assets/icons/permalink-field.jpg"/>
+    <span class="deeplink-text">https://apnews.com/5c376ab92d2e470ea0e8f41618c94bce</span>
+    <div class="deeplink-hint">Link copied!</div>
+</div>
+<div share-container name="The Latest: State Dept. says Putin re-election &#39;no surprise&#39;" is-share="false" url="https://apnews.com/5c376ab92d2e470ea0e8f41618c94bce" id="urn:publicid:ap.org:5c376ab92d2e470ea0e8f41618c94bce" short-id="5c376ab92d2e470ea0e8f41618c94bce" type="content" page="card"
+     card-type="" card-title="The Latest: State Dept. says Putin re-election &#39;no surprise&#39;" member-name=""></div>
+                </div>
+                <div class="articleBody" mark-urls>
+                    
+<p>WASHINGTON (AP) &#8212; The Latest on President Donald Trump and Russian President Vladimir Putin (all times local):</p>
+<p>3:20 p.m.</p>
+<p>The U.S. State Department says it's "no surprise" that Russian President Vladimir Putin was re-elected.</p>
+<p>State Department spokeswoman Heather Nauert says some people in Russia were paid to turn out to vote. She says opposition leaders were intimidated or jailed.</p>
+<p>Nauert is citing a preliminary report by the Organization for Security and Cooperation in Europe that says Russia's election took place in an overly controlled environment that lacked an even playing field for all contenders. She says the U.S. has every reason to believe that report is correct.</p>
+<p>Nauert's comments are notably tougher on Russia than those of the White House. President Donald Trump is being criticized by Sen. John McCain and others for calling Putin on Tuesday to congratulate him for his re-election.</p><div class="ad-placeholder"></div>
+<p>__</p>
+<p>2:20 p.m.</p>
+<p>White House spokeswoman Sarah Huckabee Sanders says the poisoning of an ex-spy in Britain didn't come up in President Donald Trump's Tuesday call with Russia's Vladimir Putin.</p>
+<p>The British government has blamed Moscow for the attack with a military-grade nerve agent.</p>
+<p>Outgoing Secretary of State Rex Tillerson has said it's "almost beyond comprehension" why a state actor would deploy such a dangerous substance in a public place in a foreign country where others could be exposed.</p>
+<p>Sanders told reporters that Trump also didn't raise the issues of election meddling or Russia's allegedly tainted voting process. She says: "That's not simply what today's call was about."</p>
+<p>Sanders adds that the call was meant to discuss areas of cooperation between the U.S. and Russia.</p>
+<p>___</p>
+<p>1:36 p.m.</p>
+<p>Sen. John McCain is criticizing President Donald Trump for commending Vladimir Putin for his re-election to a fourth six-year term as Russia's leader.</p>
+<p>The Arizona Republican says, "An American president does not lead the Free World by congratulating dictators on winning sham elections."</p>
+<p>McCain, the Armed Services Committee chairman, also says that by doing so Trump has "insulted every Russian citizen who was denied the right to vote in a free and fair election to determine their country's future."</p>
+<p>McCain has previously called Putin a murderer and a thug. He's also pressed the Trump administration to respond aggressively to Russia's interference in the 2016 U.S. presidential election.</p><div class="ad-placeholder"></div>
+<p>__</p>
+<p>12:30 p.m.</p>
+<p>President Donald Trump says he wants to meet with Russia's Vladimir Putin in the "not too distant future" to discuss the "arms race" between Russia and the U.S.</p>
+<p>Trump says he also wants to discuss Ukraine, North Korea, and Syria with the Russian president.</p>
+<p>Trump said in the Oval Office: "&#205; suspect we'll probably be meeting in the not too distant future to discuss the arms race, which is getting out of control, but we will never allow anybody to have anything even close to what we have."</p>
+<p>Trumps comments came after what he says was a "very good call" with Putin on Tuesday morning to congratulate the Russian leader on his re-election Sunday to a fourth six-year term.</p>
+<p>The election was tainted by reports of voting irregularities.</p>
+<p>___</p>
+<p>11:45 a.m.</p>
+<p>The Kremlin says U.S. President Donald Trump has called Russian President Vladimir Putin to congratulate him on re-election.</p>
+<p>The Kremlin said in a statement that the two presidents also spoke Tuesday about the need to coordinate efforts to limit the arms race and closer cooperation on strategic stability and counter-terrorism.</p>
+<p>The statement says they also expressed satisfaction with the apparent easing of tensions over North Korea's weapons program.</p>
+<p>The Kremlin said the two leaders also discussed the Ukrainian crisis and the 7-year Syrian war and talked about a possible bilateral meeting.</p>
+<p>Russia has repeatedly said it hoped for better ties with the U.S. under Trump. Relations between the two countries instead have remained tense amid the allegations of Russian meddling in the 2016 U.S. presidential election and the investigations of whether there was collusion between Trump's campaign and Russia.</p>
+
+                </div>
+            </article>
+            
+            <div class="taboolaContainer" id="taboolaContainer">
+                <div id="taboola-below-article-text-links"></div>
+                <div id="taboola-below-article-thumbnails-2nd"></div>
+                <div id="taboola-below-article-thumbnails"></div>
+            </div>
+        </div>
+        
+        <div class="sideRail rightRail">
+            <div class="adUnit" id="div-gpt-ad-1461247613791-2">
+            </div>
+            <script type='text/javascript'>
+                googletag.cmd.push(function () {
+                    googletag.display('div-gpt-ad-1461247613791-2');
+                });
+            </script>
+            <div class="rightRailContent" side-feed tag-id="apf-intlnews" content-id="5c376ab92d2e470ea0e8f41618c94bce">
+            </div>
+            <div class="bottomAd" id="bottomAd">
+                <div class="feedAd" id="div-gpt-ad-1461247613791-1">
+                </div>
+            </div>
+            <script type='text/javascript'>
+                googletag.cmd.push(function () {
+                    googletag.display('div-gpt-ad-1461247613791-1');
+                });
+            </script>
+        </div>
+        
+
+
+    </div>
+    <div page-footer></div>
+</div>
+<script type="application/javascript" src="/dist/articleContent_1521016612264.js"></script> 
+<script type="application/javascript" src="/dist/contentTemplates_1521016624504/templates.js"></script>
+<script src="//vjs.zencdn.net/5.3/video.min.js"></script>
+<script type="text/javascript" src="//imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
+<script src="../../dist/assets/js/videojs.ads.js"></script>
+<script src="../../dist/assets/js/videojs.ima.js"></script>
+<script type="application/javascript" src="/dist/articleManager_1521016612264.js"></script> 
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push(
+            {flush: true}
+    );
+</script>
+
+<script type="text/javascript">
+    $(function () {
+        window._taboola = window._taboola || [];
+        _taboola.push(
+                {
+                    mode: 'thumbnails-a',
+                    container: 'taboola-below-article-thumbnails',
+                    placement: 'Below Article Thumbnails',
+                    target_type: 'mix'
+                }
+        );
+        _taboola.push(
+            {
+                mode: 'organic-thumbnails-a',
+                container: 'taboola-below-article-thumbnails-2nd',
+                placement: 'Below Article Thumbnails 2nd',
+                target_type: 'mix'
+            }
+        );
+        _taboola.push(
+            {
+                mode: 'organic-text-links-a',
+                container: 'taboola-below-article-text-links',
+                placement: 'Below Article Text Links',
+                target_type: 'mix'
+            }
+        );
+    });
+</script>
+<!-- Twitter universal website tag code -->
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">twttr.conversion.trackPid('nv0fp',
+        {tw_sale_amount: 0, tw_order_quantity: 0}
+);</script>
+<noscript>
+    <img height="1" width="1" style="display:none;" alt=""
+         src="https://analytics.twitter.com/i/adsct?txn_id=nv0fp&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0"/>
+    <img height="1" width="1" style="display:none;" alt=""
+         src="//t.co/i/adsct?txn_id=nv0fp&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0"/>
+</noscript>
+<!-- End Twitter universal website tag code -->
+<input id="hiddenTitle" type="hidden" value="The Latest: State Dept. says Putin re-election &#39;no surprise&#39;">
+<input type="hidden" value="None" id="userAccount">
+<input type="hidden" value="None" id="userToken">
+<input type="hidden" value="https://afs-prod.appspot.com" id="baseAFS">
+<input type="hidden" value="https://storage.googleapis.com/afs-prod/" id="baseGCS">
+<input type="hidden" value="31.230416,121.473701" id="latLong">
+<input type="hidden" value="31" id="region">
+<input type="hidden" value="shanghai" id="city">
+<input type="hidden" value="CN" id="country">
+
+<script type='text/javascript'>
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.sections = 'Intlnews, Politics, Northamerica, Europe';
+    _sf_async_config.authors = '';
+    _sf_async_config.alias = window.location.href;
+
+    /** CONFIGURATION END **/
+    (function() {
+      function loadChartbeat() {
+          window._sf_endpt = (new Date()).getTime();
+          var e = document.createElement('script');
+          e.setAttribute('language', 'javascript');
+          e.setAttribute('type', 'text/javascript');
+          e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+          document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+          loadChartbeat : function() {
+              oldonload();
+              loadChartbeat();
+          };
+
+      })();
+  </script>
+</body>
+</html>

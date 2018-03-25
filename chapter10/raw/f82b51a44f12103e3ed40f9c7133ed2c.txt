@@ -1,0 +1,2887 @@
+<!doctype html >
+<!--[if IE 8]>    <html class="ie8" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head>
+<style>
+/* Hide menu on load to prevent FOUC */
+.td-header-menu-wrap-full {
+    visibility: hidden;
+}
+#big-grid-reveal {
+  visibility: hidden;
+  opacity: 1;
+  transition: visibility 0s linear 0s, opacity 300ms;
+}
+</style>
+    <title>Court Orders Telegram to Hand Russia Its Encryption Keys - Bitcoin News</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="pingback" href="https://news.bitcoin.com/xmlrpc.php" />
+    
+    <meta property="og:image" content="https://news.bitcoin.com/wp-content/uploads/2018/03/telegram-court-.jpg" /><link rel="icon" type="image/png" href="https://news.bitcoin.com/wp-content/uploads/2017/07/btc_fav.png">
+<!-- This site is optimized with the Yoast SEO Premium plugin v5.9.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://news.bitcoin.com/court-orders-telegram-hand-russia-encryption-keys/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Court Orders Telegram to Hand Russia Its Encryption Keys - Bitcoin News" />
+<meta property="og:description" content="Telegram has lost a court battle against handing its encryption keys to Russian security services. The messaging platform, which forms a pivotal network for the cryptocurrency community, has said it will appeal to the Supreme Court in a bid to prevent Russia obtaining the private data of millions of users. Also read: Some of Bitcoin’s Earliest &hellip;" />
+<meta property="og:url" content="https://news.bitcoin.com/court-orders-telegram-hand-russia-encryption-keys/" />
+<meta property="og:site_name" content="Bitcoin News" />
+<meta property="article:publisher" content="https://www.facebook.com/buy.bitcoin.news/" />
+<meta property="article:tag" content="Appeal" />
+<meta property="article:tag" content="Backdoor" />
+<meta property="article:tag" content="Court" />
+<meta property="article:tag" content="encryption" />
+<meta property="article:tag" content="fsb" />
+<meta property="article:tag" content="N-Featured" />
+<meta property="article:tag" content="Pavel Durov" />
+<meta property="article:tag" content="putin security service" />
+<meta property="article:tag" content="Russia" />
+<meta property="article:tag" content="Supreme Court" />
+<meta property="article:tag" content="Telegram" />
+<meta property="article:section" content="Privacy" />
+<meta property="article:published_time" content="2018-03-20T15:09:46-04:00" />
+<meta property="article:modified_time" content="2018-03-20T15:21:56-04:00" />
+<meta property="og:updated_time" content="2018-03-20T15:21:56-04:00" />
+<meta property="og:image" content="https://news.bitcoin.com/wp-content/uploads/2018/03/telegram-court-.jpg" />
+<meta property="og:image:secure_url" content="https://news.bitcoin.com/wp-content/uploads/2018/03/telegram-court-.jpg" />
+<meta property="og:image:width" content="1600" />
+<meta property="og:image:height" content="1600" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Telegram has lost a court battle against handing its encryption keys to Russian security services. The messaging platform, which forms a pivotal network for the cryptocurrency community, has said it will appeal to the Supreme Court in a bid to prevent Russia obtaining the private data of millions of users. Also read: Some of Bitcoin’s Earliest [&hellip;]" />
+<meta name="twitter:title" content="Court Orders Telegram to Hand Russia Its Encryption Keys - Bitcoin News" />
+<meta name="twitter:site" content="@BTCTN" />
+<meta name="twitter:image" content="https://news.bitcoin.com/wp-content/uploads/2018/03/telegram-court-.jpg" />
+<meta name="twitter:creator" content="@bitcoin101" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/news.bitcoin.com\/","name":"Bitcoin.com - Buy bitcoin, find wallets, daily news","potentialAction":{"@type":"SearchAction","target":"https:\/\/news.bitcoin.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/news.bitcoin.com\/court-orders-telegram-hand-russia-encryption-keys\/","sameAs":["https:\/\/www.facebook.com\/buy.bitcoin.news\/","https:\/\/www.instagram.com\/newsbitcoincom\/","https:\/\/www.linkedin.com\/company\/bitcoin.com\/","https:\/\/www.youtube.com\/channel\/UCetxkZolEBHX47BqtZktbkg","https:\/\/www.pinterest.com\/bitcoincom00\/","https:\/\/twitter.com\/BTCTN"],"@id":"#organization","name":"Saint Bitts LLC","logo":"http:\/\/Saint%20Bitts%20LLC"}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Bitcoin News &raquo; Feed" href="https://news.bitcoin.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Bitcoin News &raquo; Comments Feed" href="https://news.bitcoin.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Bitcoin News &raquo; Court Orders Telegram to Hand Russia Its Encryption Keys Comments Feed" href="https://news.bitcoin.com/court-orders-telegram-hand-russia-encryption-keys/feed/" />
+<link rel='stylesheet' id='easy_author_image-css'  href='https://news.bitcoin.com/wp-content/plugins/easy-author-image/css/easy-author-image.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-style-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400%2C400italic%2C600%2C600italic%2C700%7CRoboto%3A300%2C400%2C400italic%2C500%2C500italic%2C700%2C900&#038;ver=8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='https://news.bitcoin.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='td-theme-css'  href='https://news.bitcoin.com/wp-content/themes/Newspaper/style.css?ver=8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='td-theme-child-css'  href='https://news.bitcoin.com/wp-content/themes/BitcoinNews/style.css?ver=8.0c' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='https://news.bitcoin.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://news.bitcoin.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://news.bitcoin.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.4" />
+<link rel='shortlink' href='https://news.bitcoin.com/?p=131648' />
+<link rel="alternate" type="application/json+oembed" href="https://news.bitcoin.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnews.bitcoin.com%2Fcourt-orders-telegram-hand-russia-encryption-keys%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://news.bitcoin.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnews.bitcoin.com%2Fcourt-orders-telegram-hand-russia-encryption-keys%2F&#038;format=xml" />
+<script data-cfasync="false" src="//load.sumome.com/" data-sumo-platform="wordpress" data-sumo-site-id="bcb14c00c5c15200a12099009a4ed3006f7baf006a28ff001fb49d00e1c0f700" async></script><!--[if lt IE 9]><script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://news.bitcoin.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->      <meta name="onesignal" content="wordpress-plugin"/>
+          <link rel="manifest"
+            href="https://news.bitcoin.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/manifest.json.php?gcm_sender_id="/>
+          <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>    <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("https://news.bitcoin.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '94298d6a-6cd2-481e-bdfd-4e4a5576382d';
+oneSignal_options['autoRegister'] = true;
+oneSignal_options['httpPermissionRequest'] = { };
+oneSignal_options['httpPermissionRequest']['enable'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "Bitcoin News";
+oneSignal_options['welcomeNotification']['message'] = "Thanks for subscribing!";
+oneSignal_options['welcomeNotification']['url'] = "https://news.bitcoin.com?utm_source=OneSignal%20Welcome&amp;utm_medium=notification&amp;utm_campaign=Push%20Notifications";
+oneSignal_options['path'] = "https://news.bitcoin.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.2e1b0bc4-2845-4ea5-bb2f-59e722cf7b3c";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['promptOptions']['siteName'] = 'https://news.bitcoin.com';
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-left';
+oneSignal_options['notifyButton']['theme'] = 'inverse';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['prenotify'] = true;
+oneSignal_options['notifyButton']['displayPredicate'] = function() {
+              return OneSignal.isPushNotificationsEnabled()
+                      .then(function(isPushEnabled) {
+                          return !isPushEnabled;
+                      });
+            };
+oneSignal_options['notifyButton']['showCredit'] = false;
+oneSignal_options['notifyButton']['text'] = {};
+oneSignal_options['notifyButton']['colors'] = {};
+oneSignal_options['notifyButton']['colors']['circle.background'] = '#fab915';
+oneSignal_options['notifyButton']['colors']['circle.foreground'] = '#ffffff';
+oneSignal_options['notifyButton']['colors']['badge.background'] = '#333333';
+oneSignal_options['notifyButton']['colors']['badge.foreground'] = '#ffffff';
+oneSignal_options['notifyButton']['colors']['badge.bordercolor'] = '#ffffff';
+oneSignal_options['notifyButton']['colors']['pulse.color'] = '#fab915';
+oneSignal_options['notifyButton']['colors']['dialog.button.background'] = '#fab915';
+oneSignal_options['notifyButton']['colors']['dialog.button.background.hovering'] = '#fbc846';
+oneSignal_options['notifyButton']['colors']['dialog.button.background.active'] = '#c89004';
+oneSignal_options['notifyButton']['colors']['dialog.button.foreground'] = '#ffffff';
+              OneSignal.init(window._oneSignalInitOptions);
+                    });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+
+
+<!-- JS generated by theme -->
+
+<script>
+    
+    
+
+	    var tdBlocksArray = []; //here we store all the items for the current page
+
+	    //td_block class - each ajax block uses a object of this class for requests
+	    function tdBlock() {
+		    this.id = '';
+		    this.block_type = 1; //block type id (1-234 etc)
+		    this.atts = '';
+		    this.td_column_number = '';
+		    this.td_current_page = 1; //
+		    this.post_count = 0; //from wp
+		    this.found_posts = 0; //from wp
+		    this.max_num_pages = 0; //from wp
+		    this.td_filter_value = ''; //current live filter value
+		    this.is_ajax_running = false;
+		    this.td_user_action = ''; // load more or infinite loader (used by the animation)
+		    this.header_color = '';
+		    this.ajax_pagination_infinite_stop = ''; //show load more at page x
+	    }
+
+
+        // td_js_generator - mini detector
+        (function(){
+            var htmlTag = document.getElementsByTagName("html")[0];
+
+            if ( navigator.userAgent.indexOf("MSIE 10.0") > -1 ) {
+                htmlTag.className += ' ie10';
+            }
+
+            if ( !!navigator.userAgent.match(/Trident.*rv\:11\./) ) {
+                htmlTag.className += ' ie11';
+            }
+
+            if ( /(iPad|iPhone|iPod)/g.test(navigator.userAgent) ) {
+                htmlTag.className += ' td-md-is-ios';
+            }
+
+            var user_agent = navigator.userAgent.toLowerCase();
+            if ( user_agent.indexOf("android") > -1 ) {
+                htmlTag.className += ' td-md-is-android';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Mac OS X')  ) {
+                htmlTag.className += ' td-md-is-os-x';
+            }
+
+            if ( /chrom(e|ium)/.test(navigator.userAgent.toLowerCase()) ) {
+               htmlTag.className += ' td-md-is-chrome';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Firefox') ) {
+                htmlTag.className += ' td-md-is-firefox';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Safari') && -1 === navigator.userAgent.indexOf('Chrome') ) {
+                htmlTag.className += ' td-md-is-safari';
+            }
+
+            if( -1 !== navigator.userAgent.indexOf('IEMobile') ){
+                htmlTag.className += ' td-md-is-iemobile';
+            }
+
+        })();
+
+
+
+
+        var tdLocalCache = {};
+
+        ( function () {
+            "use strict";
+
+            tdLocalCache = {
+                data: {},
+                remove: function (resource_id) {
+                    delete tdLocalCache.data[resource_id];
+                },
+                exist: function (resource_id) {
+                    return tdLocalCache.data.hasOwnProperty(resource_id) && tdLocalCache.data[resource_id] !== null;
+                },
+                get: function (resource_id) {
+                    return tdLocalCache.data[resource_id];
+                },
+                set: function (resource_id, cachedData) {
+                    tdLocalCache.remove(resource_id);
+                    tdLocalCache.data[resource_id] = cachedData;
+                }
+            };
+        })();
+
+    
+    
+var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":228},{"limitBottom":1018,"sidebarWidth":300},{"limitBottom":1140,"sidebarWidth":324}];
+var tds_general_modal_image="yes";
+var td_ajax_url="https:\/\/news.bitcoin.com\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=8.0";
+var td_get_template_directory_uri="https:\/\/news.bitcoin.com\/wp-content\/themes\/Newspaper";
+var tds_snap_menu="smart_snap_always";
+var tds_logo_on_sticky="show";
+var tds_header_style="";
+var td_please_wait="Please wait...";
+var td_email_user_pass_incorrect="User or password incorrect!";
+var td_email_user_incorrect="Email or username incorrect!";
+var td_email_incorrect="Email incorrect!";
+var tds_more_articles_on_post_enable="";
+var tds_more_articles_on_post_time_to_wait="";
+var tds_more_articles_on_post_pages_distance_from_top=0;
+var tds_theme_color_site_wide="#fab915";
+var tds_smart_sidebar="enabled";
+var tdThemeName="Newspaper";
+var td_magnific_popup_translation_tPrev="Previous (Left arrow key)";
+var td_magnific_popup_translation_tNext="Next (Right arrow key)";
+var td_magnific_popup_translation_tCounter="%curr% of %total%";
+var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";
+var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5N6TL56');</script>
+<!-- End Google Tag Manager --><script type="application/ld+json">
+                        {
+                            "@context": "http://schema.org",
+                            "@type": "BreadcrumbList",
+                            "itemListElement": [{
+                            "@type": "ListItem",
+                            "position": 1,
+                                "item": {
+                                "@type": "WebSite",
+                                "@id": "https://news.bitcoin.com/",
+                                "name": "Home"                                               
+                            }
+                        },{
+                            "@type": "ListItem",
+                            "position": 2,
+                                "item": {
+                                "@type": "WebPage",
+                                "@id": "https://news.bitcoin.com/category/economy-regulation/",
+                                "name": "Economy &amp; Regulation"
+                            }
+                        },{
+                            "@type": "ListItem",
+                            "position": 3,
+                                "item": {
+                                "@type": "WebPage",
+                                "@id": "https://news.bitcoin.com/category/economy-regulation/privacy/",
+                                "name": "Privacy"                                
+                            }
+                        },{
+                            "@type": "ListItem",
+                            "position": 4,
+                                "item": {
+                                "@type": "WebPage",
+                                "@id": "https://news.bitcoin.com/court-orders-telegram-hand-russia-encryption-keys/",
+                                "name": "Court Orders Telegram to Hand Russia Its Encryption Keys"                                
+                            }
+                        }    ]
+                        }
+                       </script><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	<!-- Load Bootstrap Grid-->
+    <link rel="stylesheet" href="/wp-content/plugins/bootstrap-3.3.7-plugin/css/bootstrap.min.css">
+	<!-- BuySellAds PRO Code -->
+    <script type="text/javascript">(function(){var bsa = document.createElement('script');bsa.type = 'text/javascript';bsa.async = true;bsa.src = '//cdn.buysellads.com/ac/pro.js';document.getElementsByTagName('head')[0].appendChild(bsa);})();</script>
+    <!-- End BuySellAds PRO Ad Code -->
+</head>
+
+<body class="post-template-default single single-post postid-131648 single-format-standard court-orders-telegram-hand-russia-encryption-keys global-block-template-1 td-magazine single_template_2 wpb-js-composer js-comp-ver-5.1.1 vc_responsive td-full-layout" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5N6TL56"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+        <div class="td-scroll-up"><i class="td-icon-menu-up"></i></div>
+    
+    <div class="td-menu-background"></div>
+<div id="td-mobile-nav">
+    <div class="td-mobile-container">
+        <!-- mobile menu top section -->
+        <div class="td-menu-socials-wrap">
+            <!-- socials -->
+            <div class="td-menu-socials">
+                
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="http://facebook.com/buy.bitcoin.news" title="Facebook">
+                <i class="td-icon-font td-icon-facebook"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://www.instagram.com/newsbitcoincom/" title="Instagram">
+                <i class="td-icon-font td-icon-instagram"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://news.bitcoin.com/feed" title="RSS">
+                <i class="td-icon-font td-icon-rss"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="http://twitter.com/BTCTN" title="Twitter">
+                <i class="td-icon-font td-icon-twitter"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://telegram.me/www_Bitcoin_com" title="Telegram">
+                <i class="td-icon-font td-icon-telegram"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://www.youtube.com/channel/UCetxkZolEBHX47BqtZktbkg" title="Youtube">
+                <i class="td-icon-font td-icon-youtube"></i>
+            </a>
+        </span>            </div>
+            <!-- close button -->
+            <div class="td-mobile-close">
+                <a href="#"><i class="td-icon-close-mobile"></i></a>
+            </div>
+        </div>
+
+        <!-- login section -->
+        
+        <!-- menu section -->
+        <div class="td-mobile-content">
+            <div class="menu-main-menu-container"><ul id="menu-main-menu" class="td-mobile-main-menu"><li id="menu-item-52574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-first menu-item-52574"><a href="https://news.bitcoin.com/">News</a></li>
+<li id="menu-item-52573" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52573"><a href="https://news.bitcoin.com/op-ed/">Op-Ed</a></li>
+<li id="menu-item-52572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52572"><a href="https://news.bitcoin.com/submit-press-release/">Submit a Press Release</a></li>
+<li id="menu-item-52571" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52571"><a href="https://news.bitcoin.com/press-releases/">Press Releases</a></li>
+<li id="menu-item-52576" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52576"><a href="https://news.bitcoin.com/about-bitcoin-news/">About</a></li>
+<li id="menu-item-52575" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52575"><a href="https://news.bitcoin.com/advertise/">Advertise</a></li>
+<li id="menu-item-61350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61350"><a href="https://news.bitcoin.com/the-satoshi-revolution-by-wendy-mcelroy/">The Satoshi Revolution</a></li>
+</ul></div>        </div>
+    </div>
+
+    <!-- register/login section -->
+    </div>    <div class="td-search-background"></div>
+<div class="td-search-wrap-mob">
+	<div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+		<form method="get" class="td-search-form" action="https://news.bitcoin.com/">
+			<!-- close button -->
+			<div class="td-search-close">
+				<a href="#"><i class="td-icon-close-mobile"></i></a>
+			</div>
+			<div role="search" class="td-search-input">
+				<span>Search</span>
+				<input id="td-header-search-mob" type="text" value="" name="s" autocomplete="off" />
+			</div>
+		</form>
+		<div id="td-aj-search-mob"></div>
+	</div>
+</div>    
+    
+    <div id="td-outer-wrap" class="td-theme-wrap">
+    
+        <!--
+Header style 1
+-->
+
+<div class="btc-submenu td-header-wrap td-header-style-1">
+    
+    <div class="td-banner-wrap-full td-logo-wrap-full td-container-wrap ">
+    
+    <div class="towers-bch">
+      <svg viewBox="0 0 700 500" class="chart-bch" id="chart-line-bch">   
+        <polyline id="chart-poly-bch"           
+          points="        
+            42,180        
+            125,180        
+            215,180        
+            310,180        
+            400,180       
+            477,180        
+            580,180"
+        >
+        <animate id="line-points-bch" fill="freeze" begin="indefinite" attributeName="points" dur="1s" to="42,300 125,300 215,300 310,300 400,300 477,300 580,300" />
+        </polyline>
+        
+      </svg>    
+        
+        <div class="tower-holder">          
+          <img id="bcc0" src="/wp-content/uploads/2018/01/b5gold.png">          
+          <p class="caysh-meta" id="caysh-meta-1"></p>
+          <p class="day-meta" id="caysh-day-meta-1"></p>
+        </div>
+        
+        <div class="tower-holder">          
+          <img id="bcc1" src="/wp-content/uploads/2018/01/b6gold.png">          
+          <p class="caysh-meta" id="caysh-meta-2"></p>
+          <p class="day-meta" id="caysh-day-meta-2"></p> 
+        </div>
+        
+        <div class="tower-holder">         
+          <img id="bcc2" src="/wp-content/uploads/2018/01/b2gold.png">         
+          <p class="caysh-meta" id="caysh-meta-3"></p>
+          <p class="day-meta" id="caysh-day-meta-3"></p> 
+        </div>
+        
+        <div class="tower-holder">                         
+          <img id="bcc3" src="/wp-content/uploads/2018/01/b3gold.png">          
+          <p class="caysh-meta" id="caysh-meta-4"></p>
+          <p class="day-meta" id="caysh-day-meta-4"></p>   
+        </div>
+        
+        <div class="tower-holder">            
+          <img id="bcc4" src="/wp-content/uploads/2018/01/b1gold.png">         
+          <p class="caysh-meta" id="caysh-meta-5"></p>
+          <p class="day-meta" id="caysh-day-meta-5"></p>   
+        </div>
+        
+        <div class="tower-holder">              
+          <img id="bcc5" src="/wp-content/uploads/2018/01/b4gold.png">          
+          <p class="caysh-meta" id="caysh-meta-6"></p>
+          <p class="day-meta" id="caysh-day-meta-6"></p>  
+        </div>
+        
+        <div class="tower-holder">              
+          <img id="bcc6" src="/wp-content/uploads/2018/01/b6gold.png">         
+          <p class="caysh-meta" id="caysh-meta-now"></p>
+          <p class="day-meta" id="caysh-day-meta-now"></p>           
+        </div>
+        
+        <div class="tower-holder">  
+          <img style="visibility: hiddden;" id="b7" src="/wp-content/uploads/2018/01/b1gold.png">            
+          <p class="caysh-meta" id="caysh-meta-label">$BCH</p>                    
+        </div>
+    </div>
+    
+    
+        <div class="td-container td-header-row td-header-header" >
+        
+          
+            <div class="td-header-sp-logo">
+                        <a class="td-main-logo" href="https://news.bitcoin.com/">
+            <img class="td-retina-data" data-retina="https://news.bitcoin.com/wp-content/uploads/2017/07/NEWS_desktop_retina.png" src="https://news.bitcoin.com/wp-content/uploads/2017/07/NEWS_desktop.png" alt=""/>
+            <span class="td-visual-hidden">Bitcoin News</span>
+        </a>
+                       
+            </div>
+            <div id="page-top-subtitle"></div>
+             
+            
+            
+        
+        </div>
+    
+    
+    <div class="towers">
+      <svg viewBox="0 0 700 500" class="chart" id="chart-line">   
+        <polyline id="chart-poly"           
+          points="        
+            42,180        
+            125,180        
+            215,180        
+            310,180        
+            400,180       
+            477,180        
+            580,180"
+        >
+        <animate id="line-points" fill="freeze" begin="indefinite" attributeName="points" dur="1s" to="42,180 125,180 215,180 310,180 400,180 477,180 580,180" />
+        </polyline>
+        
+      </svg>    
+        
+        <div class="tower-holder">
+          <img id="b0" src="/wp-content/uploads/2018/01/b1lightgrey.png">          
+          <p class="price-meta" id="price-meta-1"></p>          
+          <p class="day-meta" id="day-meta-1"></p>
+        </div>
+        
+        <div class="tower-holder">
+          <img id="b1" src="/wp-content/uploads/2018/01/b2lightgrey.png">          
+          <p class="price-meta" id="price-meta-2"></p>          
+          <p class="day-meta" id="day-meta-2"></p> 
+        </div>
+        
+        <div class="tower-holder">
+          <img id="b2" src="/wp-content/uploads/2018/01/b3lightgrey.png">          
+          <p class="price-meta" id="price-meta-3"></p>          
+          <p class="day-meta" id="day-meta-3"></p> 
+        </div>
+        
+        <div class="tower-holder">               
+          <img id="b3" src="/wp-content/uploads/2018/01/b4lightgrey.png">          
+          <p class="price-meta" id="price-meta-4"></p>         
+          <p class="day-meta" id="day-meta-4"></p>   
+        </div>
+        
+        <div class="tower-holder">    
+          <img id="b4" src="/wp-content/uploads/2018/01/b3lightgrey.png">          
+          <p class="price-meta" id="price-meta-5"></p>          
+          <p class="day-meta" id="day-meta-5"></p>   
+        </div>
+        
+        <div class="tower-holder">     
+          <img id="b5" src="/wp-content/uploads/2018/01/b6lightgrey.png">          
+          <p class="price-meta" id="price-meta-6"></p>          
+          <p class="day-meta" id="day-meta-6"></p>  
+        </div>
+        
+        <div class="tower-holder">    
+          <img id="b6" src="/wp-content/uploads/2018/01/b1lightgrey.png">         
+          <p class="price-meta" id="price-meta-now"></p>          
+          <p class="day-meta" id="day-meta-now"></p>           
+        </div>
+        
+        <div class="tower-holder">  
+          <img style="visibility: hiddden;" id="b7" src="/wp-content/uploads/2018/01/b1lightgrey.png">  
+          <p class="price-meta" id="price-meta-label">$BTC</p>                           
+        </div>
+    </div>
+    
+    </div>
+
+    <div class="td-header-menu-wrap-full td-container-wrap ">
+        
+        <div class="td-header-menu-wrap td-header-gradient">
+           
+            <div class="td-container td-header-row td-header-main-menu">
+                
+
+<div id="td-header-menu" role="navigation">
+    <div id="td-top-mobile-toggle"><a href="#"><i class="td-icon-font td-icon-mobile"></i></a></div>
+    <div class="td-main-menu-logo td-logo-in-header">
+        		<a class="td-mobile-logo td-sticky-mobile" href="https://news.bitcoin.com/">
+			<img class="td-retina-data" data-retina="https://news.bitcoin.com/wp-content/uploads/2017/07/NEWS_retina_mobile.png" src="https://news.bitcoin.com/wp-content/uploads/2017/07/NEWS_mobile.png" alt=""/>
+		</a>
+			<a class="td-header-logo td-sticky-mobile" href="https://news.bitcoin.com/">
+			<img class="td-retina-data" data-retina="https://news.bitcoin.com/wp-content/uploads/2017/07/NEWS_desktop_retina.png" src="https://news.bitcoin.com/wp-content/uploads/2017/07/NEWS_desktop.png" alt=""/>
+		</a>
+	    </div>
+    <div class="menu-main-menu-container"><ul id="menu-main-menu-1" class="sf-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-first td-menu-item td-normal-menu menu-item-52574"><a href="https://news.bitcoin.com/">News</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-52573"><a href="https://news.bitcoin.com/op-ed/">Op-Ed</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-52572"><a href="https://news.bitcoin.com/submit-press-release/">Submit a Press Release</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-52571"><a href="https://news.bitcoin.com/press-releases/">Press Releases</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-52576"><a href="https://news.bitcoin.com/about-bitcoin-news/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-52575"><a href="https://news.bitcoin.com/advertise/">Advertise</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-61350"><a href="https://news.bitcoin.com/the-satoshi-revolution-by-wendy-mcelroy/">The Satoshi Revolution</a></li>
+</ul></div>
+    
+</div>
+
+<!-- Social -->
+
+
+
+
+
+<div class="td-search-wrapper">
+    <div id="td-top-search">
+
+        <!-- Search -->
+        
+        <div class="header-search-wrap">
+            <div class="dropdown header-search">
+                <div id="wtf">
+                <a id="td-header-search-button" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>          
+         
+    
+    
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="http://facebook.com/buy.bitcoin.news" title="Facebook">
+                <i class="td-icon-font td-icon-facebook"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://www.instagram.com/newsbitcoincom/" title="Instagram">
+                <i class="td-icon-font td-icon-instagram"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://news.bitcoin.com/feed" title="RSS">
+                <i class="td-icon-font td-icon-rss"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="http://twitter.com/BTCTN" title="Twitter">
+                <i class="td-icon-font td-icon-twitter"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://telegram.me/www_Bitcoin_com" title="Telegram">
+                <i class="td-icon-font td-icon-telegram"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://www.youtube.com/channel/UCetxkZolEBHX47BqtZktbkg" title="Youtube">
+                <i class="td-icon-font td-icon-youtube"></i>
+            </a>
+        </span>    
+      </div>
+                <a id="td-header-search-button-mob" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="header-search-wrap">
+	<div class="dropdown header-search">
+		<div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+			<form method="get" class="td-search-form" action="https://news.bitcoin.com/">
+				<div role="search" class="td-head-form-search-wrap">
+					<input id="td-header-search" type="text" value="" name="s" autocomplete="off" /><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Search" />
+				</div>
+			</form>
+			<div id="td-aj-search"></div>
+		</div>
+	</div>
+</div>
+
+            </div>
+        </div>
+    </div>
+
+</div>
+<div class="td-main-content-wrap td-container-wrap">
+    <div class="td-container td-post-template-2">
+       <style type="text/css">.alm-btn-wrap .alm-load-more-btn{font-size:15px;font-weight:600;width:auto;height:42px;line-height:42px;background:#ed7070;color:#fff;border:none;border-radius:3px;margin:0 0 4px;padding:0 20px;display:inline-block;position:relative;-webkit-transition:padding .25s ease-in-out,width .25s ease-in-out;transition:padding .25s ease-in-out,width .25s ease-in-out;text-align:center;text-decoration:none;-webkit-appearance:none;-moz-appearance:none;appearance:none;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;cursor:pointer}.alm-btn-wrap .alm-load-more-btn:hover{background-color:#e06464;color:#fff;text-decoration:none}.alm-btn-wrap .alm-load-more-btn:active{-webkit-box-shadow:inset 0 2px 1px rgba(0,0,0,.1);box-shadow:inset 0 2px 1px rgba(0,0,0,.1);text-decoration:none}.alm-btn-wrap .alm-load-more-btn:active,.alm-btn-wrap .alm-load-more-btn:focus{outline:0}.alm-btn-wrap .alm-load-more-btn.loading{padding-left:44px}.alm-btn-wrap .alm-load-more-btn.done{cursor:default;opacity:.2;background-color:#ed7070;outline:0!important;-webkit-box-shadow:none!important;box-shadow:none!important}.alm-btn-wrap .alm-load-more-btn.done:before,.alm-btn-wrap .alm-load-more-btn:before{background:0 0;width:0}.alm-btn-wrap .alm-load-more-btn.loading:before{background:#fff url(https://news.bitcoin.com/wp-content/plugins/ajax-load-more/core/img/ajax-loader.gif) no-repeat center center;width:30px;height:30px;margin:6px;border-radius:2px;display:inline-block;z-index:0;content:'';position:absolute;left:0;top:0;overflow:hidden;-webkit-transition:width .5s ease-in-out;transition:width .5s ease-in-out}.alm-btn-wrap,.alm-masonry{display:block;overflow:hidden;clear:both}.alm-btn-wrap{text-align:center;padding:10px 0 25px}.ajax-load-more-wrap.blue .alm-load-more-btn{background-color:#0081bf}.ajax-load-more-wrap.blue .alm-load-more-btn.done,.ajax-load-more-wrap.blue .alm-load-more-btn:hover{background-color:#0073aa}.ajax-load-more-wrap.green .alm-load-more-btn{background-color:#6fca68}.ajax-load-more-wrap.green .alm-load-more-btn.done,.ajax-load-more-wrap.green .alm-load-more-btn:hover{background-color:#64b95e}.ajax-load-more-wrap.red .alm-load-more-btn{background-color:#ca4b4b}.ajax-load-more-wrap.red .alm-load-more-btn.done,.ajax-load-more-wrap.red .alm-load-more-btn:hover{background-color:#b13b3b}.ajax-load-more-wrap.purple .alm-load-more-btn{background-color:#a86bb9}.ajax-load-more-wrap.purple .alm-load-more-btn.done,.ajax-load-more-wrap.purple .alm-load-more-btn:hover{background-color:#9963a8}.ajax-load-more-wrap.grey .alm-load-more-btn{background-color:#888}.ajax-load-more-wrap.grey .alm-load-more-btn.done,.ajax-load-more-wrap.grey .alm-load-more-btn:hover{background-color:#777}.ajax-load-more-wrap.white .alm-load-more-btn{background-color:#fff;color:#666;border:1px solid #efefef}.ajax-load-more-wrap.white .alm-load-more-btn.done,.ajax-load-more-wrap.white .alm-load-more-btn:hover{background-color:#efefef;color:#333}.ajax-load-more-wrap.white .alm-load-more-btn.done{border-color:#fff}.ajax-load-more-wrap.infinite .alm-load-more-btn{width:100%;background-color:transparent!important;background-position:center center;background-repeat:no-repeat;background-image:url(https://news.bitcoin.com/wp-content/plugins/ajax-load-more/core/img/spinner.gif);border:none!important;opacity:0;-webkit-transition:opacity .25s ease;transition:opacity .25s ease;-webkit-box-shadow:none!important;box-shadow:none!important;overflow:hidden;text-indent:-9999px;cursor:default!important;outline:0!important}.ajax-load-more-wrap.infinite .alm-load-more-btn:before{display:none!important}.ajax-load-more-wrap.infinite .alm-load-more-btn:active{-webkit-box-shadow:none;box-shadow:none}.ajax-load-more-wrap.infinite .alm-load-more-btn.done{opacity:0}.ajax-load-more-wrap.infinite .alm-load-more-btn.loading{opacity:1}.ajax-load-more-wrap.infinite.skype .alm-load-more-btn{background-image:url(https://news.bitcoin.com/wp-content/plugins/ajax-load-more/core/img/spinner-skype.gif)}.ajax-load-more-wrap.infinite.ring .alm-load-more-btn{background-image:url(https://news.bitcoin.com/wp-content/plugins/ajax-load-more/core/img/spinner-ring.gif)}.ajax-load-more-wrap.infinite.fading-blocks .alm-load-more-btn{background-image:url(https://news.bitcoin.com/wp-content/plugins/ajax-load-more/core/img/loader-fading-blocks.gif)}.ajax-load-more-wrap.infinite.fading-circles .alm-load-more-btn{background-image:url(https://news.bitcoin.com/wp-content/plugins/ajax-load-more/core/img/loader-fading-circles.gif)}.ajax-load-more-wrap.infinite.chasing-arrows .alm-load-more-btn{background-image:url(https://news.bitcoin.com/wp-content/plugins/ajax-load-more/core/img/spinner-chasing-arrows.gif)}.alm-listing{margin:0;padding:0}.alm-listing li{background:0 0;margin:0 0 30px;padding:0 0 0 170px;overflow:hidden;position:relative;list-style:none}.alm-listing li.no-img{padding:0}.alm-listing li p{margin:0}.alm-listing li h3{margin:0 0 10px}.alm-listing li img{position:absolute;left:0;top:0;border-radius:2px}</style><div id="ajax-load-more" class="ajax-load-more-wrap infinite fading-circles"  data-alm-id="" data-canonical-url="https://news.bitcoin.com/court-orders-telegram-hand-russia-encryption-keys/" data-slug="court-orders-telegram-hand-russia-encryption-keys" data-post-id="131648" ><div class="alm-listing alm-ajax" data-previous-post="true" data-previous-post-id="131648" data-previous-post-excluded-terms="341" data-previous-post-title-template="" data-previous-post-site-title="Bitcoin News" data-previous-post-site-tagline="Daily Bitcoin News" data-previous-post-scroll="false" data-previous-post-scroll-speed="500" data-previous-post-scrolltop="30" data-previous-post-controls="1" data-previous-post-pageview="true" data-repeater="default" data-post-type="post" data-sticky-posts="" data-post-format="" data-category="" data-category-not-in="" data-tag="" data-tag-not-in="" data-taxonomy="" data-taxonomy-terms="" data-taxonomy-operator="" data-taxonomy-relation="" data-meta-key="" data-meta-value="" data-meta-compare="" data-meta-relation="" data-meta-type="" data-year="" data-month="" data-day="" data-author="" data-post-in="" data-post-not-in="" data-exclude="" data-search="" data-custom-args="" data-post-status="" data-order="DESC" data-orderby="date" data-offset="0" data-posts-per-page="1" data-lang="" data-scroll="true" data-scroll-distance="100" data-scroll-container="" data-max-pages="0" data-pause-override="false" data-pause="false" data-button-label="Older Posts" data-destroy-after="" data-transition="slide" data-images-loaded="false"><div class="alm-reveal alm-previous-post post-131648" data-url="https://news.bitcoin.com/court-orders-telegram-hand-russia-encryption-keys/" data-title="Court Orders Telegram to Hand Russia Its Encryption Keys" data-id="131648" data-page="0"><script>
+if (window.tdAnimationStack) {
+window.tdAnimationStack.reinit();
+}
+</script>
+<article id="post-131648" class="post-131648 post type-post status-publish format-standard has-post-thumbnail hentry category-privacy tag-appeal tag-backdoor tag-court tag-encryption tag-fsb tag-n-featured tag-pavel-durov tag-putin-security-service tag-russia tag-supreme-court tag-telegram" itemscope itemtype="https://schema.org/Article">
+            <div class="td-pb-row">
+                <div class="td-pb-span12">
+                    <div class="td-post-header">
+                        
+
+                                                
+                        <header class="td-post-title">
+                         
+                        </header>
+                        
+                    </div>
+                </div>
+            </div> <!-- /.td-pb-row -->
+
+            <div class="td-pb-row">
+                                            <div class="td-pb-span8 td-main-content" role="main">
+                                <div class="td-ss-main-content">
+                                        
+     
+
+        
+
+        <div class="td-post-content"> 
+            
+            <div class="home td_module_mx19 td_module_wrap td-animation-stack td-meta-info-hide td-big-grid-post-2 td-big-grid-post">
+              <div class="td-module-image">                
+                <div class="td-post-featured-image"><a href="https://news.bitcoin.com/wp-content/uploads/2018/03/telegram-court-.jpg" data-caption=""><img width="1068" height="1068" class="entry-thumb td-modal-image" src="https://news.bitcoin.com/wp-content/uploads/2018/03/telegram-court--1068x1068.jpg" srcset="https://news.bitcoin.com/wp-content/uploads/2018/03/telegram-court--1068x1068.jpg 1068w, https://news.bitcoin.com/wp-content/uploads/2018/03/telegram-court-.jpg 2136w" sizes="(-webkit-min-device-pixel-ratio: 2) 2136px, (min-resolution: 192dpi) 2136px, 1068px" alt="Court Orders Telegram to Hand Russia Its Encryption Keys" title="Court Orders Telegram to Hand Russia Its Encryption Keys"/></a></div>              </div>
+              
+              <div class="td-post-category top-left-label btc-post-meta td-post-title">
+              
+                Privacy  
+              </div>
+              
+                <div class="td-meta-info-container td-btc-posts">                
+                  <div class="td-meta-align">  
+                    <div class="td-big-grid-meta">   
+                      <div class="btc-post-meta td-post-title td-post-author-name">
+                        6 hours ago   |
+                          <div class="td-post-author-name"><div class="td-author-by">By</div> <a href="https://news.bitcoin.com/author/kaisedgwick/">Kai Sedgwick</a><div class="td-author-line"> - </div> </div> |
+                          <div class="td-post-views"><i class="td-icon-views"></i><span class="td-nr-views-131648">6323</span></div> 
+                                                </div>                    
+                      <div class="td-module-title td-btc-posts-title">
+                        <h1 class="entry-title">Court Orders Telegram to Hand Russia Its Encryption Keys</h1>                      </div>                        
+                    </div>
+                  </div>                    
+                </div>    
+            </div>            
+
+            <div class="td-a-rec td-a-rec-id-content_top  "><!-- BuySellAds PRO Zone Code (News Post Top Leaderboard) -->
+<div id="bsap_2535" class="bsaPROrocks" data-serve="CKYD62Q7"></div>
+<!-- End BuySellAds PRO Zone Code -->
+</div><p><strong>Telegram has lost a court battle against handing its encryption keys to Russian security services. The messaging platform, which forms a pivotal network for the cryptocurrency community, has said it will appeal to the Supreme Court in a bid to prevent Russia obtaining the private data of millions of users.</strong></p>
+<p><em><span style="font-weight: 400;"><strong>Also read:</strong> <a href="https://news.bitcoin.com/some-of-bitcoins-earliest-adopters-find-it-difficult-to-cash-out/" target="_blank" rel="noopener">Some of Bitcoin’s Earliest Adopters Find it Difficult to ‘Cash Out’</a></span></em></p>
+<h2 style="text-align: center;"><span style="font-weight: 400;">Telegram Battles for User Privacy</span></h2>
+<p><span style="font-weight: 400;">Supreme Court Judge Alla Nazarova today rejected an appeal filed by Telegram, objecting to Russia’s Federal Security Services (FSB) obtaining the encryption keys to its platform. As a result, Telegram will be legally obligated to grant security forces access to the private messages and other data of its users, unless it can convince an appellate court to reverse the decision. Shortly after the ruling was made public, Telegram CEO Pavel Durov had this to say:</span></p>
+<p><img class="aligncenter size-large wp-image-131652" src="https://news.bitcoin.com/wp-content/uploads/2018/03/pavel-durov-1024x179.png" alt="Court Orders Telegram to Hand Russia Its Encryption Keys" width="696" height="122" srcset="https://news.bitcoin.com/wp-content/uploads/2018/03/pavel-durov-1024x179.png 1024w, https://news.bitcoin.com/wp-content/uploads/2018/03/pavel-durov-300x52.png 300w, https://news.bitcoin.com/wp-content/uploads/2018/03/pavel-durov-768x134.png 768w, https://news.bitcoin.com/wp-content/uploads/2018/03/pavel-durov-696x122.png 696w, https://news.bitcoin.com/wp-content/uploads/2018/03/pavel-durov-1068x187.png 1068w, https://news.bitcoin.com/wp-content/uploads/2018/03/pavel-durov.png 1166w" sizes="(max-width: 696px) 100vw, 696px" /></p>
+<p><span style="font-weight: 400;">The company finds itself in a difficult position. With the pre-sale for its own cryptocurrency underway, Telegram is seen as a flagbearer for a movement that prides itself on respecting user privacy, deploying encryption, and thwarting attempts at government interference. But as a Russian enterprise, Telegram is bound by the draconian laws that give the country’s security forces extensive surveillance powers.</span></p>
+<h2 style="text-align: center;"><span style="font-weight: 400;">Putin Wants a Backdoor Because Terrorists</span></h2>
+<p><span style="font-weight: 400;">In 2016, President Putin decreed that messaging services should provide a means of decryption for the benefit of its security services. Monitoring terrorists was the excuse cited. Russia is known for its human rights abuses and covert surveillance of journalists and dissidents, however, and it is hard to imagine that access to Telegram’s vast trove of user data would be used responsibly to identify terrorists only.</span></p>
+<p><span style="font-weight: 400;">Western governments, including the UK and U.S., have found themselves engaged in an encryption war with tech companies, who insist that it is impossible to implement backdoors without weakening protocols. Create an entry point for state security, they insist, and it will be exploited by hackers and state-sponsored attackers.</span></p>
+<p><img class="aligncenter size-full wp-image-131651" src="https://news.bitcoin.com/wp-content/uploads/2018/03/telegram-court.jpg" alt="Court Orders Telegram to Hand Russia Its Encryption Keys" width="800" height="533" srcset="https://news.bitcoin.com/wp-content/uploads/2018/03/telegram-court.jpg 800w, https://news.bitcoin.com/wp-content/uploads/2018/03/telegram-court-300x200.jpg 300w, https://news.bitcoin.com/wp-content/uploads/2018/03/telegram-court-768x512.jpg 768w, https://news.bitcoin.com/wp-content/uploads/2018/03/telegram-court-696x464.jpg 696w, https://news.bitcoin.com/wp-content/uploads/2018/03/telegram-court-630x420.jpg 630w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h2 style="text-align: center;"><span style="font-weight: 400;">Security Forces Plead Their Case</span></h2>
+<p><span style="font-weight: 400;">In court, the FSB argued that they would not be violating user privacy by obtaining encryption keys, because they would still require a court order to extract the data of specific users. Following the hearing, Telegram’s legal team dismissed this claim, </span><a href="https://www.bloomberg.com/news/articles/2018-03-20/telegram-loses-bid-to-stop-russia-from-getting-encryption-keys" target="_blank" rel="noopener"><span style="font-weight: 400;">stating</span></a><span style="font-weight: 400;">: “The FSB’s argument that encryption keys can’t be considered private information defended by the Constitution is cunning. It’s like saying, ‘I’ve got a password from your email, but I don’t control your email, I just have the possibility to control.’”</span></p>
+<p><span style="font-weight: 400;">Telegram is a Russian success story, led by the crypto-friendly Pavel Durov. He founded Telegram after a successful spell as CEO of VK, which grew to become Russia’s largest social network. Durov is also a major bitcoin holder, and Telegram’s own ICO to launch an integrated cryptocurrency and blockchain is already halfway towards its $1.7 billion goal. If Telegram can’t convince the Supreme Court to overturn today’s ruling, its only option may be to up tools and exit Russia altogether. </span></p>
+<p><em><strong>Do you think Telegram has a chance of overturning today&#8217;s ruling? Let us know in the comments section below.</strong></em></p>
+<hr />
+<p><em>Images courtesy of Shutterstock, and Twitter.</em></p>
+<hr />
+<p><i>Need to calculate your bitcoin holdings? Check our <a href="http://tools.bitcoin.com/" target="_blank" rel="noopener">tools</a> section.</i></p>
+<div class="td-a-rec td-a-rec-id-content_bottom  "><span data-sumome-listbuilder-embed-id="39808d3345565a0e369b5f1ac85e59540c7bef0773acfeb0bd373932fbb3b591"></span>
+<span data-sumome-listbuilder-embed-id="12eeca0877505f523e5e9c3919d47166b767b1c04ec54da0a2404ab121067b62"></span></div>        </div>
+
+
+        <footer>
+                        
+            <div class="td-post-source-tags">
+                                <ul class="td-tags td-post-small-box clearfix"><li><span>TAGS</span></li><li><a href="https://news.bitcoin.com/tag/appeal/">Appeal</a></li><li><a href="https://news.bitcoin.com/tag/backdoor/">Backdoor</a></li><li><a href="https://news.bitcoin.com/tag/court/">Court</a></li><li><a href="https://news.bitcoin.com/tag/encryption/">encryption</a></li><li><a href="https://news.bitcoin.com/tag/fsb/">fsb</a></li><li><a href="https://news.bitcoin.com/tag/n-featured/">N-Featured</a></li><li><a href="https://news.bitcoin.com/tag/pavel-durov/">Pavel Durov</a></li><li><a href="https://news.bitcoin.com/tag/putin-security-service/">putin security service</a></li><li><a href="https://news.bitcoin.com/tag/russia/">Russia</a></li><li><a href="https://news.bitcoin.com/tag/supreme-court/">Supreme Court</a></li><li><a href="https://news.bitcoin.com/tag/telegram/">Telegram</a></li></ul>            </div>
+
+            <div class="td-post-sharing td-post-sharing-bottom "><span class="td-post-share-title">SHARE</span>
+            <div class="td-default-sharing">
+	            <a class="td-social-sharing-buttons td-social-facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.bitcoin.com%2Fcourt-orders-telegram-hand-russia-encryption-keys%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-facebook"></i><div class="td-social-but-text">Facebook</div></a>
+	            <a class="td-social-sharing-buttons td-social-twitter" href="https://twitter.com/intent/tweet?text=Court+Orders+Telegram+to+Hand+Russia+Its+Encryption+Keys&url=https%3A%2F%2Fnews.bitcoin.com%2Fcourt-orders-telegram-hand-russia-encryption-keys%2F&via=BTCTN"><i class="td-icon-twitter"></i><div class="td-social-but-text">Twitter</div></a>
+	            <a class="td-social-sharing-buttons td-social-google" href="https://plus.google.com/share?url=https://news.bitcoin.com/court-orders-telegram-hand-russia-encryption-keys/" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-googleplus"></i></a>
+	            <a class="td-social-sharing-buttons td-social-pinterest" href="https://pinterest.com/pin/create/button/?url=https://news.bitcoin.com/court-orders-telegram-hand-russia-encryption-keys/&amp;media=https://news.bitcoin.com/wp-content/uploads/2018/03/telegram-court-.jpg&description=Court+Orders+Telegram+to+Hand+Russia+Its+Encryption+Keys" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-pinterest"></i></a>
+	            <a class="td-social-sharing-buttons td-social-whatsapp" href="whatsapp://send?text=Court+Orders+Telegram+to+Hand+Russia+Its+Encryption+Keys%20-%20https%3A%2F%2Fnews.bitcoin.com%2Fcourt-orders-telegram-hand-russia-encryption-keys%2F" ><i class="td-icon-whatsapp"></i></a>
+            </div></div>                        <div class="author-box-wrap"><a href="https://news.bitcoin.com/author/kaisedgwick/"><img class="avatar avatar-96 photo" width="64" height="64" src="https://news.bitcoin.com/wp-content/uploads/2017/11/crop-903x1024.jpeg"/></a><div class="desc"><div class="td-author-name vcard author"><span class="fn"><a href="https://news.bitcoin.com/author/kaisedgwick/">Kai Sedgwick</a></span></div><div class="td-author-description">Kai's been playing with words for a living since 2009 and bought his first bitcoin at $19. It's long gone. He's previously written white papers for blockchain startups and is especially interested in P2P exchanges and DNMs.</div><div class="td-author-social">
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://twitter.com/bitcoin101" title="Twitter">
+                <i class="td-icon-font td-icon-twitter"></i>
+            </a>
+        </span></div><div class="clearfix"></div></div></div>	        <span style="display: none;" itemprop="author" itemscope itemtype="https://schema.org/Person"><meta itemprop="name" content="Kai Sedgwick"></span><meta itemprop="datePublished" content="2018-03-20T15:09:46+00:00"><meta itemprop="dateModified" content="2018-03-20T15:21:56+00:00"><meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://news.bitcoin.com/court-orders-telegram-hand-russia-encryption-keys/"/><span style="display: none;" itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><span style="display: none;" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://news.bitcoin.com/wp-content/uploads/2017/07/NEWS_desktop.png"></span><meta itemprop="name" content="Bitcoin News"></span><meta itemprop="headline " content="Court Orders Telegram to Hand Russia Its Encryption Keys"><span style="display: none;" itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://news.bitcoin.com/wp-content/uploads/2018/03/telegram-court-.jpg"><meta itemprop="width" content="1600"><meta itemprop="height" content="1600"></span>        </footer>
+
+    
+                                <div class="alm-disqus" data-disqus-shortname="bitcoincom"></div>
+                                </div>
+                            </div>
+                            <div class="td-pb-span4 td-main-sidebar" role="complementary">
+                                <div class="td-ss-main-sidebar">
+                                    <aside class="widget_text td_block_template_1 widget widget_custom_html"><h4 class="block-title"><span>Sign up for the Bitcoin . com Newsletter</span></h4><div class="textwidget custom-html-widget"><style>
+.headline-side {
+  margin-top: 0px;
+}
+.btn.btn-lg.btn-side{ 
+  background-color:#fff;
+  margin-bottom:12px;
+  transition: background-color 0.25s linear;
+}
+.btn.btn-lg.btn-side:hover{
+  background-color:#fab915;
+}
+.side-subscribe {
+  background-color:#f6f6f6;
+  padding: 20px;
+  border-radius: 4px;
+  border: 2px solid #fab915;
+}
+</style>
+<div class="side-subscribe">
+<h2 class="headline-side">Bitcoin News delivered to you!</h2>
+<h4>When?</h4>
+<style>
+.btn-footer { margin-top:12px;}
+</style>
+<a data-sumome-listbuilder-id="d0c8d5cf-69a2-458f-b920-11cea21592ca" class="btn btn-lg btn-full btn-side">Daily</a>
+<a data-sumome-listbuilder-id="38a2fc48-7bc7-4bde-961e-341176da5e34" class="btn btn-lg btn-full btn-side">Weekly</a>
+</div>
+
+</div></aside><div class="td-a-rec td-a-rec-id-custom_ad_2  "><div class="ad1">
+<!-- BuySellAds PRO Zone Code (News Post Medium Rectangle) -->
+<div id="bsap_2534" class="bsaPROrocks" data-serve="CKYD62QY"></div>
+<!-- End BuySellAds PRO Zone Code -->
+<a href="https://orders.bitcoin.com/">Your Ad Here</a>
+</div></div><aside class="widget_text td_block_template_1 widget widget_custom_html"><h4 class="block-title"><span>in case you missed it</span></h4><div class="textwidget custom-html-widget"><blockquote class="twitter-video" data-lang="en"><p lang="und" dir="ltr"><a href="https://t.co/ipnUm1yGSI">https://t.co/ipnUm1yGSI</a> <a href="https://t.co/tRneDrP0Nj">pic.twitter.com/tRneDrP0Nj</a></p>&mdash; Bitcoin News (@BTCTN) <a href="https://twitter.com/BTCTN/status/976110234463850497?ref_src=twsrc%5Etfw">March 20, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></aside><aside class="td_block_template_1 widget widget_text">			<div class="textwidget"><aside class="td_block_template_1 widget widget_text">
+<div class="textwidget">
+<aside class="td_block_template_1 widget widget_text">
+<div class="textwidget">
+<aside class="td_block_template_1 widget widget_text">
+<div class="textwidget">
+<p class="p1">There’s a new Japanese Android and iOS game called <strong>Itadaki Dungeon</strong> that allows players to earn small micro-bits of BTC while venturing through 3,000 underground levels&#8230; <a href="https://news.bitcoin.com/find-real-btc-rewards-roaming-3000-levels-in-new-japanese-mobile-game/"><span class="s1">read more.</span></a></p>
+</div>
+</aside>
+</div>
+</aside>
+</div>
+</aside>
+</div>
+		</aside><aside class="widget_text td_block_template_1 widget widget_custom_html"><div class="textwidget custom-html-widget"><blockquote class="twitter-video" data-lang="en"><p lang="und" dir="ltr"><a href="https://t.co/QFH5n9TBtv">https://t.co/QFH5n9TBtv</a> <a href="https://twitter.com/hashtag/sec?src=hash&amp;ref_src=twsrc%5Etfw">#sec</a> <a href="https://t.co/f802KA1Omy">pic.twitter.com/f802KA1Omy</a></p>&mdash; Bitcoin News (@BTCTN) <a href="https://twitter.com/BTCTN/status/974979851571654656?ref_src=twsrc%5Etfw">March 17, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></aside><aside class="td_block_template_1 widget widget_text">			<div class="textwidget"><aside class="td_block_template_1 widget widget_text">
+<div class="textwidget">
+<aside class="td_block_template_1 widget widget_text">
+<div class="textwidget">
+<aside class="td_block_template_1 widget widget_text">
+<div class="textwidget">
+<p><strong>The SEC has reportedly summoned the managers of several cryptocurrency-focused hedge funds.</strong> This sector has been rapidly growing over the past year and the American regulators apparently want to make sure they have a handle on the situation and to ensure that funds are not going to fields they disapprove of such as ICOs&#8230; <a href="https://news.bitcoin.com/following-icos-sec-subpoenas-cryptocurrency-hedge-funds/">read more.</a></p>
+</div>
+</aside>
+</div>
+</aside>
+</div>
+</aside>
+</div>
+		</aside><div class="td_block_wrap td_block_3 td_block_widget td_uid_4_5ab1b0431c434_rand td-pb-border-top td_block_template_1 td-column-1 td_block_padding"  data-td-block-uid="td_uid_4_5ab1b0431c434" ><script>var block_td_uid_4_5ab1b0431c434 = new tdBlock();
+block_td_uid_4_5ab1b0431c434.id = "td_uid_4_5ab1b0431c434";
+block_td_uid_4_5ab1b0431c434.atts = '{"limit":"3","sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"341","category_ids":"","custom_title":"Press Releases","custom_url":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"","header_color":"#","header_text_color":"#","ajax_pagination_infinite_stop":"","td_column_number":1,"td_ajax_preloading":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","color_preset":"","border_top":"","class":"td_block_widget td_uid_4_5ab1b0431c434_rand","el_class":"","offset":"","css":"","tdc_css":"","tdc_css_class":"td_uid_4_5ab1b0431c434_rand","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":"","block_template_id":""}';
+block_td_uid_4_5ab1b0431c434.td_column_number = "1";
+block_td_uid_4_5ab1b0431c434.block_type = "td_block_3";
+block_td_uid_4_5ab1b0431c434.post_count = "3";
+block_td_uid_4_5ab1b0431c434.found_posts = "592";
+block_td_uid_4_5ab1b0431c434.header_color = "#";
+block_td_uid_4_5ab1b0431c434.ajax_pagination_infinite_stop = "";
+block_td_uid_4_5ab1b0431c434.max_num_pages = "198";
+tdBlocksArray.push(block_td_uid_4_5ab1b0431c434);
+</script><div class="td-block-title-wrap"><h4 class="block-title"><span class="td-pulldown-size">Press Releases</span></h4></div><div id=td_uid_4_5ab1b0431c434 class="td_block_inner">
+
+	<div class="td-block-span12">
+
+        <div class="td_module_1 td_module_wrap td-animation-stack">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://news.bitcoin.com/pr-wbf-blockchain-set-to-heat-up-dubai/" rel="bookmark" title="PR: WBF &#8211; &#8216;Blockchain Set to Heat up Dubai&#8217;"><img width="696" height="348" class="entry-thumb" src="https://news.bitcoin.com/wp-content/uploads/2018/03/WBF_Site_Hero-2-696x348.jpg" srcset="https://news.bitcoin.com/wp-content/uploads/2018/03/WBF_Site_Hero-2-696x348.jpg 696w, https://news.bitcoin.com/wp-content/uploads/2018/03/WBF_Site_Hero-2-1392x696.jpg 1392w" sizes="(-webkit-min-device-pixel-ratio: 2) 1392px, (min-resolution: 192dpi) 1392px, 696px" alt="WBF - &#039;Blockchain Set to Heat up Dubai&#039;" title="PR: WBF &#8211; &#8216;Blockchain Set to Heat up Dubai&#8217;"/></a></div>                            </div>
+            <h3 class="entry-title td-module-title"><a href="https://news.bitcoin.com/pr-wbf-blockchain-set-to-heat-up-dubai/" rel="bookmark" title="PR: WBF &#8211; &#8216;Blockchain Set to Heat up Dubai&#8217;">PR: WBF &#8211; &#8216;Blockchain Set to Heat up Dubai&#8217;</a></h3>
+            <div class="td-module-meta-info">
+                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-03-20T13:30:43+00:00" >Mar 20, 2018</time></span>                            </div>
+
+            
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_1 td_module_wrap td-animation-stack">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://news.bitcoin.com/pr-chronobase-will-run-a-token-pre-sale-to-protect-your-watch-with-a-blockchain-technology/" rel="bookmark" title="PR: ChronoBase Will Run a Token Pre-Sale to Protect Your Watch with a Blockchain Technology"><img width="696" height="348" class="entry-thumb" src="https://news.bitcoin.com/wp-content/uploads/2018/03/photo_2018-03-16_15-47-35-696x348.jpg" srcset="https://news.bitcoin.com/wp-content/uploads/2018/03/photo_2018-03-16_15-47-35-696x348.jpg 696w, https://news.bitcoin.com/wp-content/uploads/2018/03/photo_2018-03-16_15-47-35.jpg 1392w" sizes="(-webkit-min-device-pixel-ratio: 2) 1392px, (min-resolution: 192dpi) 1392px, 696px" alt="Chronobase Will Run a Token Pre-Sale to Protect Your Watch with a Blockchain Technology" title="PR: ChronoBase Will Run a Token Pre-Sale to Protect Your Watch with a Blockchain Technology"/></a></div>                            </div>
+            <h3 class="entry-title td-module-title"><a href="https://news.bitcoin.com/pr-chronobase-will-run-a-token-pre-sale-to-protect-your-watch-with-a-blockchain-technology/" rel="bookmark" title="PR: ChronoBase Will Run a Token Pre-Sale to Protect Your Watch with a Blockchain Technology">PR: ChronoBase Will Run a Token Pre-Sale to Protect Your Watch...</a></h3>
+            <div class="td-module-meta-info">
+                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-03-20T05:30:42+00:00" >Mar 20, 2018</time></span>                            </div>
+
+            
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_1 td_module_wrap td-animation-stack">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://news.bitcoin.com/pr-why-artificial-intelligence-is-making-day-trading-obsolete-research-revealed-by-openblock/" rel="bookmark" title="PR: Why Artificial Intelligence Is Making Day Trading Obsolete, Research Revealed by OpenBlock"><img width="696" height="392" class="entry-thumb" src="https://news.bitcoin.com/wp-content/uploads/2018/03/OpenBlock-image-696x392.jpg" srcset="https://news.bitcoin.com/wp-content/uploads/2018/03/OpenBlock-image-696x392.jpg 696w, https://news.bitcoin.com/wp-content/uploads/2018/03/OpenBlock-image-1392x783.jpg 1392w" sizes="(-webkit-min-device-pixel-ratio: 2) 1392px, (min-resolution: 192dpi) 1392px, 696px" alt="OpenBlock - Changing Day Trading with AI" title="PR: Why Artificial Intelligence Is Making Day Trading Obsolete, Research Revealed by OpenBlock"/></a></div>                            </div>
+            <h3 class="entry-title td-module-title"><a href="https://news.bitcoin.com/pr-why-artificial-intelligence-is-making-day-trading-obsolete-research-revealed-by-openblock/" rel="bookmark" title="PR: Why Artificial Intelligence Is Making Day Trading Obsolete, Research Revealed by OpenBlock">PR: Why Artificial Intelligence Is Making Day Trading Obsolete, Research Revealed...</a></h3>
+            <div class="td-module-meta-info">
+                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-03-19T13:30:35+00:00" >Mar 19, 2018</time></span>                            </div>
+
+            
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 --></div></div> <!-- ./block --><aside class="td_block_template_1 widget widget_text">			<div class="textwidget"><a class="btn btn-lg btn-full" href="/submit-press-release">Submit a Press Release</a></div>
+		</aside><aside class="td_block_template_1 widget widget_media_image"><h4 class="block-title"><span>Listen to The Bitcoin .com Podcast Network</span></h4><a href="https://podcast.bitcoin.com/"><img width="1280" height="760" src="https://news.bitcoin.com/wp-content/uploads/2018/02/bitcoin-podcast.jpg" class="image wp-image-117699  attachment-full size-full" alt="bitcoin podcast" style="max-width: 100%; height: auto;" srcset="https://news.bitcoin.com/wp-content/uploads/2018/02/bitcoin-podcast.jpg 1280w, https://news.bitcoin.com/wp-content/uploads/2018/02/bitcoin-podcast-300x178.jpg 300w, https://news.bitcoin.com/wp-content/uploads/2018/02/bitcoin-podcast-768x456.jpg 768w, https://news.bitcoin.com/wp-content/uploads/2018/02/bitcoin-podcast-1024x608.jpg 1024w, https://news.bitcoin.com/wp-content/uploads/2018/02/bitcoin-podcast-696x413.jpg 696w, https://news.bitcoin.com/wp-content/uploads/2018/02/bitcoin-podcast-1068x634.jpg 1068w, https://news.bitcoin.com/wp-content/uploads/2018/02/bitcoin-podcast-707x420.jpg 707w" sizes="(max-width: 1280px) 100vw, 1280px" /></a></aside><aside class="widget_text td_block_template_1 widget widget_custom_html"><h4 class="block-title"><span>Available for Android and iOS: Try out the new Bitcoin .com Mobile Wallet</span></h4><div class="textwidget custom-html-widget"><blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">Introducing the Simple to Use and Robust <a href="https://t.co/UtJJm8netW">https://t.co/UtJJm8netW</a> Wallet <a href="https://t.co/w5xA4uDpU9">https://t.co/w5xA4uDpU9</a> <a href="https://twitter.com/hashtag/bitcoinwallet?src=hash&amp;ref_src=twsrc%5Etfw">#bitcoinwallet</a> <a href="https://t.co/hB4KCBzqjL">pic.twitter.com/hB4KCBzqjL</a></p>&mdash; Bitcoin News (@BTCTN) <a href="https://twitter.com/BTCTN/status/902172445611880450?ref_src=twsrc%5Etfw">August 28, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div></aside><aside class="td_block_template_1 widget widget_text">			<div class="textwidget"><p>Download the <a href="https://www.bitcoin.com/choose-your-wallet/bitcoin-com-wallet"><strong>Bitcoin.com Wallet</strong></a> right to your device for easy and secure access to your bitcoins. Perfect for beginners, the Bitcoin.com Wallet makes using and holding bitcoins easy. No logins required.</p>
+</div>
+		</aside><aside class="td_block_template_1 widget widget_text"><h4 class="block-title"><span>LOST ON FACEBOOK?</span></h4>			<div class="textwidget"><p><font size=+2><strong>Facebook</strong> has recently made some changes to show you <b>less news and more family-oriented pics</b> and videos &#8211; even though you’ve previously subscribed. </font><br />
+<br />
+<strong>Here’s how to make Facebook show you our content again;</strong></p>
+<blockquote class="twitter-video" data-lang="en">
+<p dir="ltr" lang="en">Facebook has recently made some changes to show you less news. Here’s how to make Facebook show you our content again;</p>
+<p>a. Visit our Facebook Page <a href="https://t.co/d5QIuhCFPt">https://t.co/d5QIuhCFPt</a><br />
+b. Click the “Follow” button under our cover image.<br />
+c. Select the “See first” option. <a href="https://t.co/tFmrF73WQ7">pic.twitter.com/tFmrF73WQ7</a></p>
+<p>— Bitcoin News (@BTCTN) <a href="https://twitter.com/BTCTN/status/965524318657662976?ref_src=twsrc%5Etfw">February 19, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>1. Visit the <a href="https://www.facebook.com/buy.bitcoin.news/">Bitcoin.com Facebook Page</a>.<br />
+2. Click the “Follow” button under our cover image.<br />
+3. Select the “See first” option.</p>
+</div>
+		</aside><div class="td-a-rec td-a-rec-id-custom_ad_3  "><!-- BuySellAds PRO Zone Code (News Post Half Page) -->
+<div id="bsap_2536" class="bsaPROrocks" data-serve="CKYD62JE"></div>
+<!-- End BuySellAds PRO Zone Code --></div><aside class="td_block_template_1 widget widget_text">			<div class="textwidget"><div class="btcwdgt-news" bw-entries="10" bw-theme="light" bw-noshadow="true"></div>
+<p>Get the latest price charts, statistics and <em>our</em> news feed on <em>your</em> site. Check out our <a href="https://www.bitcoin.com/widgets" target="_new"><u>widget services</u></a>.</p>
+<p>&nbsp;</p>
+<hr />
+</div>
+		</aside><aside class="td_block_template_1 widget widget_text">			<div class="textwidget"><center>
+<img src="https://news.bitcoin.com/wp-content/uploads/2016/12/bc-heart-telegram.jpg" width="75%">
+</center>
+<br>
+<p>We also deliver bite-sized news to your favourite messaging app; join our <a href="https://telegram.me/www_Bitcoin_com" target="_new"><u>Telegram channel</u></a>.</p>
+<hr></div>
+		</aside><div class="td_block_wrap td_block_20 td_block_widget td_uid_6_5ab1b04323eb3_rand td-pb-border-top td_block_template_1 td-column-1"  data-td-block-uid="td_uid_6_5ab1b04323eb3" ><script>var block_td_uid_6_5ab1b04323eb3 = new tdBlock();
+block_td_uid_6_5ab1b04323eb3.id = "td_uid_6_5ab1b04323eb3";
+block_td_uid_6_5ab1b04323eb3.atts = '{"limit":"5","sort":"popular","post_ids":"129584, 130156, 130112, 128287, 129304, 130273, 130422, 130455, 130470","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"","category_ids":"","custom_title":"Most Popular","custom_url":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"","header_color":"#","header_text_color":"#","ajax_pagination_infinite_stop":"","td_column_number":1,"td_ajax_preloading":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","color_preset":"","border_top":"","class":"td_block_widget td_uid_6_5ab1b04323eb3_rand","el_class":"","offset":"","css":"","tdc_css":"","tdc_css_class":"td_uid_6_5ab1b04323eb3_rand","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":"","block_template_id":""}';
+block_td_uid_6_5ab1b04323eb3.td_column_number = "1";
+block_td_uid_6_5ab1b04323eb3.block_type = "td_block_20";
+block_td_uid_6_5ab1b04323eb3.post_count = "5";
+block_td_uid_6_5ab1b04323eb3.found_posts = "9";
+block_td_uid_6_5ab1b04323eb3.header_color = "#";
+block_td_uid_6_5ab1b04323eb3.ajax_pagination_infinite_stop = "";
+block_td_uid_6_5ab1b04323eb3.max_num_pages = "2";
+tdBlocksArray.push(block_td_uid_6_5ab1b04323eb3);
+</script><div class="td-block-title-wrap"><h4 class="block-title"><span class="td-pulldown-size">Most Popular</span></h4></div><div id=td_uid_6_5ab1b04323eb3 class="td_block_inner td-column-1">
+        <div class="td_module_mx3 td_module_wrap td-animation-stack">
+            <div class="td-module-thumb"><a href="https://news.bitcoin.com/data-reveals-reasons-behind-bitcoins-big-dip/" rel="bookmark" title="Data Reveals the Reasons Behind Bitcoin’s Big Dip"><img width="324" height="235" class="entry-thumb" src="https://news.bitcoin.com/wp-content/uploads/2018/03/data-bitcoin-dip-324x235.jpg" srcset="https://news.bitcoin.com/wp-content/uploads/2018/03/data-bitcoin-dip-324x235.jpg 324w, https://news.bitcoin.com/wp-content/uploads/2018/03/data-bitcoin-dip-648x470.jpg 648w" sizes="(-webkit-min-device-pixel-ratio: 2) 648px, (min-resolution: 192dpi) 648px, 324px" alt="Data Reveals the Reasons Behind Bitcoin’s Big Dip" title="Data Reveals the Reasons Behind Bitcoin’s Big Dip"/></a></div>
+            <div class="td-module-meta-info">
+                                                          
+              <span class="td-post-date ago-date-small-popular">
+                        
+                4 days ago                          
+              </span>
+                
+                <h3 class="entry-title td-module-title"><a href="https://news.bitcoin.com/data-reveals-reasons-behind-bitcoins-big-dip/" rel="bookmark" title="Data Reveals the Reasons Behind Bitcoin’s Big Dip">Data Reveals the Reasons Behind Bitcoin’s Big Dip</a></h3>                
+                                                
+                            </div>
+
+        </div>
+
+        
+        <div class="td_module_mx3 td_module_wrap td-animation-stack">
+            <div class="td-module-thumb"><a href="https://news.bitcoin.com/the-mt-gox-whale-explains-his-crypto-selling-strategy/" rel="bookmark" title="The &#8216;Mt Gox Whale&#8217; Explains His Crypto-Selling Strategy"><img width="324" height="235" class="entry-thumb" src="https://news.bitcoin.com/wp-content/uploads/2018/03/Kloptrepoa-324x235.jpg" srcset="https://news.bitcoin.com/wp-content/uploads/2018/03/Kloptrepoa-324x235.jpg 324w, https://news.bitcoin.com/wp-content/uploads/2018/03/Kloptrepoa-648x470.jpg 648w" sizes="(-webkit-min-device-pixel-ratio: 2) 648px, (min-resolution: 192dpi) 648px, 324px" alt="The &#039;Mt Gox Whale&#039; Explains His Crypto-Selling Strategy" title="The &#8216;Mt Gox Whale&#8217; Explains His Crypto-Selling Strategy"/></a></div>
+            <div class="td-module-meta-info">
+                                                          
+              <span class="td-post-date ago-date-small-popular">
+                        
+                3 days ago                          
+              </span>
+                
+                <h3 class="entry-title td-module-title"><a href="https://news.bitcoin.com/the-mt-gox-whale-explains-his-crypto-selling-strategy/" rel="bookmark" title="The &#8216;Mt Gox Whale&#8217; Explains His Crypto-Selling Strategy">The &#8216;Mt Gox Whale&#8217; Explains His Crypto-Selling Strategy</a></h3>                
+                                                
+                            </div>
+
+        </div>
+
+        
+        <div class="td_module_mx3 td_module_wrap td-animation-stack">
+            <div class="td-module-thumb"><a href="https://news.bitcoin.com/paypal-users-receive-cryptocurrency-warning-email/" rel="bookmark" title="Paypal Users Receive Cryptocurrency Warning Email"><img width="324" height="235" class="entry-thumb" src="https://news.bitcoin.com/wp-content/uploads/2018/03/Untitled-design-20-324x235.jpg" srcset="https://news.bitcoin.com/wp-content/uploads/2018/03/Untitled-design-20-324x235.jpg 324w, https://news.bitcoin.com/wp-content/uploads/2018/03/Untitled-design-20-648x470.jpg 648w" sizes="(-webkit-min-device-pixel-ratio: 2) 648px, (min-resolution: 192dpi) 648px, 324px" alt="Paypal Users Receive Cryptocurrency Warning Email" title="Paypal Users Receive Cryptocurrency Warning Email"/></a></div>
+            <div class="td-module-meta-info">
+                                                          
+              <span class="td-post-date ago-date-small-popular">
+                        
+                3 days ago                          
+              </span>
+                
+                <h3 class="entry-title td-module-title"><a href="https://news.bitcoin.com/paypal-users-receive-cryptocurrency-warning-email/" rel="bookmark" title="Paypal Users Receive Cryptocurrency Warning Email">Paypal Users Receive Cryptocurrency Warning Email</a></h3>                
+                                                
+                            </div>
+
+        </div>
+
+        
+        <div class="td_module_mx3 td_module_wrap td-animation-stack">
+            <div class="td-module-thumb"><a href="https://news.bitcoin.com/bitcoin-futures-predictions-bland-but-volumes-grow/" rel="bookmark" title="Bitcoin Futures Predictions Volumes Grow"><img width="324" height="235" class="entry-thumb" src="https://news.bitcoin.com/wp-content/uploads/2018/03/yuiiyttrr-324x235.jpg" srcset="https://news.bitcoin.com/wp-content/uploads/2018/03/yuiiyttrr-324x235.jpg 324w, https://news.bitcoin.com/wp-content/uploads/2018/03/yuiiyttrr-648x470.jpg 648w" sizes="(-webkit-min-device-pixel-ratio: 2) 648px, (min-resolution: 192dpi) 648px, 324px" alt="Bitcoin Futures Predictions Volumes Grow" title="Bitcoin Futures Predictions Volumes Grow"/></a></div>
+            <div class="td-module-meta-info">
+                                                          
+              <span class="td-post-date ago-date-small-popular">
+                        
+                7 days ago                          
+              </span>
+                
+                <h3 class="entry-title td-module-title"><a href="https://news.bitcoin.com/bitcoin-futures-predictions-bland-but-volumes-grow/" rel="bookmark" title="Bitcoin Futures Predictions Volumes Grow">Bitcoin Futures Predictions Volumes Grow</a></h3>                
+                                                
+                            </div>
+
+        </div>
+
+        
+        <div class="td_module_mx3 td_module_wrap td-animation-stack">
+            <div class="td-module-thumb"><a href="https://news.bitcoin.com/peter-thiel-is-long-on-bitcoin-a-deeply-contrarian-investment/" rel="bookmark" title="Peter Thiel Is Long on Bitcoin, a &#8220;Deeply Contrarian&#8221; Investment"><img width="324" height="235" class="entry-thumb" src="https://news.bitcoin.com/wp-content/uploads/2018/03/Untitled-design-18-324x235.jpg" srcset="https://news.bitcoin.com/wp-content/uploads/2018/03/Untitled-design-18-324x235.jpg 324w, https://news.bitcoin.com/wp-content/uploads/2018/03/Untitled-design-18-648x470.jpg 648w" sizes="(-webkit-min-device-pixel-ratio: 2) 648px, (min-resolution: 192dpi) 648px, 324px" alt="Peter Thiel is Long on Bitcoin, a &quot;Deeply Contrarian&quot; Investment Missed by Wall Street and Silicon Valley" title="Peter Thiel Is Long on Bitcoin, a &#8220;Deeply Contrarian&#8221; Investment"/></a></div>
+            <div class="td-module-meta-info">
+                                                          
+              <span class="td-post-date ago-date-small-popular">
+                        
+                4 days ago                          
+              </span>
+                
+                <h3 class="entry-title td-module-title"><a href="https://news.bitcoin.com/peter-thiel-is-long-on-bitcoin-a-deeply-contrarian-investment/" rel="bookmark" title="Peter Thiel Is Long on Bitcoin, a &#8220;Deeply Contrarian&#8221; Investment">Peter Thiel Is Long on Bitcoin, a &#8220;Deeply Contrarian&#8221; Investment</a></h3>                
+                                                
+                            </div>
+
+        </div>
+
+        </div></div> <!-- ./block --><aside class="widget_text td_block_template_1 widget widget_custom_html"><div class="textwidget custom-html-widget"><script>
+window['bsa_CKYD62QY'] = null;
+window['bsa_CKYD62Q7'] = null;
+window['bsa_CKYD62JE'] = null;
+_bsaPRO_loaded = false;
+if (window._bsaPRO) {
+    _bsaPRO();
+}
+</script></div></aside>                                </div>
+                            </div>
+                                    </div> <!-- /.td-pb-row -->
+        </article> <!-- /.post --></div></div><div class="alm-btn-wrap"><button class="alm-load-more-btn more ">Older Posts</button></div></div>        
+    </div> <!-- /.td-container -->
+</div> <!-- /.td-main-content-wrap -->
+
+
+<!-- Instagram -->
+
+
+
+<!-- Footer -->
+
+
+<!-- Sub Footer -->
+</div><!--close td-outer-wrap-->
+
+
+
+    <!--
+
+        Theme: Newspaper by tagDiv.com 2017
+        Version: 8.0 (rara)
+        Deploy mode: deploy
+        Speed booster: v4.1
+
+        uid: 5ab1b0432cd92
+    -->
+
+    
+<!-- Custom css form theme panel -->
+<style type="text/css" media="screen">
+/* custom css theme panel */
+#join-telegram {
+    display: none;
+}
+
+@media screen and (max-width: 767px) {
+    #join-telegram {
+        display: block;
+        position: fixed;
+        top: -58px;
+        transition: top 0.5s ease-out;
+        right: 0;
+        left: 0;
+        width: 100%;
+        height: 110px;
+        box-sizing: border-box;
+        z-index: 20000;
+        background: white url('/wp-content/uploads/2017/07/Telegram_logo.png') 10px center no-repeat;
+        background-size: 52px 52px;
+        padding: 35px 100px 10px 72px;
+        border-bottom: 2px solid #666;
+        overflow: hidden;
+    }
+    #join-telegram p {
+        line-height: 18px;
+        font-size: 12px;
+        margin: 0;
+    }
+    #join-telegram p a {
+        font-size: 16px;
+    }
+    #join-telegram a.dismiss {
+        position: absolute;
+        top: 1px;
+        right: 1px;
+        padding: 42px;
+        font-size: 20px;
+        line-height: 12px;
+    }
+} 
+
+@media screen and (max-width: 380px) {
+     #join-telegram p {
+       display:none;
+    }
+}
+
+/*Temp fix for Most Popular tags*/
+
+.ago-date-small-popular {
+  background: white;
+  color: black !important;
+  margin-left: 15px !important;
+  padding-left: 5px;
+  
+  /*additional CSS fixes*/
+  /*margin-right: 210px;*/
+  padding-right:5px;
+  top: -23px !important;
+  position:absolute;
+  display:inline;
+  
+}
+
+.ago-date-small-popular .td-post-date time {
+  color: black !important;
+  text-shadow: none !important;
+}
+
+/* Bring white background date labels in line with headlines on mobile */
+@media (max-width: 767px) {
+    .td-big-grids-fl.td-grid-style-1 .td-module-meta-info {
+        margin-bottom: 7px;
+    }
+    /*Correct mobile line-height for no overlaps*/
+    .td-big-grids-fl.td-big-grids-scroll .td-big-grid-scroll .td-big-grid-post .entry-title {
+        line-height: 25px !important;
+    }
+}
+/* Correct author image size and position */
+.author-box-wrap .avatar {
+	margin-top:10px;
+    max-width:96px;
+    width:100%;
+}
+@media (max-width: 767px) {
+    .author-box-wrap .avatar {
+    	margin-top:0px;
+}
+}
+
+/*Consistent Link Colors*/
+a:focus, a:hover {
+    color:inherit;
+}
+
+.widget a {
+    color: #fab915;
+}
+
+.widget a:focus, .widget a:hover {
+    color: inherit !important;
+    text-decoration: underline !important;
+}
+
+/* Responsive fix for center column */
+
+.latest-right .entry-title {
+        white-space: inherit;
+        margin-bottom: 15px;
+    }
+    
+@media screen and (max-width:1024px) {
+    .latest-left {
+        font-size: 0.5em;
+    }
+    .latest-left time {
+        font-size: 0.75em;
+    }
+    .latest-left:after {
+        border-top: 13px solid transparent;
+        border-bottom: 13px solid transparent;
+    }
+    .latest-container {
+        padding: .8em 0 1.6em 1em;
+        margin-left: 4em;
+    }
+    .td_module_mx16 .entry-thumb {
+        left: -300px;
+    }
+    .td_module_mx16 .td-module-title a {  
+        font-size: 14px !important;  
+    }
+    .td_module_mx16 .td-excerpt {
+        font-size:11px !important;
+        padding-left: 220px;
+    }
+    .td_module_mx16 .td-post-date {
+        line-height:20px;
+    }
+    .latest-right .entry-title {
+        white-space: inherit;
+        margin-bottom: 15px;
+    }
+}
+
+@media screen and (max-width:950px) {
+    .latest-left {
+        font-size: 0.5em;
+    }
+    .latest-left:after {
+        border-top: 13px solid transparent;
+        border-bottom: 13px solid transparent;
+    }
+    .latest-container {
+        padding: .8em 0 1.6em 1em;
+        margin-left: 4em;
+    }
+    .td_module_mx16 .entry-thumb {
+        left: -200px !important;
+    }
+    .td_module_mx16 .td-module-title a {  
+        font-size: 14px !important;  
+    }
+    .td_module_mx16 .td-excerpt {
+        font-size:11px !important;
+        padding-left: 120px !important;
+    }
+    .latest-right .entry-title {
+        white-space: inherit;
+        margin-bottom: 15px;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .latest-left {
+        font-size: 0.5em;
+    }
+    .latest-left:after {
+        border-top: 13px solid transparent;
+        border-bottom: 13px solid transparent;
+    }
+    .latest-container {
+        padding: .6em 0 1.6em 1em;
+        margin-left: 4em;
+    }
+    .td_module_mx16 .entry-thumb {
+        left: -200px !important;
+    }
+    .td_module_mx16 .td-module-title a {  
+        font-size: 14px !important;  
+    }
+    .td_module_mx16 .td-excerpt {
+        font-size:11px !important;
+        padding-left: 120px !important;
+    }
+    .latest-right .entry-title {
+        white-space: inherit;
+        margin-bottom: 15px;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .td_module_mx16 .td-excerpt {
+        font-size:11px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+          
+  .td_module_mx16 .entry-thumb {
+    height:70px !important;
+    left: -155px !important;
+  }
+            
+  .td_module_mx16 .td-excerpt { 
+      /* change padding-left back to 45px to abort */
+    padding-left:75px !important;
+    padding-right:0px !important;
+  }
+            
+  .td-bonus-excerpt {
+    height: 50px !important;
+    font-size:11px;
+    line-height:17px;
+  }
+            
+  .line-clamp {          
+    -webkit-line-clamp: 3 !important;          
+  }
+            
+  .td_module_mx16 .td-module-title a {  
+    font-size: 12px !important;     
+      
+  }
+   .latest-left {
+  	top:1.9em;
+  }
+
+}
+
+.td-btc-posts-title .entry-title {
+    pointer-events: auto;
+}
+
+/* Black on white background for "ago" blocks */
+.ago-date-small{
+    color: black !important;
+    background-color: white;
+    padding: 3px 10px 3px 10px;
+    margin-left: 0px;
+    margin-bottom: -1px;
+    display:inline;
+    text-shadow: none !important;
+}
+
+/* Prevent collision on dates in full-width center col blocks */
+.td_module_mx1 .ago-date-small {
+        line-height:18px;
+    }
+
+/* Bring 'ago' block in line with headline on 3rd story in mobile mode */
+.td_module_mx19.td-big-grid-post-2.td-big-grid-post.td-mx-23 .td-module-meta-info {
+	top: -25px;
+	position: absolute;
+}
+
+/*Max-width on PR images in center column*/
+.pr-center-block .td_module_mx16 .td-excerpt img {
+    max-width:300px;
+}
+
+/* Footer links match style guide */
+#Footer a {
+    color:#fff;
+}
+#Footer a:hover, #Footer a:focus {
+    color:#fab915 !important;
+}
+
+/* Line up ago date on center column wide images for mobile view when > 7 days old */
+.ago-date-small-mx1 .td-post-date {
+    margin-bottom:inherit;
+}
+
+/* Remove text-shadow on Big Grid titles */
+.td-big-grid-post .entry-title a {
+    text-shadow: none;
+}
+
+/* Make sure there is a margin-bottom after the ads in the sidebar */
+.td-a-rec.td-a-rec-id-sidebar {
+    margin-bottom:12px;
+}
+
+/* Some fonts inheriting incorrectly */
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-family: museo-sans-rounded, -apple-system, BlinkMacSystemFont, Montserrat, sans-serif;
+}
+
+.td-header-row {
+    font-family: museo-sans-rounded, -apple-system, BlinkMacSystemFont, Montserrat, sans-serif;
+}
+
+
+/* CSS corrections for infinite scroll */
+.alm-listing li {
+    background: inherit;
+    margin: inherit;
+    padding: inherit;
+    overflow: inherit;
+    position: inherit;
+    list-style: inherit;
+}
+
+/* CSS corrections for disqus-comments in sidebar */
+.widget li {
+    line-height: inherit;
+}
+.dsq-widget-item {
+    border-left: none;
+}
+
+/* Hide time ago boxes in Big Grid */
+.td-big-grid-wrapper .td-post-date {
+    /*display: none;*/
+}
+
+/* Full-width sidebar ad on Home page */
+.td-a-rec-id-sidebar .bsap img {
+    width: 100%;
+    max-width: 300px;
+}
+
+/* Hide towers while price ticker down */
+/*.towers {
+    display:none;
+}*/
+
+/* Up the z-index of the drop down menu so Sumo forms are hidden */
+.td-header-wrap {
+  /*z-index: 10000000;*/
+}
+.s.u.m.o.me.listbuilder-popup-embedded {
+    z-index:500 !important;
+}
+
+/* Main menu font sizes, responsive and keep content on 1 line*/
+@media screen and (max-width: 1140px) {
+  ul.sf-menu > .td-menu-item > a {
+    font-size: 13px !important;    
+  }
+}
+@media screen and (max-width: 1018px) {
+  ul.sf-menu > .td-menu-item > a {
+    font-size: 10px !important;
+  }
+}
+
+.menu-item-61350 a {
+    color: #fab915 !important;
+    font-style: italic;
+    font-weight: bold !important;
+}
+
+/* Gold splash for The Satoshi Revolution */
+/*
+.sf-menu > .menu-item-61350:hover {
+  background-color: #fab915;
+}
+*/
+
+/*Disable underline on hover links in main menu*/
+li.menu-item > a:hover {
+    text-decoration:none;
+}
+
+/* Responsive twitter embed videos */
+.twitter-video.twitter-video-rendered {
+  min-width:180px !important;
+}
+
+/*Hover colors for "Search" button */
+#td-header-search-top:hover {
+    background-color: #fab915;
+    color: #fff;
+}
+
+/* Hide tower charts until CSS is loaded */
+.towers {
+    /*display:none;*/
+}
+
+
+
+/* Top bar CryptoBar placement below menu bar */
+body ._bsa_show ._bsa_fancybar{top:52px}
+
+/* WPP Most Popular */
+.wpp-list a {
+    color:black;   
+    font-family: museo-sans-rounded; 
+}
+.wpp-list a:hover {
+    color:#fab915;
+}
+
+.wpp-date {
+    font-style: italic;
+    font-size:0.85em;
+    font-family: museo-sans-rounded;
+}
+
+/* Hide Big Grid until full width loaded */
+/* NB this is in header.php to prevent FOUC */
+#big-grid-reveal {
+  visibility: hidden;
+  opacity: 1;
+  transition: visibility 0s linear 0s, opacity 300ms;
+}
+
+/* Footer CSS for new bootstrap version, correct 2-col spacing in col 2 */
+#Footer .col-md-6 {
+    padding-left: 15px;
+}
+
+/*New Bootstrap 4 Grid does not work in Safari with md-6 = 50%. Go Figure */
+/*
+@media screen and (min-width:767px) {
+.col-md-6.wpb_column.vc_column_container.td-pb-span6 {
+    max-width:49.8%
+}
+}
+*/
+
+/* Telegram Social Icon*/
+
+.td-icon-telegram{ 
+  background-image:url("/wp-content/uploads/2017/11/telegram.png")!important;
+  width: 20px!important; 
+  height: 20px!important; 
+  background-size: 19px 19px; 
+  background-repeat: no-repeat; 
+}
+
+/* Blue Telegram Icon on hover */
+.td-icon-telegram:hover { 
+  background-image:url("/wp-content/uploads/2017/11/Telegram-Blue.png")!important;
+}
+
+/* White Telegram icon on mobile, sized down to match other Social icons */
+@media screen and (max-width:767px) {
+.td-icon-telegram{ 
+  background-image:url("/wp-content/uploads/2017/11/Telegram-White.png")!important;
+  background-size: 15px 15px;
+}
+}
+
+/*Align social icons in Header Nav menu */
+.td-social-icon-wrap>a {
+    vertical-align: middle;
+}
+
+/* Hide menu on load to prevent FOUC */
+/* NB this is in Header.php to prevent FOUC */
+.td-header-menu-wrap-full {
+    visibility: hidden;
+}
+
+/* Force Disqus Latest comment formatting in sidebar, addressing infinite scroll conflict */
+li.dsq-widget-item {
+    margin: 15px 0 !important;
+    list-style-type: none !important;
+    padding-left: 10px !important;
+    clear: both;
+}
+
+body {
+  font-family: museo-sans-rounded, -apple-system, BlinkMacSystemFont, Montserrat, sans-serif;
+}
+
+.btc-header-wrapper {
+display: block;
+}
+.td-header-sp-logo {
+  margin: 20px auto 0 auto !important;
+  float: none !important;
+}
+
+@media screen and (max-width:1018px) {
+  .td-header-sp-logo {
+    margin: 35px auto 0 auto !important;
+  }
+}
+
+
+#page-top-subtitle {
+  clear:both;
+  text-align:center;
+}
+
+/* CSS for Header Ticker Chart */
+
+.td-banner-wrap-full {
+    height: 150px;
+}
+
+.btc-header-wrapper {
+  margin-bottom: 10px;
+}
+  
+.towers {
+  position: absolute;
+  bottom: 0px;
+  right: 5%; 
+  padding-right:0.5%;
+  overflow:hidden;
+}
+.towers-bch {
+  position: absolute;
+  bottom: 0px;
+  left: 5%; 
+  padding-right:0.5%;
+  overflow:hidden;
+}
+.tower {
+  position: relative;
+  display: inline;
+}
+
+.tower-holder {
+	position:relative;
+	display: inline-block;
+}
+
+.towers img {
+  height: 140px;
+  padding: 0px 2px;
+  vertical-align: bottom;
+  position: relative;
+  -webkit-transition: top 1.5s;
+  top: 150px;
+}
+
+.towers-bch img  {
+  height: 140px;
+  padding: 0px 2px;
+  vertical-align: bottom;
+  position: relative;
+  -webkit-transition: top 1.5s;
+  top: 150px;
+}
+
+.day-meta {
+  position: absolute;
+  background-color:none;
+  color: white;
+  z-index: 100;
+  top: 93%;
+  font-size: 10px; 
+  line-height:10px;
+  -webkit-transition: top 1.5s;
+  width: 100%;
+  text-align: center;
+}
+
+.price-meta, .caysh-meta {
+  position: absolute;
+  color: #000000;
+  background-color: #fff;
+  z-index: 100;
+  top: 117.5px;
+  font-size: 1rem; 
+  line-height:10px;
+  width: 100%;
+  text-align: center;
+  -webkit-transition: top 1.5s;
+}
+
+.chart {
+  position: absolute;
+  top: -5px;
+  z-index: 1;
+}
+.chart-bch {
+  position: absolute;
+  top: -5px;
+  z-index: 1;
+}
+
+#chart-poly {
+  stroke: none;
+  stroke-width: 6;
+  stroke-linejoin: round;
+  fill: none;  
+}
+#chart-poly-bch {
+  stroke: none;
+  stroke-width: 6;
+  stroke-linejoin: round;
+  fill: none;  
+}
+#price-meta-label, #caysh-meta-label {
+  top: 140px;
+}
+
+@media screen and (max-width:870px) {
+  .towers-bch {left:0%}
+  .towers {right:0%}
+}
+
+/* End CSS for Header Ticker Chart */
+
+/* Responsively left-align Date with Logo */
+#date-spacer-min, #date-spacer-medium, #date-spacer-large {
+    display:inline;
+}
+
+@media screen and (max-width:1140px) {
+    #date-spacer-large {
+      display:none;
+    }
+}
+
+@media screen and (max-width:1019px) {
+    #date-spacer-medium {
+      display:none;
+    }
+}
+</style>
+
+<div class="td-container"><script>var BitcoinMenuWidth = 1400;</script>
+<script type="text/javascript" src="https://menu.cdn.bitcoindotcom.net/the-footer/dist/universal-footer.js"></script>
+<script src="https://menu.cdn.bitcoindotcom.net/the-menu/dist/universal-menu.js"></script>
+
+<!-- Join Telegram Pop-up, commented out -->
+<!--
+<div id="join-telegram">
+    <a href="https://t.me/www_Bitcoin_com" target="_new">Join our Telegram Channel!</a>
+    <p>Get Bitcoin News stories in Telegram</p>
+    <a class="dismiss" id="telgram-dismiss" href="#"><i class="td-icon-close-mobile"></i></a>
+</div>
+-->
+
+<script>
+  (function(b,i,t,C,O,I,N) {
+    window.addEventListener('load',function() {
+      if(b.getElementById(C))return;
+      I=b.createElement(i),N=b.getElementsByTagName(i)[0];
+      I.src=t;I.id=C;N.parentNode.insertBefore(I, N);
+    },false)
+  })(document,'script','https://widgets.bitcoin.com/widget.js','btcwdgt');
+</script>
+
+<script src="//m.servedby-buysellads.com/monetization.js" type="text/javascript"></script>
+    <script>
+(function(){
+    if(typeof _bsa !== 'undefined' && _bsa) {
+        _bsa.init('fancybar', 'CKYDV2QM', 'placement:bitcoincom');
+    }
+})();
+</script>
+<!-- jQuery -->
+<script src="/wp-content/plugins/bootstrap-3.3.7-plugin/js/jquery-3.2.1.min.js"></script>
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="/wp-content/plugins/bootstrap-3.3.7-plugin/js/bootstrap.min.js"></script>
+
+<!--jQuery from CDN -->
+<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>-->
+
+</div><script type="text/javascript">setDateString()
+
+function setDateString() {
+
+	var today = new Date()
+	
+	var month = today.getMonth()
+	var date = today.getDate()
+	var year = today.getFullYear()
+	var monthString = ''
+	
+	switch (month) {
+		case 0: monthString = 'JAN'; break;
+		case 1: monthString = 'FEB'; break;
+		case 2: monthString = 'MAR'; break;
+		case 3: monthString = 'APR'; break;
+		case 4: monthString = 'MAY'; break;
+		case 5: monthString = 'JUN'; break;
+		case 6: monthString = 'JUL'; break;
+		case 7: monthString = 'AUG'; break;
+		case 9: monthString = 'OCT'; break;
+		case 8: monthString = 'SEP'; break;
+		case 10: monthString = 'NOV'; break;
+		case 11: monthString = 'DEC'; break;
+	}
+	
+	document.getElementById('page-top-subtitle').innerHTML= monthString + ' ' + date + ', ' + year + '<div id=\"date-spacer-min\">          </div><div id=\"date-spacer-medium\">  </div><div id=\"date-spacer-large\">          </div>'
+}
+
+function builtThisCityOnBitcoinCash(cayshPrice, legacyPrice) {
+
+  // Declare variables
+  // Array of prices for the last week, incl spot price
+  var cayshPrices = []
+  var legacyPrices = []
+  // Array of svg polyline points attribute heights
+  var pH = []
+  var pH_BCH = []
+  
+function getCayshHistory() {
+  var hSuccessFn = (function(D) {
+    return function(data) {
+      historySuccess(data)
+    }
+  }) ()
+    // Function to async fetch historic rates in only 1 API request
+    jQuery.ajax({
+    url: 'https://index.bitcoin.com/api/v0/cash/history?unix=1&pretty=0',
+    dataType: 'json',
+    crossDomain: true
+  })
+    .done(hSuccessFn)
+    .fail()
+    .always()
+}
+function historySuccess(data) {
+  for (var i = 5; i > -1; i--) {
+      cayshPrices.push(data[i][1] / 100)
+  }
+  // spotPrice is passed in from universal menu, once it is loaded
+  // spotPrice will be used to dynamically adjust height of Building 6
+  if (cayshPrices.length == 6) {
+    cayshPrices[6] = cayshPrice
+    return getLegacyHistory(cayshPrices)    
+  }
+}
+
+function getLegacyHistory(cayshPrices) {
+  var hSuccessFn = (function(D) {
+    return function(data) {
+      legacySuccess(data)
+    }
+  }) ()
+    // Function to async fetch historic rates in only 1 API request
+    jQuery.ajax({
+    url: 'https://index.bitcoin.com/api/v0/history?unix=1&pretty=0',
+    dataType: 'json',
+    crossDomain: true
+  })
+    .done(hSuccessFn)
+    .fail()
+    .always()
+}
+function legacySuccess(data) {
+  for (var i = 5; i > -1; i--) {
+      legacyPrices.push(data[i][1] / 100)
+  }
+  // spotPrice is passed in from universal menu, once it is loaded
+  // spotPrice will be used to dynamically adjust height of Building 6
+  if (legacyPrices.length == 6) {
+    legacyPrices[6] = legacyPrice
+    return cityGraph(cayshPrices, legacyPrices)    
+  }
+}
+
+function cityGraph(cayshPrices, legacyPrices) {
+  // console.log(cayshPrices)
+  // console.log(legacyPrices)
+  
+  // Max and Min prices for Bitcoin Caysh
+  var cayshMinPrice = Math.min(...cayshPrices)
+  var cayshMaxPrice = Math.max(...cayshPrices)
+  
+  // Max and Min prices for Bitcoin Legacy
+  var legacyMinPrice = Math.min(...legacyPrices)
+  var legacyMaxPrice = Math.max(...legacyPrices)
+    
+  // Array to store building css:top values
+  var hCaysh = []
+  var hCayshLabel = []
+  var hLegacy = []
+  var hLegacyLabel = []
+    
+  // Date array, does not need to be duplicated for Legacy and Caysh
+  var bDates = [document.getElementById('day-meta-1'),document.getElementById('day-meta-2'), document.getElementById('day-meta-3'), document.getElementById('day-meta-4'), document.getElementById('day-meta-5'), document.getElementById('day-meta-6'), document.getElementById('day-meta-now') ]
+  var bCayshDates = [document.getElementById('caysh-day-meta-1'),document.getElementById('caysh-day-meta-2'), document.getElementById('caysh-day-meta-3'), document.getElementById('caysh-day-meta-4'), document.getElementById('caysh-day-meta-5'), document.getElementById('caysh-day-meta-6'), document.getElementById('caysh-day-meta-now') ]
+  // Array to store buildings by ID for BTC Legacy
+  var bLegacy = [document.getElementById('b0'),document.getElementById('b1'), document.getElementById('b2'), document.getElementById('b3'), document.getElementById('b4'), document.getElementById('b5'), document.getElementById('b6') ]
+  
+  var bLegacyPrices = [document.getElementById('price-meta-1'),document.getElementById('price-meta-2'), document.getElementById('price-meta-3'), document.getElementById('price-meta-4'), document.getElementById('price-meta-5'), document.getElementById('price-meta-6'), document.getElementById('price-meta-now') ]
+
+  // Array to store buildings by ID for BTC Legacy
+  var bCaysh = [document.getElementById('bcc0'),document.getElementById('bcc1'), document.getElementById('bcc2'), document.getElementById('bcc3'), document.getElementById('bcc4'), document.getElementById('bcc5'), document.getElementById('bcc6') ]
+ 
+  var bCayshPrices = [document.getElementById('caysh-meta-1'),document.getElementById('caysh-meta-2'), document.getElementById('caysh-meta-3'), document.getElementById('caysh-meta-4'), document.getElementById('caysh-meta-5'), document.getElementById('caysh-meta-6'), document.getElementById('caysh-meta-now') ]
+  
+  // Calculate day of week for first building
+  var bDateFill = new Date()
+  bDateFill.setDate(bDateFill.getDate() - 6)
+    
+  for (var i = 0; i < cayshPrices.length; i++) {
+    
+    // Populate date meta info
+    bDateFillStr = bDateFill.toString()
+    bDateFillStr = bDateFillStr[0] + bDateFillStr[1]
+    bDates[i].innerHTML = bDateFillStr
+    bCayshDates[i].innerHTML = bDateFillStr
+    bDateFill.setDate(bDateFill.getDate()+1)
+    
+    // Function to format prices
+    function getPriceString(price)
+    {
+      //price = price.toString()
+      var priceString
+
+      if (price < 1000)
+      {
+        priceString = price.toFixed(0)
+      }
+      else
+      {
+      priceString = (Math.round((price / 1000) * 10) / 10) + "k"
+      }
+    return priceString.toString()
+}
+    bLegacyPrices[i].innerHTML = getPriceString(legacyPrices[i]) // '$' + getPriceString(legacyPrices[i])
+    bCayshPrices[i].innerHTML = getPriceString(cayshPrices[i])
+    
+    // Create height array
+    // Fixed linear scale based on max BTC Legacy price       
+    hLegacy[i] = 140*(1 - (legacyPrices[i]/legacyMaxPrice))    
+    
+    // Caysh height relative to legacy
+    hCaysh[i] = 140*(1 - (cayshPrices[i]/cayshMaxPrice))
+    
+    // Baseline
+    //hCaysh[i] = hCaysh[i] - 15
+    
+    // Set a min height
+    if (hCaysh[i] > 120) {hCaysh[i] = 120}
+        
+    // Create offset height array
+    hLegacyLabel[i] = hLegacy[i] + 35
+    // Different buildings, can be closer to top
+    hCayshLabel[i] = hCaysh[i] + 35
+    
+    // Ensure that price labels do not cover day labels
+    if (hCayshLabel[i] > 121) {hCayshLabel[i] = 121}
+        
+    // Translate for HTML setting
+    hLegacy[i] = hLegacy[i].toFixed(2)
+    hLegacyLabel[i] = hLegacyLabel[i].toFixed(2)
+    
+    hCaysh[i] = hCaysh[i].toFixed(2)
+    hCayshLabel[i] = hCayshLabel[i].toFixed(2)
+       
+    // Apply height to building
+    bLegacy[i].style.top = hLegacy[i] + "px"
+    bCaysh[i].style.top = hCaysh[i] + "px"
+        
+    bLegacyPrices[i].style.top = hLegacyLabel[i] + "px"
+    bCayshPrices[i].style.top = hCayshLabel[i] + "px"
+    
+    // Set BTC poly line
+    //var yInt = 108
+    var yInt = 98
+    pH[i] = 3.4*hLegacy[i] + yInt    
+      
+    // Set BCH poly line
+    var yIntCaysh = yInt
+    pH_BCH[i] = 3.4*hCaysh[i] + yIntCaysh
+  }
+  
+  // Over-ride for Day 6, say 'Now' instead of Day of Week  
+  bDates[6].innerHTML = 'Now'
+  bCayshDates[6].innerHTML = 'Now'
+  // Add label heights corresponding to last price heights
+  document.getElementById('price-meta-label').style.top = hLegacyLabel[6] + "px"
+  document.getElementById('caysh-meta-label').style.top = hCayshLabel[6] + "px"
+  
+  // Create coordinates for polyline. x-coordinates are fixed.  
+  var pHstring = '42,' + pH[0] + ' 125,' + pH[1] + ' 215,' + pH[2] + ' 310,' + pH[3] + ' 400,' + pH[4] + ' 477,' + pH[5] + ' 580,' + pH[6]
+  
+  var pH_BCHstring = '42,' + pH_BCH[0] + ' 125,' + pH_BCH[1] + ' 215,' + pH_BCH[2] + ' 310,' + pH_BCH[3] + ' 400,' + pH_BCH[4] + ' 477,' + pH_BCH[5] + ' 580,' + pH_BCH[6]
+    
+  // Unhide BTC poly-line, set to White
+  document.getElementById('chart-poly').style.stroke = "#fff"
+  
+  // Unhide BCH poly-line, set to White
+  document.getElementById('chart-poly-bch').style.stroke = "#fff"
+    
+  // Set animation on poly-line to computed points for BTC
+  document.getElementById('line-points').setAttribute('to', pHstring)
+  
+  // Set animation on poly-line to computed points for BCH
+  document.getElementById('line-points-bch').setAttribute('to', pH_BCHstring)
+    
+  // Animate line change for BTC
+  document.getElementById('line-points').beginElement()
+  
+  // Animate line change for BCH
+  document.getElementById('line-points-bch').beginElement()
+  
+}
+getCayshHistory()
+}
+
+// Poll the Universal Menu to see if the Spot Price has loaded and is a number
+// If yes, fire the chart graph in the header
+flushLocal()
+chartFire()
+
+function flushLocal() {
+    // Flush local storage in case spot prices from yesterday (now off) are there
+    localStorage['btctm-cash-price'] = false
+    localStorage['btctm-price'] = false
+}
+function chartFire() {  
+  // Variables for prices stored in local storage by the Universal Menu
+  var cayshPrice = JSON.parse(localStorage['btctm-cash-price']).price
+  var legacyPrice = JSON.parse(localStorage['btctm-price']).price
+    
+    // Check if the spot price is in local storage
+  // Had to poll for jQuery as well since sometimes this loaded first
+  if (!isNaN(cayshPrice) && !isNaN(legacyPrice) && window.jQuery) {
+    builtThisCityOnBitcoinCash(cayshPrice, legacyPrice) 
+    var fullWidth = document.getElementById('big-grid-reveal')
+    if (fullWidth) {
+      fullWidth.style.visibility = 'visible'
+    }
+   // Unhide the menu (delayed to address FOUC in Newspaper Theme)
+    document.getElementsByClassName('td-header-menu-wrap-full')[0].style.visibility = 'visible'
+  } else {     
+    setTimeout(chartFire, 200);
+  }
+}
+ 
+ function dateLive() {
+    
+    // Create a timestamp for 'now'
+    var now = Math.round((new Date()).getTime() / 1000)
+    
+    // Create an array of timestamped elements in the Big Grid published within the hour
+    var timeStamps = document.getElementsByClassName('tstamp')
+
+    // Iterate over each item in the array and update the timestamp
+    for(var i = 0; i < timeStamps.length; i++) {
+        
+        // Variable to store when this story was published
+        var publishedTime = timeStamps[i].dataset.ts
+        
+        // Calculate how many minutes ago the story was published
+        var publishedAgo = (now - publishedTime) / 60 // Minutes ago
+        
+        publishedAgo = publishedAgo.toFixed(0)
+        //console.log(publishedAgo)
+        
+        // Replace text element with real-time calculated element 
+        if (publishedAgo < 2) {
+          timeStamps[i].parentElement.childNodes[0].nodeValue = "1 min ago"
+        } else if (publishedAgo < 60) {
+          timeStamps[i].parentElement.childNodes[0].nodeValue = publishedAgo + " mins ago"    
+        } else {
+          timeStamps[i].parentElement.childNodes[0].nodeValue = "1 hour ago"
+        }
+    }
+} 
+
+window.setTimeout(dateLive,1000)
+window.setInterval(dateLive, 60000)
+
+//Failsafe function to show menu in case chartFire does not
+function showMenu() {
+    
+    // Assign variable for section of the page
+    var menuToggle = document.getElementsByClassName('td-header-menu-wrap-full')[0]
+    
+    // In case the chart trigger isn't firing, show the Big Grid
+    menuToggle.style.visibility = 'visible'
+}
+window.setTimeout(showMenu, 350)
+
+/*
+function checkTelegram() {
+    try {
+        var now = (new Date()).getTime()/1000
+        var dismissed = window.localStorage['telegram-dismiss']
+        if(typeof dismissed == "undefined")
+            dismissed = 0
+        if(now-dismissed < 90*86400) {
+            console.log('User dismissed Telegram '+
+                ((now-dismissed)/86400).toFixed(1)+
+                ' days ago.')
+            return
+        }
+        var el = document.getElementById('join-telegram')
+        el.style.top = '52px'
+        var d = document.getElementById('telgram-dismiss')
+        d.addEventListener('click', telegramDismiss, false);
+    } catch(e) {
+        console.error(e)
+    }
+}
+
+function telegramDismiss(event) {
+    window.localStorage['telegram-dismiss'] = (new Date()).getTime()/1000
+    var el = document.getElementById('join-telegram')
+    el.style.top = '-110px'
+    event.preventDefault()
+    return false
+}
+
+window.setTimeout(checkTelegram, 5000)
+*/
+
+</script><link rel='stylesheet' id='disqus-latest-comments-grey-css-css'  href='https://news.bitcoin.com/wp-content/plugins/disqus-latest-comments/css/disqus-latest-comments-grey-css.min.css?ver=1.9.0' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"bitcoincom"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://news.bitcoin.com/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.13'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.13"},"disqusIdentifier":"131648 https:\/\/news.bitcoin.com\/?p=131648","disqusShortname":"bitcoincom","disqusTitle":"Court Orders Telegram to Hand Russia Its Encryption Keys","disqusUrl":"https:\/\/news.bitcoin.com\/court-orders-telegram-hand-russia-encryption-keys\/","postId":"131648"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://news.bitcoin.com/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js?ver=3.0.13'></script>
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js?ver=1.11.1'></script>
+<script type='text/javascript' src='https://news.bitcoin.com/wp-content/plugins/stop-user-enumeration/js/commentauthor.js?ver=4.9.4'></script>
+<script type='text/javascript' src='https://news.bitcoin.com/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=8.0'></script>
+<script type='text/javascript' src='https://news.bitcoin.com/wp-includes/js/comment-reply.min.js?ver=4.9.4'></script>
+<script type='text/javascript' src='https://news.bitcoin.com/wp-includes/js/wp-embed.min.js?ver=4.9.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var alm_localize = {"ajaxurl":"https:\/\/news.bitcoin.com\/wp-admin\/admin-ajax.php","alm_nonce":"a3e9038d21","pluginurl":"https:\/\/news.bitcoin.com\/wp-content\/plugins\/ajax-load-more","scrolltop":"false","ajax_object":{"is_single":true,"is_singular":true}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://news.bitcoin.com/wp-content/plugins/ajax-load-more/core/dist/js/ajax-load-more.min.js?ver=3.3.1'></script>
+<script type='text/javascript' src='https://news.bitcoin.com/wp-content/plugins/ajax-load-more-previous-post/js/alm-previous-post.min.js?ver=1.2.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var disqus_latest_comments_js_settings = {"disqus_minute_ago":"","disqus_minutes_ago":"","disqus_hour_ago":"","disqus_hours_ago":"","disqus_day_ago":"","disqus_days_ago":"","disqus_week_ago":"","disqus_weeks_ago":"","disqus_month_ago":"","disqus_months_ago":"","disqus_year_ago":"","disqus_years_ago":"","disqus_target_blank":"on"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://news.bitcoin.com/wp-content/plugins/disqus-latest-comments/js/disqus-latest-comments-js.min.js?ver=1.9.0'></script>
+
+<!-- JS generated by theme -->
+
+<script>
+    
+
+                jQuery().ready(function jQuery_ready() {
+                    tdAjaxCount.tdGetViewsCountsAjax("post","[131648]");
+                });
+            
+
+	
+
+		(function(){
+			var html_jquery_obj = jQuery('html');
+
+			if (html_jquery_obj.length && (html_jquery_obj.is('.ie8') || html_jquery_obj.is('.ie9'))) {
+
+				var path = 'https://news.bitcoin.com/wp-content/themes/BitcoinNews/style.css';
+
+				jQuery.get(path, function(data) {
+
+					var str_split_separator = '#td_css_split_separator';
+					var arr_splits = data.split(str_split_separator);
+					var arr_length = arr_splits.length;
+
+					if (arr_length > 1) {
+
+						var dir_path = 'https://news.bitcoin.com/wp-content/themes/Newspaper';
+						var splited_css = '';
+
+						for (var i = 0; i < arr_length; i++) {
+							if (i > 0) {
+								arr_splits[i] = str_split_separator + ' ' + arr_splits[i];
+							}
+							//jQuery('head').append('<style>' + arr_splits[i] + '</style>');
+
+							var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) {
+								return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,'');
+							});
+
+							splited_css += "<style>" + formated_str + "</style>";
+						}
+
+						var td_theme_css = jQuery('link#td-theme-css');
+
+						if (td_theme_css.length) {
+							td_theme_css.after(splited_css);
+						}
+					}
+				});
+			}
+		})();
+
+	
+	
+</script>
+
+
+<!-- Header style compiled by theme -->
+
+<style>
+    
+.td-header-wrap .black-menu .sf-menu > .current-menu-item > a,
+    .td-header-wrap .black-menu .sf-menu > .current-menu-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > .current-category-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > li > a:hover,
+    .td-header-wrap .black-menu .sf-menu > .sfHover > a,
+    .td-header-style-12 .td-header-menu-wrap-full,
+    .sf-menu > .current-menu-item > a:after,
+    .sf-menu > .current-menu-ancestor > a:after,
+    .sf-menu > .current-category-ancestor > a:after,
+    .sf-menu > li:hover > a:after,
+    .sf-menu > .sfHover > a:after,
+    .td-header-style-12 .td-affix,
+    .header-search-wrap .td-drop-down-search:after,
+    .header-search-wrap .td-drop-down-search .btn:hover,
+    input[type=submit]:hover,
+    .td-read-more a,
+    .td-post-category:hover,
+    .td-grid-style-1.td-hover-1 .td-big-grid-post:hover .td-post-category,
+    .td-grid-style-5.td-hover-1 .td-big-grid-post:hover .td-post-category,
+    .td_top_authors .td-active .td-author-post-count,
+    .td_top_authors .td-active .td-author-comments-count,
+    .td_top_authors .td_mod_wrap:hover .td-author-post-count,
+    .td_top_authors .td_mod_wrap:hover .td-author-comments-count,
+    .td-404-sub-sub-title a:hover,
+    .td-search-form-widget .wpb_button:hover,
+    .td-rating-bar-wrap div,
+    .td_category_template_3 .td-current-sub-category,
+    .dropcap,
+    .td_wrapper_video_playlist .td_video_controls_playlist_wrapper,
+    .wpb_default,
+    .wpb_default:hover,
+    .td-left-smart-list:hover,
+    .td-right-smart-list:hover,
+    .woocommerce-checkout .woocommerce input.button:hover,
+    .woocommerce-page .woocommerce a.button:hover,
+    .woocommerce-account div.woocommerce .button:hover,
+    #bbpress-forums button:hover,
+    .bbp_widget_login .button:hover,
+    .td-footer-wrapper .td-post-category,
+    .td-footer-wrapper .widget_product_search input[type="submit"]:hover,
+    .woocommerce .product a.button:hover,
+    .woocommerce .product #respond input#submit:hover,
+    .woocommerce .checkout input#place_order:hover,
+    .woocommerce .woocommerce.widget .button:hover,
+    .single-product .product .summary .cart .button:hover,
+    .woocommerce-cart .woocommerce table.cart .button:hover,
+    .woocommerce-cart .woocommerce .shipping-calculator-form .button:hover,
+    .td-next-prev-wrap a:hover,
+    .td-load-more-wrap a:hover,
+    .td-post-small-box a:hover,
+    .page-nav .current,
+    .page-nav:first-child > div,
+    .td_category_template_8 .td-category-header .td-category a.td-current-sub-category,
+    .td_category_template_4 .td-category-siblings .td-category a:hover,
+    #bbpress-forums .bbp-pagination .current,
+    #bbpress-forums #bbp-single-user-details #bbp-user-navigation li.current a,
+    .td-theme-slider:hover .slide-meta-cat a,
+    a.vc_btn-black:hover,
+    .td-trending-now-wrapper:hover .td-trending-now-title,
+    .td-scroll-up,
+    .td-smart-list-button:hover,
+    .td-weather-information:before,
+    .td-weather-week:before,
+    .td_block_exchange .td-exchange-header:before,
+    .td_block_big_grid_9.td-grid-style-1 .td-post-category,
+    .td_block_big_grid_9.td-grid-style-5 .td-post-category,
+    .td-grid-style-6.td-hover-1 .td-module-thumb:after,
+    .td-pulldown-syle-2 .td-subcat-dropdown ul:after,
+    .td_block_template_9 .td-block-title:after,
+    .td_block_template_15 .td-block-title:before {
+        background-color: #fab915;
+    }
+
+    .global-block-template-4 .td-related-title .td-cur-simple-item:before {
+        border-color: #fab915 transparent transparent transparent !important;
+    }
+
+    .woocommerce .woocommerce-message .button:hover,
+    .woocommerce .woocommerce-error .button:hover,
+    .woocommerce .woocommerce-info .button:hover,
+    .global-block-template-4 .td-related-title .td-cur-simple-item,
+    .global-block-template-3 .td-related-title .td-cur-simple-item,
+    .global-block-template-9 .td-related-title:after {
+        background-color: #fab915 !important;
+    }
+
+    .woocommerce .product .onsale,
+    .woocommerce.widget .ui-slider .ui-slider-handle {
+        background: none #fab915;
+    }
+
+    .woocommerce.widget.widget_layered_nav_filters ul li a {
+        background: none repeat scroll 0 0 #fab915 !important;
+    }
+
+    a,
+    cite a:hover,
+    .td_mega_menu_sub_cats .cur-sub-cat,
+    .td-mega-span h3 a:hover,
+    .td_mod_mega_menu:hover .entry-title a,
+    .header-search-wrap .result-msg a:hover,
+    .top-header-menu li a:hover,
+    .top-header-menu .current-menu-item > a,
+    .top-header-menu .current-menu-ancestor > a,
+    .top-header-menu .current-category-ancestor > a,
+    .td-social-icon-wrap > a:hover,
+    .td-header-sp-top-widget .td-social-icon-wrap a:hover,
+    .td-page-content blockquote p,
+    .td-post-content blockquote p,
+    .mce-content-body blockquote p,
+    .comment-content blockquote p,
+    .wpb_text_column blockquote p,
+    .td_block_text_with_title blockquote p,
+    .td_module_wrap:hover .entry-title a,
+    .td-subcat-filter .td-subcat-list a:hover,
+    .td-subcat-filter .td-subcat-dropdown a:hover,
+    .td_quote_on_blocks,
+    .dropcap2,
+    .dropcap3,
+    .td_top_authors .td-active .td-authors-name a,
+    .td_top_authors .td_mod_wrap:hover .td-authors-name a,
+    .td-post-next-prev-content a:hover,
+    .author-box-wrap .td-author-social a:hover,
+    .td-author-name a:hover,
+    .td-author-url a:hover,
+    .td_mod_related_posts:hover h3 > a,
+    .td-post-template-11 .td-related-title .td-related-left:hover,
+    .td-post-template-11 .td-related-title .td-related-right:hover,
+    .td-post-template-11 .td-related-title .td-cur-simple-item,
+    .td-post-template-11 .td_block_related_posts .td-next-prev-wrap a:hover,
+    .comment-reply-link:hover,
+    .logged-in-as a:hover,
+    #cancel-comment-reply-link:hover,
+    .td-search-query,
+    .td-category-header .td-pulldown-category-filter-link:hover,
+    .td-category-siblings .td-subcat-dropdown a:hover,
+    .td-category-siblings .td-subcat-dropdown a.td-current-sub-category,
+    .widget a:hover,
+    .td_wp_recentcomments a:hover,
+    .archive .widget_archive .current,
+    .archive .widget_archive .current a,
+    .widget_calendar tfoot a:hover,
+    .woocommerce a.added_to_cart:hover,
+    .woocommerce-account .woocommerce-MyAccount-navigation a:hover,
+    #bbpress-forums li.bbp-header .bbp-reply-content span a:hover,
+    #bbpress-forums .bbp-forum-freshness a:hover,
+    #bbpress-forums .bbp-topic-freshness a:hover,
+    #bbpress-forums .bbp-forums-list li a:hover,
+    #bbpress-forums .bbp-forum-title:hover,
+    #bbpress-forums .bbp-topic-permalink:hover,
+    #bbpress-forums .bbp-topic-started-by a:hover,
+    #bbpress-forums .bbp-topic-started-in a:hover,
+    #bbpress-forums .bbp-body .super-sticky li.bbp-topic-title .bbp-topic-permalink,
+    #bbpress-forums .bbp-body .sticky li.bbp-topic-title .bbp-topic-permalink,
+    .widget_display_replies .bbp-author-name,
+    .widget_display_topics .bbp-author-name,
+    .footer-text-wrap .footer-email-wrap a,
+    .td-subfooter-menu li a:hover,
+    .footer-social-wrap a:hover,
+    a.vc_btn-black:hover,
+    .td-smart-list-dropdown-wrap .td-smart-list-button:hover,
+    .td_module_17 .td-read-more a:hover,
+    .td_module_18 .td-read-more a:hover,
+    .td_module_19 .td-post-author-name a:hover,
+    .td-instagram-user a,
+    .td-pulldown-syle-2 .td-subcat-dropdown:hover .td-subcat-more span,
+    .td-pulldown-syle-2 .td-subcat-dropdown:hover .td-subcat-more i,
+    .td-pulldown-syle-3 .td-subcat-dropdown:hover .td-subcat-more span,
+    .td-pulldown-syle-3 .td-subcat-dropdown:hover .td-subcat-more i,
+    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option:hover,
+    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option:hover i,
+    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-link:hover,
+    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-item .td-cur-simple-item,
+    .global-block-template-2 .td-related-title .td-cur-simple-item,
+    .global-block-template-5 .td-related-title .td-cur-simple-item,
+    .global-block-template-6 .td-related-title .td-cur-simple-item,
+    .global-block-template-7 .td-related-title .td-cur-simple-item,
+    .global-block-template-8 .td-related-title .td-cur-simple-item,
+    .global-block-template-9 .td-related-title .td-cur-simple-item,
+    .global-block-template-10 .td-related-title .td-cur-simple-item,
+    .global-block-template-11 .td-related-title .td-cur-simple-item,
+    .global-block-template-12 .td-related-title .td-cur-simple-item,
+    .global-block-template-13 .td-related-title .td-cur-simple-item,
+    .global-block-template-14 .td-related-title .td-cur-simple-item,
+    .global-block-template-15 .td-related-title .td-cur-simple-item,
+    .global-block-template-16 .td-related-title .td-cur-simple-item,
+    .global-block-template-17 .td-related-title .td-cur-simple-item,
+    .td-theme-wrap .sf-menu ul .td-menu-item > a:hover,
+    .td-theme-wrap .sf-menu ul .sfHover > a,
+    .td-theme-wrap .sf-menu ul .current-menu-ancestor > a,
+    .td-theme-wrap .sf-menu ul .current-category-ancestor > a,
+    .td-theme-wrap .sf-menu ul .current-menu-item > a,
+     .td_outlined_btn {
+        color: #fab915;
+    }
+
+    a.vc_btn-black.vc_btn_square_outlined:hover,
+    a.vc_btn-black.vc_btn_outlined:hover,
+    .td-mega-menu-page .wpb_content_element ul li a:hover,
+     .td-theme-wrap .td-aj-search-results .td_module_wrap:hover .entry-title a,
+    .td-theme-wrap .header-search-wrap .result-msg a:hover {
+        color: #fab915 !important;
+    }
+
+    .td-next-prev-wrap a:hover,
+    .td-load-more-wrap a:hover,
+    .td-post-small-box a:hover,
+    .page-nav .current,
+    .page-nav:first-child > div,
+    .td_category_template_8 .td-category-header .td-category a.td-current-sub-category,
+    .td_category_template_4 .td-category-siblings .td-category a:hover,
+    #bbpress-forums .bbp-pagination .current,
+    .post .td_quote_box,
+    .page .td_quote_box,
+    a.vc_btn-black:hover,
+    .td_block_template_5 .td-block-title > *,
+     .td_outlined_btn {
+        border-color: #fab915;
+    }
+
+    .td_wrapper_video_playlist .td_video_currently_playing:after {
+        border-color: #fab915 !important;
+    }
+
+    .header-search-wrap .td-drop-down-search:before {
+        border-color: transparent transparent #fab915 transparent;
+    }
+
+    .block-title > span,
+    .block-title > a,
+    .block-title > label,
+    .widgettitle,
+    .widgettitle:after,
+    .td-trending-now-title,
+    .td-trending-now-wrapper:hover .td-trending-now-title,
+    .wpb_tabs li.ui-tabs-active a,
+    .wpb_tabs li:hover a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab.vc_active > a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab:hover > a,
+    .td_block_template_1 .td-related-title .td-cur-simple-item,
+    .woocommerce .product .products h2:not(.woocommerce-loop-product__title),
+    .td-subcat-filter .td-subcat-dropdown:hover .td-subcat-more, 
+     .td_3D_btn,
+    .td_shadow_btn,
+    .td_default_btn,
+    .td_round_btn, 
+    .td_outlined_btn:hover {
+    	background-color: #fab915;
+    }
+
+    .woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+    	background-color: #fab915 !important;
+    }
+
+    .block-title,
+    .td_block_template_1 .td-related-title,
+    .wpb_tabs .wpb_tabs_nav,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container,
+    .woocommerce div.product .woocommerce-tabs ul.tabs:before {
+        border-color: #fab915;
+    }
+    .td_block_wrap .td-subcat-item a.td-cur-simple-item {
+	    color: #fab915;
+	}
+
+
+    
+    .td-grid-style-4 .entry-title
+    {
+        background-color: rgba(250, 185, 21, 0.7);
+    }
+
+    
+    .td-theme-wrap .block-title > span,
+    .td-theme-wrap .block-title > span > a,
+    .td-theme-wrap .widget_rss .block-title .rsswidget,
+    .td-theme-wrap .block-title > a,
+    .widgettitle,
+    .widgettitle > a,
+    .td-trending-now-title,
+    .wpb_tabs li.ui-tabs-active a,
+    .wpb_tabs li:hover a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab.vc_active > a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab:hover > a,
+    .td-related-title .td-cur-simple-item,
+    .woocommerce div.product .woocommerce-tabs ul.tabs li.active,
+    .woocommerce .product .products h2:not(.woocommerce-loop-product__title),
+    .td-theme-wrap .td_block_template_2 .td-block-title > *,
+    .td-theme-wrap .td_block_template_3 .td-block-title > *,
+    .td-theme-wrap .td_block_template_4 .td-block-title > *,
+    .td-theme-wrap .td_block_template_5 .td-block-title > *,
+    .td-theme-wrap .td_block_template_6 .td-block-title > *,
+    .td-theme-wrap .td_block_template_6 .td-block-title:before,
+    .td-theme-wrap .td_block_template_7 .td-block-title > *,
+    .td-theme-wrap .td_block_template_8 .td-block-title > *,
+    .td-theme-wrap .td_block_template_9 .td-block-title > *,
+    .td-theme-wrap .td_block_template_10 .td-block-title > *,
+    .td-theme-wrap .td_block_template_11 .td-block-title > *,
+    .td-theme-wrap .td_block_template_12 .td-block-title > *,
+    .td-theme-wrap .td_block_template_13 .td-block-title > span,
+    .td-theme-wrap .td_block_template_13 .td-block-title > a,
+    .td-theme-wrap .td_block_template_14 .td-block-title > *,
+    .td-theme-wrap .td_block_template_14 .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option,
+    .td-theme-wrap .td_block_template_14 .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option i,
+    .td-theme-wrap .td_block_template_14 .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option:hover,
+    .td-theme-wrap .td_block_template_14 .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option:hover i,
+    .td-theme-wrap .td_block_template_15 .td-block-title > *,
+    .td-theme-wrap .td_block_template_15 .td-block-title-wrap .td-wrapper-pulldown-filter,
+    .td-theme-wrap .td_block_template_15 .td-block-title-wrap .td-wrapper-pulldown-filter i,
+    .td-theme-wrap .td_block_template_16 .td-block-title > *,
+    .td-theme-wrap .td_block_template_17 .td-block-title > * {
+    	color: #222222;
+    }
+
+
+    
+    .td-header-wrap .td-header-top-menu-full,
+    .td-header-wrap .top-header-menu .sub-menu {
+        background-color: #f9f9f9;
+    }
+    .td-header-style-8 .td-header-top-menu-full {
+        background-color: transparent;
+    }
+    .td-header-style-8 .td-header-top-menu-full .td-header-top-menu {
+        background-color: #f9f9f9;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .td-header-wrap .td-header-top-menu-full .td-header-top-menu,
+    .td-header-wrap .td-header-top-menu-full {
+        border-bottom: none;
+    }
+
+
+    
+    .td-header-top-menu,
+    .td-header-top-menu a,
+    .td-header-wrap .td-header-top-menu-full .td-header-top-menu,
+    .td-header-wrap .td-header-top-menu-full a,
+    .td-header-style-8 .td-header-top-menu,
+    .td-header-style-8 .td-header-top-menu a {
+        color: #2f2f2f;
+    }
+
+    
+    .top-header-menu .current-menu-item > a,
+    .top-header-menu .current-menu-ancestor > a,
+    .top-header-menu .current-category-ancestor > a,
+    .top-header-menu li a:hover {
+        color: #009688;
+    }
+
+    
+    .td-header-wrap .td-header-sp-top-widget .td-icon-font {
+        color: #2f2f2f;
+    }
+
+    
+    .td-header-wrap .td-header-sp-top-widget i.td-icon-font:hover {
+        color: #009688;
+    }
+
+
+    
+    .td-header-wrap .td-header-menu-wrap-full,
+    .sf-menu > .current-menu-ancestor > a,
+    .sf-menu > .current-category-ancestor > a,
+    .td-header-menu-wrap.td-affix,
+    .td-header-style-3 .td-header-main-menu,
+    .td-header-style-3 .td-affix .td-header-main-menu,
+    .td-header-style-4 .td-header-main-menu,
+    .td-header-style-4 .td-affix .td-header-main-menu,
+    .td-header-style-8 .td-header-menu-wrap.td-affix,
+    .td-header-style-8 .td-header-top-menu-full {
+		background-color: #303030;
+    }
+
+
+    .td-boxed-layout .td-header-style-3 .td-header-menu-wrap,
+    .td-boxed-layout .td-header-style-4 .td-header-menu-wrap,
+    .td-header-style-3 .td_stretch_content .td-header-menu-wrap,
+    .td-header-style-4 .td_stretch_content .td-header-menu-wrap {
+    	background-color: #303030 !important;
+    }
+
+
+    @media (min-width: 1019px) {
+        .td-header-style-1 .td-header-sp-recs,
+        .td-header-style-1 .td-header-sp-logo {
+            margin-bottom: 28px;
+        }
+    }
+
+    @media (min-width: 768px) and (max-width: 1018px) {
+        .td-header-style-1 .td-header-sp-recs,
+        .td-header-style-1 .td-header-sp-logo {
+            margin-bottom: 14px;
+        }
+    }
+
+    .td-header-style-7 .td-header-top-menu {
+        border-bottom: none;
+    }
+
+
+    
+    .sf-menu > .current-menu-item > a:after,
+    .sf-menu > .current-menu-ancestor > a:after,
+    .sf-menu > .current-category-ancestor > a:after,
+    .sf-menu > li:hover > a:after,
+    .sf-menu > .sfHover > a:after,
+    .td_block_mega_menu .td-next-prev-wrap a:hover,
+    .td-mega-span .td-post-category:hover,
+    .td-header-wrap .black-menu .sf-menu > li > a:hover,
+    .td-header-wrap .black-menu .sf-menu > .current-menu-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > .sfHover > a,
+    .header-search-wrap .td-drop-down-search:after,
+    .header-search-wrap .td-drop-down-search .btn:hover,
+    .td-header-wrap .black-menu .sf-menu > .current-menu-item > a,
+    .td-header-wrap .black-menu .sf-menu > .current-menu-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > .current-category-ancestor > a {
+        background-color: #020000;
+    }
+
+
+    .td_block_mega_menu .td-next-prev-wrap a:hover {
+        border-color: #020000;
+    }
+
+    .header-search-wrap .td-drop-down-search:before {
+        border-color: transparent transparent #020000 transparent;
+    }
+
+    .td_mega_menu_sub_cats .cur-sub-cat,
+    .td_mod_mega_menu:hover .entry-title a,
+    .td-theme-wrap .sf-menu ul .td-menu-item > a:hover,
+    .td-theme-wrap .sf-menu ul .sfHover > a,
+    .td-theme-wrap .sf-menu ul .current-menu-ancestor > a,
+    .td-theme-wrap .sf-menu ul .current-category-ancestor > a,
+    .td-theme-wrap .sf-menu ul .current-menu-item > a {
+        color: #020000;
+    }
+
+
+    
+    .td-header-wrap .td-header-menu-wrap .sf-menu > li > a,
+    .td-header-wrap .header-search-wrap .td-icon-search {
+        color: #efefef;
+    }
+
+    
+    .td-theme-wrap .sf-menu .td-normal-menu .td-menu-item > a:hover,
+    .td-theme-wrap .sf-menu .td-normal-menu .sfHover > a,
+    .td-theme-wrap .sf-menu .td-normal-menu .current-menu-ancestor > a,
+    .td-theme-wrap .sf-menu .td-normal-menu .current-category-ancestor > a,
+    .td-theme-wrap .sf-menu .td-normal-menu .current-menu-item > a {
+        color: #009688;
+    }
+
+    
+    .td-menu-background:before,
+    .td-search-background:before {
+        background: rgba(250,185,21,0.7);
+        background: -moz-linear-gradient(top, rgba(250,185,21,0.7) 0%, #000000 100%);
+        background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(250,185,21,0.7)), color-stop(100%, #000000));
+        background: -webkit-linear-gradient(top, rgba(250,185,21,0.7) 0%, #000000 100%);
+        background: -o-linear-gradient(top, rgba(250,185,21,0.7) 0%, @mobileu_gradient_two_mob 100%);
+        background: -ms-linear-gradient(top, rgba(250,185,21,0.7) 0%, #000000 100%);
+        background: linear-gradient(to bottom, rgba(250,185,21,0.7) 0%, #000000 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='rgba(250,185,21,0.7)', endColorstr='#000000', GradientType=0 );
+    }
+
+    
+    .td-mobile-content .current-menu-item > a,
+    .td-mobile-content .current-menu-ancestor > a,
+    .td-mobile-content .current-category-ancestor > a,
+    #td-mobile-nav .td-menu-login-section a:hover,
+    #td-mobile-nav .td-register-section a:hover,
+    #td-mobile-nav .td-menu-socials-wrap a:hover i,
+    .td-search-close a:hover i {
+        color: #fab915;
+    }
+
+    
+    .td-footer-wrapper::before {
+        background-size: cover;
+    }
+
+    
+    .td-footer-wrapper::before {
+        background-position: center center;
+    }
+
+    
+    .td-footer-wrapper::before {
+        opacity: 0.6;
+    }
+
+
+
+    
+    .top-header-menu > li > a,
+    .td-weather-top-widget .td-weather-now .td-big-degrees,
+    .td-weather-top-widget .td-weather-header .td-weather-city,
+    .td-header-sp-top-menu .td_data_time {
+        line-height:27px;
+	
+    }
+    
+    ul.sf-menu > .td-menu-item > a {
+        font-size:15px;
+	line-height:36px;
+	font-weight:normal;
+	text-transform:none;
+	
+    }
+    
+    .block-title > span,
+    .block-title > a,
+    .widgettitle,
+    .td-trending-now-title,
+    .wpb_tabs li a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab > a,
+    .td-theme-wrap .td-related-title a,
+    .woocommerce div.product .woocommerce-tabs ul.tabs li a,
+    .woocommerce .product .products h2:not(.woocommerce-loop-product__title),
+    .td-theme-wrap .td-block-title {
+        font-size:15px;
+	line-height:20px;
+	text-transform:uppercase;
+	
+    }
+    
+    .td-theme-wrap .td-subcat-filter,
+    .td-theme-wrap .td-subcat-filter .td-subcat-dropdown,
+    .td-theme-wrap .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option,
+    .td-theme-wrap .td-pulldown-category {
+        line-height: 20px;
+    }
+    .td_block_template_1 .block-title > * {
+        padding-bottom: 0;
+        padding-top: 0;
+    }
+    
+    .td-big-grid-meta .td-post-category,
+    .td_module_wrap .td-post-category,
+    .td-module-image .td-post-category {
+        font-size:16px;
+	line-height:28px;
+	
+    }
+    
+    .td-subcat-filter .td-subcat-dropdown a,
+    .td-subcat-filter .td-subcat-list a,
+    .td-subcat-filter .td-subcat-dropdown span {
+        font-size:20px;
+	
+    }
+    
+    .td-excerpt {
+        font-size:20px;
+	line-height:26px;
+	
+    }
+
+
+	
+    .td_module_4 .td-module-title {
+    	font-size:32px;
+	line-height:35px;
+	
+    }
+    
+    .td_module_6 .td-module-title {
+    	font-size:22px;
+	line-height:25px;
+	
+    }
+    
+    .td_module_8 .td-module-title {
+    	font-size:22px;
+	line-height:30px;
+	
+    }
+    
+    .td_module_mx16 .td-module-title a {
+    	font-size:18px;
+	line-height:28px;
+	
+    }
+    
+    .td-big-grid-post.td-small-thumb .td-big-grid-meta,
+    .td-small-thumb .td-big-grid-meta .entry-title {
+        font-size:32px;
+	line-height:36px;
+	
+    }
+    
+    .td-post-template-default .td-post-header .entry-title {
+        font-size:33px;
+	
+    }
+    
+    .td-post-content p,
+    .td-post-content {
+        font-size:18px;
+	line-height:28px;
+	
+    }
+    
+    .post blockquote p,
+    .page blockquote p,
+    .td-post-text-content blockquote p {
+        font-size:18px;
+	line-height:28px;
+	
+    }
+    
+    .post .td_pull_quote p,
+    .page .td_pull_quote p {
+        font-size:22px;
+	line-height:32px;
+	
+    }
+    
+    .post header .td-post-author-name,
+    .post header .td-post-author-name a {
+        font-size:13px;
+	
+    }
+    
+    .post header .td-post-date .entry-date {
+        font-size:13px;
+	
+    }
+    
+    .post header .td-post-views span,
+    .post header .td-post-comments {
+        font-size:13px;
+	
+    }
+    
+    .post .td-post-source-tags a,
+    .post .td-post-source-tags span {
+        text-transform:uppercase;
+	
+    }
+    
+    body, p {
+    	font-size:16px;
+	line-height:22px;
+	
+    }
+
+
+
+
+    
+    .top-header-menu > li,
+    .td-header-sp-top-menu,
+    #td-outer-wrap .td-header-sp-top-widget {
+        line-height: 27px;
+    }
+
+    
+    @media (min-width: 768px) {
+        #td-header-menu {
+            min-height: 36px !important;
+        }
+        .td-header-style-4 .td-main-menu-logo img,
+        .td-header-style-5 .td-main-menu-logo img,
+        .td-header-style-6 .td-main-menu-logo img,
+        .td-header-style-7 .td-header-sp-logo img,
+        .td-header-style-12 .td-main-menu-logo img {
+            max-height: 36px;
+        }
+        .td-header-style-4 .td-main-menu-logo,
+        .td-header-style-5 .td-main-menu-logo,
+        .td-header-style-6 .td-main-menu-logo,
+        .td-header-style-7 .td-header-sp-logo,
+        .td-header-style-12 .td-main-menu-logo {
+            height: 36px;
+        }
+        .td-header-style-4 .td-main-menu-logo a,
+        .td-header-style-5 .td-main-menu-logo a,
+        .td-header-style-6 .td-main-menu-logo a,
+        .td-header-style-7 .td-header-sp-logo a,
+        .td-header-style-7 .td-header-sp-logo img,
+        .td-header-style-7 .header-search-wrap .td-icon-search,
+        .td-header-style-12 .td-main-menu-logo a,
+        .td-header-style-12 .td-header-menu-wrap .sf-menu > li > a {
+            line-height: 36px;
+        }
+        .td-header-style-7 .sf-menu {
+            margin-top: 0;
+        }
+        .td-header-style-7 #td-top-search {
+            top: 0;
+            bottom: 0;
+        }
+    }
+</style>
+
+
+</body>
+</html>
+<!-- Dynamic page generated in 0.322 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2018-03-20 21:07:15 -->
+
+<!-- Compression = gzip -->

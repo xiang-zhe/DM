@@ -1,0 +1,797 @@
+
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">	
+	<title>Vodafone Closes Deal With China Mobile In IoT Focused Partnership  - Temporal Eternity</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://temporaleternity.com/2018/03/20/vodafone-closes-deal-with-china-mobile-in-iot-focused-partnership/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Vodafone Closes Deal With China Mobile In IoT Focused Partnership  - Temporal Eternity" />
+<meta property="og:description" content="According to a recent announcement by the British telecommunication titan, Vodafone is partnering for the first time with their Chinese counterpart China Mobile in order to upscale their Internet Of Things (IoT) position. Disrupting technologies like distributed ledger technology (DLT), and/or blockchain-based platforms are the most popular &#8220;rock-stars&#8221; in the field of cutting-edge tech nowadays. &hellip;" />
+<meta property="og:url" content="https://temporaleternity.com/2018/03/20/vodafone-closes-deal-with-china-mobile-in-iot-focused-partnership/" />
+<meta property="og:site_name" content="Temporal Eternity" />
+<meta property="article:publisher" content="https://web.facebook.com/Temporal-Eternity-429879780779393" />
+<meta property="article:tag" content="business" />
+<meta property="article:tag" content="china mobile" />
+<meta property="article:tag" content="deal" />
+<meta property="article:tag" content="iot" />
+<meta property="article:tag" content="vodafone" />
+<meta property="article:section" content="Technology" />
+<meta property="article:published_time" content="2018-03-20T11:40:00+00:00" />
+<meta property="article:modified_time" content="2018-03-20T11:40:22+00:00" />
+<meta property="og:updated_time" content="2018-03-20T11:40:22+00:00" />
+<meta property="og:image" content="https://temporaleternity.com/wp-content/uploads/2018/03/vodafone.jpg" />
+<meta property="og:image:secure_url" content="https://temporaleternity.com/wp-content/uploads/2018/03/vodafone.jpg" />
+<meta property="og:image:width" content="3500" />
+<meta property="og:image:height" content="2348" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="According to a recent announcement by the British telecommunication titan, Vodafone is partnering for the first time with their Chinese counterpart China Mobile in order to upscale their Internet Of Things (IoT) position. Disrupting technologies like distributed ledger technology (DLT), and/or blockchain-based platforms are the most popular &#8220;rock-stars&#8221; in the field of cutting-edge tech nowadays. [&hellip;]" />
+<meta name="twitter:title" content="Vodafone Closes Deal With China Mobile In IoT Focused Partnership  - Temporal Eternity" />
+<meta name="twitter:site" content="@TemporalNews" />
+<meta name="twitter:image" content="https://temporaleternity.com/wp-content/uploads/2018/03/vodafone.jpg" />
+<meta name="twitter:creator" content="@TemporalNews" />
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/temporaleternity.com\/","sameAs":["https:\/\/web.facebook.com\/Temporal-Eternity-429879780779393","http:\/\/instagram.com\/temporal.eternity","https:\/\/www.youtube.com\/channel\/UCmk3G8XgIxhjvqFKkyPxLUw","https:\/\/twitter.com\/TemporalNews"],"@id":"#organization","name":"Temporal Eternity","logo":"https:\/\/temporaleternity.com\/wp-content\/uploads\/2018\/01\/logo_size_invert-twitter.jpg"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Temporal Eternity &raquo; Feed" href="https://temporaleternity.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Temporal Eternity &raquo; Comments Feed" href="https://temporaleternity.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Temporal Eternity &raquo; Vodafone Closes Deal With China Mobile In IoT Focused Partnership  Comments Feed" href="https://temporaleternity.com/2018/03/20/vodafone-closes-deal-with-china-mobile-in-iot-focused-partnership/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/temporaleternity.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.4"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='magone-style-css'  href='https://temporaleternity.com/wp-content/themes/magone/style.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='magone-responsive-css'  href='https://temporaleternity.com/wp-content/themes/magone/assets/css/responsive.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='magone-print-css'  href='https://temporaleternity.com/wp-content/themes/magone/assets/css/print.css?ver=5.6' type='text/css' media='print' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='magone-ie-8-css'  href='https://temporaleternity.com/wp-content/themes/magone/assets/css/ie-8.css?ver=5.6' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='magone-ie-9-css'  href='https://temporaleternity.com/wp-content/themes/magone/assets/css/ie-9.css?ver=5.6' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='dashicons-css'  href='https://temporaleternity.com/wp-includes/css/dashicons.min.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='https://temporaleternity.com/wp-includes/js/thickbox/thickbox.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='sneeit-font-awesome-css'  href='https://temporaleternity.com/wp-content/plugins/sneeit-framework/fonts/font-awesome/css/font-awesome.min.css?ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='newsletter-subscription-css'  href='https://temporaleternity.com/wp-content/plugins/newsletter/subscription/style.css?ver=5.2.7' type='text/css' media='all' />
+<script type='text/javascript' src='https://temporaleternity.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://temporaleternity.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://temporaleternity.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://temporaleternity.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://temporaleternity.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.4" />
+<link rel='shortlink' href='https://temporaleternity.com/?p=196' />
+<link rel="alternate" type="application/json+oembed" href="https://temporaleternity.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftemporaleternity.com%2F2018%2F03%2F20%2Fvodafone-closes-deal-with-china-mobile-in-iot-focused-partnership%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://temporaleternity.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftemporaleternity.com%2F2018%2F03%2F20%2Fvodafone-closes-deal-with-china-mobile-in-iot-focused-partnership%2F&#038;format=xml" />
+<!--[if lt IE 9]><script src="https://temporaleternity.com/wp-content/plugins/sneeit-framework/js/html5.js"></script><![endif]--><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7044441133018958",
+    enable_page_level_ads: true
+  });
+</script><meta name="theme-color" content="#0013ea" />		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<link rel="icon" href="https://temporaleternity.com/wp-content/uploads/2018/01/cropped-logo_size_invert-twitter-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://temporaleternity.com/wp-content/uploads/2018/01/cropped-logo_size_invert-twitter-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://temporaleternity.com/wp-content/uploads/2018/01/cropped-logo_size_invert-twitter-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://temporaleternity.com/wp-content/uploads/2018/01/cropped-logo_size_invert-twitter-270x270.jpg" />
+<style type="text/css">.m1-wrapper{width:1010px}.header-layout-logo-mid .td .blog-title, .header-layout-logo-top .td .blog-title{max-width:242px!important}#content{width:69%}.main-sidebar{width:31%}a,a:hover,.color,.slider-item .meta-item .fa, .shortcode-tab ul.tab-header li a, .shortcode-vtab ul.tab-header li a, .shortcode-tab.ui-tabs ul.tab-header.ui-tabs-nav .ui-tabs-anchor, .shortcode-vtab.ui-tabs ul.tab-header.ui-tabs-nav .ui-tabs-anchor, .shortcode-accordion .ui-state-default .accordion-title {color: #0013ea;}.border {border-color: #0013ea;}.bg {background-color: #0013ea;}.main-menu {border-top: 1px solid #0013ea;}.main-menu ul.sub-menu li:hover > a {border-left: 2px solid #0013ea;}.main-menu .menu-item-mega > .menu-item-inner > .sub-menu {border-top: 2px solid #0013ea;}.main-menu .menu-item-mega > .menu-item-inner > .sub-menu > li li:hover a {border-left: 1px solid #0013ea;}.main-menu ul.sub-menu li:hover > a, .main-menu .menu-item-mega > .menu-item-inner > .sub-menu, .main-menu .menu-item-mega > .menu-item-inner > .sub-menu > li li:hover a {border-color: #0013ea!important;}.header-social-icons ul li a:hover {color: #0013ea;}.owl-dot.active,.main-sidebar .widget.follow-by-email .follow-by-email-submit {background: #0013ea;}#footer .widget.social_icons li a:hover {color: #0013ea;}#footer .follow-by-email .follow-by-email-submit, #mc_embed_signup .button, .wpcf7-form-control[type="submit"], .bbpress [type="submit"] {background: #0013ea!important;}.feed.widget .feed-widget-header, .sneeit-percent-fill, .sneeit-percent-mask {border-color: #0013ea;}.feed.widget.box-title h2.widget-title {background: #0013ea;}.social_counter {color: #0013ea}.social_counter .button {background: #0013ea}body{color:#000000}body{background-color:#f4f4f4}.m1-wrapper, a.comments-title.active{background:#f4f4f4}.header-bg {background-color:#ffffff;}#header-content, #header-content span, #header-content a {color: #0013ea}.top-menu > ul.menu > li > a{color:#777}.top-menu > ul.menu > li:hover > a{color:#000000}.top-menu > ul.menu > li > a{font:normal normal 12px "Roboto", sans-serif}.main-menu ul.menu > li > a{color:#5b5b5b}.main-menu ul.menu > li:hover > a{color:#0a0a0a}.main-menu ul.menu > li:hover > a{background:#ffe8db}.main-menu {background:#ffffff}.main-menu ul.menu > li.current-menu-item > a {background: #ffbc96}.main-menu ul.menu > li.current-menu-item > a {color:#ffffff}.main-menu > ul.menu > li > a{font:normal normal 13px "Roboto", sans-serif}.main-menu ul.menu li ul.sub-menu li > a{color:#cccccc}.main-menu ul.menu li ul.sub-menu li:hover > a{color:#ffffff}.main-menu ul.sub-menu,.main-menu .menu-item-mega-label .menu-item-inner{background:#333}body{background-attachment:scroll}body{font:normal normal 14px "Roboto", sans-serif}h1.post-title{font:normal normal 40px "Roboto", sans-serif}h1.post-title {color:#000}.post-sub-title-wrapper h2 {font:normal bold 20px "Roboto", sans-serif}.post-sub-title-wrapper h2 {color:#000}.post-body .post-body-inner {font:normal normal 14px "Roboto", sans-serif}.feed-widget-header .widget-title{font:normal normal 20px "Roboto", sans-serif}.feed.widget h3.item-title {font-family:"Roboto", sans-serif}.main-sidebar .widget > h2, .main-sidebar .feed-widget-header, .main-sidebar .feed-widget-header h2{font:normal normal 14px "Roboto", sans-serif}.blog-title img {width: 272px}.blog-title img {height: 108px}@media screen and (max-width: 899px) {.blog-title img {width: 170px}}@media screen and (max-width: 899px) {.blog-title img {height: 68px}}</style></head>
+
+<body class="post-template-default single single-post postid-196 single-format-standard item sidebar-right solid-menu">
+
+<div class="m1-wrapper">
+	<div class="wide">
+				<header id="header" class="header-layout-default">
+						
+<div class="clear"></div>							
+<div class="section shad header-bg" id="header-section">
+	<div class="widget header no-title" id="header-content">
+		<a id="main-menu-toggle" class="main-menu-toggle header-button toggle-button active">
+	<span class="inner">
+		<i class="fa fa-bars color"></i> 
+		<span>MENU</span>
+	</span>
+	<span class="arrow border"></span>
+</a>
+<a id="main-menu-toggle-mobile" class="main-menu-toggle header-button toggle-button mobile">
+	<span class="inner">
+		<i class="fa fa-bars color"></i> 
+		<span>MENU</span>
+	</span>
+	<span class="arrow border"></span>
+</a>
+		<h2 class="blog-title"><a href="https://temporaleternity.com" title="Temporal Eternity"><img width="76.005961251863" height="30" alt="Temporal Eternity" src="https://temporaleternity.com/wp-content/uploads/2018/01/logo_transparent_background.png" data-retina=""/></a></h2>
+	<a class='header-button' id='search-toggle' href="javascript:void(0)">
+	<span class='inner'>
+		<span>SEARCH</span> <i class='fa fa-search color'></i>
+	</span>
+</a>
+		
+									
+							
+		<div class="header-social-icons">						
+			<ul>
+							<li><a href="https://web.facebook.com/Temporal-Eternity-429879780779393" title="facebook" class="social-icon facebook" target="_blank"><i class="fa fa-facebook"></i></a></li>
+							<li><a href="https://plus.google.com/105386359120315559874" title="google-plus" class="social-icon google-plus" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+							<li><a href="http://instagram.com/temporal.eternity" title="instagram" class="social-icon instagram" target="_blank"><i class="fa fa-instagram"></i></a></li>
+							<li><a href="https://twitter.com/TemporalNews" title="twitter" class="social-icon twitter" target="_blank"><i class="fa fa-twitter"></i></a></li>
+							<li><a href="https://www.youtube.com/channel/UCmk3G8XgIxhjvqFKkyPxLUw" title="youtube" class="social-icon youtube" target="_blank"><i class="fa fa-youtube"></i></a></li>
+						</ul>
+			<div class="clear"></div>
+		</div>
+								
+		<div class="clear"></div>
+	</div><!-- #header-content -->
+
+	<div class="widget page-list menu pagelist main-menu no-title" id="main-menu"><ul id="menu-menu" class="menu"><li id="menu-item-59" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-59"><a href="https://temporaleternity.com">Home</a>
+<ul class="sub-menu">
+	<li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62"><a href="https://temporaleternity.com/about/">About</a></li>
+	<li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="https://temporaleternity.com/contact/">Contact</a></li>
+	<li id="menu-item-184" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-184"><a href="https://temporaleternity.com/advertise/">Advertise</a></li>
+</ul>
+</li>
+<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a href="https://temporaleternity.com/fintech/">Fintech</a></li>
+<li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108 menu-item-mega menu-item-mega-link"><a href="https://temporaleternity.com/global-news/">Global News</a></li>
+<li id="menu-item-188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="https://temporaleternity.com/technology/">Technology</a></li>
+<li id="menu-item-187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-187"><a href="https://temporaleternity.com/politics/">Politics</a></li>
+<li id="menu-item-141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141"><a href="https://temporaleternity.com/sciences-philosophy/">Sciences &#038; Philosophy</a></li>
+<li id="menu-item-128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128"><a href="https://temporaleternity.com/lifestyle-arts/">Lifestyle &#038; Arts</a></li>
+</ul><div class="clear"></div><!--!important-->
+</div>
+	<div class="clear"></div>
+</div> <!-- #header-section -->
+
+
+
+			
+			<div class="clear"></div>
+						
+<div class="clear"></div>		</header>
+				<div class="clear"></div>
+		<div id='primary'>
+			<div id='content'><div class="content-inner">
+							
+<div class="clear"></div>							
+	<div class="widget content-scroll no-title">
+	<div class="blog-posts hfeed">
+					<div class="post-outer">
+				<div id="post-196" class="post-196 post type-post status-publish format-standard has-post-thumbnail hentry category-internet-of-things category-technology category-telecommunication tag-business tag-china-mobile tag-deal tag-iot tag-vodafone" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+					<div class="post-header">
+						<a name="196" class="post-id" data-id="196"></a>
+						
+												
+						
+													<div class="post-breadcrumb"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://temporaleternity.com" itemprop="url" class="breadcrumb-item"><span itemprop="title" class="breadcrumb-item-text">Home</span></a></span><span><i class="fa fa-angle-right"></i></span><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://temporaleternity.com/category/technology/" itemprop="url" class="breadcrumb-item"><span itemprop="title" class="breadcrumb-item-text">Technology</span></a></span><span><i class="fa fa-angle-right"></i></span><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://temporaleternity.com/category/technology/telecommunication/" itemprop="url" class="breadcrumb-item"><span itemprop="title" class="breadcrumb-item-text">Telecommunication</span></a></span></div>
+										
+
+													
+						<h1 class="post-title entry-title" itemprop="name headline">Vodafone Closes Deal With China Mobile In IoT Focused Partnership </h1>							
+
+																			
+						
+													<div class="header-post-sharing-buttons">
+								<div class='post-section post-share-buttons'>
+	<h4 class='post-section-title'>
+		<i class="fa fa-share-alt"></i> 	</h4>
+	<div class='post-share-buttons-holder'>
+				<!--[if !IE]> -->
+				<script type="text/javascript">var addthis_config = addthis_config||{};addthis_config.data_track_addressbar = false;addthis_config.data_track_clickback = false;</script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f98ab455ea4fbd4" async="async"></script><div class="addthis_sharing_toolbox"></div>
+				
+		<!-- <![endif]-->
+		
+		
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="clear"></div>							</div>
+							<div class="clear"></div>
+												
+
+						<!-- meta data for post -->
+													<div class="post-meta-wrapper">
+								<a class="author post-meta post-meta-author vcard" href="https://temporaleternity.com/author/admin/" rel="author" title="Ross Peili" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+	<i class="fa fa-pencil-square-o"></i>		<span class="fn" itemprop="name">Ross Peili</span>
+</a>
+<a class="post-meta post-meta-comments" href="#comments"><i class="fa fa-comment-o"></i> 0</a>	<a class="entry-date published post-meta post-meta-date timestamp-link" href="https://temporaleternity.com/2018/03/20/vodafone-closes-deal-with-china-mobile-in-iot-focused-partnership/" rel="bookmark" title="2018-03-20T11:40:22+00:00>
+		<i class="fa fa-clock-o"></i>
+	<abbr class="updated" itemprop="datePublished" title="March 20, 2018 11:40 am">
+			<span class="value">
+				March 20, 2018 11:40 am			</span>
+		</abbr>
+	</a>
+		<span class="views post-meta post-meta-views" >
+			<i class="fa fa-eye"></i>  
+			<span>189</span>
+		</span>
+								</div>
+												
+						<p class="post-feature-media-wrapper">
+	<img width="3500" height="2348" src="https://temporaleternity.com/wp-content/uploads/2018/03/vodafone.jpg" class="attachment-full size-full wp-post-image" alt="Vodafone Closes Deal With China Mobile In IoT Focused Partnership " title="Vodafone Closes Deal With China Mobile In IoT Focused Partnership " srcset="https://temporaleternity.com/wp-content/uploads/2018/03/vodafone.jpg 3500w, https://temporaleternity.com/wp-content/uploads/2018/03/vodafone-250x168.jpg 250w, https://temporaleternity.com/wp-content/uploads/2018/03/vodafone-400x268.jpg 400w, https://temporaleternity.com/wp-content/uploads/2018/03/vodafone-768x515.jpg 768w, https://temporaleternity.com/wp-content/uploads/2018/03/vodafone-650x436.jpg 650w, https://temporaleternity.com/wp-content/uploads/2018/03/vodafone-150x101.jpg 150w, https://temporaleternity.com/wp-content/uploads/2018/03/vodafone-800x537.jpg 800w, https://temporaleternity.com/wp-content/uploads/2018/03/vodafone-1200x805.jpg 1200w, https://temporaleternity.com/wp-content/uploads/2018/03/vodafone-1600x1073.jpg 1600w" sizes="(max-width: 3500px) 100vw, 3500px" /></p>
+
+
+
+					</div><!-- end post-header -->
+										<div class="post-body entry-content content-template wide-right" id="post-body-196" itemprop="articleBody">
+												
+																		<div class="post-right">
+														
+							<div class="post-break-links"><div class="post-break-link"><i class="fa fa-angle-right"></i> <a title="SWIFT System Compromised By Hackers Multiple Times During The Last Year" href="https://temporaleternity.com/2018/02/18/swift-system-compromissed-hackers-multiple-times-last-year/">SWIFT System Compromised By Hackers Multiple Times During The Last Year</a></div><div class="post-break-link"><i class="fa fa-angle-right"></i> <a title="IBM&#8217;s &#8220;World&#8217;s Smallest Computer&#8221; Tailored For Blockchain" href="https://temporaleternity.com/2018/03/19/ibm-new-worlds-smallest-computer-tailored-for-blockchain/">IBM&#8217;s &#8220;World&#8217;s Smallest Computer&#8221; Tailored For Blockchain</a></div><div class="post-break-link"><i class="fa fa-angle-right"></i> <a title="Google To Aquire Xively In Order To Upscale Its IoT Position" href="https://temporaleternity.com/2018/02/17/google-aquire-xively-order-upscale-iot-position/">Google To Aquire Xively In Order To Upscale Its IoT Position</a></div></div>						</div>
+																		
+						<div class="post-body-inner"><p>According to a recent announcement by the British telecommunication titan, <strong>Vodafone</strong> is partnering for the first time with their Chinese counterpart <strong>China Mobile</strong> in order to upscale their Internet Of Things (IoT) position.</p>
+<p>Disrupting technologies like <a href="https://temporaleternity.com/fintech">distributed ledger technology</a> (DLT), and/or blockchain-based platforms are the most popular &#8220;rock-stars&#8221; in the field of cutting-edge tech nowadays.</p>
+<p>Many new start-ups strive for innovation creating and applying fresh concepts when it comes to modern telecommunication, monetary systems, and financial markets applications.</p>
+<p>These start-ups may be as small as a local grocery store or as huge as the Berlin-based Internet Of Things giant IOTA Foundation, worth an astonishing $3.7 billion in market capitalization at the moment, while it had previously reached a cap of $14 bn earlier this year.</p>
+<p>Despite the huge competition, some brands have already established a name for themselves in the scene and need no introduction. Vodafone is one of them.</p>
+<p>Under a new agreement, the two parties will share new IoT project opportunities. Vodafone customers will be given access to China Mobile IoT SIMS for deployments in China, and China Mobile customers wanting to offer IoT-enabled products outside of China will use Vodafone’s Global IoT SIM and management platform.</p>
+<p>Vodafone will manage all elements of the operational model for its customers including on-boarding, SIM, and logistics as well as billing and support. The company will effectively act as a single point of contact for its enterprise IoT customers wanting to move into China.</p>
+<p>At the same time, China Mobile will discuss the possibility for IoT sales opportunities with Vodafone for companies wanting to expand outside of China.</p>
+<p>Vodafone’s Global Director of IoT, <strong>Stefano Gastaut</strong>, noted: <em>“This is an important step in the global expansion of IoT. China is leading the way in IoT adoption and has the world’s largest domestic market for IoT enabled services. This agreement with China Mobile will give our customers a route to the exciting Chinese market and provide a bridge for China Mobile’s customer to the rest of the world.”</em></p>
+<p>China Mobile International’s Head of Mobile Business Partnership, <strong>Dorothy Lin</strong>, added: <em>“Having reached over 200 million IoT connections last year, China Mobile target to increase the connections by 60% in 2018. Together with Vodafone, we will be able to offer customers the greatest possible reach in regards to IoT services. We are excited about the opportunities this agreement will bring to both companies and the industry as a whole.”</em></p>
+<p>Vodafone Group is one of the world’s largest <a href="http://www.vodafone.com/business/home?topnav%7Cvf-logo">telecommunications companies</a> and provides a range of services including voice, messaging, data and fixed communications. Vodafone Group has mobile operations in 26 countries, partners with mobile networks in 49 more, and fixed broadband operations in 19 markets. As of 31 December 2017, Vodafone Group had 529.1 million mobile customers and 19.3 million fixed broadband customers, including India and all of the customers in Vodafone’s joint ventures and associates.</p>
+<p>&nbsp;</p>
+
+<!-- Quick Adsense WordPress Plugin: http://quickadsense.com/ -->
+<div style="float:none;margin:0px 0 0px 0;text-align:center;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7044441133018958"
+     data-ad-slot="9809443976"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both"></div></div>
+						<div class="clear"></div>
+						
+													
+						<!-- clear for photos floats -->
+						<div class="clear"></div>
+						
+						
+												
+						<span itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://temporaleternity.com/wp-content/uploads/2018/03/vodafone.jpg"><meta itemprop="width" content="3500"><meta itemprop="height" content="2348"></span><span itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://temporaleternity.com/wp-content/uploads/2018/01/logo_transparent_background.png"></span><meta itemprop="name" content="Fintech Journal"></span><meta itemprop="dateModified" content="2018-03-20T11:40:22+00:00"><meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://temporaleternity.com/2018/03/20/vodafone-closes-deal-with-china-mobile-in-iot-focused-partnership/"/>
+
+						
+					</div><!-- end post-body -->
+										
+					<div class="clear"></div>
+					
+					
+					<div class="post-footer">
+						<div class="post-labels post-section">										<a class="post-label" href="https://temporaleternity.com/category/technology/internet-of-things/" rel="tag">
+											<span class="bg label-name">Internet Of Things</span>
+											<span class="label-count">
+												<span class="label-count-arrow"></span>
+												<span class="label-count-value">3</span>
+											</span>
+										</a>
+																				<a class="post-label" href="https://temporaleternity.com/category/technology/" rel="tag">
+											<span class="bg label-name">Technology</span>
+											<span class="label-count">
+												<span class="label-count-arrow"></span>
+												<span class="label-count-value">5</span>
+											</span>
+										</a>
+																				<a class="post-label" href="https://temporaleternity.com/category/technology/telecommunication/" rel="tag">
+											<span class="bg label-name">Telecommunication</span>
+											<span class="label-count">
+												<span class="label-count-arrow"></span>
+												<span class="label-count-value">1</span>
+											</span>
+										</a>
+																			<div class="clear"></div>
+								</div>
+								<div class="clear"></div>
+														
+
+						<div class='post-section post-share-buttons'>
+	<h4 class='post-section-title'>
+		<i class="fa fa-share-alt"></i> 	</h4>
+	<div class='post-share-buttons-holder'>
+				<!--[if !IE]> -->
+				<script type="text/javascript">var addthis_config = addthis_config||{};addthis_config.data_track_addressbar = false;addthis_config.data_track_clickback = false;</script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f98ab455ea4fbd4" async="async"></script><div class="addthis_sharing_toolbox"></div>
+				
+		<!-- <![endif]-->
+		
+		
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="clear"></div><input class="post-share-buttons-url" value="https://temporaleternity.com/2018/03/20/vodafone-closes-deal-with-china-mobile-in-iot-focused-partnership/">												
+
+															
+						
+							<div class="post-section post-author-box" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+								<h4 class="post-section-title">
+									<i class="fa fa-pencil-square"></i> AUTHOR:
+									<a href="https://temporaleternity.com/author/admin/" itemprop="url" rel="author" title="author profile">
+										<span itemprop="name">Ross Peili</span>
+									</a>
+								</h4>
+								<div class="clear"></div>
+								<div class="post-author-box-content">
+									<div class="author-profile has-avatar">
+										<img alt='Ross Peili &#039;s Author avatar' src='https://secure.gravatar.com/avatar/a36e0b9baa4a2d449b486960df82d379?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/a36e0b9baa4a2d449b486960df82d379?s=100&#038;d=mm&#038;r=g 2x' class='avatar avatar-50 photo author-profile-avatar cir' height='50' width='50' />										<div class="author-profile-description">
+											<span itemprop="description">
+																							</span>
+											<div class="clear"></div>
+																					</div>
+									</div>
+									
+									<div class="clear"></div>
+								</div>
+								<div class="clear"></div>
+							</div>
+							<div class="clear"></div>
+												
+												<div class="post-related" data-count="2" data-id="196">
+							<div class="post-related-inner white shad">
+								<div class="white shad post-related-header">
+									<h4>RECOMMENDED FOR YOU</h4>
+									<a class="post-related-random-button" href="javascript:void(0)" data-count="2" data-id="196">
+										<i class="fa fa-random"></i>
+									</a>
+									<div class="clear"></div>
+								</div>
+								<div class="post-related-content">
+									<div class="ajax">
+										<div class="loader">Loading...</div>										
+									</div>
+									<div class="clear"></div>
+								</div>
+								<div class="clear"></div>
+							</div>
+						</div>
+
+						
+					</div><!-- end post-footer -->
+					
+				</div><!-- end post-hentry -->
+				
+						<div class="blog-pager">
+			
+						<div class="blog-pager-item older"><div class="blog-pager-item-inner">
+				<div class="text">Older Post</div>
+				<a href="https://temporaleternity.com/2018/03/19/ibm-new-worlds-smallest-computer-tailored-for-blockchain/" rel="prev">IBM&#8217;s &#8220;World&#8217;s Smallest Computer&#8221; Tailored For Blockchain</a>			</div></div>
+						<div class="clear"></div>
+		</div>
+									
+				
+				<div id="comments">
+	<div id="comments-title-tabs">
+		<h4 class="post-section-title comments-title-tabs-name comments-title-tab">
+			<i class="fa fa-comments"></i> COMMENTS		</h4>
+	</div>
+	<div class="clear"></div>
+	<div class="comments-title-tabs-hr"></div>
+	<a name="comments"></a>
+	
+		
+<div class="wordpress-comments comments">
+	<a class="wordpress-comments-title comments-title" href="javascript:void(0)" data-target=".wordpress-comments" data-comment_number="data:post.numComments">
+		WORDPRESS: <span class="color">0</span>	</a>
+	
+	<div class="wordpress-comments-inner comments-inner">
+		<div class="wordpress-comments-holder comments-holder">
+					</div>		
+		<div class="wordpress-comment-footer">
+				<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2018/03/20/vodafone-closes-deal-with-china-mobile-in-iot-focused-partnership/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="https://temporaleternity.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+				<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" aria-required="true" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" aria-required='true' required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" aria-required='true' required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="shad bg" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='196' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>			</form>
+			</div><!-- #respond -->
+			</div>		
+	</div>
+	
+	
+</div>	
+	<div class="facebook-comments comments">
+    <a class="facebook-comments-title comments-title" href="javascript:void(0)" data-target=".facebook-comments">
+        FACEBOOK: 
+		<span class="color">
+			<fb:comments-count href="https://temporaleternity.com/2018/03/20/vodafone-closes-deal-with-china-mobile-in-iot-focused-partnership/">0</fb:comments-count>
+		</span>		
+    </a>
+    <div class="facebook-comments-inner comments-inner">
+		<div id="jsid-comment-facebook-plugin" class="fb-comments fb_iframe_widget" data-numposts="5" data-colorscheme="light" data-width="0" data-height="600" fb-xfbml-state="rendered"></div>		
+		<div class="hide ajax-comment-count" data-system="facebook" data-id="196"><fb:comments-count href="https://temporaleternity.com/2018/03/20/vodafone-closes-deal-with-china-mobile-in-iot-focused-partnership/"></fb:comments-count></div>		
+    </div>
+</div>
+	
+	<div class='disqus-comments comments'>
+	<a class='disqus-comments-title comments-title' href='javascript:void(0)' data-target='.disqus-comments'>
+		DISQUS: 
+		<span class="color">
+			<span class="disqus-comment-count" data-disqus-identifier="196"></span>
+		</span>
+	</a>
+	<div class="disqus-comments-inner comments-inner">
+		<div id="disqus_thread">
+<script>
+var disqus_config = function() {
+	this.page.url = 'https://temporaleternity.com/2018/03/20/vodafone-closes-deal-with-china-mobile-in-iot-focused-partnership/'; // Replace PAGE_URL with your page's canonical URL variable
+	this.page.identifier = 196; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+
+(function() {
+var d = document, s = d.createElement('script');
+s.src = '//.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<script id="dsq-count-scr" src="https://.disqus.com/count.js" async></script>
+		</div>
+	</div>
+	
+	<div class="hide ajax-comment-count" data-system="disqus" data-id="196"><span class="disqus-comment-count" data-disqus-identifier="196"></span></div>	
+</div>
+		
+</div><!--#comments-->	
+<div class="clear"></div>			</div>
+	</div>
+</div>			
+		<div class="clear"></div>			
+<div class="clear"></div></div></div><aside id="sidebar" class="section main-sidebar sticky-inside"><div id="search-2" class="widget widget_search"><div class="alt-widget-content"><form role="search" action='https://temporaleternity.com' class='search-form' method='get'>
+	<label class='search-form-label'>Type something and Enter</label>
+	<input class='search-text' name='s' value="" type='text' placeholder="Type something and Enter"/>
+	<button class='search-submit' type='submit'><i class="fa fa-search"></i></button>
+</form><div class="clear"></div></div></div>		<div id="recent-posts-2" class="widget widget_recent_entries"><div class="alt-widget-content">		</div><h2 class="widget-title"><span class="widget-title-content">Recent Posts</span></h2><div class="clear"></div><div class="widget-content">		<ul>
+											<li>
+					<a href="https://temporaleternity.com/2018/03/20/vodafone-closes-deal-with-china-mobile-in-iot-focused-partnership/">Vodafone Closes Deal With China Mobile In IoT Focused Partnership </a>
+									</li>
+											<li>
+					<a href="https://temporaleternity.com/2018/03/19/ibm-new-worlds-smallest-computer-tailored-for-blockchain/">IBM&#8217;s &#8220;World&#8217;s Smallest Computer&#8221; Tailored For Blockchain</a>
+									</li>
+											<li>
+					<a href="https://temporaleternity.com/2018/02/20/how-fbi-unraveled-the-novartis-network-that-guided-greek-politicians/">How FBI Unraveled The Novartis Network That &#8216;Guided&#8217; Greek Politicians</a>
+									</li>
+											<li>
+					<a href="https://temporaleternity.com/2018/02/19/financial-market-supervisory-authority-finma-treat-icos-securities/">Financial Market Supervisory Authority (FINMA) To Treat Some ICOs As Securities</a>
+									</li>
+											<li>
+					<a href="https://temporaleternity.com/2018/02/18/swift-system-compromissed-hackers-multiple-times-last-year/">SWIFT System Compromised By Hackers Multiple Times During The Last Year</a>
+									</li>
+					</ul>
+		<div class="clear"></div></div></div><div id="recent-comments-2" class="widget widget_recent_comments"><div class="alt-widget-content"></div><h2 class="widget-title"><span class="widget-title-content">Recent Comments</span></h2><div class="clear"></div><div class="widget-content"><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">Ross Peili</span> on <a href="https://temporaleternity.com/2018/03/19/ibm-new-worlds-smallest-computer-tailored-for-blockchain/#comment-10">IBM&#8217;s &#8220;World&#8217;s Smallest Computer&#8221; Tailored For Blockchain</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://www.dispecerattractari.ro/' rel='external nofollow' class='url'>Lil</a></span> on <a href="https://temporaleternity.com/2018/03/19/ibm-new-worlds-smallest-computer-tailored-for-blockchain/#comment-8">IBM&#8217;s &#8220;World&#8217;s Smallest Computer&#8221; Tailored For Blockchain</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://www.templogger.net' rel='external nofollow' class='url'>Connor Sweeney</a></span> on <a href="https://temporaleternity.com/2018/01/25/what-really-drives-technological-adavancement/#comment-4">What Really Drives Technological Adavancement</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://www.templogger.net' rel='external nofollow' class='url'>Connor Sweeney</a></span> on <a href="https://temporaleternity.com/2018/02/17/google-aquire-xively-order-upscale-iot-position/#comment-3">Google To Aquire Xively In Order To Upscale Its IoT Position</a></li></ul><div class="clear"></div></div></div><div id="archives-2" class="widget widget_archive"><div class="alt-widget-content"></div><h2 class="widget-title"><span class="widget-title-content">Archives</span></h2><div class="clear"></div><div class="widget-content">		<ul>
+			<li><a href='https://temporaleternity.com/2018/03/'>March 2018</a></li>
+	<li><a href='https://temporaleternity.com/2018/02/'>February 2018</a></li>
+	<li><a href='https://temporaleternity.com/2018/01/'>January 2018</a></li>
+		</ul>
+		<div class="clear"></div></div></div><div id="categories-2" class="widget widget_categories"><div class="alt-widget-content"></div><h2 class="widget-title"><span class="widget-title-content">Categories</span></h2><div class="clear"></div><div class="widget-content">		<ul>
+	<li class="cat-item cat-item-37"><a href="https://temporaleternity.com/category/sciences-philosophy/astronomy/" >Astronomy</a>
+</li>
+	<li class="cat-item cat-item-56"><a href="https://temporaleternity.com/category/fintech/banking/" title="Read top-shelf banking news from the world.">Banking</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="https://temporaleternity.com/category/fintech/blockchain/" >Blockchain</a>
+</li>
+	<li class="cat-item cat-item-68"><a href="https://temporaleternity.com/category/technology/computing/" >Computing</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="https://temporaleternity.com/category/fintech/cryptocurrencies/" >Cryptocurrencies</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="https://temporaleternity.com/category/fintech/" title="Read top-shelf Financial Technology News from the world.">Fintech</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="https://temporaleternity.com/category/technology/futurism/" >Futurism</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="https://temporaleternity.com/category/global-news/" >Global News</a>
+</li>
+	<li class="cat-item cat-item-48"><a href="https://temporaleternity.com/category/technology/hacking/" >Hacking</a>
+</li>
+	<li class="cat-item cat-item-65"><a href="https://temporaleternity.com/category/global-news/health/" >Health</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="https://temporaleternity.com/category/technology/internet-of-things/" >Internet Of Things</a>
+</li>
+	<li class="cat-item cat-item-29"><a href="https://temporaleternity.com/category/lifestyle-arts/" >Lifestyle &amp; Arts</a>
+</li>
+	<li class="cat-item cat-item-36"><a href="https://temporaleternity.com/category/sciences-philosophy/physics/" >Physics</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="https://temporaleternity.com/category/global-news/police-news/" >Police News</a>
+</li>
+	<li class="cat-item cat-item-66"><a href="https://temporaleternity.com/category/global-news/politics/" >Politics</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="https://temporaleternity.com/category/sciences-philosophy/sci-fi/" >Sci-Fi</a>
+</li>
+	<li class="cat-item cat-item-35"><a href="https://temporaleternity.com/category/sciences-philosophy/" >Sciences &amp; Philosophy</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="https://temporaleternity.com/category/technology/" >Technology</a>
+</li>
+	<li class="cat-item cat-item-74"><a href="https://temporaleternity.com/category/technology/telecommunication/" >Telecommunication</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="https://temporaleternity.com/category/terrorism/" >Terrorism</a>
+</li>
+		</ul>
+<div class="clear"></div></div></div><div id="newsletterwidget-4" class="widget widget_newsletterwidget"><div class="alt-widget-content"></div><h2 class="widget-title"><span class="widget-title-content">Newsletter</span></h2><div class="clear"></div><div class="widget-content"><div class="tnp tnp-widget"><form method="post" action="https://temporaleternity.com/?na=s" onsubmit="return newsletter_check(this)">
+
+<input type="hidden" name="nr" value="widget">
+<input type='hidden' name='nl[]' value='0'>
+<div class="tnp-field tnp-field-firstname"><label>Name</label><input class="tnp-firstname" type="text" name="nn" ></div>
+<div class="tnp-field tnp-field-email"><label>Email</label><input class="tnp-email" type="email" name="ne" required></div>
+<div class="tnp-field tnp-field-privacy"><label><input type="checkbox" name="ny" required class="tnp-privacy">&nbsp;Subscribing I accept the privacy rules of this site</label></div>
+<div class="tnp-field tnp-field-button"><input class="tnp-submit" type="submit" value="Subscribe For Free Updates">
+</div>
+</form>
+</div>
+<div class="clear"></div></div></div><div class="clear"></div></aside></div><div class="clear"></div><div class="is-firefox hide"></div><div class="is-ie9 hide"></div><div id="footer">			
+<div class="clear"></div><div class="footer-inner shad"><div class="footer-col footer-col-1"><aside id="footer-col-1-section" class="section"><div class="widget Branding"><h2 class="widget-title">Temporal Eternity</h2><div class="widget-content"><div class="branding-line branding-about">Living in an era where technological advancement creates the essence of a Temporal Eternity. - 
+temporaleternity.com is your reliable source for fintech news as well as global updates surrounding military, health and the industrial sectors.</div></div><div class="clear"></div></div><div class="clear"></div></aside></div><div class="footer-col footer-col-2"><aside id="footer-col-2-section" class="section"><div class="widget Branding no-title"><div class="widget-content"><div class="branding-line branding-address branding-info"><i class="fa fa-map-marker"></i> Thessaloniki based online journal.</div><div class="branding-line branding-phone branding-info"><i class="fa fa-phone"></i> +30 697 1711 636</div><div class="branding-line branding-email branding-info"><i class="fa fa-envelope"></i> info@temporaleternity.com</div></div><div class="clear"></div></div><div class="clear"></div></aside></div><div class="footer-col footer-col-3"><aside id="footer-col-3-section" class="section"><div class="widget LinkList social_icons linklist"><h2 class="widget-title">Social LInks</h2><div class="widget-content"><ul><li><a href="https://web.facebook.com/Temporal-Eternity-429879780779393" title="facebook" class="social-icon facebook" target="_blank"><i class="fa fa-facebook"></i></a></li><li><a href="https://plus.google.com/105386359120315559874" title="google-plus" class="social-icon google-plus" target="_blank"><i class="fa fa-google-plus"></i></a></li><li><a href="http://instagram.com/temporal.eternity" title="instagram" class="social-icon instagram" target="_blank"><i class="fa fa-instagram"></i></a></li><li><a href="https://twitter.com/TemporalNews" title="twitter" class="social-icon twitter" target="_blank"><i class="fa fa-twitter"></i></a></li><li><a href="https://www.youtube.com/channel/UCmk3G8XgIxhjvqFKkyPxLUw" title="youtube" class="social-icon youtube" target="_blank"><i class="fa fa-youtube"></i></a></li></ul><div class="clear"></div></div><div class="clear"></div></div><div class="clear"></div></aside></div><div class="clear"></div></div></div><div id="magone-copyright">&copy; 2018 Temporal Eternity. All rights reserved. </div></div></div><a class='scroll-up shad' href='#'><i class='fa fa-angle-up'></i></a><div class='search-form-wrapper'><div class='search-form-overlay'></div><form role="search" action='https://temporaleternity.com' class='search-form' method='get'>
+	<label class='search-form-label'>Type something and Enter</label>
+	<input class='search-text' name='s' value="" type='text' placeholder="Type something and Enter"/>
+	<button class='search-submit' type='submit'><i class="fa fa-search"></i></button>
+</form></div><div style="display:none" class="ccpw-container ccpw-ticker-cont  ccpw-header-ticker-fixedbar "><ul  id="ccpw-ticker-50"><li  data-add-sub=5~CCCAGG~ETH~USD class="add_sub " id="1027"><div class="coin-container ccpw-tooltip" data-tooltip-content="#tooltip_content1027"><span class="ticker-name">Ethereum(ETH)</span><div class="live-pricing">
+       <span class="TOSYMBOL_ETH"></span>
+       <span class="PRICE_ETH"></span><span class="CHANGE24HOURPCT_ETH" ></span></div></div><div class="ccpw_tooltip_templates">
+                                     <span id="tooltip_content1027">
+									 <div class="tooltip-title"><span class="title-style"><strong>ETHEREUM</strong></span></div>
+                                     <div class="24per-change"><span class="changes down">24h % CHANGES : <i class="fa fa-arrow-down" aria-hidden="true"></i>-13.75%</span></div>
+                                     <div class="7dper-change"><span class="changes down">7d % CHANGES : <i class="fa fa-arrow-down" aria-hidden="true"></i>-31.9%</span></div>
+									 <div class="tooltip-list-vol">VOLUME : <i class="fa fa-usd" aria-hidden="true"></i>2160850000.0</div>
+								     <div class="tooltip-market_cap">MARKET CAP: <i class="fa fa-usd" aria-hidden="true"></i>48317498615.0</div>
+									 </span>
+                                     </div></li><li  data-add-sub=5~CCCAGG~XRP~USD class="add_sub " id="52"><div class="coin-container ccpw-tooltip" data-tooltip-content="#tooltip_content52"><span class="ticker-name">Ripple(XRP)</span><div class="live-pricing">
+       <span class="TOSYMBOL_XRP"></span>
+       <span class="PRICE_XRP"></span><span class="CHANGE24HOURPCT_XRP" ></span></div></div><div class="ccpw_tooltip_templates">
+                                     <span id="tooltip_content52">
+									 <div class="tooltip-title"><span class="title-style"><strong>RIPPLE</strong></span></div>
+                                     <div class="24per-change"><span class="changes down">24h % CHANGES : <i class="fa fa-arrow-down" aria-hidden="true"></i>-10.47%</span></div>
+                                     <div class="7dper-change"><span class="changes down">7d % CHANGES : <i class="fa fa-arrow-down" aria-hidden="true"></i>-30.44%</span></div>
+									 <div class="tooltip-list-vol">VOLUME : <i class="fa fa-usd" aria-hidden="true"></i>613614000.0</div>
+								     <div class="tooltip-market_cap">MARKET CAP: <i class="fa fa-usd" aria-hidden="true"></i>22506156675.0</div>
+									 </span>
+                                     </div></li><li  data-add-sub=5~CCCAGG~NEO~USD class="add_sub " id="1376"><div class="coin-container ccpw-tooltip" data-tooltip-content="#tooltip_content1376"><span class="ticker-name">NEO(NEO)</span><div class="live-pricing">
+       <span class="TOSYMBOL_NEO"></span>
+       <span class="PRICE_NEO"></span><span class="CHANGE24HOURPCT_NEO" ></span></div></div><div class="ccpw_tooltip_templates">
+                                     <span id="tooltip_content1376">
+									 <div class="tooltip-title"><span class="title-style"><strong>NEO</strong></span></div>
+                                     <div class="24per-change"><span class="changes down">24h % CHANGES : <i class="fa fa-arrow-down" aria-hidden="true"></i>-13.46%</span></div>
+                                     <div class="7dper-change"><span class="changes down">7d % CHANGES : <i class="fa fa-arrow-down" aria-hidden="true"></i>-39.06%</span></div>
+									 <div class="tooltip-list-vol">VOLUME : <i class="fa fa-usd" aria-hidden="true"></i>159035000.0</div>
+								     <div class="tooltip-market_cap">MARKET CAP: <i class="fa fa-usd" aria-hidden="true"></i>3579881500.0</div>
+									 </span>
+                                     </div></li><li  data-add-sub=5~CCCAGG~ADA~USD class="add_sub " id="2010"><div class="coin-container ccpw-tooltip" data-tooltip-content="#tooltip_content2010"><span class="ticker-name">Cardano(ADA)</span><div class="live-pricing">
+       <span class="TOSYMBOL_ADA"></span>
+       <span class="PRICE_ADA"></span><span class="CHANGE24HOURPCT_ADA" ></span></div></div><div class="ccpw_tooltip_templates">
+                                     <span id="tooltip_content2010">
+									 <div class="tooltip-title"><span class="title-style"><strong>CARDANO</strong></span></div>
+                                     <div class="24per-change"><span class="changes down">24h % CHANGES : <i class="fa fa-arrow-down" aria-hidden="true"></i>-15.97%</span></div>
+                                     <div class="7dper-change"><span class="changes down">7d % CHANGES : <i class="fa fa-arrow-down" aria-hidden="true"></i>-39.47%</span></div>
+									 <div class="tooltip-list-vol">VOLUME : <i class="fa fa-usd" aria-hidden="true"></i>126756000.0</div>
+								     <div class="tooltip-market_cap">MARKET CAP: <i class="fa fa-usd" aria-hidden="true"></i>3446615122.0</div>
+									 </span>
+                                     </div></li><li  data-add-sub=5~CCCAGG~XLM~USD class="add_sub " id="512"><div class="coin-container ccpw-tooltip" data-tooltip-content="#tooltip_content512"><span class="ticker-name">Stellar(XLM)</span><div class="live-pricing">
+       <span class="TOSYMBOL_XLM"></span>
+       <span class="PRICE_XLM"></span><span class="CHANGE24HOURPCT_XLM" ></span></div></div><div class="ccpw_tooltip_templates">
+                                     <span id="tooltip_content512">
+									 <div class="tooltip-title"><span class="title-style"><strong>STELLAR</strong></span></div>
+                                     <div class="24per-change"><span class="changes down">24h % CHANGES : <i class="fa fa-arrow-down" aria-hidden="true"></i>-10.68%</span></div>
+                                     <div class="7dper-change"><span class="changes down">7d % CHANGES : <i class="fa fa-arrow-down" aria-hidden="true"></i>-38.69%</span></div>
+									 <div class="tooltip-list-vol">VOLUME : <i class="fa fa-usd" aria-hidden="true"></i>68512000.0</div>
+								     <div class="tooltip-market_cap">MARKET CAP: <i class="fa fa-usd" aria-hidden="true"></i>3417428519.0</div>
+									 </span>
+                                     </div></li><li  data-add-sub=5~CCCAGG~IOT~USD class="add_sub " id="1720"><div class="coin-container ccpw-tooltip" data-tooltip-content="#tooltip_content1720"><span class="ticker-name">IOTA(MIOTA)</span><div class="live-pricing">
+       <span class="TOSYMBOL_IOT"></span>
+       <span class="PRICE_IOT"></span><span class="CHANGE24HOURPCT_IOT" ></span></div></div><div class="ccpw_tooltip_templates">
+                                     <span id="tooltip_content1720">
+									 <div class="tooltip-title"><span class="title-style"><strong>IOTA</strong></span></div>
+                                     <div class="24per-change"><span class="changes up">24h % CHANGES : <i class="fa fa-arrow-up" aria-hidden="true"></i>2.43%</span></div>
+                                     <div class="7dper-change"><span class="changes down">7d % CHANGES : <i class="fa fa-arrow-down" aria-hidden="true"></i>-19.22%</span></div>
+									 <div class="tooltip-list-vol">VOLUME : <i class="fa fa-usd" aria-hidden="true"></i>92638700.0</div>
+								     <div class="tooltip-market_cap">MARKET CAP: <i class="fa fa-usd" aria-hidden="true"></i>3115964628.0</div>
+									 </span>
+                                     </div></li><li  data-add-sub=5~CCCAGG~DASH~USD class="add_sub " id="131"><div class="coin-container ccpw-tooltip" data-tooltip-content="#tooltip_content131"><span class="ticker-name">Dash(DASH)</span><div class="live-pricing">
+       <span class="TOSYMBOL_DASH"></span>
+       <span class="PRICE_DASH"></span><span class="CHANGE24HOURPCT_DASH" ></span></div></div><div class="ccpw_tooltip_templates">
+                                     <span id="tooltip_content131">
+									 <div class="tooltip-title"><span class="title-style"><strong>DASH</strong></span></div>
+                                     <div class="24per-change"><span class="changes down">24h % CHANGES : <i class="fa fa-arrow-down" aria-hidden="true"></i>-8.85%</span></div>
+                                     <div class="7dper-change"><span class="changes down">7d % CHANGES : <i class="fa fa-arrow-down" aria-hidden="true"></i>-32.27%</span></div>
+									 <div class="tooltip-list-vol">VOLUME : <i class="fa fa-usd" aria-hidden="true"></i>109655000.0</div>
+								     <div class="tooltip-market_cap">MARKET CAP: <i class="fa fa-usd" aria-hidden="true"></i>2835315346.0</div>
+									 </span>
+                                     </div></li><li  data-add-sub=5~CCCAGG~USDT~USD class="add_sub " id="825"><div class="coin-container ccpw-tooltip" data-tooltip-content="#tooltip_content825"><span class="ticker-name">Tether(USDT)</span><div class="live-pricing">
+       <span class="TOSYMBOL_USDT"></span>
+       <span class="PRICE_USDT"></span><span class="CHANGE24HOURPCT_USDT" ></span></div></div><div class="ccpw_tooltip_templates">
+                                     <span id="tooltip_content825">
+									 <div class="tooltip-title"><span class="title-style"><strong>TETHER</strong></span></div>
+                                     <div class="24per-change"><span class="changes down">24h % CHANGES : <i class="fa fa-arrow-down" aria-hidden="true"></i>-0.64%</span></div>
+                                     <div class="7dper-change"><span class="changes down">7d % CHANGES : <i class="fa fa-arrow-down" aria-hidden="true"></i>-0.85%</span></div>
+									 <div class="tooltip-list-vol">VOLUME : <i class="fa fa-usd" aria-hidden="true"></i>2195590000.0</div>
+								     <div class="tooltip-market_cap">MARKET CAP: <i class="fa fa-usd" aria-hidden="true"></i>2205467567.0</div>
+									 </span>
+                                     </div></li><li  data-add-sub=5~CCCAGG~OMG~USD class="add_sub " id="1808"><div class="coin-container ccpw-tooltip" data-tooltip-content="#tooltip_content1808"><span class="ticker-name">OmiseGO(OMG)</span><div class="live-pricing">
+       <span class="TOSYMBOL_OMG"></span>
+       <span class="PRICE_OMG"></span><span class="CHANGE24HOURPCT_OMG" ></span></div></div><div class="ccpw_tooltip_templates">
+                                     <span id="tooltip_content1808">
+									 <div class="tooltip-title"><span class="title-style"><strong>OMISEGO</strong></span></div>
+                                     <div class="24per-change"><span class="changes down">24h % CHANGES : <i class="fa fa-arrow-down" aria-hidden="true"></i>-10.29%</span></div>
+                                     <div class="7dper-change"><span class="changes down">7d % CHANGES : <i class="fa fa-arrow-down" aria-hidden="true"></i>-36.76%</span></div>
+									 <div class="tooltip-list-vol">VOLUME : <i class="fa fa-usd" aria-hidden="true"></i>31596600.0</div>
+								     <div class="tooltip-market_cap">MARKET CAP: <i class="fa fa-usd" aria-hidden="true"></i>930595418.0</div>
+									 </span>
+                                     </div></li><li  data-add-sub=5~CCCAGG~QTUM~USD class="add_sub " id="1684"><div class="coin-container ccpw-tooltip" data-tooltip-content="#tooltip_content1684"><span class="ticker-name">Qtum(QTUM)</span><div class="live-pricing">
+       <span class="TOSYMBOL_QTUM"></span>
+       <span class="PRICE_QTUM"></span><span class="CHANGE24HOURPCT_QTUM" ></span></div></div><div class="ccpw_tooltip_templates">
+                                     <span id="tooltip_content1684">
+									 <div class="tooltip-title"><span class="title-style"><strong>QTUM</strong></span></div>
+                                     <div class="24per-change"><span class="changes down">24h % CHANGES : <i class="fa fa-arrow-down" aria-hidden="true"></i>-14.67%</span></div>
+                                     <div class="7dper-change"><span class="changes down">7d % CHANGES : <i class="fa fa-arrow-down" aria-hidden="true"></i>-39.29%</span></div>
+									 <div class="tooltip-list-vol">VOLUME : <i class="fa fa-usd" aria-hidden="true"></i>107893000.0</div>
+								     <div class="tooltip-market_cap">MARKET CAP: <i class="fa fa-usd" aria-hidden="true"></i>872512534.0</div>
+									 </span>
+                                     </div></li><li  data-add-sub=5~CCCAGG~BNB~BTC class="add_sub " id="1839"><div class="coin-container ccpw-tooltip" data-tooltip-content="#tooltip_content1839"><span class="ticker-name">Binance Coin(BNB)</span><div class="live-pricing">
+       <span class="TOSYMBOL_BNB"></span>
+       <span class="PRICE_BNB"></span><span class="CHANGE24HOURPCT_BNB" ></span></div></div><div class="ccpw_tooltip_templates">
+                                     <span id="tooltip_content1839">
+									 <div class="tooltip-title"><span class="title-style"><strong>BINANCE COIN</strong></span></div>
+                                     <div class="24per-change"><span class="changes down">24h % CHANGES : <i class="fa fa-arrow-down" aria-hidden="true"></i>-8.53%</span></div>
+                                     <div class="7dper-change"><span class="changes down">7d % CHANGES : <i class="fa fa-arrow-down" aria-hidden="true"></i>-1.21%</span></div>
+									 <div class="tooltip-list-vol">VOLUME : <i class="fa fa-usd" aria-hidden="true"></i>87641800.0</div>
+								     <div class="tooltip-market_cap">MARKET CAP: <i class="fa fa-usd" aria-hidden="true"></i>803013441.0</div>
+									 </span>
+                                     </div></li><li  data-add-sub=5~CCCAGG~DGD~USD class="add_sub " id="1229"><div class="coin-container ccpw-tooltip" data-tooltip-content="#tooltip_content1229"><span class="ticker-name">DigixDAO(DGD)</span><div class="live-pricing">
+       <span class="TOSYMBOL_DGD"></span>
+       <span class="PRICE_DGD"></span><span class="CHANGE24HOURPCT_DGD" ></span></div></div><div class="ccpw_tooltip_templates">
+                                     <span id="tooltip_content1229">
+									 <div class="tooltip-title"><span class="title-style"><strong>DIGIXDAO</strong></span></div>
+                                     <div class="24per-change"><span class="changes down">24h % CHANGES : <i class="fa fa-arrow-down" aria-hidden="true"></i>-17.68%</span></div>
+                                     <div class="7dper-change"><span class="changes down">7d % CHANGES : <i class="fa fa-arrow-down" aria-hidden="true"></i>-12.07%</span></div>
+									 <div class="tooltip-list-vol">VOLUME : <i class="fa fa-usd" aria-hidden="true"></i>29107600.0</div>
+								     <div class="tooltip-market_cap">MARKET CAP: <i class="fa fa-usd" aria-hidden="true"></i>631354000.0</div>
+									 </span>
+                                     </div></li><li  data-add-sub=5~CCCAGG~WAVES~USD class="add_sub " id="1274"><div class="coin-container ccpw-tooltip" data-tooltip-content="#tooltip_content1274"><span class="ticker-name">Waves(WAVES)</span><div class="live-pricing">
+       <span class="TOSYMBOL_WAVES"></span>
+       <span class="PRICE_WAVES"></span><span class="CHANGE24HOURPCT_WAVES" ></span></div></div><div class="ccpw_tooltip_templates">
+                                     <span id="tooltip_content1274">
+									 <div class="tooltip-title"><span class="title-style"><strong>WAVES</strong></span></div>
+                                     <div class="24per-change"><span class="changes down">24h % CHANGES : <i class="fa fa-arrow-down" aria-hidden="true"></i>-13.38%</span></div>
+                                     <div class="7dper-change"><span class="changes down">7d % CHANGES : <i class="fa fa-arrow-down" aria-hidden="true"></i>-29.96%</span></div>
+									 <div class="tooltip-list-vol">VOLUME : <i class="fa fa-usd" aria-hidden="true"></i>20141200.0</div>
+								     <div class="tooltip-market_cap">MARKET CAP: <i class="fa fa-usd" aria-hidden="true"></i>405209000.0</div>
+									 </span>
+                                     </div></li><li  data-add-sub=5~CCCAGG~WTC~BTC class="add_sub " id="1925"><div class="coin-container ccpw-tooltip" data-tooltip-content="#tooltip_content1925"><span class="ticker-name">Waltonchain(WTC)</span><div class="live-pricing">
+       <span class="TOSYMBOL_WTC"></span>
+       <span class="PRICE_WTC"></span><span class="CHANGE24HOURPCT_WTC" ></span></div></div><div class="ccpw_tooltip_templates">
+                                     <span id="tooltip_content1925">
+									 <div class="tooltip-title"><span class="title-style"><strong>WALTONCHAIN</strong></span></div>
+                                     <div class="24per-change"><span class="changes down">24h % CHANGES : <i class="fa fa-arrow-down" aria-hidden="true"></i>-9.58%</span></div>
+                                     <div class="7dper-change"><span class="changes down">7d % CHANGES : <i class="fa fa-arrow-down" aria-hidden="true"></i>-35.82%</span></div>
+									 <div class="tooltip-list-vol">VOLUME : <i class="fa fa-usd" aria-hidden="true"></i>4080550.0</div>
+								     <div class="tooltip-market_cap">MARKET CAP: <i class="fa fa-usd" aria-hidden="true"></i>266385606.0</div>
+									 </span>
+                                     </div></li></ul></div><style type='text/css'>.tickercontainer #ccpw-ticker-50 {background-color:#ffe8db;} .ccpw-widget #wid-50{background-color:#ffe8db;color:#000;} .ccpw-widget .ccpw_table tr #wid-50 {background-color:#ffe8db;}
+                      .tooltipster #ccpw-ticker-50 {background-color:#ffe8db;}
+					  .tooltipster-sidetip .tooltipster-box {background-color:#ffe8db;border-color:#ffe8db;}
+					  .tooltipster-sidetip.tooltipster-top .tooltipster-arrow-background {border-top-color:#ffe8db;}
+					  .tooltipster-sidetip.tooltipster-bottom .tooltipster-arrow-background {border-bottom-color:#ffe8db;}
+					  .tooltipster-sidetip.tooltipster-top .tooltipster-arrow-border{border-top-color:#ffe8db;}
+					  .tooltipster-sidetip.tooltipster-bottom .tooltipster-arrow-border {border-bottom-color:#ffe8db;}
+					  
+					  
+					  .list-vol #wid-50{color:#000;} .market_cap #wid-50{color:#000;} .supply #wid-50{color:#000;}
+					   
+					   .tickercontainer #ccpw-ticker-50 .ticker-name,
+					   .tickercontainer #ccpw-ticker-50 .live-pricing,
+					   .tickercontainer #ccpw-ticker-50  span.changes:after,
+					   .tickercontainer #ccpw-ticker-50 .ticker-price,
+					   .tooltip-title,
+					   .tooltip-list-vol,
+					   .tooltip-market_cap{color:#000;}
+					   
+					   .ccpw-widget #wid-50.table {background-color:#ffe8db;color:#000;}
+					   #wid-50 .ccpw_table > tbody > tr > td,
+					   #wid-50 .ccpw_table > tbody > tr > td .ticker-price,
+					   #wid-50 .ccpw_table > tbody > tr > td.price,
+					   #wid-50 .ccpw_table.table > thead > tr > th {border-color:#000 !important;color:#000;background-color:#ffe8db;}
+					   </style><script type="text/javascript">
+		jQuery(document).ready(function($){
+			$(".ccpw-ticker-cont").fadeIn();     
+		});
+		</script><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7044441133018958",
+    enable_page_level_ads: true
+  });
+</script><link rel='stylesheet' id='sneeit-google-fonts-css'  href='//fonts.googleapis.com/css?family=Roboto%3A400%2C100%2C100italic%2C300%2C300italic%2C400italic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic&#038;ver=5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ccpw-font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='ccpw-tooltip-css-css'  href='https://temporaleternity.com/wp-content/plugins/cryptocurrency-price-ticker-widget-pro/assets/css/tooltipster.bundle.min.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='ppcw-styles-css'  href='https://temporaleternity.com/wp-content/plugins/cryptocurrency-price-ticker-widget-pro/assets/css/ppcw-styles.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://temporaleternity.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://temporaleternity.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://temporaleternity.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://temporaleternity.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://temporaleternity.com/wp-content/themes/magone/assets/js/owl.js?ver=5.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var magone = {"text":{"No Found Any Posts":"Not Found Any Posts","Tab":"Tab","Copy All Code":"Copy All Code","Select All Code":"Select All Code","All codes were copied to your clipboard":"All codes were copied to your clipboard","Can not copy the codes \/ texts, please press [CTRL]+[C] (or CMD+C with Mac) to copy":"Can not copy the codes \/ texts, please press [CTRL]+[C] (or CMD+C with Mac) to copy","widget_pagination_post_count":"<span class=\"value\">%1$s<\/span> \/ %2$s POSTS","LOAD MORE":"LOAD MORE","OLDER":"OLDER","NEWER":"NEWER","Hover and click above bar to rate":"Hover and click above bar to rate","Hover and click above stars to rate":"Hover and click above stars to rate","You rated %s":"You rated %s","You will rate %s":"You will rate %s","Submitting ...":"Submitting ...","Your browser not support user rating":"Your browser not support user rating","Server not response your rating":"Server not response your rating","Server not accept your rating":"Server not accept your rating"},"ajax_url":"https:\/\/temporaleternity.com\/wp-admin\/admin-ajax.php","is_rtl":"","is_gpsi":"","facebook_app_id":"0","disqus_short_name":"","primary_comment_system":"wordpress","disable_wordpress_comment_media":"","sticky_menu":"up","locale":"en_US","sticky_sidebar_delay":"200","serve_scaled_images":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://temporaleternity.com/wp-content/themes/magone/assets/js/lib.js?ver=5.6'></script>
+<script type='text/javascript' src='https://temporaleternity.com/wp-content/themes/magone/assets/js/main.js?ver=5.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https:\/\/temporaleternity.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://temporaleternity.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='https://temporaleternity.com/wp-includes/js/comment-reply.min.js?ver=4.9.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var newsletter = {"messages":{"email_error":"The email is not correct","name_error":"The name is not correct","surname_error":"The last name is not correct","privacy_error":"You must accept the privacy statement"},"profile_max":"20"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://temporaleternity.com/wp-content/plugins/newsletter/subscription/validate.js?ver=5.2.7'></script>
+<script type='text/javascript' src='https://temporaleternity.com/wp-includes/js/wp-embed.min.js?ver=4.9.4'></script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/socket.io/1.7.2/socket.io.js?ver=4.9.4'></script>
+<script type='text/javascript' src='https://temporaleternity.com/wp-content/plugins/cryptocurrency-price-ticker-widget-pro/assets/js/ccc-streamer-utilities.js'></script>
+<script type='text/javascript' src='https://temporaleternity.com/wp-content/plugins/cryptocurrency-price-ticker-widget-pro/assets/js/stream.js'></script>
+<script type='text/javascript' src='https://temporaleternity.com/wp-content/plugins/cryptocurrency-price-ticker-widget-pro/assets/marquee/jquery.webticker.min.js'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function($){
+			 	$(".ccpw-ticker-cont ul").each(function(index){
+			 			$(this).webTicker({
+			 				speed:30,
+			 				moving:true,
+			 				 duplicate:true,
+			 				 hoverpause:true,
+			 				  startEmpty:false});
+			 		});	
+			 	});
+</script>
+<script type='text/javascript' src='https://temporaleternity.com/wp-content/plugins/cryptocurrency-price-ticker-widget-pro/assets/js/tooltipster.bundle.min.js'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function($){
+		        $(document).ready(function() {
+		           $(".ccpw-tooltip").tooltipster({
+					    animation: "fade",
+					   contentCloning: true,
+					   contentAsHTML: true,
+					   interactive: true,
+					   delayTouch:[200,200]
+				   });
+				});
+				});
+</script>
+</body></html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 2896/1 objects using apc
+Page Caching using apc 
+Database Caching using apc
+
+Served from: temporaleternity.com @ 2018-03-21 03:54:16 by W3 Total Cache
+-->

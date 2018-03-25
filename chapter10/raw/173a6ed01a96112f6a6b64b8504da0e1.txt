@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+  <!--[if IEMobile 7]><html class="no-js ie iem7" lang="en" dir="ltr"><![endif]-->
+  <!--[if lte IE 6]><html class="no-js ie lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+  <!--[if (IE 7)&(!IEMobile)]><html class="no-js ie lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+  <!--[if IE 8]><html class="no-js ie lt-ie9" lang="en" dir="ltr"><![endif]-->
+  <!--[if (gte IE 9)|(gt IEMobile 7)]><html class="no-js ie" lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><![endif]-->
+  <!--[if !IE]><!--><html class="no-js" lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+<head>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#ffffff">
+<meta name="theme-color" content="#ffffff">
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="https://morningstaronline.co.uk/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<link rel="apple-touch-icon-precomposed" href="https://morningstaronline.co.uk/sites/all/themes/custom/morningstar_online/apple-touch-icon-precomposed-72x72.png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="https://morningstaronline.co.uk/sites/all/themes/custom/morningstar_online/apple-touch-icon-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" href="https://morningstaronline.co.uk/sites/all/themes/custom/morningstar_online/apple-touch-icon-precomposed-114x114.png" sizes="114x114" />
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+<link rel="apple-touch-icon-precomposed" href="https://morningstaronline.co.uk/sites/all/themes/custom/morningstar_online/apple-touch-icon-precomposed-144x144.png" sizes="144x144" />
+<meta name="keywords" content="Myanmar, Australia, Aung San Suu Kyi, Rohingya, Human rights" />
+<meta name="viewport" content="width=device-width" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="image_src" href="https://morningstaronline.co.uk/sites/default/files/AP_18077863223212.jpg" />
+<link rel="canonical" href="https://morningstaronline.co.uk/article/suu-kyis-state-visit-to-australia-prompts-protests-over-her-response-to-the-rohingya-tragedy" />
+<link rel="shortlink" href="https://morningstaronline.co.uk/node/48208" />
+<meta property="og:site_name" content="Morning Star" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Suu Kyi&#039;s state visit to Australia prompts protests over her response to the Rohingya tragedy" />
+<meta property="og:url" content="https://morningstaronline.co.uk/article/suu-kyis-state-visit-to-australia-prompts-protests-over-her-response-to-the-rohingya-tragedy" />
+<meta property="og:updated_time" content="2018-03-19T15:14:42+00:00" />
+<meta property="og:image" content="https://morningstaronline.co.uk/sites/default/files/AP_18077863223212.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://morningstaronline.co.uk/article/suu-kyis-state-visit-to-australia-prompts-protests-over-her-response-to-the-rohingya-tragedy" />
+<meta name="twitter:title" content="Suu Kyi&#039;s state visit to Australia prompts protests over her response to the Rohingya tragedy" />
+<meta name="twitter:image" content="https://morningstaronline.co.uk/sites/default/files/AP_18077863223212.jpg" />
+<meta property="article:published_time" content="2018-03-19T12:14:22+00:00" />
+<meta property="article:modified_time" content="2018-03-19T15:14:42+00:00" />
+  <title>Asia Suu Kyi's state visit to Australia prompts protests over her response to the Rohingya tragedy | Morning Star</title>
+  <link type="text/css" rel="stylesheet" href="https://morningstaronline.co.uk/sites/default/files/css/css_ntAxQjrPfR8aE__bwUKA9XjTIXJKlPkTVlgb1i183qc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://morningstaronline.co.uk/sites/default/files/css/css_Nn_uES6DEYiuvmDOMZTiNxkDKiDRos9yQ8Au6nqljHY.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://morningstaronline.co.uk/sites/default/files/css/css_Wpvake0RAnzjhyvlmJTEtJEWj6V8zU-hNgkQI5CDmwE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://morningstaronline.co.uk/sites/default/files/css/css_btEyqLxNSQM-OVBBfXrAWG2FyvGK9lY65-iac7Iv58Y.css" media="all" />
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")</script>
+<script src="https://morningstaronline.co.uk/sites/default/files/js/js_N2xI9_wC2FxNNq4iEVhHncw4Cxdj-XXFFW7lteyhtM4.js"></script>
+<script src="https://morningstaronline.co.uk/sites/default/files/js/js_H7q2xORKmR9AN8Qx5spKEIBp7R_wG2apAswJoCUZY7I.js"></script>
+<script src="https://morningstaronline.co.uk/sites/default/files/js/js_Y9yKx2OUtJnmRHB1CS8aYbteUomcXpDxv6eEot-Bg_o.js"></script>
+<script src="https://morningstaronline.co.uk/sites/default/files/js/js_Z9P0lQN2K9izckKF0BCwZ7k6QKWG6DiV8U_xIHZ66Hk.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"facetapi":{"view_args":{"byline:block_1":["48208","48208","48208","48208","48208","48208","48208","48208","48208","48208","48208","48208"],"media_slideshow_on_node:block_2":["48208","48208","48208","48208","48208","48208","48208","48208","48208","48208","48208"],"others_liked:attachment_1":["48208","48208","48208","48208","48208","48208","48208","48208","48208","48208"],"others_liked:block_1":["48208","48208","48208","48208","48208","48208","48208","48208","48208"],"frontpage_views:panel_pane_17":[],"frontpage_views:panel_pane_18":[],"frontpage_views:panel_pane_19":[],"frontpage_views:panel_pane_4":[],"others_liked:panel_pane_1":[],"editorial_in_menu:block":[],"editorial_in_menu:block-1":[],"top_promotions:block_1":[]},"exposed_input":{"byline:block_1":[],"media_slideshow_on_node:block_2":[],"others_liked:attachment_1":[],"others_liked:block_1":[],"frontpage_views:panel_pane_17":[],"frontpage_views:panel_pane_18":[],"frontpage_views:panel_pane_19":[],"frontpage_views:panel_pane_4":[],"others_liked:panel_pane_1":[],"editorial_in_menu:block":[],"editorial_in_menu:block-1":[],"top_promotions:block_1":[]},"view_path":{"byline:block_1":null,"media_slideshow_on_node:block_2":null,"others_liked:attachment_1":null,"others_liked:block_1":null,"frontpage_views:panel_pane_17":null,"frontpage_views:panel_pane_18":null,"frontpage_views:panel_pane_19":null,"frontpage_views:panel_pane_4":null,"others_liked:panel_pane_1":null,"editorial_in_menu:block":null,"editorial_in_menu:block-1":null,"top_promotions:block_1":null},"view_dom_id":{"byline:block_1":"c582646f02765ef75ebe90294850d4e9","media_slideshow_on_node:block_2":"28cdc9ecbab727cb7e9aa699a0d6f075","others_liked:attachment_1":"d255bc6679dbb70e78bb77689153c35f","others_liked:block_1":"d255bc6679dbb70e78bb77689153c35f","frontpage_views:panel_pane_17":"4ce3db106eb2a73bec04411d95f33727","frontpage_views:panel_pane_18":"2724ce83d5c4f1ad00fce19c350c35b1","frontpage_views:panel_pane_19":"a02fe27f0c0c00f1eae907d285d21eb6","frontpage_views:panel_pane_4":"be7fdb412df8e2865fdef41dd17a7da1","others_liked:panel_pane_1":"ad32b2822830f45c7ab5427d65fe6f03","editorial_in_menu:block":"2002978d250486ce2bd729bed5ce0bb8","editorial_in_menu:block-1":"a4c7c455dbdfb2d5d802c17498ec072c","top_promotions:block_1":"00491e0c175e80f4ca148ec278d646fa"}},"owlcarousel":{"owl-carousel-block-25":{"settings":{"items":1,"margin":0,"loop":true,"center":false,"mouseDrag":true,"touchDrag":true,"pullDrag":true,"freeDrag":false,"stagePadding":0,"merge":false,"mergeFit":true,"autoWidth":false,"startPosition":0,"urlHashListner":false,"nav":true,"navRewind":false,"navText":["",""],"slideBy":1,"dots":false,"dotsEach":false,"dotsData":false,"lazyLoad":true,"lazyContent":true,"autoplay":false,"autoplayTimeout":5000,"autoplayHoverPause":false,"smartSpeed":250,"fluidSpeed":250,"autoplaySpeed":false,"navSpeed":500,"dotsSpeed":false,"dragEndSpeed":false,"callbacks":false,"responsiveRefreshRate":200,"responsiveClass":false,"video":false,"videoHeight":false,"videoWidth":false,"animateOut":false,"animateIn":false,"fallbackEasing":"swing","info":false,"nestedItemSelector":false,"itemElement":"div","stageElement":"div","navContainer":false,"dotsContainer":false,"responsive":[]},"views":{"ajax_pagination":null}}},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_scrolling_confirmation":0,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EBy clicking any link on this page you are giving your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EOK, I agree\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003ENo, give me more info\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\n\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003EHide\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003EMore info\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":1,"popup_height":"auto","popup_width":0,"popup_delay":1000,"popup_link":"\/page\/privacy-policy","popup_link_new_window":1,"popup_position":null,"popup_language":"en","better_support_for_screen_readers":0,"reload_page":0,"domain":"","popup_eu_only_js":0,"cookie_lifetime":"100","disagree_do_not_show_popup":0},"responsive_menus":[{"selectors":["#nav ul.menu"],"trigger_txt":"\u003Cdiv id=\u0022nav-icon\u0022\u003E\r\n  \u003Cspan\u003E\u003C\/span\u003E\r\n  \u003Cspan\u003E\u003C\/span\u003E\r\n  \u003Cspan\u003E\u003C\/span\u003E\r\n  \u003Cspan\u003E\u003C\/span\u003E\r\n\u003C\/div\u003E","side":"left","speed":"200","media_size":"5000","displace":"0","onOpen":"","onClose":"","responsive_menus_style":"sidr"}],"urlIsAjaxTrusted":{"\/article\/suu-kyis-state-visit-to-australia-prompts-protests-over-her-response-to-the-rohingya-tragedy":true,"\/article\/suu-kyis-state-visit-to-australia-prompts-protests-over-her-response-to-the-rohingya-tragedy?destination=node\/48208":true}});</script>
+  <script src="https://use.typekit.net/nsh3nks.js"></script>
+  <script type="text/javascript">try{Typekit.load({active:function(){main()}});}catch(e){}</script>
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,700" rel="stylesheet">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-104426970-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-8487906312964002",
+    enable_page_level_ads: true
+  });
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-48208 node-type-article   section-article">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+    <header id="header">
+	<div class="branding" id="branding">
+		<div class="branding-inner"><div class="panel-pane pane-page-logo">
+            <a href="/" rel="home" id="logo" title="Home"><img src="https://morningstaronline.co.uk/sites/all/themes/custom/morningstar_online/logo.svg" alt="Home" /></a>    </div>
+<div class="panel-pane pane-custom pane-2 search">
+            <p><button id="search-top"><img src="/sites/all/themes/custom/morningstar_online/images/search.svg" /></button></p>
+    </div>
+<div class="panel-pane pane-block pane-system-user-menu user-menu">
+            <ul class="menu"><li class="first last leaf modal"><a href="/user/login?current=node/48208">Log in</a></li>
+</ul>    </div>
+<div class="panel-pane pane-block pane-menu-menu-cta">
+            <ul class="menu"><li class="first leaf"><a href="/subscribe">Subscribe</a></li>
+<li class="leaf"><a href="/page/support-us">Support Us</a></li>
+<li class="last leaf"><a href="https://shop.morningstaronline.co.uk/">Shop</a></li>
+</ul>    </div>
+			<nav id="nav"><ul class="menu"><li class="first leaf"><a href="/categories/britain" title="Britain">Britain</a></li>
+<li class="leaf"><a href="/categories/world" title="World">World</a></li>
+<li class="leaf"><a href="/categories/features" title="Features">Features</a></li>
+<li class="leaf"><a href="/categories/editorial" title="Editorial">Editorial</a></li>
+<li class="leaf"><a href="/categories/arts" title="Culture">Culture</a></li>
+<li class="leaf"><a href="/categories/sport" title="Sport">Sport</a></li>
+<li class="leaf"><div class="menu-attach-block-wrapper">
+	<div id="block-views-editorial-in-menu-block--2" class="block block--views block--views-editorial-in-menu-block--2">
+        <h2 class="block__title">LATEST EDITORIAL</h2>
+      <div class="block__content">
+      
+          <a href="/article/leader-dwp-esa-underpayments" class="menu-editorial"> The NAO report into underpayment of ESA must not obscure the real scandal </a>    </div>
+</div>
+</div>
+</li>
+<li class="last leaf" id="backtotop"><span class="nolink">BACK TO TOP</span></li>
+</ul></nav>
+		</div>
+	</div>
+	<div id="search"><div class="panel-pane pane-block pane-search-api-page-search-results">
+            <form class="search-api-page-search-form-search-results" action="/article/suu-kyis-state-visit-to-australia-prompts-protests-over-her-response-to-the-rohingya-tragedy" method="post" id="search-api-page-search-form-search-results" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-keys-1">
+  <label class="element-invisible" for="edit-keys-1">Enter your keywords </label>
+ <input placeholder="Enter your keywords" type="text" id="edit-keys-1" name="keys_1" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<input type="hidden" name="id" value="1" />
+<input type="submit" id="edit-submit-1" name="op" value="Search" class="form-submit" /><input type="hidden" name="form_build_id" value="form-of8flqJNm8a6yt_vmBjbYObQLPxWkZfbq1s8V0eazwo" />
+<input type="hidden" name="form_id" value="search_api_page_search_form_search_results" />
+</div></form>    </div>
+<div class="clearfix"></div></div>
+	</header>
+<div class="contents"><div id="node-content">
+	<article about="/article/suu-kyis-state-visit-to-australia-prompts-protests-over-her-response-to-the-rohingya-tragedy" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--full node--article--full">
+<div class="pre-headline">
+	<div class="byline">
+              
+          <div class="author"><a href="/author/67"> Morning Star</a></div><time><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-03-20T00:00:00+00:00">Tuesday, March 20, 2018</span></time>    	</div>
+	<div class="addthis_inline_share_toolbox desktop"></div>
+	<div class="clearfix"></div>
+</div>
+<h1 class="article-headline"><span class="trumpet">Asia  </span>Suu Kyi&#039;s state visit to Australia prompts protests over her response to the Rohingya tragedy</h1>
+<h2></h2>
+<div class="view view-media-slideshow-on-node view-id-media_slideshow_on_node view-display-id-block_2 view-dom-id-28cdc9ecbab727cb7e9aa699a0d6f075">
+        
+  
+  
+      <div class="view-content">
+      <div id="owl-carousel-block-25" class="owl-carousel owl-theme disabled"><div class="item-0 item-odd">  
+          
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/article_full/public/AP_18077863223212.jpg?itok=Csb-aOCr&amp;c=99662a04eaa16985a3f9d23b8bd84716" alt="" />	<figcaption>
+		<div class="credit-logo"><img src="/sites/all/themes/custom/morningstar_online/images/logo_mark_neg.svg"/></div>
+		<div class="caption">
+  Australian Prime Minister Malcolm Turnbull (right) welcomes Myanmar's leader Aung San Suu Kyi<span class="credits"></span></div>
+		<div class="clearfix"></div>
+	</figcaption>  </div></div>    </div>
+  
+  
+  
+  
+  
+  
+</div><div class="article-content aside">
+	
+  <div class="field--body">
+    <p>MYANMAR leader Aung San Suu Kyi was welcomed to Australia today with a military honour guard and 19-gun salute as part of a state visit that has provoked protests over her response to her army’s violent campaign against Rohingya Muslims.</p>
+<p>Ms Suu Kyi arrived in Sydney at the weekend for a summit of south-east Asian leaders and her state visit officially began today when she was welcomed to Parliament House in Canberra. It coincides with her facing international criticism over what has become Asia’s worst refugee crisis in decades.</p>
+<p>More than 700,000 Rohingya have fled from Buddhist-majority Myanmar to neighbouring Bangladesh since August when the military kicked off a campaign of ethnic cleansing justified by citing insurgent attacks on police.</p>
+<p>Their violent campaign has included burning Rohingya villages, systematic rape, shootings and other human rights abuses.</p>
+<p>Mr Turnbull said yesterday that Ms Suu Kyi had used the weekend summit to seek humanitarian help from her fellow members of the Association of Southeast Asian Nations (Asean) and Australia to deal with the crisis.</p>
+<p>Malaysian Prime Minister Najib Razak told the summit that the refugee crisis was no longer solely a domestic issue for Myanmar, as fleeing Rohingya could be prime targets for terrorist radicalisation.</p>
+<p>Myanmar staunchly denies that its security forces have targeted Rohingya civilians.</p>
+<p>But its denials have appeared increasingly tenuous as horrific accounts from refugees have accumulated and satellite imagery and other evidence of destroyed Rohingya villages have been assembled.</p>
+<p>Human rights groups have criticised Australia for maintaining its limited military engagement with Myanmar. Australia provides English-language lessons and training courses to Myanmar officers to “promote professionalism and adherence to international laws,” according to the military.</p>
+  </div>
+	<aside class="right">
+													<div class="infobox related"><h3 class="info-title">Others liked</h3>  	<article about="/article/female-trade-union-official-bullied-own-picket-line-international-womens-day" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--related node--article--related"><a href="/article/female-trade-union-official-bullied-own-picket-line-international-womens-day">
+
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/teaser_x-small/public/11picturehouse_0.jpg?itok=yQYLdupo&amp;c=933f7cb0d7aa4de148491e62646c324d" alt="" /><time>Tuesday 20th Mar 2018</time>
+<div class="title">Female trade union official ‘bullied off own union’s picket line on International Women’s Day’</div>
+</a></article>
+<div class="clearfix"></div>    	<article about="/article/tory-councillor-andy-coles-faces-renewed-pressure-to-resign" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--related-no-image node--article--related-no-image"><a href="/article/tory-councillor-andy-coles-faces-renewed-pressure-to-resign">
+<time>Monday 19th Mar 2018</time>
+<div class="title">
+  <span class="field--trumpet">
+    Spycops   </span>
+ Tory councillor Andy Coles faces renewed pressure to resign after inquiry confirms his role as a former undercover cop</div>
+</a>
+</article>
+<div class="clearfix"></div>	<article about="/article/anna-campbells-fight-for-kurdish-justice-must-continue" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--related-no-image node--article--related-no-image"><a href="/article/anna-campbells-fight-for-kurdish-justice-must-continue">
+<time>Monday 19th Mar 2018</time>
+<div class="title">Anna Campbell’s fight for Kurdish justice must continue</div>
+</a>
+</article>
+<div class="clearfix"></div>	<article about="/article/mask-military-industrial-complex-slipping" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--related-no-image node--article--related-no-image"><a href="/article/mask-military-industrial-complex-slipping">
+<time>Monday 19th Mar 2018</time>
+<div class="title">
+  <span class="field--trumpet">
+    Media   </span>
+ The media has not considered how Russophobia is benefitting big business</div>
+</a>
+</article>
+<div class="clearfix"></div>	<article about="/article/russia%20urges%20us%20to%20forgo%20plans%20to%20strike%20syrian%20government%20forces" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--related-no-image node--article--related-no-image"><a href="/article/russia%20urges%20us%20to%20forgo%20plans%20to%20strike%20syrian%20government%20forces">
+<time>Tuesday 20th Mar 2018</time>
+<div class="title">
+  <span class="field--trumpet">
+    Middle East  </span>
+ Russia urges US to forgo plans to strike Syrian government forces </div>
+</a>
+</article>
+<div class="clearfix"></div></div>			</aside>
+	<div class="addthis_inline_share_toolbox mobile"></div>
+<div id="cta-wrapper">
+	<div class="cta">
+		<a href="/page/support-us">
+			<div class="cta-head">Join the 501 Club</div>
+			<div class="left"><p><strong>You can’t buy a revolution, but you can help the only daily paper in
+			Britain that’s fighting for one by joining the 501 club.</strong></p>
+			<p>Just £5 a month gives you the opportunity to win one of 17 prizes, from
+			£25 to the £501 jackpot.</p></div>
+
+			<div class="right"><p>By becoming a 501 Club member you are helping the Morning Star cover its
+			printing, distribution and staff costs — help keep our paper thriving by
+			joining!</p></div>
+			<div class="act-now">Join here »</div>
+			<div class="clearfix"></div>
+		</a>
+	</div>
+
+	<div class="cta">
+		<a href="/page/support-us">
+			<div class="cta-head">Buy Shares</div>
+			<div class="left"><p><strong>You can’t buy a revolution, but you can help the only daily paper in
+			Britain that’s fighting for one by become a member of the People’s
+			Printing Press Society.</strong></p>
+			<p>The Morning Star is a readers’ co-operative, which means you can become
+			an owner of the paper too by buying shares in the society.</p></div>
+			<div class="right"><p>Shares are £1 each — though unlike capitalist firms, each shareholder
+			has an equal say. Money from shares contributes directly to keep our
+			paper thriving.</p>
+			<p>Some union branches have taken out shares of over £500 and individuals
+			over £100.</p></div>
+			<div class="act-now">Buy here »</div>
+			<div class="clearfix"></div>
+		</a>
+	</div>
+	<div class="cta">
+		<a href="/page/support-us">
+			<div class="cta-head">Donate to the Fighting Fund</div>
+
+			<div class="left"><p><strong>You can’t buy a revolution, but you can help the only daily paper in
+			Britain that’s fighting for one by donating to the Fighting Fund.</strong></p>
+
+			<p>The Morning Star is unique, as a lone socialist voice in a sea of
+			corporate media. We offer a platform for those who would otherwise never
+			be listened to, coverage of stories that would otherwise be buried.</p></div>
+
+			<div class="right"><p>The rich don’t like us, and they don’t advertise with us, so we rely on
+			you, our readers and friends. With a regular donation to our monthly
+			Fighting Fund, we can continue to thumb our noses at the fat cats and
+			tell truth to power.</p>
+
+			<p>Donate today and make a regular contribution.</p></div>
+			<div class="act-now">Donate here »</div>
+			<div class="clearfix"></div>
+		</a>
+	</div>
+</div>
+</div>
+</article>
+<script>
+var elems = jQuery("#cta-wrapper .cta");
+if (elems.length) {
+  var keep = Math.floor(Math.random() * elems.length);
+  for (var i = 0; i < elems.length; ++i) {
+    if (i !== keep) {
+      jQuery(elems[i]).hide();
+    }
+  }
+}
+</script>
+<div class="clearfix"></div></div>
+<div class="clearfix"></div>
+<section id="from-front" class="row article">
+	<div class="left"><div class="panel-pane pane-views-panes pane-frontpage-views-panel-pane-17 small">
+                  <article about="/article/ahed%20tamimi%27s%20father%20visits%20his%20detained%20daughter%20and%20wife%20for%20first%20time%20since%20december" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-small node--article--teaser-small">
+	<a href="/article/ahed%20tamimi%27s%20father%20visits%20his%20detained%20daughter%20and%20wife%20for%20first%20time%20since%20december">
+		
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/teaser_x-small/public/37198532110_c3ae3a6334_o.jpg?itok=KRa2egqq&amp;c=ac18faee9728e5726722459793a46327" alt="" />		<header>
+			<h1>
+  <span class="field--trumpet">
+    Palestine   </span>
+ Ahed Tamimi&#039;s father visits his detained daughter and wife for first time since December </h1>
+							<h2>
+      </h2>
+					</header>
+	</a>
+	<div class="related"></div>
+
+	</article>
+<div class="clearfix"></div>    </div>
+<div class="panel-pane pane-views-panes pane-frontpage-views-panel-pane-18 x-small">
+                  <article about="/article/bed%20tax%20couple%20lose%20bid%20to%20tackle%20tories%20with%20rights%20laws" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-x-small node--article--teaser-x-small"><a href="/article/bed%20tax%20couple%20lose%20bid%20to%20tackle%20tories%20with%20rights%20laws">
+
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/teaser_x-small/public/PA-29125575.jpg?itok=CJEduvo-&amp;c=7f1d03c965ee827712e7c696f306ef1f" alt="" /><header>
+<div class="category"><span class="cat">
+  Britain | </span><time>Tuesday 20th Mar 2018</time></div>
+<h1>
+  <span class="field--trumpet">
+    Courts   </span>
+ Bed tax couple lose bid to tackle Tories with rights laws </h1>
+</header>
+</a>
+<div class="clearfix"></div></article>    <article about="/article/ministers%20agree%20to%20fund%20scottish%20youth%20theatre%20with%20a%20%C2%A3150%2C000%20grant" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-x-small node--article--teaser-x-small"><a href="/article/ministers%20agree%20to%20fund%20scottish%20youth%20theatre%20with%20a%20%C2%A3150%2C000%20grant">
+
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/teaser_x-small/public/5758053758_d8c977d101_o.jpg?itok=hoqqpAz8&amp;c=e540072d5cd3d12909554cf599753222" alt="" /><header>
+<div class="category"><span class="cat">
+  Britain | </span><time>Tuesday 20th Mar 2018</time></div>
+<h1>
+  <span class="field--trumpet">
+    Scotland   </span>
+ Ministers agree to fund Scottish Youth Theatre with a £150,000 grant</h1>
+</header>
+</a>
+<div class="clearfix"></div></article>    <article about="/article/salisbury-skripal-and-novichok-local-view" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-x-small node--article--teaser-x-small"><a href="/article/salisbury-skripal-and-novichok-local-view">
+
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/teaser_x-small/public/PA-35508659%20%281%29.jpg?itok=CtDGUmtX&amp;c=f5bab86f0b02074ee07e097559ca5f7e" alt="" /><header>
+<div class="category"><span class="cat">
+  Features | </span><time>Monday 19th Mar 2018</time></div>
+<h1>Salisbury, Skripal and novichok — a local view</h1>
+</header>
+</a>
+<div class="clearfix"></div></article>    </div>
+<div class="panel-pane pane-views-panes pane-frontpage-views-panel-pane-19 small small-right">
+                  <article about="/article/russia%20urges%20us%20to%20forgo%20plans%20to%20strike%20syrian%20government%20forces" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-small-narrow node--article--teaser-small-narrow"><a href="/article/russia%20urges%20us%20to%20forgo%20plans%20to%20strike%20syrian%20government%20forces">
+
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/teaser_x-small/public/AP_18079395726897.jpg?itok=Lm1JN38n&amp;c=b6fe40c8deed11371afce754ff7b62be" alt="" /><header>
+<h1>Russia urges US to forgo plans to strike Syrian government forces </h1>
+	<h2><div class="category">
+  World</div>
+  <div class="field--body">
+    <p>MOSCOW urged the United States today to abandon plans for a military strike against Syrian government forces.</p>  </div>
+</h2>
+</header>
+</a></article>
+<div class="clearfix"></div>    </div>
+</div>
+	<div class="right"><div class="panel-pane pane-views-panes pane-frontpage-views-panel-pane-4 fp-list">
+          <h2 class="pane-title">Latest stories</h2>
+              <article about="/article/leader-dwp-esa-underpayments" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-list node--article--teaser-list"><a href="/article/leader-dwp-esa-underpayments">
+<time>Wednesday 21st Mar 2018</time>
+<h1>The NAO report into underpayment of ESA must not obscure the real scandal </h1>
+</a>
+</article>    <article about="/article/government-bails-out-failing-private-probation-companies-with-%C2%A3342m" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-list node--article--teaser-list"><a href="/article/government-bails-out-failing-private-probation-companies-with-%C2%A3342m">
+<time>Wednesday 21st Mar 2018</time>
+<h1>Government bails out failing private probation companies with £342m</h1>
+</a>
+</article>    <article about="/article/dwp%20failures%20cost%20disabled%20people%20%C2%A3350m" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-list node--article--teaser-list"><a href="/article/dwp%20failures%20cost%20disabled%20people%20%C2%A3350m">
+<time>Wednesday 21st Mar 2018</time>
+<h1>DWP failures cost disabled people £350m</h1>
+</a>
+</article>    <article about="/article/mencap%20appeals%20ruling%20on%20sleep-in%20carers%27%20backpay" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-list node--article--teaser-list"><a href="/article/mencap%20appeals%20ruling%20on%20sleep-in%20carers%27%20backpay">
+<time>Tuesday 20th Mar 2018</time>
+<h1>Mencap appeals ruling on sleep-in carers&#039; backpay</h1>
+</a>
+</article>    <article about="/article/workers%20at%20two%20train%20companies%20vote%20overwhelmingly%20in%20favour%20of%20strikes" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-list node--article--teaser-list"><a href="/article/workers%20at%20two%20train%20companies%20vote%20overwhelmingly%20in%20favour%20of%20strikes">
+<time>Tuesday 20th Mar 2018</time>
+<h1>Workers at two train companies vote overwhelmingly in favour of strikes </h1>
+</a>
+</article>    <article about="/article/israeli%20soldier%20who%20killed%20a%20palestinian%20prisoner%20has%20manslaughter%20sentenced%20reduced%20again" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-list node--article--teaser-list"><a href="/article/israeli%20soldier%20who%20killed%20a%20palestinian%20prisoner%20has%20manslaughter%20sentenced%20reduced%20again">
+<time>Tuesday 20th Mar 2018</time>
+<h1>Israeli soldier who killed a Palestinian prisoner has sentence reduced again </h1>
+</a>
+</article>    <article about="/article/trade%20unionists%20criticise%20amey%20for%20threatening%20them%20over%20solidarity%20displays" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-list node--article--teaser-list"><a href="/article/trade%20unionists%20criticise%20amey%20for%20threatening%20them%20over%20solidarity%20displays">
+<time>Tuesday 20th Mar 2018</time>
+<h1>Trade unionists criticise Amey for threatening them over solidarity displays</h1>
+</a>
+</article>    </div>
+</div>
+</section>
+<div class="clearfix"></div>
+<section id="most-read" class="row article">
+	<div class="panel-pane pane-views-panes pane-others-liked-panel-pane-1">
+          <h2 class="pane-title">Others liked</h2>
+          	<article about="/article/female-trade-union-official-bullied-own-picket-line-international-womens-day" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-x-small node--article--teaser-x-small"><a href="/article/female-trade-union-official-bullied-own-picket-line-international-womens-day">
+
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/teaser_x-small/public/11picturehouse_0.jpg?itok=yQYLdupo&amp;c=933f7cb0d7aa4de148491e62646c324d" alt="" /><header>
+<div class="category"><span class="cat">
+  Britain | </span><time>Tuesday 20th Mar 2018</time></div>
+<h1>Female trade union official ‘bullied off own union’s picket line on International Women’s Day’</h1>
+</header>
+</a>
+<div class="clearfix"></div></article>	<article about="/article/tory-councillor-andy-coles-faces-renewed-pressure-to-resign" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-x-small node--article--teaser-x-small"><a href="/article/tory-councillor-andy-coles-faces-renewed-pressure-to-resign">
+
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/teaser_x-small/public/9318425644_b90fbb3115_o_0.jpg?itok=IIOcniZu&amp;c=838780cd0cfcf2e41027206b5650f2a0" alt="" /><header>
+<div class="category"><span class="cat">
+  Britain | </span><time>Monday 19th Mar 2018</time></div>
+<h1>
+  <span class="field--trumpet">
+    Spycops   </span>
+ Tory councillor Andy Coles faces renewed pressure to resign after inquiry confirms his role as a former undercover cop</h1>
+</header>
+</a>
+<div class="clearfix"></div></article>	<article about="/article/anna-campbells-fight-for-kurdish-justice-must-continue" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-x-small node--article--teaser-x-small"><a href="/article/anna-campbells-fight-for-kurdish-justice-must-continue">
+
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/teaser_x-small/public/AP_18078434051199.jpg?itok=6QXgDUtb&amp;c=f4091bd43a3153012a0ae5d6a188ced7" alt="" /><header>
+<div class="category"><span class="cat">
+  Editorial | </span><time>Monday 19th Mar 2018</time></div>
+<h1>Anna Campbell’s fight for Kurdish justice must continue</h1>
+</header>
+</a>
+<div class="clearfix"></div></article>	<article about="/article/mask-military-industrial-complex-slipping" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-x-small node--article--teaser-x-small"><a href="/article/mask-military-industrial-complex-slipping">
+
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/teaser_x-small/public/PA-35551386.jpg?itok=StAMft5F&amp;c=d4a40bf999a790455d8f1a7c1b57f3be" alt="" /><header>
+<div class="category"><span class="cat">
+  Features | </span><time>Sunday 18th Mar 2018</time></div>
+<h1>
+  <span class="field--trumpet">
+    Media   </span>
+ The media has not considered how Russophobia is benefitting big business</h1>
+</header>
+</a>
+<div class="clearfix"></div></article>    </div>
+</section>
+<div class="clearfix"></div>
+<section class="row regular seventh">
+	<div class="left">
+		<div class="panel-pane pane-node">
+            <div class="ff-wrapper">
+	<div class="ff-left">
+		<img src="/sites/all/themes/custom/morningstar_online/logo.svg" />
+		
+  <h3>OWNED BY OUR READERS</h3>
+<p>We're a reader-owned co-operative, which means you can become part of the paper too by buying shares in the People’s Press Printing Society.</p>
+		<a href="/page/support-us" class="ff-donate">Become a supporter</a>
+	</div>
+	<div class="ff-right">
+		<div class="ff-header">
+			<img src="/sites/all/themes/custom/morningstar_online/images/ff-logo.png" />
+			<h3>Fighting fund</h3>
+		</div>
+		<div class="raised"><span>You've Raised:</span><span class="digit yellow">£
+  9,475</span></div>
+		<div class="needed"><span>We need:</span><span class="digit">£
+  8,525</span></div>
+		<div class="remaining">
+  12 Days remaining</div>
+		<a href="/page/support-us" class="ff-donate">Donate today</a>
+	</div>
+</div>
+    </div>
+	</div>
+	<div class="right">
+		<div class="panel-pane pane-custom pane-1">
+            <div class="twitter"><a class="twitter-timeline" data-height="509" data-chrome="nofooter" data-link-color="#ca422c" href="https://twitter.com/m_star_online">Tweets by Morning Star</a> 
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+    </div>
+	</div>
+	<div class="clearfix"></div>
+</section>
+<div class="clearfix"></div></div>
+<div class="clearfix"></div>
+<footer id="footer">
+	<div class="first"><div class="panel-pane pane-block pane-system-main-menu">
+            <ul class="menu"><li class="first leaf"><a href="/categories/britain" title="Britain">Britain</a></li>
+<li class="leaf"><a href="/categories/world" title="World">World</a></li>
+<li class="leaf"><a href="/categories/features" title="Features">Features</a></li>
+<li class="leaf"><a href="/categories/editorial" title="Editorial">Editorial</a></li>
+<li class="leaf"><a href="/categories/arts" title="Culture">Culture</a></li>
+<li class="leaf"><a href="/categories/sport" title="Sport">Sport</a></li>
+<li class="leaf"><div class="menu-attach-block-wrapper">
+	<div id="block-views-editorial-in-menu-block" class="block block--views block--views-editorial-in-menu-block">
+        <h2 class="block__title">LATEST EDITORIAL</h2>
+      <div class="block__content">
+      
+          <a href="/article/leader-dwp-esa-underpayments" class="menu-editorial"> The NAO report into underpayment of ESA must not obscure the real scandal </a>    </div>
+</div>
+</div>
+</li>
+<li class="last leaf" id="backtotop"><span class="nolink">BACK TO TOP</span></li>
+</ul>    </div>
+</div>
+	<div class="second"><div class="inner"><div class="panel-pane pane-custom pane-3 ppps-support">
+            <table><tr><td><img src="/sites/all/themes/custom/morningstar_online/images/logo_mark.svg" /></td>
+<td>
+<h3>Owned by Our Readers</h3>
+<p> We're a reader-owned co-operative, which means you can become part of the paper too by buying shares in the People’s Press Printing Society.</p></td>
+<td><a href="#" class="support">BECOME A SUPPORTER</a></td>
+</tr></table>    </div>
+<div class="panel-pane pane-block pane-menu-menu-terms-and-conditions">
+            <ul class="menu"><li class="first leaf"><a href="/page/privacy-policy">Privacy policy</a></li>
+<li class="leaf"><a href="/page/returns-policy">Returns policy</a></li>
+<li class="last leaf"><a href="/page/terms-use">Terms of use</a></li>
+</ul>    </div>
+</div></div>
+	<div class="third"></div>
+	<div class="fourth"></div>
+</footer>  <script src="https://morningstaronline.co.uk/sites/default/files/js/js_xP6nhYqI4mUV2mtfn6g5CLZxc3FtIIjGBp6vKXz-wYA.js"></script>
+<script>jQuery.post(Drupal.settings.basePath + 'jstats.php', {"path":"node\/48208","nid":"48208"});</script>
+<script src="https://morningstaronline.co.uk/sites/default/files/js/js_huA0j38fOAiYCkbRqv1_rK36yGsztevwTMGvvZguXn8.js"></script>
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-58ac43298dec22f7"></script>
+  <script src="/sites/all/themes/custom/morningstar_online/js/js_cookie.js"></script>
+  <div class="query"></div>
+  <!--<div id="newsletter-pop"><div class="inner"><div class="text"><h3>Sign up for our newsletter</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div><div class="cta"><a href="#">Subscribe now</a></div><button id="nl-close">x</button></div></div>
+  <script>
+    jQuery(document).ready(function() {
+      if (Cookies.get('newsletter') == 'dismissed') {
+        jQuery('#newsletter-pop').hide();
+      }
+
+      jQuery('#nl-close').click(function() {
+          jQuery('#newsletter-pop').hide();
+          Cookies.set('newsletter', 'dismissed', {expires: 7 });
+          return false;
+      });
+
+      if (jQuery('#sliding-popup').length) {
+          jQuery("#newsletter-pop").css({'bottom':(jQuery("#sliding-popup").height()+'px')});
+      } else {
+        jQuery("#newsletter-pop").addClass('noeu');
+      }
+
+      jQuery(window).scroll(function () {
+         if (jQuery(window).scrollTop() >= jQuery(document).height() - jQuery(window).height() - 300) {
+            jQuery('#newsletter-pop').addClass('bottom');
+         } else {
+            jQuery('#newsletter-pop').removeClass('bottom');
+         }
+      });
+      jQuery('#sliding-popup .agree-button').click(function() {
+        jQuery("#newsletter-pop").css('bottom', '0');
+        jQuery("#newsletter-pop").addClass('noeu');
+      })
+    });
+  </script>-->
+  <script src="/sites/all/themes/custom/morningstar_online/js/custom.js"></script>
+</body>
+</html>

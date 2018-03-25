@@ -1,0 +1,9 @@
+Facebook apologized on Friday after its autocomplete search feature suggested video titles that described child abuse.
+Some Facebook users who typed “video of” into the platform’s search bar on Thursday night presented with autocomplete suggestions about videos of young girls performing sex acts.
+“We’re very sorry this happened,” a Facebook spokesperson told CNN. “As soon as we became aware of these offensive predictions we removed them.”
+The company said its search predictions represent what people may be searching for but do not necessarily reflect content that is on Facebook.
+“We are looking into why these search predictions appeared, and going forward, we’re working to improve the quality of search predictions,” the spokesperson said. “We do not allow sexually explicit imagery, and we are committed to keeping such content off of our site.”
+Jonathon Morgan, the founder of New Knowledge, a company that tracks the spread of misinformation online, said it is possible that Facebook’s algorithm was manipulated in a coordinated attempt to alter its search predictions.
+“Search suggestions are based on search queries, not actual content,” Morgan said. “If a lot of people search for an uncharacteristic phrase in a short period of time, these systems decide that they should recommend that phrase to other users, under the assumption that it’s topical.”
+“This leaves the platform vulnerable to manipulation by groups of people intentionally entering search phrases that will confuse or misdirect other users,” he added.
+Update: This story has been updated to clarify Jonathon Morgan’s comment that Facebook groups can “intentionally” enter search phrases to confuse or misdirect users.

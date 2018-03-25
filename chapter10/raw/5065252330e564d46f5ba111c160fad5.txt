@@ -1,0 +1,302 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <title>Peru's President Resigns Amid Bribery Scandal  - The Takeaway - WNYC Studios</title>
+  <link rel="canonical" href="https://www.wnycstudios.org/story/perus-president-resigns-amid-bribery-scandal/" />
+  <meta name="keywords" content="podcasts, npr, new york, WNYC Studios, arts, culture, classical, music, news, public, radio" />
+    <meta property="og:title" content="Peru&#39;s President Resigns Amid Bribery Scandal  - The Takeaway - WNYC Studios" />
+    <meta property="og:type" content="video.episode" />
+    <meta property="og:video" content="http://www.wnycstudios.org/media/audioplayer/facebook_embed.swf?file=http%3A%2F%2Fwww.wnycstudios.org%2Faudio%2Fxspf%2F842546%2F&amp;autostart=true" />
+    <meta property="og:video:type" content="application/x-shockwave-flash" />
+    <meta property="og:video:width" content="200" />
+    <meta property="og:video:height" content="29" />
+    <meta property="og:image" content="https://media.wnyc.org/i/1200/627/c/80/1/AP_18080780359486.jpg" />
+  <meta property="og:url" content="http://www.wnycstudios.org/story/perus-president-resigns-amid-bribery-scandal/" />
+  <meta property="og:site_name" content="wnycstudios" />
+  <meta property="fb:app_id" content="151261804904925" />
+  <meta property="og:description" content="President Pedro Pablo Kuczynski of Peru announced his resignation on Wednesday amid a swirling bribery scandal.&nbsp;" />
+    <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:image" content="https://media.wnyc.org/i/1200/627/c/80/1/AP_18080780359486.jpg" />
+  <meta name="twitter:site" content="@WNYCStudios">
+  <meta name="twitter:app:id:iphone" content="">
+  <meta name="twitter:app:id:googleplay" content="">
+
+  <meta name="description" content="President Pedro Pablo Kuczynski of Peru announced his resignation on Wednesday amid a swirling bribery scandal.&nbsp;" />
+
+  <!-- Google custom search stuff -->
+    <meta name="show" content="takeaway" />
+    <meta name="is_article" content="False" />
+    <meta name="has_audio" content="True" />
+    <!--
+    <PageMap>
+      <DataObject type="date">
+        <Attribute name="display" value="Mar 22, 2018"/>
+        <Attribute name="sort" value="20180322"/>
+      </DataObject>
+        <DataObject type="tag">
+          <Attribute name="id">corruption</Attribute>
+        </DataObject>
+        <DataObject type="tag">
+          <Attribute name="id">latin_america</Attribute>
+        </DataObject>
+        <DataObject type="tag">
+          <Attribute name="id">news</Attribute>
+        </DataObject>
+        <DataObject type="tag">
+          <Attribute name="id">odebrecht</Attribute>
+        </DataObject>
+        <DataObject type="tag">
+          <Attribute name="id">peru</Attribute>
+        </DataObject>
+        <DataObject type="tag">
+          <Attribute name="id">politics</Attribute>
+        </DataObject>
+        <DataObject type="person">
+          <Attribute name="id">mitra-taj</Attribute>
+        </DataObject>
+        <DataObject type="person">
+          <Attribute name="id">daniel-gallas</Attribute>
+        </DataObject>
+        <DataObject type="person">
+          <Attribute name="id">ellen-frankman</Attribute>
+        </DataObject>
+        <DataObject type="person">
+          <Attribute name="id">elizabeth-ross</Attribute>
+        </DataObject>
+        <DataObject type="person">
+          <Attribute name="id">todd-zwillich</Attribute>
+        </DataObject>
+    </PageMap>
+    -->
+
+      
+<script type="text/javascript">
+  this.wnyc = this.wnyc || {};
+
+  wnyc.current_item = {"tags": ["corruption", "latin_america", "news", "odebrecht", "peru", "politics"], "item_type_id": 24, "site_id": 16, "show_title": "The Takeaway", "authors": [], "id": "842546", "title": "Peru's President Resigns Amid Bribery Scandal ", "show": "takeaway", "item_type": "segment", "published": true, "channel": ""}
+
+</script>
+  <meta name="apple-itunes-app" content="app-id=470219771">
+  
+  <link rel="shortcut icon" href="https://media.wnyc.org/static/img/favicon_wnycstudios.ico?_=1521771397" />
+
+  <link rel="alternate"
+      type="application/rss+xml"
+      title="The Takeaway Feed (RSS)"
+      href="/feeds/shows/takeaway"/>
+<link rel="alternate"
+      type="application/atom+xml"
+      title="The Takeaway Feed (Atom)"
+      href="/atomfeeds/shows/takeaway"/>
+<link rel="alternate"
+      type="application/rss+xml"
+      title="corruption Feed (RSS)"
+      href="/feeds/tags/corruption"/>
+<link rel="alternate"
+      type="application/atom+xml"
+      title="corruption Feed (Atom)"
+      href="/atomfeeds/tags/corruption"/>
+<link rel="alternate"
+      type="application/rss+xml"
+      title="latin america Feed (RSS)"
+      href="/feeds/tags/latin_america"/>
+<link rel="alternate"
+      type="application/atom+xml"
+      title="latin america Feed (Atom)"
+      href="/atomfeeds/tags/latin_america"/>
+<link rel="alternate"
+      type="application/rss+xml"
+      title="news Feed (RSS)"
+      href="/feeds/tags/news"/>
+<link rel="alternate"
+      type="application/atom+xml"
+      title="news Feed (Atom)"
+      href="/atomfeeds/tags/news"/>
+<link rel="alternate"
+      type="application/rss+xml"
+      title="odebrecht Feed (RSS)"
+      href="/feeds/tags/odebrecht"/>
+<link rel="alternate"
+      type="application/atom+xml"
+      title="odebrecht Feed (Atom)"
+      href="/atomfeeds/tags/odebrecht"/>
+<link rel="alternate"
+      type="application/rss+xml"
+      title="peru Feed (RSS)"
+      href="/feeds/tags/peru"/>
+<link rel="alternate"
+      type="application/atom+xml"
+      title="peru Feed (Atom)"
+      href="/atomfeeds/tags/peru"/>
+<link rel="alternate"
+      type="application/rss+xml"
+      title="politics Feed (RSS)"
+      href="/feeds/tags/politics"/>
+<link rel="alternate"
+      type="application/atom+xml"
+      title="politics Feed (Atom)"
+      href="/atomfeeds/tags/politics"/>
+
+      <meta name="wnyc-studios-web-client/config/environment" content="%7B%22environment%22%3A%20%22production%22%2C%20%22emberHifi%22%3A%20%7B%22connections%22%3A%20%5B%7B%22name%22%3A%20%22NativeAudio%22%7D%5D%2C%20%22alwaysUseSingleAudioElement%22%3A%20false%7D%2C%20%22rootURL%22%3A%20%22/%22%2C%20%22historySupportMiddleware%22%3A%20true%2C%20%22locationType%22%3A%20%22router-scroll%22%2C%20%22APP%22%3A%20%7B%22version%22%3A%20%22v1.0.9%22%2C%20%22name%22%3A%20%22wnyc-studios-web-client%22%7D%2C%20%22EmberENV%22%3A%20%7B%22EXTEND_PROTOTYPES%22%3A%20%7B%22Date%22%3A%20false%7D%2C%20%22FEATURES%22%3A%20%7B%7D%7D%2C%20%22mailChimp%22%3A%20%7B%22formActionUrl%22%3A%20%22https%3A//wnyc.us5.list-manage.com/subscribe/post%22%2C%20%22userId%22%3A%20%224109fdd323aaac7078eadaa8f%22%7D%2C%20%22modulePrefix%22%3A%20%22wnyc-studios-web-client%22%2C%20%22webRoot%22%3A%20%22//www.wnycstudios.org%22%2C%20%22siteId%22%3A%2016%2C%20%22exportApplicationGlobal%22%3A%20false%2C%20%22metricsAdapters%22%3A%20%5B%7B%22config%22%3A%20%7B%22id%22%3A%20%22GTM-K7R5NGF%22%7D%2C%20%22name%22%3A%20%22GoogleTagManager%22%2C%20%22environments%22%3A%20%5B%22production%22%2C%20%22development%22%5D%7D%5D%2C%20%22publisherAPI%22%3A%20%22https%3A//api.wnyc.org/api%22%2C%20%22contentSecurityPolicy%22%3A%20%7B%22script-src%22%3A%20%22%27self%27%20www.google-analytics.com%22%2C%20%22style-src%22%3A%20%22%27self%27%20fonts.googleapis.com%22%2C%20%22connect-src%22%3A%20%22%27self%27%20www.google-analytics.com%22%2C%20%22font-src%22%3A%20%22%27self%27%20fonts.gstatic.com%22%7D%2C%20%22ember-cli-mirage%22%3A%20%7B%22usingProxy%22%3A%20false%2C%20%22useDefaultPassthroughs%22%3A%20true%7D%2C%20%22queueAudioBumperURL%22%3A%20%22http%3A//audio.wnyc.org/streambumper/streambumper000008_audio_queue.mp3%22%2C%20%22googleFonts%22%3A%20%5B%22Open%2BSans%3A400%2C400i%2C600%22%2C%20%22Oswald%3A600%2C700%22%5D%7D">
+      <meta name="revision" content="bd45f415e6b6ccc12ed0c890ce6ad9cc">
+      <link rel="stylesheet" href="https://static.wnycstudios.org/assets/vendor-d4e127dda93fe9f16cb538c802c754b3.css">
+      <link rel="stylesheet" href="https://static.wnycstudios.org/assets/wnyc-studios-web-client-fdd7b7866337c2690aa8c72a422d5f4c.css">
+
+    <meta property="fb:pages" content="224921207956535" data-detail="WNYC Studios"/>
+
+  
+  <link rel="stylesheet" href="https://media.wnyc.org/static/webfonts/fontawesome/css/font-awesome.min.css?v=4.1.0" type="text/css">
+
+  
+  
+  
+
+
+
+    <script async="async" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+    <script type="text/javascript">
+      window.googletag = window.googletag || {};
+      window.googletag.cmd = window.googletag.cmd || [];
+    </script>
+</head>
+<body>
+
+  
+
+  <div id="main">
+      
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+      <script src="https://static.wnycstudios.org/assets/vendor-68a96dc5fc1d78fd105b1c02fc73cfbf.js"></script>
+
+  <script type="text/javascript">
+    window.wnyc = {};
+  </script>
+  
+  
+  
+
+
+  
+  <script type="text/javascript" src="https://media.wnyc.org/static/CACHE/js/86e7af03601c.js"></script>
+
+
+  
+  <!-- Refer to NPL-374 and NPL-424 for more information -->
+  <!--  Quantcast Tag -->
+  <script type="text/javascript">
+    qcdata = {} || qcdata;
+       (function(){
+       var elem = document.createElement('script');
+       elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-U78Kbcddsn6tm";
+       elem.async = true;
+       elem.type = "text/javascript";
+       var scpt = document.getElementsByTagName('script')[0];
+       scpt.parentNode.insertBefore(elem,scpt);
+     }());
+
+
+     var qcdata = {qacct: 'p-U78Kbcddsn6tm',
+                   orderid: '',
+                   revenue: ''
+                   };
+  </script>
+  <noscript>
+    <img src="//pixel.quantserve.com/pixel/p-U78Kbcddsn6tm\.gif?labels=_fp.event.Default;" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+  </noscript>
+  <!-- End Quantcast Tag -->
+
+
+  <script type="text/javascript">
+    if ( wnyc.deferredJw ) wnyc.runDeferred(wnyc.deferredJw);
+    if ( wnyc.deferredLoadSurvey ) wnyc.runDeferred(wnyc.deferredLoadSurvey);
+    if ( wnyc.deferredLoadSurveyResults ) wnyc.runDeferred(wnyc.deferredLoadSurveyResults);
+  </script>
+  
+<script type="text/javascript">
+var set_chartbeat_sections = function(){
+    var all_sections = [];
+    if (window.wnyc) {
+        if (wnyc.section){
+            all_sections.push(wnyc.section);
+        }
+
+        if (wnyc.current_item) {
+            if (wnyc.current_item.series) {
+                Array.prototype.push.apply(all_sections, wnyc.current_item.series);
+            }
+            if (wnyc.current_item.show) {
+                all_sections.push(wnyc.current_item.show);
+            }
+            if (wnyc.current_item.channel) {
+                all_sections.push(wnyc.current_item.channel);
+            }
+        }
+        var all_sections_string = all_sections.join(",");
+        if (wnyc.current_item) {
+            /*
+            Adding this for debugging purposes.
+            wnyc.current_item.chartbeat_sections would not be consumed anywhere in the application
+            */
+            wnyc.current_item["chartbeat_sections"] = all_sections_string;
+        }
+        return all_sections_string;
+    }
+    else {
+        return "";
+    }
+}
+
+var _sf_async_config={
+  uid:4030,
+  domain:"wnycstudios.org",
+  sections: set_chartbeat_sections(),
+  authors: ((wnyc.current_item && wnyc.current_item.authors) ?
+            wnyc.current_item.authors.join(",") : "")
+};
+
+
+jQuery(window).on('load', function() {
+  if (wnyc.current_item && !wnyc.current_item.published) {
+    return;
+  }
+  window._sf_endpt=(new Date()).getTime();
+  jQuery.ajax({
+    url:(("https:" == document.location.protocol)
+         ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/"
+         : "http://static.chartbeat.com/") + "js/chartbeat.js",
+    dataType:'script',
+    async:true,
+    cache:true
+  });
+});
+</script>
+  
+    
+<script type="text/javascript">
+  this.wnyc = this.wnyc || {};
+
+  wnyc.current_item = {"tags": ["corruption", "latin_america", "news", "odebrecht", "peru", "politics"], "item_type_id": 24, "site_id": 16, "show_title": "The Takeaway", "authors": [], "id": "842546", "title": "Peru's President Resigns Amid Bribery Scandal ", "show": "takeaway", "item_type": "segment", "published": true, "channel": ""}
+
+</script>
+
+
+      <script src="https://static.wnycstudios.org/assets/wnyc-studios-web-client-d3d2e9540f920fe9c35d51b48403606a.js"></script>
+    <script type="text/x-wnyc-marker" data-url="story/perus-president-resigns-amid-bribery-scandal"></script>
+</body>
+</html>

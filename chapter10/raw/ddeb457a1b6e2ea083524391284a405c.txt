@@ -1,0 +1,1185 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="no-js">
+<head>
+<link rel="manifest" href="/manifest.json">
+<script type="text/javascript">
+//a general 'js' detection, must be on top level in <head>, due to CSS performance
+document.documentElement.className = "js";
+var cacheBuster = "83";
+var appBaseUrl = "/";
+var imgEnhancerBreakpoints = [0, 144, 256, 408, 650, 1023, 1597];
+var isLoggingEnabled = false;
+</script>
+<meta charset="utf-8"/>
+<title>U.S. Says Russia Increasing Deployment Of &#39;Banned&#39; Cruise Missile</title>
+<meta name="title" content="U.S. Says Russia Increasing Deployment Of &#39;Banned&#39; Cruise Missile"/>
+<meta name="description" content="The commander of U.S. nuclear forces says that Russia has increased its deployment of cruise missiles that Washington asserts are in violation of a key Cold War arms-control treaty, a signal that M..." />
+<meta name="keywords" content="RFERL" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="msvalidate.01" content="AFF83BB0F77ADA2BD47CD50D350DBDC7" />
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
+<script>
+var OneSignal = window.OneSignal || [];
+OneSignal.push(["init", {
+appId: "dcba9732-9d59-46ec-aea0-e487e980e249",
+autoRegister: true,
+notifyButton: {
+enable: false
+},
+safari_web_id: 'web.onesignal.auto.14c30330-c4fb-483f-9c66-942ad147f917'
+}]);
+</script>
+<link href="https://www.rferl.org/a/united-states-russia-increasing-deployment-of-banned-cruise-missile/29111751.html" rel="canonical" />
+<meta name="apple-mobile-web-app-title" content="RFE/RL" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<meta name="apple-itunes-app" content="app-id=475986784, app-argument=//29111751.ltr" />
+<meta content="U.S. Says Russia Increasing Deployment Of &#39;Banned&#39; Cruise Missile" property="og:title" />
+<meta content="The commander of U.S. nuclear forces says that Russia has increased its deployment of cruise missiles that Washington asserts are in violation of a key Cold War arms-control treaty, a signal that Moscow continues to be undeterred by U.S. warnings." property="og:description" />
+<meta content="article" property="og:type" />
+<meta content="https://www.rferl.org/a/united-states-russia-increasing-deployment-of-banned-cruise-missile/29111751.html" property="og:url" />
+<meta content="RadioFreeEurope/RadioLiberty" property="og:site_name" />
+<meta content="https://www.facebook.com/rferl" property="article:publisher" />
+<meta content="https://gdb.rferl.org/01D96242-56DD-4001-8D9D-12A68E46A666_w1200_r1_s.jpg" property="og:image" />
+<meta content="1200" property="og:image:width" />
+<meta content="675" property="og:image:height" />
+<meta content="953446944667626" property="fb:app_id" />
+<meta content="Mike Eckel" name="Author" />
+<meta content="summary_large_image" name="twitter:card" />
+<meta content="@RFERL" name="twitter:site" />
+<meta content="https://gdb.rferl.org/01D96242-56DD-4001-8D9D-12A68E46A666_w1200_r1_s.jpg" name="twitter:image" />
+<meta content="News, Russia, Picks" name="news_keywords" /><script type="application/ld+json">{"@context":"http://schema.org","@type":"NewsArticle","inLanguage":"en-US","mainEntityOfPage":"https://www.rferl.org/a/united-states-russia-increasing-deployment-of-banned-cruise-missile/29111751.html","url":"https://www.rferl.org/a/united-states-russia-increasing-deployment-of-banned-cruise-missile/29111751.html","headline":"U.S. Says Russia Increasing Deployment Of \u0027Banned\u0027 Cruise Missile","name":"U.S. Says Russia Increasing Deployment Of \u0027Banned\u0027 Cruise Missile","author":{"@type":"Person","name":"Mike Eckel"},"image":{"@type":"ImageObject","url":"https://gdb.rferl.org/01D96242-56DD-4001-8D9D-12A68E46A666_w1080_h608.jpg","width":1080,"height":608},"datePublished":"2018-03-20","dateModified":"2018-03-20 17:37:15Z","keywords":"News, Russia, Picks","publisher":{"@type":"Organization","name":"RadioFreeEurope/RadioLiberty","logo":{"@type":"ImageObject","url":"https://www.rferl.org/Content/responsive/RFE/en-US/img/logo-amp.png","width":169,"height":60}},"description":"The commander of U.S. nuclear forces says that Russia has increased its deployment of cruise missiles that Washington asserts are in violation of a key Cold War arms-control treaty, a signal that Moscow continues to be undeterred by U.S. warnings."}</script> <link rel="amphtml" href="https://www.rferl.org/amp/29111751.html" />
+<link href="/Content/responsive/RFE/en-US/RFE-en-US.css?&amp;av=7.22.0.0&amp;cb=83" rel="stylesheet"/>
+<script src="/Scripts/responsive/infographics.b?v=SxXmzPs7tORX_4CGgy2i9j_IPxVSLYegywoZHl8xx5o1?&amp;av=7.22.0.0&amp;cb=83"></script>
+<script src="/Scripts/responsive/loader.b?v=vFAgO17esSMVdepnWYXDtukOHEw-ImakVALHFmzAHe81&amp;av=7.22.0.0&amp;cb=83"></script>
+<link rel="shortcut icon" href="/Content/responsive/RFE/img/webApp/favicon.ico" />
+<link rel="apple-touch-icon" sizes="144x144" href="/Content/responsive/RFE/img/webApp/ico-144x144.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/Content/responsive/RFE/img/webApp/ico-114x114.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="/Content/responsive/RFE/img/webApp/ico-72x72.png" />
+<link rel="apple-touch-icon-precomposed" href="/Content/responsive/RFE/img/webApp/ico-57x57.png" />
+<link rel="icon" sizes="192x192" href="/Content/responsive/RFE/img/webApp/ico-192x192.png" />
+<link rel="icon" sizes="128x128" href="/Content/responsive/RFE/img/webApp/ico-128x128.png" />
+<meta name="msapplication-TileColor" content="#ffffff" />
+<meta name="msapplication-TileImage" content="/Content/responsive/RFE/img/webApp/ico-144x144.png" />
+<link rel="alternate" type="application/rss+xml" title="RFE/RL - Top Stories [RSS]" href="/api/" />
+<link rel="sitemap" type="application/rss+xml" href="/sitemap.xml" />
+</head>
+<body class="nav-no-loaded pg-article print-lay-article ">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXZBPZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <script type="text/javascript">
+if (top.location === self.location) { //if not inside of an IFrame
+var renderGtm = "true";
+if (renderGtm === "true") {
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WXZBPZ');
+}
+}
+</script>
+<!--Analytics tag js version start-->
+<script type="text/javascript">
+var utag_data={entity:"RFE",language:"English",language_service:"RFERL English",short_language_service:"ENG",property_id:"420",platform:"Responsive",platform_short:"R",runs_js:"Yes",page_title:"U.S. Says Russia Increasing Deployment Of \u0026#39;Banned\u0026#39; Cruise Missile",page_type:"29111751",page_name:"U.S. Says Russia Increasing Deployment Of \u0026#39;Banned\u0026#39; Cruise Missile",short_headline:"U.S. Says Russia Increasing Deployment Of \u0026#39;Banned\u0026#39; Cruise Missile",long_headline:"U.S. Says Russia Increasing Deployment Of \u0026#39;Banned\u0026#39; Cruise Missile",headline:"U.S. Says Russia Increasing Deployment Of \u0026#39;Banned\u0026#39; Cruise Missile",content_type:"Article",pub_year:"2018",pub_month:"03",pub_day:"20",pub_hour:"17",pub_minute:"28",pub_weekday:"Tuesday",byline:"Eckel, Mike",categories:"news,Russia,Picks",slug:"united-states-russia-increasing-deployment-of-banned-cruise-missile",section:"Russia",english_section:"Russia",article_uid:"29111751"};
+if(typeof(TealiumTagFrom)==='function' && typeof(TealiumTagSearchKeyword)==='function') {
+var utag_from=TealiumTagFrom();var utag_searchKeyword=TealiumTagSearchKeyword();
+if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyword"]==null) utag_data["search_keyword"]=utag_searchKeyword;if(utag_from!=null && utag_from!=='') utag_data["from"]=TealiumTagFrom();}
+(function(a,b,c,d){ a="https://tags.tiqcdn.com/utag/bbg/rferl-pangea/prod/utag.js"; b=document;c="script";d=b.createElement(c);d.src=a;d.type="text/java"+c;d.async=true; a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a); })();
+</script>
+<!--Analytics tag js version end-->
+<!-- Analytics tag management NoScript -->
+<noscript>
+<img style="position: absolute" src="https://bbg.d1.sc.omtrdc.net/b/ss/bbgrrfeenglish-bbgprod-bbgentityrferl-bbgunitrferlenglish/1/G.4--NS/1224864627?pageName=rfe%3aeng%3ar%3a29111751%3au.s.+says+russia+increasing+deployment+of+%27banned%27+cruise+missile&amp;c6=u.s.+says+russia+increasing+deployment+of+%27banned%27+cruise+missile&amp;v6=D=c6&amp;g=https%3a%2f%2fwww.rferl.org&amp;c1=D=g&amp;v1=D=g&amp;events=event1&amp;c7=u.s.+says+russia+increasing+deployment+of+%27banned%27+cruise+missile&amp;v7=D=c7&amp;c16=rferl+english&amp;v16=D=c16&amp;c5=russia&amp;v5=D=c5&amp;ch=english&amp;v15=D=ch&amp;c15=D=ch&amp;c4=article&amp;v4=D=c4&amp;c14=29111751&amp;v14=D=c14&amp;c20=no&amp;c17=responsive&amp;v17=D=c17" border="0" width="1" height="1" /></noscript>
+<!-- End of Analytics tag management NoScript -->
+<!--*** Accessibility links - For ScreenReaders only ***-->
+<section>
+<div class="sr-only">
+<h2>Accessibility links</h2>
+<ul>
+<li><a href="#content" data-disable-smooth-scroll="1">Skip to main content</a></li>
+<li><a href="#navigation" data-disable-smooth-scroll="1">Skip to main Navigation</a></li>
+<li><a href="#txtHeaderSearch" data-disable-smooth-scroll="1">Skip to Search</a></li>
+</ul>
+</div>
+</section>
+<div dir="ltr">
+<div id="page">
+<aside>
+<div class="c-lightbox overlay-modal">
+<div class="c-lightbox__nav">
+<button class="btn btn-rounded c-lightbox__btn c-lightbox__btn--close" title="Close">
+<span class="ico ico-close"></span>
+<span class="sr-only">Close</span>
+</button>
+<button class="btn btn-rounded c-lightbox__btn c-lightbox__btn--prev" title="Previous">
+<span class="ico ico-chevron-backward"></span>
+<span class="sr-only">Previous</span>
+</button>
+<button class="btn btn-rounded c-lightbox__btn c-lightbox__btn--next" title="Next">
+<span class="ico ico-chevron-forward"></span>
+<span class="sr-only">Next</span>
+</button>
+</div>
+<span class="c-spinner c-spinner--lightbox">
+<img src="/Content/responsive/img/player-spinner.png"
+alt="please wait"
+title="please wait" />
+</span>
+<div class="c-lightbox__content">
+<figure>
+<div class="c-lightbox__img">
+<div class="thumb">
+<img src="" alt=""/>
+</div>
+</div>
+<figcaption>
+<div class="c-lightbox__info c-lightbox__info--foot">
+<div class="d-flex">
+<span class="c-lightbox__counter"></span>
+<span class="caption caption--inverted"></span>
+</div>
+</div>
+<div class="c-lightbox__info c-lightbox__info--head">
+<span class="label c-lightbox__label">Gallery:</span>
+<a class="c-lightbox__title" href="href" title="title"></a>
+</div>
+</figcaption>
+</figure>
+</div>
+</div>
+</aside>
+<div class="hdr">
+<div class="hdr-nav-frag">
+<div class="container">
+<a href="/" id="logo">
+<img src="/Content/responsive/RFE/en-US/img/logo-compact.png" class="small" alt="logo-compact">
+<img src="/Content/responsive/RFE/en-US/img/logo.png" class="big" alt="logo">
+</a>
+<img src="/Content/responsive/RFE/en-US/img/logo-print.gif" class="logo-print" alt="logo-print">
+<ul class="compact-actions">
+<li class="action action-entity-sites">
+<a href="/navigation/allsites">
+<span class="ico ico-languages"></span>
+</a>
+</li>
+<li class="action action-srch">
+<a href="/s" title="toggle search input"><span class="sr-only access-help-text">toggle search input</span><span class="ico ico-search"></span></a>
+</li>
+<li class="action action-menu">
+<a href="/navigation.html" title="toggle main navigation"><span class="sr-only access-help-text">toggle main navigation</span><span class="ico ico-menu"></span></a>
+</li>
+</ul>
+<div class="actions">
+<div class="actions__safe-wrap">
+<div class="action action-entity-sites">
+<a href="/navigation/allsites" class="" data-smoothscroll="disabled">
+<span class="ico ico-languages"></span> <span class="name">All RFE/RL sites</span>
+<span class="arrow-open"></span>
+</a>
+</div>
+<div class="action action-socials socials">
+<ul class="follow colored">
+<li>
+<a href="https://facebook.com/rferl" title="Follow us on Facebook" class="btn btn-rounded btn-facebook" target="_blank">
+<span class="ico ico-facebook"></span>
+</a>
+</li>
+<li>
+<a href="https://twitter.com/RFERL" title="Follow us on Twitter" class="btn btn-rounded btn-twitter" target="_blank">
+<span class="ico ico-twitter"></span>
+</a>
+</li>
+<li>
+<a href="https://www.youtube.com/user/rferlonline" title="Follow us on Youtube" class="btn btn-rounded btn-youtube" target="_blank">
+<span class="ico ico-youtube"></span>
+</a>
+</li>
+<li>
+<a href="https://www.instagram.com/rfe.rl/" title="Follow us on Instagram" class="btn btn-rounded btn-instagram" target="_blank">
+<span class="ico ico-instagram"></span>
+</a>
+</li>
+<li>
+<a href="https://t.me/rferl" title="Follow us on Telegram" class="btn btn-rounded btn-telegram" target="_blank">
+<span class="ico ico-telegram"></span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="pnl-srch-top collapsed">
+<form action="/s" id="form-headerSearch" method="get" role="search"><span class="srch-elem">
+<span class="input-wrap">
+<label for="txtHeaderSearch" class="sr-only">Search</label>
+<input type="text" id="txtHeaderSearch" name="k" placeholder="Search" accesskey="s" value="" class="analyticstag-event" onkeydown="if (event.keyCode === 13) { FireAnalyticsTagEventOnSearch('search', $dom.get('txtHeaderSearch')[0].value) }" />
+</span>
+<button title="Search" type="submit" class="btn btn-srch analyticstag-event" onclick="FireAnalyticsTagEventOnSearch('search', $dom.get('txtHeaderSearch')[0].value) ">
+<span class="ico ico-search"></span>
+<span class="text">Search</span>
+</button>
+</span></form>
+</div>
+</div>
+</div>
+</div>
+<div class="sticky-nav-wrap container">
+<div class="sticked-nav-actions">
+<a href="#" title="search" class="btn btn-rounded btn-open-srch">
+<span class="sr-only access-help-text">Search</span>
+<span class="ico ico-search"></span>
+</a>
+</div>
+</div>
+<div class="nav-hdr-outer-container">
+<div class="container" id="nav-hdr-container">
+<div class="navigation collapsed" id="navigation">
+<div class="media">
+<ul class="items">
+</ul>
+</div>
+<div class="menu">
+<ul class="items">
+<li class=" collapsible item">
+<span class="handler">
+Russia
+<span title="close tab" class="ico ico-chevron-up"></span><span title="open tab" class="ico ico-chevron-down"></span><span title="add" class="ico ico-plus"></span><span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/p/5547.html">Russia</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/5569.html">Tatar-Bashkir</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/5494.html">North Caucasus</a>
+</li>
+</ul>
+</div>
+</li>
+<li class=" item">
+<a class="handler" href="/p/5516.html">Iran</a> </li>
+<li class=" collapsible item">
+<span class="handler">
+Central Asia
+<span title="close tab" class="ico ico-chevron-up"></span><span title="open tab" class="ico ico-chevron-down"></span><span title="add" class="ico ico-plus"></span><span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/p/5567.html">Kazakhstan</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/5545.html">Kyrgyzstan</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/5495.html">Tajikistan</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/5548.html">Turkmenistan</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/5496.html">Uzbekistan</a>
+</li>
+</ul>
+</div>
+</li>
+<li class=" collapsible item">
+<span class="handler">
+Caucasus
+<span title="close tab" class="ico ico-chevron-up"></span><span title="open tab" class="ico ico-chevron-down"></span><span title="add" class="ico ico-plus"></span><span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/p/5490.html">Armenia</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/5492.html">Azerbaijan</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/5544.html">Georgia</a>
+</li>
+</ul>
+</div>
+</li>
+<li class=" collapsible item">
+<span class="handler">
+South Asia
+<span title="close tab" class="ico ico-chevron-up"></span><span title="open tab" class="ico ico-chevron-down"></span><span title="add" class="ico ico-plus"></span><span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/p/5542.html">Afghanistan</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/5568.html">Pakistan</a>
+</li>
+</ul>
+</div>
+</li>
+<li class=" collapsible item">
+<span class="handler">
+Balkans
+<span title="close tab" class="ico ico-chevron-up"></span><span title="open tab" class="ico ico-chevron-down"></span><span title="add" class="ico ico-plus"></span><span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/p/6358.html">Bosnia</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/6359.html">Kosovo</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/6360.html">Macedonia</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/6361.html">Montenegro</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/6362.html">Serbia</a>
+</li>
+</ul>
+</div>
+</li>
+<li class=" collapsible item">
+<span class="handler">
+East Europe
+<span title="close tab" class="ico ico-chevron-up"></span><span title="open tab" class="ico ico-chevron-down"></span><span title="add" class="ico ico-plus"></span><span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/p/5533.html">Belarus</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/5517.html">Moldova</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/5519.html">Ukraine</a>
+</li>
+</ul>
+</div>
+</li>
+<li class=" item">
+<a class="handler" href="/p/2905.html">Visuals</a> </li>
+<li class=" item">
+<a class="handler" href="https://pressroom.rferl.org">Pressroom</a> </li>
+<li class=" last-menu-item item">
+<a class="handler" href="https://pressroom.rferl.org/p/6091.html">About</a> </li>
+<li class="service item collapsible collapsed show-more">
+<span class="handler" id="service-handler">
+<span class="more">More</span><span class="ico ico-menu"></span>
+</span>
+<div class="inner">
+<ul class="stored-items subitems"></ul>
+<ul class="options subitems">
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div data-trigger="btn-open-srch" class="sticked-nav-popup popup-srch">
+<div class="container">
+<div class="stick-srch-form">
+<form action="/s" id="form-stickyNavSearch" method="get" role="search"><span class="srch-elem">
+<span class="input-wrap">
+<label for="txtStickyNavSearch" class="sr-only">Search</label>
+<input type="text" id="txtStickyNavSearch" name="k" placeholder="Search" accesskey="s" value="" class="analyticstag-event" onkeydown="if (event.keyCode === 13) { FireAnalyticsTagEventOnSearch('search', $dom.get('txtStickyNavSearch')[0].value) }" />
+</span>
+<button title="Search" type="submit" class="btn btn-srch analyticstag-event" onclick="FireAnalyticsTagEventOnSearch('search', $dom.get('txtStickyNavSearch')[0].value) ">
+<span class="ico ico-search"></span>
+<span class="text">Search</span>
+</button>
+</span></form>
+</div>
+<button class="btn btn-close"><span class="ico ico-close"></span></button>
+</div>
+</div>
+</div>
+<div class="c-hlights c-hlights--breaking c-hlights--no-item" data-hlight-display="mobile,desktop" data-hlight-refresh="30">
+<div class="c-hlights__wrap container p-0">
+<div class="c-hlights__nav">
+<a href="#" title="Previous">
+<span class="ico ico-chevron-backward m-0"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a href="#" title="Next">
+<span class="ico ico-chevron-forward m-0"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+<input id="more-less-1" class="c-form-control read-more-state" type="checkbox" />
+<span class="c-hlights__label">
+<span class="">Breaking News</span>
+<label class="read-more-trigger p-b-0" for="more-less-1"
+data-show-more-text="Show more" data-show-less-text="Show less">
+<span class="ico ico-chevron-down"></span>
+</label>
+</span>
+<ul class="c-hlights__items">
+</ul>
+</div>
+</div> <div id="content">
+<div class="container">
+<div class="hdr-container">
+<div class="row">
+<div class="col-category col-xs-12 col-md-2 pull-left"> <img src="" data-src="https://livetracker.rfe.pangea-cms.com/counter.lt?PageType=1&amp;RecordId=29111751&amp;SiteId=8&amp;r=1651111597&amp;it=0&amp;pd=20180320172815" alt="" style="display: none; position: absolute; top: 0; left: 0" class="live-tracker-image"
+data-lt-referrerControllerUrl="https://livetracker.rfe.pangea-cms.com/api/lt/ref" data-lt-itemType="Content" data-lt-recordId="29111751" data-lt-siteId="8" />
+<noscript>
+<img src="https://livetracker.rfe.pangea-cms.com/counter.lt?PageType=1&amp;RecordId=29111751&amp;SiteId=8&amp;r=1651111597&amp;it=0&amp;pd=20180320172815" alt="" style="display: none; position: absolute; top: 0; left: 0" class="live-tracker-image"
+data-lt-referrerControllerUrl="https://livetracker.rfe.pangea-cms.com/api/lt/ref" data-lt-itemType="Content" data-lt-recordId="29111751" data-lt-siteId="8" />
+</noscript>
+<div class="category">
+<a href="/z/666">Russia</a> </div>
+</div><div class="col-title col-xs-12 col-md-10 pull-right"> <h1 class="pg-title">
+U.S. Says Russia Increasing Deployment Of &#39;Banned&#39; Cruise Missile </h1>
+</div><div class="col-publishing-details col-xs-12 col-sm-12 col-md-2 pull-left"> <div class="publishing-details">
+<div class="published">
+<span class="date" >
+<time datetime="2018-03-20T17:28:15+00:00">
+March 20, 2018 17:28 GMT
+</time>
+</span>
+</div>
+<div class="authors">
+<ul>
+<li>
+<a href="/author/96267.html" title="Mike Eckel">Mike Eckel</a>
+</li>
+</ul>
+</div><!-- /.authors -->
+</div>
+</div><div class="col-lg-12 separator"> <div class="separator">
+<hr class="title-line" />
+</div>
+</div><div class="col-multimedia col-xs-12 col-md-10 pull-right"> <div class="cover-media">
+<figure class="media-image js-media-expand">
+<div class="img-wrap">
+<div class="thumb">
+<img src="https://gdb.rferl.org/01D96242-56DD-4001-8D9D-12A68E46A666_w250_r1_s.jpg" itemprop="url" alt="General John Hyten (left) " />
+</div>
+<span class="ico ico-fullscreen ico--media-expand ico--rounded"></span>
+</div>
+<figcaption>
+<span class="caption" itemprop="caption">General John Hyten (left) </span>
+</figcaption>
+</figure>
+</div>
+</div><div class="col-xs-12 col-md-2 pull-left article-share"> <aside>
+<div class="share share--content"
+data-counter-separator="."
+data-counter-url="/a/united-states-russia-increasing-deployment-of-banned-cruise-missile/29111751.html"
+>
+<span class="label label--share stand-alone">Share</span>
+<ul class="share__list sharing">
+<li class="share__item"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_facebook' })">
+<a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.rferl.org%2fa%2funited-states-russia-increasing-deployment-of-banned-cruise-missile%2f29111751.html" title="Share on Facebook" target="_blank" class="btn btn-rounded btn-facebook">
+<span class="ico ico-facebook">
+<span>Share on Facebook</span>
+</span>
+</a>
+<span class="shares shares__facebook shares--empty">&nbsp;</span>
+</li>
+<li class="share__item"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_twitter' })">
+<a href="https://twitter.com/share?url=https%3a%2f%2fwww.rferl.org%2fa%2funited-states-russia-increasing-deployment-of-banned-cruise-missile%2f29111751.html&amp;text=U.S.+Says+Russia+Increasing+Deployment+Of+%27Banned%27+Cruise+Missile" title="Share on Twitter" target="_blank" class="btn btn-rounded btn-twitter">
+<span class="ico ico-twitter">
+<span>Share on Twitter</span>
+</span>
+</a>
+<span class="shares shares__twitter shares--empty">&nbsp;</span>
+</li>
+<li class="share__item share-additional first-additional"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_vkontakte' })">
+<a href="https://vkontakte.ru/share.php?url=https%3a%2f%2fwww.rferl.org%2fa%2funited-states-russia-increasing-deployment-of-banned-cruise-missile%2f29111751.html" title="Share on В Контакте" target="_blank" class="btn btn-rounded btn-vkontakte">
+<span class="ico ico-vkontakte">
+<span>Share on В Контакте</span>
+</span>
+</a>
+<span class="shares shares__vkontakte shares--empty">&nbsp;</span>
+</li>
+<li class="share__item share-additional"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_google_plus' })">
+<a href="https://plus.google.com/share?url=https%3a%2f%2fwww.rferl.org%2fa%2funited-states-russia-increasing-deployment-of-banned-cruise-missile%2f29111751.html" title="Share on Google+" target="_blank" class="btn btn-rounded btn-g-plus">
+<span class="ico ico-g-plus">
+<span>Share on Google+</span>
+</span>
+</a>
+<span class="shares shares__g-plus shares--empty">&nbsp;</span>
+</li>
+<li class="share__item share-additional"
+>
+<a href="mailto:?body=https%3a%2f%2fwww.rferl.org%2fa%2funited-states-russia-increasing-deployment-of-banned-cruise-missile%2f29111751.html&amp;subject=U.S. Says Russia Increasing Deployment Of &#39;Banned&#39; Cruise Missile" title="Email to a Friend" class="btn btn-rounded btn-email ">
+<span class="ico ico-email">
+<span>Email to a Friend</span>
+</span>
+</a>
+<span class="shares shares__email shares--empty">&nbsp;</span>
+</li>
+<li class="share__item share-additional"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_linkedIn' })">
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fwww.rferl.org%2fa%2funited-states-russia-increasing-deployment-of-banned-cruise-missile%2f29111751.html&amp;title=U.S. Says Russia Increasing Deployment Of &#39;Banned&#39; Cruise Missile" title="Share on LinkedIn" target="_blank" class="btn btn-rounded btn-linkedin">
+<span class="ico ico-linkedin">
+<span>Share on LinkedIn</span>
+</span>
+</a>
+</li>
+<li class="share__item">
+<a title="toggle more sharing options" class="btn btn-rounded btn-load-more hidden sharing-more">
+<span class="ico ico-ellipsis"></span>
+</a>
+</li>
+</ul>
+</div>
+<div class="sticky-share-container" style="display:none">
+<div class="container">
+<a href="https://www.rferl.org" id="logo-sticky-share">&nbsp;</a>
+<div class="pg-title">
+U.S. Says Russia Increasing Deployment Of &#39;Banned&#39; Cruise Missile
+</div>
+<div class="sticked-nav-actions">
+<span class="label label--share">share</span>
+<div class="share share--sticky">
+<ul class="share__list sharing">
+<li class="share__item"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_facebook' })">
+<a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.rferl.org%2fa%2funited-states-russia-increasing-deployment-of-banned-cruise-missile%2f29111751.html" title="Share on Facebook" target="_blank" class="btn btn-rounded btn-rounded--small btn-facebook">
+<span class="ico ico-facebook">
+<span>Share on Facebook</span>
+</span>
+</a>
+<span class="shares shares__facebook shares--empty">&nbsp;</span>
+</li>
+<li class="share__item"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_twitter' })">
+<a href="https://twitter.com/share?url=https%3a%2f%2fwww.rferl.org%2fa%2funited-states-russia-increasing-deployment-of-banned-cruise-missile%2f29111751.html&amp;text=U.S.+Says+Russia+Increasing+Deployment+Of+%27Banned%27+Cruise+Missile" title="Share on Twitter" target="_blank" class="btn btn-rounded btn-rounded--small btn-twitter">
+<span class="ico ico-twitter">
+<span>Share on Twitter</span>
+</span>
+</a>
+<span class="shares shares__twitter shares--empty">&nbsp;</span>
+</li>
+<li class="share__item"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_vkontakte' })">
+<a href="https://vkontakte.ru/share.php?url=https%3a%2f%2fwww.rferl.org%2fa%2funited-states-russia-increasing-deployment-of-banned-cruise-missile%2f29111751.html" title="Share on В Контакте" target="_blank" class="btn btn-rounded btn-rounded--small btn-vkontakte">
+<span class="ico ico-vkontakte">
+<span>Share on В Контакте</span>
+</span>
+</a>
+<span class="shares shares__vkontakte shares--empty">&nbsp;</span>
+</li>
+<li class="share__item share-additional first-additional"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_google_plus' })">
+<a href="https://plus.google.com/share?url=https%3a%2f%2fwww.rferl.org%2fa%2funited-states-russia-increasing-deployment-of-banned-cruise-missile%2f29111751.html" title="Share on Google+" target="_blank" class="btn btn-rounded btn-rounded--small btn-g-plus">
+<span class="ico ico-g-plus">
+<span>Share on Google+</span>
+</span>
+</a>
+<span class="shares shares__g-plus shares--empty">&nbsp;</span>
+</li>
+<li class="share__item share-additional"
+>
+<a href="mailto:?body=https%3a%2f%2fwww.rferl.org%2fa%2funited-states-russia-increasing-deployment-of-banned-cruise-missile%2f29111751.html&amp;subject=U.S. Says Russia Increasing Deployment Of &#39;Banned&#39; Cruise Missile" title="Email to a Friend" class="btn btn-rounded btn-rounded--small btn-email ">
+<span class="ico ico-email">
+<span>Email to a Friend</span>
+</span>
+</a>
+<span class="shares shares__email shares--empty">&nbsp;</span>
+</li>
+<li class="share__item share-additional"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_linkedIn' })">
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fwww.rferl.org%2fa%2funited-states-russia-increasing-deployment-of-banned-cruise-missile%2f29111751.html&amp;title=U.S. Says Russia Increasing Deployment Of &#39;Banned&#39; Cruise Missile" title="Share on LinkedIn" target="_blank" class="btn btn-rounded btn-rounded--small btn-linkedin">
+<span class="ico ico-linkedin">
+<span>Share on LinkedIn</span>
+</span>
+</a>
+</li>
+<li class="share__item">
+<a title="toggle more sharing options" class="btn btn-rounded btn-rounded--small btn-load-more hidden sharing-more">
+<span class="ico ico-ellipsis"></span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="links link-function">
+<p class="link-print visible-md visible-lg">
+<button class="btn btn-link btn-print" onclick="if (typeof FireAnalyticsTagEvent === 'function') {FireAnalyticsTagEvent({ on_page_event: 'print_story' });}window.print();return false" title="(CTRL+P)">
+<span class="ico ico-print"></span>Print
+</button>
+</p>
+</div>
+</aside>
+</div>
+</div>
+</div>
+<div class="body-container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10 pull-right">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 pull-left bottom-offset content-offset">
+<div>
+<div class="wsw">
+<p>WASHINGTON -- The commander of U.S. nuclear forces says that Russia has increased its deployment of cruise missiles that Washington asserts are in violation of a key Cold War arms-control treaty, a signal that Moscow continues to be undeterred by U.S. warnings.</p>
+<p>The comments on March 20 by General John Hyten come with U.S. officials moving more aggressively to confront Moscow and the suspect ground-launched cruise missile, which Washington first publicly identified four years ago as being in violation of the 1987 Intermediate-Range Nuclear Forces treaty.</p>
+<p>Since being accused in 2014 of developing the missile, Russia has repeatedly denied the U.S. assertions and claimed that Washington had essentially quit the Soviet-era arms-control pact already. Last year, a top U.S. military official said Moscow had begun deploying the missile. </p>
+<p>U.S. officials say that in recent months, however, Moscow has begun quietly shifting its approach away from abject denials of the U.S. accusations to more of a dialogue with U.S. negotiators. </p>
+<p>During a hearing of the Senate Armed Services Committee, Republican Deb Fischer asked if Russia was increasing its production and deployment of the cruise-missile system. Hyten, the chief of U.S. Strategic Command, responded, “Yes.” <br />
+<br />
+Known as the INF, the Intermediate-Range Nuclear Forces treaty essentially banned all ground-launched, medium-range cruise and ballistic missiles from Europe. It’s long been considered a keystone arms control agreement between Moscow and Washington that lifted a destabilizing threat from the continent. </p>
+<p>U.S. intelligence first detected that Russia was testing a new missile system in the late 2000s, but it wasn’t until 2014 when the administration of then-President Barack Obama formally leveled its accusation. </p>
+<p>U.S. officials sought to persuade Russia to come clean about its efforts and eventually pushed for a meeting of the Special Verification Commission, a group of technical experts from both sides. </p>
+<p>But there was little progress in resolving the dispute, and Republicans in Congress called for a stronger response. The latest legislation funding U.S. military programs calls for spending up $60 million to develop a new ground-launched cruise missile to counter the Russian effort. </p>
+<p>In November, Christopher Ford, a top National Security Council official who was tapped to lead the State Department’s nonproliferation division, strongly criticized the earlier approach to the problem and signaled a more aggressive policy. He also publicly identified the missile in question. </p>
+<p>&quot;The Russians now need to choose whether they share our steadfast desire to preserve the treaty or whether they will continue on their current path, which leads to the treaty’s collapse. They no longer have the option of having their cake and eating it, too,&quot;<strong><a class="wsw__a" href="https://www.rferl.org/a/us-inf-missile-dispute-new-measures-economic-military/28905675.html" target="_blank"> Ford said.</a></strong></p>
+<p>Adding further to the mistrust is the U.S. conclusion that the Russian engineers deliberately designed the new missile system to blend in with other permitted missile systems, such as the Iskander. According to a U.S. State Department official with knowledge of the systems, that has made it exceedingly difficult for U.S. intelligence to distinguish missiles from one another. </p>
+<p>Earlier this year, the Trump administration released its first Nuclear Posture Review, a policy document laying out the circumstances under which the United States will use its nuclear arsenal. The review included the possibility of low-yield tactical nuclear weapons, as well as new submarine-launched missiles. </p>
+<p>Last month, Russian President Vladimir Putin trumpeted a series of new weapons under development and <strong><a class="wsw__a" href="https://www.rferl.org/a/putin-arms-race-united-states-new-weapons-arsenal-buildup/29071540.html" target="_blank">specifically cited</a></strong> the Trump administration’s Nuclear Posture Review as the reason for building the new systems.</p>
+</div>
+<ul>
+<li>
+<!-- Author's Profile -->
+<div class="c-author c-author--hlight">
+<div class="small-thums-list">
+<div class="media-block horizontal has-img">
+<div class="img-wrap">
+<div class="thumb thumb1_1 rounded">
+<img alt="16x9 Image" class="avatar" src="https://gdb.rferl.org/0E244599-4BAE-4E84-945B-CBAA234E2CC6_w66_r5.jpg" />
+</div>
+</div>
+<div>
+<h4 class="media-block__title media-block__title--author">
+<a href="/author/96267.html">Mike Eckel</a>
+</h4>
+<div class="wsw">
+<p>Mike Eckel is a senior correspondent for RFE/RL based in Washington.</p>
+</div>
+<div class="c-author__email">
+<a href="mailto:EckelM@rferl.org">EckelM@rferl.org</a>
+</div>
+<div class="c-author__btns m-t-md">
+<a class="btn btn-twitter btn--social" target="_blank" href="https://twitter.com/@Mike_Eckel">
+<span class="ico ico-twitter"></span>
+FOLLOW
+</a>
+<a class="btn btn-rss btn--social" target="_blank" href="/api/amuvyqoe$ityqo">
+<span class="ico ico-rss"></span>
+Subscribe via RSS
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 pull-left design-top-offset"> <div class="region">
+<div class="media-block-wrap" id="wrowblock-2025_21" data-area-id=R3_1>
+<h2 class="section-head">
+Editors&#39; Picks </h2>
+<div class="row">
+<ul>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block horizontal has-img size-4">
+<a href="/a/russia-election-fraud-10-million-votes-researcher-churovs-saw-putin/29111554.html"
+onclick=""
+class="img-wrap" title="Seeing &#39;Churov&#39;s Saw&#39;: Russian Researcher Says Putin May Have Received 10 Million Fraudulent Votes">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/DDC8095F-3FC3-4693-85C9-BFF100575EAB_cx0_cy10_cw0_w33_r1.jpg" src="" alt="An abnormally high number of Russian polling stations reported turnout percentages ending in round numbers -- like 70, 75, 80, and 85.">
+</div>
+</a>
+<div class="content">
+<a href="/a/russia-election-fraud-10-million-votes-researcher-churovs-saw-putin/29111554.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">Seeing &#39;Churov&#39;s Saw&#39;: Russian Researcher Says Putin May Have Received 10 Million Fraudulent Votes</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block horizontal has-img size-4">
+<a href="/a/night-wolves-motorcycle-club-troll-bosnia-region-putin/29111436.html"
+onclick=""
+class="img-wrap" title="Analysis: Putin&#39;s Pals, The Night Wolves, Troll Bosnia And The Region">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/E2D04539-4335-488D-AE00-E16B2F16E7B4_w33_r1.jpg" src="" alt="The leader of the Night Wolves, Aleksandr Zaldostanov (aka The Surgeon) and Russian President Vladimir Putin in Sevastopol, Crimea, in
+August 2017">
+</div>
+</a>
+<div class="content">
+<a href="/a/night-wolves-motorcycle-club-troll-bosnia-region-putin/29111436.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">Analysis: Putin&#39;s Pals, The Night Wolves, Troll Bosnia And The Region</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block horizontal has-img size-4">
+<a href="/a/daily-vertical-meet-new-tsar-same-as-old-tsar/29111162.html"
+onclick=""
+class="img-wrap" title="The Daily Vertical: Meet The New Tsar, Same As The Old Tsar">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/1672CB46-0E68-4E0A-92AA-FBC66A2442A2_w33_r1.jpg" src="">
+</div>
+</a>
+<div class="content">
+<a href="/a/daily-vertical-meet-new-tsar-same-as-old-tsar/29111162.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">The Daily Vertical: Meet The New Tsar, Same As The Old Tsar</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block horizontal has-img size-4">
+<a href="/a/putin-expected-to-sail-to-fourth-term-as-russians-vote/29105971.html"
+onclick=""
+class="img-wrap" title="Near-Final Results Give Putin Landslide Win Amid Reports Of Violations">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/B4215E20-3C68-40DD-9ACE-91880479068A_w33_r1.jpg" src="" alt="Russian President Vladimir Putin delivers a speech to his supporters on March 18. ">
+</div>
+</a>
+<div class="content">
+<a href="/a/putin-expected-to-sail-to-fourth-term-as-russians-vote/29105971.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">Near-Final Results Give Putin Landslide Win Amid Reports Of Violations</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block horizontal has-img size-4">
+<a href="/a/29098499.html"
+onclick=""
+class="img-wrap" title="Russia In The Raw">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/0BAEAC56-6A8B-4AB5-A018-3C8BA02CFA55_cx0_cy21_cw100_w33_r1.jpg" src="">
+</div>
+<span class="ico ico-infographic"></span>
+</a>
+<div class="content">
+<a href="/a/29098499.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">Russia In The Raw</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block horizontal has-img size-4">
+<a href="/a/russian-mercenaries-vagner-commanders-syria/29100402.html"
+onclick=""
+class="img-wrap" title="Russian Mercenaries: Vagner Commanders Describe Life Inside The &#39;Meat Grinder&#39;">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/E17AEA35-9A4F-4E34-954F-2F0E193ACFE2_cx0_cy12_cw0_w33_r1.jpg" src="" alt="Smoke rises following an air strike on a rebel-held area in Syria. According to one commander, a Russian officer &quot;coordinates the air cover&quot; with mercenary troops on the ground. &quot;Sometimes it is a thing of beauty to see how perfectly the aviation and artillery support works out,&quot; he says. (illustrative photo)">
+</div>
+</a>
+<div class="content">
+<a href="/a/russian-mercenaries-vagner-commanders-syria/29100402.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">Russian Mercenaries: Vagner Commanders Describe Life Inside The &#39;Meat Grinder&#39;</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block horizontal has-img size-4">
+<a href="/a/ukraine-crisis-live-blog-event-as-they-happen/28712252.html"
+onclick=""
+class="img-wrap" title="Live Blog: Ukraine In Crisis">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/8E8C78C1-035C-4313-AB05-CCFFA51CDC86_cx0_cy10_cw0_w33_r1.jpg" src="" alt="Fans gathered at Boryspil airport to meet the returning members of Ukraine&#39;s Paralympic team on March 20.">
+</div>
+</a>
+<div class="content">
+<a href="/a/ukraine-crisis-live-blog-event-as-they-happen/28712252.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">Live Blog: Ukraine In Crisis</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block horizontal has-img size-4">
+<a href="/a/russia-president-election-2018-putin-blog/29009811.html"
+onclick=""
+class="img-wrap" title="Russia 2018: Kremlin Countdown">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/509AE2AB-F926-4852-8166-DF4E02C690D3_w33_r1.png" src="">
+</div>
+</a>
+<div class="content">
+<a href="/a/russia-president-election-2018-putin-blog/29009811.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">Russia 2018: Kremlin Countdown</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="media-block-wrap" id="wrowblock-2026_21" data-area-id=R4_1>
+<h2 class="section-head">
+<a href="/p/2905.html"><span class="ico ico-chevron-forward pull-right"></span>Latest Multimedia</a> </h2>
+<div class="row">
+<ul>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block horizontal has-img size-4">
+<a href="/a/29111713.html"
+onclick=""
+class="img-wrap" title="Expelled Russian Diplomats Head To Moscow">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/0b115df0-777d-4ede-927d-9f184b9ce9db_tv_w33_r1.jpg" src="" alt="Expelled Russian Diplomats Head To Moscow">
+</div>
+<span class="ico ico-video"></span>
+</a>
+<div class="content">
+<a href="/a/29111713.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">Expelled Russian Diplomats Head To Moscow</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block horizontal has-img size-4">
+<a href="/a/29111612.html"
+onclick=""
+class="img-wrap" title="Cambridge Analytica, Facebook Under Scrutiny Over Data Use">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/c745129d-3e68-44cf-a28d-7e9b9ca8e588_tv_w33_r1.jpg" src="" alt="Cambridge Analytica, Facebook Under Scrutiny Over Data Use">
+</div>
+<span class="ico ico-video"></span>
+</a>
+<div class="content">
+<a href="/a/29111612.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">Cambridge Analytica, Facebook Under Scrutiny Over Data Use</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block horizontal has-img size-4">
+<a href="/a/29109634.html"
+onclick=""
+class="img-wrap" title="Ballot-Stuffing Caught On Camera At Russian Polls">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/93dd9b5b-5c01-4553-a386-bedbf81a0134_tv_w33_r1.jpg" src="" alt="Ballot-Stuffing Caught On Camera At Russian Polls">
+</div>
+<span class="ico ico-video"></span>
+</a>
+<div class="content">
+<a href="/a/29109634.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">Ballot-Stuffing Caught On Camera At Russian Polls</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div><a class="link-more" href="/p/2905.html">More Multimedia</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<div class="media-block-wrap slide-in-wg" data-cookie-id="wgt-68534-2046717">
+<div class="wg-hiding-area">
+<span class="ico ico-arrow-right"></span>
+<h3 class="section-head">Recommended</h3>
+<div class="row">
+<ul class="">
+<li class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<div class="media-block horizontal has-img size-4">
+<a href="/a/russia-election-fraud-10-million-votes-researcher-churovs-saw-putin/29111554.html"
+onclick=""
+class="img-wrap" title="Seeing &#39;Churov&#39;s Saw&#39;: Russian Researcher Says Putin May Have Received 10 Million Fraudulent Votes">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/DDC8095F-3FC3-4693-85C9-BFF100575EAB_cx0_cy10_cw0_w33_r1.jpg" src="" alt="An abnormally high number of Russian polling stations reported turnout percentages ending in round numbers -- like 70, 75, 80, and 85.">
+</div>
+</a>
+<div class="content">
+<a href="/a/russia-election-fraud-10-million-votes-researcher-churovs-saw-putin/29111554.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">Seeing &#39;Churov&#39;s Saw&#39;: Russian Researcher Says Putin May Have Received 10 Million Fraudulent Votes</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container" id="youmaylike">
+<div class="row">
+<div class="col-xs-12">
+<div class="media-block-wrap">
+<h3 class="section-head">You Might Also Like</h3>
+<ul class="row">
+<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<div class="media-block horizontal with-category has-img size-4">
+<a href="/a/russia-election-fraud-10-million-votes-researcher-churovs-saw-putin/29111554.html"
+onclick=""
+class="img-wrap" title="Seeing &#39;Churov&#39;s Saw&#39;: Russian Researcher Says Putin May Have Received 10 Million Fraudulent Votes">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/DDC8095F-3FC3-4693-85C9-BFF100575EAB_cx0_cy10_cw0_w33_r1.jpg" src="" alt="An abnormally high number of Russian polling stations reported turnout percentages ending in round numbers -- like 70, 75, 80, and 85.">
+</div>
+</a>
+<div class="content">
+<a class="category" href="/z/666">Russia</a>
+<a href="/a/russia-election-fraud-10-million-votes-researcher-churovs-saw-putin/29111554.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">Seeing &#39;Churov&#39;s Saw&#39;: Russian Researcher Says Putin May Have Received 10 Million Fraudulent Votes</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<div class="media-block horizontal with-category has-img size-4">
+<a href="/a/daily-vertical-meet-new-tsar-same-as-old-tsar/29111162.html"
+onclick=""
+class="img-wrap" title="The Daily Vertical: Meet The New Tsar, Same As The Old Tsar">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/1672CB46-0E68-4E0A-92AA-FBC66A2442A2_w33_r1.jpg" src="">
+</div>
+</a>
+<div class="content">
+<a class="category" href="/z/20343">The Power Vertical</a>
+<a href="/a/daily-vertical-meet-new-tsar-same-as-old-tsar/29111162.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">The Daily Vertical: Meet The New Tsar, Same As The Old Tsar</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<div class="media-block horizontal with-category has-img size-4">
+<a href="/a/rt-top-editor-simonyan-toasts-putin-he-is-now-our-leader/29109679.html"
+onclick=""
+class="img-wrap" title="RT&#39;s Top Editor Toasts Putin: &#39;He Used To Be Our President; Now He Is Our Leader&#39;">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/D9DA6A1A-2D38-4480-9024-3FB4645DADFA_cx0_cy5_cw0_w33_r1.jpg" src="" alt="Russian President Vladimir Putin and Margarita Simonyan, the chief editor of RT: &quot;We won’t let you change him.&quot;">
+</div>
+</a>
+<div class="content">
+<a class="category" href="/z/648">Transmission</a>
+<a href="/a/rt-top-editor-simonyan-toasts-putin-he-is-now-our-leader/29109679.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">RT&#39;s Top Editor Toasts Putin: &#39;He Used To Be Our President; Now He Is Our Leader&#39;</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="back-to-top-nav disabled visible-xs">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<a title="Back to top" class="back-to-top-link" href="#page">
+<span class="ico ico-chevron-up"></span>
+<span class="text">Back to top</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer role="contentinfo">
+<div id="foot" class="foot">
+<div class="container">
+<div class="foot-nav collapsed" id="foot-nav">
+<div class="menu">
+<ul class="items">
+<li class="socials block-socials">
+<span class="handler" id="socials-handler">
+Follow Us
+</span>
+<div class="inner">
+<ul class="subitems follow">
+<li>
+<a href="https://facebook.com/rferl" title="Follow us on Facebook" class="btn btn-rounded btn-facebook" target="_blank">
+<span class="ico ico-facebook"></span>
+</a>
+</li>
+<li>
+<a href="https://twitter.com/RFERL" title="Follow us on Twitter" class="btn btn-rounded btn-twitter" target="_blank">
+<span class="ico ico-twitter"></span>
+</a>
+</li>
+<li>
+<a href="https://www.youtube.com/user/rferlonline" title="Follow us on Youtube" class="btn btn-rounded btn-youtube" target="_blank">
+<span class="ico ico-youtube"></span>
+</a>
+</li>
+<li>
+<a href="https://www.instagram.com/rfe.rl/" title="Follow us on Instagram" class="btn btn-rounded btn-instagram" target="_blank">
+<span class="ico ico-instagram"></span>
+</a>
+</li>
+<li>
+<a href="https://t.me/rferl" title="Follow us on Telegram" class="btn btn-rounded btn-telegram" target="_blank">
+<span class="ico ico-telegram"></span>
+</a>
+</li>
+<li>
+<a href="/rssfeeds" title="RSS" class="btn btn-rounded btn-rss">
+<span class="ico ico-rss"></span>
+</a>
+</li>
+<li>
+<a href="/podcasts" title="Podcast" class="btn btn-rounded btn-podcast">
+<span class="ico ico-podcast"></span>
+</a>
+</li>
+<li>
+<a href="/subscribe.html" title="Subscribe" class="btn btn-rounded btn-email">
+<span class="ico ico-email"></span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="block-primary collapsed collapsible item">
+<span class="handler">
+Quick Hits
+<span title="close tab" class="ico ico-chevron-up"></span><span title="open tab" class="ico ico-chevron-down"></span><span title="add" class="ico ico-plus"></span><span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="https://pressroom.rferl.org/p/6091.html">About RFE/RL</a>
+</li>
+<li class="subitem">
+<a class="handler" href="https://pressroom.rferl.org/p/6085.html">Contact Us</a>
+</li>
+<li class="subitem">
+<a class="handler" href="https://pressroom.rferl.org/">Press Room</a>
+</li>
+<li class="subitem">
+<a class="handler" href="https://pressroom.rferl.org/p/6116.html">Terms Of Use</a>
+</li>
+<li class="subitem">
+<a class="handler" href="https://www.rferl.mobi/jobs.html">Jobs</a>
+</li>
+<li class="subitem">
+<a class="handler" href="https://www.bbg.gov/">Broadcasting Board of Governors</a>
+</li>
+<li class="subitem">
+<a class="handler" href="https://www.rferl.org/p/6466.html">Legal</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="block-primary collapsed collapsible item">
+<span class="handler">
+Browse
+<span title="close tab" class="ico ico-chevron-up"></span><span title="open tab" class="ico ico-chevron-down"></span><span title="add" class="ico ico-plus"></span><span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/p/5458.html">News</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/z/651">Features</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/2904.html">Blogs</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/2905.html">Multimedia</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/z/683">RFE/RL Newsline (Jan 2000-May 2008)</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/z/865">Analytical Reports (Jan 2000-June 2008)</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="foot__item foot__item--copyrights">
+<p class="copyright">Radio Free Europe/Radio Liberty &#169; 2018 RFE/RL, Inc. All Rights Reserved.
+</p>
+</div>
+</div>
+</div>
+</footer> </div>
+</div>
+<script type="text/javascript">
+//test ie 6, 7, 8
+var div = document.createElement("div");
+div.innerHTML = "<!--[if lte IE 8]><i></i><![endif]-->";
+var isIe8orLower = !!div.getElementsByTagName("i").length;
+if (!isIe8orLower && !navigator.userAgent.match(/Opera Mini/i)) {
+document.getElementsByTagName("body")[0].className += " can-ff";
+}
+// mobile browsers test
+if (RFE.isMobile.any()) {
+document.getElementsByTagName("body")[0].className += " is-mobile";
+}
+else {
+document.getElementsByTagName("body")[0].className += " is-not-mobile";
+}
+</script>
+<script src="/conf.js?x=83" type="text/javascript"></script>
+<div class="responsive-indicator">
+<div class="visible-xs-block">XS</div>
+<div class="visible-sm-block">SM</div>
+<div class="visible-md-block">MD</div>
+<div class="visible-lg-block">LG</div>
+</div>
+<script type="text/javascript">
+var bar_data = {
+"apiUrl": "http://rfe.pangea-cms.com/publisher/en-US/api/frontend/itemdata",
+"apiId": "29111751",
+"apiType": "1",
+"isEmbedded": "0",
+"cookieName": "cmsLoggedIn",
+"cookieDomain": "www.rferl.org"
+};
+</script>
+</body>
+</html>

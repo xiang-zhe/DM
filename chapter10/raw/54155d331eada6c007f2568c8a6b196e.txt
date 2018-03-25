@@ -1,0 +1,574 @@
+<!doctype html>
+<html amp>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,minimal-ui">
+	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900,100italic,300italic,400italic,700italic,900italic|Montserrat:400,700|Open+Sans+Condensed:700" rel="stylesheet" type="text/css">
+	
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Facebook apologizes for child abuse search suggestions" />
+<meta property="og:url" content="http://wgno.com/2018/03/16/facebook-apologizes-for-child-abuse-search-suggestions/" />
+<meta property="og:description" content="Facebook apologized on Friday after its autocomplete search feature suggested video titles that described child abuse.
+
+" />
+<meta property="article:published_time" content="2018-03-16T19:53:33+00:00" />
+<meta property="article:modified_time" content="2018-03-16T19:53:33+00:00" />
+<meta property="og:site_name" content="WGNO" />
+<meta property="og:image" content="https://tribwgno.files.wordpress.com/2018/02/facebook-1.jpg?quality=85&amp;strip=all" />
+<meta property="og:image:width" content="770" />
+<meta property="og:image:height" content="433" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@WGNOtv" />
+<meta name="twitter:text:title" content="Facebook apologizes for child abuse search suggestions" />
+<meta name="twitter:image:src" content="https://tribwgno.files.wordpress.com/2018/02/facebook-1.jpg?quality=85&amp;strip=all&amp;w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@WGNOtv" />
+<meta property="article:publisher" content="http://www.facebook.com/wgno" />
+<meta property="article:author" content="http://www.facebook.com/wgno" />
+	<title>Facebook apologizes for child abuse search suggestions &#8211; WGNO</title>
+		<link rel="canonical" href="http://wgno.com/2018/03/16/facebook-apologizes-for-child-abuse-search-suggestions/" />
+	<script custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js" async></script><script custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js" async></script><script custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js" async></script><script custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js" async></script><script src="https://cdn.ampproject.org/v0.js" async></script><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic">	<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+		<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":"http:\/\/wgno.com\/2018\/03\/16\/facebook-apologizes-for-child-abuse-search-suggestions\/","publisher":{"@type":"Organization","name":"WGNO","logo":{"@type":"ImageObject","url":"http:\/\/1.gravatar.com\/blavatar\/15e950354653a293d7da48f4518c61d7?s=60&d=https%3A%2F%2Fs2.wp.com%2Fi%2Ffavicons%2Fapple-touch-icon-60x60.png","width":60,"height":60}},"headline":"Facebook apologizes for child abuse search suggestions","datePublished":"2018-03-16T14:53:33+00:00","dateModified":"2018-03-16T14:53:33+00:00","author":[{"@type":"Person","name":"CNN Wire"}],"image":{"@type":"ImageObject","url":"https:\/\/tribwgno.files.wordpress.com\/2018\/02\/facebook-1.jpg?quality=85&strip=all","width":770,"height":433},"description":"Facebook apologized on Friday after its autocomplete search feature suggested video titles that described child abuse. Some Facebook users who typed \"video of\" into the platform's search bar on Thursday night presented with autocomplete suggestions about videos of young girls&hellip;"}</script>
+	<meta name="generator" content="AMP Plugin v0.6.2" />	<style amp-custom>
+	/* Generic WP styling */
+
+.alignright {
+	float: right;
+}
+
+.alignleft {
+	float: left;
+}
+
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.amp-wp-enforced-sizes {
+	/** Our sizes fallback is 100vw, and we have a padding on the container; the max-width here prevents the element from overflowing. **/
+	max-width: 100%;
+	margin: 0 auto;
+}
+
+.amp-wp-unknown-size img {
+	/** Worst case scenario when we can't figure out dimensions for an image. **/
+	/** Force the image into a box of fixed dimensions and use object-fit to scale. **/
+	object-fit: contain;
+}
+
+/* Template Styles */
+
+.amp-wp-content,
+.amp-wp-title-bar div {
+		margin: 0 auto;
+	max-width: 770px;
+	}
+
+html {
+	background: #0a89c0;
+}
+
+body {
+	background: #fff;
+	color: #353535;
+	font-family: 'Merriweather', 'Times New Roman', Times, Serif;
+	font-weight: 300;
+	line-height: 1.75em;
+}
+
+p,
+ol,
+ul,
+figure {
+	margin: 0 0 1em;
+	padding: 0;
+}
+
+a,
+a:visited {
+	color: #0a89c0;
+}
+
+a:hover,
+a:active,
+a:focus {
+	color: #353535;
+}
+
+/* Quotes */
+
+blockquote {
+	color: #353535;
+	background: rgba(127,127,127,.125);
+	border-left: 2px solid #0a89c0;
+	margin: 8px 0 24px 0;
+	padding: 16px;
+}
+
+blockquote p:last-child {
+	margin-bottom: 0;
+}
+
+/* UI Fonts */
+
+.amp-wp-meta,
+.amp-wp-header div,
+.amp-wp-title,
+.wp-caption-text,
+.amp-wp-tax-category,
+.amp-wp-tax-tag,
+.amp-wp-comments-link,
+.amp-wp-footer p,
+.back-to-top {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+}
+
+/* Header */
+
+.amp-wp-header {
+	background-color: #0a89c0;
+}
+
+.amp-wp-header div {
+	color: #fff;
+	font-size: 1em;
+	font-weight: 400;
+	margin: 0 auto;
+	max-width: calc(840px - 32px);
+	padding: .875em 16px;
+	position: relative;
+}
+
+.amp-wp-header a {
+	color: #fff;
+	text-decoration: none;
+}
+
+/* Site Icon */
+
+.amp-wp-header .amp-wp-site-icon {
+	/** site icon is 32px **/
+	background-color: #fff;
+	border: 1px solid #fff;
+	border-radius: 50%;
+	position: absolute;
+	right: 18px;
+	top: 10px;
+}
+
+/* Article */
+
+.amp-wp-article {
+	color: #353535;
+	font-weight: 400;
+	margin: 1.5em auto;
+	max-width: 840px;
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+}
+
+/* Article Header */
+
+.amp-wp-article-header {
+	align-items: center;
+	align-content: stretch;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin: 1.5em 16px 0;
+}
+
+.amp-wp-title {
+	color: #353535;
+	display: block;
+	flex: 1 0 100%;
+	font-weight: 900;
+	margin: 0 0 .625em;
+	width: 100%;
+}
+
+/* Article Meta */
+
+.amp-wp-meta {
+	color: #696969;
+	display: inline-block;
+	flex: 2 1 50%;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 0 0 1.5em;
+	padding: 0;
+}
+
+.amp-wp-article-header .amp-wp-meta:last-of-type {
+	text-align: right;
+}
+
+.amp-wp-article-header .amp-wp-meta:first-of-type {
+	text-align: left;
+}
+
+.amp-wp-byline amp-img,
+.amp-wp-byline .amp-wp-author {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.amp-wp-byline amp-img {
+	border: 1px solid #0a89c0;
+	border-radius: 50%;
+	position: relative;
+	margin-right: 6px;
+}
+
+.amp-wp-posted-on {
+	text-align: right;
+}
+
+/* Featured image */
+
+.amp-wp-article-featured-image {
+	margin: 0 0 1em;
+}
+.amp-wp-article-featured-image amp-img {
+	margin: 0 auto;
+}
+.amp-wp-article-featured-image.wp-caption .wp-caption-text {
+	margin: 0 18px;
+}
+
+/* Article Content */
+
+.amp-wp-article-content {
+	margin: 0 16px;
+}
+
+.amp-wp-article-content ul,
+.amp-wp-article-content ol {
+	margin-left: 1em;
+}
+
+.amp-wp-article-content amp-img {
+	margin: 0 auto;
+}
+
+.amp-wp-article-content amp-img.alignright {
+	margin: 0 0 1em 16px;
+}
+
+.amp-wp-article-content amp-img.alignleft {
+	margin: 0 16px 1em 0;
+}
+
+/* Captions */
+
+.wp-caption {
+	padding: 0;
+}
+
+.wp-caption.alignleft {
+	margin-right: 16px;
+}
+
+.wp-caption.alignright {
+	margin-left: 16px;
+}
+
+.wp-caption .wp-caption-text {
+	border-bottom: 1px solid #c2c2c2;
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 0;
+	padding: .66em 10px .75em;
+}
+
+/* AMP Media */
+
+amp-carousel {
+	background: #c2c2c2;
+	margin: 0 -16px 1.5em;
+}
+amp-iframe,
+amp-youtube,
+amp-instagram,
+amp-vine {
+	background: #c2c2c2;
+	margin: 0 -16px 1.5em;
+}
+
+.amp-wp-article-content amp-carousel amp-img {
+	border: none;
+}
+
+amp-carousel > amp-img > img {
+	object-fit: contain;
+}
+
+.amp-wp-iframe-placeholder {
+	background: #c2c2c2 url( http://s2.wp.com/wp-content/plugins/amp/assets/images/placeholder-icon.png ) no-repeat center 40%;
+	background-size: 48px 48px;
+	min-height: 48px;
+}
+
+/* Article Footer Meta */
+
+.amp-wp-article-footer .amp-wp-meta {
+	display: block;
+}
+
+.amp-wp-tax-category,
+.amp-wp-tax-tag {
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	margin: 1.5em 16px;
+}
+
+.amp-wp-comments-link {
+	color: #696969;
+	font-size: .875em;
+	line-height: 1.5em;
+	text-align: center;
+	margin: 2.25em 0 1.5em;
+}
+
+.amp-wp-comments-link a {
+	border-style: solid;
+	border-color: #c2c2c2;
+	border-width: 1px 1px 2px;
+	border-radius: 4px;
+	background-color: transparent;
+	color: #0a89c0;
+	cursor: pointer;
+	display: block;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 18px;
+	margin: 0 auto;
+	max-width: 200px;
+	padding: 11px 16px;
+	text-decoration: none;
+	width: 50%;
+	-webkit-transition: background-color 0.2s ease;
+			transition: background-color 0.2s ease;
+}
+
+/* AMP Footer */
+
+.amp-wp-footer {
+	border-top: 1px solid #c2c2c2;
+	margin: calc(1.5em - 1px) 0 0;
+}
+
+.amp-wp-footer div {
+	margin: 0 auto;
+	max-width: calc(840px - 32px);
+	padding: 1.25em 16px 1.25em;
+	position: relative;
+}
+
+.amp-wp-footer h2 {
+	font-size: 1em;
+	line-height: 1.375em;
+	margin: 0 0 .5em;
+}
+
+.amp-wp-footer p {
+	color: #696969;
+	font-size: .8em;
+	line-height: 1.5em;
+	margin: 0 85px 0 0;
+}
+
+.amp-wp-footer a {
+	text-decoration: none;
+}
+
+.back-to-top {
+	bottom: 1.275em;
+	font-size: .8em;
+	font-weight: 600;
+	line-height: 2em;
+	position: absolute;
+	right: 16px;
+}
+	nav.title-bar { background: #5c3063; }nav.title-bar img, nav-title-bar amp-img { width: 180px; } 
+nav.title-bar img, nav-title-bar amp-img { height: 60px; } 
+		h1,h2 { font-family: "Open Sans Condensed", "Helvetica Neue", Helvetica, Arial, sans-serif; line-height: 1.2; }
+		body { font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif; padding-bottom: 0; font-weight: 500; }
+
+		nav.title-bar div {
+			line-height: initial;
+		}
+
+		nav.title-bar a {
+			padding: 10px 0;
+			display: block;
+			text-align: center;
+			margin: auto;
+		}
+
+		nav.title-bar a amp-img, nav.title-bar a img {
+			display: inline-block;
+		}
+
+		blockquote {
+			padding: 16px;
+			margin: 8px 0 24px 0;
+			border-left: 2px solid #ccc;
+			color: #333;
+			background: #fff;
+			font-size: larger;
+			font-weight: lighter;
+		}
+
+		amp-iframe {
+			margin-bottom: 20px;
+		}
+
+		ul.meta {
+		    padding: 6px 0 0 0;
+		    margin: 0 0 6px 0;
+		    list-style: none;
+		}
+
+		.content, footer {
+			padding: 15px;
+		}
+
+		.title {
+			margin: 0 0 12px 0;
+		}
+
+		footer {
+			font-size: smaller;
+			background-color: #eee;
+			text-align: center;
+		}
+
+		footer a {
+			white-space: nowrap;
+			text-decoration: none;
+		}
+
+		amp-ad.ad-300x250-atf, amp-ad.ad-300x250-btf {
+			left: calc( (100% - 300px) / 2 );
+			margin-bottom: 20px;
+		}
+		.amp-wp-article-featured-image.wp-caption .wp-caption-text {
+			margin: 0;
+		}
+
+		.wp-caption {
+			display: flex;
+			flex-flow: row wrap;
+			justify-content: center;
+			max-width: fit-content;
+		}
+
+	.hamburger {
+		padding-left: 10px;
+		color: white;
+		font-size: 24px;
+		line-height: 1;
+		align-self: center;
+		margin-right: -34px;
+		outline: none;
+	}
+	.hamburger:focus, .hamburger:hover, .hamburger:active {
+		outline: none;
+	}
+	.sidebar {
+		padding: 10px;
+		margin: 0;
+	}
+	.sidebar > li {
+		list-style: none;
+		margin-bottom:10px;
+	}
+	.sidebar a {
+		text-decoration: none;
+	}
+	.close-sidebar {
+		font-size: 1.5em;
+		padding-left: 5px;
+	}
+
+	.nav-wrapper {
+		display: flex;
+		flex-flow: row nowrap;
+		justify-content: center;
+		position: relative;
+	}
+	</style>
+</head>
+<body>
+
+<nav class="title-bar">
+	<div class="nav-wrapper">
+		<div role="button" on="tap:sidebar1.toggle" tabindex="0" class="hamburger">☰</div>
+
+		<a href="http://wgno.com">
+				<amp-img src="https://s0.wp.com/wp-content/themes/vip/localtv-2/img/wgno/logo@2x.png" class="" height="60" width="180"></amp-img>
+		</a>
+	</div>
+</nav>
+
+<amp-sidebar id="sidebar1" layout="nodisplay" side="left">
+  <div role="button" aria-label="close sidebar" on="tap:sidebar1.toggle" tabindex="0" class="close-sidebar">✕</div>
+  <ul class="sidebar">
+				<li><a href="http://wgno.com/category/news/">News</a></li>
+				<li><a href="http://wgno.com/category/good-morning-new-orleans/">Morning</a></li>
+				<li><a href="http://wgno.com/category/news-with-a-twist/">Twist</a></li>
+				<li><a href="http://wgno.com/category/news-with-a-twist/music/">Music</a></li>
+				<li><a href="http://wgno.com/category/sports/">Sports</a></li>
+				<li><a href="http://wgno.com/community-calendar/">Events</a></li>
+				<li><a href="http://wgno.com/nola-marketplace-directory/">NOLA Marketplace</a></li>
+				<li><a href="http://wgno.com/contact/">About</a></li>
+		  </ul>
+</amp-sidebar>
+
+<div class="content amp-wp-content">
+	<h1 class="title">Facebook apologizes for child abuse search suggestions</h1>
+	<ul class="meta">
+		<li class="amp-wp-byline">
+	CNN Wire</li>
+<li class="amp-wp-posted-on">
+	<time datetime="2018-03-16T14:53:33+00:00">
+		4 days ago	</time>
+</li>	</ul>
+	<figure class="amp-wp-article-featured-image wp-caption">
+	<amp-img width="770" height="433" src="https://tribwgno.files.wordpress.com/2018/02/facebook-1.jpg?quality=85&amp;strip=all&amp;w=770" class="attachment-large size-large wp-post-image amp-wp-enforced-sizes" alt="" srcset="https://tribwgno.files.wordpress.com/2018/02/facebook-1.jpg?quality=85&amp;strip=all&amp;w=770 770w, https://tribwgno.files.wordpress.com/2018/02/facebook-1.jpg?quality=85&amp;strip=all&amp;w=150 150w, https://tribwgno.files.wordpress.com/2018/02/facebook-1.jpg?quality=85&amp;strip=all&amp;w=300 300w, https://tribwgno.files.wordpress.com/2018/02/facebook-1.jpg?quality=85&amp;strip=all 800w" sizes="(min-width: 770px) 770px, 100vw"></amp-img>	</figure>
+	<div class="share-bar">
+			  <amp-social-share width="44" height="44" data-param-app_id="1262797993764755" type="facebook"></amp-social-share>
+			  <amp-social-share width="44" height="44" type="twitter"></amp-social-share>
+	  <amp-social-share width="44" height="44" type="linkedin"></amp-social-share>
+	  <amp-social-share width="44" height="44" type="pinterest" data-param-media="https://tribwgno.files.wordpress.com/2018/02/facebook-1.jpg?quality=85&#038;strip=all"></amp-social-share>
+		<amp-social-share width="44" height="44" type="email"></amp-social-share>
+		<amp-social-share width="44" height="44" type="sms"></amp-social-share>
+	</div>
+
+	<p>Facebook apologized on Friday after its autocomplete search feature suggested video titles that described child abuse.</p><p>Some Facebook users who typed “video of” into the platform’s search bar on Thursday night presented with autocomplete suggestions about videos of young girls performing sex acts.</p><amp-ad height="250" width="300" type="yieldmo" data-ymid="2000746"></amp-ad><p>Some users shared screenshots of the search results on Twitter.</p><amp-ad height="350" width="312" type="nativo" layout="responsive" data-debug="1"></amp-ad><p>“We’re very sorry this happened,” a Facebook spokesperson told CNN. “As soon as we became aware of these offensive predictions we removed them.”</p><p>The company said its search predictions represent what people may be searching for but do not necessarily reflect content that is on Facebook.</p><p>Facebook says it is investigating how the search suggestions emerged.</p><p>“We are looking into why these search predictions appeared, and going forward, we’re working to improve the quality of search predictions,” the spokesperson said. “We do not allow sexually explicit imagery, and we are committed to keeping such content off of our site.”</p><amp-ad width="300" height="250" type="doubleclick" data-multi-size="320x50, 300x600" data-multi-size-validation="" data-slot="/7287/TRCO-WGNO/amp/news" data-loading-strategy="prefer-viewability-over-views" class="ad-300x250-amp" json='{"targeting":{"s1":["amp"],"s2":["news"],"s3":["business"],"pid":["20180316facebook-apologizes-for-child-abuse-search-suggestions"],"subject":["business"],"page_type":["article"],"fold":["btf"],"slot":["amp300_1"]}}'><amp-img placeholder="" layout="fill" src="https://placehold.it/300X250"></amp-img></amp-ad><p>Jonathon Morgan, the founder of New Knowledge, a company that tracks the spread of misinformation online, said it is possible that Facebook’s algorithm was manipulated in a coordinated attempt to alter its search predictions.</p><p>“Search suggestions are based on search queries, not actual content,” Morgan said. “If a lot of people search for an uncharacteristic phrase in a short period of time, these systems decide that they should recommend that phrase to other users, under the assumption that it’s topical.”</p><p>“This leaves the platform vulnerable to manipulation by groups of people intentionally entering search phrases that will confuse or misdirect other users,” he added.</p><p>Facebook has faced renewed scrutiny around the manipulation of its platform, particularly in the United States. Facebook has estimated more than 120 million Americans may have seen content posted by a Russian government-linked troll group who used Facebook to post divisive content designed to sow discord in the U.S. between 2014 – 2017. Thirteen Russian nationals allegedly associated with the group were <a href="http://money.cnn.com/2018/02/16/media/internet-research-agency-mueller-indictment/index.html">indicted</a> by Special Counsel Robert Mueller in February.</p><amp-ad width="300" height="250" type="doubleclick" data-multi-size="320x50, 300x600" data-multi-size-validation="" data-slot="/7287/TRCO-WGNO/amp/news" data-loading-strategy="prefer-viewability-over-views" class="ad-300x250-amp" json='{"targeting":{"s1":["amp"],"s2":["news"],"s3":["business"],"pid":["20180316facebook-apologizes-for-child-abuse-search-suggestions"],"subject":["business"],"page_type":["article"],"fold":["btf"],"slot":["amp300_2"]}}'><amp-img placeholder="" layout="fill" src="https://placehold.it/300X250"></amp-img></amp-ad><p><em>Update: This story has been updated to clarify Jonathon Morgan’s comment that Facebook groups can “intentionally” enter search phrases to confuse or misdirect users.</em></p><amp-ad height="500" width="300" type="yieldmo" data-ymid="2000747"></amp-ad><amp-embed data-publisher="localtv-network" data-mode="thumbs-3r_AMP" data-placement="Below Article Thumbnails AMP" heights="(min-width:1761px) 216%, (min-width:1411px) 220%, (min-width:1174px) 224%, (min-width:983px) 229%, (min-width:822px) 235%, (min-width:693px) 242%, (min-width:590px) 251%, (min-width:531px) 261%, (min-width:468px) 271%, (min-width:436px) 282%, (min-width:413px) 293%, (min-width:380px) 302%, (min-width:354px) 310%, (min-width:338px) 323%, 331%" width="100" height="100" type="taboola" layout="responsive" data-target_type="mix" data-article="auto"></amp-embed><amp-embed data-publisher="localtv-network" data-mode="hybrid-text-links-2c_AMP" data-placement="Below Article Text Links AMP" heights="(min-width:1652px) 20%, (min-width:1169px) 29%, (min-width:841px) 40%, (min-width:685px) 57%, (min-width:567px) 78%, (min-width:497px) 100%, (min-width:449px) 122%, (min-width:399px) 145%, (min-width:361px) 169%, (min-width:322px) 193%, 244%" width="100" height="100" type="taboola" layout="responsive" data-target_type="mix" data-article="auto"></amp-embed><ul class="meta">
+		<div class="amp-wp-meta amp-wp-tax-category">
+		Categories: <a href="http://wgno.com/category/news/business/" rel="category tag">Business</a>	</div>
+
+	<div class="amp-wp-meta amp-wp-tax-tag">
+		Tags: <a href="http://wgno.com/tag/facebook/" rel="tag">Facebook</a>	</div>
+</ul>
+</div>
+
+	<amp-pixel src="https://pixel.wp.com/b.gif?rand=RANDOM&#038;host=wgno.com&#038;ref=DOCUMENT_REFERRER&#038;amp=1&#038;blog=41641972&#038;v=wpcom&#038;tz=-5&#038;user_id=0&#038;post=297442&#038;subd=tribwgno"></amp-pixel>
+	<amp-pixel src="https://pixel.wp.com/b.gif?rand=RANDOM&#038;v=wpcom-no-pv&#038;crypt=UE40eW5QN0p8M2Y%2FRE1BNmNJfGhxNCVxUDExYmtib2E%2FSzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1%2BR3NyNTdDSXAzMF1ST18%2FMkNCMnFKfkZOeTNscD18N2ZxV01Oa2ordEU0VDdUPUpCSjElS1tUOGM1SD9zVT9DMHclSWE9VVctQ0p%2BcDNHODBlekN6JiYvP3wsfEVCVGNsSnlUdjc5PS45PTZfTm12flgrfl90VHwvbmVwZDVkbT9MSkN0bS80X1VVXW9VZ3ZXTiVFaTJtRFU1Y3Y9SHltV2V8cXpoN05lcg%3D%3D"></amp-pixel>
+	<amp-analytics id="wp-google-analytics" type="googleanalytics"><script type="application/json">{"vars":{"account":"UA-34133884-14"},"triggers":{"defaultPageview":{"request":"pageview","on":"visible","vars":{"title":"Facebook apologizes for child abuse search suggestions","ampdocUrl":"http:\/\/wgno.com\/2018\/03\/16\/facebook-apologizes-for-child-abuse-search-suggestions\/","canonicalUrl":"http:\/\/wgno.com\/2018\/03\/16\/facebook-apologizes-for-child-abuse-search-suggestions\/"}},"trackAMP":{"on":"visible","request":"event","vars":{"eventCategory":"AMP View","eventAction":"AMP post viewed","eventLabel":"http:\/\/wgno.com\/2018\/03\/16\/facebook-apologizes-for-child-abuse-search-suggestions\/"}}}}</script></amp-analytics><amp-analytics id="chartbeat" type="chartbeat"><script type="application/json">{"vars":{"uid":"15066","domain":"wgno.com"}}</script></amp-analytics><amp-analytics id="comscore" type="comscore"><script type="application/json">{"vars":{"c1":"2","c2":"18314522"}}</script></amp-analytics><amp-analytics id="quantcast" type="quantcast"><script type="application/json">{"vars":{"pcode":"p-uFHTR5DWzvLvh"},"triggers":[]}</script></amp-analytics><footer>
+	<a href="/terms-of-service">Terms of Service</a> &bull;
+
+	<a href="http://privacy.tribune.com">Privacy Policy</a> &bull;
+
+&copy; 2018 WGNO
+	<br><a href="http://tribunemedia.com/">A Tribune Broadcasting Station</a>
+</footer>
+</body>
+</html>

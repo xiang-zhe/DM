@@ -1,0 +1,1199 @@
+<!DOCTYPE html><!--[if IE 9]>		 <html lang="en" class="no-js lt-ie10 "> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta name="description" content="An information processing firm in Tokyo assigned to process the personal data of around 5 million pensioners outsourced part of the task to a Chinese company in violation of a contract that prohibited subcontracts, according to the Japan Pension Service. The outsourcing came under the spotlight after it was revealed…">
+<meta property="og:title" content="Japanese pension data entry outsourced to Chinese firm">
+<meta property="og:description" content="An information processing firm in Tokyo assigned to process the personal data of around 5 million pensioners outsourced part of the task to a Chinese company in violation of a contract that prohibited subcontracts, according to the Japan Pension Service. The outsourcing came under the spotlight after it was revealed…">
+<meta property="og:url" content="https://japantoday.com/category/national/japanese-pension-data-entry-outsourced-to-chinese-firm">
+<meta property="og:image" content="https://japantoday-asset.scdn3.secure.raxcdn.com/img/store/a8/d5/de9294d3e8d676e0950ef08100b21d9dd7ff/pension.jpg">
+<meta property="og:type" content="article">
+<meta name="twitter:title" content="Japanese pension data entry outsourced to Chinese firm">
+<meta name="twitter:description" content="An information processing firm in Tokyo assigned to process the personal data of around 5 million pensioners outsourced part of the task to a Chinese company in violation of a contract that prohibited subcontracts, according to the Japan Pension Service. The outsourcing came under the spotlight after it was revealed…">
+<meta name="twitter:image:src" content="https://japantoday-asset.scdn3.secure.raxcdn.com/img/store/a8/d5/de9294d3e8d676e0950ef08100b21d9dd7ff/pension.jpg">
+<meta name="twitter:url" content="https://japantoday.com/category/national/japanese-pension-data-entry-outsourced-to-chinese-firm">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta property="og:site_name" content="Japan Today">
+<meta property="og:app_id" content="205769802778296">
+<meta name="twitter:site" content="summary">
+<meta name="twitter:card" content="@JapanToday">
+<meta name="twitter:domain" content="japantoday.com">
+<meta name="theme-color" content="#ffffff">
+<title>Japanese pension data entry outsourced to Chinese firm - Japan Today</title>
+<link href="https://jt00.scdn6.secure.raxcdn.com/css/public/styles.css?v=5.15" media="screen" rel="stylesheet" type="text/css">
+<link href="https://jt00.scdn6.secure.raxcdn.com/favicons/apple-touch-icon.png?v=1" rel="apple-touch-icon" sizes="180x180">
+<link href="https://jt00.scdn6.secure.raxcdn.com/favicons/favicon-16x16.png?v=1" rel="icon" sizes="16x16" type="image/png">
+<link href="https://jt00.scdn6.secure.raxcdn.com/favicons/favicon-32x32.png?v=1" rel="icon" sizes="32x32" type="image/png">
+<link href="https://jt00.scdn6.secure.raxcdn.com/favicons/manifest.json?v=1" rel="manifest">
+<link href="https://jt00.scdn6.secure.raxcdn.com/favicons/safari-pinned-tab.svg?v=1" rel="mask-icon">
+<link href="/category/national/feed/json" rel="alternate" type="application/json" title="Japan Today JSON Feed">
+<link href="/category/national/feed/atom" rel="alternate" type="application/atom+xml" title="Japan Today Atom Feed">
+<link href="/category/national/feed" rel="alternate" type="application/rss+xml" title="Japan Today RSS Feed">
+<link href="https://jt00.scdn6.secure.raxcdn.com/css/public/print.styles.css?v=1.23" media="print" rel="stylesheet" type="text/css">
+</head>
+<body class="page-category-article">
+	<!--[if IE]>
+	<section class="bg-warning text-center wrapper-xs">
+		<h2 class="text-warning">Your browser is outdated</h2>
+		<p class="text-large text-warning">Please upgrade to a more modern version to fully experience JapanToday site and for security reasons</p>
+	</section>
+	<![endif]-->
+
+	<img class="visible-print-block logo-print" src="https://jt00.scdn6.secure.raxcdn.com/css/img/logo@2x.png" width="223">
+
+	<header class="header bg-white hidden-print">
+		<div class="header-top bg-gray-darker">
+			<div class="wrapper-xs container">
+				<ul class="header-top__network list-caret text-uppercase text-xcondensed pull-left hidden-xs">
+					<li><a href="/">News</a></li>
+					<li><a href="http://realestate.japantoday.com/">Real estate</a></li>
+<li><a href="http://travel.japantoday.com/country/jp.html?aid=368927">Hotels</a></li>
+<li><a href="http://insight.japantoday.com/">Insight</a></li>
+<li><a href="http://classifieds.japantoday.com/">Classifieds</a></li>
+<li><a href="https://jobs.gaijinpot.com/index/index/lang/en?utm_source=japantoday_home&utm_medium=sectionlink_en&utm_campaign=jt_section">Jobs</a></li>
+<!-- <li><a href="https://japan.careerengine.org/japantoday/index/index/lang/en?utm_source=japantoday_home&amp;utm_medium=sectionlink_en&amp;utm_campaign=jt_section">外資系転職</a></li>
+<li><a href="/advertising">広告主様へ</a></li> -->
+				</ul>
+				<div class="header-top__tools text-right text-center-xs">
+																	<a href="/newsletter"><span class="jt-icon jt-icon-mail"></span> Newsletter Signup</a>
+												<a href="/login"><span class="jt-icon jt-icon-pen"></span> Register / Login</a>
+														</div>
+			</div>
+		</div>
+		<div class="header-bottom container text-center">
+			
+
+<form method="get" role="form" action="&#x2F;search" class="header-bottom__search&#x20;mb-0" data-keyword="" style="display&#x3A;none">
+<input type="search" name="keyword" placeholder="Search" value="">
+<span class="header-bottom__search-close" role="button">&times;</span>
+</form>
+			<a class="logo" href="/" title="Japan Today">Japan Today</a>
+			<nav class="header-bottom__nav mt-15" role="navigation">
+				<span class="js-header-tools">
+					<span
+						class="jt-icon jt-icon-hamburger pull-left"
+						role="button"
+					></span>
+					<a
+						class="jt-icon jt-icon-magnifying-glass pull-right"
+						href="/search"
+					></a>
+				</span>
+				<ul class="list-inline list-inline--spaceout text-uppercase text-xstrong hidden-xs hidden-sm">
+	<li class=" active">
+	<a class="text-gray-dark" href="/category/national">National</a>
+</li>
+<li class="">
+	<a class="text-gray-dark" href="/category/crime">Crime</a>
+</li>
+<li class="">
+	<a class="text-gray-dark" href="/category/entertainment">Entertainment</a>
+</li>
+<li class="">
+	<a class="text-gray-dark" href="/category/politics">Politics</a>
+</li>
+<li class="">
+	<a class="text-gray-dark" href="/category/business">Business</a>
+</li>
+<li class="">
+	<a class="text-gray-dark" href="/category/tech">Tech</a>
+</li>
+<li class="">
+	<a class="text-gray-dark" href="/category/sports">Sports</a>
+</li>
+<li class="">
+	<a class="text-gray-dark" href="/category/world">World</a>
+</li>
+<li class="">
+	<a class="text-gray-dark" href="/category/features">Features</a>
+</li>
+</ul>
+			</nav>
+		</div>
+	</header>
+		
+	<div class="sidenav bg-gray-darker hidden-print">
+		<nav class="sidenav-list bg-gray-darker" role="navigation">
+			<ul class="list-unstyled text-xstrong mb-0">
+	<li><a href="/">Home</a></li>
+	<li class="active">
+	<a href="/category/national">National</a>
+</li>
+<li>
+	<a href="/category/crime">Crime</a>
+</li>
+<li>
+	<a href="/category/entertainment">Entertainment</a>
+</li>
+<li>
+	<a href="/category/politics">Politics</a>
+</li>
+<li>
+	<a href="/category/business">Business</a>
+</li>
+<li>
+	<a href="/category/tech">Tech</a>
+</li>
+<li>
+	<a href="/category/sports">Sports</a>
+</li>
+<li>
+	<a href="/category/world">World</a>
+</li>
+<li>
+	<a href="/category/features">Features</a>
+	<ul class="list-unstyled text-gray-light text-small text-uppercase mb-0">
+		<li class="">
+	<a href="/category/features/lifestyle">Lifestyle</a>
+</li>
+<li class="">
+	<a href="/category/features/kuchikomi">Kuchikomi</a>
+</li>
+<li class="">
+	<a href="/category/features/new-products">New Products</a>
+</li>
+<li class="">
+	<a href="/category/features/health">Health</a>
+</li>
+<li class="">
+	<a href="/category/features/food">Food</a>
+</li>
+<li class="">
+	<a href="/category/features/travel">Travel</a>
+</li>
+<li class="">
+	<a href="/category/features/executive-impact">Executive Impact</a>
+</li>
+<li class="">
+	<a href="/category/features/opinions">Opinions</a>
+</li>
+<li class="">
+	<a href="/category/features/events">Events</a>
+</li>
+	</ul>
+</li>
+	
+		<li><a href="/category/special-promotion">Special&#x20;Promotion</a></li>
+		<li><a href="/comment/recent">Recent Comments</a></li>
+	<li><a href="/popular">Popular</a></li>
+</ul>
+			<p class="sidenav-list__footer text-strong text-xsmall">
+				<a class="logo-white mt-5" href="/">JapanToday</a><br><br>
+				<span class="text-gray-light">Higashi-Azabu IS bldg, 4F<br>
+				1-8-1 Higashi-Azabu<br>
+				Minato-ku<br>
+				Tokyo 106-0044<br>
+				Japan<br><br>
+				Tel: +81 3 5561 7755<br>
+				Fax: +81 3 5561 7756<br></span>
+				<span class="text-gray-light">Email:</span> <a href="mailto:editor@japantoday.com">editor@japantoday.com</a><br><br>
+				<span class="text-gray-light">©2018</span> <a href="https//gplusmedia.com" alt="GplusMedia Corporate site">GPlusMedia Inc.</a>
+			</p>
+		</nav>
+	</div>
+
+	<div class="container wrapper-lg">
+		
+				<div class="s10r mb-30" data-href="https&#x3A;&#x2F;&#x2F;go.injapan.com&#x2F;v5Jmgz" data-id="4zJDLj" data-property-id="27">
+	<a href="https&#x3A;&#x2F;&#x2F;go.injapan.com&#x2F;v5Jmgz" title="">
+<picture>
+	<source srcset="https://jt00.scdn6.secure.raxcdn.com/sponsortizer/4zJDLj/desktop.png" media="(min-width: 992px)">
+	<source srcset="https://jt00.scdn6.secure.raxcdn.com/sponsortizer/4zJDLj/tablet.png" media="(min-width: 768px)">
+	<source srcset="https://jt00.scdn6.secure.raxcdn.com/sponsortizer/4zJDLj/large-smartphone.png" media="(min-width: 321px)">
+	<source srcset="https://jt00.scdn6.secure.raxcdn.com/sponsortizer/4zJDLj/small-smartphone.png" media="(min-width: 100px)">
+	<img class="img-responsive" src="https://jt00.scdn6.secure.raxcdn.com/sponsortizer/4zJDLj/tablet.png" alt="">
+</picture>
+	</a>
+</div>
+<div class="clearfix mb-30 visible-xs"></div>
+		
+		<div class="row gutter-sm">
+	<article class="col-sm-8 col-md-9 mb-20 article-national" itemscope itemtype="http://schema.org/NewsArticle">
+		
+					<figure class="mb-30 main-story-figure" itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+	<img class="img-responsive full" src="https&#x3A;&#x2F;&#x2F;japantoday-asset.scdn3.secure.raxcdn.com&#x2F;img&#x2F;store&#x2F;a8&#x2F;d5&#x2F;de9294d3e8d676e0950ef08100b21d9dd7ff&#x2F;pension&#x2F;_w850.jpg" srcset="https&#x3A;&#x2F;&#x2F;japantoday-asset.scdn3.secure.raxcdn.com&#x2F;img&#x2F;store&#x2F;a8&#x2F;d5&#x2F;de9294d3e8d676e0950ef08100b21d9dd7ff&#x2F;pension&#x2F;_w850.jpg 1x, https&#x3A;&#x2F;&#x2F;japantoday-asset.scdn3.secure.raxcdn.com&#x2F;img&#x2F;store&#x2F;a8&#x2F;d5&#x2F;de9294d3e8d676e0950ef08100b21d9dd7ff&#x2F;pension&#x2F;_w1700.jpg 2x" alt="">
+
+        <figcaption class="text-gray text-condensed text-light text-small">
+                                    Photo: <span itemprop="copyrightHolder">REUTERS</span>
+            </figcaption>
+    </figure>
+		
+					<a class="text-primary text-strong font-adelle text-large text-capitalize" href="/category/national" itemprop="about">national</a>
+		
+		<h1 class="text-xstrong mt-5 block-lg-9 block-md-10" itemprop="headline">Japanese pension data entry outsourced to Chinese firm</h1>
+
+		
+<div class="text-strong text-xsmall text-gray">
+		<time datetime="2018-03-21 06:50" itemprop="datePublished">
+		Today		<span class="text-color sep"></span>
+		06:50 am JST					<span class="text-color sep"></span>
+			</time>
+			<br class="hidden">
+		<a class="text-gray" href="#comments">
+		<span class="text-primary" itemprop="commentCount">13</span> Comments		</a>
+	</div>
+		<div class="addthis_inline_share_toolbox mt-20"></div>
+		<div class="hr"></div>
+		
+		
+					<span class="pull-left dateline" itemprop="dateline">TOKYO</span>
+				<div class="text-large mb-40" itemprop="articleBody">
+												<p>An information processing firm in Tokyo assigned to process the personal data of around 5 million pensioners outsourced part of the task to a Chinese company in violation of a contract that prohibited subcontracts, according to the Japan Pension Service.</p>
+<p>The outsourcing came under the spotlight after it was revealed that around 1.3 million people received lower pension benefits in February than they were entitled to as income tax breaks were not adequately reflected.</p>
+<p>The pension management body, which has seen a series of incidents of mismanagement related to pension records, has been investigating whether the involvement of the Chinese firm caused the lower pension payments in February.</p>
+<p>Japan Pension Service chief Toichiro Mizushima told a parliamentary committee Tuesday that the Chinese firm entered the names of pension recipients' dependent family members and he had confirmed there was "no risk of personal data leak."</p>
+<p>While looking into the matter, the pension body found some delays and mistakes in data input by the Tokyo information processing company, Say Kikaku. Later Tuesday, Mizushima offered an apology to pensioners over the incorrect payments.</p>
+<p>Seiichi Kirita, the president of Say Kikaku, told reporters Tuesday he was involved in the establishment of the Chinese firm and viewed it as a group company, although there were no capital ties between the two.</p>
+<p>Based on a contract signed last August with the pension management body, Say Kikaku had promised to hire 800 people for the data entry job. But the company had hired only over a hundred as of last October.</p>
+<p>Following the revelation, the Japanese government decided to delay the launch of a new scheme to share pension data between the central and local governments, originally scheduled this month. The system using government-issued My Number identification numbers was expected to simplify pension-related procedures.</p>
+<p>Under the My Number social security and tax number scheme, 12-digit identification numbers are allocated to all residents of Japan.</p>
+<p>Health, Labor and Welfare Minister Katsunobu Kato said the Tokyo firm handled My Number-related information of the 5 million pensioners, but its processing was not outsourced to the Chinese subcontractor.</p>
+<p>"We will review data processing methods to prevent similar incidents from happening," Kato said.</p>
+<p>He said the launch of the new data-sharing system will be postponed until the ministry completes checking all outsourcing work commissioned by the Japan Pension Service.</p>
+<p>The organization became aware of the outsourcing late last year and launched a special audit of the Tokyo information processing firm in January and subsequently the Chinese subcontractor, according to Mizushima.</p>
+<p>The Japan Pension Service was originally scheduled to start using My Number identification data in January 2016 but the plan was suspended following a massive personal data leak from the organization due to cyberattacks in May 2015.</p>
+<p>In 2007, the organization's predecessor was also found to have lost around 50 million pension records due to sloppy data handling.</p>
+<p>In November last year, the government issued an ordinance to permit the Japan Pension Service to share data online through the My Number scheme with municipal governments from March.</p>							
+			
+			
+												<span class="small-caps text-small text-serif" itemprop="copyrightHolder">©  KYODO</span>
+									</div>
+
+		<div class="visible-print-block text-center text-xsmall text-primary text-strong">
+    <br>
+    <div class="hr"></div>
+    &copy;2018 GPlusMedia Inc.
+</div>
+
+		
+		
+		<div class="visible-xs">
+			<div class="s10r" data-href="https&#x3A;&#x2F;&#x2F;go.injapan.com&#x2F;v5Jmgz" data-id="4zJDLj" data-property-id="17">
+	<div class="frame text-center mb-20">
+			<a href="https&#x3A;&#x2F;&#x2F;go.injapan.com&#x2F;v5Jmgz">
+				<img class="img-responsive mb-15 center-block" src="https&#x3A;&#x2F;&#x2F;spot.injapan.com&#x2F;img&#x2F;wzmJG6.jpg">
+		<div class="block-sm-9 block-md-12 center-block">
+					<h3 class="font-adelle text-regular h4">Teach English in Japan!</h3>
+							<p class="text-small">Overseas application OK! Teach English in a professional environment in the major cities of Japan. Click to apply now.</p>
+							</div>
+			<div class="frame-separation"></div>
+		<p class="frame-action text-small text-gray text-strong mb-0">Click Here</p>
+				</a>
+		</div>
+</div>
+		</div>
+		<div class="hidden-xs">
+			<div class="s10r" data-href="https&#x3A;&#x2F;&#x2F;go.injapan.com&#x2F;vZXwJ7" data-id="4j2VZj" data-property-id="18">
+		<div class="frame text-center mb-20" data-href="https&#x3A;&#x2F;&#x2F;go.injapan.com&#x2F;vZXwJ7" data-id="4j2VZj" data-property-id="18">
+			<a href="https&#x3A;&#x2F;&#x2F;go.injapan.com&#x2F;vZXwJ7">
+		<div class="media media-md">
+					<div class="media-left media-middle">
+				<img class="media-object center-block" src="https&#x3A;&#x2F;&#x2F;spot.injapan.com&#x2F;img&#x2F;0v3l0z.jpg">
+			</div>
+				<div class="media-body media-middle">
+			<div class="block-sm-9 block-md-12 center-block">
+							<h3 class="media-heading font-adelle text-regular h4 mb-10">Come visit us in Fukushima!</h3>
+										<p class="text-small">Breathtaking natural beauty, fascinating history and unique traditions make this one of Japan&#039;s most rewarding destinations. Find out more from foreign residents who love Fukushima.</p>
+									</div>
+		</div>
+	</div>
+			<div class="frame-separation"></div>
+		<span class="frame-action text-small text-gray text-strong">View More</span>
+				</a>
+		</div>
+	</div>
+		</div>
+
+		
+<hr id="comments" class="hr mb-0 hr--primary hr--thicker">
+<div class="wrapper wrapper-sm bordered bordered--thick bordered--top-none">
+	<section id="comments-js" data-json="&#x7B;&quot;route&quot;&#x3A;&#x7B;&quot;default&quot;&#x3A;&quot;&#x5C;&#x2F;rest.api&#x5C;&#x2F;article&#x5C;&#x2F;463149&#x5C;&#x2F;comment&quot;,&quot;oldest&quot;&#x3A;&quot;&#x5C;&#x2F;rest.api&#x5C;&#x2F;article&#x5C;&#x2F;463149&#x5C;&#x2F;comment&#x3F;order&#x3D;oldest&quot;,&quot;latest&quot;&#x3A;&quot;&#x5C;&#x2F;rest.api&#x5C;&#x2F;article&#x5C;&#x2F;463149&#x5C;&#x2F;comment&#x3F;order&#x3D;latest&quot;,&quot;popular&quot;&#x3A;&quot;&#x5C;&#x2F;rest.api&#x5C;&#x2F;article&#x5C;&#x2F;463149&#x5C;&#x2F;comment&#x3F;order&#x3D;popular&quot;&#x7D;,&quot;redirect&quot;&#x3A;&#x7B;&quot;login&quot;&#x3A;&quot;https&#x3A;&#x5C;&#x2F;&#x5C;&#x2F;japantoday.com&#x5C;&#x2F;login&#x3F;redirect&#x3D;&#x5C;&#x2F;category&#x5C;&#x2F;national&#x5C;&#x2F;japanese-pension-data-entry-outsourced-to-chinese-firm&#x25;23comments&#x23;comments&quot;&#x7D;,&quot;permission&quot;&#x3A;&#x7B;&quot;comments_enabled&quot;&#x3A;true,&quot;is_allowed&quot;&#x3A;false,&quot;is_preview&quot;&#x3A;false&#x7D;&#x7D;"> 	<ul class="list-inline text-small text-right text-xstrong hidden-print">
+		<li>Sort by</li>
+		<li><a class="text-gray-light" href="/category/national/japanese-pension-data-entry-outsourced-to-chinese-firm?comment-order=oldest" title="Oldest">Oldest</a></li>
+		<li><a class="text-gray-light" href="/category/national/japanese-pension-data-entry-outsourced-to-chinese-firm?comment-order=latest" title="Latest">Latest</a></li>
+		<li><a class="text-gray-light" href="/category/national/japanese-pension-data-entry-outsourced-to-chinese-firm?comment-order=popular" title="Popularity">Popular</a></li>
+	</ul>
+	<h4 class="text-xlarge text-xstrong">
+		<span class="text-primary" itemprop="commentCount">13</span>  Comments					<br class="visible-xs hidden-print">
+							<a class="hidden-print" href="#login-to-comment" title="Login to comment">
+					<small class="text-xsmall text-strong letter-spacing">Login to comment</small>
+				</a>
+						</h4>
+	
+				<div class="hr" id="comment-1633180"></div>
+<div class="media block-lg-10" itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+	<div class="media-left hidden-xs">
+				<img class="bordered" width="50" src="https://secure.gravatar.com/avatar/5f6038c73665c78dfb5220e0608202b0?d=identicon&r=pg&s=100">
+			</div>
+	<div class="media-body">
+					<img class="bordered visible-xs pull-left space-right-sm" width="45" src="https://secure.gravatar.com/avatar/5f6038c73665c78dfb5220e0608202b0?d=identicon&r=pg&s=100">
+				<h4 class="media-heading text-xstrong">
+						<a class="text-primary text-small" href="/member/speed" itemprop="author">Speed</a>
+						<div class="visible-xs space-top-less-xs"></div>
+			<time class="text-small" datetime="2018-03-21 07:05" itemprop="dateCreated">
+				<small class="text-strong">
+				Today				<span class="text-color sep"></span>
+				07:05 am JST				</small>
+			</time>
+		</h4>
+		<div class="visible-xs mt-20"></div>
+		<div class="text-small" itemprop="text">
+			<p>Inc. Comp. Pittance.</p>		</div>
+				<span class="text-xsmall">
+									<strong class="v-middle text-primary space-right">9</strong>
+			<span class="text-gray text-xxsmall text-strong v-middle">
+			    (
+			    <span itemprop="upvoteCount">+9</span>
+			    /
+			    <span itemprop="downvoteCount">-0</span>
+			    )
+			</span>
+		</span>
+					</div>
+</div>
+	<div class="hr" id="comment-1633194"></div>
+<div class="media block-lg-10" itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+	<div class="media-left hidden-xs">
+				<img class="bordered" width="50" src="https://secure.gravatar.com/avatar/9bb7105b0410875dc2c26596e5a33d56?d=identicon&r=pg&s=100">
+			</div>
+	<div class="media-body">
+					<img class="bordered visible-xs pull-left space-right-sm" width="45" src="https://secure.gravatar.com/avatar/9bb7105b0410875dc2c26596e5a33d56?d=identicon&r=pg&s=100">
+				<h4 class="media-heading text-xstrong">
+						<a class="text-primary text-small" href="/member/goodlucktoyou" itemprop="author">Goodlucktoyou</a>
+						<div class="visible-xs space-top-less-xs"></div>
+			<time class="text-small" datetime="2018-03-21 07:51" itemprop="dateCreated">
+				<small class="text-strong">
+				Today				<span class="text-color sep"></span>
+				07:51 am JST				</small>
+			</time>
+		</h4>
+		<div class="visible-xs mt-20"></div>
+		<div class="text-small" itemprop="text">
+			<p>Probably happens in all departments. Feel sorry for pensioners with dementia who probably didn’t notice the wrong amount.</p>		</div>
+				<span class="text-xsmall">
+									<strong class="v-middle text-primary space-right">3</strong>
+			<span class="text-gray text-xxsmall text-strong v-middle">
+			    (
+			    <span itemprop="upvoteCount">+4</span>
+			    /
+			    <span itemprop="downvoteCount">-1</span>
+			    )
+			</span>
+		</span>
+					</div>
+</div>
+	<div class="hr" id="comment-1633201"></div>
+<div class="media block-lg-10" itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+	<div class="media-left hidden-xs">
+				<img class="bordered" width="50" src="https://secure.gravatar.com/avatar/3a2be0fc4d69f66aced6368f52064286?d=identicon&r=pg&s=100">
+			</div>
+	<div class="media-body">
+					<img class="bordered visible-xs pull-left space-right-sm" width="45" src="https://secure.gravatar.com/avatar/3a2be0fc4d69f66aced6368f52064286?d=identicon&r=pg&s=100">
+				<h4 class="media-heading text-xstrong">
+						<a class="text-primary text-small" href="/member/markx" itemprop="author">MarkX</a>
+						<div class="visible-xs space-top-less-xs"></div>
+			<time class="text-small" datetime="2018-03-21 08:05" itemprop="dateCreated">
+				<small class="text-strong">
+				Today				<span class="text-color sep"></span>
+				08:05 am JST				</small>
+			</time>
+		</h4>
+		<div class="visible-xs mt-20"></div>
+		<div class="text-small" itemprop="text">
+			<p>I wonder how this guy from Say Kikaku is connected to either Abe or the government in some way. This sounds fishy that he won a contract but didn't have the workers to be able to do the job, and had to promise to hire a large number to satisfy the gov'ts request. Then he opted for the cheap and easy route, outsource to China, forgetting or not caring that so much personal data was being disseminated.</p>		</div>
+				<span class="text-xsmall">
+									<strong class="v-middle text-primary space-right">8</strong>
+			<span class="text-gray text-xxsmall text-strong v-middle">
+			    (
+			    <span itemprop="upvoteCount">+8</span>
+			    /
+			    <span itemprop="downvoteCount">-0</span>
+			    )
+			</span>
+		</span>
+					</div>
+</div>
+	<div class="hr" id="comment-1633202"></div>
+<div class="media block-lg-10" itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+	<div class="media-left hidden-xs">
+				<img class="bordered" width="50" src="https://secure.gravatar.com/avatar/a19cce60f2b3ef13f1218e3628ef69fc?d=identicon&r=pg&s=100">
+			</div>
+	<div class="media-body">
+					<img class="bordered visible-xs pull-left space-right-sm" width="45" src="https://secure.gravatar.com/avatar/a19cce60f2b3ef13f1218e3628ef69fc?d=identicon&r=pg&s=100">
+				<h4 class="media-heading text-xstrong">
+						<a class="text-primary text-small" href="/member/yubaru" itemprop="author">Yubaru</a>
+						<div class="visible-xs space-top-less-xs"></div>
+			<time class="text-small" datetime="2018-03-21 08:08" itemprop="dateCreated">
+				<small class="text-strong">
+				Today				<span class="text-color sep"></span>
+				08:08 am JST				</small>
+			</time>
+		</h4>
+		<div class="visible-xs mt-20"></div>
+		<div class="text-small" itemprop="text">
+			<blockquote>
+<p>Japan Pension Service chief Toichiro Mizushima told a parliamentary committee Tuesday that the Chinese firm entered the names of pension recipients' dependent family members and he had confirmed there was "no risk of personal data leak."</p>
+</blockquote>
+<p>"No risk"?  You illegally outsourced work, right there is the "risk", there is no way you can be 100% sure no data was leaked FURTHER! </p>
+<p>Incompetent fools!</p>		</div>
+				<span class="text-xsmall">
+									<strong class="v-middle text-primary space-right">9</strong>
+			<span class="text-gray text-xxsmall text-strong v-middle">
+			    (
+			    <span itemprop="upvoteCount">+9</span>
+			    /
+			    <span itemprop="downvoteCount">-0</span>
+			    )
+			</span>
+		</span>
+					</div>
+</div>
+	<div class="hr" id="comment-1633208"></div>
+<div class="media block-lg-10" itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+	<div class="media-left hidden-xs">
+				<img class="bordered" width="50" src="https://secure.gravatar.com/avatar/f0fe07b344cdfb264384d282caf7e087?d=identicon&r=pg&s=100">
+			</div>
+	<div class="media-body">
+					<img class="bordered visible-xs pull-left space-right-sm" width="45" src="https://secure.gravatar.com/avatar/f0fe07b344cdfb264384d282caf7e087?d=identicon&r=pg&s=100">
+				<h4 class="media-heading text-xstrong">
+						<a class="text-primary text-small" href="/member/ossanamerica" itemprop="author">OssanAmerica</a>
+						<div class="visible-xs space-top-less-xs"></div>
+			<time class="text-small" datetime="2018-03-21 08:11" itemprop="dateCreated">
+				<small class="text-strong">
+				Today				<span class="text-color sep"></span>
+				08:11 am JST				</small>
+			</time>
+		</h4>
+		<div class="visible-xs mt-20"></div>
+		<div class="text-small" itemprop="text">
+			<p>Saved the Chinese hackers some time and effort.</p>		</div>
+				<span class="text-xsmall">
+									<strong class="v-middle text-primary space-right">9</strong>
+			<span class="text-gray text-xxsmall text-strong v-middle">
+			    (
+			    <span itemprop="upvoteCount">+11</span>
+			    /
+			    <span itemprop="downvoteCount">-2</span>
+			    )
+			</span>
+		</span>
+					</div>
+</div>
+	<div class="hr" id="comment-1633215"></div>
+<div class="media block-lg-10" itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+	<div class="media-left hidden-xs">
+				<img class="bordered" width="50" src="https://secure.gravatar.com/avatar/a19cce60f2b3ef13f1218e3628ef69fc?d=identicon&r=pg&s=100">
+			</div>
+	<div class="media-body">
+					<img class="bordered visible-xs pull-left space-right-sm" width="45" src="https://secure.gravatar.com/avatar/a19cce60f2b3ef13f1218e3628ef69fc?d=identicon&r=pg&s=100">
+				<h4 class="media-heading text-xstrong">
+						<a class="text-primary text-small" href="/member/yubaru" itemprop="author">Yubaru</a>
+						<div class="visible-xs space-top-less-xs"></div>
+			<time class="text-small" datetime="2018-03-21 08:22" itemprop="dateCreated">
+				<small class="text-strong">
+				Today				<span class="text-color sep"></span>
+				08:22 am JST				</small>
+			</time>
+		</h4>
+		<div class="visible-xs mt-20"></div>
+		<div class="text-small" itemprop="text">
+			<blockquote>
+<p>In November last year, the government issued an ordinance to permit the Japan Pension Service to share data online through the My Number scheme with municipal governments from March.</p>
+</blockquote>
+<p>Your very own people can follow the law, and you feel safe enough to spread all our personal information online between government agencies?</p>
+<p>This is even scarier than the sub-contractor leak, hackers are going to be attracted to this like bees to honey!</p>		</div>
+				<span class="text-xsmall">
+									<strong class="v-middle text-primary space-right">8</strong>
+			<span class="text-gray text-xxsmall text-strong v-middle">
+			    (
+			    <span itemprop="upvoteCount">+8</span>
+			    /
+			    <span itemprop="downvoteCount">-0</span>
+			    )
+			</span>
+		</span>
+					</div>
+</div>
+	<div class="hr" id="comment-1633245"></div>
+<div class="media block-lg-10" itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+	<div class="media-left hidden-xs">
+				<img class="bordered" width="50" src="https://secure.gravatar.com/avatar/7247da1fd948881c58ece01c7ea70955?d=identicon&r=pg&s=100">
+			</div>
+	<div class="media-body">
+					<img class="bordered visible-xs pull-left space-right-sm" width="45" src="https://secure.gravatar.com/avatar/7247da1fd948881c58ece01c7ea70955?d=identicon&r=pg&s=100">
+				<h4 class="media-heading text-xstrong">
+						<a class="text-primary text-small" href="/member/econstats" itemprop="author">econstats</a>
+						<div class="visible-xs space-top-less-xs"></div>
+			<time class="text-small" datetime="2018-03-21 09:18" itemprop="dateCreated">
+				<small class="text-strong">
+				Today				<span class="text-color sep"></span>
+				09:18 am JST				</small>
+			</time>
+		</h4>
+		<div class="visible-xs mt-20"></div>
+		<div class="text-small" itemprop="text">
+			<p>Small problem compared to the Facebook/CAMBRIDGE ANALYTICA  scandal. Right guys?</p>		</div>
+				<span class="text-xsmall">
+									<strong class="v-middle text-primary space-right">0</strong>
+			<span class="text-gray text-xxsmall text-strong v-middle">
+			    (
+			    <span itemprop="upvoteCount">+0</span>
+			    /
+			    <span itemprop="downvoteCount">-0</span>
+			    )
+			</span>
+		</span>
+					</div>
+</div>
+	<div class="hr" id="comment-1633258"></div>
+<div class="media block-lg-10" itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+	<div class="media-left hidden-xs">
+				<img class="bordered" width="50" src="https://secure.gravatar.com/avatar/7a54ff874edf7a5c5c09ee8c04df1d3e?d=identicon&r=pg&s=100">
+			</div>
+	<div class="media-body">
+					<img class="bordered visible-xs pull-left space-right-sm" width="45" src="https://secure.gravatar.com/avatar/7a54ff874edf7a5c5c09ee8c04df1d3e?d=identicon&r=pg&s=100">
+				<h4 class="media-heading text-xstrong">
+						<a class="text-primary text-small" href="/member/disillusioned" itemprop="author">Disillusioned</a>
+						<div class="visible-xs space-top-less-xs"></div>
+			<time class="text-small" datetime="2018-03-21 09:31" itemprop="dateCreated">
+				<small class="text-strong">
+				Today				<span class="text-color sep"></span>
+				09:31 am JST				</small>
+			</time>
+		</h4>
+		<div class="visible-xs mt-20"></div>
+		<div class="text-small" itemprop="text">
+			<p>Just another reason I don't want to be extorted into paying this scam.</p>		</div>
+				<span class="text-xsmall">
+									<strong class="v-middle text-primary space-right">2</strong>
+			<span class="text-gray text-xxsmall text-strong v-middle">
+			    (
+			    <span itemprop="upvoteCount">+3</span>
+			    /
+			    <span itemprop="downvoteCount">-1</span>
+			    )
+			</span>
+		</span>
+					</div>
+</div>
+	<div class="hr" id="comment-1633293"></div>
+<div class="media block-lg-10" itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+	<div class="media-left hidden-xs">
+				<img class="bordered" width="50" src="https://secure.gravatar.com/avatar/3adc73486b1f1c77d852bf0337e60d68?d=identicon&r=pg&s=100">
+			</div>
+	<div class="media-body">
+					<img class="bordered visible-xs pull-left space-right-sm" width="45" src="https://secure.gravatar.com/avatar/3adc73486b1f1c77d852bf0337e60d68?d=identicon&r=pg&s=100">
+				<h4 class="media-heading text-xstrong">
+						<a class="text-primary text-small" href="/member/artistatlarge" itemprop="author">ArtistAtLarge</a>
+						<div class="visible-xs space-top-less-xs"></div>
+			<time class="text-small" datetime="2018-03-21 10:39" itemprop="dateCreated">
+				<small class="text-strong">
+				Today				<span class="text-color sep"></span>
+				10:39 am JST				</small>
+			</time>
+		</h4>
+		<div class="visible-xs mt-20"></div>
+		<div class="text-small" itemprop="text">
+			<p>Are you kidding?!</p>		</div>
+				<span class="text-xsmall">
+									<strong class="v-middle text-primary space-right">1</strong>
+			<span class="text-gray text-xxsmall text-strong v-middle">
+			    (
+			    <span itemprop="upvoteCount">+1</span>
+			    /
+			    <span itemprop="downvoteCount">-0</span>
+			    )
+			</span>
+		</span>
+					</div>
+</div>
+	<div class="hr" id="comment-1633296"></div>
+<div class="media block-lg-10" itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+	<div class="media-left hidden-xs">
+				<img class="bordered" width="50" src="https://secure.gravatar.com/avatar/4a2d58bdcaa956c82f9a2903aeae0e2c?d=identicon&r=pg&s=100">
+			</div>
+	<div class="media-body">
+					<img class="bordered visible-xs pull-left space-right-sm" width="45" src="https://secure.gravatar.com/avatar/4a2d58bdcaa956c82f9a2903aeae0e2c?d=identicon&r=pg&s=100">
+				<h4 class="media-heading text-xstrong">
+						<a class="text-primary text-small" href="/member/beowulfokami" itemprop="author">BeowulfOkami</a>
+						<div class="visible-xs space-top-less-xs"></div>
+			<time class="text-small" datetime="2018-03-21 10:43" itemprop="dateCreated">
+				<small class="text-strong">
+				Today				<span class="text-color sep"></span>
+				10:43 am JST				</small>
+			</time>
+		</h4>
+		<div class="visible-xs mt-20"></div>
+		<div class="text-small" itemprop="text">
+			<p>What were they thinking?</p>		</div>
+				<span class="text-xsmall">
+									<strong class="v-middle text-primary space-right">0</strong>
+			<span class="text-gray text-xxsmall text-strong v-middle">
+			    (
+			    <span itemprop="upvoteCount">+0</span>
+			    /
+			    <span itemprop="downvoteCount">-0</span>
+			    )
+			</span>
+		</span>
+					</div>
+</div>
+	<div class="hr" id="comment-1633300"></div>
+<div class="media block-lg-10" itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+	<div class="media-left hidden-xs">
+				<img class="bordered" width="50" src="https://secure.gravatar.com/avatar/8372572eeeacb4cfe744a3ccf968c4c6?d=identicon&r=pg&s=100">
+			</div>
+	<div class="media-body">
+					<img class="bordered visible-xs pull-left space-right-sm" width="45" src="https://secure.gravatar.com/avatar/8372572eeeacb4cfe744a3ccf968c4c6?d=identicon&r=pg&s=100">
+				<h4 class="media-heading text-xstrong">
+						<a class="text-primary text-small" href="/member/cricky" itemprop="author">Cricky</a>
+						<div class="visible-xs space-top-less-xs"></div>
+			<time class="text-small" datetime="2018-03-21 10:48" itemprop="dateCreated">
+				<small class="text-strong">
+				Today				<span class="text-color sep"></span>
+				10:48 am JST				</small>
+			</time>
+		</h4>
+		<div class="visible-xs mt-20"></div>
+		<div class="text-small" itemprop="text">
+			<p>Thank god they had really thought through this my number thing and put in place a system that protects personal information, bundled together for sending to foreign governments. Just wish more old men were making decisions about my future.</p>		</div>
+				<span class="text-xsmall">
+									<strong class="v-middle text-primary space-right">2</strong>
+			<span class="text-gray text-xxsmall text-strong v-middle">
+			    (
+			    <span itemprop="upvoteCount">+2</span>
+			    /
+			    <span itemprop="downvoteCount">-0</span>
+			    )
+			</span>
+		</span>
+					</div>
+</div>
+	<div class="hr" id="comment-1633325"></div>
+<div class="media block-lg-10" itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+	<div class="media-left hidden-xs">
+				<img class="bordered" width="50" src="https://secure.gravatar.com/avatar/93fbd1602db0753b4edfe759c0d8a9ac?d=identicon&r=pg&s=100">
+			</div>
+	<div class="media-body">
+					<img class="bordered visible-xs pull-left space-right-sm" width="45" src="https://secure.gravatar.com/avatar/93fbd1602db0753b4edfe759c0d8a9ac?d=identicon&r=pg&s=100">
+				<h4 class="media-heading text-xstrong">
+						<a class="text-primary text-small" href="/member/jefflee" itemprop="author">JeffLee</a>
+						<div class="visible-xs space-top-less-xs"></div>
+			<time class="text-small" datetime="2018-03-21 11:36" itemprop="dateCreated">
+				<small class="text-strong">
+				Today				<span class="text-color sep"></span>
+				11:36 am JST				</small>
+			</time>
+		</h4>
+		<div class="visible-xs mt-20"></div>
+		<div class="text-small" itemprop="text">
+			<p>When I went to my local public pension office for consultation, I was surprised when it turned out to be a private contractor, and not the government. The place was very chaotic and inefficient.</p>		</div>
+				<span class="text-xsmall">
+									<strong class="v-middle text-primary space-right">1</strong>
+			<span class="text-gray text-xxsmall text-strong v-middle">
+			    (
+			    <span itemprop="upvoteCount">+1</span>
+			    /
+			    <span itemprop="downvoteCount">-0</span>
+			    )
+			</span>
+		</span>
+					</div>
+</div>
+	<div class="hr" id="comment-1633335"></div>
+<div class="media block-lg-10" itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+	<div class="media-left hidden-xs">
+				<img class="bordered" width="50" src="https://secure.gravatar.com/avatar/db438c7187edb4b5e133466a2441da5f?d=identicon&r=pg&s=100">
+			</div>
+	<div class="media-body">
+					<img class="bordered visible-xs pull-left space-right-sm" width="45" src="https://secure.gravatar.com/avatar/db438c7187edb4b5e133466a2441da5f?d=identicon&r=pg&s=100">
+				<h4 class="media-heading text-xstrong">
+						<a class="text-primary text-small" href="/member/wolfpack" itemprop="author">Wolfpack</a>
+						<div class="visible-xs space-top-less-xs"></div>
+			<time class="text-small" datetime="2018-03-21 11:45" itemprop="dateCreated">
+				<small class="text-strong">
+				Today				<span class="text-color sep"></span>
+				11:45 am JST				</small>
+			</time>
+		</h4>
+		<div class="visible-xs mt-20"></div>
+		<div class="text-small" itemprop="text">
+			<p>Instead of pretending to be capable of securing the personal financial information of their citizens, the Japanese government is just handing it over.</p>		</div>
+				<span class="text-xsmall">
+									<strong class="v-middle text-primary space-right">1</strong>
+			<span class="text-gray text-xxsmall text-strong v-middle">
+			    (
+			    <span itemprop="upvoteCount">+1</span>
+			    /
+			    <span itemprop="downvoteCount">-0</span>
+			    )
+			</span>
+		</span>
+					</div>
+</div>
+				</section>
+						<h4 class="text-uppercase text-primary text-condensed text-light text-center text-railed mt-30 mb-20 hidden-print" id="login-to-comment">Login to leave a comment</h4>
+			<form method="post" role="form" action="&#x2F;login&#x3F;redirect&#x3D;&#x2F;category&#x2F;national&#x2F;japanese-pension-data-entry-outsourced-to-chinese-firm&#x25;23comments">			<div class="separator-choice">
+				<div class="separator-choice-option">
+					<h4 class="text-base text-xstrong mb-15">Facebook users</h4>
+					<p class="mt-5 text-small">Use your Facebook account to login or register with JapanToday. By doing so, you will also receive an email inviting you to receive our news alerts.</p>
+					<a href="https://www.facebook.com/v2.10/dialog/oauth?client_id=205769802778296&state=b8393bc3a2f27663b87ede8ada010686&response_type=code&sdk=php-sdk-5.6.1&redirect_uri=https%3A%2F%2Fjapantoday.com%2Flogin%2Ffacebook%2Fredirect%2F%252Fcategory%252Fnational%252Fjapanese-pension-data-entry-outsourced-to-chinese-firm%2523comments&scope=public_profile%2Cemail" class="btn btn-sm btn-facebook" title="Connect with Facebook">Facebook Connect</a>
+				</div>
+				<div class="separator-choice-divider"></div>
+				<div class="separator-choice-option">
+					<h4 class="text-base text-xstrong mb-15">Login with your JapanToday account</h4>
+					<input type="email" name="email" class="form-control&#x20;input-xs&#x20;mb-10" placeholder="Email" value="">					<input type="password" name="password" class="form-control&#x20;input-xs&#x20;mb-10" placeholder="Password" value="">					<label class="pull-left&#x20;text-xxsmall&#x20;text-regular"><input type="hidden" name="remember_me" value="0"><input type="checkbox" name="remember_me" class="space-right" value="1"><span>Remember Me</span></label>					<div class="clearfix text-xxsmall text-right mb-15">
+						<a class="text-primary" href="/password/lost" title="Forgot password?">Forgot password?</a>
+					</div>
+					<input type="submit" name="submit" class="btn&#x20;btn-default&#x20;btn-xs&#x20;mb-10" value="Log&#x20;In"><input type="hidden" name="security" value="eb3b30f26dc6f981316fafa2b9fda653-413415fa34d29a0f38e0e834fb18c925">					<a class="text-primary text-uppercase text-xsmall pull-right text-xstrong" href="/register" title="User registration">User registration</a>
+				</div>
+			</div>
+			</form>			</div>
+	</article>
+	<aside class="col-sm-4 col-md-3">
+		<div class="hidden-xs">
+			<div class="s10r" data-href="https&#x3A;&#x2F;&#x2F;go.injapan.com&#x2F;zP2Vrj" data-id="8zP8Yz" data-property-id="17">
+	<div class="frame text-center mb-20">
+			<a href="https&#x3A;&#x2F;&#x2F;go.injapan.com&#x2F;zP2Vrj">
+				<img class="img-responsive mb-15 center-block" src="https&#x3A;&#x2F;&#x2F;spot.injapan.com&#x2F;img&#x2F;qjgKqj.jpg">
+		<div class="block-sm-9 block-md-12 center-block">
+					<h3 class="font-adelle text-regular h4">MK Taxi Service</h3>
+							<p class="text-small">A convenient, reasonable, and reliable fleet with 24/7 English-speaking service.</p>
+							<span class="text-xsmall text-primary text-uppercase text-strong"><small>Call: 03-5547-5551</small></span>
+					</div>
+			<div class="frame-separation"></div>
+		<p class="frame-action text-small text-gray text-strong mb-0">Book Now</p>
+				</a>
+		</div>
+</div>
+		</div>
+		<div class="visible-xs">
+			<div class="s10r" data-href="https&#x3A;&#x2F;&#x2F;go.injapan.com&#x2F;v5Jmgz" data-id="4zJDLj" data-property-id="18">
+		<div class="frame text-center mb-20" data-href="https&#x3A;&#x2F;&#x2F;go.injapan.com&#x2F;v5Jmgz" data-id="4zJDLj" data-property-id="18">
+			<a href="https&#x3A;&#x2F;&#x2F;go.injapan.com&#x2F;v5Jmgz">
+		<div class="media media-md">
+					<div class="media-left media-middle">
+				<img class="media-object center-block" src="https&#x3A;&#x2F;&#x2F;spot.injapan.com&#x2F;img&#x2F;wzmJG6.jpg">
+			</div>
+				<div class="media-body media-middle">
+			<div class="block-sm-9 block-md-12 center-block">
+							<h3 class="media-heading font-adelle text-regular h4 mb-10">Teach English in Japan!</h3>
+										<p class="text-small">Overseas application OK! Teach English in a professional environment in the major cities of Japan. Click to apply now.</p>
+									</div>
+		</div>
+	</div>
+			<div class="frame-separation"></div>
+		<span class="frame-action text-small text-gray text-strong">Click Here</span>
+				</a>
+		</div>
+	</div>
+		</div>
+
+		<div class="clearfix"></div>
+		
+					<h4 class="section-title mb-20">
+				<a class="section-title-inner text-color" href="/category/national">National</a>
+			</h4>
+							
+
+<div class="text-strong text-xsmall text-primary">
+		<time datetime="2018-03-21 05:42" itemprop="datePublished">
+		Today		<span class="text-color sep"></span>
+		05:42 am JST					<span class="text-color sep"></span>
+			</time>
+			<br class="hidden">
+		<a class="text-gray" href="/category/national/zookeeper-bitten-by-gorilla-at-tokyo-zoo#comments">
+		<span class="text-primary" itemprop="commentCount">4</span> Comments		</a>
+	</div>
+
+<h4 class="text-xstrong mt-5"><a href="/category/national/zookeeper-bitten-by-gorilla-at-tokyo-zoo" title="Zookeeper&#x20;bitten&#x20;by&#x20;gorilla&#x20;at&#x20;Tokyo&#x20;zoo">Zookeeper bitten by gorilla at Tokyo zoo</a></h4>
+<div class="hr mt-10 mb-15"></div>
+			
+							
+
+<div class="text-strong text-xsmall text-primary">
+		<time datetime="2018-03-21 06:43" itemprop="datePublished">
+		Today		<span class="text-color sep"></span>
+		06:43 am JST					<span class="text-color sep"></span>
+			</time>
+			<br class="hidden">
+		<a class="text-gray" href="/category/national/japanese-court-throws-out-syrians%27-bid-to-overturn-refugee-ruling#comments">
+		<span class="text-primary" itemprop="commentCount">28</span> Comments		</a>
+	</div>
+
+<h4 class="text-xstrong mt-5"><a href="/category/national/japanese-court-throws-out-syrians'-bid-to-overturn-refugee-ruling" title="Japanese&#x20;court&#x20;throws&#x20;out&#x20;Syrians&#x27;&#x20;bid&#x20;to&#x20;overturn&#x20;refugee&#x20;ruling">Japanese court throws out Syrians&#039; bid to overturn refugee ruling</a></h4>
+<div class="hr mt-10 mb-15"></div>
+	<a href="/category/national/americans-seek-1-bil.-in-damages-over-fukushima-nuclear-disaster" title="200&#x20;U.S.&#x20;residents&#x20;seek&#x20;&#x24;1&#x20;bil&#x20;in&#x20;damages&#x20;over&#x20;Fukushima&#x20;nuclear&#x20;disaster">
+		<img class="img-responsive full mb-15" src="https&#x3A;&#x2F;&#x2F;japantoday-asset.scdn3.secure.raxcdn.com&#x2F;img&#x2F;store&#x2F;96&#x2F;b1&#x2F;ce11edc9f1b3e5f2900c28b95e95f07d48a1&#x2F;tankks&#x2F;_w270_h190_cv25.jpg" srcset="https&#x3A;&#x2F;&#x2F;japantoday-asset.scdn3.secure.raxcdn.com&#x2F;img&#x2F;store&#x2F;96&#x2F;b1&#x2F;ce11edc9f1b3e5f2900c28b95e95f07d48a1&#x2F;tankks&#x2F;_w270_h190_cv25.jpg 1x, https&#x3A;&#x2F;&#x2F;japantoday-asset.scdn3.secure.raxcdn.com&#x2F;img&#x2F;store&#x2F;96&#x2F;b1&#x2F;ce11edc9f1b3e5f2900c28b95e95f07d48a1&#x2F;tankks&#x2F;_w540_h380_cv25.jpg 2x" alt="">
+	</a>
+
+
+<div class="text-strong text-xsmall text-primary">
+		<time datetime="2018-03-20 06:43" itemprop="datePublished">
+		Mar. 20		<span class="text-color sep"></span>
+		06:43 am JST					<span class="text-color sep"></span>
+			</time>
+			<br class="hidden">
+		<a class="text-gray" href="/category/national/americans-seek-1-bil.-in-damages-over-fukushima-nuclear-disaster#comments">
+		<span class="text-primary" itemprop="commentCount">51</span> Comments		</a>
+	</div>
+
+<h4 class="text-xstrong mt-5"><a href="/category/national/americans-seek-1-bil.-in-damages-over-fukushima-nuclear-disaster" title="200&#x20;U.S.&#x20;residents&#x20;seek&#x20;&#x24;1&#x20;bil&#x20;in&#x20;damages&#x20;over&#x20;Fukushima&#x20;nuclear&#x20;disaster">200 U.S. residents seek $1 bil in damages over Fukushima nuclear disaster</a></h4>
+<div class="hr mt-10 mb-15"></div>
+						<div class="text-center text-right-xs text-strong mt-15 mb-25">
+				<a class="text-primary text-italic font-playfair" href="/category/national">View all</a>
+			</div>
+				<h4 class="section-title mt-15 mb-25">
+    <a class="section-title-inner" href="/popular">Popular</a>
+</h4>
+<div class="numbering numbering--digit-primary">
+    <div class="numbering-item frame frame--gradient mb-20">
+    <h4 class="text-base text-xstrong"><a class="text-color" href="/category/world/empowered-xi-says-china-ready-to-fight-'bloody-battle'" title="Xi&#x20;says&#x20;China&#x20;ready&#x20;to&#x20;fight&#x20;&#x27;bloody&#x20;battle&#x27;&#x20;to&#x20;regain&#x20;its&#x20;rightful&#x20;place&#x20;in&#x20;world" title="">Xi says China ready to fight &#039;bloody battle&#039; to regain its rightful place in world</a></h4>
+            <a class="frame-postscriptum bg-body text-xsmall text-strong text-uppercase text-gray" href="/category/world/empowered-xi-says-china-ready-to-fight-%27bloody-battle%27#comments">
+            <span class="text-primary">102</span>  Comments        </a>
+    </div>
+<div class="numbering-item frame frame--gradient mb-20">
+    <h4 class="text-base text-xstrong"><a class="text-color" href="/category/world/update-2-as-u.s.-opioid-crisis-grows-trump-calls-for-death-penalty-for-dealers" title="As&#x20;U.S.&#x20;opioid&#x20;crisis&#x20;grows,&#x20;Trump&#x20;calls&#x20;for&#x20;death&#x20;penalty&#x20;for&#x20;dealers" title="">As U.S. opioid crisis grows, Trump calls for death penalty for dealers</a></h4>
+            <a class="frame-postscriptum bg-body text-xsmall text-strong text-uppercase text-gray" href="/category/world/update-2-as-u.s.-opioid-crisis-grows-trump-calls-for-death-penalty-for-dealers#comments">
+            <span class="text-primary">97</span>  Comments        </a>
+    </div>
+<div class="numbering-item frame frame--gradient mb-20">
+    <h4 class="text-base text-xstrong"><a class="text-color" href="/category/world/update-2-u.s.-republicans-to-trump-let-mueller-do-his-job" title="Republicans&#x20;to&#x20;Trump&#x3A;&#x20;Let&#x20;Mueller&#x20;do&#x20;his&#x20;job" title="">Republicans to Trump: Let Mueller do his job</a></h4>
+            <a class="frame-postscriptum bg-body text-xsmall text-strong text-uppercase text-gray" href="/category/world/update-2-u.s.-republicans-to-trump-let-mueller-do-his-job#comments">
+            <span class="text-primary">87</span>  Comments        </a>
+    </div>
+<div class="numbering-item frame frame--gradient mb-20">
+    <h4 class="text-base text-xstrong"><a class="text-color" href="/category/national/conveyor-belt-sushi-chain-where-foreigner-filmed-gopro-video-considers-pressing-criminal-charges" title="Conveyor&#x20;belt&#x20;sushi&#x20;chain&#x20;where&#x20;foreigner&#x20;filmed&#x20;GoPro&#x20;video&#x20;considers&#x20;pressing&#x20;criminal&#x20;charges" title="">Conveyor belt sushi chain where foreigner filmed GoPro video considers pressing criminal charges</a></h4>
+            <a class="frame-postscriptum bg-body text-xsmall text-strong text-uppercase text-gray" href="/category/national/conveyor-belt-sushi-chain-where-foreigner-filmed-gopro-video-considers-pressing-criminal-charges#comments">
+            <span class="text-primary">81</span>  Comments        </a>
+    </div>
+<div class="numbering-item frame frame--gradient mb-20">
+    <h4 class="text-base text-xstrong"><a class="text-color" href="/category/world/pennsylvania-takeaways-gop-reaches-for-the-panic-button" title="Pennsylvania&#x20;takeaways&#x3A;&#x20;GOP&#x20;reaches&#x20;for&#x20;the&#x20;panic&#x20;button" title="">Pennsylvania takeaways: GOP reaches for the panic button</a></h4>
+            <a class="frame-postscriptum bg-body text-xsmall text-strong text-uppercase text-gray" href="/category/world/pennsylvania-takeaways-gop-reaches-for-the-panic-button#comments">
+            <span class="text-primary">170</span>  Comments        </a>
+    </div>
+</div>
+
+<div class="text-center text-right-xs text-strong mt-15 mb-25">
+	<a class="text-primary text-italic font-playfair" href="/popular">View all</a>
+</div>
+	</aside>
+</div>
+	</div>
+
+	<section class="bg-white hidden-print">
+    <div class="container wrapper-xs">
+        <h2 class="font-playfair text-center text-gray-darker">Articles, Offers &amp; Useful Resources</h2>
+        <div class="hr mt-15 mb-20"></div>
+        <p class="text-uppercase text-gray-dark text-small text-center mb-30">A mix of what&#039;s trending on our other sites</p>
+        <div class="block-lg-10 center-block">
+            <div class="row text-center gutter-sm js-masonry">
+            <div class="col-xs-12 col-sm-6 col-md-4 mb-20 js-masonry-grid-item">
+	<div class="bordered bg-white">
+		<a class="" href="https&#x3A;&#x2F;&#x2F;blog.gaijinpot.com&#x2F;this-week-in-japan-march-19-25&#x2F;" title="This&#x20;Week&#x20;In&#x20;Japan&#x3A;&#x20;March&#x20;19-25" rel="external">
+										<img class="img-responsive full" src="https&#x3A;&#x2F;&#x2F;japantoday-asset.scdn3.secure.raxcdn.com&#x2F;img&#x2F;store&#x2F;64&#x2F;d4&#x2F;e8c6c618754b280276d98e64e4ae2b89056a&#x2F;ume-stock-photo-690x460&#x2F;_w425.jpg" srcset="https&#x3A;&#x2F;&#x2F;japantoday-asset.scdn3.secure.raxcdn.com&#x2F;img&#x2F;store&#x2F;64&#x2F;d4&#x2F;e8c6c618754b280276d98e64e4ae2b89056a&#x2F;ume-stock-photo-690x460&#x2F;_w425.jpg 1x, https&#x3A;&#x2F;&#x2F;japantoday-asset.scdn3.secure.raxcdn.com&#x2F;img&#x2F;store&#x2F;64&#x2F;d4&#x2F;e8c6c618754b280276d98e64e4ae2b89056a&#x2F;ume-stock-photo-690x460&#x2F;_w850.jpg 2x" alt="">
+						<div class="wrapper-sm">
+								<h3 class="text-xcondensed text-uppercase text-semi-strong h3-secondary mt-0">This Week In Japan: March 19-25</h3>
+				<p class="text-xsmall text-strong text-gray mb-0">
+					GaijinPot Blog				</p>
+			</div>
+		</a>
+	</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 mb-20 js-masonry-grid-item">
+	<div class="bordered bg-white">
+		<a class="" href="https&#x3A;&#x2F;&#x2F;savvytokyo.com&#x2F;women-travel-in-tottori&#x2F;" title="Women&#x20;On&#x20;The&#x20;Road&#x3A;&#x20;Eating,&#x20;Playing&#x20;And&#x20;Loving&#x20;It&#x20;All&#x20;In&#x20;Tottori" rel="external">
+										<img class="img-responsive full" src="https&#x3A;&#x2F;&#x2F;japantoday-asset.scdn3.secure.raxcdn.com&#x2F;img&#x2F;store&#x2F;8f&#x2F;16&#x2F;59f5d3675926a0bc41923e4ccc20e8a6936d&#x2F;Two-Days-In-Tottori-e1520565381821&#x2F;_w425.png" srcset="https&#x3A;&#x2F;&#x2F;japantoday-asset.scdn3.secure.raxcdn.com&#x2F;img&#x2F;store&#x2F;8f&#x2F;16&#x2F;59f5d3675926a0bc41923e4ccc20e8a6936d&#x2F;Two-Days-In-Tottori-e1520565381821&#x2F;_w425.png 1x, https&#x3A;&#x2F;&#x2F;japantoday-asset.scdn3.secure.raxcdn.com&#x2F;img&#x2F;store&#x2F;8f&#x2F;16&#x2F;59f5d3675926a0bc41923e4ccc20e8a6936d&#x2F;Two-Days-In-Tottori-e1520565381821&#x2F;_w850.png 2x" alt="">
+						<div class="wrapper-sm">
+									<h4 class="font-playfair text-gray text-italic text-light mt-0 font-smoothing">Lifestyle</h4>
+								<h3 class="text-xcondensed text-uppercase text-semi-strong h3-secondary mt-15">Women On The Road: Eating, Playing And Loving It All In Tottori</h3>
+				<p class="text-xsmall text-strong text-gray mb-0">
+					Savvy Tokyo				</p>
+			</div>
+		</a>
+	</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 mb-20 js-masonry-grid-item">
+	<div class="bordered bg-white">
+		<a href="https&#x3A;&#x2F;&#x2F;injapan.com&#x2F;offers&#x2F;get-free-small-dish&#x2F;" title="Get&#x20;a&#x20;free&#x20;small&#x20;dish&#x21;" rel="external">
+							<img class="img-responsive full" src="https://injapan.scdn7.secure.raxcdn.com/app/uploads/2017/08/monaque_150928_dinner_001-700x467.jpg" alt="">
+						<div class="wrapper-sm">
+				<h4 class="font-playfair text-gray text-italic text-light mt-0 font-smoothing">Offer</h4>
+				<h3 class="text-xcondensed text-uppercase text-semi-strong h3-secondary mt-0">Get a free small dish!</h3>
+				<p class="text-xsmall text-strong text-gray mb-0">
+					GARB LEAVES				</p>
+			</div>
+		</a>
+	</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 mb-20 js-masonry-grid-item">
+	<div class="bordered bg-white">
+		<a class="" href="https&#x3A;&#x2F;&#x2F;travel.gaijinpot.com&#x2F;mitaki-dera-temple&#x2F;" title="Mitaki-dera&#x20;Temple" rel="external">
+										<img class="img-responsive full" src="https&#x3A;&#x2F;&#x2F;japantoday-asset.scdn3.secure.raxcdn.com&#x2F;img&#x2F;store&#x2F;9d&#x2F;f2&#x2F;5508c71ca160f4eb4d330ecd2ff51f35ec6f&#x2F;Mitaki-1-800x500&#x2F;_w425.jpg" srcset="https&#x3A;&#x2F;&#x2F;japantoday-asset.scdn3.secure.raxcdn.com&#x2F;img&#x2F;store&#x2F;9d&#x2F;f2&#x2F;5508c71ca160f4eb4d330ecd2ff51f35ec6f&#x2F;Mitaki-1-800x500&#x2F;_w425.jpg 1x, https&#x3A;&#x2F;&#x2F;japantoday-asset.scdn3.secure.raxcdn.com&#x2F;img&#x2F;store&#x2F;9d&#x2F;f2&#x2F;5508c71ca160f4eb4d330ecd2ff51f35ec6f&#x2F;Mitaki-1-800x500&#x2F;_w850.jpg 2x" alt="">
+						<div class="wrapper-sm">
+									<h4 class="font-playfair text-gray text-italic text-light mt-0 font-smoothing">Temples</h4>
+								<h3 class="text-xcondensed text-uppercase text-semi-strong h3-secondary mt-15">Mitaki-dera Temple</h3>
+				<p class="text-xsmall text-strong text-gray mb-0">
+					GaijinPot Travel				</p>
+			</div>
+		</a>
+	</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 mb-20 js-masonry-grid-item">
+	<div class="bordered bg-white">
+		<a class="" href="https&#x3A;&#x2F;&#x2F;savvytokyo.com&#x2F;this-weekend-tokyo-area-events-for-mar-24-25&#x2F;" title="This&#x20;Week&#x28;End&#x29;&#x3A;&#x20;Tokyo&#x20;Area&#x20;Events&#x20;For&#x20;Mar&#x20;24-25" rel="external">
+										<img class="img-responsive full" src="https&#x3A;&#x2F;&#x2F;japantoday-asset.scdn3.secure.raxcdn.com&#x2F;img&#x2F;store&#x2F;fb&#x2F;01&#x2F;6d702d778370ccdd71da37522e792a8ac096&#x2F;28427548_174281273192712_1988841884096659456_n&#x2F;_w425.jpg" srcset="https&#x3A;&#x2F;&#x2F;japantoday-asset.scdn3.secure.raxcdn.com&#x2F;img&#x2F;store&#x2F;fb&#x2F;01&#x2F;6d702d778370ccdd71da37522e792a8ac096&#x2F;28427548_174281273192712_1988841884096659456_n&#x2F;_w425.jpg 1x, https&#x3A;&#x2F;&#x2F;japantoday-asset.scdn3.secure.raxcdn.com&#x2F;img&#x2F;store&#x2F;fb&#x2F;01&#x2F;6d702d778370ccdd71da37522e792a8ac096&#x2F;28427548_174281273192712_1988841884096659456_n&#x2F;_w850.jpg 2x" alt="">
+						<div class="wrapper-sm">
+									<h4 class="font-playfair text-gray text-italic text-light mt-0 font-smoothing">What&#039;s Happening</h4>
+								<h3 class="text-xcondensed text-uppercase text-semi-strong h3-secondary mt-15">This Week(End): Tokyo Area Events For Mar 24-25</h3>
+				<p class="text-xsmall text-strong text-gray mb-0">
+					Savvy Tokyo				</p>
+			</div>
+		</a>
+	</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 mb-20 js-masonry-grid-item">
+	<div class="bordered bg-white">
+		<a href="https&#x3A;&#x2F;&#x2F;injapan.com&#x2F;offers&#x2F;enjoy-100yen-off-bill&#x2F;" title="Get&#x20;a&#x20;free&#x20;&#x20;soft&#x20;drink&#x21;" rel="external">
+							<img class="img-responsive full" src="https://injapan.scdn7.secure.raxcdn.com/app/uploads/2017/08/20150914150633.jpg" alt="">
+						<div class="wrapper-sm">
+				<h4 class="font-playfair text-gray text-italic text-light mt-0 font-smoothing">Offer</h4>
+				<h3 class="text-xcondensed text-uppercase text-semi-strong h3-secondary mt-0">Get a free  soft drink!</h3>
+				<p class="text-xsmall text-strong text-gray mb-0">
+					Guzman y Gomez  La Foret				</p>
+			</div>
+		</a>
+	</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 mb-20 js-masonry-grid-item">
+	<div class="bordered bg-white">
+		<a class="" href="https&#x3A;&#x2F;&#x2F;blog.gaijinpot.com&#x2F;faqs-mobile-phones-japan-sakura-mobile&#x2F;" title="Getting&#x20;a&#x20;Mobile&#x20;Phone&#x20;in&#x20;Japan&#x3A;&#x20;Your&#x20;FAQs&#x20;Answered" rel="external">
+										<img class="img-responsive full" src="https&#x3A;&#x2F;&#x2F;japantoday-asset.scdn3.secure.raxcdn.com&#x2F;img&#x2F;store&#x2F;9e&#x2F;ad&#x2F;0695d67185a9af4a8d57b14ebd5d4b287d58&#x2F;Sakura-Mobile-Lead-3-690x461&#x2F;_w425.jpg" srcset="https&#x3A;&#x2F;&#x2F;japantoday-asset.scdn3.secure.raxcdn.com&#x2F;img&#x2F;store&#x2F;9e&#x2F;ad&#x2F;0695d67185a9af4a8d57b14ebd5d4b287d58&#x2F;Sakura-Mobile-Lead-3-690x461&#x2F;_w425.jpg 1x, https&#x3A;&#x2F;&#x2F;japantoday-asset.scdn3.secure.raxcdn.com&#x2F;img&#x2F;store&#x2F;9e&#x2F;ad&#x2F;0695d67185a9af4a8d57b14ebd5d4b287d58&#x2F;Sakura-Mobile-Lead-3-690x461&#x2F;_w850.jpg 2x" alt="">
+						<div class="wrapper-sm">
+								<h3 class="text-xcondensed text-uppercase text-semi-strong h3-secondary mt-0">Getting a Mobile Phone in Japan: Your FAQs Answered</h3>
+				<p class="text-xsmall text-strong text-gray mb-0">
+					GaijinPot Blog				</p>
+			</div>
+		</a>
+	</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 mb-20 js-masonry-grid-item">
+	<div class="bordered bg-white">
+		<a href="https&#x3A;&#x2F;&#x2F;injapan.com&#x2F;offers&#x2F;get-free-drink-4&#x2F;" title="Get&#x20;a&#x20;free&#x20;drink&#x20;with&#x20;world-famous&#x20;chicken&#x20;rice&#x21;" rel="external">
+							<img class="img-responsive full" src="https://injapan.scdn7.secure.raxcdn.com/app/uploads/2018/01/main_visual4-700x290.jpg" alt="">
+						<div class="wrapper-sm">
+				<h4 class="font-playfair text-gray text-italic text-light mt-0 font-smoothing">Offer</h4>
+				<h3 class="text-xcondensed text-uppercase text-semi-strong h3-secondary mt-0">Get a free drink with world-famous chicken rice!</h3>
+				<p class="text-xsmall text-strong text-gray mb-0">
+					Wee Nam Kee Hainanese Chicken Rice				</p>
+			</div>
+		</a>
+	</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 mb-20 js-masonry-grid-item">
+	<div class="bordered bg-white">
+		<a href="https&#x3A;&#x2F;&#x2F;injapan.com&#x2F;offers&#x2F;get-free-drink&#x2F;" title="Get&#x20;a&#x20;free&#x20;drink&#x21;" rel="external">
+							<img class="img-responsive full" src="https://injapan.scdn7.secure.raxcdn.com/app/uploads/2017/09/P027446966_480.jpg" alt="">
+						<div class="wrapper-sm">
+				<h4 class="font-playfair text-gray text-italic text-light mt-0 font-smoothing">Offer</h4>
+				<h3 class="text-xcondensed text-uppercase text-semi-strong h3-secondary mt-0">Get a free drink!</h3>
+				<p class="text-xsmall text-strong text-gray mb-0">
+					GOOD MORNING CAFE &amp; GRILL Kyuri				</p>
+			</div>
+		</a>
+	</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 mb-20 js-masonry-grid-item">
+	<div class="bordered bg-white">
+		<a href="https&#x3A;&#x2F;&#x2F;injapan.com&#x2F;offers&#x2F;get-free-drink-7&#x2F;" title="Get&#x20;a&#x20;free&#x20;drink&#x20;while&#x20;you&amp;&#x23;8217&#x3B;re&#x20;in&#x20;Osaka&#x21;" rel="external">
+							<img class="img-responsive full" src="https://injapan.scdn7.secure.raxcdn.com/app/uploads/2018/02/s_img_7b1f55d5e8ed9b102e22c05419b4da652553784.jpg" alt="">
+						<div class="wrapper-sm">
+				<h4 class="font-playfair text-gray text-italic text-light mt-0 font-smoothing">Offer</h4>
+				<h3 class="text-xcondensed text-uppercase text-semi-strong h3-secondary mt-0">Get a free drink while you&#8217;re in Osaka!</h3>
+				<p class="text-xsmall text-strong text-gray mb-0">
+					GARB weeks				</p>
+			</div>
+		</a>
+	</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 mb-20 js-masonry-grid-item">
+	<div class="bordered bg-white">
+		<a class="" href="https&#x3A;&#x2F;&#x2F;blog.gaijinpot.com&#x2F;2018-top-jobs-in-japan-week-12&#x2F;" title="2018&#x20;Top&#x20;Jobs&#x20;in&#x20;Japan&#x20;Week&#x20;12" rel="external">
+										<img class="img-responsive full" src="https&#x3A;&#x2F;&#x2F;japantoday-asset.scdn3.secure.raxcdn.com&#x2F;img&#x2F;store&#x2F;6c&#x2F;27&#x2F;6c81812f11f14db5e33f98cbc23302e19999&#x2F;This-Week-Top-Jobs-12-690x361&#x2F;_w425.png" srcset="https&#x3A;&#x2F;&#x2F;japantoday-asset.scdn3.secure.raxcdn.com&#x2F;img&#x2F;store&#x2F;6c&#x2F;27&#x2F;6c81812f11f14db5e33f98cbc23302e19999&#x2F;This-Week-Top-Jobs-12-690x361&#x2F;_w425.png 1x, https&#x3A;&#x2F;&#x2F;japantoday-asset.scdn3.secure.raxcdn.com&#x2F;img&#x2F;store&#x2F;6c&#x2F;27&#x2F;6c81812f11f14db5e33f98cbc23302e19999&#x2F;This-Week-Top-Jobs-12-690x361&#x2F;_w850.png 2x" alt="">
+						<div class="wrapper-sm">
+								<h3 class="text-xcondensed text-uppercase text-semi-strong h3-secondary mt-0">2018 Top Jobs in Japan Week 12</h3>
+				<p class="text-xsmall text-strong text-gray mb-0">
+					GaijinPot Blog				</p>
+			</div>
+		</a>
+	</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 mb-20 js-masonry-grid-item">
+	<div class="bordered bg-white">
+		<a class="" href="https&#x3A;&#x2F;&#x2F;savvytokyo.com&#x2F;from-boar-to-deer-3-of-tokyos-best-game-meat-restaurants&#x2F;" title="From&#x20;Boar&#x20;To&#x20;Deer&#x3A;&#x20;3&#x20;Of&#x20;Tokyo&#x2019;s&#x20;Best&#x20;Game&#x20;Meat&#x20;Restaurants" rel="external">
+										<img class="img-responsive full" src="https&#x3A;&#x2F;&#x2F;japantoday-asset.scdn3.secure.raxcdn.com&#x2F;img&#x2F;store&#x2F;5e&#x2F;4a&#x2F;06700296afe835e2bc6af428d35692010780&#x2F;iStock-656022060&#x2F;_w425.jpg" srcset="https&#x3A;&#x2F;&#x2F;japantoday-asset.scdn3.secure.raxcdn.com&#x2F;img&#x2F;store&#x2F;5e&#x2F;4a&#x2F;06700296afe835e2bc6af428d35692010780&#x2F;iStock-656022060&#x2F;_w425.jpg 1x, https&#x3A;&#x2F;&#x2F;japantoday-asset.scdn3.secure.raxcdn.com&#x2F;img&#x2F;store&#x2F;5e&#x2F;4a&#x2F;06700296afe835e2bc6af428d35692010780&#x2F;iStock-656022060&#x2F;_w850.jpg 2x" alt="">
+						<div class="wrapper-sm">
+									<h4 class="font-playfair text-gray text-italic text-light mt-0 font-smoothing">Food &amp; Drink</h4>
+								<h3 class="text-xcondensed text-uppercase text-semi-strong h3-secondary mt-15">From Boar To Deer: 3 Of Tokyo’s Best Game Meat Restaurants</h3>
+				<p class="text-xsmall text-strong text-gray mb-0">
+					Savvy Tokyo				</p>
+			</div>
+		</a>
+	</div>
+</div>
+            </div>
+        </div>
+    </div>
+</section>
+
+	
+	<footer class="clearfix hidden-print">
+		<div class="footer bg-gray-darker">
+			<nav class="container wrapper" role="navigation">
+				<ul class="list-inline list-inline--spaceout-sm text-uppercase text-small text-xstrong text-center text-gray-light mb-0">
+	<li class="mb-10 active">
+	<a href="/category/national">National</a>
+</li>
+<li class="mb-10">
+	<a href="/category/crime">Crime</a>
+</li>
+<li class="mb-10">
+	<a href="/category/entertainment">Entertainment</a>
+</li>
+<li class="breaklist"></li>
+<li class="mb-10">
+	<a href="/category/politics">Politics</a>
+</li>
+<li class="mb-10">
+	<a href="/category/business">Business</a>
+</li>
+<li class="mb-10">
+	<a href="/category/tech">Tech</a>
+</li>
+<li class="breaklist-child"></li>
+<li class="mb-10">
+	<a href="/category/sports">Sports</a>
+</li>
+<li class="mb-10">
+	<a href="/category/world">World</a>
+</li>
+<li class="mb-10">
+	<a href="/category/features">Features</a>
+</li>
+<li class="mb-0 block-sm-12">
+	<ul class="list-inline list-inline--spaceout-sm text-xsmall text-uppercase mb-0">
+		<li class="mb-10">
+	<a href="/category/features/lifestyle">Lifestyle</a>
+</li>
+<li class="mb-10">
+	<a href="/category/features/kuchikomi">Kuchikomi</a>
+</li>
+<li class="mb-10">
+	<a href="/category/features/new-products">New Products</a>
+</li>
+<li class="breaklist"></li>
+<li class="mb-10">
+	<a href="/category/features/health">Health</a>
+</li>
+<li class="mb-10">
+	<a href="/category/features/food">Food</a>
+</li>
+<li class="mb-10">
+	<a href="/category/features/travel">Travel</a>
+</li>
+<li class="breaklist-child"></li>
+<li class="mb-10">
+	<a href="/category/features/executive-impact">Executive Impact</a>
+</li>
+<li class="mb-10">
+	<a href="/category/features/opinions">Opinions</a>
+</li>
+<li class="mb-10">
+	<a href="/category/features/events">Events</a>
+</li>
+	</ul>
+</li>
+</ul>
+			</nav>
+		</div>
+		<div class="container">
+			<ul class="list-caret-sm text-xsmall text-center text-strong mt-25 mb-15">
+				<li class="mb-10">
+					<a class="text-gray" href="https://gplusmedia.com/" title="GPlusMedia">&copy;2018 GPlusMedia Inc.</a>
+				</li>
+				<li class="mb-10">
+					<a class="text-gray" href="/privacy-policy" title="Privacy">Privacy</a>
+				</li>
+				<li class="mb-10">
+					<a class="text-gray" href="/terms-of-service" title="Terms of Service">Terms of Service</a>
+				</li>
+				<li class="breaklist"></li>
+				<li class="mb-10">
+					<a class="text-gray" href="/moderation-policy" title="Moderation Policy">Moderation Policy</a>
+				</li>
+				<li class="mb-10">
+					<a
+						class="text-gray"
+						href="/advertising"
+						title="広告掲載">広告掲載</a><span
+						class="text-gray">/</span><a
+						class="text-gray"
+						href="/advertising/en"
+						title="Advertise with us">Advertise with us</a>
+				</li>
+				<li class="mb-10">
+					<a
+						class="text-gray"
+						href="/about-us/ja"
+						title="総合案内">総合案内</a><span
+						class="text-gray">/</span><a
+						class="text-gray" href="/about-us"
+						title="About us">About us</a>
+				</li>
+				<li>
+					<a
+						class="text-gray"
+						href="/contact-us/ja"
+						title="編集部">編集部</a><span
+						class="text-gray">/</span><a
+						class="text-gray"
+						href="/contact-us"
+						title="Contact us">Contact us</a>
+				</li>
+			</ul>
+			<div class="list-inline text-center mb-25">
+				<a class="text-gray-dark" href="https://www.facebook.com/JapanToday/" title="JT Facebook"><span class="jt-icon jt-icon-xs jt-icon-app-facebook"></span></a>
+				<a class="text-gray-dark space-left" href="https://twitter.com/JapanToday" title="JT Twitter"><span class="jt-icon jt-icon-xs jt-icon-app-twitter"></span></a>
+				<a class="text-gray-dark space-left" href="https://www.instagram.com/japantodaynews/" title="JT Instagram"><span class="jt-icon jt-icon-xs jt-icon-app-instagram"></span></a>
+				<a class="text-gray-dark space-left" href="https://plus.google.com/+Japantodaybreakingnews" title="JT Google+"><span class="jt-icon jt-icon-xs jt-icon-app-googleplus"></span></a>
+				<a class="text-gray-dark space-left" href="/feed" title="RSS Feed"><span class="jt-icon jt-icon-xs jt-icon-app-rss"></span></a>
+			</div>
+		</div>
+	</footer>
+
+	<script type="text/javascript" async="async" src="https://www.googletagmanager.com/gtag/js?id=UA-2119552-7"></script>
+<script type="text/javascript">
+    //<!--
+    window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'UA-2119552-7');
+    //-->
+</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-58c20836fa57017b"></script>
+<script type="text/javascript" src="https://use.typekit.net/fop3sgd.js"></script>
+<script type="text/javascript">
+    //<!--
+    try { Typekit.load({ async: false }); } catch(e) {}
+    //-->
+</script>
+<script type="text/javascript" src="https://jt00.scdn6.secure.raxcdn.com/js/public.min.js?v=9.14"></script>
+<script type="text/javascript" id="s10r_id" src="https://jt00.scdn6.secure.raxcdn.com/s10r.js" data-url="/s10r"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var s10r_var = {"method":"localserver","hiturl":"https:\/\/spot.injapan.com\/rest\/v2\/track","token":"6-35bb739c3a545cc281f9eb7500357ecd","lang":"en"};
+/* ]]> */
+</script></body>
+</html>

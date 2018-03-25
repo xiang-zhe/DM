@@ -1,0 +1,1156 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- META TAGS -->
+    <meta charset="UTF-8">
+    
+            
+<meta name="description" content="Missiles that spit out warheads traveling up to 20 times the speed of sound and with the ability to perform elusive acrobatics may be too much for the U.S. defenses to block, U.S. Stratcom chief says.">
+
+    <title>US Can&#039;t Stop Hypersonic Weapons, Air Force General Says</title>
+
+<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcFVl5SDhABUlVbAAQCVA=="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+<meta name="google-site-verification" content="9idATXqhUCskCzkXvGEmuGx6t9G5-cpFLIVMpREAg-8">    
+        
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!--[if IE ]>
+
+    <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+
+    <![endif]-->
+
+            <meta name="robots" content=" index, follow ">
+    
+            <link rel="canonical" href="https://www.livescience.com/62082-hypersonic-weapons-defense.html">
+
+    <link rel="amphtml" href="https://amp.livescience.com/62082-hypersonic-weapons-defense.html"> 
+        
+        <link rel="apple-touch-icon" sizes="57x57" href="/resources/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/resources/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/resources/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/resources/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/resources/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/resources/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/resources/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/resources/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/resources/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/resources/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/resources/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/resources/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/resources/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/resources/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+
+
+
+
+    
+
+            <script type="text/javascript">
+            var image_server = 'https://www.livescience.com';
+        </script>
+    
+            <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700|Oswald:400,300,700" />    
+            <link rel="stylesheet" href="/css/compiled/grunt/livescience.all.css?2018-03-22-23"/>
+        
+                        <script src="https://www.livescience.com/resources/js/jquery.min.js?8e9da4a"></script>
+    <script type="text/javascript" language="JavaScript">
+        var jqueryUrl = 'https://www.livescience.com/resources/js/jquery.min.js?8e9da4a';
+    </script>
+
+    <script src="https://www.livescience.com/resources/js/handlebars.min.js?8e9da4a"></script>
+
+<script type="text/javascript" language="JavaScript">
+   var ooyalaPlayerId = 'bac0c1eca4014bd98a254d8299417157';
+    var ooyalaAdTagId = '6c407fcf74348cabb21f916f824643e';
+    var socialSiteUrl = 'https://www.livescience.com';
+    var pollName = 'lspolls';
+</script>
+    <script src="https://www.livescience.com/resources/js/baseISFUNKY.js?8e9da4a"></script>
+
+    
+        <script type="text/javascript" src="https://www.livescience.com/resources/js/single.js?8e9da4a"></script>
+    
+
+            <script type="text/javascript" src="https://www.livescience.com/resources/js/articleBase.js?8e9da4a"></script>
+        
+
+                    <meta property="fb:app_id" content="438608976204523" />
+<meta property="fb:pages" content="30478646760" />
+<meta property="og:title" content="US Can&#039;t Stop Hypersonic Weapons, Air Force General Says" />
+<meta property="og:url" content="https://www.livescience.com/62082-hypersonic-weapons-defense.html" />
+<meta property="og:image" content="https://img.purch.com/h/1000/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5OC85ODQvb3JpZ2luYWwvSHlwZXJzb25pYy1NaXNzaWxlLU5PLVJFVVNFLmpwZw==" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Live Science" />
+<meta property="og:description" content="Missiles that spit out warheads traveling up to 20 times the speed of sound and with the ability to perform elusive acrobatics may be too much for the U.S. defenses to block, U.S. Stratcom chief says." />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@LiveScience" />
+<meta name="twitter:site:id" content="15428397" />
+<meta name="twitter:creator" content="@jeannabryner" />
+<meta name="twitter:title" content="US Can&#039;t Stop Hypersonic Weapons, Air Force General Says" />
+<meta name="twitter:description" content="Missiles that spit out warheads traveling up to 20 times the speed of sound and with the ability to perform elusive acrobatics may be too much for the U.S. defenses to block, U.S. Stratcom chief says." />
+<meta name="twitter:image" content="https://img.purch.com/h/1000/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5OC85ODQvb3JpZ2luYWwvSHlwZXJzb25pYy1NaXNzaWxlLU5PLVJFVVNFLmpwZw==" />
+
+        
+            <meta name="news_keywords" content="military technology,hypersonic weapons,nuclear weapons,ballistic missiles,war technology "/>
+    
+                
+            <!-- SiteCatalyst code version: H.19.4.
+Copyright 1997-2009 Omniture, Inc. More info available at
+http://www.omniture.com -->
+
+    <script language="JavaScript" type="text/javascript">
+        if (typeof s == "undefined") {
+            var s = {};
+        }
+    </script>
+
+<script language="JavaScript" type="text/javascript">
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+            s.pageName = "ls:technology:article:62082";
+                s.channel = "technology";
+                s.prop2 = "ls";
+                s.prop4 = "article";
+                s.prop5 = "us can&#039;t stop hypersonic weapons, air force general says";
+                s.prop6 = "ls-62082";
+                s.contentID = "ls:asset_62082";
+    
+    
+
+
+ /* Hierarchy Variables */
+s.hier1="";
+s.eVar15=s.prop15;
+s.eVar4=s.prop4;
+s.eVar16=s.prop16;
+s.eVar17=s.prop17;
+s.eVar18=s.prop18;
+
+
+    </script>
+    
+            
+            
+                    
+
+                                                                                                                                
+
+
+<script type="text/javascript">
+    var pageAccount = '/10518929/tmn.ls';
+    var pageAdZone = '/article/technology';
+    var siteName = 'tmn.ls';
+    var ccat = 'technology';
+    var ccatPretty = 'Tech';
+    var ctype = 'article';
+    var keywords = ["military\x20technology","hypersonic\x20weapons","nuclear\x20weapons","ballistic\x20missiles","war\x20technology"];
+    var ooValue = "0";
+</script>
+            <!-- AMC SETUP begin -->
+<script language="JavaScript" type="text/javascript">
+    var tmntag = tmntag || {};
+    tmntag.cmd = tmntag.cmd || [];
+
+    (function () {
+        var tmnh = document.createElement('script');
+        tmnh.type = 'text/javascript';
+        tmnh.async = true;
+        tmnh.src = 'https://ads.servebom.com/tmnhead.js';
+        var script = document.getElementsByTagName('script')[0];
+        script.parentNode.insertBefore(tmnh, script);
+    })();
+
+    tmntag.cmd.push(function () {
+        tmntag.placement('2669');
+
+        if (typeof keywords == 'undefined') {
+            keywords = [];
+        }
+
+        if (typeof ooValue == 'undefined') {
+            ooValue = "0";
+        }
+
+        if (typeof pageAdZone != 'undefined') {
+            tmntag.account(pageAdZone);
+        }
+
+                if (typeof ad_location != 'undefined') {
+            tmntag.location(ad_location);
+        }
+
+        tmntag.target({
+            "kw": keywords,
+            "site": siteName,
+            "ctype": ctype,
+            "ccat1": ccat,
+            "partner": "n",
+            "_oo": ooValue
+        });
+
+        tmntag.start();
+    });
+</script>
+<!-- AMC SETUP end -->
+    
+    
+    
+    
+        
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+
+        _gaq.push(['_setAccount', 'UA-11681412-2'],
+            ['_setDomainName', 'livescience.com'],
+            ['_setCustomVar', 1, 'Section', 'technology', 3],
+            ['_trackPageview'   ]);
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+                                
+<style>  #header_leaderboard{min-height:0px} @media only screen and (min-width:728px) {#header_leaderboard{min-height:90px}}  #rightcol_top{min-height:0px} @media only screen and (min-width:300px) {#rightcol_top{min-height:250px}}</style>
+<script>
+(function() {
+  var init = function() {
+    /* ftc-pixel */
+    var soConf = {
+      "insertMethod": "afterbegin",
+      "sentence": "<div class='pure-u-1'>Live Science reviews products independently. When you click links to buy products we may earn money to support <a href='http://www.livescience.com/about' target='_blank'>our work</a>.</div>",
+      "targetSlot": ".container",
+      "productsCond": typeof Purch !== "undefined" &&
+        typeof Purch.obfCssMap !== "undefined" &&
+        document.querySelector("." + Purch.obfCssMap["shop-btn-tracking"]) !== null ||
+        window.raasOffers && Object.keys(window.raasOffers).length > 0 ||
+        document.querySelector(".buyBtn") !== null ||
+        document.querySelector(".ntShoppingWidget") !== null ||
+        document.querySelector(".otm-buy-block") !== null ||
+        window.ad_keywords === "laptop-finder"
+    };
+
+    if (soConf.targetSlot.indexOf("${") >= 0) {
+      soConf.targetSlot = ".page-top-promo";
+    }
+    if (soConf.insertMethod.indexOf("${") >= 0) {
+      soConf.insertMethod = "beforeend";
+    }
+
+    var styles = [
+      "<style>",
+      ".fct-text{font-size:11px;text-align:center;font-style:italic;padding:10px;line-height:13px;}",
+      ".center-content .fct-text {width:100%;margin:-10px 0 5px;}", // space|ls,
+      ".topic_menu ~ .fct-text {margin-bottom:0;}", // anandtech
+      "</style>"
+    ].join("");
+
+    var slot = document.querySelector(soConf.targetSlot);
+    if (slot && soConf.productsCond === true) {
+      try {
+        slot.insertAdjacentHTML(soConf.insertMethod, styles + "<div class='fct-text'>" + soConf.sentence + "</div>");
+      } catch (e) {}
+    }
+  }
+
+  document.addEventListener('readystatechange', function() {
+    if (document.readyState === "interactive") {
+      init();
+    }
+  });
+})();
+</script>
+<script type="text/javascript">
+  
+(function () {
+	
+function getOmnitureData() {
+  return (Purch.Omniture.params) || {};
+}
+		
+var DiscoveryConf = {
+  'etype': 'click',
+  
+  'p': {
+	 'tid%7C\\w+': function(conf) {
+		 try{
+			if(conf.el.getAttribute('data-omniture-tracking')){ 
+				var omnitureTrackingVars = conf.el.getAttribute('data-omniture-tracking');
+				var parsedVars = JSON.parse(omnitureTrackingVars);
+				return 'tid%7C' + parsedVars["evars"]["transactionID"];
+			  }
+		 }catch(e){}
+	}
+  },
+  'providers': ['out.tomsguide.fr', 'amazon.fr', 'amazon.co.uk',
+	  'amazon.de', 'Mediaplex.com', 'amazon.com', 'Geni.us',
+	  'linksynergy.com', 'lenovo.7eer.net',
+	  'sharesale.com', 'evyy.net', 'dpbolvw.net',
+	  'kqzyfj.com', 'anrdoezrs.net', 'tkqlhce.com', 'jdoqocy.com',
+	  'parrot.com'
+  ],
+  'd': {
+	  'esubtype': 'buybttn',
+	  'buttonId': function(conf) {
+		 try{
+			if(conf.el.getAttribute('data-omniture-tracking')){
+			  var omnitureTrackingVars = conf.el.getAttribute('data-omniture-tracking');
+			  var parsedVars = JSON.parse(omnitureTrackingVars);
+			  return parsedVars["evars"]["eVar18"];
+			} else {
+			  return null;
+			}
+		 }catch(e){}
+	
+	  },
+	  'productId': function(conf) {
+		try{
+			if(conf.el.getAttribute('data-omniture-tracking')){
+			  var omnitureTrackingVars = conf.el.getAttribute('data-omniture-tracking');
+			  var parsedVars = JSON.parse(omnitureTrackingVars);
+			  var productId = parsedVars["evars"]["eVar18"];
+			  return productId && productId.substr(productId.indexOf('-') + 1);
+			} else {
+			  return null;
+			}
+		 }catch(e){}
+	  },
+	  'merchant': function(conf) {
+		try{
+			if(conf.el.getAttribute('data-omniture-tracking')){
+			  var omnitureTrackingVars = conf.el.getAttribute('data-omniture-tracking');
+			  var parsedVars = JSON.parse(omnitureTrackingVars);
+			  return parsedVars["evars"]["eVar34"];
+			} else {
+			  return null;
+			}
+		}catch(e){}
+		
+	  },
+	  'price': function(conf) {
+		try{
+			if(conf.el.getAttribute('data-omniture-tracking')){
+			  var omnitureTrackingVars = conf.el.getAttribute('data-omniture-tracking');
+			  var parsedVars = JSON.parse(omnitureTrackingVars);
+			  return parsedVars["evars"]["eVar43"];
+			} else {
+			  return null;
+			}
+		}catch(e){}
+	
+	  },
+	  'adPlacement': function(conf) {
+		try{
+			if(conf.el.getAttribute('data-omniture-tracking')){
+			  var omnitureTrackingVars = conf.el.getAttribute('data-omniture-tracking');
+			  var parsedVars = JSON.parse(omnitureTrackingVars);
+			  return parsedVars["evars"]["eVar23"];
+			} else {
+			  return null;
+			}			  
+		}catch(e){}
+		
+	  },
+	  'categories': function() {
+		try{
+			return getOmnitureData()['eVar2'];  
+		}catch(e){}
+	  },
+	  'tags': function() {
+		try{
+			var tags = getOmnitureData()['prop34'];
+			return tags && (typeof tags === 'string') && (tags.split('|').join(','));
+		}catch(e){}
+		 
+	  },
+	  'adblock': function() {
+		try{
+			return !!window.abp;  
+		}catch(e){}
+	  },
+	  'transactionId': function(conf) {
+		try{
+			if(conf.el.getAttribute('data-omniture-tracking')){
+			  var omnitureTrackingVars = conf.el.getAttribute('data-omniture-tracking');
+			  var parsedVars = JSON.parse(omnitureTrackingVars);
+			  return parsedVars["evars"]["transactionID"];
+			} else {
+			  return null
+			}
+		}catch(e){}
+	  }
+	  
+  }
+};
+
+window.cs_cmd = window.cs_cmd || [];
+
+window.cs_cmd.push(function() {
+	if(typeof window.Purch.cs_data !== "undefined"){
+		delete window.Purch.cs_data['PAGE'];
+		delete window.Purch.cs_data['PAGE_DOMAIN'];
+        delete window.Purch.cs_data['COOKIES'];
+		DiscoveryConf.d['timestamp'] =  '%CB%';
+		DiscoveryConf.d['client_ts'] = '%CB%';
+	}else{
+		DiscoveryConf.d['SITE'] =  '%SITE%';
+		DiscoveryConf.d['clickURL'] =  '%URL%';
+		DiscoveryConf.d['GAID'] =  '%GAID%';
+		DiscoveryConf.d['client_ts'] =  '%CB%';        
+	}
+	try{
+		DiscoveryConf.init = false;
+		var dscv = new window.Purch.Discovery(DiscoveryConf);
+		dscv.init(); 
+	}catch(e){}
+});
+
+})();
+
+(function(url) { var s=document.createElement('script');s.type='text/javascript';document.getElementsByTagName('head')[0].appendChild(s);s.src = url;
+})('//assets.purch.com/loe/REVISION.js?t='+(new Date()).getTime());
+
+Purch.ICU_CONF = {"gtmDataLayer":gtmDataLayer};
+
+(function(url) { var s=document.createElement('script');s.type='text/javascript';document.getElementsByTagName('head')[0].appendChild(s);s.src = url;
+})('//assets.purch.com/loe/REVISION_ICU.js?t='+(new Date()).getTime());
+
+</script>
+<script src="//assets.purch.com/ramp/js/Advertisement/advertisement.js"></script>
+<script>
+var Purch = Purch || {};
+Purch.JwDisableSticky = document.location.pathname === "/";
+</script>
+<style>
+.right-rail.sticky-sticked,
+.right-rail.sticky-followed{
+   max-width: 326px;
+}
+</style>
+
+    
+    </head>
+
+<body class="" >
+
+                <script>var __uzdbm_a = "31346278-8be3-6eeb-5f9a-5b22548d213f";</script><div id="ss_098786_234239_238479_190541"></div><script src ="https://cdn.perfdrive.com/static/jscall_min.js" async="true"></script>
+        
+    <script type="text/javascript">
+var omnVars = {};
+for (var key in s) {
+    if (!s.hasOwnProperty(key)) continue;
+    var obj = s[key];
+    if (key.indexOf('prop') == 0 || key.indexOf('eVar') == 0 || key.indexOf('pageName') == 0 || key.indexOf('channel') == 0 || key.indexOf('pageType') == 0 || key.indexOf('contentID') == 0) {
+        omnVars[key] = typeof s[key] !== 'undefined' ? s[key] : '';
+    }
+}
+</script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-56QKB5"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-56QKB5');
+
+    if (dataLayer) {
+        dataLayer.push({'PurchOmnitureVars': omnVars });
+    }
+</script>
+<!-- End Google Tag Manager -->
+    <!-- Skin ads -->
+    <div id="out-of-page"><script type='text/javascript'>tmntag.cmd.push(function(){ tmntag.adTag('out-of-page', false); });</script></div>
+
+        <script src="https://www.livescience.com/resources/js/body-base.js?8e9da4a"></script>
+
+    <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+<label for="nav-trigger" class="mq-lg-off">
+    <s class="bar"></s>
+    <s class="bar"></s>
+    <s class="bar"></s>
+</label>
+<ul class="mobile-nav mq-lg-off">
+    <li class="non-item mq-small-on mq-med-off">
+        <form action="https://www.livescience.com/search" class="inline-form space-L5">
+            <input type="text" name="q" required placeholder="" class="search-form"><button class="search-btn btn"></button>
+        </form>
+    </li>
+           <li><a class="nav-item  " href="/news" >News</a></li>
+           <li><a class="nav-item  " href="/technology" >Tech</a></li>
+           <li><a class="nav-item  " href="/health" >Health</a></li>
+           <li><a class="nav-item  " href="/environment" >Planet Earth</a></li>
+           <li><a class="nav-item  " href="/strange-news" >Strange News</a></li>
+           <li><a class="nav-item  " href="/animals" >Animals</a></li>
+           <li><a class="nav-item  " href="/history" >History</a></li>
+           <li><a class="nav-item  " href="/culture" >Culture</a></li>
+           <li><a class="nav-item  " href="//www.space.com/" >Space.com</a></li>
+        <li class="non-item search-social mq-small-on mq-med-off">
+                                                        <a href="https://www.facebook.com/livescience?cmpid=556687" ><i class="fa fa-facebook"></i></a>
+                                    <a href="https://flipboard.com/@Livescience" ><i class="fa fa-flipboard"></i></a>
+                                    <a href="https://twitter.com/LiveScience?cmpid=556688" ><i class="fa fa-twitter"></i></a>
+                                    <a href="https://plus.google.com/+livescience/posts?cmpid=556690" rel="publisher"><i class="fa fa-google-plus"></i></a>
+                                                                                                                        </li>
+</ul>
+
+
+
+<div class="site-wrapper">
+            <!-- Leaderboard -->
+<div class="leaderboard clear ad-slot">
+    <div id="header_leaderboard">
+        <script type='text/javascript'>tmntag.cmd.push(function(){ tmntag.adTag('header_leaderboard', false); }); </script>
+    </div>
+</div>    
+                    
+<header class="header content-wrapper">
+    <div class="center-content pure-g" id="menu">
+        <div class="pure-u-1 pure-u-sm-1-3 pure-u-md-1-3 pure-u-lg-1-4">
+            <div class="logo-wrapper">
+                                    <a class="hdr-logo" href="/"><svg version="1.1" id="ls-logo" class="hdr-svg" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 396 50" xml:space="preserve">
+    <style>
+        .live { fill:#FAAF3B;}
+        .science { fill:#FFFFFF;}
+    </style>
+    <title>Live Science</title>
+    <g class="science">
+        <path d="M359.3,48V1.8h34.9v9.1h-24.9v9.3h24.3v9.1h-24.3V39h25.1V48H359.3z"/>
+        <path d="M154.9,48.6c-7,0-14.1-2.4-19.7-7.5l6-7.2c4.2,3.4,8.5,5.6,13.8,5.6c4.2,0,6.6-1.7,6.6-4.3v-0.1
+            c0-2.6-1.6-3.9-9.3-5.9c-9.3-2.4-15.4-5-15.4-14.1V15C137,6.6,143.7,1,153.2,1c6.8,0,12.5,2.2,17.2,5.9l-5.3,7.6
+            c-4.2-2.9-8.2-4.6-12.1-4.6c-3.9,0-5.9,1.7-5.9,4v0.1c0,3,2,4,10.1,6c9.3,2.4,14.7,5.9,14.7,13.9v0.1
+            C171.9,43.4,164.8,48.6,154.9,48.6z"/>
+        <path d="M199,48.8c-13.7,0-23.7-10.5-23.7-23.9v-0.1c0-13.2,9.9-24,24.1-24c8.8,0,13.9,2.9,18.3,7.2
+            l-6.5,7.5c-3.6-3.3-7.2-5.2-11.8-5.2c-7.8,0-13.4,6.5-13.4,14.4v0.1c0,7.9,5.5,14.5,13.4,14.5c5.3,0,8.5-2.2,12.2-5.5l6.5,6.6
+            C213.3,45.6,207.9,48.8,199,48.8z"/>
+        <path d="M336,48.8c-13.7,0-23.7-10.5-23.7-23.9v-0.1c0-13.2,9.9-24,24.1-24c8.8,0,13.9,2.9,18.3,7.2
+            l-6.5,7.5c-3.6-3.3-7.2-5.2-11.8-5.2c-7.8,0-13.4,6.5-13.4,14.4v0.1c0,7.9,5.5,14.5,13.4,14.5c5.3,0,8.5-2.2,12.2-5.5l6.5,6.6
+            C350.2,45.6,344.9,48.8,336,48.8z"/>
+        <g>
+            <path d="M222.3,48V1.8h10.2V48H222.3z"/>
+            <polygon points="297.9,1.8 297.9,30.2 276.2,1.8 266.9,1.8 266.9,10.8 242.4,10.8 242.4,20.2 266.9,20.2
+                266.9,29.2 242.4,29.2 242.4,38.8 266.9,38.8 266.9,48 276.9,48 276.9,18.6 299.3,48 308,48 308,1.8 		"/>
+        </g>
+    </g>
+    <g class="live">
+        <path d="M1,1.5h5.2V43h26v4.9H1V1.5z"/>
+        <path d="M42.8,1.5v46.3h-5.2V1.5H42.8z"/>
+        <path d="M86.9,1.5h5.6L72.7,48.2h-4.6l-20-46.7H54l16.5,40L86.9,1.5z"/>
+        <path d="M131.3,6.4H103v15.8h25.3v4.7H103v16.2h28.6v4.7H97.9V1.5h33.5V6.4z"/>
+    </g>
+</svg></a>
+                            </div>
+        </div>
+        <div class="pure-u-1 pure-u-sm-2-3 pure-u-md-2-3 pure-u-lg-3-4">
+            <div class="pure-g">
+                <nav class="search-social pure-u-1 mq-small-on">
+                                                                                                                                            <a href="https://www.facebook.com/livescience?cmpid=556687" target="_blank"><i class="fa fa-facebook"></i></a>  
+                                                   
+                                                                                                <a href="https://flipboard.com/@Livescience" target="_blank">
+                                        <svg version="1.1" class="flipboardHeader" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px" width="40px" height="40px"
+     viewBox="-16.531 -10 40 40" xml:space="preserve">
+    <polygon points="-16.531,-10 -16.531,3.301 -16.531,16.579 -16.531,29.879 -3.23,29.879 -3.23,16.579
+		-3.23,3.301 -3.23,-10 	"/>
+    <rect x="-3.23" y="3.301" width="13.278" height="13.278"/>
+    <polygon  points="10.048,-10 -3.23,-10 -3.23,3.301 10.048,3.301 23.348,3.301 23.348,-10 	"/>
+</svg>                                    </a>
+                                                   
+                                                                                                <a href="https://twitter.com/LiveScience?cmpid=556688" target="_blank"><i class="fa fa-twitter"></i></a>  
+                                                   
+                                                                                                <a href="https://plus.google.com/+livescience/posts?cmpid=556690" target="_blank"><i class="fa fa-google-plus"></i></a>  
+                                                   
+                                                                                                                                                                                                                                                                            <form action="https://www.livescience.com/search" class="inline-form unit-r space-L10">
+                        <input class="form-inset search-form" type="text" name="q" required placeholder="">
+                        <button class="search-btn btn"></button>
+                    </form>
+                </nav>
+                <div class="pure-u-1">
+                    <nav class="pure-menu pure-menu-horizontal custom-can-transform categories-menu mq-small-off mq-lg-on">
+                        <ul class="pure-menu-list">
+                                                                                            <li class="pure-menu-item"><a class="nav-item  " href="/news">News</a></li>
+                                                                                            <li class="pure-menu-item"><a class="nav-item  " href="/technology">Tech</a></li>
+                                                                                            <li class="pure-menu-item"><a class="nav-item  " href="/health">Health</a></li>
+                                                                                            <li class="pure-menu-item"><a class="nav-item  " href="/environment">Planet Earth</a></li>
+                                                                                            <li class="pure-menu-item"><a class="nav-item  " href="/strange-news">Strange News</a></li>
+                                                                                            <li class="pure-menu-item"><a class="nav-item  " href="/animals">Animals</a></li>
+                                                                                            <li class="pure-menu-item"><a class="nav-item  " href="/history">History</a></li>
+                                                                                            <li class="pure-menu-item"><a class="nav-item  " href="/culture">Culture</a></li>
+                                                                                            <li class="pure-menu-item"><a class="nav-item  " href="//www.space.com/">Space.com</a></li>
+                                                    </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+</header>
+<div class="sticky-header content-wrapper" id="sticky-header" data-stickya="sticky-header" data-stickya-options='{"zindex":10002,"maxHeightContainer": ".filling"}'>
+    <div class="center-content">
+        <a href="/" alt="Live Science">
+            <svg version="1.1" id="ls-logo" class="sticky-logo" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 396 50" xml:space="preserve">
+    <style>
+        .live { fill:#FAAF3B;}
+        .science { fill:#FFFFFF;}
+    </style>
+    <title>Live Science</title>
+    <g class="science">
+        <path d="M359.3,48V1.8h34.9v9.1h-24.9v9.3h24.3v9.1h-24.3V39h25.1V48H359.3z"/>
+        <path d="M154.9,48.6c-7,0-14.1-2.4-19.7-7.5l6-7.2c4.2,3.4,8.5,5.6,13.8,5.6c4.2,0,6.6-1.7,6.6-4.3v-0.1
+            c0-2.6-1.6-3.9-9.3-5.9c-9.3-2.4-15.4-5-15.4-14.1V15C137,6.6,143.7,1,153.2,1c6.8,0,12.5,2.2,17.2,5.9l-5.3,7.6
+            c-4.2-2.9-8.2-4.6-12.1-4.6c-3.9,0-5.9,1.7-5.9,4v0.1c0,3,2,4,10.1,6c9.3,2.4,14.7,5.9,14.7,13.9v0.1
+            C171.9,43.4,164.8,48.6,154.9,48.6z"/>
+        <path d="M199,48.8c-13.7,0-23.7-10.5-23.7-23.9v-0.1c0-13.2,9.9-24,24.1-24c8.8,0,13.9,2.9,18.3,7.2
+            l-6.5,7.5c-3.6-3.3-7.2-5.2-11.8-5.2c-7.8,0-13.4,6.5-13.4,14.4v0.1c0,7.9,5.5,14.5,13.4,14.5c5.3,0,8.5-2.2,12.2-5.5l6.5,6.6
+            C213.3,45.6,207.9,48.8,199,48.8z"/>
+        <path d="M336,48.8c-13.7,0-23.7-10.5-23.7-23.9v-0.1c0-13.2,9.9-24,24.1-24c8.8,0,13.9,2.9,18.3,7.2
+            l-6.5,7.5c-3.6-3.3-7.2-5.2-11.8-5.2c-7.8,0-13.4,6.5-13.4,14.4v0.1c0,7.9,5.5,14.5,13.4,14.5c5.3,0,8.5-2.2,12.2-5.5l6.5,6.6
+            C350.2,45.6,344.9,48.8,336,48.8z"/>
+        <g>
+            <path d="M222.3,48V1.8h10.2V48H222.3z"/>
+            <polygon points="297.9,1.8 297.9,30.2 276.2,1.8 266.9,1.8 266.9,10.8 242.4,10.8 242.4,20.2 266.9,20.2
+                266.9,29.2 242.4,29.2 242.4,38.8 266.9,38.8 266.9,48 276.9,48 276.9,18.6 299.3,48 308,48 308,1.8 		"/>
+        </g>
+    </g>
+    <g class="live">
+        <path d="M1,1.5h5.2V43h26v4.9H1V1.5z"/>
+        <path d="M42.8,1.5v46.3h-5.2V1.5H42.8z"/>
+        <path d="M86.9,1.5h5.6L72.7,48.2h-4.6l-20-46.7H54l16.5,40L86.9,1.5z"/>
+        <path d="M131.3,6.4H103v15.8h25.3v4.7H103v16.2h28.6v4.7H97.9V1.5h33.5V6.4z"/>
+    </g>
+</svg>        </a>
+        <nav class="sticky-nav unit-r space-T10">
+            <span class="nav-pipe-right">
+                                                        <a class="nav-item " href="/news">News</a>
+                                                        <a class="nav-item " href="/technology">Tech</a>
+                                                        <a class="nav-item " href="/health">Health</a>
+                                                        <a class="nav-item " href="/environment">Planet Earth</a>
+                                                        <a class="nav-item " href="/strange-news">Strange News</a>
+                                                        <a class="nav-item " href="/animals">Animals</a>
+                                                        <a class="nav-item " href="/history">History</a>
+                                                        <a class="nav-item " href="/culture">Culture</a>
+                                                        <a class="nav-item " href="//www.space.com/">Space.com</a>
+                            </span>
+            <span class="nav-pipe-right search-social">
+                                                                                                                        <a href="https://www.facebook.com/livescience?cmpid=556687" target="_blank"><i class="fa fa-facebook"></i></a>  
+                             
+                                                                                    <a href="https://flipboard.com/@Livescience" target="_blank">
+                                    <svg version="1.1" class="flipboardStickyHeader" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px" width="40px" height="40px"
+     viewBox="-16.531 -10 40 40" xml:space="preserve">
+    <polygon points="-16.531,-10 -16.531,3.301 -16.531,16.579 -16.531,29.879 -3.23,29.879 -3.23,16.579
+		-3.23,3.301 -3.23,-10 	"/>
+    <rect x="-3.23" y="3.301" width="13.278" height="13.278"/>
+    <polygon  points="10.048,-10 -3.23,-10 -3.23,3.301 10.048,3.301 23.348,3.301 23.348,-10 	"/>
+</svg>                                </a>
+                             
+                                                                                    <a href="https://twitter.com/LiveScience?cmpid=556688" target="_blank"><i class="fa fa-twitter"></i></a>  
+                             
+                                                                                    <a href="https://plus.google.com/+livescience/posts?cmpid=556690" target="_blank"><i class="fa fa-google-plus"></i></a>  
+                             
+                                                                                                                                                                                                                        </span>
+            <div class="search-social nav-search">
+                <div class="search-icon"><i class="fa fa-search"></i></div>
+                <div class="search-panel">
+                                        <form action="https://www.livescience.com/search" class="inline-form">
+                        <input class="unit form-inset search-form" type="text" name="q" required placeholder="">
+                        <button class="search-btn btn"></button>
+                    </form>
+                </div>
+            </div>
+        </nav>
+    </div>
+</div>    
+    <!-- Share Tools -->
+<div id="stickySharebar-test">
+    <div id="stickySharebar">
+        <ul>
+            <li class="st_facebook_custom fa fa-facebook"></li>
+                            <li class="st_twitter_custom fa fa-twitter" st_via="LiveScience"></li>
+                        <li class="st_reddit_custom fa fa-reddit"></li>
+            <li class="st_stumbleupon_custom fa fa-stumbleupon"></li>
+            <li class="st_sharethis_custom fa fa-share-alt"></li>
+        </ul>
+    </div>
+</div>
+
+    <!-- Start overAll -->
+    <div id="ctBoc">
+        <div class="content-wrapper filling overall ">
+            <div class="center-content pure-g container">
+                        <article class="pure-u-1 pure-u-md-2-3 pure-u-lg-2-3">
+        <div class="main-column" id="content-block">
+            
+            
+                            <ul class="breadcrumb" itemscope="" itemtype="https://schema.org/BreadcrumbList"><li class="fa breadcrumb-item" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a title="Live Science" href="/" itemprop="item"><span itemprop="name">Live Science</span></a><meta itemprop="position" content="1"></li><li class="fa fa-angle-right breadcrumb-item" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a title="Tech" href="/technology" itemprop="item"><span itemprop="name">Tech</span></a><meta itemprop="position" content="2"></li></ul>
+                        
+                        
+                                            <h1 class="h1">US Can&#039;t Stop Hypersonic Weapons, Air Force General Says</h1>
+                <div class="byline">
+                    By <span itemprop="author" class="author">Jeanna Bryner, Live Science Managing Editor</span> |
+
+                    <time datetime="March 21, 2018 08:31am ET"
+                          itemprop="datePublished"> March 21, 2018 08:31am ET</time>
+                </div>
+                        
+            
+            
+            <div class="pure-g mod">
+                <div class="pure-u-1 pure-u-md-1 pure-u-lg-1-8">
+                    <!-- Share Tools -->
+<div id="stickyShare" class="gtmStickyShare static " data-stickya="stickyShare"  data-stickya-options='{"maxHeightContainer": ".article-body","top":80}'>
+    <ul>
+        <li class="st_facebook_custom fa fa-facebook">
+            <span id="fbCount" class="count"></span>
+        </li>
+        <li class="st_twitter_custom fa fa-twitter" st_via="LiveScience">
+            <span id="twtrCount" class="count"></span>
+        </li>
+        <li class="st_flipboard_custom svg-flipboard fa">
+            <svg version="1.1"  xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px" width="40px" height="40px"
+     viewBox="-16.531 -10 40 40" xml:space="preserve">
+    <polygon points="-16.531,-10 -16.531,3.301 -16.531,16.579 -16.531,29.879 -3.23,29.879 -3.23,16.579
+		-3.23,3.301 -3.23,-10 	"/>
+    <rect x="-3.23" y="3.301" width="13.278" height="13.278"/>
+    <polygon  points="10.048,-10 -3.23,-10 -3.23,3.301 10.048,3.301 23.348,3.301 23.348,-10 	"/>
+</svg>            <span id="flipboardCount" class="count"></span>
+        </li>
+        <li class="st_reddit_custom fa fa-reddit">
+            <span id="redditCount" class="count"></span>
+        </li>
+        <li class="st_stumbleupon_custom fa fa-stumbleupon">
+            <span id="stumbleCount" class="count"></span>
+        </li>
+        <li class="st_sharethis_custom st-more more-arrow">MORE</li>
+    </ul>
+</div>
+
+
+
+                </div>
+                                    <div class="pure-u-1 pure-u-md-1 pure-u-lg-7-8 article article-body article ">
+                                                                                                                    <figure class="figure article-hero ">
+                            <div class="magnify-wrapper iZoom">
+                    <img class="pure-img " big-src="https://img.purch.com/h/1400/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5OC85ODQvb3JpZ2luYWwvSHlwZXJzb25pYy1NaXNzaWxlLU5PLVJFVVNFLmpwZw==" src="https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5OC85ODQvb3JpZ2luYWwvSHlwZXJzb25pYy1NaXNzaWxlLU5PLVJFVVNFLmpwZw==" alt="US Can't Stop Hypersonic Weapons, Air Force General Says">
+                </div>
+
+            
+                                            <figcaption class="fig-cap" id="nointelliTXT">
+                    <div class="fig-desc">Russia's Kinzhal hypersonic missile flies during a test in southern Russia on March 11, 2018, shown in this image made from footage taken from the Russian Defense Ministry. The Russian military says it has run a successful test of the Kinzhal missile. </div>
+                    <cite class="fig-credit">Credit: Russian Defense Ministry Press Service/AP</cite>
+                </figcaption>
+                    </figure>
+            <div class="article-content">
+            <p>
+	Missiles that spit out warheads traveling up to 20 times the speed of sound and with the ability to perform elusive acrobatics may be too much for U.S. defenses to block.</p>
+<p>
+	That&#39;s according to the head of the U.S. Strategic Command, Air Force Gen. John Hyten, who testified before the Senate Armed Services Committee yesterday (March 20).</p>
+<p>
+	When asked by Sen. Jim Inhofe, R-Okla., what kind of defenses the U.S. has against hypersonic weapons, Hyten replied: &quot;We have a very difficult &mdash; well, our defense is our deterrent capability. We don&#39;t have any defense that could deny the employment of such a weapon against us, so our response would be our deterrent force, which would be the triad and the nuclear capabilities that we have to respond to such a threat,&quot; <a href="https://www.military.com/daily-news/2018/03/20/stratcom-chief-worries-amid-claims-unstoppable-russian-missile.html">Military.com reported</a>. [<a href="https://www.livescience.com/41321-military-war-technologies.html">7 Technologies That Transformed Warfare</a>]</p>
+<p>
+	Hyten is referring to the triad of intercontinental ballistic missiles (ICBMs), submarine-launched ballistic missiles and strategic bombers, which are bomber aircraft designed to fly into enemy territory and destroy strategic targets. Ballistic missiles, both hidden underground and in secret submarines, can travel huge distances at whirring speeds.</p>
+<p>
+	But weapons that can travel well above the speed of sound seem to be a real threat, as both Russia and China are &quot;aggressively pursuing&quot; such hypersonic weapons, Hyten also said, <a href="https://www.cnbc.com/2018/03/20/china-and-russia-aggressively-are-pursuing-hypersonic-weapons-general.html">as reported by CNBC</a>.</p>
+<p>
+	On March 1, during an annual address, Russian president Vladimir Putin announced a new class of weapon delivery systems designed to evade NATO&#39;s ballistic missile defenses. Speaking&nbsp;<a href="https://www.buzzfeed.com/hazelshearing/putin-claims-russia-is-testing-a-new-range-of-unstoppable?bftw&amp;utm_term=.bqJYQOK08#.cibnaDvRj">on Russian television</a>, Putin indicated the country was building a new hypersonic missile and a cruise missile with &quot;unlimited range&quot; that could avoid adversaries&#39; detection technologies.</p>
+<p>
+	This nuclear-powered cruise missile could travel unlimited distances, and, unlike ballistic missiles, it could cruise low to the ground where it would be obscured by other objects &mdash;&nbsp;meaning it would evade radar detection, <a href="https://www.livescience.com/61920-nuclear-russia-torpedo-cruise-missile-why.html">Live Science previously reported</a>.</p>
+<p>
+	&quot;In theory, a cruise missile carrying a nuclear bomb could slip under American defenses and detection systems, and detonate before Americans could mobilize a response,&quot; Live Science reported. [<a href="https://www.livescience.com/58918-why-nuclear-shields-do-not-exist.html">Could the US Stop Nuclear Weapons?</a>]</p>
+<p>
+	Modern technology available today wouldn&#39;t be able to stop such an attack, nor could it defend against missile-deploying warheads at hypersonic speeds, Philip Coyle, a nuclear weapons expert, previously told Live Science&#39;s Rafi Letzter.</p>
+<p>
+	Even so, Gen. Hyten assured the Senate Committee that U.S. defenses are prepared for such a battle. &quot;The first, most important message I want to deliver today is that the forces under my command are fully ready to deter our adversaries and respond decisively, should deterrence ever fail. We are ready for all threats,&quot; Hyten said in his opening remarks, according to <a href="https://www.defense.gov/News/Article/Article/1470765/stratcom-chief-testifies-on-commands-readiness-to-deter-respond/">a Department of Defense statement</a>.</p>
+<p>
+	Other generals have suggested supplementing the U.S. defense arsenal with low-yield nukes, or those that pack less power. In addition, space-based detection systems could theoretically detect and track hypersonic missile threats, Lt. Gen. Samuel Greaves, director of the Missile Defense Agency, said on March 6, <a href="https://www.military.com/daily-news/2018/03/20/stratcom-chief-worries-amid-claims-unstoppable-russian-missile.html">according to Military.com</a>.</p>
+<p>
+	&quot;To maintain military superiority in this multipolar, all-domain world, we must out-think, out-maneuver, out-partner and out-innovate our adversaries,&quot; Hyten said. &quot;Deterrence in the 21st century requires the integration of all our capabilities, across all domains, enabling us to respond to adversary aggression anytime, anywhere.&quot;</p>
+<p>
+	Just this week, President Donald Trump said the U.S. needs a &quot;space force,&quot; Live Science&#39;s sister site <a href="https://www.space.com/39966-trump-space-force-for-us.html">Space.com reported</a>.</p>
+<p>
+	<em>Originally published on </em><a href="https://www.livescience.com/"><em>Live Science</em></a><em>.</em></p>
+
+        </div>
+    <div class="article-after"></div>
+
+                            </div>
+                                                                
+
+<section class="purch-related">
+    <header class="purch-rel-mod-hdr">
+        <h3 class="purch-rel-hdr-title">You&#039;d Also Like</h3>
+    </header>
+
+    <ul class="purch-rel-items pure-g">
+                    <li class="purch-rel-item pure-u-1 pure-u-sm-1-4">
+                <a class="purch-rel-inner" href="http://www.livescience.com/61920-nuclear-russia-torpedo-cruise-missile-why.html" data-location="above_footer">
+                    <figure class="purch-rel-img">
+                        <picture><source media="(min-width: 1400px)" srcset="https://img.purch.com/rc/317x177/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA2NC8xMjcvb3JpZ2luYWwvcHV0aW4uanBn"><source media="(min-width: 1024px)" srcset="https://img.purch.com/rc/317x177/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA2NC8xMjcvb3JpZ2luYWwvcHV0aW4uanBn"><source media="(min-width: 990px)" srcset="https://img.purch.com/rc/317x177/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA2NC8xMjcvb3JpZ2luYWwvcHV0aW4uanBn"><source media="(min-width: 600px)" srcset="https://img.purch.com/rc/317x177/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA2NC8xMjcvb3JpZ2luYWwvcHV0aW4uanBn"><source media="(max-width: 599px)" srcset="https://img.purch.com/rc/317x177/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA2NC8xMjcvb3JpZ2luYWwvcHV0aW4uanBn"><img class="p-img lazy {{ pure|default(&#039;p&#039;) }}-img {{ pure|default(&#039;p&#039;) }}-u-1" data-src="https://img.purch.com/rc/317x177/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA2NC8xMjcvb3JpZ2luYWwvcHV0aW4uanBn" alt=""></picture>                    </figure>
+                    <h4 class="purch-rel-title">Will the US Be Able to Stop Russia&#039;s New Arsenal of Missile Defense-Piercing Nukes?</h4>
+                    <div class="purch-brand-label">LiveScience <i class="fa fa-external-link"></i></div>
+                </a>
+            </li>
+                    <li class="purch-rel-item pure-u-1 pure-u-sm-1-4">
+                <a class="purch-rel-inner" href="http://www.livescience.com/58918-why-nuclear-shields-do-not-exist.html" data-location="above_footer">
+                    <figure class="purch-rel-img">
+                        <picture><source media="(min-width: 1400px)" srcset="https://img.purch.com/rc/317x177/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA2Ny82NDMvb3JpZ2luYWwvbWlzc2lsZS1pbnRlcmNlcHQtdGVzdC5qcGVn"><source media="(min-width: 1024px)" srcset="https://img.purch.com/rc/317x177/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA2Ny82NDMvb3JpZ2luYWwvbWlzc2lsZS1pbnRlcmNlcHQtdGVzdC5qcGVn"><source media="(min-width: 990px)" srcset="https://img.purch.com/rc/317x177/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA2Ny82NDMvb3JpZ2luYWwvbWlzc2lsZS1pbnRlcmNlcHQtdGVzdC5qcGVn"><source media="(min-width: 600px)" srcset="https://img.purch.com/rc/317x177/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA2Ny82NDMvb3JpZ2luYWwvbWlzc2lsZS1pbnRlcmNlcHQtdGVzdC5qcGVn"><source media="(max-width: 599px)" srcset="https://img.purch.com/rc/317x177/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA2Ny82NDMvb3JpZ2luYWwvbWlzc2lsZS1pbnRlcmNlcHQtdGVzdC5qcGVn"><img class="p-img lazy {{ pure|default(&#039;p&#039;) }}-img {{ pure|default(&#039;p&#039;) }}-u-1" data-src="https://img.purch.com/rc/317x177/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA2Ny82NDMvb3JpZ2luYWwvbWlzc2lsZS1pbnRlcmNlcHQtdGVzdC5qcGVn" alt=""></picture>                    </figure>
+                    <h4 class="purch-rel-title">Could the US Stop Nuclear Weapons? </h4>
+                    <div class="purch-brand-label">LiveScience <i class="fa fa-external-link"></i></div>
+                </a>
+            </li>
+                    <li class="purch-rel-item pure-u-1 pure-u-sm-1-4">
+                <a class="purch-rel-inner" href="https://theconversation.com/artificial-intelligence-is-the-weapon-of-the-next-cold-war-86086" data-location="above_footer">
+                    <figure class="purch-rel-img">
+                        <picture><source media="(min-width: 1400px)" srcset="https://img.purch.com/rc/317x177/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5OC8wNTYvb3JpZ2luYWwvY3liZXItd2VhcG9ucy5qcGc="><source media="(min-width: 1024px)" srcset="https://img.purch.com/rc/317x177/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5OC8wNTYvb3JpZ2luYWwvY3liZXItd2VhcG9ucy5qcGc="><source media="(min-width: 990px)" srcset="https://img.purch.com/rc/317x177/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5OC8wNTYvb3JpZ2luYWwvY3liZXItd2VhcG9ucy5qcGc="><source media="(min-width: 600px)" srcset="https://img.purch.com/rc/317x177/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5OC8wNTYvb3JpZ2luYWwvY3liZXItd2VhcG9ucy5qcGc="><source media="(max-width: 599px)" srcset="https://img.purch.com/rc/317x177/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5OC8wNTYvb3JpZ2luYWwvY3liZXItd2VhcG9ucy5qcGc="><img class="p-img lazy {{ pure|default(&#039;p&#039;) }}-img {{ pure|default(&#039;p&#039;) }}-u-1" data-src="https://img.purch.com/rc/317x177/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5OC8wNTYvb3JpZ2luYWwvY3liZXItd2VhcG9ucy5qcGc=" alt=""></picture>                    </figure>
+                    <h4 class="purch-rel-title">Will the Next Cold War Be Powered by Artificial Intelligence?</h4>
+                    <div class="purch-brand-label">LiveScience <i class="fa fa-external-link"></i></div>
+                </a>
+            </li>
+                    <li class="purch-rel-item pure-u-1 pure-u-sm-1-4">
+                <a class="purch-rel-inner" href="http://www.livescience.com/51388-hypersonic-jet-could-fly-mach-5.html" data-location="above_footer">
+                    <figure class="purch-rel-img">
+                        <picture><source media="(min-width: 1400px)" srcset="https://img.purch.com/rc/317x177/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA2MS80MDIvb3JpZ2luYWwvbWVsdGVkLWdsYXNzLXNwaGVydWxlcy5qcGc="><source media="(min-width: 1024px)" srcset="https://img.purch.com/rc/317x177/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA2MS80MDIvb3JpZ2luYWwvbWVsdGVkLWdsYXNzLXNwaGVydWxlcy5qcGc="><source media="(min-width: 990px)" srcset="https://img.purch.com/rc/317x177/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA2MS80MDIvb3JpZ2luYWwvbWVsdGVkLWdsYXNzLXNwaGVydWxlcy5qcGc="><source media="(min-width: 600px)" srcset="https://img.purch.com/rc/317x177/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA2MS80MDIvb3JpZ2luYWwvbWVsdGVkLWdsYXNzLXNwaGVydWxlcy5qcGc="><source media="(max-width: 599px)" srcset="https://img.purch.com/rc/317x177/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA2MS80MDIvb3JpZ2luYWwvbWVsdGVkLWdsYXNzLXNwaGVydWxlcy5qcGc="><img class="p-img lazy {{ pure|default(&#039;p&#039;) }}-img {{ pure|default(&#039;p&#039;) }}-u-1" data-src="https://img.purch.com/rc/317x177/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA2MS80MDIvb3JpZ2luYWwvbWVsdGVkLWdsYXNzLXNwaGVydWxlcy5qcGc=" alt=""></picture>                    </figure>
+                    <h4 class="purch-rel-title">US Military&#039;s Hypersonic Jet Could Fly 5 Times the Speed of Sound</h4>
+                    <div class="purch-brand-label">LiveScience <i class="fa fa-external-link"></i></div>
+                </a>
+            </li>
+            </ul>
+</section>
+
+                    
+                                            <div class="pure-u-1">
+                            <div id="below_article">
+                                <script type='text/javascript'>tmntag.cmd.push(function () {
+                                        tmntag.adTag('below_article', false);
+                                    }); </script>
+                            </div>
+                                                    </div>
+                                    </div>
+                                                                            <div id="rev_content_placeholder"></div>
+                                    
+                                        <section class="mod" id="nointelliTXT">
+        <header class="author-hdr mod-hdr">Author Bio <hr class="rule"></header>
+        <div class="line author-bio">
+                            <img class="thumb-left author-img lazy" data-src="https://img.purch.com/w/300/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzAzNC84MDEvb3JpZ2luYWwvamVhbm5hLWJyeW5lci5qcGc=" alt="Jeanna Bryner"/>
+            
+            <dl class="last-unit">
+                <dt class="author-name">Jeanna Bryner, Live Science Managing Editor</dt>
+                <dd class="author-desc">
+                    <p>
+	Before becoming managing editor, Jeanna served as a reporter for Live Science and SPACE.com for about three years. Previously she was an assistant editor at Scholastic&#39;s Science World magazine. Jeanna has an English degree from Salisbury University, a Master&#39;s degree in biogeochemistry and environmental sciences from the University of Maryland, and a science journalism degree from New York University.&nbsp;Follow Jeanna on&nbsp;<a href="https://plus.google.com/106111403972832553214/posts">Google+</a>.&nbsp;</p>
+
+                </dd>
+                                    <dd class="social-byline">
+                        <strong>Jeanna Bryner, Live Science Managing Editor</strong>
+                                                    on
+                            
+                                                            <a href="http://twitter.com/jeannabryner" class="author-social twttr spaceR15"></a>
+                            
+                                                                        </dd>
+                            </dl>
+        </div>
+    </section>
+                
+                                    <div id="fb-root"></div>
+
+<div id="comments" class="fb-comments" data-href="https://www.livescience.com/62082-hypersonic-weapons-defense.html" data-numposts="5" data-colorscheme="light" data-width="100%"></div>                            </div>
+    </article>
+            <div class="pure-u-1 pure-u-md-1-3 pure-u-lg-1-3">
+            <div class="right-rail">
+                                  <div id="rightcol_top">
+                    <script type='text/javascript'>tmntag.cmd.push(function () {
+                            tmntag.adTag('rightcol_top', false);
+                        }); </script>
+                </div>
+                                    <div class="subscribe pure-u-1 mod" id="nointelliTXT">
+		<div class="h2 mod-hdr">Science Newsletter: Subscribe</div>
+		<form class="inline-form" method="POST" action="https://www.livescience.com/newsletter">
+				<input class="form-inset" type="email" name="email" id="" placeholder="enter email here">
+				<button class="btn">Submit</button>
+				<input type="hidden" name="Newsletter Subscription" value="">
+		</form>
+</div>                    <section class="mod">
+    <div class="h2 mod-hdr">Follow Us</div>
+	<div class="social-mod pure-u-1" id="nointelliTXT">
+                                                                            <a href="https://www.facebook.com/livescience?cmpid=556687" target="_blank" class="fa fa-facebook"></a>
+                 
+                                                            <a href="https://flipboard.com/@Livescience" target="_blank">
+                            <svg version="1.1" class="flipboardFollowUs" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px" width="40px" height="40px"
+     viewBox="-16.531 -10 40 40" xml:space="preserve">
+    <polygon points="-16.531,-10 -16.531,3.301 -16.531,16.579 -16.531,29.879 -3.23,29.879 -3.23,16.579
+		-3.23,3.301 -3.23,-10 	"/>
+    <rect x="-3.23" y="3.301" width="13.278" height="13.278"/>
+    <polygon  points="10.048,-10 -3.23,-10 -3.23,3.301 10.048,3.301 23.348,3.301 23.348,-10 	"/>
+</svg>                        </a>
+                     
+                                                        <a href="https://twitter.com/LiveScience?cmpid=556688" target="_blank" class="fa fa-twitter"></a>
+                 
+                                                        <a href="https://plus.google.com/+livescience/posts?cmpid=556690" target="_blank" class="fa fa-google-plus"></a>
+                 
+                                                                                                                    	</div>
+</section>
+                    <div id="most-popular-render">
+        <div class="most-popular mod pure-u-1 nointelliTXT">
+        <div class="h2 mod-hdr">Most Popular</div>
+        <ol>
+                        <li>
+                <a href="/26741-reproductive-system.html" data-mod="fallback">
+                    <img class="pure-img lazy" data-src="https://img.purch.com/rc/107x73/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzAzMS85MjQvb3JpZ2luYWwvc3Blcm0tZWdnLTEyMTAwOS5qcGc=" alt="Sperm cell fertilizing eggs."/>
+                    <p>Reproductive System: Facts, Functions &amp; Diseases</p>
+                </a>
+            </li>
+                        <li>
+                <a href="/62101-grilling-high-blood-pressure.html" data-mod="fallback">
+                    <img class="pure-img lazy" data-src="https://img.purch.com/rc/107x73/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA1Mi83ODQvb3JpZ2luYWwvZ3JpbGwtZ2VuZXJpYy0xMjA3MDMuanBn" alt=""/>
+                    <p>Your Grilled Burger May Come with a Side of High Blood Pressure</p>
+                </a>
+            </li>
+                        <li>
+                <a href="/62100-rotting-hagfish-vertebrate-fossils.html" data-mod="fallback">
+                    <img class="pure-img lazy" data-src="https://img.purch.com/rc/107x73/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5OS8wMzUvb3JpZ2luYWwvcm90dGVuLXZlbHZldC13b3JtLmpwZw==" alt=""/>
+                    <p>Why This Lab Reeks of Animal Flesh and Contains a Suitcase Full of Slime</p>
+                </a>
+            </li>
+                        <li>
+                <a href="/62098-calorie-restriction-metabolism-aging.html" data-mod="fallback">
+                    <img class="pure-img lazy" data-src="https://img.purch.com/rc/107x73/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5OS8wMzQvb3JpZ2luYWwvY2Fsb3JpZS1yZXN0cmljdGlvbi1kaWV0LmpwZw==" alt="A small portion of pasta."/>
+                    <p>Could Cutting Calories Slow Down Aging?</p>
+                </a>
+            </li>
+                        <li>
+                <a href="/62099-cocaine-heroine-drug-finger-fingerprints.html" data-mod="fallback">
+                    <img class="pure-img lazy" data-src="https://img.purch.com/rc/107x73/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5OS8wMzMvb3JpZ2luYWwvc2h1dHRlcnN0b2NrXzYwMDg4MjEyNS5qcGc=" alt=""/>
+                    <p>1 in 10 Sober People Have Cocaine or Heroin on Their Fingertips</p>
+                </a>
+            </li>
+                    </ol>
+    </div>
+    </div>
+
+                    
+
+                    <div class="mod">
+                        <div id="rightcol_mid">
+                            <script type='text/javascript'>tmntag.cmd.push(function () {
+                                    tmntag.adTag('rightcol_mid', false);
+                                }); </script>
+                        </div>
+                    </div>
+
+                    <div id="rightcol_bottom">
+                        <script type='text/javascript'>tmntag.cmd.push(function () {
+                                tmntag.adTag('rightcol_bottom', false);
+                            }); </script>
+                    </div>
+                            </div>
+        </div>
+    
+            </div>
+            <div class="full-width-content pure-g container"></div>
+            <div class="center-content pure-g container"></div>
+        </div><!-- end content-wrapper -->
+    </div><!-- end ctBoc -->    
+
+            <footer class="footer content-wrapper">
+    <div class="center-content pure-g">
+			<div class="pure-u-1 mq-lg-off m-net-links space-B30">
+				<a href="/">Home</a><a href="/about">About Us</a>
+			</div>  
+			<div class="net-links pure-u-1 pure-u-med-1-4 pure-u-lg-1-4">
+				<header class="footer-title">Company</header>
+				<ul>
+						<li class="net-link"><a href="http://purch.com/" target="_blank">Company Info</a></li>
+						<li class="net-link"><a href="/about">About Us</a></li>
+						<li class="net-link"><a href="http://purch.com/#contact" target="_blank">Contact Us</a></li>
+						<li class="net-link"><a href="http://purch.com/advertise/" target="_blank">Advertise with Us</a></li>
+						<li class="net-link"><a href="http://purch.com/#contact" target="_blank">Using Our Content</a></li>
+						<li class="net-link"><a href="https://wrightsmedia.com/sites/purch/" target="_blank">Licensing &amp; Reprints</a></li>
+						<li class="net-link"><a href="http://purch.com/terms-of-use/" target="_blank">Terms of Use</a></li>
+						<li class="net-link"><a href="http://purch.com/copyright-policy/" target="_blank">Copyright Policy</a></li>
+						<li class="net-link"><a href="http://purch.com/privacy-policy/" target="_blank">Privacy Policy</a></li>
+				</ul>
+			</div>
+			<div class="net-links pure-u-1 pure-u-med-1-4 pure-u-lg-1-4">
+				<header class="footer-title">Network</header>
+				<ul>
+						<li class="net-link"><a href="http://www.toptenreviews.com/">Top Ten Reviews</a></li>
+						<li class="net-link"><a href="http://www.tomsguide.com/">Tom's Guide</a></li>
+						<li class="net-link"><a href="https://www.laptopmag.com/">Laptop Mag</a></li>
+						<li class="net-link"><a href="http://www.tomshardware.com/">Tom's Hardware</a></li>
+						<li class="net-link"><a href="http://www.businessnewsdaily.com/">Business News Daily</a></li>
+						<li class="net-link"><a href="http://www.tomsitpro.com/">Tom's IT Pro</a></li>
+						<li class="net-link"><a href="https://www.space.com/">Space.com</a></li>
+						<li class="net-link"><a href="https://www.livescience.com/">Live Science</a></li>
+						<li class="net-link"><a href="http://activejunky.com/">Active Junky</a></li>
+						<li class="net-link"><a href="http://shopsavvy.com/">ShopSavvy</a></li>
+						<li class="net-link"><a href="http://www.anandtech.com/">AnandTech</a></li>
+						<li class="net-link"><a href="https://www.dignifyed.com/">Dignifyed</a></li>
+				</ul>
+			</div>
+			<div class="pure-u-1 pure-u-med-1-2 pure-u-lg-1-2">
+				<div class="unit-r">
+					<div class="follow mod top-mod">
+							<header class="footer-title">FOLLOW US</header>
+							<div class="footer-social">
+                                                                    <a href="/home/feed/site.xml" target="_blank" class="fa fa-rss"></a>
+                                                                    <a href="https://www.facebook.com/livescience" target="_blank" class="fa fa-facebook"></a>
+                                                                    <a href="https://plus.google.com/+livescience/posts" target="_blank" class="fa fa-google-plus"></a>
+                                                                    <a href="https://twitter.com/LiveScience" target="_blank" class="fa fa-twitter"></a>
+                                                                    <a href="https://www.youtube.com/user/LiveScienceVideos" target="_blank" class="fa fa-youtube"></a>
+                                                                    <a href="https://www.linkedin.com/company/livescience-com?cmpid=556689" target="_blank" class="fa fa-linkedin"></a>
+                                							</div>
+					</div>
+					<div class="mod line">
+							<header class="footer-title"> Subscribe</header>
+							<form class="inline-form" action="https://www.livescience.com/newsletter" method="post">
+									<input class="subscribe unit form-inset" type="email" name="email" placeholder="enter email here ..." required>
+									<button class="btn">SUBMIT</button>
+							</form>
+					</div>
+					<div class="mod branding">
+							<a href="//purch.com/">
+
+																		<img src="https://www.livescience.com/resources/img/purch-logo.png?8e9da4a" width="135" height="41" alt="Purch">
+																</a>
+							<p class="copy-right">Copyright &copy;
+									<script type="text/javascript">document.write(new Date().getFullYear());</script>
+									All Rights Reserved.
+							</p>
+					</div>
+			</div>
+		</div>
+</footer>    
+                <div id="in-article-1"><script type='text/javascript'>tmntag.cmd.push(function(){ tmntag.adTag('in-article-1', false); }); </script></div>
+                <div id="m-in-article-1"><script type='text/javascript'>tmntag.cmd.push(function(){ tmntag.adTag('m-in-article-1', false); }); </script></div>
+        <div id="m-in-article-2"><script type='text/javascript'>tmntag.cmd.push(function(){ tmntag.adTag('m-in-article-2', false); }); </script></div>
+        <div id="m-in-article-3"><script type='text/javascript'>tmntag.cmd.push(function(){ tmntag.adTag('m-in-article-3', false); }); </script></div>
+
+    
+            <div id="mobile-anchor"><script type='text/javascript'>tmntag.cmd.push(function(){ tmntag.adTag('mobile-anchor', false); });</script></div>
+    
+            <div id="interstitial"><script type='text/javascript'>tmntag.cmd.push(function(){ tmntag.adTag('interstitial', false); });</script></div>
+    
+            
+</div><!-- end site-wrapper -->
+
+    
+                        <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Live Science",
+        "url": "https://www.livescience.com"
+    }
+</script>
+
+
+
+
+            
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.livescience.com/62082-hypersonic-weapons-defense.html"
+    },
+    "headline": "US Can&#039;t Stop Hypersonic Weapons, Air Force General Says",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://img.purch.com/rc/696x392/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5OC85ODQvb3JpZ2luYWwvSHlwZXJzb25pYy1NaXNzaWxlLU5PLVJFVVNFLmpwZw==",
+        "height": "392",
+        "width": "696"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Jeanna Bryner"
+    },
+            "articleSection": "technology",
+        "keywords": ["military technology","hypersonic weapons","nuclear weapons","ballistic missiles","war technology"],
+    "datePublished": "2018-03-21T12:31:00+00:00",
+    "dateModified": "2018-03-21T13:57:35+00:00",
+    "description": "Missiles that spit out warheads traveling up to 20 times the speed of sound and with the ability to perform elusive acrobatics may be too much for the U.S. defenses to block, U.S. Stratcom chief says.",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Live Science",
+        "url": "https://www.livescience.com",
+                    "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.livescience.com/resources/img/ls-amp-logo.png",
+                "width": 386,
+                "height": 60
+            }
+            }
+}</script>
+
+
+                                    <script type="text/javascript" language="JavaScript">
+            var Purch = Purch || {};
+            function requireReady() {  
+                requirejs.config({
+                    baseUrl: '/bundles/purchcommon/js',
+                    urlArgs: 'v=2018-03-22-23',
+                    paths:   {
+                        jquery: jqueryUrl
+                    },
+                    map: {
+                      // '*' means all modules will get 'jquery-private'
+                      // for their 'jquery' dependency.
+                      '*': { 'jquery': '/resources/js/jquery-private.js' },
+
+                      // 'jquery-private' wants the real jQuery module
+                      // though. If this line was not here, there would
+                      // be an unresolvable cyclic dependency.
+                      '/resources/js/jquery-private.js': { 'jquery': 'jquery' }
+                    }
+                });
+                                    require(['Purch/Utils/Lazy'], function(Lazy) {
+                    new Lazy({init: true, offsetY:150, delegateOn: 'body'});
+                });
+                require(['Purch/Utils/Tracking'], function(Tracking) {
+                     Tracking.initModule({
+                      targets: '.right-rail .subscribe .btn',
+                         onEvent: 'mousedown',
+                         gtmDataLayerName: 'dataLayer',
+                         gtmPushData: {
+                             "event": "newsletter",
+                             "location": "right-rail"
+                         }
+                    });
+                });
+                
+    require(['Purch/UI/Zoom'], function (Zoom) {
+    Zoom.initModule({targets: '.magnify-wrapper img[big-src]', closeOnScroll: false});
+    });
+            require(['Purch/UI/Sticky'], function(Sticky) {
+        new Sticky({stickyClass: 'sticky-scroll'});
+        });
+                }
+        </script>
+                <script type="text/javascript" async src="https://www.livescience.com/resources/js/require.min.js?8e9da4a" onload="requireReady()"></script>
+            
+                        <script type="text/javascript">
+            var tmnramp = {"ts":1521774315387,"key_vals":[],"http_cookies":{"cm_5889":"0","cm_4894":"1","cm_5930":"0","cm_5542":"1"},"server":"us-east1-rtb-adserver5","page":"https:\/\/www.livescience.com\/62082-hypersonic-weapons-defense.html","page_id":"f2cf05fa","pixels":[{"content":"try {\n(function(a){var b=undefined,c=0;setInterval(function(){if(a.dataLayer&&a.requestid!=b){c++;a.dataLayer.push({event:\"paid-traffic\",\"ramp-id\":a.requestid,count:c});b=a.requestid;console.log(\"%cBRS-1249, BRS-1645 push id %s count\",\"background: #222; color: #bada55\",b,c)}},100)})(top.window);\n} catch (e) {\nconsole.error(e);\n}\n","onready":false,"donotrender":false,"campaign":"5289","refreshable":false},{"content":"try {\nfunction TMNPixel2361(){this.name=function(){return 'TMNPixel2361' };this.execute=function(){ (function () {\r\n  \/\/ disable for paid traffic, health category, references\r\n  if (location.search.indexOf(\"utm_medium=ppc\") !== -1 && location.search.indexOf(\"utm_source=revcontent\") === -1 || window.omnVars.channel === \"health\" || window.omnVars.prop4 === \"reference\") {\r\n    return false;\r\n  }\r\n  \r\n  var isArticlePage = window.omnVars.prop4 === \"article\";\r\n  var isImageAlbumPage = window.omnVars.prop4 === \"imagealbum\";\r\n  var isCountDownPage = window.omnVars.prop4 === \"countdown\";\r\n\r\n  function adBlockTest(e, o) {\r\n    if (\"undefined\" !== typeof document.body) {\r\n      var t = \"0.1.2-dev\",\r\n        n = document.createElement(\"DIV\");\r\n      o = o ? o : \"sponsorText\";\r\n      n.id = o;\r\n      n.style.position = \"absolute\";\r\n      n.style.left = \"-999px\";\r\n      n.appendChild(document.createTextNode(\"&nbsp;\"));\r\n      document.body.appendChild(n);\r\n      setTimeout(function () {\r\n        if (n) {\r\n          var o = 0 === n.clientHeight;\r\n          e(o, t);\r\n          document.body.removeChild(n);\r\n        }\r\n      }, 175);\r\n    }\r\n  }\r\n\r\n  if (isArticlePage || isImageAlbumPage || isCountDownPage && window.omnVars.channel !== \"history\") {\r\n    var revContentPlaceHolder = document.getElementById(\"rev_content_placeholder\");\r\n    \/\/Handle refresh\r\n    if (revContentPlaceHolder) {\r\n      revContentPlaceHolder.innerHTML = \"\";\r\n    }\r\n    adBlockTest(function (isBlocked) {\r\n      var widgetId = 30797;\r\n      if (isBlocked === true) {\r\n        widgetId = 36759;\r\n      }\r\n      var referer = document.referrer;\r\n\r\n      if (\"undefined\" === typeof referer) {\r\n        referer = document.location.href;\r\n\r\n        if (\"\" === referer || \"undefined\" === typeof referer) {\r\n          referer = document.URL;\r\n        }\r\n      }\r\n      referer = referer.substr(0, 700);\r\n      var rcel = document.createElement(\"script\");\r\n      rcel.id = \"rc_\" + Math.floor(Math.random() * 1000);\r\n      rcel.type = \"text\/javascript\";\r\n      rcel.src = \"https:\/\/trends.revcontent.com\/serve.js.php?w=\" + widgetId + \"&t=\" + rcel.id + \"&c=\" + (new Date()).getTime() + \"&width=\" + (window.outerWidth || document.documentElement.clientWidth) + \"&referer=\" + referer + \"&is_blocked=\" + isBlocked;\r\n      rcel.async = true;\r\n      revContentPlaceHolder.appendChild(rcel);\r\n\r\n      \/\/Tracking\r\n      window.setTimeout(function () {\r\n        document.querySelectorAll(\".rc-item a\").forEach(function (item) {\r\n          item.addEventListener(\"mousedown\", function () {\r\n            if (window.dataLayer) {\r\n              window.dataLayer.push({\r\n                \"event\": \"sponsored-content\",\r\n                \"partner\": \"Revcontent\",\r\n                \"action\": \"click\"\r\n              });\r\n            }\r\n          });\r\n        });\r\n      }, 2000);\r\n    }); \r\n  }\r\n})(); ; };this.isOnReady=function(){return true;};this.isRefreshable=function(){return true;};this.doNotRender=function(){return false;};if(!this.isOnReady()){this.execute();}else{var readyFunc = window.tmntag_ready ? window.tmntag_ready : window.tmntag_ready_2;if(readyFunc){readyFunc(this.execute)}}};\n} catch (e) {\nconsole.error(e);\n}\ntmntag.tmn_pixels = ( typeof tmntag.tmn_pixels != 'undefined' && tmntag.tmn_pixels instanceof Array ) ? tmntag.tmn_pixels : [];\ntmntag.tmn_pixels.push(new TMNPixel2361());","onready":true,"donotrender":false,"campaign":"7028","refreshable":true},{"content":"try {\n(function() {\r\n        document.head.insertAdjacentHTML('afterbegin', '<link rel=\"manifest\" href=\"https:\/\/www.livescience.com\/manifest.json\" type=\"application\/json\" \/>');\r\n        console.log('excluded');\r\n        var oneSignalSdkUrl = 'https:\/\/cdn.onesignal.com\/sdks\/OneSignalSDK.js';\r\n        var httpInitOptions = {\r\n            appId: \"148387c0-db70-4024-9238-9d03af4866fd\",\r\n            safari_web_id: \"web.onesignal.auto.07679346-76f9-40eb-adf2-79670b2a6a52\",\r\n            subdomainName: \"www.livescience.com\".split('.')[1],\r\n            autoRegister: false,\r\n            httpPermissionRequest: {\r\n                enable: true,\r\n                useCustomModal: true\r\n            },\r\n            promptOptions: {\r\n                subscribeText: 'Subscribing ... This window will close automatically',\r\n                showGraphic: true,\r\n                timeout: 15000\r\n            },\r\n            welcomeNotification: {\r\n                disable: true\r\n            }\r\n        };\r\n        var httpsInitOptions = {\r\n            appId: \"5c99bb14-923c-4bea-be28-34e14f32c9c6\",\r\n            safari_web_id: \"web.onesignal.auto.337e82fd-eeda-48f8-8fe5-d2f6dec774c2\",\r\n            autoRegister: true,\r\n            \/* Set to true to automatically prompt visitors *\/\r\n            notifyButton: {\r\n                enable: false \/* Set to false to hide *\/\r\n            },\r\n            welcomeNotification: {\r\n                \"title\": \"Live Science: The Most Interesting Articles, Mysteries & Discoveries\".indexOf('$') === 0 ? 'More content soon for you !' : \"Live Science: The Most Interesting Articles, Mysteries & Discoveries\",\r\n                \"message\": \"Thanks for subscribing!\".indexOf('$') === 0 ? 'Thanks for subscribing!' : \"Thanks for subscribing!\"\r\n            }\r\n        };\r\n\r\n        function dynamicallyLoadScript(scriptUrl) {\r\n            var existingScriptElement = document.querySelector('script[src=\"' + scriptUrl + '\"]')\r\n            if (existingScriptElement) {\r\n                existingScriptElement.remove();\r\n            }\r\n            return new Promise(function(resolve, reject) {\r\n                var domElement = document.createElement('script');\r\n                domElement.onload = resolve;\r\n                domElement.setAttribute('type', 'text\/javascript');\r\n                domElement.setAttribute('async', 'async');\r\n                domElement.setAttribute('src', scriptUrl);\r\n                document.querySelector('head').appendChild(domElement);\r\n            });\r\n        }\r\n\r\n        \/*\r\n          Returns a Promise that resolves to:\r\n            - String 'http' if the user is subscribed to OneSignal in HTTP mode\r\n            - String 'https' if the user is not subscribed to OneSignal in HTTP mode (regardless of the HTTPS subscription state)\r\n         *\/\r\n        function loadOneSignalHttpOrHttps() {\r\n            return new Promise(function(resolve, reject) {\r\n                dynamicallyLoadScript(oneSignalSdkUrl).then(function() {\r\n                                    window.OneSignal.once('initialize', function() {\r\n                                        resolve('https');\r\n                                    });\r\n                                });\r\n                window.OneSignal.push(function() {\r\n                    window.OneSignal.init(httpInitOptions);\r\n                    window.OneSignal.once('initialize', function() {\r\n                        window.OneSignal.isPushNotificationsEnabled().then(function(isEnabled) {\r\n                            if (isEnabled) {\r\n                                console.log('We are subscribers of the http version');\r\n                                \/\/ Do nothing, we're subscribed to HTTP\r\n                                resolve('http');\r\n                            } else {\r\n                                console.log('We will subscribe with this');\r\n                                \/\/ We're not subscribed; let's subscribe to HTTPS\r\n                                delete window.OneSignal;\r\n                                delete window.__oneSignalSdkLoadCount;\r\n                                dynamicallyLoadScript(oneSignalSdkUrl).then(function() {\r\n                                    window.OneSignal.once('initialize', function() {\r\n                                        resolve('https');\r\n                                    });\r\n                                    window.OneSignal.init(httpsInitOptions);\r\n                                    window.OneSignal.registerForPushNotifications();\r\n                                });\r\n                            }\r\n                        });\r\n                    });\r\n                });\r\n            });\r\n        }\r\n\r\n        \r\n        \/\/Init() document after DOM is ready\r\n        document.addEventListener(\"readystatechange\", function() {\r\n            if (\"interactive\" === document.readyState) {\r\n                window.OneSignal = window.OneSignal || [];\r\n                \/*\r\n                 Do normal loading stuff after the Promise resolves.\r\n                 *\/\r\n                loadOneSignalHttpOrHttps().then(function(mode) {\r\n                    console.warn('trigger oneSignal on www.livescience.com');\r\n                    console.warn(\"Mode Loaded:\", mode);\r\n                    \/\/Init OneSignal tracking\r\n                });\r\n            }\r\n        });\r\n    })();\n} catch (e) {\nconsole.error(e);\n}\n","onready":false,"donotrender":false,"campaign":"5479","refreshable":false},{"content":"try {\n(function () {\r\n  \/\/ disable for paid traffic, health category and references\r\n  if (location.search.indexOf(\"utm_medium=ppc\") !== -1 && location.search.indexOf(\"utm_source=revcontent\") === -1 || window.omnVars.channel === \"health\" || window.omnVars.prop4 === \"reference\") {\r\n    return false;\r\n  }\r\n  \r\n  var isImageAlbumPage = window.omnVars.prop4 === \"imagealbum\";\r\n\r\n  function adBlockTest(e, o) {\r\n    if (\"undefined\" !== typeof document.body) {\r\n      var t = \"0.1.2-dev\",\r\n        n = document.createElement(\"DIV\");\r\n      o = o ? o : \"sponsorText\";\r\n      n.id = o;\r\n      n.style.position = \"absolute\";\r\n      n.style.left = \"-999px\";\r\n      n.appendChild(document.createTextNode(\"&nbsp;\"));\r\n      document.body.appendChild(n);\r\n      setTimeout(function () {\r\n        if (n) {\r\n          var o = 0 === n.clientHeight;\r\n          e(o, t);\r\n          document.body.removeChild(n);\r\n        }\r\n      }, 175);\r\n    }\r\n  }\r\n\r\n  if (isImageAlbumPage) {\r\n    adBlockTest(function (isBlocked) {\r\n      var widgetId = 35145;\r\n      if (isBlocked === true) {\r\n        widgetId = 42437;\r\n      }\r\n      var referer = document.referrer;\r\n\r\n      if (\"undefined\" === typeof referer) {\r\n        referer = document.location.href;\r\n\r\n        if (\"\" === referer || \"undefined\" === typeof referer) {\r\n          referer = document.URL;\r\n        }\r\n      }\r\n      referer = referer.substr(0, 700);\r\n      var rcel = document.createElement(\"script\");\r\n      rcel.id = \"rc_\" + Math.floor(Math.random() * 1000);\r\n      rcel.type = \"text\/javascript\";\r\n      rcel.src = \"https:\/\/trends.revcontent.com\/serve.js.php?w=\" + widgetId + \"&t=\" + rcel.id + \"&c=\" + (new Date()).getTime() + \"&width=\" + (window.outerWidth || document.documentElement.clientWidth) + \"&referer=\" + referer + \"&is_blocked=\" + isBlocked;\r\n      rcel.async = true;\r\n      var revContentPlaceHolder = document.getElementById(\"rev-content-image-album\");\r\n      revContentPlaceHolder.appendChild(rcel);\r\n    }); \r\n  }\r\n})();\n} catch (e) {\nconsole.error(e);\n}\n","onready":false,"donotrender":false,"campaign":"7026","refreshable":false},{"content":"try {\n(function() {\r\n  \/\/ create the div only in articles\r\n  if (window.omnVars.prop4 === 'article') {\r\n    var revContentBelowArticle = document.getElementById('rev_content_placeholder');\r\n\r\n    if(revContentBelowArticle) {\r\n      revContentBelowArticle.insertAdjacentHTML('beforebegin', '<div id=\"calypso_revcontent_below_article\" style=\"text-align:center; margin: 10px 0;\"><script type=\"text\/javascript\">if (window.tmntag && window.tmntag.cmd) { tmntag.cmd.push(function() { if (window.tmntag && tmntag.adTag) { tmntag.adTag(\"calypso_revcontent_below_article\", false); } }); } <\/script><\/div>');\r\n    }\r\n  }\r\n})();\n} catch (e) {\nconsole.error(e);\n}\n","onready":false,"donotrender":false,"campaign":"7027","refreshable":false},{"content":"try {\n\/* jshint undef: false, unused: false, -W106, -W031*\/\r\n\/* globals Purch, $ *\/\r\n\r\n(function () {\r\n  \r\n\tvar EmailModalParams = {\r\n        cookieParams: {\r\n            name: 'emailModal',\r\n            value: true,\r\n            days: 1\r\n        },\r\n        gtmParams: {\r\n            submit: 'submit',\r\n            close: 'close',\r\n            display: 'impression',\r\n            event: 'buybutton-signup'\r\n        },\r\n        actionParams: {\r\n            onCloseRedirect: true,\r\n            onSubmitRedirect: true,\r\n            onFirstEventListener: 'mousedown',\r\n            onSecondEventListener: 'mouseup',\r\n            firstActionEnabled: true,\r\n            secondActionEnabled: false\r\n        },\r\n        modalParams: {\r\n            upperText: 'Join LiveScience',\r\n            lowerText: 'Your membership helps us deliver great news and content.',\r\n            policyText: 'By signing up, I agree to the site\u2019s ',\r\n            terms: 'terms of use',\r\n            and: 'and ',\r\n            endterms: 'privacy policy',\r\n            placeholder: 'Enter Your Email',\r\n            signme: 'Join Now',\r\n            termslink: 'http:\/\/www.purch.com\/terms-of-use\/',\r\n            policylink: 'http:\/\/www.purch.com\/privacy-policy\/',\r\n            brandColor: '#F9AE39'\r\n        },\r\n        customCondition: function (e) {\r\n            var e = e || null;\r\n            if (e === null) {\r\n                return false;\r\n            }\r\n            var alreadyDisplayed = this.readCookie(this.cookieConf.name);\r\n            var $link = $(e.target).closest('a');\r\n            var href = $link.attr('href');\r\n\r\n          \tvar doNotDisplay = false;\r\n          \r\n            \/\/ block buy buttons linking to t.purch.com\r\n            if (href && href.match(\/t.purch.com\/)) {\r\n              doNotDisplay = true;\r\n              \/\/window.document.location.href = href;\r\n            }\r\n\r\n            function isDescendantOfAnchorTag(e) {\r\n                var node = e.target.parentNode;\r\n                var n_Name = node.nodeName;\r\n                while (n_Name !== null) {\r\n                    if (n_Name === 'A') {\r\n                        return true;\r\n                    }\r\n                    node = node.parentNode;\r\n                    n_Name = node.nodeName;\r\n                }\r\n                return false;\r\n            }\r\n\r\n            if (href) {\r\n                if (alreadyDisplayed === false && doNotDisplay === false) {\r\n                    \/\/ console.log('goin');\r\n                    if (e.target.nodeName === 'A' || isDescendantOfAnchorTag(e)) {\r\n                        this.openModal();\r\n                        document.getElementById('redirectUrl').value = href;\r\n                        e.stopPropagation();\r\n                        this.createCookie(this.cookieConf.name, this.cookieConf.value, this.cookieConf.days);\r\n                        return true;\r\n                    }\r\n                    else {\r\n                        return false;\r\n                    }\r\n                }\r\n            }\r\n        },\r\n        customEndCondition: function (params, e) {\r\n            return true;\r\n        }\r\n    };\r\n    var script = function (src, cb) {\r\n        var s = document.createElement('script');\r\n        s.type = 'text\/javascript';\r\n        s.onload = cb || function () {\r\n            };\r\n        s.src = src;\r\n        document.head.appendChild(s);\r\n    };\r\n    \/\/Call script from the creative templates dev env and creating a new Object with the params we defined.\r\n  if(!window.creativeRevision){\r\n      script('\/\/assets.purch.com\/creative-templates\/REVISION.js?t='+(new Date()).getTime(), function () {\r\n         script('\/\/assets.purch.com\/creative-templates\/latest\/js\/min\/ctEmailModal\/ctEmailModal.js?'+creativeRevision, function () {\r\n        new Purch.ctEmailModal(EmailModalParams);\r\n    });\r\n    });\r\n  }else{\r\n           script('\/\/assets.purch.com\/creative-templates\/latest\/js\/min\/ctEmailModal\/ctEmailModal.js?'+creativeRevision, function () {\r\n        new Purch.ctEmailModal(EmailModalParams);\r\n    });\r\n  }\r\n \r\n\r\n})();\r\n\r\n\n} catch (e) {\nconsole.error(e);\n}\n","onready":false,"donotrender":false,"campaign":"7070","refreshable":false}],"placement":"2669","user_agent":{"device":"UNKNOWN","os":"Unknown","browser":"Unknown"},"ip":"49.52.98.120","geo":{"countryAlpha3":"CHN","latitude":31.0456,"longitude":121.3997,"ctr":"CN","stt":"31","dma":0,"ct":"Shanghai","pc":"","ac":1814991,"tz":"Asia\/Shanghai"},"creatives":[{"div":"mobile-anchor","iframe":false,"width":0,"height":0,"key_vals":{"_p":["1"],"_a":["1"],"kw":["anchor"]}},{"div":"below_article","iframe":false,"width":0,"height":0,"ad_params":{"ad_label_display":"report","ad_label_position":"top_center"},"key_vals":{"_p":["1"],"_a":["0"]}},{"div":"m-in-article-3","iframe":false,"width":0,"height":0,"ad_params":{"ad_label_display":"report","ad_label_position":"top_center"},"key_vals":{"_p":["3"],"_a":["0"]}},{"div":"m-in-article-2","iframe":false,"width":0,"height":0,"ad_params":{"ad_label_display":"report","ad_label_position":"top_center"},"key_vals":{"_p":["2"],"_a":["0"]}},{"div":"rightcol_top","iframe":false,"width":0,"height":0,"ad_params":{"ad_label_display":"report","ad_label_position":"bottom_center","sort_heights":"true"},"key_vals":{"_p":["1"],"_a":["1"]}},{"div":"out-of-page","iframe":false,"width":0,"height":0,"key_vals":{"_p":["1"],"_a":["1"]}},{"div":"header_leaderboard","iframe":false,"width":0,"height":0,"ad_params":{"adunit_style":"padding: 0px 0px 0px 0px !important;","sort_heights":"true","ad_label_style":"background-color:rgba(0,0,0,0.0) !important;color:#FFFFFF !important"},"key_vals":{"_p":["1"],"_a":["1"]}},{"div":"interstitial","iframe":false,"width":0,"height":0,"key_vals":{"_p":["1"],"_a":["1"]}},{"div":"rightcol_bottom","iframe":false,"width":0,"height":0,"ad_params":{"ad_label_display":"report","ad_label_position":"bottom_center"},"key_vals":{"_p":["2"],"_a":["0"]}},{"div":"m-in-article-1","iframe":false,"width":0,"height":0,"ad_params":{"ad_label_display":"report","ad_label_position":"top_center"},"key_vals":{"_p":["1"],"_a":["0"],"kw":["inarticlevideo"]}},{"div":"rightcol_mid","iframe":false,"width":0,"height":0,"ad_params":{"ad_label_display":"report","ad_label_position":"bottom_center"},"key_vals":{"_p":["1"],"_a":["0"]}},{"div":"in-article-1","iframe":false,"width":0,"height":0,"ad_params":{"ad_label_display":"report","ad_label_position":"top_center"},"key_vals":{"_p":["1"],"_a":["0"],"kw":["inarticlevideo"]}}],"latency":5,"html_pre_body":"","html_post_body":"","id":"8941579361095175326"};
+            var TMNRAAS_VERSION="1.18",tmntag=tmntag||{};tmntag.isab=false;
+!function(d){function a(){if(!c){c=!0;for(var a=0;a<b.length;a++)b[a].fn.call(window,b[a].ctx);b=[]}}function f(){"complete"===document.readyState&&a()}baseObj=window;var b=[],c=!1,h=!1;baseObj[d]=function(d,k){return c?void setTimeout(function(){d(k)},1):(b.push({fn:d,ctx:k}),void("complete"===document.readyState||!document.attachEvent&&"interactive"===document.readyState?setTimeout(a,1):h||(document.addEventListener?(document.addEventListener("DOMContentLoaded",a,!1),window.addEventListener("load",
+a,!1)):(document.attachEvent("onreadystatechange",f),window.attachEvent("onload",a)),h=!0)))}}("tmntag_ready_2");String.prototype.startsWith||(String.prototype.startsWith=function(d,a){return a=a||0,this.substr(a,d.length)===d});
+Array.prototype.find||Object.defineProperty(Array.prototype,"find",{value:function(d,a){if(null==this)throw new TypeError('"this" is null or not defined');var f=Object(this),b=f.length>>>0;if("function"!=typeof d)throw new TypeError("predicate must be a function");a=a;for(var c=0;c<b;){var h=f[c];if(d.call(a,h,c,f))return h;c++}}});"remove"in Element.prototype||(Element.prototype.remove=function(){this.parentNode&&this.parentNode.removeChild(this)});
+tmntag.refreshPixels=function(){if(typeof tmntag.tmn_pixels!="undefined")for(var d=0;d<tmntag.tmn_pixels.length;d++){var a=tmntag.tmn_pixels[d];if(a.isRefreshable())a.execute()}};
+tmntag.onAB=function(d){if(typeof d!=="function")return;var a=document.createElement("div"),f="adsbox";a.innerHTML="&nbsp;";a.className=f;document.body.appendChild(a);window.setTimeout(function(){var b=false;if(a.offsetHeight===0){b=true;a.remove()}else{e=document.querySelector("."+f);if(!e)b=true;else{for(var c in document.scripts)if(document.scripts[c].src&&document.scripts[c].src.indexOf("googletagservices.com")>=0)break;if(typeof tmnraas_nonadblock!="undefined"&&tmnraas_nonadblock)c=true;else c=
+false;if(!c)b=true;else if(typeof jQuery!="undefined"&&jQuery&&jQuery("#header_leaderboard"))b="none"==jQuery("#header_leaderboard").css("display")}}if(b){tmntag.isab=true;d()}},2E3)};
+tmntag.incontent=tmntag.incontent||function(d,a,f){if(!d||!a)return false;a=document.querySelector(a);if(!a)return false;var b=document.getElementById(d);if(!b){b=document.createElement("div");b.id=d}if(typeof f=="undefined")f="afterend";if(f==="prepend")a.insertBefore(b,a.firstChild);else a.insertAdjacentElement(f,b);return b};
+var tmntag_raascallback=function(){var d="https:"==document.location.protocol?"https://":"http://",a=function(){console.log("-RAAS- "+TMNRAAS_VERSION+" AB detected");var a=Math.floor(Math.random()*11E3),b=document.createElement("script");b.type="text/javascript";var c=typeof Purch!="undefined"&&typeof Purch.calypso!="undefined"&&Purch.calypso.pvid||"0";b.src=d+"ramp.purch.com/event.js?t=AB&id=0&pvid="+c+"&bid=&cp=0&bdrid=&crid=&ad=&r="+a+"&l="+encodeURIComponent(window.top.document.location.href);
+if(c=document.getElementsByTagName("script")[0])c.parentNode.insertBefore(b,c);if(typeof tmnramp!="undefined"){window.top.tmntag_redirect=function(a,b,d){if(!a)return false;var c={cp:"__CP__",bdrid:"__BDRID__",crid:"__CRID__",ad:"__AD__",pd:"__PRODUCT_ID__",tid:"__TID__",pvid:"__PVID__"};a=typeof b==="object"?a.href:b;d=typeof b==="object"?b:d;b=Math.floor(Math.random()*11E3);var g="https:"==document.location.protocol?"https://":"http://";b=g+"ramp.purch.com/event.js?t=CL&id="+(top.window.requestid?
+top.window.requestid:0)+"&r="+b;d=d;g="";if(d&&c)for(var f in c)if(c.hasOwnProperty(f))if(d.hasOwnProperty(c[f]))if(f==="pd")g+="&"+f+"=|"+d[c[f]]+"|";else g+="&"+f+"="+d[c[f]];c=g;f=b+c;c=document.createElement("script");c.type="text/javascript";c.src=f;if(f=document.getElementsByTagName("script")[0])f.parentNode.insertBefore(c,f);a=window.open(a,"_blank");a.focus();return false};if(tmnramp.creatives)for(var h in tmnramp.creatives)if((a=tmnramp.creatives[h])&&a.div&&a.markup){var c=a.markup.replace(/\\n|\\r/g,
+""),c=c.replace(/\\/g,""),g=a.div,b=document.getElementById(g);if(typeof tmntag.incontent!="undefined"&&a.ad_params&&a.ad_params.incontent_css_selector)b=tmntag.incontent(g,a.ad_params.incontent_css_selector,a.ad_params.incontent_position);if(!b)continue;if(a.iframe){g=document.createElement("iframe");g.frameBorder=0;g.name=a.campaign_id+"/"+a.creative_id;g.scrolling="no";g.marginwidth=0;g.marginheight=0;g.style.width=(a.width||0)+"px";g.style.height=(a.height||0)+"px";g.style.border="0pt none";g.style.margin=
+"0px 0 0";g.width=a.width||0;g.height=a.height||0;b.appendChild(g);b="<!DOCTYPE ht"+"ml><bo"+'dy marginheight="0" marginwidth="0">'+c+"</bo"+"dy></ht"+"ml>";g.contentWindow.contents=b;g.src='javascript:window["contents"]'}else{a=Math.floor(Math.random()*11E3);b.id=btoa(a+g+a).replace(/[^a-zA-Z]/g,"");b.innerHTML=c}}}if(typeof tmnramp!="undefined"&&tmnramp.pixels)for(h in tmnramp.pixels)if((b=tmnramp.pixels[h])&&!b.donotrender&&b.content&&b.onready)eval(b.content)};tmntag.onAB(a)};tmntag_ready_2(tmntag_raascallback);
+(function(){if(typeof tmnramp!="undefined"&&tmnramp){if(typeof tmnramp.pixels!="undefined"&&tmnramp.pixels)for(var d in tmnramp.pixels){var a=tmnramp.pixels[d];if(a&&!a.donotrender&&a.content&&!a.onready)eval(a.content)}if(typeof tmnramp.http_cookies!="undefined"&&tmnramp.http_cookies)for(var f in tmnramp.http_cookies){d=tmnramp.http_cookies[f];document.cookie=f+"="+d}}})();
+        </script>
+    
+        <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"6ef1e23532","applicationID":"16497552","transactionName":"YFRQMkdRDBZSBxJRDFkecwVBWQ0LHDQTSgBff1cRRnIXC1cIAwIgWFxCCVtVDBEJDgdOAkRSQA9FRBE=","queueTime":0,"applicationTime":49,"atts":"TBNTRA9LHxg=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+
+</html>

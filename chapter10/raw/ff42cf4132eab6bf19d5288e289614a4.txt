@@ -1,0 +1,1021 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<script type='text/javascript' src='https://static.criteo.net/js/px.js?ch=1'></script>
+		<script type='text/javascript' src='https://static.criteo.net/js/px.js?ch=2'></script>
+		<script type="text/javascript" src="https://static.criteo.net/js/ld/publishertag.js"></script>
+
+		<style>.async-hide { opacity: 0 !important} </style>
+		<script>(function (a, s, y, n, c, h, i, d, e){s.className += ' ' + y; h.start = 1 * new Date; h.end = i = function(){s.className = s.className.replace(RegExp(' ?' + y), '')}; (a[n] = a[n] || []).hide = h; setTimeout(function(){i(); h.end = null}, c); h.timeout = c; })(window, document.documentElement, 'async-hide', 'dataLayer', 4000, {'GTM-59FLKFT':true});</script>
+		<script>
+			(function(i, s, o, g, r, a, m){i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function(){
+			(i[r].q = i[r].q || []).push(arguments)}, i[r].l = 1 * new Date(); a = s.createElement(o),
+					m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+			})
+					(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+			ga('create', 'UA-32198-1', 'auto');
+			ga('create', 'UA-57964314-1', 'auto', 'expaticadev');
+			ga('require', 'GTM-59FLKFT');
+			ga('send', 'pageview');
+			ga('expaticadev.send', 'pageview');
+		</script>
+						<script type="text/javascript">
+			window.mrf = {host:"b.marfeel.com", dt:3}, function(e, t, o, a, i, r, n){function d(){l && (e.cookie = "fromt=yes;path=/;expires=" + new Date(Date.now() + 18e5).toGMTString(), o.reload())}var l = !/marfeelgarda=no|fromt=yes/i.test(r + ";" + i); if ((/(ipad.*?OS )(?!1_|2_|3_|4_|X)|mozilla.*android (?!(1|2|3)\.)[0-9](?!.*mobile)|\bSilk\b/i.test(a) && 2 & n.dt || /(ip(hone|od).*?OS )(?!1_|2_|3_|4_|X)|mozilla.*android (?!(1|2|3)\.)[0-9].*mobile|bb10/i.test(a) && 1 & n.dt || /marfeelgarda=off/i.test(r)) && t === t.top){l && e.write('<plaintext style="display:none">'); var s = "script", m = setTimeout(d, 1e4), c = e.createElement(s), f = e.getElementsByTagName(s)[0]; c.src = "//" + n.host + "/statics/marfeel/gardac.js", c.onerror = d, c.onload = function(){clearTimeout(m)}, f.parentNode.insertBefore(c, f)}}(document, window, location, navigator.userAgent, document.cookie, location.search, window.mrf);
+		</script>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+			<meta name="title" content="Poland, Germany call for firm EU response to Russian spy poisoning | German News | Expatica Germany" />
+<meta name="robots" content="index, follow" />
+<meta name="description" content=" Polish Prime Minister Mateusz Morawiecki and German Chancellor Angela Merkel met in Warsaw Monday and called for a firm EU response to the poisoning of a Russian former spy in Britain.London has claimed... Read Germany&#039;s latest and breaking news online. See the most important news in Germany today and keep in touch with local and international news relating to Germany." />
+<meta name="keywords" content="germany news in english, germany news, germany latest news, germany breaking news" />
+<meta name="language" content="en" />
+			<title>Poland, Germany call for firm EU response to Russian spy poisoning | German News | Expatica Germany</title>
+
+
+		<meta name="p:domain_verify" content="c1b3dacbdee5f4e5ea3441eb0c1c1dfd"/>
+		<meta name="verification" content="edc7921cad6ee8e361336a0af25c8434" />
+		<meta name="c35152b027bb6f4" content="ea2ae645fd6bdd076f05fc2f565b5a98" />
+
+		
+											<meta property="og:url" content="https://www.expatica.com/de/news/country-news/Britain-Russia-espionage-Germany-Poland-diplomacy_1764791.html" />
+			<meta property="og:type" content="article" />
+					<meta property="og:title" content="Poland, Germany call for firm EU response to Russian spy poisoning" />
+			<meta property="og:description" content=" Polish Prime Minister Mateusz Morawiecki and German Chancellor Angela Merkel met in Warsaw Monday and called for a firm EU response to the poisoning of a Russian former spy in Britain.London has claimed..." />
+					
+		<link rel="shortcut icon" href="https://www.expatica.com/favicon.ico" />
+		<link rel="stylesheet" href="//code.jquery.com/ui/1.12.0/themes/smoothness/jquery-ui.css" />
+		<link rel="stylesheet" href="/front/css/bootstrap.min.css" />
+		<link rel="stylesheet" href="/front/css/bootstrap-responsive.min.css" />
+		<link rel="stylesheet" href="/front/css/flexslider.css" />
+		<link rel="stylesheet" href="/front/css/prettyPhoto.css" />
+		<link rel="stylesheet" href="/front/css/pgwslider.min.css" />
+
+			<link rel="stylesheet" href="/front/css/style.css?v=133" />
+
+			<link rel="stylesheet" href="/front/css/style-v7.css?v=2018-03-21" />
+<!--
+			<link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+			<link href='https://fonts.googleapis.com/css?family=Bitter' rel='stylesheet' type='text/css'>
+-->
+			<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
+			<link rel="stylesheet" href="/iconpicker/bootstrap-3.2.0/css/glyphs.css" />
+			<noscript>
+				<link rel="stylesheet" href="front/css/no-js.css">
+			</noscript> <!-- If JavaScript Disabled -->
+
+			<!--[if IE]>
+				<link rel="stylesheet" type="text/css" href="/css/ie.css" />
+			<![endif]-->
+	<!-- DFP header script -->
+			<script type="text/javascript">
+				var googletag = googletag || {};
+				googletag.cmd = googletag.cmd || [];
+				(function() {
+				var gads = document.createElement("script");
+				gads.async = true;
+				gads.type = "text/javascript";
+				var useSSL = "https:" == document.location.protocol;
+				gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+				var node = document.getElementsByTagName("script")[0];
+				node.parentNode.insertBefore(gads, node);
+				})();
+				googletag.cmd.push(function() {
+					
+var mapping_728x90 = googletag.sizeMapping().
+	addSize([0, 0],   [280, 35]).
+	addSize([360, 0], [320, 40]).
+	addSize([480, 0], [440, 54]).
+	addSize([540, 0], [500, 62]).
+	addSize([640, 0], [600, 74]).
+	addSize([768, 0], [476, 59]).
+	addSize([800, 0], [476, 59]).
+	addSize([980, 0], [620, 77]).
+	addSize([1180, 0], [728, 90]).
+	build();
+			googletag.defineSlot('/1031787/Expatica_DE_News_ATF_Leaderboard_728x90', [728, 90], 'div-gpt-ad-1396447522636-42').defineSizeMapping(mapping_728x90).addService(googletag.pubads());
+				googletag.defineSlot('/1031787/Expatica_DE_News_ATF_336x280_1', [336, 280], 'div-gpt-ad-1452257896370-19').addService(googletag.pubads());
+				googletag.defineSlot('/1031787/Expatica_DE_News_BTF_336x280_2', [336, 280], 'div-gpt-ad-1452257896370-20').addService(googletag.pubads());
+	
+var mapping_728x90 = googletag.sizeMapping().
+	addSize([0, 0],   [280, 35]).
+	addSize([360, 0], [320, 40]).
+	addSize([480, 0], [440, 54]).
+	addSize([540, 0], [500, 62]).
+	addSize([640, 0], [600, 74]).
+	addSize([768, 0], [476, 59]).
+	addSize([800, 0], [476, 59]).
+	addSize([980, 0], [620, 77]).
+	addSize([1180, 0], [728, 90]).
+	build();
+			googletag.defineSlot('/1031787/Expatica_DE_News_BTF_728x90', [728, 90], 'div-gpt-ad-1452257896370-51').defineSizeMapping(mapping_728x90).addService(googletag.pubads());
+	
+var mapping_300x600 = googletag.sizeMapping().
+	addSize([0, 0],   [280, 560]).
+	addSize([360, 0], [300, 600]).
+	addSize([480, 0], [300, 600]).
+	addSize([540, 0], [300, 600]).
+	addSize([640, 0], [300, 600]).
+	addSize([768, 0], [228, 456]).
+	addSize([800, 0], [228, 456]).
+	addSize([980, 0], [300, 600]).
+	addSize([1180, 0], [300, 600]).
+	build();
+			googletag.defineSlot('/1031787/Expatica_DE_News_ATF_300x600', [300, 600], 'div-gpt-ad-1452257896370-38').defineSizeMapping(mapping_300x600).addService(googletag.pubads());
+	
+var mapping_300x600 = googletag.sizeMapping().
+	addSize([0, 0],   [280, 560]).
+	addSize([360, 0], [300, 600]).
+	addSize([480, 0], [300, 600]).
+	addSize([540, 0], [300, 600]).
+	addSize([640, 0], [300, 600]).
+	addSize([768, 0], [228, 456]).
+	addSize([800, 0], [228, 456]).
+	addSize([980, 0], [300, 600]).
+	addSize([1180, 0], [300, 600]).
+	build();
+			googletag.defineSlot('/1031787/Expatica_DE_Homepage_ATF_300x600', [300, 600], 'div-gpt-ad-1452260690797-0').defineSizeMapping(mapping_300x600).addService(googletag.pubads());
+	
+var mapping_310x72 = googletag.sizeMapping().
+	addSize([0, 0],   [280, 65]).
+	addSize([360, 0], [310, 72]).
+	addSize([480, 0], [310, 72]).
+	addSize([540, 0], [310, 72]).
+	addSize([640, 0], [310, 72]).
+	addSize([768, 0], [228, 53]).
+	addSize([800, 0], [228, 53]).
+	addSize([980, 0], [300, 70]).
+	addSize([1180, 0], [310, 72]).
+	build();
+			googletag.defineSlot('/1031787/Expatica_DE_General_ATF_Custom_310x72', [310, 72], 'div-gpt-ad-1404482226303-0').defineSizeMapping(mapping_310x72).addService(googletag.pubads());
+				googletag.pubads().enableSingleRequest();
+				googletag.enableServices();
+				});
+			</script>
+			<script type="text/javascript" src="/front/js/jquery-1.8.3.min.js"></script>
+			<script src="https://code.jquery.com/ui/1.12.0/jquery-ui.js"></script>
+			<script type='text/javascript' src='/front/js/bootstrap.min.js'></script>
+
+			<link rel="stylesheet" type="text/css" href="/js/jquery.cookiebar.css" />
+			<script type="text/javascript" src="/js/jquery.cookiebar.js"></script>
+			<script type="text/javascript">$(document).ready(function(){$.cookieBar({}); });</script>
+
+			<script type="text/javascript">
+				var a = document.getElementsByTagName('a');
+				for (i = 0; i < a.length; i++){
+				if (a[i].href.indexOf(location.host) == - 1 && a[i].href.match(/^https:///i)){
+						a[i].onclick = function(){
+				_gaq.push(['_trackEvent', 'outgoing_links', this.href.replace(/^https:///i, ")]);
+				}}}
+			</script>
+			<!-- Start Facebook Pixel Code -->
+<!--			<script>
+				!function(f,b,e,v,n,t,s)
+				{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+				n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+				if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+				n.queue=[];t=b.createElement(e);t.async=!0;
+				t.src=v;s=b.getElementsByTagName(e)[0];
+				s.parentNode.insertBefore(t,s)}(window,document,'script',
+				'https://connect.facebook.net/en_US/fbevents.js');
+
+				fbq('init', '216638298840824');
+				fbq('track', 'PageView');
+			</script>
+			<noscript>
+				<img height="1" width="1"
+				src="https://www.facebook.com/tr?id=216638298840824&ev=PageView
+				&noscript=1"/>
+			</noscript>-->
+			<!-- End Facebook Pixel Code -->
+		</head>
+	<body>
+<!--		<script type="text/javascript"> _linkedin_data_partner_id = "51017"; </script><script type="text/javascript"> (function(){var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);})(); </script> <noscript> <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=51017&fmt=gif" /> </noscript>-->
+		<div class="container">
+	<header id="header" class="clearfix">
+		<div class="row-fluid">
+			<div id="top-logo">
+<div class="logo pull-left" style="width: 425px; margin-right: 10px;">
+	<div style="float: left;">
+    			<img alt="Expatica" src="https://www.expatica.com/images/slogan2.png">
+		</div>
+</div>
+			</div>
+			<div id="top-banner">
+<div class="ads textcenter">
+    <!-- Banner 728x90: country=de, channel=news --><!-- Expatica_DE_News_ATF_Leaderboard_728x90 -->
+<div id='div-gpt-ad-1396447522636-42' >
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1396447522636-42'); });
+</script>
+</div></div>
+			</div>
+		</div>
+	</header>
+	<div id="top-navigation">
+	</div>
+	<div id="navigation">
+<nav id="main-navigation" class="clearfix">
+<div class="container" id="search-container">
+	<form name="form-search" method="post" action="/de/search-results.html" class="form-search pull-right span12">
+		<input type="text" class="sinput-icon pull-right input-icon-search" placeholder="Type your search & press enter" id="query" name="query">
+	</form>
+</div>
+<ul id="main-ul">
+	<li id="logo">
+		<a href="/">
+			<img alt="logo" src="https://www.expatica.com/images/e.jpg" style="opacity: 1; ">
+		</a>
+		<a href="/de" id="cnt" title="de">
+			   <!--img alt="de" src="https://www.expatica.com/images/de.png" style="opacity: 1;"-->
+			<i class="glyphicon glyphicon-home"></i>
+		</a>
+	</li>
+	<li class="greyh countries">
+		<a href="javascript:void(0)">GERMANY <i class="small glyphicon glyphicon-chevron-down"></i></a>
+		<ul class="sub-menu grey">
+			<li> <a href="https://www.expatica.com/be/news">BELGIUM</a></li>
+			<li> <a href="https://www.expatica.com/fr/news">FRANCE</a></li>
+			<li> <a href="https://www.expatica.com/de/news">GERMANY</a></li>
+			<li> <a href="https://www.expatica.com/lu/news">LUXEMBOURG</a></li>
+			<li> <a href="https://www.expatica.com/nl/news">NETHERLANDS</a></li>
+			<li> <a href="https://www.expatica.com/pt/news">PORTUGAL</a></li>
+			<li> <a href="https://www.expatica.com/ru/news">RUSSIA</a></li>
+			<li> <a href="https://www.expatica.com/za/news">SOUTH AFRICA</a></li>
+			<li> <a href="https://www.expatica.com/es/news">SPAIN</a></li>
+			<li> <a href="https://www.expatica.com/ch/news">SWITZERLAND</a></li>
+			<li> <a href="https://www.expatica.com/uk/news">UNITED KINGDOM</a></li>
+		</ul>
+	</li>
+	<li class="active"><a href="javascript:void(0)" class="greenh">Country Guide <i class="arrow-main-nav"></i></a>
+		<ul class="sub-menu grey">
+			<li><a href="/de/moving-to"> Moving to DE</a></li>
+			<li><a href="/de/visas-and-permits">Visas &amp; Permits</a></li>
+			<li><a href="/de/employment">Working in DE</a></li>
+			<li><a href="/de/finance">Finance</a></li>
+			<li><a href="/de/housing">Housing</a></li>
+			<li><a href="/de/healthcare">Healthcare</a></li>
+			<li><a href="/de/education">Education</a></li>
+			<li><a href="/de/family-essentials">Family</a></li>
+			<li><a href="/de/about">About DE</a></li>
+			<li><a href="/de/insider-views">Insider Views</a></li>
+			<li><a style="border:none" href="/de/out-and-about">Out &amp; About</a></li>
+		</ul>
+	</li>
+	<li class="active">
+		<a href="https://www.expatica.com/de/news/country-news" class="redh"><!-- i class="glyphicon glyphicon-bullhorn"></i-->German News <!--i class="arrow-main-nav"></i--></a>
+	</li>
+	<li ><a href="javascript:void(0)">Jobs<i class="arrow-main-nav"></i></a>
+		<ul class="sub-menu grey">
+			<li><a href="https://www.expatica.com/de/jobs"  class="orangeh">Find a job in DE</a></li>
+			<li><a href="/de/employment">Working in DE</a></li>
+		</ul>
+	</li>
+	<li ><a href="javascript:void(0)">Find a House<i class="arrow-main-nav"></i></a>
+		<ul class="sub-menu grey">
+			<li><a href="https://www.expatica.com/de/find-a-house" class="orangeh">Find a house in DE</a></li>
+			<li><a href="/de/housing">Housing Guide in DE</a></li>
+		</ul>
+	</li>
+
+	<li><a class="greyh" href="javascript:void(0)">Community <i class="arrow-main-nav"></i></a>
+		<ul class="sub-menu grey">
+			<li><a class="greenlh" href="https://www.expatica.com/de/ask-expert">Ask the Expert</a></li>
+			<li><a href="http://germanydating.expatica.com" target="_blank">Dating</a></li>
+			<li><a href="/de/newsletter-subscription.html">Newsletter</a></li>
+		</ul>
+	</li>
+	<li ><a class="yellowh" href="https://www.expatica.com/de/listings">Directory <i class="arrow-main-nav"></i></a>
+		<ul class="sub-menu grey">
+			<li><a class="yellowh" href="https://www.expatica.com/de/listings">Listings</a></li>
+		</ul>
+	</li>
+	<li id="search-li"><a href="javascript:void(0)" id="search-icon">
+			<i class="glyphicon glyphicon-search"></i></a></li><li class="social">
+		<a target="_blank" href="https://www.facebook.com/ExpaticaInternational" data-placement="bottom" data-original-title="Like us on Facebook">
+			<img alt="Facebook" src="/front/images/social/infocus/facebook-logo.png" style="opacity: 1;">
+		</a>
+		<a target="_blank" href="https://twitter.com/Expatica" data-placement="bottom" data-original-title="Follow on Twitter">
+			<img alt="Twitter" src="/front/images/social/infocus/twitter.png" style="opacity: 1;">
+		</a>
+		<a target="_blank" href="https://www.linkedin.com/company-beta/46370/" data-placement="bottom" data-original-title="Find us on LinkedIn">
+			<img alt="LinkedIn" src="/front/images/social/infocus/linkedin-logo.png" style="opacity: 1;">
+		</a>
+		<a target="_blank" href="https://plus.google.com/u/0/b/104439018800079436226/104439018800079436226/posts" data-placement="bottom" data-original-title="Google Plus">
+			<img alt="Google+" src="/front/images/social/infocus/google-g-logo.png" style="opacity: 1;">
+		</a>
+		</li>
+
+</ul>
+</nav>
+	</div>
+	<div class="row-fluid" style="clear: both;">
+		<div id="main" class="span8 single-post image-preloader">
+			<div id="left">
+<div id="website/articleDetail0" class="free">
+<div itemscope itemtype="http://schema.org/Article">
+
+	<div class="breadcrumb clearfix greenl" itemscope itemtype="http://schema.org/BreadcrumbList">
+		<p><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="https://www.expatica.com/de"><span itemprop="name">Expatica home</span></a>
+	<meta itemprop="position" content="1" />
+</span>
+ &nbsp;&#10097;&nbsp; <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="https://www.expatica.com/de/news"><span itemprop="name">News</span></a>
+	<meta itemprop="position" content="2" />
+</span>
+ &nbsp;&#10097;&nbsp; <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+<a itemprop="item" href="https://www.expatica.com/de/news/country-news"><span itemprop="name">German News</span></a>
+	<meta itemprop="position" content="3" />
+</span>
+ &nbsp;&#10097;&nbsp; <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+Poland, Germany call for firm EU response to Russian spy poisoning
+	<meta itemprop="position" content="4" />
+</span>
+</p>
+	</div>
+	<div id="share-buttons" title="Interesting article? Share it with your network!">
+		<div style="margin: 0; width: 70px;">
+			<script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
+			<a href="https://twitter.com/share" class="twitter-share-button" data-count="vertical" data-url="https://www.expatica.com/de/news/Britain-Russia-espionage-Germany-Poland-diplomacy_1764791.html" data-text="Poland, Germany call for firm EU response to Russian spy poisoning" data-via="">Tweet</a>
+		</div>
+		<div style="margin: 5px auto; width: 45px;">
+			<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.expatica.com%2Fde%2Fnews%2FBritain-Russia-espionage-Germany-Poland-diplomacy_1764791.html&layout=box_count&locale=en_US&show_faces=false&width=70&action=like&font=arial&language=en&colorscheme=light&height=64" style="border:none; overflow:hidden; width:70px; height:64px;"></iframe>
+					</div>
+		<div style="margin: 5px 0 0 0; width: 70px; overflow: hidden;">
+			<g:plusone size="tall" width="70" annotation="bubble" href="https://www.expatica.com/de/news/Britain-Russia-espionage-Germany-Poland-diplomacy_1764791.html"></g:plusone>
+		</div>
+
+		<div style="margin: 10px 0 0 0; width: 70px; overflow: hidden;">
+			<span class="st_sharethis_large" displayText="ShareThis"></span>
+			<script type="text/javascript" src="https://w.sharethis.com/button/buttons.js"></script>
+			<script type="text/javascript">
+				stLight.options({publisher: 'dcf1c8e6-9873-4834-b0fe-a48fbee9945c', doNotHash: true});
+			</script>
+			<span class="share_this">ShareThis</span>
+		</div>
+	</div>
+
+	<figure class="head-section span5 pull-right">
+			</figure>
+	<div class="content article_content">
+		<h1 itemprop="name">Poland, Germany call for firm EU response to Russian spy poisoning</h1>
+		<span itemprop="headline" content="Poland, Germany call for firm EU response to Russian spy poisoning"></span>
+			<p class="meta">
+			<span itemprop="dateModified" content="2018-03-19"></span>
+			<span itemprop="datePublished" content="2018-03-19">19th March 2018</span>, <img alt="Comments" src="/images/cmt.jpg"> 0 comments</p>
+
+<!-- articleBody -->
+<div itemprop="articleBody" class="article_content">
+					<!--<style>.show-for-sr { display:none; } </style> remove 'external link'-->
+					<style>
+				.article_content h3 {
+					color: #000000 !important;
+				}
+			</style>
+		
+
+<p> Polish Prime Minister Mateusz Morawiecki and German Chancellor Angela Merkel met in Warsaw Monday and called for a firm EU response to the poisoning of a Russian former spy in Britain.</p><p>London has claimed that Russia was behind the March 4 attack on Sergei Skripal and his daughter Yulia in the English city of Salisbury -- accusations the Kremlin has rejected as nonsense.</p><p>"The Russian aggressor needs to know that it can't allow itself to attack a NATO member," Morawiecki told reporters alongside Merkel during her visit to the Polish capital after securing her fourth term as Germany's leader.</p><p>"We (Merkel and I) agreed to say that the European Union needs to provide a firm response, and not just a symbolic one, and we expect the topic of the Russian attack to figure among the European Council's summit conclusions" this week, Morawiecki added. </p><p>Just like the nearby Baltic countries, Poland has been spooked by Russia's frequent military exercises near the region and its 2014 annexation of Crimea from Ukraine.</p><p>Merkel struck a more nuanced note by expressing solidarity with London but refraining from attributing direct responsibility for the poisoning to Moscow. </p><p>"Serious information suggests that Russia has something to do with this (the poisoning). It's now up to Russia to prove that that's not the case," Merkel said in Warsaw. </p>
+			<p><br />© 2018 AFP</p>
+	
+<span itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+<meta itemprop="name" content="Expatica"></span>
+<span itemprop="author" itemscope itemtype="http://schema.org/Person">
+<meta itemprop="name" content="Expatica"></span>
+
+</div><!-- articleBody -->
+
+	
+		
+
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- Test Matched Content -->
+		<ins class="adsbygoogle"
+			 style="display:block"
+			 data-ad-client="ca-pub-6956137610522282"
+			 data-ad-slot="7583966169"
+			 data-ad-format="autorelaxed"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+
+	
+	</div>
+
+	<div class="content article_content" style="margin-top: 20px; clear: both;">
+		<!-- LEAVE A SUGGETION -->
+				<!-- END LEAVE A SUGGETION -->
+
+
+
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- Horizontal_Large_Text (Links)_Below Articles ad -->
+		<ins class="adsbygoogle" style="display:block;width:728px;height:15px;margin:15px auto;" data-ad-client="ca-pub-6956137610522282" data-ad-slot="8088714963"></ins>
+		<script>
+									(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+
+		<div id="article-ads-728x90-box" style="width: 728px; margin:0px auto;">
+			<!-- Banner btf_728x90: country=de, channel=news --><!-- Expatica_DE_News_BTF_728x90 -->
+<div id='div-gpt-ad-1452257896370-51' >
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1452257896370-51'); });
+</script>
+</div>		</div>
+
+			</div>
+
+	
+		
+	
+	<script type="text/javascript">
+		var min_innerfontsize = 10;
+		var max_innerfontsize = 16;
+		function change_inner_font_size(change)
+		{
+			var current_size = document.getElementById('article_content').style.fontSize.substring(0, 2); //alert("current_size="+current_size);
+			size = change == 'enlarge' ? ++current_size : --current_size;
+			size = size > max_innerfontsize ? max_innerfontsize : size < min_innerfontsize ? min_innerfontsize : size;
+			document.getElementById('article_content').style.fontSize = size + 'px';
+			createCookie('innerfontsize', size, 1);
+		}
+		function createCookie(name, value, days) {
+			if (days) {
+				var date = new Date();
+				date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+				var expires = "; expires=" + date.toGMTString();
+			} else
+				var expires = "";
+			document.cookie = name + "=" + value + expires + "; path=/";
+		}
+
+		function getCookie(CookieName)
+		{
+			var CookieVal = null;
+			if (document.cookie) //only if exists
+			{
+				var arr = document.cookie.split(CookieName + '=');
+				if (arr.length >= 2)
+				{
+					var arr2 = arr[1].split(';');
+					CookieVal = arr2[0];
+				}
+			}
+			return CookieVal;
+		}
+		function intval(mixed_var, base)
+		{
+			var tmp;
+
+			var type = typeof (mixed_var);
+			if (type === 'boolean')
+			{
+				return +mixed_var;
+			} else if (type === 'string')
+			{
+				tmp = parseInt(mixed_var, base || 10);
+				return (isNaN(tmp) || !isFinite(tmp)) ? 0 : tmp;
+			} else if (type === 'number' && isFinite(mixed_var))
+			{
+				return mixed_var | 0;
+			} else
+			{
+				return 0;
+			}
+		}
+		s = intval(getCookie('innerfontsize'));
+		if (s > 0)
+		{
+			document.getElementById('article_content').style.fontSize = s + 'px';
+		}
+	</script>
+
+		
+		<div id="comments" style="clear: both;">
+			<div class="comment-lists">
+				<h4>0 Comments To This Article</h4>
+				<ul>
+									</ul>
+
+			</div>
+						<div class="content comment-form">
+				<h4 style="background-color: #f0f0f0; padding: 10px 10px;">
+					<a class="article_comments" href="#add_comment" onclick="commentForm(1764791);">Leave a Reply</a>
+				</h4>
+				<div class="form-comment" id="add_comment">
+				</div>
+			</div>
+		</div>
+		
+		<script type="text/javascript">
+			function cancelComment()
+			{
+				$("#add_comment").html('');
+			}
+			function commentForm(id)
+			{
+				var host = 'https://' + window.location.host;
+				$.ajax({
+					url: host + "/module/system/action/comment?id=" + id,
+					success: function (result)
+					{
+						$("#add_comment").html(result);
+					}
+				});
+			}
+			function addComment()
+			{
+				var id = document.getElementById('article_id').value;
+				var name = document.getElementById('comment_name').value;
+				var email = document.getElementById('comment_email').value;
+				var text = escape(document.getElementById('comment_text').value);
+				//	var check = document.getElementById('comment_check').checked ? 1 : 0;
+				var check = 0;
+				var token = document.getElementById('comment_token').value;
+				document.getElementById('ajax_loading').style.display = 'block';
+				var host = 'https://' + window.location.host;
+				$.ajax({
+					url: host + "/module/system/action/comment?submit=1&id=" + id + "&name=" + name + "&email=" + email + "&check=" + check + "&token=" + token + "&text=" + text,
+					success: function (result)
+					{
+						$("#add_comment").html(result);
+					}
+				});
+			}
+			function loadCommentForm() {
+				commentForm(1764791);
+			}
+			;
+
+			function addSuggestion()
+			{
+				var id = document.getElementById('suggest_article_id').value;
+				var name = document.getElementById('suggest_name').value;
+				var email = document.getElementById('suggest_email').value;
+				var message = escape(document.getElementById('suggest_message').value);
+				var token = document.getElementById('suggest_token').value;
+				document.getElementById('ajax_loading_2').style.display = 'block';
+				var host = 'https://' + window.location.host;
+				$.ajax({
+					url: host + "/module/system/action/suggestion?submit=1&article_id=" + id + "&name=" + name + "&email=" + email + "&token=" + token + "&message=" + message,
+					success: function (result)
+					{
+						$("#collapseOne").html(result);
+					}
+				});
+			}
+
+			//alert('load form 1');
+			window.onload = "loadCommentForm()";
+		</script>
+	
+	<script type="text/javascript">
+		(function () {
+			var po = document.createElement('script');
+			po.type = 'text/javascript';
+			po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+
+</div>
+</div>			</div>
+		</div>
+		<div id="sidebar" class="span4">
+			<div id="right">
+<div id="system/newsRight1" class="free"><div id="banner_310x72_e" class="margin-bottom20" style="back-ground: #e0e0e0">
+    <!-- Expatica_DE_General_ATF_Custom_310x72 -->
+<div id='div-gpt-ad-1404482226303-0' >
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1404482226303-0'); });
+</script>
+</div></div>
+    <div class="widget clearfix">
+        <div class="span12 side-reviews">
+                                        <div class="span5 pull-left">
+                    <div class="item ico-dating">
+                        <a href="http://germanydating.expatica.com" target="_blank">Dating</a>
+                    </div>
+                    <div class="item ico-currency">
+                        <a href="https://www.expatica.com/de/currency.html" target="_blank">Currency Zone</a>
+                    </div>
+                    <div class="item ico-dating">
+                        <a href="https://www.expatica.com/de/health-insurance-quotes.html" target="_blank">Health Quotes</a>
+                    </div>
+                </div>
+                <div class="span1 pull-left">
+                </div>
+                <div class="span5 pull-left">
+                    <div class="item ico-deals">
+                        <a href="https://www.expatica.com/de/listings/expatdeals/">Expat Deals</a>
+                    </div>
+                    <div class="item ico-guide">
+                        <a href="https://www.expatica.com/de/relocation.html" target="_blank">Moving Quotes</a>
+                    </div>
+                </div>
+                    </div>
+    </div>
+
+
+
+
+
+
+
+
+
+    <div id="channel-ads-300x600-box" class="margin-bottom20">
+        <!-- Banner News ATF 300x600: country=de, channel=news -->
+<!-- Expatica_DE_News_ATF_300x600 -->
+<div id='div-gpt-ad-1452257896370-38' >
+<script type="text/javascript">
+Criteo.DisplayAcceptableAdIfAdblocked({
+	"zoneid": 378633,
+	"containerid": 'div-gpt-ad-1452257896370-38',
+	"collapseContainerIfNotAdblocked" : false,
+	"callIfNotAdBlocked": function() {
+<!-- if AdblockPlus is not activated, call dfp on google div-->
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1452257896370-38'); })
+}
+});
+</script>
+</div>    </div>
+
+
+
+<div class="clearfix"></div>
+<div class="home-reviews">
+	<div class="header">
+		<div class="base">
+			<h4>Most Read <span></span></h4>
+		</div>
+	</div>
+			<div class="item">
+						<div class="pull-right content">
+				<h5>
+					<a title="Poland, Germany call for firm EU response to Russian spy poisoning" href="/de/news/country-news/Britain-Russia-espionage-Germany-Poland-diplomacy_1764791.html">Poland, Germany call for firm EU respons...</a>
+				</h5>
+			</div>
+		</div>
+			<div class="item">
+						<div class="pull-right content">
+				<h5>
+					<a title="Merkel 4.0: top priorities of Germany's new government" href="/de/news/country-news/Germany-politics-priorities_1754604.html">Merkel 4.0: top priorities of Germany's...</a>
+				</h5>
+			</div>
+		</div>
+			<div class="item">
+						<div class="pull-right content">
+				<h5>
+					<a title="Siemens' health unit shares surge in Frankfurt debut" href="/de/news/country-news/Germany-Siemens-stock-health-IPO_1758819.html">Siemens' health unit shares surge in Fra...</a>
+				</h5>
+			</div>
+		</div>
+			<div class="item">
+						<div class="pull-right content">
+				<h5>
+					<a title="Minister raises ire with Islam 'not part of Germany' broadside" href="/de/news/country-news/Germany-politics-Islam_1759656.html">Minister raises ire with Islam 'not part...</a>
+				</h5>
+			</div>
+		</div>
+	</div>
+
+
+    <div id="channel-ads-336-box-2" class="margin-bottom20">
+        <!-- Banner 336x280 (2): country=de, channel=news -->
+<!-- Expatica_DE_News_BTF_336x280_2 -->
+<div id='div-gpt-ad-1452257896370-20' style='height:280px; width:336px;'>
+<script type="text/javascript">
+Criteo.DisplayAcceptableAdIfAdblocked({
+	"zoneid": 434437,
+	"containerid": 'div-gpt-ad-1452257896370-20',
+	"collapseContainerIfNotAdblocked" : false,
+	"callIfNotAdBlocked": function() {
+<!-- if AdblockPlus is not activated, call dfp on google div-->
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1452257896370-20'); })
+}
+});
+</script>
+</div>    </div>
+
+
+</div>			</div>
+		</div>
+		<div id="profile_tags">
+<img src='https://pixel.mathtag.com/data/img?mt_id=132899&mt_dcid=evan_de&v1=&v2=&v3=&s1=&s2=&s3=' width='1' height='1' alt=""/>
+		</div>
+	</div>
+</div>
+<div id="bottoms">
+
+<div class="container">
+	<div class="row-fluid">
+
+		<div class="span1 widget clearfix" style="margin-bottom:0px">
+		</div>
+
+		<div class="span11 widget clearfix" style="margin-bottom:0px">
+		     <div class="header">
+		      <h4>Expatica Offers</h4>
+		     </div>
+		 </div>
+		 </div>
+		<div class="row-fluid">
+			 <div class="span1 widget clearfix"></div> <!-- End Widget -->
+		<div class="span2 widget clearfix">
+
+		<a href="/de/currency.html">
+		 <h6 class="box_title">CURRENCY ZONE</h6>
+		 <img src="https://www.expatica.com/images/currency.jpg" alt="VISIT EXPATICA HR">
+		 <div class="content">
+		  <p>Discover how to save time and money, by managing your finances and overseas transactions with ease.</p>
+		 </div>
+		</a>
+		</div> <!-- End Widget -->
+
+		<div class="span2 widget clearfix">
+		<a href="http://germanydating.expatica.com">
+		 <h6 class="box_title">FIND LOVE </h6>
+		 <img src="https://www.expatica.com/images/love.jpg" alt="VISIT EXPATICA HR">
+		 <div class="content">
+		  <p>Meet new people, make new friends, and find someone special with Expatica Date</p>
+		 </div>
+		</a>
+		</div> <!-- End Widget -->
+	<div class="span2 widget clearfix">
+		<a href="http://customerview.nl/InternationalJobFair/reg01.aspx?tc=expwebsite">
+		<h6 class="box_title">JOB FAIR for Internationals</h6>
+		<div class="content">
+			<img title="Job Fair for Internationals" alt="Job Fair for Internationals" src="/images/job_fair.jpg">
+			<p>Join the event for pursuing an international career in the Netherlands, featuring a range of employers and presentations.</p>
+		</div>
+		</a>
+	</div>
+		<div class="span2 widget clearfix">
+		<a href="http://jobs.expatica.com/de">
+		 <h6 class="box_title">FIND A JOB</h6>
+		 <img src="https://www.expatica.com/images/job.jpg" alt="VISIT EXPATICA HR">
+		 <div class="content">
+		  <p>Find your new international career, or simply keep an eye on vacancies, with Expatica Jobs.</p>
+		 </div>
+		</a>
+		</div> <!-- End Widget -->
+
+		<div class="span2 widget clearfix">
+		<a href="http://reachexpats.com/">
+		 <h6 class="box_title">ENGAGE WITH EXPATICA</h6>
+		 <img src="https://www.expatica.com/images/engage.jpg" alt="VISIT EXPATICA HR">
+		 <div class="content">
+		  <p>Are you an advertiser? Learn how to connect with Expatica’s readers.</p>
+		 </div>
+		</a>
+		</div> <!-- End Widget -->
+
+		<div class="span1 widget clearfix">
+		 <div class="tags-cloud">
+		 </div>
+		</div> <!-- End Widget -->
+
+	</div> <!-- End Row-Fluid -->
+</div> <!-- End Container -->
+</div>
+<div id="footer">
+
+
+<div class="pre-footer clearfix">
+	<div class="container">
+
+		<div class="span3 first">
+			<h4>Germany Guide</h4>
+						<ul>
+													<li>
+						<a href="/de/moving-to">Moving to DE</a>
+					</li>
+								<li>
+						<a href="/de/visas-and-permits">Visas & Permits</a>
+					</li>
+								<li>
+						<a href="/de/employment">Working in DE</a>
+					</li>
+								<li>
+						<a href="/de/finance">Finance</a>
+					</li>
+								<li>
+						<a href="/de/housing">Housing</a>
+					</li>
+								<li>
+						<a href="/de/healthcare">Healthcare</a>
+					</li>
+								<li>
+						<a href="/de/education">Education</a>
+					</li>
+								<li>
+						<a href="/de/family-essentials">Family</a>
+					</li>
+								<li>
+						<a href="/de/about">About DE</a>
+					</li>
+								<li>
+						<a href="/de/insider-views">Insider Views</a>
+					</li>
+								<li>
+						<a href="/de/out-and-about">Out & About</a>
+					</li>
+						</ul>
+		</div>
+
+		<div class="span3">
+
+			<h4>Jobs</h4>
+			<ul>
+				<li>
+					<a href="https://www.expatica.com/de/employment">Employment in DE</a>
+				</li>
+				<li>
+					<a href="http://jobs.expatica.com/de">Find a job in DE</a>
+				</li>
+			</ul>
+			<h4>Housing</h4>
+			<ul>
+				<li>
+					<a href="https://www.expatica.com/de/housing">Housing guide DE</a>
+				</li>
+				<li>
+					<a href="https://www.expatica.com/de/find-a-house">Find a house in DE</a>
+				</li>
+			</ul>
+			<br>
+			<img id="explogo" alt="Expatica" src="https://www.expatica.com/images/slogan2b.png">
+			<br>
+			<ul class="social pull-left">
+				<li><a target="_blank" href="https://www.facebook.com/ExpaticaInternational">
+						<img alt="Facebook" src="/front/images/social/facebook.png">
+					</a></li>
+				<li><a target="_blank" href="https://twitter.com/Expatica">
+						<img alt="Twitter" src="/front/images/social/twitter.png">
+					</a></li>
+				<li><a target="_blank" href="https://www.linkedin.com/company-beta/46370/">
+						<img alt="LinkedIn" src="/front/images/social/linkedin.png">
+					</a></li>
+				<li><a target="_blank" href="https://plus.google.com/u/0/b/104439018800079436226/104439018800079436226/posts">
+						<img alt="Google+" src="/front/images/social/google.png">
+					</a></li>
+			</ul>
+		</div>
+		<div class="span3">
+			<h4>
+				<a href="https://www.expatica.com/de/news">German News</a>
+			</h4>
+			<h4>
+				<a href="https://www.expatica.com/de/ask-expert">Ask the Expert</a>
+			</h4>
+			<h4>Community</h4>
+			<ul>
+			<ul>
+				<li>
+					<a href="http://germanydating.expatica.com">Dating</a>
+				</li>
+			</ul>
+			<h4>Directory</h4>
+			<ul>
+				<li>
+					<a href="https://www.expatica.com/de/listings">Listings</a>
+				</li>
+			</ul>
+
+
+		</div>
+		<div class="span3">
+			<h4>Expatica newsletter</h4>
+			<form name="footer_subscribe" id="footer_subscribe">
+				<div style="color:#AF1E2C" id="footer_msg">
+					<!-- Please enter a valid email address! -->
+				</div>
+				<input type="hidden" name="footer_country" id="footer_country"  value="de">
+				<input type="email" name="footer_email" id="footer_email" placeholder="Your email">
+				<input type="button" name="submit_footer_newsletter" value="Subscribe" onclick="footerSubscribe()" id="subscribe">
+				<input type="checkbox" name="footer_daily" id="footer_daily" value="1"> DE Daily
+				<input type="checkbox" name="footer_weekly" id="footer_weekly" value="1"> DE Weekly
+			</form>
+			<a href="https://www.expatica.com/refer-to-a-friend.html">
+				<img src="/images/refer_to_a_friend.png" alt="Refer to a friend" width="200">
+			</a>
+
+		</div>
+	</div>
+</div>
+
+
+<!--div id="sep"> </div-->
+<div class="container bottom">
+	<ul><li><a href="https://www.expatica.com/about.html" class=""  title="About Expatica">About Expatica</a></li><li> | </li><li><a href="https://www.expatica.com/advertise.html" class=""  title="Advertise">Advertise</a></li><li> | </li><li><a href="https://www.expatica.com/banners-widgets.html" class=""  title="Banners & Widgets">Banners & Widgets</a></li><li> | </li><li><a href="https://www.expatica.com/contact-us.html" class=""  title="Contact us">Contact us</a></li><li> | </li><li><a href="https://www.expatica.com/privacy-policy.html" class=""  title="Privacy policy">Privacy policy</a></li><li> | </li><li><a href="https://www.expatica.com/editorial-policy.html" class=""  title="Editorial policy">Editorial policy</a></li><li> | </li><li><a href="https://www.expatica.com/disclaimer.html" class=""  title="Disclaimer">Disclaimer</a></li><li> | </li><li><a href="https://www.expatica.com/sitemap.html" class=""  title="Sitemap">Sitemap</a></li><li> | </li><li><a href="https://www.expatica.com/terms-of-service.html" class=""  title="Terms of service">Terms of service</a></li><li> | </li><li><a href="https://www.expatica.com/refer-to-a-friend.html" class=""  title="Refer site to a friend">Refer site to a friend</a></li></ul>	<div class="clearfix ie-sep"></div> <!-- Clearfix -->
+	<p style="text-align:center" itemscope itemtype="http://schema.org/Organization">&copy; Copyright 2000-2018 <span itemprop="name">Expatica Communications BV</span></p>
+
+
+</div><!-- End Container -->
+<script type="text/javascript" src="https://ps.eyeota.net/pixel?pid=6lkb2cv&t=js&sid=Expat&pcountry=de&ctg=news"></script>
+</div>
+				
+
+					<script type='text/javascript' src='/front/js/script-v7.js?v=1521604105'></script>
+				<script type='text/javascript' src='/front/js/pgwslider.min.js'></script>
+		<script type='text/javascript' src='/front/js/jquery.easing.js'></script>
+		<script type='text/javascript' src='/front/js/jquery.flexslider-min.js'></script>
+		<script type='text/javascript' src='/front/js/jflickrfeed.min.js'></script>
+		<script type='text/javascript' src='/front/js/jquery.fitvids.min.js'></script>
+		<script type='text/javascript' src='/front/js/jquery.lazyload.mini.js'></script>
+		<script type='text/javascript' src='/front/js/jquery.prettyphoto.js'></script>
+		<script type='text/javascript' src='/front/js/jquery.placeholder.min.js'></script>
+		<script type='text/javascript' src='/front/js/jquery.jticker.js'></script>
+		<script type='text/javascript' src='/front/js/jquery.mobilemenu.js'></script>
+		<script type='text/javascript' src='/front/js/jquery.isotope.min.js'></script>
+		<script type='text/javascript' src='/front/js/jquery.hoverdir.js'></script>
+		<script type='text/javascript' src='/front/js/modernizr.custom.js'></script>
+		<script type="text/javascript" src="/front/js/main.js"></script>
+		<link rel="stylesheet" href="/front/js/chosen/prism.css">
+		<link rel="stylesheet" href="/front/js/chosen/chosen.css">
+		<script type="text/javascript" src="/front/js/chosen/chosen.jquery.js"></script>
+		<script type="text/javascript" charset="utf-8" src="/front/js/chosen/prism.js"></script>
+		<script type="text/javascript" src="/front/js/jquery.validate.min.js"></script>
+		<script type="text/javascript" src="/front/js/jquery.form.min.js"></script>
+		<script type="text/javascript" src="/front/js/script.js?v=20"></script>
+		<script type="text/javascript">
+		$("#country_change").chosen();
+		$("#country_change").chosen({allow_single_deselect:true});
+		$(document).ready(function() {
+		$('.pgwSlider').pgwSlider();
+		});
+		</script>
+					<SCRIPT TYPE="text/javascript" SRC="https://loadeu.exelator.com/load/?p=582&c=2516986&g=001&ctg=news&subctg=&subctg1=&citydest=&stars=&ag=&gd="></SCRIPT>
+				<a title="Back to Top!" class="scrollup" href="#" style="display: inline;">Scroll</a>
+		<script>
+//Track outbound links in Google Analytics
+(function($) {
+
+"use strict";
+
+// current page host
+var baseURI = window.location.host;
+var linkHref = '';
+var linkObj = [];
+var isClickDefaultPrevented = false;
+
+function openInNewTab(url) {
+	var a = document.createElement("a");
+	a.target = "_blank";
+	a.href = url;
+	a.click();
+//	$("#OpenInNewTab").attr('href', url);
+//	$("#OpenInNewTab").click();
+	isClickDefaultPrevented = false;
+}
+
+// click event on body
+$("body").on("click", function(e) {
+
+	// abandon if link already aborted or analytics is not available
+	if (isClickDefaultPrevented || typeof ga !== "function") return;
+
+	// abandon if no active link or link within domain
+	linkObj = $(e.target).closest("a");
+//console.log(link);
+	if (linkObj.length != 1 || baseURI == linkObj[0].host) {
+//console.log("Return: "+linkObj[0].host);
+		return;
+	}
+
+	// cancel event and record outbound link
+	isClickDefaultPrevented = true;
+	linkHref = linkObj[0].href;
+	ga('send', {
+		'hitType': 'event',
+		'eventCategory': 'outbound',
+		'eventAction': 'link',
+		'eventLabel': linkHref,
+//		'hitCallback': loadOutboundPage
+	});
+
+	// redirect after one second if recording takes too long
+//	setTimeout(loadOutboundPage, 1000);
+
+	// redirect to outbound page
+//	function loadOutboundPage() {
+		if (linkObj[0].target == "_blank") {
+//console.log("Open In New Tab: "+linkHref);
+			openInNewTab(linkHref);
+		}
+		else {
+//console.log("open in same tab: "+linkHref);
+			document.location = linkHref;
+		}
+//	}
+
+});
+
+})(jQuery);
+</script>
+
+	<!--a id="OpenInNewTab" href="#" target="_blank"></a-->
+	</body>
+</html>
+

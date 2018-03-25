@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE HTML PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.2//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile12.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" dir="ltr">
+
+<head>
+ <!-- data-info:v:2.0.6650.355;a:42524bdb-d21d-4211-9b0e-c08619a90ecb;cn:35;az:{did:9bd23780267a46ffbb220c1432b97ab3, rid: 35, sn: eastus-prod-entertainment, dt: 2018-03-20T17:31:20.8711353Z, bt: 2018-03-17T00:12:25.9794723Z};ddpi:1;dpio:;dpi:1;dg:downlevel.pc;th:gray;PageName:articlePage;m:en-us;cb:;l:en-us;mu:en-us;ud:{cid:BBKtXbe,vk:news,n:ar,l:en-us,ck:newsworld};xd:BByEbzA;ovc:f;al:;fxd:f;xdpub:2017-04-19 16:25:27Z;xdmap:2018-03-21 03:25:50Z;axd:;f: -->
+ <meta name="application-name" content="The last 48 hours in rising US-North Korea tensions, explained"/><meta name="cq" content="passed"/>
+ <link rel="canonical" href="https://www.vox.com/2018/3/20/17142654/north-korea-trump-foal-eagle-germany-artillery-killers" />
+ 
+
+ <title>The last 48 hours in rising US-North Korea tensions, explained</title>
+ <meta name="description" content="&lt;p>Here’s how a military exercise, a German intelligence assessment, and South Korean “artillery killers” might raise tensions with North Korea.&lt;/p>"/>
+ 
+<meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1" />
+ <link rel="stylesheet" href="//static-entertainment-eus-s-msn-com.akamaized.net/en-us/news/_sc/css/f5956224-603bbc39/direction=ltr.locales=en-us.themes=gray.dpi=resolution1x/2b-3cd697-71ecad1c/65-ac02cd-b12c00e0/93-8623aa-3246438c/e7-17dac8-68ddb2ab/fc-6fd450-bc2b922c/d2-977f1b-f94d3276/21-6c0c20-a648eab2/d5-c6e66f-433816ad?ver=2.0.6650.355&amp;csopd=20180315194310&amp;csopdb=20180315232353" type="text/css" media="all" />
+ <script type="text/javascript">//<![CDATA[
+(function(n,t){function s(n,i,r){typeof n!="string"&&(r=i,i=n,n=t);i&&i.splice||(r=i,i=[]);n==k?c=!0:n==d&&(l=!0);h(n,i,r,!1)}function h(n,t,i,r,u){var o,s,h;if(!n||!f[n]){if(o=ut(n,t),!o){e.push(u||{i:n,d:t,f:i,r:r});return}s=typeof i=="function";h=l&&c&&s;h?rt(n,i,o,r):it(s,n,i,o,r)}}function it(n,t,i,r,u){var f;f=n?i.apply(null,r):i;p(t,f,u)}function rt(n,t,i,r){setTimeout(function(){var u=t.apply(null,i);p(n,u,r)},1)}function p(t,i,r){r&&(i={});t&&(i?(f[t]=i,w()):n.console&&console.error("Dependencies resolved, but object still not defined (or is otherwise falsey). id:"+t+"; typeof obj: "+typeof i))}function w(){var r,u,n,t;if(e.length&&!i){do for(r=e,u=r.length,e=[],i=1,t=0;t<u;t++)n=r[t],h(n.i,n.d,n.f,n.r,n);while(i>1);i=0}else i&&(i=2)}function ut(i,r){for(var s,v,h,u=[],c=r?r.length:0,e=0;e<c;e++){var l=r[e],a=f[l],y=typeof a!="undefined";if(!y){if(s=tt.exec(l),s)if(v=s[1],h=n[v],h!==t){u.push(h);continue}else o||(o=setTimeout(ft,nt));break}u.push(a)}return c==u.length?u:0}function ft(){o=0;w()}function et(n,t,i){if((typeof n!="object"||n&&n.splice)&&(i=t,t=n,n={}),t&&t.splice||(i=t,t=[]),ot(n.js),i){var r;h(r,t,i,!0)}}function ot(n){if(typeof n=="string")b(n);else if(n)for(var t=0;t<n.length;t++)b(n[t])}function b(n){if(!y[n]){y[n]=1;var i=u.getElementsByTagName("script")[0],t=u.createElement("script");t.src=n;t.onload=t.onreadystatechange=function(){this.readyState&&this.readyState!="loaded"&&this.readyState!="complete"||(t.onload=t.onreadystatechange=null,t.parentNode&&t.parentNode.removeChild(t))};i.parentNode.insertBefore(t,i)}}function st(n){return g?n?r.now():Math.round(r.now()):new Date-a}var k=n._jsLoaderAsyncCanary||"c.dom",d="c.pageReveal",c=!1,l=typeof n._jsLoaderRevealMode=="undefined"?!0:n._jsLoaderRevealMode,r=n.performance,g=r&&typeof r.now=="function",a=((r||{}).timing||{}).navigationStart||+new Date,u=n.document,v=null;try{v=n.localStorage}catch(ht){}var f={date:Date,document:u,image:n.Image,localStorage:v,location:u&&u.location,navigator:navigator,pageStart:a,pageTime:st,screen:n.screen,window:n},e=[],i,nt=50,o,y={},tt=/^window\.(.+)$/;s.amd={jQuery:1};s.is=function(n){return typeof f[n]!="undefined"};n.define=s;n.require=et})(window);define("navigation",["escape","location","document"],function(n,t,i){function u(n,t,i){var s=function(n){return n=n.replace(/\+/g," "),decodeURIComponent(n)},u={},o,e;if(n)for(n=n.split("#")[0],o=n.split("&"),e=0;e<o.length;e++){var h=o[e].split("="),r=h[0],f=h[1];i&&(r=s(r),f&&(f=s(f)));t?(u[r]||(u[r]=[]),u[r].push(f)):u[r]=f}return u}function f(n){var t=i.createElement("a");return t.href=n,{protocol:t.protocol,host:t.host,hostName:t.hostname,port:t.port,path:t.pathname,hash:t.hash,query:t.search,origin:t.origin}}function e(n){return f(n).hostName}var r={getUrl:function(n){return r.filter?r.filter(n):n},navigate:function(n,i){r.filter&&(n=r.filter(n));i?t.replace(n):t.href=n},getHostName:e,parseUrl:f,isLocal:function(n){var i=e(n);return!i||t.hostname==i},getParams:u,getParamsFromUrl:function(n,t,i){var r=n.split("?")[1];return u(r,t,i)},mergeQueryStringParams:function(t,i){var e,f,o,r;if(i){if(e=t.split("?"),e[1]){f=u(e[1],!1,!0);for(r in i)f[r]=i[r]}else f=i;t=e[0];o="?";for(r in f)t+=f[r]?o+n.urlPart(r)+"="+n.urlPart(f[r]):o+n.urlPart(r),o="&"}return t},filter:null};return r});define("logging",["window"],function(n){function r(n,t){if(n.addEventListener)n.addEventListener("error",t,!1);else if(n.onerror){var i=n.onerror;n.onerror=function(n,r,u,f,e){return i(n,r,u,f,e),t(n,r,u,f,e)}}else n.onerror=t}function t(t){n.console&&(console.error||console.log)(t)}function u(){}function f(){}function e(t){(n.console||{}).timeStamp?console.timeStamp(t):(n.performance||{}).mark&&n.performance.mark(t)}var i=0;return r(n,function(n){return i++,n&&t("[SCRIPTERROR] "+n),!0}),{error:t,fatalError:t,unhandledErrorCount:function(){return i},perfMark:e,warning:u,information:f}})//]]></script><script type="text/javascript" src="//static-entertainment-eus-s-msn-com.akamaized.net/en-us/news/_h/4c59fa2c/webcore/externalscripts/jquery/jquery-1.11.1.min.js"></script>
+ 
+ <style>.storyimage.smallfullwidth .image,.storyimage.smallfullwidth img{background:#000;margin:0 auto}#toast-container{display:none}iframe.instagram-media{position:relative !important}.mobile .galleryinfo .img-divider{display:none}.homepage.tmx.pc.chrome #main .one-col,.homepage.tmx.pc.chrome #main .two-col,.homepage.tmx.pc.chrome #main .three-col{margin-right:-.016rem;margin-left:-.016rem}.homepage.midlevel .pagingsection>button.show,.channelplayerpage.midlevel .pagingsection>button.show{display:none}.settings.start.tmx.pc .globalsettings .social.twitter{display:none}</style>
+</head>
+
+<body class="ap content center-content gray">
+ 
+
+
+<div class="head">
+<div>
+<div id="topnav">
+ <ul class="verticalsnav">
+ <li >
+<a href="/en-us">Home</a>
+</li>
+ <li  class="current">
+<a href="/en-us/news">News</a>
+</li>
+ <li >
+<a href="/en-us/weather">Weather</a>
+</li>
+ <li >
+<a href="/en-us/entertainment">Entertainment</a>
+</li>
+ <li >
+<a href="/en-us/sports">Sports</a>
+</li>
+ <li >
+<a href="/en-us/money">Money</a>
+</li>
+
+ <li class="more">
+<a href="#nav">More ></a>
+<ul>
+ <li >
+<a href="/en-us/lifestyle">Lifestyle</a>
+</li>
+ <li >
+<a href="/en-us/health">Health &amp; Fitness</a>
+</li>
+ <li >
+<a href="/en-us/foodanddrink">Food &amp; Drink</a>
+</li>
+ <li >
+<a href="/en-us/travel">Travel</a>
+</li>
+ <li >
+<a href="/en-us/autos">Autos</a>
+</li>
+ <li >
+<a href="/en-us/video">Video</a>
+</li>
+ </ul>
+</li>
+ </ul>
+</div>
+  <div id="header-common">
+<div class="header">
+<div class="header-logo">
+  <a class="logo" href="/en-us" tabindex="2">
+ 
+
+<img alt="" height="20" width="20" src="//static-entertainment-eus-s-msn-com.akamaized.net/sc/82/c22c7d.gif" />
+</a>
+ <a class="vertical" href="/en-us/news" tabindex="2">news</a>
+
+
+
+</div>
+<div id="header-links">
+
+<a class="navigation" href="#nav">
+<img  alt="go to navigation" width="27" height="20" src="//static-entertainment-eus-s-msn-com.akamaized.net/sc/57/a49b8d.gif" />
+                    </a>
+                </div>
+            </div>
+        </div>
+
+ 
+<div id="header-search">
+<form action="https://www.bing.com/search?scope=web" method="get" id="srchfrm">
+<div class="searchbox">
+<input type="text" id="q" name="q" value="" />
+<input type="hidden" name="form" value="PRNWSR" />
+ <input type="hidden" name="mkt" value="en-us" />
+  <input type="hidden" name="httpsmsn" value="1">
+   <input type="hidden" name="refig" value="42524bdbd21d42119b0ec08619a90ecb">
+<input type="submit" class="text" value="web search" title="web search"/>
+ </div>
+</form>
+</div>
+
+</div>
+ 
+ 
+<div class="upgradebrowser">
+ You are using an older browser version. Please use a <a href="http://support2.microsoft.com/kb/2999871/en-us">supported version</a> for the best MSN experience.
+</div>
+
+
+
+</div>
+<div id="maincontent">
+ 
+<div id="main"  data-region="main">
+ 
+         <div  class="filmstripouter light">
+        <div  class="filmstrip"  data-aop="filmstrip">
+            
+            <div class="filmstrip-nav">
+                        <a class="filmstrip-previous" href="/en-us/foodanddrink/foodculture/martha-stewart%e2%80%99s-5-best-meals-of-all-time/ar-BBKt8Hd?li=BBnbfcL"  data-aop="prev">
+            Previous
+        </a>
+        <a class="filmstrip-next" href="/en-us/news/crime/missouri-man-seeks-second-reprieve-from-supreme-court/ar-BBKs48N?li=BBnbfcL"  data-aop="next">
+            Next
+        </a>
+
+            </div>
+        </div>
+    </div>
+
+
+ <div class="articlecontent">
+<h1>The last 48 hours in rising US-North Korea tensions, explained</h1>
+<div>
+<div>
+ <span class="partner">
+ <a  href="http://vox.com?utm_source=MSNbanner/"  title="vox.com logo"><img alt="Vox.com logo" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB2aVSU.img?h=17&amp;w=0&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=png" title="Vox.com logo" /> Vox.com</a>
+ </span>
+ <span>
+ <span class="time">7 hrs ago</span>
+         <span class="authorname-txt" 
+              
+              
+              >
+                <span class="truncate" >Alex Ward</span>
+        </span>
+
+                </span>
+            </div>
+        </div>
+
+ <div class="richtext"  data-aop="articlebody">
+ 
+ <span class="storyimage floated inlineimage"  data-aop="image">
+<span class="image" data-attrib="Chung Sung-Jun/Getty Images" data-caption="South Korean marines salute during a funeral service for the Marines who were killed in a North Korean artillery barrage on the South Korean border island Yeonpyeong at a military hospital on November 27, 2010, in Seongnam, South Korea." >
+ <img alt="a group of people in uniform: South Korean marines salute during a funeral service for the Marines who were killed in a North Korean artillery barrage on the South Korean border island Yeonpyeong at a military hospital on November 27, 2010, in Seongnam, South Korea." height="203" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBKtL9P.img?h=203&amp;w=270&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=56&amp;y=74" width="270" />
+</span>
+<span class="caption truncate">
+ <span class="attribution">&#169; Chung Sung-Jun/Getty Images</span>
+ South Korean marines salute during a funeral service for the Marines who were killed in a North Korean artillery barrage on the South Korean border island Yeonpyeong at a military hospital on November 27, 2010, in Seongnam, South Korea.
+</span>
+</span>
+<p>The last 48 hours suggest that the relative period of calm between the United States and North Korea may soon come to an end — and that’s as scary as it sounds.<br></p><p>Here’s why: On Monday, Washington and Seoul announced they will hold an <a href="https://www.cnn.com/2018/03/19/politics/us-south-korea-north-military-exercises/index.html">annual joint military drill</a> next month. The exercise was previously delayed because of the 2018 Winter Olympics in South Korea, and North Korean leader Kim Jong Un may have expected it would not happen ahead of his summit with President Donald Trump. The exercise will certainly annoy him — and may change how he feels about his diplomatic opening.</p><p>Also on Monday, the German newspaper <a href="http://www.dw.com/en/german-bnd-spy-agency-north-korean-rockets-can-hit-europe/a-43030061">Deutsche Welle</a> reported that Germany’s foreign intelligence agency believes North Korea can strike Europe with a nuclear-tipped missile. The US already worries that Pyongyang could nuke its Asian allies. The US has promised to use massive force in defense of friends — but now the US may have to come to the defense of an even larger number of allies. That may necessitate more plans when thinking about war with North Korea.</p><p>And finally, South Korea announced plans to deploy <a href="https://www.defensenews.com/global/asia-pacific/2018/03/19/south-korea-to-deploy-artillery-killer-to-destroy-north-korean-bunkers/">“artillery killer”</a> missiles to the border with North Korea. These missiles could potentially destroy Pyongyang’s artillery force, which North Korea would use to kill thousands in South Korea should a conflict break out. These new missiles, in effect, aim to defend against that outcome.</p><p>All of this comes about two months before Trump plans to meet with Kim Jong Un for a high-takes <a href="https://www.cbsnews.com/news/north-korea-kim-jong-un-donald-trump-nuclear-summit-us-japan-south-korea-talks/">summit</a> to discuss the future of Kim’s nuclear program (though there’s <a href="https://www.nytimes.com/2018/03/08/us/politics/north-korea-kim-jong-un-trump.html">no guarantee</a> the meeting will actually happen), and while Trump is considering a broader national security team shakeup.</p><p>The hope was for the leaders to meet face-to-face during a period of peace — but it looks like tensions may soon be on the rise.</p><h3>North Korea hates US-South Korea military drills. They’ll happen anyway.</h3>
+ <span class="storyimage fullwidth inlineimage"  data-aop="image">
+<span class="image" data-attrib="Provided by Vox.com" data-caption="" >
+ <img alt="a group of people on a boat in the water" height="200" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBKtPRq.img?h=200&amp;w=300&amp;m=6&amp;q=60&amp;o=f&amp;l=f" width="300" />
+</span>
+<span class="caption truncate">
+ <span class="attribution">&#169; Provided by Vox.com</span>
+ 
+</span>
+</span>
+<p>Secretary of Defense Jim Mattis and his South Korean counterpart, Song Young-moo, announced in a joint statement on Monday that a massive joint military exercise known as Foal Eagle will begin on April 1. However, it’ll last only <a href="https://www.cnn.com/2018/03/19/politics/us-south-korea-north-military-exercises/index.html">four weeks</a>, even though it usually goes on for about two months each year.</p><p>The shortened timeframe is noteworthy: It means the drills might end before Trump meets with Kim. North Korea believes Washington and Seoul use the drills as a way to prepare for <a href="https://www.vox.com/world/2018/2/7/16974772/north-korea-war-trump-kim-nuclear-weapon">war with Pyongyang</a>, so ensuring the exercise is over before the potential summit was likely a consideration. </p><p>Lt. Col. Christopher Logan, a Pentagon spokesperson, said the exercise will involve about 11,500 US and 290,000 South Korean troops. They will jointly practice air, sea, and special operations.</p><p>United Nations Command — an international force that helps stabilize the Korean peninsula — told North Korea’s army of the timing and duration of the drills so there wouldn’t be any misunderstanding. </p><p>But it’s still potentially dangerous: North Korea has previously used Foal Eagle as an excuse to <a href="http://abcnews.go.com/International/north-korean-missile-test-year/story?id=46592733">test missiles</a>. North Korea’s willingness <em>not</em> to test anything over the past few months led in part to the break in the Washington-Pyongyang standoff. </p><p>David Shear, who served as the Pentagon’s top Asia official from 2014 to 2016, told me the exercises will be the first test of how serious North Korea’s diplomatic overtures really are. If the country threatens the US or South Korea during the drills, then perhaps Pyongyang puts the Trump-Kim summit in doubt. But if North Korea stands by for the full month, then maybe it really does want to sit down with the US for talks.</p><h3>Germany says North Korea could nuke it — and other parts of Europe</h3>
+ <span class="storyimage fullwidth inlineimage"  data-aop="image">
+<span class="image" data-attrib="Provided by Vox.com" data-caption="German Cities Struggle With Air Pollution" >
+ <img alt="German Cities Struggle With Air Pollution" height="211" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBKtGui.img?h=211&amp;w=300&amp;m=6&amp;q=60&amp;o=f&amp;l=f" width="300" />
+</span>
+<span class="caption truncate">
+ <span class="attribution">&#169; Provided by Vox.com</span>
+ German Cities Struggle With Air Pollution
+</span>
+</span>
+<p>During a closed-door meeting on Sunday, a German intelligence leader reportedly told lawmakers in Berlin that he was <a href="http://www.dw.com/en/german-bnd-spy-agency-north-korean-rockets-can-hit-europe/a-43030061">“certain”</a> North Korea can “reach Europe and Germany with its missiles.” </p><p>At a minimum, that means North Korea’s missile program is more troublesome than we knew. Last year, North Korea proved it had an intercontinental ballistic missile capable of hitting all of the United States. Germany just confirmed it — and other European countries — is within range, too.</p><p>The US already spends considerable time and money <a href="https://www.defense.gov/News/Article/Article/1199828/2018-budget-request-for-european-reassurance-initiative-grows-to-47-billion/">reassuring European allies</a> that America will defend them from Russia, even though Trump openly derides helping to secure other countries. It’s possible Berlin and other European capitals will start asking for US assistance in fending off an unlikely North Korean nuclear attack.</p><p>But let’s say Pyongyang <em>does</em> attack Germany. Germany is a NATO member, and the cornerstone of that alliance is the <a href="https://www.nato.int/cps/ua/natohq/topics_110496.htm">Article 5</a> provision which says an attack on one is an attack on all. That means the US is treaty-bound to defend its ally and start a <a href="https://www.vox.com/world/2018/2/7/16974772/north-korea-war-trump-kim-nuclear-weapon">war with North Korea</a>. </p><p>That’s legitimately scary, because the specter of a US-North Korea conflict hung over much of 2017. Now it looks like there’s another — again, very unlikely — path to war. </p><h3>South Korea will soon deploy “artillery killer” missiles</h3>
+ <span class="storyimage fullwidth inlineimage"  data-aop="image">
+<span class="image" data-attrib="Provided by Vox.com" data-caption="US Army Conducts Emergency Deployment Readiness Exercise" >
+ <img alt="US Army Conducts Emergency Deployment Readiness Exercise" height="223" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBKtNwU.img?h=223&amp;w=300&amp;m=6&amp;q=60&amp;o=f&amp;l=f" width="300" />
+</span>
+<span class="caption truncate">
+ <span class="attribution">&#169; Provided by Vox.com</span>
+ US Army Conducts Emergency Deployment Readiness Exercise
+</span>
+</span>
+<p>North Korea’s nuclear weapons are legitimately scary, but its artillery force is also worrisome.</p><p>South Korea wants to minimize some of that danger. On Monday, it announced it will deploy <a href="https://www.defensenews.com/global/asia-pacific/2018/03/19/south-korea-to-deploy-artillery-killer-to-destroy-north-korean-bunkers/">“artillery killer”</a> missiles to the Demilitarized Zone, with the goal to have a still-unspecified number of them ready to go in October. The missiles, which would destroy North Korea’s artillery, reportedly have a range of about 75 miles and can penetrate bunkers, which helps because many of North Korea’s troops and weapons near the border are stationed underground. </p><p>“The brigade’s mission is fairly focused on destroying North Korea’s long-range guns more rapidly and effectively, should conflict arise,” a source told <a href="https://www.defensenews.com/global/asia-pacific/2018/03/19/south-korea-to-deploy-artillery-killer-to-destroy-north-korean-bunkers/">Defense News</a>.</p><p>South Korea is keenly aware of the threat from North Korea’s artillery pieces. Pyongyang has the <a href="http://www.businessinsider.com/north-koreas-got-an-artillery-armada-2013-3?op=1">world’s largest artillery arsenal</a> at its disposal, with around <a href="https://www.nytimes.com/2017/07/05/world/asia/north-korea-south-us-nuclear-war.html?_r=0">8,000</a> rocket launchers and artillery cannons on its side of the border, and it could use that arsenal to strike the South Korean capital, Seoul. </p><p>It could also use its short-range missiles to strike Tokyo and other large Japanese urban areas, some of them with only about a <a href="https://www.washingtonpost.com/news/worldviews/wp/2017/04/25/nervous-over-north-korea-japan-issues-guidelines-for-missile-attack/?utm_term=.fcf5554e91ef">10-minute</a> warning. The US has about 28,500 troops in South Korea and around 50,000 troops in Japan, who would also be in danger.</p><p>My colleague Yochi Dreazen wrote about what <a href="https://www.vox.com/world/2018/2/7/16974772/north-korea-war-trump-kim-nuclear-weapon">war with North Korea</a> would look like, and reported on the artillery component:</p><blockquote><p><em>With so many artillery pieces and rocket launchers trained on Seoul, Kim has the ability to quickly blanket the densely packed city with huge amounts of nerve agents. The human toll would be staggeringly high: The military historian Reid Kirby </em><a href="https://thebulletin.org/sea-sarin-north-korea%E2%80%99s-chemical-deterrent10856"><em>estimated</em></a><em> last June that a sustained sarin attack could kill up to 2.5 million people in Seoul alone, while injuring nearly 7 million more. Men, women, and children would very literally choke to death in the streets of one of the world’s wealthiest and most vibrant cities. It would be mass murder on a scale rarely seen in human history.</em></p></blockquote><p>The question now is how North Korea will react to this news. Even though South Korea’s anti-artillery missiles are defensive in nature, it’s more than likely North Korea will see them as a provocation.</p><p>The optimistic view is that Trump’s upcoming potential meeting with Kim would give the North Koreans reason to turn a blind eye to things that they might have otherwise felt the need to respond do. The pessimistic one is that a failed summit could make the existing tensions worse. If the meeting with Kim goes badly, Shear told me, “we’ll be in a worse spot.”</p><p></p>
+</div>
+ </div>
+
+ 
+
+<div class="back-msn-home"  data-aop="back-to-home">
+<a href="/en-us"  role="button"><span>Go to MSN Home</span></a>
+</div>
+
+ 
+ 
+
+<script>
+    require(["refreshPdpModules", "c.dom", "c.sso"], function(refreshPdpModules)
+    {
+        try
+        {
+            define("c.financeajaxrefreshstart", 1);
+            refreshPdpModules();
+        } catch (e)
+        {
+            define("c.financeajaxrefresherror", 1);
+        }
+    });
+    require(["refreshPdpModules", "c.dom", "c.pdp"], function(refreshPdpModules)
+    {
+        try
+        {
+            define("c.financeajaxrefreshstart", 1);
+            refreshPdpModules();
+        } catch (e)
+        {
+            define("c.financeajaxrefresherror", 1);
+        }
+    });
+
+    require(["jquery", "binding", "LocaleSettings", "c.pdpready"], function($, binding, utils)
+    {
+        utils.PostAjaxComplete();
+    });
+    require(["jquery", "binding", "LocaleSettings", "finance.ajax.done"], function($, binding, utils)
+    {
+        utils.PostAjaxComplete();
+    });
+
+    define("LocaleSettings", ["utils"], function()
+    {
+        var settings = {};
+        settings.numberGroupSizes = "3".split(" ");
+settings.numberDecimalSeparator = ".";
+settings.numberDecimalDigits = "2";
+settings.numberGroupSeparator = ",";
+settings.currencyGroupSizes = "3".split(" ");
+settings.currencyGroupSeparator = ",";
+settings.currencyDecimalSeparator = ".";
+settings.currencyDecimalDigits = parseInt("2");
+settings.currencySymbol = "$";
+settings.currencyPositivePattern = parseInt("0");
+settings.currencyNegativePattern = parseInt("0");
+settings.percentGroupSizes = "3".split(" ");
+settings.percentGroupSeparator = ",";
+settings.percentDecimalSeparator = ".";
+settings.percentDecimalDigits = parseInt("2");
+settings.percentSymbol = "%";
+settings.percentPositivePattern = parseInt("0");
+settings.percentNegativePattern = parseInt("0");
+settings.shortTimePattern = "h:mm tt";
+settings.monthYearPattern = "MMM yyyy";
+settings.monthDatePattern = "MMM d";
+settings.dayDatePattern = "ddd MMM d";
+settings.negativeSign = "-";
+settings.defaultDatePattern = " MMMM d, yyyy";
+settings.monthDayYearPattern = "M/d/yyyy";
+settings.longTimePattern = "h:mm:ss tt";
+settings.dateSeparator = "/";
+settings.timeSeparator = ":";
+settings.indexdetailsurl = "/en-us/money/indexdetails";
+settings.stockdetailsurl = "/en-us/money/stockdetails";
+settings.funddetailsurl = "/en-us/money/funddetails";
+settings.etfdetailsurl = "/en-us/money/etfdetails";
+settings.commoditydetailsurl = "/en-us/money/markets/commoditydetails";
+settings.watchlisturl = "/en-us/money/watchlist";
+settings.commoditiesNewsurl = "/en-us/money/commoditiesnews";
+settings.currencyConverterUrl = "/en-us/money/currencyconverter";
+settings.serpUrl = "/en-us/money/serp";
+settings.milestoneDigits = "".split(",");
+settings.milestoneWords = "".split(",");
+settings.isUserAuthenticated = "False";
+settings.currenciesUrl = "/en-us/money/currencydetails";
+settings.marketDetailsUrl = "/en-us/money/marketdetails";
+settings.homepageScreenersUrl = "/en-us/money/homepagescreeners";
+settings.screenerAddFilterUrl = "/en-us/money/getscreenerfilters";
+settings.filterResponseUrl = "/en-us/money/getfilterresponse";
+settings.presetScreensUrl = "/en-us/money/getpresetscreens";
+settings.realTimeQuotesUrl = "/en-us/money/realtimequotes";
+settings.autosuggestControllerUrl = "/en-us/money/autosuggest";
+settings.searchresultsPageUrl = "/en-us/money/searchresults";
+settings.heroChartUrl = "/en-us/money/stockdetails/herochart";
+settings.stockDetailsFilmstripUrl = "/en-us/money/stockdetailsfilmstrippartialpage?symbol=BBKTXBE";
+settings.locale = "en-us";
+settings.language = "en";
+settings.country = "us";
+
+        settings.PostAjaxComplete = function(alwaysReset)
+        {
+            var pagingSection = binding.get("pagingSection", ".pagingsection");
+            //<![CDATA[
+            if (pagingSection && typeof pagingSection.teardown === "function" && typeof pagingSection.setup === "function")
+            {
+                pagingSection.teardown();
+                pagingSection.setup();
+                if (alwaysReset)
+                {
+                    binding("pagingSection", ".pagingsection").all();
+                }
+            } else
+            {
+                binding("pagingSection", ".pagingsection").all();
+            }
+            //]]>
+        };
+
+        return settings;
+    });
+</script>
+
+<style>
+    .bingNewsContainer h2::after,
+    [data-aop="financeportfoliobingnewsmodule"] h3::after,
+    .bingNewsContainer #pdp-module h3::after
+    {
+        content: "News from the Web";
+}
+</style>
+
+</div>
+<div id="aside"  data-region="aside">
+ 
+     <div  class="ad"  id="rectangle1_article_newsworld_38040eef-009b-47e6-8311-89ca7ba65604">
+        <div>
+            <div  id="rectangle1_article_newsworld_container_38040eef-009b-47e6-8311-89ca7ba65604">
+                    <script type="text/javascript">
+                        //<![CDATA[
+                        (function define_dap()
+                        {
+                            if (window.dap)
+                            {
+                                return;
+                            }
+
+                            // all data needed to render the ads or refresh them
+                            var postEvaluationClassname = "non-empty-ad";
+                            var postEvaluationAdSmallClassname = "layout-small";
+                            var postEvaluationAdMediumClassname = "layout-medium";
+                            var postEvaluationAdLargeClassname = "layout-large";
+                            var postEvaluationNoAdClassname = "no-ad";
+
+                            var mediumAdHeight = 200;
+                            var largeAdHeight = 550;
+
+                            var numEvalPasses = 10;
+                            var contentCheckTimeout = 300;
+                            var discernibleAdHeightThreshold = 30;
+                            var discernibleAdWidthThreshold = 40;
+
+                            var AdSizeType =
+                            {
+                                NotAnAd: 0,                     // dimensions are both 0
+                                PointSizedAd: 1,                // dimensions are both under threshold
+                                NonPointSizedAd: 2,             // dimensions are both above threshold (full size)
+                                Inconclusive: 3                 // one dimension is 0, and the other is above threshold
+                            };
+
+                            function dapResult(params, width, height, htmlid)
+                            {
+                                var elem = document.getElementById(htmlid);
+                                if (!elem)
+                                {
+                                    return;
+                                }
+
+                                dapMgr.renderAd(htmlid, params, width, height);
+
+                                var renderData = {
+                                    params: params,
+                                    width: width,
+                                    height: height,
+                                    htmlid: htmlid,
+                                    adSizeType: AdSizeType.NotAnAd,
+                                    canDisplayAdChoices: false,
+                                    elem: elem
+                                };
+
+                                checkAndSetAdContainerVisibility(renderData);
+                            }
+
+                            function checkAndSetAdContainerVisibility(renderData)
+                            {
+                                var retries = numEvalPasses;
+
+                                checkAndSetAdContainerVisibilityRec();
+
+                                function checkAndSetAdContainerVisibilityRec(finalCheck)
+                                {
+                                    retries--;
+                                    var adId = renderData.htmlid;
+
+                                    checkVisibilityAndUpdateRenderDataContextForElement(renderData);
+
+                                    var isLastPass = (retries === 0);
+                                    var adSizeType = renderData.adSizeType;
+                                    var adDetected = adSizeType !== AdSizeType.Inconclusive;
+                                    var doShow = adSizeType === AdSizeType.NonPointSizedAd;
+                                    if (adDetected || isLastPass)
+                                    {
+                                        var adSizeClassname = postEvaluationNoAdClassname;
+                                        if (doShow)
+                                        {
+                                            if (renderData.height < mediumAdHeight)
+                                            {
+                                                adSizeClassname = postEvaluationAdSmallClassname;
+                                            }
+                                            else if (renderData.height < largeAdHeight)
+                                            {
+                                                adSizeClassname = postEvaluationAdMediumClassname;
+                                            }
+                                            else
+                                            {
+                                                adSizeClassname = postEvaluationAdLargeClassname;
+                                            }
+                                        }
+
+                                        setAdContainerDisplayState(adId, doShow, adSizeClassname);
+
+                                        // last final check for RM
+                                        if (!finalCheck)
+                                        {
+                                            setTimeout(
+                                                function finalCheckOnAdContainer()
+                                                {
+                                                    checkAndSetAdContainerVisibilityRec(true);
+                                                },
+                                                (numEvalPasses * contentCheckTimeout) >> 1);
+                                        }
+                                    }
+                                    else
+                                    {
+                                        // if we got here, we didn't find anything but script. Try again later.
+                                        setTimeout(checkAndSetAdContainerVisibilityRec, contentCheckTimeout);
+                                    }
+                                }
+                            }
+
+                            function checkVisibilityAndUpdateRenderDataContextForElement(renderData)
+                            {
+                                if (!renderData)
+                                {
+                                    return;
+                                }
+                                evaluateAdContent(renderData);
+                            }
+
+                            function evaluateAdContent(renderData)
+                            {
+                                var adContainer = renderData && renderData.elem;
+                                if (!adContainer)
+                                {
+                                    renderData.adSizeType = AdSizeType.Inconclusive;
+                                }
+
+                                var adIframeCollection = adContainer.getElementsByTagName("iframe");
+                                var evaluationResult;
+                                for (var adIframe, ndx = 0; (adIframe = adIframeCollection[ndx]); ++ndx)
+                                {
+                                    // skip script-only iFrame elements
+                                    var body = ((adIframe.contentDocument || (adIframe.contentWindow || {}).document) || {}).body;
+                                    if (!body || !body.hasChildNodes())
+                                    {
+                                        continue;
+                                    }
+
+                                    var childNode, hasChildDiv = false;
+                                    for (var index = body.childNodes.length - 1; (childNode = body.childNodes[index]); --index)
+                                    {
+                                        if (childNode.nodeType === 1
+                                            && childNode.nodeName !== "SCRIPT")
+                                        {
+                                            hasChildDiv = true;
+                                            renderData.adSizeType = evaluateElement(childNode, renderData);
+                                            if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                            {
+                                                return;
+                                            }
+                                        }
+
+                                        // Bug 1715559:[dl_ux][FF9.0] [Win7] - Advertisement is overlapping destination section
+                                        // For FF lower versions (FF9.0), index may be negative and hence cause js errors
+                                        // Add index value check to solve the problem
+                                        if (index <= 0)
+                                        {
+                                            break;
+                                        }
+                                    }
+
+                                    if (renderData.adSizeType !== AdSizeType.NonPointSizedAd && hasChildDiv)
+                                    {
+                                        renderData.adSizeType = evaluateElement(adIframe, renderData);
+                                    }
+
+                                    if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                    {
+                                        return;
+                                    }
+                                }
+
+                                // extract the characteristics of the div immediate children
+                                var adDivCollection = adContainer.getElementsByTagName("div");
+                                for (var adDiv, ndx = 0; (adDiv = adDivCollection[ndx]); ++ndx)
+                                {
+                                    renderData.adSizeType = evaluateElement(adDiv, renderData);
+
+                                    if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                    {
+                                        return;
+                                    }
+                                }
+                            }
+
+                            function evaluateElement(element, renderData)
+                            {
+                                var maxWidth = evaluateElementDimension(element, true, discernibleAdWidthThreshold);
+                                var maxHeight = evaluateElementDimension(element, false, discernibleAdHeightThreshold);
+
+                                renderData.width = maxWidth;
+                                renderData.height = maxHeight;
+
+                                if (maxWidth > discernibleAdWidthThreshold && maxHeight > discernibleAdHeightThreshold)
+                                {
+                                    return AdSizeType.NonPointSizedAd;
+                                }
+                                if (maxWidth > 0 && maxHeight > 0)
+                                {
+                                    return AdSizeType.PointSizedAd;
+                                }
+                                return AdSizeType.Inconclusive;
+                            }
+
+                            function evaluateElementDimension(element, isWidth, threshold)
+                            {
+                                var dimensionProperties = isWidth ? ["width", "offsetWidth", "scrollWidth"] : ["height", "offsetHeight", "scrollHeight"];
+                                var pixelStyle = isWidth ? "pixelWidth" : "pixelHeight";
+                                var dimensionStyle = isWidth ? "width" : "height";
+                                var totalProperties = 3;
+                                var maxDimension = 0, dimension = 0;
+
+                                for (var i = 0; i < totalProperties; i++)
+                                {
+                                    if ((dimension = element[dimensionProperties[i]]) > maxDimension)
+                                    {
+                                        maxDimension = dimension;
+                                        if (maxDimension > threshold)
+                                        {
+                                            break;
+                                        }
+                                    }
+                                }
+
+                                var elemStyle = element.style;
+                                if (maxDimension <= threshold && elemStyle)
+                                {
+                                    if ((dimension = elemStyle[pixelStyle]) > maxDimension)
+                                    {
+                                        maxDimension = dimension;
+                                        if (maxDimension <= threshold && (dimension = parseInt(elemStyle[dimensionStyle])) > maxDimension)
+                                        {
+                                            maxDimension = dimension;
+                                        }
+                                    }
+                                }
+
+                                return maxDimension;
+                            }
+
+                            function setAdContainerDisplayState(elemId, doShow, adSizeClassname)
+                            {
+                                var adHtmlContainer = ((document.getElementById(elemId) || {}).parentNode || {}).parentNode;
+                                if (!adHtmlContainer)
+                                {
+                                    return;
+                                }
+
+                                adHtmlContainer.style.display = doShow ? "" : "none";
+                                var className = adHtmlContainer.className;
+
+                                className = addOrRemoveClassname(className, postEvaluationClassname, doShow);
+                                className = addOrRemoveClassname(className, postEvaluationAdSmallClassname, adSizeClassname === postEvaluationAdSmallClassname);
+                                className = addOrRemoveClassname(className, postEvaluationAdMediumClassname, adSizeClassname === postEvaluationAdMediumClassname);
+                                className = addOrRemoveClassname(className, postEvaluationAdLargeClassname, adSizeClassname === postEvaluationAdLargeClassname);
+                                className = addOrRemoveClassname(className, postEvaluationNoAdClassname, adSizeClassname === postEvaluationNoAdClassname);
+
+                                adHtmlContainer.className = className;
+                            }
+
+                            function addOrRemoveClassname(classNameList, className, add)
+                            {
+                                var classIndex = classNameList.indexOf(className);
+                                if (add)
+                                {
+                                    if (classIndex === -1)
+                                    {
+                                        return classNameList + " " + className;
+                                    }
+                                }
+                                else if (classIndex >= 0)
+                                {
+                                    return classNameList.replace(className, "");
+                                }
+                                return classNameList;
+                            }
+
+                            window.dap = dapResult;
+                        })();
+                        //]]>
+
+                            dap("&amp;AP=1089&amp;PG=NEWUSEN34&amp;PVGUID=42524bdbd21d42119b0ec08619a90ecb&amp;PROVIDERID=B4PENDATI", 300, 600, "rectangle1_article_newsworld_container_38040eef-009b-47e6-8311-89ca7ba65604");
+                    </script>
+            </div>
+                    <a href="//go.microsoft.com/fwlink/?LinkID=286759" target="_blank" class="adchoices" data-piitxt="adchoices">
+                        <span>AdChoices</span>
+                    </a>
+        </div>
+    </div>
+    <div  class="ad"  id="rectangle2_article_newsworld_736dbf18-caf9-4bea-90e6-54c37743512b">
+        <div>
+            <div  id="rectangle2_article_newsworld_container_736dbf18-caf9-4bea-90e6-54c37743512b">
+                    <script type="text/javascript">
+                        //<![CDATA[
+                        (function define_dap()
+                        {
+                            if (window.dap)
+                            {
+                                return;
+                            }
+
+                            // all data needed to render the ads or refresh them
+                            var postEvaluationClassname = "non-empty-ad";
+                            var postEvaluationAdSmallClassname = "layout-small";
+                            var postEvaluationAdMediumClassname = "layout-medium";
+                            var postEvaluationAdLargeClassname = "layout-large";
+                            var postEvaluationNoAdClassname = "no-ad";
+
+                            var mediumAdHeight = 200;
+                            var largeAdHeight = 550;
+
+                            var numEvalPasses = 10;
+                            var contentCheckTimeout = 300;
+                            var discernibleAdHeightThreshold = 30;
+                            var discernibleAdWidthThreshold = 40;
+
+                            var AdSizeType =
+                            {
+                                NotAnAd: 0,                     // dimensions are both 0
+                                PointSizedAd: 1,                // dimensions are both under threshold
+                                NonPointSizedAd: 2,             // dimensions are both above threshold (full size)
+                                Inconclusive: 3                 // one dimension is 0, and the other is above threshold
+                            };
+
+                            function dapResult(params, width, height, htmlid)
+                            {
+                                var elem = document.getElementById(htmlid);
+                                if (!elem)
+                                {
+                                    return;
+                                }
+
+                                dapMgr.renderAd(htmlid, params, width, height);
+
+                                var renderData = {
+                                    params: params,
+                                    width: width,
+                                    height: height,
+                                    htmlid: htmlid,
+                                    adSizeType: AdSizeType.NotAnAd,
+                                    canDisplayAdChoices: false,
+                                    elem: elem
+                                };
+
+                                checkAndSetAdContainerVisibility(renderData);
+                            }
+
+                            function checkAndSetAdContainerVisibility(renderData)
+                            {
+                                var retries = numEvalPasses;
+
+                                checkAndSetAdContainerVisibilityRec();
+
+                                function checkAndSetAdContainerVisibilityRec(finalCheck)
+                                {
+                                    retries--;
+                                    var adId = renderData.htmlid;
+
+                                    checkVisibilityAndUpdateRenderDataContextForElement(renderData);
+
+                                    var isLastPass = (retries === 0);
+                                    var adSizeType = renderData.adSizeType;
+                                    var adDetected = adSizeType !== AdSizeType.Inconclusive;
+                                    var doShow = adSizeType === AdSizeType.NonPointSizedAd;
+                                    if (adDetected || isLastPass)
+                                    {
+                                        var adSizeClassname = postEvaluationNoAdClassname;
+                                        if (doShow)
+                                        {
+                                            if (renderData.height < mediumAdHeight)
+                                            {
+                                                adSizeClassname = postEvaluationAdSmallClassname;
+                                            }
+                                            else if (renderData.height < largeAdHeight)
+                                            {
+                                                adSizeClassname = postEvaluationAdMediumClassname;
+                                            }
+                                            else
+                                            {
+                                                adSizeClassname = postEvaluationAdLargeClassname;
+                                            }
+                                        }
+
+                                        setAdContainerDisplayState(adId, doShow, adSizeClassname);
+
+                                        // last final check for RM
+                                        if (!finalCheck)
+                                        {
+                                            setTimeout(
+                                                function finalCheckOnAdContainer()
+                                                {
+                                                    checkAndSetAdContainerVisibilityRec(true);
+                                                },
+                                                (numEvalPasses * contentCheckTimeout) >> 1);
+                                        }
+                                    }
+                                    else
+                                    {
+                                        // if we got here, we didn't find anything but script. Try again later.
+                                        setTimeout(checkAndSetAdContainerVisibilityRec, contentCheckTimeout);
+                                    }
+                                }
+                            }
+
+                            function checkVisibilityAndUpdateRenderDataContextForElement(renderData)
+                            {
+                                if (!renderData)
+                                {
+                                    return;
+                                }
+                                evaluateAdContent(renderData);
+                            }
+
+                            function evaluateAdContent(renderData)
+                            {
+                                var adContainer = renderData && renderData.elem;
+                                if (!adContainer)
+                                {
+                                    renderData.adSizeType = AdSizeType.Inconclusive;
+                                }
+
+                                var adIframeCollection = adContainer.getElementsByTagName("iframe");
+                                var evaluationResult;
+                                for (var adIframe, ndx = 0; (adIframe = adIframeCollection[ndx]); ++ndx)
+                                {
+                                    // skip script-only iFrame elements
+                                    var body = ((adIframe.contentDocument || (adIframe.contentWindow || {}).document) || {}).body;
+                                    if (!body || !body.hasChildNodes())
+                                    {
+                                        continue;
+                                    }
+
+                                    var childNode, hasChildDiv = false;
+                                    for (var index = body.childNodes.length - 1; (childNode = body.childNodes[index]); --index)
+                                    {
+                                        if (childNode.nodeType === 1
+                                            && childNode.nodeName !== "SCRIPT")
+                                        {
+                                            hasChildDiv = true;
+                                            renderData.adSizeType = evaluateElement(childNode, renderData);
+                                            if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                            {
+                                                return;
+                                            }
+                                        }
+
+                                        // Bug 1715559:[dl_ux][FF9.0] [Win7] - Advertisement is overlapping destination section
+                                        // For FF lower versions (FF9.0), index may be negative and hence cause js errors
+                                        // Add index value check to solve the problem
+                                        if (index <= 0)
+                                        {
+                                            break;
+                                        }
+                                    }
+
+                                    if (renderData.adSizeType !== AdSizeType.NonPointSizedAd && hasChildDiv)
+                                    {
+                                        renderData.adSizeType = evaluateElement(adIframe, renderData);
+                                    }
+
+                                    if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                    {
+                                        return;
+                                    }
+                                }
+
+                                // extract the characteristics of the div immediate children
+                                var adDivCollection = adContainer.getElementsByTagName("div");
+                                for (var adDiv, ndx = 0; (adDiv = adDivCollection[ndx]); ++ndx)
+                                {
+                                    renderData.adSizeType = evaluateElement(adDiv, renderData);
+
+                                    if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                    {
+                                        return;
+                                    }
+                                }
+                            }
+
+                            function evaluateElement(element, renderData)
+                            {
+                                var maxWidth = evaluateElementDimension(element, true, discernibleAdWidthThreshold);
+                                var maxHeight = evaluateElementDimension(element, false, discernibleAdHeightThreshold);
+
+                                renderData.width = maxWidth;
+                                renderData.height = maxHeight;
+
+                                if (maxWidth > discernibleAdWidthThreshold && maxHeight > discernibleAdHeightThreshold)
+                                {
+                                    return AdSizeType.NonPointSizedAd;
+                                }
+                                if (maxWidth > 0 && maxHeight > 0)
+                                {
+                                    return AdSizeType.PointSizedAd;
+                                }
+                                return AdSizeType.Inconclusive;
+                            }
+
+                            function evaluateElementDimension(element, isWidth, threshold)
+                            {
+                                var dimensionProperties = isWidth ? ["width", "offsetWidth", "scrollWidth"] : ["height", "offsetHeight", "scrollHeight"];
+                                var pixelStyle = isWidth ? "pixelWidth" : "pixelHeight";
+                                var dimensionStyle = isWidth ? "width" : "height";
+                                var totalProperties = 3;
+                                var maxDimension = 0, dimension = 0;
+
+                                for (var i = 0; i < totalProperties; i++)
+                                {
+                                    if ((dimension = element[dimensionProperties[i]]) > maxDimension)
+                                    {
+                                        maxDimension = dimension;
+                                        if (maxDimension > threshold)
+                                        {
+                                            break;
+                                        }
+                                    }
+                                }
+
+                                var elemStyle = element.style;
+                                if (maxDimension <= threshold && elemStyle)
+                                {
+                                    if ((dimension = elemStyle[pixelStyle]) > maxDimension)
+                                    {
+                                        maxDimension = dimension;
+                                        if (maxDimension <= threshold && (dimension = parseInt(elemStyle[dimensionStyle])) > maxDimension)
+                                        {
+                                            maxDimension = dimension;
+                                        }
+                                    }
+                                }
+
+                                return maxDimension;
+                            }
+
+                            function setAdContainerDisplayState(elemId, doShow, adSizeClassname)
+                            {
+                                var adHtmlContainer = ((document.getElementById(elemId) || {}).parentNode || {}).parentNode;
+                                if (!adHtmlContainer)
+                                {
+                                    return;
+                                }
+
+                                adHtmlContainer.style.display = doShow ? "" : "none";
+                                var className = adHtmlContainer.className;
+
+                                className = addOrRemoveClassname(className, postEvaluationClassname, doShow);
+                                className = addOrRemoveClassname(className, postEvaluationAdSmallClassname, adSizeClassname === postEvaluationAdSmallClassname);
+                                className = addOrRemoveClassname(className, postEvaluationAdMediumClassname, adSizeClassname === postEvaluationAdMediumClassname);
+                                className = addOrRemoveClassname(className, postEvaluationAdLargeClassname, adSizeClassname === postEvaluationAdLargeClassname);
+                                className = addOrRemoveClassname(className, postEvaluationNoAdClassname, adSizeClassname === postEvaluationNoAdClassname);
+
+                                adHtmlContainer.className = className;
+                            }
+
+                            function addOrRemoveClassname(classNameList, className, add)
+                            {
+                                var classIndex = classNameList.indexOf(className);
+                                if (add)
+                                {
+                                    if (classIndex === -1)
+                                    {
+                                        return classNameList + " " + className;
+                                    }
+                                }
+                                else if (classIndex >= 0)
+                                {
+                                    return classNameList.replace(className, "");
+                                }
+                                return classNameList;
+                            }
+
+                            window.dap = dapResult;
+                        })();
+                        //]]>
+
+                            dap("&amp;AP=1089&amp;PG=NEWUSEN32&amp;PVGUID=42524bdbd21d42119b0ec08619a90ecb&amp;PROVIDERID=B4PENDATI", 300, 250, "rectangle2_article_newsworld_container_736dbf18-caf9-4bea-90e6-54c37743512b");
+                    </script>
+            </div>
+                    <a href="//go.microsoft.com/fwlink/?LinkID=286759" target="_blank" class="adchoices" data-piitxt="adchoices">
+                        <span>AdChoices</span>
+                    </a>
+        </div>
+    </div>
+ <section class="morefromproviderrr"  data-aop="morefromprovidervnext_morefromprovidervnext" >
+ 
+<h3> <h2>
+ <span>More From Vox.com</span>
+ </h2>
+</h3>
+         <div class="logo"  data-aop="provider_upsell" >
+            <a target="_blank" href="http://vox.com?utm_source=MSNbanner/">
+               <img alt="Vox upsell" height="250" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB4I9Yd.img?h=250&amp;w=300&amp;m=1&amp;q=60&amp;b=white" title="Vox upsell" width="300" />
+            </a>
+        </div>
+
+<ul>
+ <li   >
+<a href="https://www.vox.com/2018/3/19/17139366/austin-texas-bombings"  target="_blank">
+ <img alt="Emergency vehicles stage near the site of another explosion, Tuesday, March 20, 2018, in Austin, Texas." height="66" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBKuyut.img?h=66&amp;w=88&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=2179&amp;y=1439" title="Emergency vehicles stage near the site of another explosion, Tuesday, March 20, 2018, in Austin, Tex... - AP Photo/Eric Gay" width="88" />
+<div class="headline-container">
+  <span class="truncate">A &#39;serial bomber&#39; is targeting Austin. Here&#39;s what we know</span>
+ <div class="regular-attribution-text attribution">
+ <img alt="Vox.com Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB2bztB.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="16" />
+ Vox.com
+</div>
+
+                        </div>
+                    </a>
+                </li>
+ <li   >
+<a href="https://www.vox.com/energy-and-environment/2018/3/20/17128478/solar-duck-curve-nrel-researcher"  target="_blank">
+ <img alt="" height="66" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBKtvHM.img?h=66&amp;w=88&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=2320&amp;y=1199" title="Ducks - Getty Images" width="88" />
+<div class="headline-container">
+  <span class="truncate">Why solar power&#39;s greatest challenge looks like a duck</span>
+ <div class="regular-attribution-text attribution">
+ <img alt="Vox.com Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB2bztB.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="16" />
+ Vox.com
+</div>
+
+                        </div>
+                    </a>
+                </li>
+ <li   >
+<a href="https://www.vox.com/policy-and-politics/2018/3/20/17130350/illinois-governor-primary-2018-rauner-pritzker"  target="_blank">
+ <img alt="Chicago Blackhawks Victory Parade And Rally" height="66" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBKtfzR.img?h=66&amp;w=88&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=585&amp;y=188" title="Chicago Blackhawks Victory Parade And Rally - Provided by Vox.com" width="88" />
+<div class="headline-container">
+  <span class="truncate">Illinois’s nasty gubernatorial primaries, explained</span>
+ <div class="regular-attribution-text attribution">
+ <img alt="Vox.com Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB2bztB.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="16" />
+ Vox.com
+</div>
+
+                        </div>
+                    </a>
+                </li>
+ </ul>
+         <div class="promotionalcontent">
+            <span class="promoimage">
+                <a target="_blank" href="http://vox.com?utm_source=MSNbanner/"  data-aop="provider_logo_secondary" >
+                   <img alt="Vox.com" height="100" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB2b3eM.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;u=t&amp;o=f&amp;l=f" width="100" />
+                </a>
+            </span>
+            <span class="promotext">
+                <div class="providername">
+                    Vox.com
+                </div>
+                <div class="readmore">
+                    <a target="_blank" href="http://vox.com?utm_source=MSNbanner/"  data-aop="provider_promotext" >
+                       View the full site
+                    </a>
+                </div>
+            </span>
+        </div>
+
+ 
+</section>
+
+ <div class="nextcontentitem">
+<h3> <h2>
+ <span>Microsoft Store Offers - Sponsored</span>
+ </h2>
+</h3>
+<ul>
+ <li >
+ 
+ <a href="https://clk.tradedoubler.com/click?p=261853&amp;a=2811279&amp;g=0&amp;epi=PRIME_ENUS_NEWS_RR_L1_SURFACEPRO_799&amp;url=https://www.microsoft.com/en-us/store/d/surface-pro/8nkt9wttrbjk/LHL3" target="_blank">
+<img alt="" height="72" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBKs9Ro.img?h=72&amp;w=96&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Surface Pro Spring 799 - Microsoft" width="96" /> <h4>Surface Pro with Intel i5 now from $799</h4>
+ </a>
+
+</li>
+ <li >
+ 
+ <a href="https://clk.tradedoubler.com/click?p=261853&amp;a=2811279&amp;g=0&amp;epi=PRIME_ENUS_NEWS_RR_L2_WINDOWS10_UPGRADE&amp;url=https://www.microsoft.com/en-us/store/b/windows" target="_blank">
+<img alt="" height="72" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BByTWr8.img?h=72&amp;w=96&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=192&amp;y=218" title="Windows Creators - Microsoft" width="96" /> <h4>Upgrade to Windows 10 today</h4>
+ </a>
+
+</li>
+ <li >
+ 
+ <a href="https://clk.tradedoubler.com/click?p=261853&amp;a=2811279&amp;g=0&amp;epi=PRIME_ENUS_NEWS_RR_L3_ASUS_314&amp;url=https://www.microsoft.com/en-us/store/d/asus-vivobook-flip-12-tp203na-uh01t-2-in-1-pc/8wl9hmc01ch6/9bc1" target="_blank">
+<img alt="" height="72" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBHo3Xh.img?h=72&amp;w=96&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=365&amp;y=519" title="ASUS VivoBook Flip 14 - Microsoft" width="96" /> <h4>ASUS VivoBook Flip, sale $314</h4>
+ </a>
+
+</li>
+ <li >
+ 
+ <a href="https://clk.tradedoubler.com/click?p=261853&amp;a=2811279&amp;g=0&amp;epi=PRIME_ENUS_NEWS_RR_L4_XBOXONEX_FREE_SEAOFTHIEVES&amp;url=https://www.xbox.com/en-US/xbox-one-x#buy" target="_blank">
+<img alt="" height="72" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBJU8hu.img?h=72&amp;w=96&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="SoT-X1X-Lockup_MSN-Tout_812x524 - Microsoft" width="96" /> <h4>Buy Xbox One X, get Sea of Thieves FREE</h4>
+ </a>
+
+</li>
+ </ul>
+</div>
+
+
+</div>
+<div id="nav">
+ <ul class="verticalsnav">
+ <li >
+<a href="/en-us">Home</a>
+</li>
+ <li  class="current">
+<a href="/en-us/news">News</a>
+</li>
+ <li >
+<a href="/en-us/weather">Weather</a>
+</li>
+ <li >
+<a href="/en-us/entertainment">Entertainment</a>
+</li>
+ <li >
+<a href="/en-us/sports">Sports</a>
+</li>
+ <li >
+<a href="/en-us/money">Money</a>
+</li>
+ <li >
+<a href="/en-us/lifestyle">Lifestyle</a>
+</li>
+ <li >
+<a href="/en-us/health">Health &amp; Fitness</a>
+</li>
+ <li >
+<a href="/en-us/foodanddrink">Food &amp; Drink</a>
+</li>
+ <li >
+<a href="/en-us/travel">Travel</a>
+</li>
+ <li >
+<a href="/en-us/autos">Autos</a>
+</li>
+ <li >
+<a href="/en-us/video">Video</a>
+</li>
+ </ul>
+</div>
+ </div>
+<div id="foot">
+<div> <a href="https://www.microsoft.com/en-us/">&#169; 2018 Microsoft</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=521839">Privacy</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=246338">Legal</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=286759">About our Ads</a>
+ <a href="https://jfe.qualtrics.com/form/SV_d4ir2X6Zkgjw0rb">Feedback</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=512703">Help</a>
+ <a href="/en-us/msn-worldwide">MSN Worldwide</a>
+ <a href="https://newsletters.msn.com/">Newsletter</a>
+</div>
+</div>
+  <div>
+ <img src="//c.msn.com/c.gif?udc=true&amp;rid=42524bdbd21d42119b0ec08619a90ecb&amp;rnd=636571996866641018&amp;rf=&amp;tp=https%253A%252F%252Fwww.msn.com%252Fen-us%252Fnews%252Fworld%252Fthe-last-48-hours-in-rising-us-north-korea-tensions-explained%252Far-BBKtXbe%253Fli%253DBBnbfcL&amp;di=17930&amp;lng=en-us&amp;cv.product=prime&amp;pn=article&amp;activityId=42524bdbd21d42119b0ec08619a90ecb&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;st.dpt=newsworld&amp;st.sdpt=&amp;subcvs=news&amp;pg.n=article" alt="image beacon" width="1" height="1" /><img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=3000001&amp;rn=636571996866641018&amp;c7=https%253A%252F%252Fwww.msn.com%252Fen-us%252Fnews%252Fworld%252Fthe-last-48-hours-in-rising-us-north-korea-tensions-explained%252Far-BBKtXbe%253Fli%253DBBnbfcL&amp;c8=&amp;c9=" alt="image beacon" width="1" height="1" /><img src="//otf.msn.com/c.gif?js=0&amp;evt=impr&amp;di=17930&amp;pi=&amp;ps=&amp;su=https%253A%252F%252Fwww.msn.com%252Fen-us%252Fnews%252Fworld%252Fthe-last-48-hours-in-rising-us-north-korea-tensions-explained%252Far-BBKtXbe%253Fli%253DBBnbfcL&amp;pageid=articlevnext&amp;mkt=en-us&amp;pn=article&amp;pp=False&amp;cv.product=prime&amp;cv.partner=Vox.com&amp;cv.publcat=Vox%2BMedia%252c%2BInc.&amp;st.dpt=newsworld&amp;st.sdpt=&amp;dv.Title1=&amp;cts=636571996866641018&amp;rf=&amp;rid=42524bdbd21d42119b0ec08619a90ecb&amp;cvs=Browser&amp;subcvs=news&amp;cv.entityId=BBKtXbe&amp;cv.entitySrc=ar&amp;provid=AA3k4WY&amp;ar=0&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;cv.parentId=BBnbfcL&amp;isCorePV=&amp;pgIdx=&amp;pgTot=&amp;activityId=42524bdbd21d42119b0ec08619a90ecb&amp;pm=&amp;pg.n=article&amp;pg.t=article&amp;pg.c=&amp;pg.p=prime" alt="image beacon" width="1" height="1" />
+</div>
+
+ 
+     <script>
+        require(["headData", "pageInstance", "mediator", "c.deferred"], function (headData, pageInstance, mediator)
+        {
+        var url = '//www.bizographics.com/collect/?fmt=gif&pid=7850';
+        if (headData && headData.clientSettings && headData.clientSettings.static_page)
+        {
+            mediator.pub(pageInstance.eventName);
+            var rid = pageInstance.getActivityId();
+            url = url.replace(/([?&]rid=)[^&#]*/i, "$1" + rid);
+            }
+        new Image().src = url.replace(/&amp;/g, '&');
+    });
+    </script>
+    <noscript>
+        <div>
+            <img data-src="//www.bizographics.com/collect/?fmt=gif&amp;pid=7850&amp;ts=noscript" width="1" height="1" alt="" />
+        </div>
+    </noscript>
+    <script>
+        require(["document", "c.deferred"], function (document)
+        {
+            var iframe = document.createElement("iframe");
+            var protocolWithColon = "True" === "True" ? document.location.protocol : protocol + ":";
+
+            iframe.src = protocolWithColon + "//" + "cdn.adaptv.advertising.com/msft/msftsync.html";
+            iframe.width = 0;
+            iframe.height = 0;
+            iframe.setAttribute("style", "display: block; border: 0");
+
+            document.body.appendChild(iframe);
+        });
+    </script>
+    <noscript>
+        <iframe src="cdn.adaptv.advertising.com/msft/msftsync.html" height="0" width="0" style="display: block; border: 0"></iframe>
+    </noscript>
+
+ 
+</body>
+ <!--MSNAvailToken--></html>

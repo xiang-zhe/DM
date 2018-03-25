@@ -1,0 +1,1653 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="en" class="ie ie6"> <![endif]-->
+<!--[if IE 7 ]> <html lang="en" class="ie ie7"> <![endif]-->
+<!--[if IE 8 ]> <html lang="en" class="ie ie8"> <![endif]-->
+<!--[if IE 9 ]> <html lang="en" class="ie ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="en"><!--<![endif]-->
+<head>
+<title>UNICEF rebukes Finland over treatment of asylum-seeking children | Yle Uutiset | yle.fi</title>
+<meta charset="utf-8" />
+<meta name="description" content="UNICEF says Finland has violated the rights of asylum seeker children by detaining them and deporting them to countries it says are unsafe." />
+<meta property="og:description" content="UNICEF says Finland has violated the rights of asylum seeker children by detaining them and deporting them to countries it says are unsafe." />
+<meta name="news_keywords" content="Osasto, News" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="UNICEF rebukes Finland over treatment of asylum-seeking children" />
+<meta property="og:site_name" content="Yle Uutiset" />
+<meta property="og:url" content="https://yle.fi/uutiset/osasto/news/unicef_rebukes_finland_over_treatment_of_asylum-seeking_children/10124411" />
+<meta property="og:image" content="https://img.yle.fi/uutiset/kotimaa/article8814546.ece/ALTERNATES/w940h529/15_4_8811620%20turvapaikka%20lapsi%2020150925%20TURVAPAIKANHAKIJAT%2010-00-00Sub.jpg" />
+<meta property="og:image:url" content="https://img.yle.fi/uutiset/kotimaa/article8814546.ece/ALTERNATES/w940h529/15_4_8811620%20turvapaikka%20lapsi%2020150925%20TURVAPAIKANHAKIJAT%2010-00-00Sub.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="og:image:height" content="529" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="fb:app_id" content="147925155254978" />
+<meta property="fb:pages" content="170559451901,252166562460,291117849202,192534820828660,246415834930,141733389996,185521831442,127820652625,225930055836,182155748236,136798886342079,333763622448,312937363491,190153419756,300238829691,250842384819,366734725407,227515436637,116686841709805,355899633222,300809901605,166619556742075,492609065374,124877274234053,230483103705424,200984393268390,1651249601794906,107308025957314,173241277806,345732187153,183860797738,69675651064,164345690280744,1148642531826361,643517599029267,531270113605417,165217470246480,1380652225559559,509209759245250,113980165302836,351173836210,479683965433928,192230846527,1654755908077820,765596730168740,196737677052513,106560389371863,1724601357566118,50687535468,171726874124" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site:id" content="23502747" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="apple-mobile-web-app-title" content="Yle Uutiset">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<link rel="stylesheet" href="https://static.cdn.yle.fi/10m/hf/v2/header/css/header.min.css" />
+<link rel="stylesheet" href="https://static.cdn.yle.fi/hf/v1/css/all.css" />
+<link rel="stylesheet" href="https://yle.fi/uutiset/skins/jGXxLmJf456/uutiset/css/styles.css?version=456" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,300,500,700,100,900,100italic,300italic,400italic,500italic,700italic,900italic&subset=latin,latin-ext" />
+<link rel="alternate" type="application/rss+xml" title="News" href="https://yle.fi/uutiset/rss/uutiset.rss?osasto=news" />
+<link rel="alternate" type="application/rss+xml" title=" News" href="https://yle.fi/uutiset/rss/luetuimmat.rss?osasto=news" />
+
+<link rel="publisher" href="https://plus.google.com/102894459181339261226/" />
+<link rel="shortcut icon" href="//yle.fi/favicon.ico" />
+<link rel="apple-touch-icon" href="https://yle.fi/uutiset/skins/jGXxLmJf456/uutiset/bg/yle-uutiset-57px.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://yle.fi/uutiset/skins/jGXxLmJf456/uutiset/bg/yle-uutiset-72px.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://yle.fi/uutiset/skins/jGXxLmJf456/uutiset/bg/yle-uutiset-114px.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://yle.fi/uutiset/skins/jGXxLmJf456/uutiset/bg/yle-uutiset-144px.png">
+<link rel="canonical" href="https://yle.fi/uutiset/osasto/news/unicef_rebukes_finland_over_treatment_of_asylum-seeking_children/10124411" />
+<script src="https://yle.fi/uutiset/resources/jGXxLmJf456/js/script.head.min.js?version=456"></script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script></head>
+<body class="article uutiset" data-articleid="10124411">
+<div class="skiplinks">
+<ul>
+<li><a href="#container">Skip content</a></li>
+</ul>
+</div>
+<header role="banner" class="yle__global-header yle__global-header--background" language="fi"><div class="yle__global-header__wrap yle__global-header--background yle__global-header__font--color"><div class="yle__global-header__actions"><div class="yle__global-header__tunnus"><span role="button" tabindex="0" class="yle__global-header__tunnus__toggle yle__global-header__toggle yle__global-header__tunnus__login yle__global-header__action"><span class="yle__global-header__tunnus__toggle__text yle__global-header__tunnus__toggle__text--login">Kirjaudu</span> <span class="yle__global-header__tunnus__toggle__text yle__global-header__tunnus__toggle__text--logged_in" data-hj-masked=""></span> <span class="yle__global-header__tunnus__toggle__icon yle__global-header__icon yle__global-header__icon-user"><span class="yle__global-header__tunnus__toggle__icon__notify">&nbsp;</span></span></span><div class="yle__global-header__tunnus__notifications"><nav aria-hidden="true" class="yle__global-header__tunnus__links yle__global-header--background yle__global-header__navigation--background yle__global-header__toggle__links yle__global-header__toggle__links--border"><ul><li><a role="link" href="https://tunnus.yle.fi/omat-tiedot" class="yle__global-header__tunnus__links__profile yle__global-header__font--color" data-hj-masked="">Omat tiedot<br><span class="yle__global-header__tunnus__links__email"></span></a></li><li><a role="link" href="#" class="yle__global-header__tunnus__links__logout yle__global-header__font--color">Kirjaudu ulos</a></li></ul></nav></div></div><div class="yle__global-header__search"><form role="search" id="header-searchicon-click" class="yle__global-header__search__form" action="//haku.yle.fi/search" method="get" accept-charset="UTF-8"><input type="hidden" name="language" value="fi"><input type="hidden" name="UILanguage" value="fi"><input type="text" title="search" class="yle__global-header__search__form__input yle__global-header__search__form__input--background yle__global-header__font--color" name="q" placeholder="Hae"><button role="button" type="submit" class="yle__global-header__font--color yle__global-header__search__form__submit yle__global-header__search__form__input--background yle__global-header__action" title="Hae"><span class="yle__global-header__icon yle__global-header__icon-search"></span></button></form></div><div class="yle__global-header__navigation"><span role="button" tabindex="0" class="yle__global-header__navigation__toggle yle__global-header__toggle yle__global-header__action"><span class="yle__global-header__navigation__toggle__text">Valikko</span> <span class="yle__global-header__navigation__toggle__icon yle__global-header__icon yle__global-header__icon-menu"></span></span><nav aria-hidden="true" class="yle__global-header__navigation__links yle__global-header--background yle__global-header__navigation--background yle__global-header__toggle__links yle__global-header__toggle__links--border yle__global-header__font--color"><ul id="header-menuitem-click-yle"><li><a role="link" class="yle__global-header__nav__link yle__global-header__font--color" href="https://yle.fi/">Etusivu</a></li><li><a role="link" class="yle__global-header__nav__link yle__global-header__font--color" href="https://areena.yle.fi/tv">Areena</a></li><li><a role="link" class="yle__global-header__nav__link yle__global-header__font--color" href="https://yle.fi/uutiset/">Uutiset</a></li><li><a role="link" class="yle__global-header__nav__link yle__global-header__font--color" href="https://yle.fi/saa">S&auml;&auml;</a></li><li><a role="link" class="yle__global-header__nav__link yle__global-header__font--color" href="https://yle.fi/urheilu/">Urheilu</a></li><li><a role="link" class="yle__global-header__nav__link yle__global-header__font--color" href="https://yle.fi/aihe/tekstitv">Teksti-tv</a></li><li><a role="link" class="yle__global-header__nav__link yle__global-header__font--color" href="https://yle.fi/aihe/lapset">Lapset</a></li><li><a role="link" class="yle__global-header__nav__link yle__global-header__font--color" href="https://svenska.yle.fi">Svenska Yle</a></li></ul></nav></div></div><div class="yle__global-header__logo"><a tabindex="0" role="link" id="header-logo-click" class="yle__global-header__logo__link yle__global-header__logo__link--image" href=""></a></div></div></header>
+<header id="header">
+<div class="wrap">
+<nav id="navigaatio_uutiset">
+<ul>
+<li class="with-subnav current">
+<a href="https://yle.fi/uutiset/">Uutiset</a>
+<ul>
+<li>
+<span>
+Aiheet
+</span>
+<ul>
+<li>
+<a href="https://yle.fi/uutiset/kotimaa/">Kotimaa</a>
+</li>
+<li>
+<a href="https://yle.fi/uutiset/ulkomaat/">Ulkomaat</a>
+</li>
+<li>
+<a href="https://yle.fi/uutiset/politiikka/">Politiikka</a>
+</li>
+<li>
+<a href="https://yle.fi/uutiset/talous/">Talous</a>
+</li>
+<li>
+<a href="https://yle.fi/uutiset/kulttuuri/">Kulttuuri</a>
+</li>
+<li>
+<a href="https://yle.fi/uutiset/viihde/">Viihde</a>
+</li>
+<li>
+<a href="https://yle.fi/uutiset/tiede/">Tiede</a>
+</li>
+<li>
+<a href="https://yle.fi/uutiset/ilmasto/">Ilmasto</a>
+</li>
+<li>
+<a href="https://yle.fi/uutiset/luonto/">Luonto</a>
+</li>
+<li>
+<a href="https://yle.fi/uutiset/terveys/">Terveys</a>
+</li>
+<li>
+<a href="https://yle.fi/uutiset/tekniikka/">Tekniikka</a>
+</li>
+<li>
+<a href="https://yle.fi/uutiset/liikenne/">Liikenne</a>
+</li>
+<li>
+<a href="https://yle.fi/uutiset/osasto/uutisluokka/">Yle Uutisluokka</a>
+</li>
+</ul>
+<li>
+<span>
+Lisää
+</span>
+<ul>
+<li>
+<a href="https://yle.fi/uutiset/a2_ilta/">A-teema</a>
+</li>
+<li>
+<a href="https://yle.fi/uutiset/aamu-tv/">Aamu-tv</a>
+</li>
+<li>
+<a href="https://yle.fi/uutiset/ajankohtainen_kakkonen/">Ajankohtainen kakkonen</a>
+</li>
+<li>
+<a href="https://yle.fi/uutiset/a-studio/">A-studio</a>
+</li>
+<li>
+<a href="https://yle.fi/uutiset/perjantai/">Perjantai</a>
+</li>
+<li>
+<a href="https://yle.fi/uutiset/media/">Pressiklubi</a>
+</li>
+<li>
+<a href="https://yle.fi/uutiset/viittomakieliset_uutiset/">Yle Uutiset viittomakielellä</a>
+</li>
+<li>
+<a href="https://yle.fi/uutiset/osasto/selkouutiset/">Yle Uutiset selkosuomeksi</a>
+</li>
+<li>
+<a href="https://yle.fi/uutiset/osasto/news/">News in English</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/novosti/">Novosti Yle</a>
+</li>
+<li>
+<a href="http://svenska.yle.fi/">Svenska Yle</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/sapmi/">Yle Sápmi</a>
+</li>
+<li>
+<a href="https://yle.fi/uutiset/joensuu/karjalakse/">Yle Uudizet karjalakse</a>
+</li>
+<li>
+<a href="http://yle.fi/tekstitv">Teksti-tv</a>
+</li>
+<li>
+<a href="https://yle.fi/uutiset/rss-syotteet/6075085">RSS-syötteet</a>
+</li>
+</ul>
+</ul>
+</li>
+<li class="with-subnav">
+<a href="https://yle.fi/urheilu/">Urheilu</a>
+<ul>
+<li>
+<span>
+Lajit ja sarjat
+</span>
+<ul>
+<li>
+<a href="https://yle.fi/urheilu/moottoriurheilu/f1/">Formula 1</a>
+</li>
+<li>
+<a href="https://yle.fi/urheilu/jalkapallo/">Jalkapallo</a>
+</li>
+<li>
+<a href="https://yle.fi/urheilu/jalkapallo/mestarien_liiga/">Mestarien liiga</a>
+</li>
+<li>
+<a href="https://yle.fi/urheilu/jalkapallo/valioliiga/">Valioliiga</a>
+</li>
+<li>
+<a href="https://yle.fi/urheilu/jalkapallo/veikkausliiga/">Veikkausliiga</a>
+</li>
+<li>
+<a href="https://yle.fi/urheilu/jaakiekko/">Jääkiekko</a>
+</li>
+<li>
+<a href="https://yle.fi/urheilu/jaakiekko/nhl/">NHL</a>
+</li>
+<li>
+<a href="https://yle.fi/urheilu/jaakiekko/sm-liiga/">SM-liiga</a>
+</li>
+<li>
+<a href="https://yle.fi/urheilu/yleisurheilu/">Yleisurheilu</a>
+</li>
+</ul>
+<li>
+<span>
+Tapahtumat
+</span>
+<ul>
+<li>
+<a href="https://yle.fi/urheilu/jalkapallon_copa_america">Copa America 2016</a>
+</li>
+<li>
+<a href="https://yle.fi/urheilu/jalkapallon_em">Jalkapallon EM 2016</a>
+</li>
+<li>
+<a href="https://yle.fi/urheilu/yleisurheilun_em">Yleisurheilun EM 2016</a>
+</li>
+<li>
+<a href="https://yle.fi/urheilu/rio_2016">Rio 2016</a>
+</li>
+<li>
+<a href="https://yle.fi/urheilu/jaakiekon_mm">Jääkiekon MM 2016</a>
+</li>
+</ul>
+<li>
+<span>
+Lisää
+</span>
+<ul>
+<li>
+<a href="https://yle.fi/urheilu/suorat/">Suorat lähetykset</a>
+</li>
+<li>
+<a href="https://yle.fi/tekstitv/html/P201_01.html">Teksti-tv</a>
+</li>
+<li>
+<a href="https://yle.fi/urheilu/tulospalvelu/">Tulospalvelu</a>
+</li>
+<li>
+<a href="https://yle.fi/urheilu/tarinatjailmiot/">Tarinat ja ilmiöt</a>
+</li>
+<li>
+<a href="https://yle.fi/urheilu/liikunta/">Liikunta</a>
+</li>
+</ul>
+</ul>
+</li>
+<li class="with-subnav">
+<a href="https://yle.fi/saa/">Sää</a>
+<ul>
+<li>
+<span>
+Haetuimmat A-K
+</span>
+<ul>
+<li>
+<a href="https://yle.fi/saa/suomi/espoo/">Espoo</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/hamina/">Hamina</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/helsinki/">Helsinki</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/heinola/">Heinola</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/hyvinkää/">Hyvinkää</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/hämeenlinna/">Hämeenlinna</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/iisalmi/">Iisalmi</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/imatra/">Imatra</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/joensuu/">Joensuu</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/jyväskylä/">Jyväskylä</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/jämsä/">Jämsä</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/järvenpää/">Järvenpää</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/kajaani/">Kajaani</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/kangasala/">Kangasala</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/kemi/">Kemi</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/kerava/">Kerava</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/kirkkonummi/">Kirkkonummi</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/kokkola/">Kokkola</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/kotka/">Kotka</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/kouvola/">Kouvola</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/kuopio/">Kuopio</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/kuusamo/">Kuusamo</a>
+</li>
+</ul>
+<li>
+<span>
+Haetuimmat L-Ö
+</span>
+<ul>
+<li>
+<a href="https://yle.fi/saa/suomi/lahti/">Lahti</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/lappeenranta/">Lappeenranta</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/lohja/">Lohja</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/mikkeli/">Mikkeli</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/naantali/">Naantali</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/nokia/">Nokia</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/oulu/">Oulu</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/pori/">Pori</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/porvoo/">Porvoo</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/raahe/">Raahe</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/rauma/">Rauma</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/riihimäki/">Riihimäki</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/rovaniemi/">Rovaniemi</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/salo/">Salo</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/savonlinna/">Savonlinna</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/seinäjoki/">Seinäjoki</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/tampere/">Tampere</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/tornio/">Tornio</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/turku/">Turku</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/vaasa/">Vaasa</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/vantaa/">Vantaa</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/suomi/varkaus/">Varkaus</a>
+</li>
+</ul>
+<li>
+<span>
+Haetuimmat ulkomailta
+</span>
+<ul>
+<li>
+<a href="https://yle.fi/saa/turkki/alanya/">Alanya</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/alankomaat/amsterdam/">Amsterdam</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/espanja/barcelona/">Barcelona</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/saksa/berliini/">Berliini</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/unkari/budapest/">Budapest</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/espanja/fuengirola/">Fuengirola</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/tanska/kööpenhamina/">Kööpenhamina</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/espanja/las+palmas/">Las Palmas</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/britannia/lontoo/">Lontoo</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/espanja/malaga/">Málaga</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/espanja/palma+de+mallorca/">Mallorca</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/yhdysvallat/new+york/">New York</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/ranska/nizza/">Nizza</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/ranska/pariisi/">Pariisi</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/viro/pärnu/">Pärnu</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/venäjä/pietari/">Pietari</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/tshekki/praha/">Praha</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/espanja/puerto+de+la+cruz/">Puerto de la Cruz</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/kreikka/rodos/">Ródos</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/italia/rooma/">Rooma</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/viro/tallinna/">Tallinna</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/espanja/teneriffa/">Teneriffa</a>
+</li>
+<li>
+<a href="https://yle.fi/saa/ruotsi/tukholma/">Tukholma</a>
+</li>
+</ul>
+</ul>
+</li>
+<li >
+<a href="https://yle.fi/uutiset/tuoreimmat/">Tuoreimmat</a>
+</li>
+</ul>
+<div class="font-size"></div>
+</nav>
+
+</div>
+</header>
+<div id="container">
+<nav class="breadcrumb">
+<ul>
+<li class="basic-icon" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="https://yle.fi/uutiset/" itemprop="url">
+<span itemprop="title">Uutiset</span>
+</a>
+</li>
+<li class="current basic-icon" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="https://yle.fi/uutiset/osasto/news/" itemprop="url">
+<span itemprop="title">News</span>
+</a>
+</li>
+</ul>
+</nav>
+
+<div id="vasen_palsta">
+<article class="content " itemscope itemtype="http://schema.org/Article"
+>
+<header>
+<div class="hgroup">
+<span class="meta">
+<a href="https://yle.fi/uutiset/osasto/news/">News</a>
+<time datetime="2018-03-20T11:54:32+02:00">20.3.2018 11:54</time>
+<span class="separator">|</span> <time datetime="2018-03-20T13:18:01+02:00">updated 20.3.2018 13:18</time>
+</span>
+<h1 itemprop="name">UNICEF rebukes Finland over treatment of asylum-seeking children</h1>
+<h2>UNICEF says Finland has violated the rights of asylum seeker children by detaining them and deporting them to countries it says are unsafe.</h2>
+<ul class="some default " >
+<li class="facebook ">
+<div id="fb-root"></div>
+<div class="fb-like"
+data-action="recommend"
+data-href="https://yle.fi/uutiset/10124411"
+data-send="false"
+data-layout="standard"
+data-show-faces="false"
+data-font="arial"
+>
+</div>
+</li>
+</ul>
+</div>
+</header>
+<div class="text">
+<figure
+class="full"
+itemtype="http://schema.org/Photograph" itemprop="image" itemscope
+>
+<a href="https://img.yle.fi/uutiset/kotimaa/article8814546.ece/ALTERNATES/w960/15_4_8811620%20turvapaikka%20lapsi%2020150925%20TURVAPAIKANHAKIJAT%2010-00-00Sub.jpg" title=""
+class="openoverlay" >
+<img alt="Lapsi istuu yksin pöydässä."
+src="https://img.yle.fi/uutiset/kotimaa/article8814546.ece/ALTERNATES/w580/15_4_8811620%20turvapaikka%20lapsi%2020150925%20TURVAPAIKANHAKIJAT%2010-00-00Sub.jpg"
+data-imagesource="Image: Yle"
+itemprop="image"
+/>
+</a>
+<figcaption>
+<span class="caption" itemprop="description"></span>
+<span class="source" itemprop="copyrightHolder">
+Image: Yle
+</span>
+</figcaption>
+</figure>
+<p>According to a report published by the UN’s children’s organisation UNICEF on Monday, Finland treats underage asylum seekers first and foremost as asylum seekers, not children, and <a href="https://yle.fi/uutiset/osasto/news/asylum_seeker_killed_in_iraq_weeks_after_repatriation_from_finland/10071096" target="_blank">deports them to countries that are unsafe</a>. As a result, children have lost the rights that belong to them under the UN’s Convention on the Rights of the Child.</p><p>The report “Protected on Paper?” says that Finland gives migration law precedence over the Convention on the Rights of the Child and fails to determine children's best interests during the asylum process. </p><p>&quot;Children’s best interests should be taken into account every time a decision affects them, even if they have arrived in Finland with their parents,&quot; says Mirella Huttunen from UNICEF’s Finland National Committee. </p><p>Such due process does not always take place, and consequently underage asylum seekers are deported to countries with a questionable security situation, the report says. </p><p>Moreover, the Finnish Immigration Service (Migri) issues unaccompanied asylum seeker children temporary permits that only allow them to stay in the country until they can be sent home at the age of 18. </p><h3>&quot;If this was a Finnish child, no authority in Finland would allow it”</h3><p>UNICEF is particularly concerned about Finland’s policy of detaining asylum seeker children in prison-like institutions. </p><p>According to many studies, detention is extremely harmful for a child’s development, Huttunen says. “If this was a Finnish child, no authority in Finland would allow it,” she says. </p><p>The report recommends that Finland swiftly change its laws and practices concerning the detention of asylum seeker children. Clear criteria as to how a child’s best interest is determined during the asylum process are urgently needed, UNICEF says. </p><p>In addition, the organisation criticizes Finland for new regulations that make it difficult for asylum-seeking children to receive free legal aid. Previously, asylum seekers could receive free legal counsel from independent refugee lawyers, but since 2016 Finland no longer pays for such services. This means that the only free counsel available is provided by the public legal aid services, which do not necessarily have the expertise to deal with asylum seeker cases, UNICEF adds. <br /></p><p>Finally, the report proposes that the responsibility for underage asylum seekers who arrive in the country alone should be transferred from Migri to child protection authorities. </p><p>The report analysed Finland and the other Nordic countries in terms of how they treat underage asylum seekers. UNICEF found problems in all five countries. </p>
+</div>
+<footer>
+<dl class="source">
+<dt>Sources</dt>
+<dd>Yle, UNICEF</dd>
+</dl>
+<section class="more-on-this-topic wRelatedContent vArticles">
+<h1>Read also</h1>
+<div>
+<article>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/non-discrimination_ombudsman_doubles_down_on_repatriation_monitoring/10121718" >
+Non-Discrimination Ombudsman doubles down on repatriation monitoring
+</a>
+</h1>
+<span class="meta">
+<time datetime="2018-03-17T16:30:24+02:00">
+17.3.
+</time>
+</span>
+</article>
+<article>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/study_municipalities_neglect_victims_of_human_trafficking/10121043" >
+Study: Municipalities neglect victims of human trafficking
+</a>
+</h1>
+<span class="meta">
+<time datetime="2018-03-19T10:45:12+02:00">
+19.3.
+</time>
+</span>
+</article>
+<article>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/finnish_politicians_wary_of_eu_asylum_seeker_distribution_plan/10120029" >
+Finnish politicians wary of EU asylum seeker distribution plan
+</a>
+</h1>
+<span class="meta">
+<time datetime="2018-03-16T12:39:54+02:00">
+16.3.
+</time>
+</span>
+</article>
+<article>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/fridays_papers_asylum_seeker_victory_election_bonanza_and_the_plight_of_the_homeless/10098377" >
+Friday&#039;s papers: Asylum seeker victory, election bonanza and the plight of the homeless
+</a>
+</h1>
+<span class="meta">
+<time datetime="2018-03-02T09:00:30+02:00">
+2.3.
+</time>
+</span>
+</article>
+<article>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/finland_scolded_by_amnesty_international_in_annual_report_-_asylum_domestic_violence_policies_questioned/10087057" >
+Finland scolded by Amnesty International in annual report - asylum, domestic violence policies questioned
+</a>
+</h1>
+<span class="meta">
+<time datetime="2018-02-22T11:54:21+02:00">
+22.2.
+</time>
+</span>
+</article>
+<article>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/unhcr_criticises_finland_over_repatriations/10072533" >
+UNHCR criticises Finland over repatriations
+</a>
+</h1>
+<span class="meta">
+<time datetime="2018-02-13T11:28:01+02:00">
+13.2.
+</time>
+</span>
+</article>
+<article>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/asylum_seeker_killed_in_iraq_weeks_after_repatriation_from_finland/10071096" >
+Asylum seeker killed in Iraq weeks after repatriation from Finland
+</a>
+</h1>
+<span class="meta">
+<time datetime="2018-02-12T13:52:24+02:00">
+12.2.
+</time>
+</span>
+</article>
+<article>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/french_court_questions_finnish_asylum_policy/10067871" >
+French court questions Finnish asylum policy
+</a>
+</h1>
+<span class="meta">
+<time datetime="2018-02-09T13:11:52+02:00">
+9.2.
+</time>
+</span>
+</article>
+<article>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/despite_higher_subsidies_fewer_asylum_seekers_return_home_voluntarily/10032933" >
+Despite higher subsidies, fewer asylum seekers return home voluntarily
+</a>
+</h1>
+<span class="meta">
+<time datetime="2018-01-20T12:44:38+02:00">
+20.1.
+</time>
+</span>
+</article>
+</div>
+</section>
+<ul class="some default " >
+<li class="facebook with-share-button">
+<a target="_blank" class="lite" href="https://www.facebook.com/sharer/sharer.php?u=https://yle.fi/uutiset/10124411">
+<span class="some-icon">
+Share
+</span>
+</a>
+<div id="fb-root"></div>
+<div class="fb-like"
+data-action="recommend"
+data-href="https://yle.fi/uutiset/10124411"
+data-send="false"
+data-layout="button_count"
+data-show-faces="false"
+data-font="arial"
+data-share="true">
+</div>
+</li>
+<li class="google">
+<a class="lite some-icon" href="https://plus.google.com/share?url=https://yle.fi/uutiset/10124411" target="_blank">G+</a>
+<div class="g-plusone" data-size="medium" data-href="https://yle.fi/uutiset/10124411"></div>
+</li>
+<li class="twitter">
+<a class="lite" href="https://twitter.com/intent/tweet?original_referer=https://yle.fi/uutiset/10124411&amp;url=https://yle.fi/uutiset/10124411&amp;text=UNICEF+rebukes+Finland+over+treatment+of+asylum-seeking+children+%7C+Yle+Uutiset+%7C+yle.fi" target="_blank">
+<span class="some-icon">
+Tweet
+</span>
+</a>
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-counturl="https://yle.fi/uutiset/osasto/news/unicef_rebukes_finland_over_treatment_of_asylum-seeking_children/10124411" data-url="https://yle.fi/uutiset/10124411"></a>
+</li>
+<li class="whatsapp">
+<a href="whatsapp://send" data-text="UNICEF rebukes Finland over treatment of asylum-seeking children | Yle Uutiset | yle.fi" data-href="https://yle.fi/uutiset/10124411" class="wa_btn wa_btn_s lite" style="display:none">
+Share
+</a>
+</li>
+</ul>
+</footer>
+</article>
+<section class="recents-on-this-topic">
+<h1>
+Latest in:
+<a href="https://yle.fi/uutiset/osasto/news/">News</a>
+</h1>
+<article>
+<time datetime="2018-03-20T18:31:00+02:00">20.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/secretive_north_korean_talks_underway_in_vantaa/10124895" >
+Secretive North Korean talks underway in Vantaa
+</a>
+</h1>
+</article>
+<article>
+<time datetime="2018-03-20T18:05:32+02:00">20.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/finnish_woman_among_missing_in_plot_to_spring_uae_princess/10125266" >
+Finnish woman among missing in plot to spring UAE princess
+</a>
+</h1>
+</article>
+<article>
+<time datetime="2018-03-20T17:40:00+02:00">20.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/poll_clear_majority_of_youth_object_to_phasing_out_university_entrance_exams/10124852" >
+Poll: Clear majority of youth object to phasing out university entrance exams
+</a>
+</h1>
+</article>
+<article>
+<time datetime="2018-03-20T16:40:00+02:00">20.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/study_finland_has_lowest_percentage_of_working_poor_in_eu/10123136" >
+Study: Finland has lowest percentage of working poor in EU
+</a>
+</h1>
+</article>
+<article>
+<time datetime="2018-03-20T16:04:11+02:00">20.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/shipping_strike_put_off_energy_and_electric_walkouts_possible/10124921" >
+Shipping strike put off, energy and electric walkouts possible
+</a>
+</h1>
+</article>
+<article>
+<time datetime="2018-03-20T14:59:09+02:00">20.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/prosecutor_seeks_life_sentence_for_turku_stabber_who_received_an_order_from_heaven/10124738" >
+Prosecutor seeks life sentence for Turku stabber who &#034;received an order from heaven&#034;
+</a>
+</h1>
+</article>
+<article>
+<time datetime="2018-03-20T14:01:00+02:00">20.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/espoo_green-lights_second_phase_of_western_metro_extension/10124616" >
+Espoo green-lights second phase of western metro extension
+</a>
+</h1>
+</article>
+<article>
+<time datetime="2018-03-20T13:02:09+02:00">20.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/arrival_of_spring_equinox_promises_longer_days_than_nights/10124422" >
+Arrival of spring equinox promises longer days than nights
+</a>
+</h1>
+</article>
+<article>
+<time datetime="2018-03-20T11:54:32+02:00">20.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/unicef_rebukes_finland_over_treatment_of_asylum-seeking_children/10124411" >
+UNICEF rebukes Finland over treatment of asylum-seeking children
+</a>
+</h1>
+</article>
+<article>
+<time datetime="2018-03-20T11:30:59+02:00">20.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/three_schools_near_tampere_evacuated_after_bomb_threat/10124362" >
+Three schools near Tampere evacuated after bomb threat
+</a>
+</h1>
+</article>
+</section>
+
+</div>
+<!--googleoff: index-->
+<div class="mini-frontpage">
+<section class="liftup-headlines wStories vMainNewsList">
+<h1>
+Headlines
+</h1>
+<article class="with-image">
+<span class="meta">
+<a href="https://yle.fi/uutiset/osasto/news/">News</a>
+<time datetime="2018-03-20T18:31:00+02:00">
+20.3.
+</time>
+</span>
+<a href="https://yle.fi/uutiset/osasto/news/secretive_north_korean_talks_underway_in_vantaa/10124895" >
+<h1>
+Secretive North Korean talks underway in Vantaa
+</h1>
+<figure class="max-320">
+<img src="https://img.yle.fi/uutiset/kotimaa/article10124548.ece/ALTERNATES/w320h180/K%C3%B6nigstedt%20K%C3%B6nigstedtin%20kartano%20IMG_5073.jpg" alt="Königstedtin kartano maaliskuussa 2018." />
+</figure>
+<p>
+Finnish foreign minister Timo Soini says that North Korean and US diplomats are not talking denuclearisation at their meetings in Helsinki.
+</p>
+</a>
+</article>
+<article >
+<span class="meta">
+<a href="https://yle.fi/uutiset/osasto/news/">News</a>
+<time datetime="2018-03-20T18:05:32+02:00">
+20.3.
+</time>
+</span>
+<a href="https://yle.fi/uutiset/osasto/news/finnish_woman_among_missing_in_plot_to_spring_uae_princess/10125266" >
+<h1>
+Finnish woman among missing in plot to spring UAE princess
+</h1>
+<p>
+An investigation is underway into the disappearance of a Finnish national believed to be wrapped up in the case of missing UAE princess and a former French spy.
+</p>
+</a>
+</article>
+<article >
+<span class="meta">
+<a href="https://yle.fi/uutiset/osasto/news/">News</a>
+<time datetime="2018-03-20T17:40:00+02:00">
+20.3.
+</time>
+</span>
+<a href="https://yle.fi/uutiset/osasto/news/poll_clear_majority_of_youth_object_to_phasing_out_university_entrance_exams/10124852" >
+<h1>
+Poll: Clear majority of youth object to phasing out university entrance exams
+</h1>
+<p>
+A survey suggests that 73 percent of young people are opposed to a pending reform that would make matriculation exam results the primary deciding factor for tertiary education admissions.
+</p>
+</a>
+</article>
+<article >
+<span class="meta">
+<a href="https://yle.fi/uutiset/osasto/news/">News</a>
+<time datetime="2018-03-20T16:40:00+02:00">
+20.3.
+</time>
+</span>
+<a href="https://yle.fi/uutiset/osasto/news/study_finland_has_lowest_percentage_of_working_poor_in_eu/10123136" >
+<h1>
+Study: Finland has lowest percentage of working poor in EU
+</h1>
+<p>
+Eurostat finds that Finland has the lowest incidence of in-work poverty in the European Union. The 2016 proportion of employed persons at risk of poverty in the EU was just short of 10 percent.
+</p>
+</a>
+</article>
+<article >
+<span class="meta">
+<a href="https://yle.fi/uutiset/osasto/news/">News</a>
+<time datetime="2018-03-20T16:04:11+02:00">
+20.3.
+</time>
+</span>
+<a href="https://yle.fi/uutiset/osasto/news/shipping_strike_put_off_energy_and_electric_walkouts_possible/10124921" >
+<h1>
+Shipping strike put off, energy and electric walkouts possible
+</h1>
+<p>
+State labour mediator Minna Helle is working simultaneously to resolve contract disputes that could affect everything from passenger ferries to home heating.
+</p>
+</a>
+</article>
+</section>
+
+<section class="liftup-recommends wStories vFeaturedList">
+<h1>
+Our picks
+</h1>
+<article>
+<span class="meta">
+<a href="https://yle.fi/uutiset/osasto/news/">News</a>
+<time datetime="2018-03-16T15:17:08+02:00">
+16.3.
+</time>
+</span>
+<a href="https://yle.fi/uutiset/osasto/news/all_points_north_podcast_6_ali_jahangiri_the_world_happiness_report_paranormal_forces_and_a_lot_of_coffee/10118034" class="autoplay " >
+<figure class="max-120">
+<span class="media">
+<img src="https://img.yle.fi/uutiset/osasto/news/article10068647.ece/ALTERNATES/w120h68/All-Points-North-episode-pic.png" alt="Audio: All Points North Podcast" />
+<span class="play"></span>
+<figcaption>
+<span class="basic-icon">
+Audio
+</span>
+</figcaption>
+</span>
+</figure>
+<h1>
+All Points North Podcast #6: Ali Jahangiri, the World Happiness Report, paranormal forces, and a lot of coffee
+</h1>
+</a>
+</article>
+<article>
+<span class="meta">
+<a href="https://yle.fi/uutiset/osasto/news/">News</a>
+<time datetime="2018-03-16T20:21:00+02:00">
+16.3.
+</time>
+</span>
+<a href="https://yle.fi/uutiset/osasto/news/self-deprecating_finnish_memes_a_big_online_hit/10120020" class="autoplay " >
+<figure class="max-120">
+<span class="media">
+<img src="https://images.cdn.yle.fi/image/upload/w_120,h_68,c_fill/13-1-4389928.jpg" alt="Video: Yle News: Self-deprecating Finnish memes a big online hit" />
+<span class="play"></span>
+<figcaption>
+<span class="basic-icon">
+Video
+</span>
+</figcaption>
+</span>
+</figure>
+<h1>
+Self-deprecating Finnish memes a big online hit
+</h1>
+</a>
+</article>
+<article>
+<span class="meta">
+<a href="https://yle.fi/uutiset/osasto/news/">News</a>
+<time datetime="2018-03-15T16:19:39+02:00">
+15.3.
+</time>
+</span>
+<a href="https://yle.fi/uutiset/osasto/news/finnish_women_break_better/10117988" >
+<figure class="max-120">
+<img src="https://img.yle.fi/uutiset/osasto/news/article10118079.ece/ALTERNATES/w120h68/RamonaPanula1.JPG" alt="Breakdancer Ramona Panula" />
+</figure>
+<h1>
+Finnish women break better
+</h1>
+</a>
+</article>
+<article>
+<span class="meta">
+<a href="https://yle.fi/uutiset/osasto/news/">News</a>
+<time datetime="2018-03-15T12:32:21+02:00">
+15.3.
+</time>
+</span>
+<a href="https://yle.fi/uutiset/osasto/news/the_2018_edition_of_finlands_baby_box_is_fuller_than_ever/10117830" class="autoplay " >
+<figure class="max-120">
+<span class="media">
+<img src="https://images.cdn.yle.fi/image/upload/w_120,h_68,c_fill/13-1-4388989.jpg" alt="Video: Yle News: The 2018 edition of Finland&#039;s baby box is fuller than ever" />
+<span class="play"></span>
+<figcaption>
+<span class="basic-icon">
+Video
+</span>
+</figcaption>
+</span>
+</figure>
+<h1>
+The 2018 edition of Finland&#039;s baby box is fuller than ever
+</h1>
+</a>
+</article>
+<article>
+<span class="meta">
+<a href="https://yle.fi/uutiset/osasto/news/">News</a>
+<time datetime="2018-03-14T13:24:35+02:00">
+14.3.
+</time>
+</span>
+<a href="https://yle.fi/uutiset/osasto/news/watch_snow-powered_rugby_in_central_finland/10116239" class="autoplay " >
+<figure class="max-120">
+<span class="media">
+<img src="https://images.cdn.yle.fi/image/upload/w_120,h_68,c_fill/13-1-4385112.jpg" alt="Video: Yle News: Snow-powered rugby in Central Finland" />
+<span class="play"></span>
+<figcaption>
+<span class="basic-icon">
+Video
+</span>
+</figcaption>
+</span>
+</figure>
+<h1>
+Watch: Snow-powered rugby in Central Finland
+</h1>
+</a>
+</article>
+<article>
+<span class="meta">
+<a href="https://yle.fi/uutiset/osasto/news/">News</a>
+<time datetime="2018-03-09T15:32:16+02:00">
+9.3.
+</time>
+</span>
+<a href="https://yle.fi/uutiset/osasto/news/all_points_north_podcast_5_daycare_pay_cartel_battling_loneliness_in_search_of_public_saunas/10108990" class="autoplay " >
+<figure class="max-120">
+<span class="media">
+<img src="https://img.yle.fi/uutiset/osasto/news/article10068647.ece/ALTERNATES/w120h68/All-Points-North-episode-pic.png" alt="Audio: All Points North Podcast" />
+<span class="play"></span>
+<figcaption>
+<span class="basic-icon">
+Audio
+</span>
+</figcaption>
+</span>
+</figure>
+<h1>
+All Points North Podcast #5: Daycare pay cartel, battling loneliness, in search of public saunas
+</h1>
+</a>
+</article>
+</section>
+
+</div>
+<div id="oikea_palsta" class="permanent">
+<section class="liftup-list" data-vr-zone="Tuoreimmat">
+<h1>
+Latest
+</h1>
+<article data-vr-contentbox="">
+<time datetime="2018-03-20T18:31:00+02:00">20.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/secretive_north_korean_talks_underway_in_vantaa/10124895" >
+Secretive North Korean talks underway in Vantaa
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-20T18:05:32+02:00">20.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/finnish_woman_among_missing_in_plot_to_spring_uae_princess/10125266" >
+Finnish woman among missing in plot to spring UAE princess
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-20T17:40:00+02:00">20.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/poll_clear_majority_of_youth_object_to_phasing_out_university_entrance_exams/10124852" >
+Poll: Clear majority of youth object to phasing out university entrance exams
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-20T16:40:00+02:00">20.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/study_finland_has_lowest_percentage_of_working_poor_in_eu/10123136" >
+Study: Finland has lowest percentage of working poor in EU
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-20T16:04:11+02:00">20.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/shipping_strike_put_off_energy_and_electric_walkouts_possible/10124921" >
+Shipping strike put off, energy and electric walkouts possible
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-20T14:59:09+02:00">20.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/prosecutor_seeks_life_sentence_for_turku_stabber_who_received_an_order_from_heaven/10124738" >
+Prosecutor seeks life sentence for Turku stabber who &#034;received an order from heaven&#034;
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-20T14:01:00+02:00">20.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/espoo_green-lights_second_phase_of_western_metro_extension/10124616" >
+Espoo green-lights second phase of western metro extension
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-20T13:02:09+02:00">20.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/arrival_of_spring_equinox_promises_longer_days_than_nights/10124422" >
+Arrival of spring equinox promises longer days than nights
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-20T11:54:32+02:00">20.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/unicef_rebukes_finland_over_treatment_of_asylum-seeking_children/10124411" >
+UNICEF rebukes Finland over treatment of asylum-seeking children
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-20T11:30:59+02:00">20.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/three_schools_near_tampere_evacuated_after_bomb_threat/10124362" >
+Three schools near Tampere evacuated after bomb threat
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-20T09:20:04+02:00">20.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/tuesdays_papers_fire_in_tampere_turku_stabbing_court_case_begins_plans_to_curb_cars_in_helsinki_and_an_escaped_con/10124149" >
+Tuesday&#039;s papers: Fire in Tampere, Turku stabbing court case begins, plans to curb cars in Helsinki, and an escaped con
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-19T18:28:00+02:00">19.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/fsa_homebuyers_must_put_down_bigger_deposits/10123764" >
+FSA: Homebuyers must put down bigger deposits
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-19T18:01:41+02:00">19.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/finnish_research_project_probes_stigma_of_the_paranormal/10118552" >
+Finnish research project probes stigma of the paranormal
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-19T16:31:41+02:00">19.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/in_the_wake_of_finlands_civil_war_severed_heads_and_piles_of_childrens_bodies/10123426" >
+In the wake of Finland&#039;s civil war: Severed heads and piles of children&#039;s bodies
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-19T14:27:29+02:00">19.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/transport_ministry_proposes_400_e-bike_subsidy/10123058" >
+Transport Ministry proposes €400 e-bike subsidy
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-19T13:09:35+02:00">19.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/citizens_initiative_to_abolish_inheritance_tax_proceeds_to_parliament/10122893" >
+Citizens&#039; initiative to abolish inheritance tax proceeds to Parliament
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-19T12:03:07+02:00">19.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/finnish_film_director_accused_of_subjugating_humiliating_actors/10122808" >
+Finnish film director accused of subjugating, humiliating actors
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-19T10:45:12+02:00">19.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/study_municipalities_neglect_victims_of_human_trafficking/10121043" >
+Study: Municipalities neglect victims of human trafficking
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-19T09:16:20+02:00">19.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/mondays_papers_putins_victory_nokias_future_finnish_profs_mull_british_exodus_and_busy_roads/10122581" >
+Monday&#039;s papers: Putin&#039;s victory, Nokia&#039;s future, Finnish profs mull British exodus, and busy roads
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-18T16:32:03+02:00">18.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/thousands_of_doctors_join_hands_in_pro-vaccine_campaign/10122172" >
+Thousands of doctors join hands in pro-vaccine campaign
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-18T13:26:48+02:00">18.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/vessel_saves_stranded_boy__coast_guard_gives_ice_tips/10122067" >
+Vessel saves stranded boy – Coast Guard gives ice tips
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-18T11:24:05+02:00">18.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/foreign_ministry_confirms_north_korean_delegation_to_meet_in_helsinki/10122032" >
+Foreign Ministry confirms: North Korean delegation to meet in Helsinki
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-17T16:30:24+02:00">17.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/non-discrimination_ombudsman_doubles_down_on_repatriation_monitoring/10121718" >
+Non-Discrimination Ombudsman doubles down on repatriation monitoring
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-17T14:21:02+02:00">17.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/ex-pm_aho_two_possible_scenarios_of_russian_involvement_in_salisbury_poisoning/10121612" >
+Ex-PM Aho: Two possible scenarios of Russian involvement in Salisbury poisoning
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-17T12:33:02+02:00">17.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/nearly_140_proposals_for_koivisto_monument/10121596" >
+Nearly 140 proposals for Koivisto monument
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-17T11:28:41+02:00">17.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/interior_ministry_police_should_be_allowed_to_shoot_down_drones/10121589" >
+Interior Ministry: Police should be allowed to shoot down drones
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-16T20:21:00+02:00">16.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/self-deprecating_finnish_memes_a_big_online_hit/10120020" class="autoplay " >
+Self-deprecating Finnish memes a big online hit
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-16T17:22:25+02:00">16.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/students_increasingly_reject_swedish_language_close_to_50_drop_in_exams_over_last_decade/10120452" >
+Students increasingly reject Swedish language, close to 50% drop in exams over last decade
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-16T15:17:08+02:00">16.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/all_points_north_podcast_6_ali_jahangiri_the_world_happiness_report_paranormal_forces_and_a_lot_of_coffee/10118034" class="autoplay " >
+All Points North Podcast #6: Ali Jahangiri, the World Happiness Report, paranormal forces, and a lot of coffee
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-16T15:02:57+02:00">16.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/report_a_quarter_of_housing_benefit_recipients_live_in_helsinki_region/10120270" >
+Report: A quarter of housing benefit recipients live in Helsinki region
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-16T13:58:02+02:00">16.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/finland_backs_redistribution_of_uks_eu_seats/10120102" >
+Finland backs redistribution of UK&#039;s EU seats
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-16T12:39:54+02:00">16.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/finnish_politicians_wary_of_eu_asylum_seeker_distribution_plan/10120029" >
+Finnish politicians wary of EU asylum seeker distribution plan
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-16T09:26:31+02:00">16.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/fridays_papers_capital_region_v_sote_battle_of_tampere_centenary_and_pets_in_shops/10119515" >
+Friday&#039;s papers: Capital region v Sote, Battle of Tampere centenary, and pets in shops
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-15T18:31:26+02:00">15.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/its_official_nordea_bank_moves_hq_to_helsinki/10118987" >
+It&#039;s official: Nordea Bank moves HQ to Helsinki
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-15T18:00:37+02:00">15.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/chinese_visits_to_finland_surge_by_63/10118925" >
+Chinese visits to Finland surge by 63%
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-15T17:29:04+02:00">15.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/woman_charged_in_double_arson_murder/10118485" >
+Woman charged in double arson murder
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-15T16:19:39+02:00">15.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/finnish_women_break_better/10117988" >
+Finnish women break better
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-15T14:38:05+02:00">15.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/record_results_for_state_railway_group/10118212" >
+Record results for state railway group
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-15T13:33:46+02:00">15.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/finnish_industry_lobby_plastic_bottles_are_safe/10118001" >
+Finnish industry lobby: Plastic bottles are safe
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-15T13:10:34+02:00">15.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/russia_tops_helsinkis_diplomatic_parking_fine_charts/10117949" >
+Russia tops Helsinki&#039;s diplomatic parking fine charts
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-15T12:32:21+02:00">15.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/the_2018_edition_of_finlands_baby_box_is_fuller_than_ever/10117830" class="autoplay " >
+The 2018 edition of Finland&#039;s baby box is fuller than ever
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-15T09:24:56+02:00">15.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/thursdays_papers_mps_parachute_pensions_food_bank_changes_and_house_prices_in_helsinki/10117492" >
+Thursday&#039;s papers: MPs&#039; parachute pensions, food bank changes and house prices in Helsinki
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-14T19:22:00+02:00">14.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/teachers_union_wants_to_extend_compulsory_education/10117094" >
+Teachers&#039; union wants to extend compulsory education
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-14T17:23:38+02:00">14.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/finlands_president_niinisto_condemns_uk_nerve_agent_attack/10116945" >
+Finland&#039;s President Niinistö condemns UK nerve agent attack
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-14T16:55:30+02:00">14.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/tusk_tells_trump_make_trade_not_war/10116953" >
+Tusk tells Trump: Make trade, not war
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-14T15:45:49+02:00">14.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/police_bust_record_number_of_drug-drivers/10116370" >
+Police bust record number of drug-drivers
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-14T13:24:35+02:00">14.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/watch_snow-powered_rugby_in_central_finland/10116239" class="autoplay " >
+Watch: Snow-powered rugby in Central Finland
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-14T12:22:13+02:00">14.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/dissertation_beware_the_dangers_of_shoveling_snow/10116050" >
+Dissertation: Beware the dangers of shoveling snow
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-14T10:42:01+02:00">14.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/finland_tops_2018_un_global_happiness_index/10115928" >
+Finland tops 2018 UN global happiness index
+</a>
+</h1>
+</article>
+<article data-vr-contentbox="">
+<time datetime="2018-03-14T09:06:09+02:00">14.3.</time>
+<h1>
+<a href="https://yle.fi/uutiset/osasto/news/wednesdays_papers_tillerson_dismissal_neutrality_of_courts_lost_arms_deal_unisex_barracks/10115726" >
+Wednesday&#039;s papers: Tillerson dismissal, neutrality of courts, lost arms deal, unisex barracks
+</a>
+</h1>
+</article>
+</section>
+
+</div>
+<!--googleon: index-->
+</div>
+<footer id="footer">
+<div class="wrap">
+<div class="menuItems">
+<h1>
+<a href="https://yle.fi/uutiset/">
+<img alt="Yle Uutiset" src="https://yle.fi/uutiset/skins/jGXxLmJf456/uutiset/bg/yle-uutiset.png" />
+</a>
+</h1>
+<ul>
+<li>
+<a href="https://palaute.yle.fi" >
+Lähetä palautetta
+</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/yhteystiedot" >
+Yhteystiedot
+</a>
+</li>
+<li>
+<a href="http://yle.fi/uutiset/rss" >
+RSS-syötteet
+</a>
+</li>
+</ul>
+</div>
+<div class="labels">
+<div class="easyLabel"></div>
+<a class="accessibility" href="https://yle.fi/aihe/artikkeli/2015/12/17/tuotamme-esteettomia-palveluja">
+Esteettömyys huomioitu
+</a>
+<a class="responsibility" href="http://vastuullistajournalismia.fi" target="_blank">
+Vastuullista journalismia
+</a>
+</div>
+<div class="clear"></div>
+</div>
+
+</footer>
+<script>
+window.yleGlobalHeaderSettings = {
+isTest: false,
+pubName: 'Yle Uutiset',
+pubUrl: 'https://yle.fi/uutiset/',
+loginAppId: 'uutiset-frontend-prod',
+loginAppKey: '208618449683f3f147cc6311f06d6bbe',
+trackingAccount: 'yleinen',
+trackingAppName: 'Yle Uutiset'
+};
+window.yleLocalizationSettings = {
+url: '/uutiset/resources/ajax/localization?version=456'
+};
+</script>
+<script src="https://player.yle.fi/assets/js/embed.js"></script>
+<script src="https://yle.fi/uutiset/resources/jGXxLmJf456/js/script.tail.min.js?version=456"></script>
+<script src="https://static.cdn.yle.fi/10m/hf/v2/header/js/header.min.js"></script>
+<script src="https://analytics-sdk.yle.fi/yle-analytics.min.js"></script>
+<script src="https://cdn.tunnus.yle.fi/sdk/3.7.3/yle-tunnus-sdk.js"></script>
+<script src="https://ninchat.com/js/ninchatclient.js"></script>
+<div id="ylefifooter">
+
+  <div class="ylefifooter-wrapper">
+
+    <h6>Muualla Yle.fi:ssä</h6>
+
+    <div class="ylefifooter-column">
+      <ul>
+        <li><a href="https://yle.fi/uutiset/">Uutiset</a></li>
+        <li><a href="https://yle.fi/urheilu/">Urheilu</a></li>
+        <li><a href="https://yle.fi/aihe/tekstitv">Teksti-tv</a></li>
+        <li><a href="https://yle.fi/uutiset/news">News in English</a></li>
+      </ul>
+      <ul>
+        <li><a href="https://yle.fi/aihe/blogit">Blogit</a></li>
+      </ul>
+    </div>
+
+    <div class="ylefifooter-column">
+      <ul>
+        <li><a href="https://areena.yle.fi/tv">Areena</a></li>
+        <li><a href="https://yle.fi/elavaarkisto/">Elävä arkisto</a></li>
+      </ul>
+      <ul>
+        <li><a href="https://yle.fi/pikkukakkonen/">Pikku Kakkonen</a></li>
+      </ul>
+      <ul>
+        <li><a href="https://oppiminen.yle.fi/abitreenit">Abitreenit</a></li>
+        <li><a href="https://oppiminen.yle.fi">Oppiminen</a></li>
+        <li><a href="https://svenska.yle.fi/vetamix">Vetamix</a></li>
+      </ul>
+      <ul>
+        <li><a href="https://yle.fi/aihe/musiikki/">yle.fi/musiikki</a></li>
+      </ul>
+    </div>
+
+    <div class="ylefifooter-column">
+      <ul>
+        <li><a href="https://areena.yle.fi/tv/opas">TV-ohjelmatiedot</a></li>
+        <li><a href="https://yle.fi/aihe/yle-tv1/">Yle TV1</a></li>
+        <li><a href="https://yle.fi/aihe/yle-tv2/">Yle TV2</a></li>
+        <li><a href="https://yle.fi/aihe/yle-teema/">Yle Teema</a></li>
+        <li><a href="https://svenska.yle.fi/yle-fem">Yle Fem</a></li>
+        <li><a href="https://yle.fi/yleisradio/faq/tv-finland">TV Finland</a></li>
+      </ul>
+    </div>
+
+    <div class="ylefifooter-column">
+      <ul>
+        <li><a href="https://areena.yle.fi/radio/opas">Radio-ohjelmatiedot</a></li>
+        <li><a href="https://yle.fi/radio/radiosuomi/">Yle Radio Suomi</a></li>
+        <li><a href="https://yle.fi/radio/yleradio1/">Yle Radio 1</a></li>
+        <li><a href="https://yle.fi/radio/radiosuomi/">Maakuntaradiot</a></li>
+        <li><a href="https://yle.fi/aihe/artikkeli/2015/05/20/yle-mondo-monikielinen-radiokanava">Yle Mondo</a></li>
+        <li><a href="https://yle.fi/radio/ylepuhe/">Yle Puhe</a></li>
+        <li><a href="https://yle.fi/uutiset/novosti/">Yle Novosti po-russki</a></li>
+        <li><a href="https://yle.fi/sapmi/">Yle Sámi Radio</a></li>
+        <li><a href="https://yle.fi/radio/yleklassinen/suora/">Yle Klassinen</a></li>
+        <li><a href="https://svenska.yle.fi/radio-vega">Yle Vega</a></li>
+        <li><a href="https://yle.fi/ylex/">YleX</a></li>
+        <li><a href="https://yle.fi/extrem/">Yle X3M</a></li>
+      </ul>
+    </div>
+
+    <div class="ylefifooter-column">
+      <ul>
+        <li><a href="https://yle.fi/yleisradio/yle-myynti/">Yle Myynti</a></li>
+        <li><a href="https://yle.fi/aihe/artikkeli/2015/02/19/arkistoaineistoa-ammattikayttoon">Ylen Arkistomyynti</a></li>
+        <li><a href="https://yle.fi/vintti/">Arkistoidut sivut</a></li>
+      </ul>
+    </div>
+
+    <div class="ylefifooter-column yleui-mobile">
+      <ul>
+        <li><a href="https://svenska.yle.fi">Svenska Yle</a></li>
+      </ul>
+    </div>
+
+  </div>
+
+  <div class="ylefifooter-wrapper yleui-mobile">
+
+    <div class="ylefifooter-links yleui-mobile">
+      <a href="https://yle.fi" title="Yle.fi etusivu"><svg aria-labelledby="ylefifooter-logo--title" id="ylefifooter-logo" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 204.1 204.2"><title id="ylefifooter-logo--title">Yle logo</title><style type="text/css">div.ylefifooter-links svg {float: left; border: none; height: 28px; width: 28px}div.ylefifooter-links svg .yle__logo--st0{fill:#02B5C8;} div.ylefifooter-links svg .yle__logo--st1{fill:#FFF;}</style><path class="yle__logo--st0" d="M204.1 9.5v185.2c0 5.1-4.4 9.5-9.2 9.5H9.6c-5.2 0-9.6-4.4-9.6-9.5V9.5C0 4.2 4.4 0 9.6 0H195c4.8 0 9.1 4.2 9.1 9.5"/><path class="yle__logo--st1" d="M83.6 77.5c0-2.5-1.6-4.1-4.2-4.1h-3.3c-2.9 0-4.1 1.4-5.1 5.7l-9.3 40.4h-2.1c-3.1 0-4.5-.8-5.6-5.2l-9.3-35.2-.1-.4c-.7-2.7-1.4-5.2-4.6-5.2h-3.5c-2.8 0-4.3 1.5-4.3 4.1 0 1.6.4 4 1.4 7.6l9.9 35.2c1.8 6.6 5.4 9.5 12.1 9.5h4c-.4 2.2-1.3 6.8-1.9 8.5-1.8 5.6-4.6 6.8-9.5 6.8-4 0-6.6-.3-8.5-.5-1.1-.1-2.1-.2-2.9-.2-2.3 0-3.6 1.4-3.6 3.8v2.3c0 2.7 1.4 3.5 2.7 4.1 2.4 1.1 5.3 1.6 14.2 1.6s15.5-4.8 17.7-12.8c3.9-14.5 14.4-58.7 14.5-59.1.1 0 1.3-4.7 1.3-6.9m26.3-24.8c0-4.6-.5-9-6.1-9h-8.3c-1.5 0-5.5 0-5.5 4v3.7c0 1.5.8 4.1 5.9 4.1h2v69.3c0 3.7.8 5.7 4.7 5.7h2.7c3.8 0 4.5-2.3 4.5-5.7V52.7h.1zm62.7 45.7c0-11.3-2.6-26.6-23.5-26.6-17.5 0-25.3 9.5-25.3 30.9 0 20.8 7.3 28.6 26.8 28.6 8.7 0 14.5-1.2 16.7-2.2 1.4-.6 2.8-1.4 2.8-4.1v-2.1c0-2.4-1.3-3.8-3.6-3.8-.8 0-1.6.2-2.6.4-2 .4-5 1-10.9 1-14.7 0-16.5-2.6-16.9-14.7h27.7c6.7-.1 8.8-3 8.8-7.4zm-11-2.5h-25.3c.4-10.4 4.3-14.9 13-14.9 8.6.1 12.1 5.1 12.3 14.9"/></svg></a>
+      <ul>
+        <li class="first-item"><a href="https://yle.fi/yleisradio/">Yle yhtiönä</a></li>
+        <li><a href="https://yle.fi/yleisradio/toimintaperiaatteet/yksityisyyden-suoja">Tietosuojalauseke</a></li>
+        <li><a href="https://palaute.yle.fi">Palaute</a></li>
+        <li><a href="https://yle.rekrytointi.com/paikat/index.php?o=A_LOJ&list=1">Avoimet työpaikat</a></li>
+        <li><a href="https://yle.fi/yleisradio/organisaatio/vastaavat-toimittajat">Vastaavat toimittajat</a></li>
+        <li><a href="https://yle.fi/aihe/yleisradio/yhteystiedot">Yhteystiedot</a></li>
+      </ul>
+    </div>
+
+  </div>
+
+</div>
+
+<script type="text/javascript" src="//static.cdn.yle.fi/hf/v1/js/all.js"></script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T3LL7L"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T3LL7L');</script>
+<!-- End Google Tag Manager -->
+<!-- Begin Yle Analytics SDK -->
+<!-- Begin Digital Analytix -->
+<script>
+yleAnalytics.accounts.addAccounts([
+{
+type: 'comscore',
+id: 'uutiset'
+}
+]);
+</script>
+<!-- End Digital Analytix -->
+<!-- Begin Adobe Analytics SDK -->
+<script>
+yleAnalytics.accounts.addAccounts([
+{
+type: 'adobe',
+id: 'uutiset'
+}
+]);
+</script>
+<!-- End Adobe Analytics SDK -->
+<script>
+yleAnalytics.labels.addLabels({"yle_pubtime":"11-54","yle_pubweek":"2018-12","yle_language":"en","yle_organization":"unknown","yle_contenttype":"article","yle_pub":"2018-03-20","yle_update":"2018-03-20","yle_pagetype":"newscontent-news","yle_dayssincepublish":"1","yle_mediatype":"image","yle_articleid":"10124411","yle_id":"3-10124411","yle_stickytitle":"unicef_rebukes_finland_over_treatment_of_asylum-seeking_children","yle_uptime":"13-18","yle_topic":"news"});
+yleAnalytics.pageName = 'osasto.news.unicef_rebukes_finland_over_treatment_of_asylum-seeking_children.sivu';
+</script>
+<!-- Begin Google Analytics SDK -->
+<script>
+yleAnalytics.accounts.addAccounts([
+{
+type: 'googleanalytics',
+id: 'UA-6023262-11',
+version: 'ga'
+}
+]);
+</script>
+<!-- End Google Analytics SDK -->
+<!-- Begin TNS Metrix -->
+<script>
+yleAnalytics.accounts.addAccounts([
+{
+type: 'tnsmetrix',
+id: 'yle'
+}
+]);
+</script>
+<!-- End TNS Metrix -->
+<!-- Begin Chartbeat -->
+<script>
+yleAnalytics.accounts.addAccounts([
+{
+type: 'chartbeat',
+id: 'yle.fi'
+}
+]);
+</script>
+<!-- End Chartbeat -->
+<script>
+yleAnalytics.trackPage();
+</script>
+<!-- End Yle Analytics SDK -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"errorBeacon":"bam.nr-data.net","licenseKey":"dbbc4ddda2","agent":"","beacon":"bam.nr-data.net","applicationTime":80,"applicationID":"46740634,8851291","transactionName":"bgFXZUMFXUdXWxdcXVdLf2JhS0dRW0gPVEZcS1ZeXAlcWhhSEEU=","queueTime":0}</script></body>
+</html>

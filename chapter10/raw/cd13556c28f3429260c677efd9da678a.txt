@@ -1,0 +1,770 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=9" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gilead study resurrects HIV eradication hope - PMLiVE</title> 
+<meta name="msvalidate.01" content="33041237D3C0C0E7F076B236AAD20F1B" />     
+<meta name="PMH_logourl" content="" />
+<meta name="PMH_categories" content="1225758,351326," />
+
+
+<meta name="FB_searchresultname" content="Gilead study resurrects HIV eradication hope" />
+<meta name="FB_searchresultformat" content="News Article" />
+<meta name="FB_searchresult_headlineurl" content="http://www.pmlive.com/__data/assets/image/0003/417423/varieties/headline.jpg" />
+<meta name="FB_searchresult_listingurl" content="http://www.pmlive.com/__data/assets/image/0003/417423/varieties/listing.jpg" />
+
+
+<!-- Article Dates //-->
+
+<!-- Dates //-->
+<meta name="14days" content="2018-03-19 11:19:25" />
+<meta name="1month" content="2018-04-04 11:19:26" />
+
+<!-- Author Information //-->
+
+<!-- Single Page Addons //-->
+<meta name="Photo Caption" content="" />
+<meta name="Article Quote" content="" />
+<meta name="Author Name" content="Phil Taylor" />
+<meta name="Author Picture ID" content="" />
+<meta name="Author Blurb" content="" />
+
+<!-- Dublin Core Articles //-->
+
+<!-- Dublin_Core //-->
+<meta name="DC.title" content="Gilead study resurrects HIV eradication hope" />
+<meta name="DC.creator" content="" />
+<meta name="DC.subject" content="" />
+<meta name="DC.description" content="&lt;p&gt;Intends to start human trials of its improved bNAb candidate&lt;/p&gt;" />
+<meta name="DC.publisher" content="PMGroup Worldwide Limited" />
+<meta name="DC.contributor" content="" />
+<meta name="DC.date" content="2018-03-05 11:34:55" />
+<meta name="DC.type" content="text" />
+<meta name="DC.format" content="News Article" />
+<meta name="DC.identifier" content="1225759" />
+<meta name="DC.source" content="" />
+<meta name="DC.language" content="en" />
+<meta name="DC.relation" content="" />
+<meta name="DC.coverage" content="World" />
+<meta name="DC.rights" content="All content copyright © PMGroup Worldwide Limited." />
+
+<!-- Listing Page Website URL //-->
+
+<!-- URL Where Listing Page should point to //-->
+<meta name="Website URL" content="" />
+<meta name="Description" content="" />
+<meta name="Listing Name" content="Gilead study resurrects HIV eradication hope" />
+
+<!-- Related news stories //-->
+
+<!-- Related News Story //-->
+<meta name="1st Related News Story Title" content="" />
+<meta name="1st Related News Story URL" content="" />
+<meta name="2nd Related News Story Title" content="" />
+<meta name="2nd Related News Story URL" content="" />
+<meta name="3rd Related News Story Title" content="" />
+<meta name="3rd Related News Story URL" content="" />
+
+<!-- TAGS //-->
+
+<!-- SECTIONS //-->
+<meta name="primary_section" content="Research" />
+<meta name="sections" content="Research; PME" />
+
+<!-- RELATED CONTENT //-->
+<meta name="theme" content="clinical" />
+<meta name="tags" content="Gilead Sciences; HIV; bNAb" />
+
+
+<link rel="alternate" type="application/rss+xml" title="PMLiVE: Site Feed" href="http://www.pmlive.com/rss/sitewide" />
+<link rel="alternate" type="application/rss+xml" title="PMLiVE: Jobs" href="http://jobs.pmlive.com/jobboard/xmlfeeds/jobfeed.asp?type=RSS" /> 
+<link rel="alternate" type="application/rss+xml" title="PMLive: News and Features" href="http://www.pmlive.com/rss/news" />
+<link rel="alternate" type="application/rss+xml" title="PMLiVE: Appointments" href="http://www.pmlive.com/rss/appointments" />
+<link rel="alternate" type="application/rss+xml" title="PMLiVE: Blogs" href="http://www.pmlive.com/rss/blogs" />
+<link rel="alternate" type="application/rss+xml" title="PMLiVE: Digital Intelligence Blog" href="http://www.pmlive.com/rss/digital_intelligence" />
+<link rel="alternate" type="application/rss+xml" title="PMLiVE: Smart Thinking Blog" href="http://www.pmlive.com/rss/smart_thinking" />
+<link rel="alternate" type="application/rss+xml" title="PMLiVE: EuroVision Blog" href="http://www.pmlive.com/rss/eurovision_blog" />
+<link rel="alternate" type="application/rss+xml" title="PMLiVE: AdLib Blog" href="http://www.pmlive.com/rss/adlib_blog" />
+<link rel="alternate" type="application/rss+xml" title="PMLiVE: The Editors Blog" href="http://www.pmlive.com/rss/the-editors" />
+
+
+
+
+<!-- redirect if FULL VERSION -->
+<script type="text/javascript">
+var page_url = document.location.href;
+page_url = page_url.split("?")[0];
+
+function querySt(ji) {
+  hu = window.location.search.substring(1);
+  gy = hu.split("&");
+  for (i=0;i<gy.length;i++) {
+    ft = gy[i].split("=");
+    if (ft[0] == ji) {
+      return ft[1];
+    }
+  }
+}
+
+if(querySt("full") == "true"){
+  window.location   = page_url + "?SQ_ACTION=clear_design_name&full=true";
+}
+</script>
+
+<!-- MOBILE CSS -->
+<link rel="stylesheet" type="text/css" href="http://www.pmlive.com/__data/assets/css_file/0009/495963/fullmobilecss.css" />
+<!-- END MOBILE CSS -->
+<link rel="stylesheet" href="http://www.pmlive.com/__data/assets/css_file/0007/1197529/print.css" type="text/css" media="print" />
+
+<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.15/themes/base/jquery-ui.css" type="text/css" media="all" /> 
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script> 
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.15/jquery-ui.min.js" type="text/javascript"></script>
+<!-- JQuery Cookie Master -->
+<script src="http://www.pmlive.com/__data/assets/js_file/0007/478501/jquery.cookie.js" type="text/javascript"></script>
+<!-- MOBILE NAV TOGGLE -->
+<script src="http://www.pmlive.com/__data/assets/js_file/0004/495985/MOBILE_TOGGLE_NAV.js" type="text/javascript"></script>
+<!-- BBQ MOBILE LINKS -->
+<script src="http://www.pmlive.com/__data/assets/js_file/0006/478941/jquery.ba-bbq.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+jQuery(document).ready(function ($) {
+$("[href*='http://www.pmlive.com']").add(":submit").add(":button").querystring({ SQ_DESIGN_NAME:2 });
+});
+</script>
+<!-- BBQ MOBILE LINKS END -->
+<!-- SHOW HIDE -->
+<script src="http://www.pmlive.com/__data/assets/js_file/0007/423439/showHide.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(document).ready(function(){$('.show_hide').showHide({speed:200,easing:'',changeText:0,showText:'View',hideText:'Close'})});
+</script><script>window.jQuery || document.write("<script src='assets/js/libs/jquery-1.7.1.min.js'>\x3C/script>")</script>
+<script src="http://www.pmlive.com/__data/assets/js_file/0011/451559/jquery.cookiecuttr.js"></script> <!-- jquery cookie cuttr -->
+<link rel="stylesheet" href="http://www.pmlive.com/__data/assets/css_file/0003/451560/cookiecuttr.css"> <!-- Cookie css -->
+<script>
+
+$(document).ready(function () { 
+
+$.cookieCuttr({
+cookieAnalytics: false,
+cookieMessage: 'This site uses cookies. You can <a href="{{cookiePolicyLink}}" title="change your cookie settings">change your settings</a> at any time. Otherwise, we\'ll assume you\'re OK to continue.',
+cookiePolicyLink: '/privacy/'
+});
+
+});     
+
+if (jQuery.cookie('cc_cookie_decline') == "cc_cookie_decline") {
+} else {
+}
+</script>
+
+<script type='text/javascript'>
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/1579923/Filmstrip_homepage', [300, 600], 'div-gpt-ad-1442843343838-0').addService(googletag.pubads());
+    googletag.pubads().setTargeting("ThemeSpace","clinical");
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.pubads().enableSyncRendering();
+    googletag.enableServices();
+  });
+</script>
+
+<!--
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+    var mappingTopBanner = googletag.sizeMapping().
+    addSize([700, 0], [[375, 94], [1, 1]]). //iphone 6/7
+    addSize([360, 0], [[360, 90], [1, 1]]). //galaxy s7 edge/ s7
+    addSize([320, 0], [[320, 80], [1, 1]]). //iphone 5
+    addSize([0, 0], [[320, 80], [1, 1]]). //other
+    build();
+    googletag.defineSlot('/1579923/Filmstrip_homepage', [[320, 80],[320,80],[360,90],[375,94]], 'div-gpt-ad-1442843343838-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.pubads().enableSyncRendering();
+    googletag.enableServices();
+  });
+</script>
+-->
+
+
+<script type='text/javascript' src='//partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-6154222027172190");
+GS_googleEnableAllServices();
+</script>
+<script language="JavaScript">
+    GA_googleAddAttr("ThemeSpace","clinical");
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-6154222027172190", "PX_IAB-Leaderboard_Top");
+GA_googleAddSlot("ca-pub-6154222027172190", "PX_IAB_Leaderboard");
+GA_googleAddSlot("ca-pub-6154222027172190", "PX_IAB_Medium_Rectangle");
+GA_googleAddSlot("ca-pub-6154222027172190", "PX_IAB_Small_Slider");
+GA_googleAddSlot("ca-pub-6154222027172190", "PX_IAB_Super_Leaderboard");
+GA_googleAddSlot("ca-pub-6154222027172190", "PX_IAB_SuperLeaderboard_Top");
+GA_googleAddSlot("ca-pub-6154222027172190", "PX_IAB_WideSkyScraper");
+GA_googleAddSlot("ca-pub-6154222027172190", "PX_IAB_Slider_Bottom");
+GA_googleAddSlot("ca-pub-6154222027172190", "PX_IAB_RestIOfSite_SkyScraper");
+GA_googleAddSlot("ca-pub-6154222027172190", "PX_Mobile");
+GA_googleAddSlot("ca-pub-6154222027172190", "Contextual_Button");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+
+
+<style type="text/css">
+div.slider-expandingbanner {height:50px; width: 980px; background: #fff; left: 0; margin: auto;position: fixed;
+bottom: 0;
+left: 50%;
+margin-left: -470px;}
+</style><script type="text/javascript" src="http://www.pmlive.com/__data/assets/js_file/0004/263353/jquery.countdown.js"></script>
+
+<script type="text/javascript">
+
+$(function () {
+
+	var austDay = new Date();
+
+	austDay = new Date(austDay.getFullYear(), 07 - 1, 04, 22.30);
+
+	$('#defaultCountdown').countdown({until: austDay});
+
+	$('#year').text(austDay.getFullYear());
+
+});
+
+</script><!-- Extend Google Analytics - code to tag downloads and external links in GA with custom variables for users -->
+
+<script type="text/javascript">
+$(document).ready(function(){
+
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	
+	//use jQuery to call the Google Analytics JavaScript
+	$.getScript(gaJsHost + "google-analytics.com/ga.js", function(){
+	
+		//tell Analytics about the current page load using standard _trackPageview method
+		try {
+			var pageTracker = _gat._getTracker("UA-320543-1");
+pageTracker._setCustomVar(
+      5,             // This custom var is set to slot #5.  Required parameter.
+      "Sections",   // The name of the custom variable.  Required parameter.
+      "Research; PME",      // Sets the value of "Sections" of the article in the metadata field.  Required parameter.
+      3                    // Sets the scope to page-level.  Optional parameter.
+   );
+pageTracker._setCustomVar(
+      4,             // This custom var is set to slot #4.  Required parameter.
+      "Theme",   // The name of the custom variable.  Required parameter.
+      "clinical",      // Sets the "Theme" of the article in the metadata field.  Required parameter.
+      3                    // Sets the scope to page-level.  Optional parameter.
+   );
+
+			pageTracker._trackPageview();
+		} catch(err) {}
+		
+		//loop though each anchor element
+		$('a').each(function(){
+			
+			var href = $(this).attr('href');
+			var filetypes = /\.(zip|exe|pdf|doc*|xls*|ppt*|mp3|ics)$/i;
+			
+			//check for links starting with http or https, making sure that links to our own domain are excluded
+			if ((href.match(/^https?\:/i)) && (!href.match(document.domain))){
+				$(this).click(function() {
+					var extLink = href.replace(/^https?\:\/\//i, '');
+					pageTracker._trackEvent('External', 'Click', extLink);
+				});
+			}
+			//check for links starting with mailto:
+			else if (href.match(/^mailto\:/i)){
+				$(this).click(function() {
+					var mailLink = href.replace(/^mailto\:/i, '');
+					pageTracker._trackEvent('Email', 'Click', mailLink);
+				});
+			}
+			//check for links with file extension that match the filetypes regular expression:
+			else if (href.match(filetypes)){
+				$(this).click(function() {
+  					var extension = (/[.]/.exec(href)) ? /[^.]+$/.exec(href) : undefined;
+					var filePath = href.replace(/^https?\:\/\/(www.)mydomain\.com\//i, '');
+					pageTracker._trackEvent('Download', 'Click - ' + extension, filePath);
+				});
+			}
+
+		});
+		
+	});
+
+});
+</script> <link href="http://www.pmlive.com/__data/assets/file/0003/221484/favicon_2.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.0.0/isotope.pkgd.min.js" type="text/javascript"></script> <!-- Isotope -->
+<script src="http://www.pmlive.com/__data/assets/js_file/0011/688952/cx_comparison_tool.js" type="text/javascript"></script> <!-- shortlist javascript -->
+<link href="http://www.pmlive.com/__data/assets/css_file/0009/698625/shortlist_tools-mobile.css" rel="stylesheet" type="text/css" /> <!-- Shortlist CSS --><script type="text/javascript" language="javascript">
+ $(document).ready(function() {
+    $("#accordion").accordion( { autoHeight:false, collapsible:true } );
+	$("#accordion").accordion( { icons: { "header": "ui-icon-triangle-1-w", "headerSelected": "ui-icon-triangle-1-s" } } );
+  });
+</script>
+
+
+ 
+
+
+    
+
+<!--
+  Running Squiz Matrix
+  Developed by Squiz - http://www.squiz.net
+  Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 21 March 2018 03:51:02
+-->
+
+
+</head>
+
+<body>
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"ntoOh1aIE700y8", domain:"pmlive.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=ntoOh1aIE700y8" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript --> 
+
+<!-- noindex -->
+<div id="pm-structure">
+
+
+
+
+  <div id="pm-pm-group-strip">
+  
+<!-- PM GROUP LINKS STARTS -->
+   
+   <!-- PM GROUP LINKS ENDS -->
+    
+    
+  </div>
+  <div id="slidingDiv" class="toggleDiv">
+         
+
+<!-- new place for login box -->
+
+                
+                
+
+<!-- login box end -->
+
+  </div>
+  <div id="slidingDiv_2" class="toggleDiv">
+       
+  </div> 
+  <div id="pm-top-banner">
+ 
+  </div>
+  
+ <!-- PX_Mobile -->
+<div class="top-mobile-banner">
+<script type='text/javascript'>
+GA_googleFillSlot("PX_Mobile");
+</script></div>
+  <div id="pm-header">
+   
+  </div>
+  
+  <div class="pm-navigation">
+    <div class="pm-navigation pm-mobile pm-mobile-login pm-mobile-top-stories pm-mobile-search">
+
+<div id="menu-icon"><a href="#pm-nav">Menu</a></div>
+
+<div class="pm-mobile-pmlive-logo"><a href="http://www.pmlive.com"></a></div>
+
+<!-- <div id="mobile-login-icon"><a href="http://www.pmlive.com/my_pmlive">Login</a></div> -->
+
+
+<div id="mobile-login-icon"><a href="#pm-mobile-login-form">Login</a></div>
+
+<div id="mobile-search-icon"><a href="#pm-mobile-search">Search</a></div>
+
+<div id="mobile-top-stories-icon"><a href="#">LATEST</a></div><div id="pm-mobile-top-stories-content">
+  <ul>
+<li><a href="http://www.pmlive.com/pharma_intelligence/The_valuable_brand_1226051" class="link">The valuable brand </a></li><li><a href="http://www.pmlive.com/pharma_news/novo_nordisks_semaglutide_obesity_trial_hits_the_mark_1228446" class="link">Novo Nordisk’s semaglutide obesity trial hits the mark</a></li><li><a href="http://www.pmlive.com/pharma_news/new_data_could_put_roches_tecentriq_first_in_squamous_lung_cancer_1228404" class="link">New data could put Roche’s Tecentriq first in squamous lung cancer</a></li><li><a href="http://www.pmlive.com/pharma_appointments/parexel_appoints_ceo_1228399" class="link">Parexel appoints CEO</a></li><li><a href="http://www.pmlive.com/pharma_appointments/metrion_biosciences_adds_to_its_board_1228395" class="link">Metrion Biosciences adds to its board</a></li><li><a href="http://www.pmlive.com/pharma_news/mundipharma_adds_breast_cancer_biosimilar_to_its_portfolio_with_celltrion_deal_1228394" class="link">Mundipharma adds breast cancer biosimilar to its portfolio with Celltrion deal </a></li>
+          </ul>
+</div><div id="pm-search-share">
+  <div id="pm-search">
+    <form action="http://www.pmlive.com/pmlive_search?" method="get"><input name="query" id="querytop" type="text" placeholder="Search PMLiVE">
+      <input name="Search" type="submit" title="Search" value="Search" class="pm-search-button">
+      <input type="hidden" name="fmo" value="on">      
+<input type="hidden" name="SQ_DESIGN_NAME" value="2">
+    </form>
+    <a href="http://www.pmlive.com/pmlive_search/search_help">Search tips</a>
+  </div>
+</div>
+
+
+
+
+ <nav id="#pm-mobile-navigation">
+
+
+    <ul id="pm-nav">
+      <li class="pm-home active"><a href="http://www.pmlive.com">Home</a></li>
+      <li class="pm-news "><a href="http://www.pmlive.com/news">News</a></li>
+      <li class="pm-intelligence"><a href="http://www.pmlive.com/intelligence">Intelligence</a></li>
+      <li class="pm-thought-leadership"><a href="http://www.pmlive.com/thoughtleadership">Thought leadership</a></li>
+      <li class="pm-appointments"><a href="http://www.pmlive.com/appointments">Appointments</a></li>
+      <li class="pm-awards"><a href="http://www.pmlive.com/awards">Awards</a></li>
+      <li class="pm-blogs"><a href="http://www.pmlive.com/blogs">Blogs</a></li>
+      <!--<li class="pm-clinical"><a href="http://www.pmlive.com/clinical">Clinical</a></li>-->
+      <li class="pm-top-pharma-list"><a href="http://www.pmlive.com/top_pharma_list">Top Pharma List</a></li>
+      <li class="pm-pm-hub"><a href="http://www.pmlive.com/pmhub">PMHub</a></li>
+      <li class="pm-jobs"><a href="http://www.pmlive.com/2012_jobs">Jobs</a></li>
+      <li class="pm-home"><a href="http://www.pmlive.com/pme_pharmaceutical_market_europe">PME</a></li>
+      <li class="pm-home"><a href="http://www.pmlive.com/communique">Communiqué</a></li>
+      <li class="pm-home"><a href="http://www.pmlive.com/thedirectory">The Directory</a></li>
+    </ul>
+    
+    
+  </nav>
+
+</div>    </div>
+    <div class="pm-navigation">
+    
+  </div>
+  
+  <div id="pm-trending">
+   
+  </div>
+  
+<!-- endnoindex -->
+
+  <div id="pm-content">
+  
+  
+  
+
+
+<div id="content_div_512635">
+<h1>Gilead study resurrects HIV eradication hope</h1>
+<h6><p>Intends to start human trials of its improved bNAb candidate</p></h6>
+<span class="pm-article-date">5th March 2018</span>
+
+<div class="features-page-interactive">
+<!-- AddThis Button MOBILE BEGIN -->
+<div class="addthis_toolbox addthis_default_style addthis_32x32_style" addthis:title="Gilead study resurrects HIV eradication hope" addthis:url="http://www.pmlive.com/pharma_news/gilead_study_resurrects_hiv_eradication_hope_1225759">
+<a class="addthis_button_twitter" tw:via="pmlivecom" tw:text="Gilead study resurrects HIV eradication hope" tw:related="@pmlivecom" style="padding-right:7px;"></a>
+<a class="addthis_button_linkedin" ></a>
+<a class="addthis_button_google_plusone_share" style="padding-right:7px; padding-left:7px;"></a>
+<a class="addthis_button_facebook" style="padding-right:7px;"></a>
+<a class="addthis_button_email" style="padding-right:7px;"></a>
+<a class="addthis_button_printfriendly" style="padding-right:7px;"></a>
+<a class="addthis_button_compact"></a>
+</div>
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=pmlive"></script>
+<!-- AddThis Button MOBILE END -->
+</div>
+
+<div class="pm-container-500 pm-article">
+
+<p><img src="http://www.pmlive.com/__data/assets/image/0003/417423/Gilead_Sciences_headquarters_body.jpg" alt="Gilead Sciences" title="Gilead Sciences" /></p><p><strong>Gilead Sciences is advancing a new drug into human trials that it hopes could be part of a drug cocktail for eradication of HIV, freeing patients from daily antiretroviral therapy (ART).</strong></p><p>A preclinical study in non-human primates has suggested that it took months for virus levels to rebound after the pairing of oral toll-like receptor 7 (TLR7) agonist GS-9620 with a broadly neutralising antibody (bNAb) called PGT121 was discontinued. In some cases, the infected animals showed a rebound but began re-suppressing HIV without the need for ART.</p><p>GS-9620 is already in early-stage clinical testing, and <a href="http://www.pmlive.com/top_pharma_list/pharma_companies/gilead_sciences,_inc." title="Top Pharma List: Gilead Sciences">Gilead</a> says that it now intends to start human trials of an improved bNAb candidate - PGT121 derivative GS-9722.</p><p>ART has become a highly-effective way to achieve a &lsquo;functional&rsquo; cure for HIV, with massive progress in the last 20 years or so in the efficacy, tolerability and tablet burden of people with the virus and life expectancies for patients with access to treatment at or close to normal.</p><p>Years ago, it was proposed that aggressive ART regimens might be able to eliminate HIV entirely, but subsequent research showed that there are reservoirs of dormant virus protected from drug therapy in blood, lymph and other tissues. In light of the logistical and cost difficulties in providing life-long care for HIV-infected people around the world, and the absence of an effective vaccine, research continues to find an effective drug regimen that could provide long-term viral remission.</p><p>&ldquo;HIV has the ability to hide in certain immune cells, which is called the latent viral reservoir, and which represents a key barrier to curing HIV,&rdquo; said Dan Barouch, director of the Center for Virology and Vaccine Research at Beth Israel Deaconess Medical Center, where the research was carried out.</p><p>The new Gilead trial in simian HIV-infected rhesus monkeys demonstrates that some animals were able to maintain viral suppression after ART discontinuation and according to the company support further trials of bNAbs and a TLR7 agonist, which could have the potential to achieve long-term viral suppression without the need for daily ART.</p><p>&ldquo;In this proof-of-concept preclinical study, 45% of the animals that received both GS-9620 and PGT121 did not demonstrate viral rebound after stopping ART,&rdquo; said Barouch, adding that this could suggest the combination &ldquo;may be able to target the viral reservoir in virally suppressed monkeys&rdquo;.</p><p>To date, Timothy Brown remains the only case of what could be described as HIV eradication in a person with the virus. In 2008, he received a combination of chemotherapy to destroy his immune cells and two bone marrow transplants, which seemed to have removed all traces of HIV in his body although some analytical tests have suggested he still has very low levels present.</p><p>Researchers are looking at other ways to eradicate HIV, including gene-editing techniques which focus on snipping HIV genetic material from cells or rendering immune cells resistant to entry by the virus. So far these remain in early animal testing.</p>
+
+<!-- AUTHOR INFO -->
+<div class="pm-author">
+   
+<p class="mid-author">Article by<br/><a href="http://www.pmlive.com/pmlive_search?query=%22Phil Taylor%22">Phil Taylor</a></p>
+<p>5th March 2018</p>
+
+<!-- noindex -->
+<p>From: 
+<a href="http&#58;//www.pmlive.com/news/research">Research</a>
+</div>
+
+
+
+<!-- FOOTER BLOCKS -->
+
+
+
+
+
+<div class="features-page-interactive">
+<!-- AddThis Button MOBILE BEGIN -->
+<div class="addthis_toolbox addthis_default_style addthis_32x32_style" addthis:title="Gilead study resurrects HIV eradication hope" addthis:url="http://www.pmlive.com/pharma_news/gilead_study_resurrects_hiv_eradication_hope_1225759">
+<a class="addthis_button_twitter" tw:via="pmlivecom" tw:text="Gilead study resurrects HIV eradication hope" tw:related="@pmlivecom" style="padding-right:7px;"></a>
+<a class="addthis_button_linkedin" ></a>
+<a class="addthis_button_google_plusone_share" style="padding-right:7px; padding-left:7px;"></a>
+<a class="addthis_button_facebook" style="padding-right:7px;"></a>
+<a class="addthis_button_email" style="padding-right:7px;"></a>
+<a class="addthis_button_printfriendly" style="padding-right:7px;"></a>
+<a class="addthis_button_compact"></a>
+</div>
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=pmlive"></script>
+<!-- AddThis Button MOBILE END -->
+</div>
+
+<!--
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'pmlive'; 
+    var disqus_identifier = '1225759';
+    var disqus_title = 'Gilead study resurrects HIV eradication hope';
+    var disqus_url = 'http://www.pmlive.com/pharma_news/gilead_study_resurrects_hiv_eradication_hope_1225759';      
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments.</a></noscript>
+-->
+
+</div>
+</div>
+
+<div class="pm-container-160"> 
+<div id="content_div_425676">
+ <div class="pm-author">
+              <p class="mid-author">Article by<br/>
+          <a href="http://www.pmlive.com/pmlive_search?query=%22Phil Taylor%22">Phil Taylor</a></p>          <p>5th March 2018</p>
+<!-- noindex -->
+    <p>From: 
+<a href="http&#58;//www.pmlive.com/news/research">Research</a>
+        </div>
+</div>
+<div class="pm-container-160 padding-10">
+          <h3>Share</h3>
+
+<div class="features-page-interactive share padding-0 margin-0">
+
+<!-- AddThis Button BEGIN -->
+
+
+
+
+<script type="text/javascript">
+var addthis_config =
+{
+   services_exclude: 'twitter,linkedin,facebook'
+}
+</script>
+<div class="addthis_toolbox addthis_default_style " addthis:title="Gilead study resurrects HIV eradication hope" addthis:url="http://www.pmlive.com/pharma_news/gilead_study_resurrects_hiv_eradication_hope_1225759" >
+<a class="addthis_button_tweet" tw:via="pmlivecom" tw:text="Gilead study resurrects HIV eradication hope" tw:related="@pmlivecom" ></a>
+<a class="addthis_button_google_plusone" g:plusone:size="medium" style="padding-left:20px"></a>
+<a class="addthis_button_facebook_like" fb:like:layout="button_count" style="width:90px"></a>
+<a class="addthis_button_linkedin"  addthis:url="http://www.pmlive.com/pharma_news/gilead_study_resurrects_hiv_eradication_hope_1225759" addthis:title="Gilead study resurrects HIV eradication hope" style="padding-left:90px"> </a>
+<a class="addthis_button_preferred_1"></a>
+<a class="addthis_button_preferred_2"></a>
+<a class="addthis_button_preferred_3"></a>
+<a class="addthis_button_compact"></a>
+<a class="addthis_counter addthis_bubble_style"></a><br />
+<a class="addthis_button_printfriendly">&nbsp;Print Friendly </a>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=pmlive"></script>
+<!-- AddThis Button END -->
+
+</div>
+        </div>
+<div class="pm-container-160 padding-10 pm-tags">
+          <h3>Tags</h3>
+
+
+<p><script>
+var arr = [ 'gilead_sciences', 'hiv', 'bnab' ];
+var arr2 = [ 'Gilead Sciences', 'HIV', 'bNAb'  ];
+var arr3=  [ 'Gilead Sciences', 'HIV', 'bNAb'  ];
+for (counter=0; counter<arr.length; counter++)
+   document.write('<a href="http://www.pmlive.com/tags/' + arr[counter] + '?tag=' + window.btoa(arr2[counter]) + '&cachebuster=1691750272">' + arr2[counter] + '</a><br>');
+</script>
+</p>
+        </div>
+
+
+
+  <div class="pm-container-160 pm-related-content">
+          <h3>Related content</h3>
+          <ul>
+
+            <li>
+              <a href="http://www.pmlive.com/pharma_news/theratechnologies_last-ditch_hiv_drug_approved_by_fda_1226164" title="http://www.pmlive.com/pharma_news/theratechnologies_last-ditch_hiv_drug_approved_by_fda_1226164">
+                Theratechnologies’ last-ditch HIV drug approved by FDA</a></li>
+
+            <li>
+              <a href="http://www.pmlive.com/pharma_news/gilead_says_switching_studies_back_new_hiv_therapy_biktarvy_1225972" title="http://www.pmlive.com/pharma_news/gilead_says_switching_studies_back_new_hiv_therapy_biktarvy_1225972">
+                Gilead says switching studies back new HIV therapy Biktarvy</a></li>
+
+            <li>
+              <a href="http://www.pmlive.com/pharma_news/gileads_triple_hiv_drug_approval_prompts_gsk_lawsuit_1220986" title="http://www.pmlive.com/pharma_news/gileads_triple_hiv_drug_approval_prompts_gsk_lawsuit_1220986">
+                Gilead’s triple HIV drug approval prompts GSK lawsuit</a></li>
+
+            <li>
+              <a href="http://www.pmlive.com/pharma_news/janssen_wins_european_approval_for_symtuza_1206412" title="http://www.pmlive.com/pharma_news/janssen_wins_european_approval_for_symtuza_1206412">
+                Janssen wins European approval for Symtuza</a></li>
+
+            <li>
+              <a href="http://www.pmlive.com/pharma_news/gileads_triple_hiv_drug_approval_prompts_gsk_lawsuit_1221003" title="http://www.pmlive.com/pharma_news/gileads_triple_hiv_drug_approval_prompts_gsk_lawsuit_1221003">
+                Gilead’s triple HIV drug approval prompts GSK lawsuit</a></li>
+</ul>
+        </div>
+
+
+
+
+
+  <div class="pm-container-160">
+<!-- results 3 -->    
+          <h3>Related Hub content</h3>
+          <ul>
+
+            <li>
+              <a href="http://www.pmlive.com/pmhub/healthcare_market_research/109066_the_research_partnership/white_papers_and_resources/infographic_hiv_market_snapshot" title="http://www.pmlive.com/pmhub/healthcare_market_research/109066_the_research_partnership/white_papers_and_resources/infographic_hiv_market_snapshot">
+                Infographic: HIV Market Snapshot</a></li>
+
+            <li>
+              <a href="http://www.pmlive.com/pmhub/medical_education/90ten_healthcare/press_releases/90ten_healthcare_appointed_to_launch_national_sti_service_at_chelsea_and_westminster" title="http://www.pmlive.com/pmhub/medical_education/90ten_healthcare/press_releases/90ten_healthcare_appointed_to_launch_national_sti_service_at_chelsea_and_westminster">
+                90TEN Healthcare appointed to launch national STI service at Chelsea and Westminster</a></li>
+
+            <li>
+              <a href="http://www.pmlive.com/pmhub/Pharma_IT_solutions/pharmiweb_solutions/press_releases/pharmiweb_solutions_continue_their_support_of_ejaf" title="http://www.pmlive.com/pmhub/Pharma_IT_solutions/pharmiweb_solutions/press_releases/pharmiweb_solutions_continue_their_support_of_ejaf">
+                PharmiWeb Solutions Continue their Support of EJAF</a></li>
+</ul>
+        </div>
+
+<div id="content_div_425637">
+
+</div>
+
+</div>
+
+<!-- endnoindex -->     
+<!-- noindex -->
+
+
+
+
+                   
+
+      
+     
+     
+
+    
+
+    
+
+           
+
+    
+    
+    
+    
+      </div>
+
+    
+  <div id="pm-footer">
+   <div class="pm-stand-out view-full-site">
+<a style="float:left;" href="http://www.pmlive.com/pharma_news/gilead_study_resurrects_hiv_eradication_hope_1225759?SQ_ACTION=clear_design_name&full=true">View Full Site</a>
+</div>
+<div style="clear:both"></div>
+<div>
+<ul>
+<li><a href="http://www.pmlive.com/about">About</a></li>
+<li><a href="http://www.pmlive.com/about/contact/send_us_a_message?pagetitle=http%3A%2F%2Fwww.pmlive.com%2Fpharma_news%2Fgilead_study_resurrects_hiv_eradication_hope_1225759">Contact</a></li>
+<li><a href="http://www.pmlive.com/how_to_advertise">Advertise</a></li>
+<li><a href="http://www.pmlive.com/site_map">Site map</a></li><br/>
+<li>Copyright &copy; PMGroup Worldwide Ltd 2018</li>
+    </ul>
+</div><script type="text/javascript">
+
+$('.vimeo').each(function(){
+var $this  = this;
+$.ajax({
+        type:'GET',
+        url: 'http://vimeo.com/api/v2/video/' + this.id  + '.json',
+        jsonp: 'callback',
+        dataType: 'jsonp',
+        success: function(data){
+            
+            var video = data[0];
+             
+              $('<img/>' ,{
+                 src:video.thumbnail_small
+              })
+              
+              .appendTo($this);
+        }
+    });
+});
+    
+</script>
+
+
+<script type="text/javascript">
+
+$('.vimeo_home').each(function(){
+var $this  = this;
+$.ajax({
+        type:'GET',
+        url: 'http://vimeo.com/api/v2/video/' + this.id  + '.json',
+        jsonp: 'callback',
+        dataType: 'jsonp',
+        success: function(data){
+            
+            var video = data[0];
+             
+              $('<img/>' ,{
+                 src:video.thumbnail_large
+              })
+              
+              .appendTo($this);
+        }
+    });
+});
+    
+</script><!-- VIMEO API START -->
+<script src="http://www.pmlive.com/__data/assets/js_file/0011/1076753/Vimeo_API.js"></script> 
+<!-- VIMEO API END -->
+<!-- CLICKY -->
+<script type="text/javascript">
+  var clicky_custom = clicky_custom || {};
+  clicky_custom.href = '/pharma_news/gilead_study_resurrects_hiv_eradication_hope_1225759';
+</script>
+<script src="//static.getclicky.com/js" type="text/javascript"></script>
+<script type="text/javascript">try{ clicky.init(100841299); }catch(e){}</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100841299ns.gif" /></p></noscript>
+<!-- OPENTRACKER HTML START -->
+<script src="https://script.opentracker.net/?site=www.pmlive.com&onload=map"></script> 
+<!-- OPENTRACKER HTML END -->
+
+
+<!-- LEADBOXER START -->
+<script type="text/javascript" src="//script.leadboxer.com/?account=e2d1c24722e8a52390a42be6e89f7a65"></script> 
+<!-- LEADBOXER END -->
+
+
+
+
+
+  </div>
+  
+</div>
+
+ 
+<!-- endnoindex -->
+
+
+</body>
+</html>

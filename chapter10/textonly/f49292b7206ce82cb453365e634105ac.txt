@@ -1,0 +1,117 @@
+
+
+  window._taboola = window._taboola || [];
+
+  _taboola.push({
+
+    mode: 'thumbnails-c',
+
+    container: 'taboola-interstitial-gallery-thumbnails-5',
+
+    placement: 'Interstitial Gallery Thumbnails 5',
+
+    target_type: 'mix'
+
+  });
+
+  _taboola.push({flush: true});
+
+
+
+
+  window._taboola = window._taboola || [];
+
+  _taboola.push({
+
+    mode: 'thumbnails-c',
+
+    container: 'taboola-interstitial-gallery-thumbnails-7',
+
+    placement: 'Interstitial Gallery Thumbnails 7',
+
+    target_type: 'mix'
+
+  });
+
+  _taboola.push({flush: true});
+
+
+                                                            Photo: Ben Birchall, AP
+                                                    
+                                                            Photo: Ben Birchall, AP
+                                                    
+                                                            Photo: Virginia Mayo, AP
+                                                    
+                                                            Photo: Dmitri Lovetsky, AP
+                                                    
+                                                            Photo: Virginia Mayo, AP
+                                                    
+                                                            Photo: Virginia Mayo, AP
+                                                    
+BRUSSELS (AP) — The Latest on the poisoning of a Russian ex-spy and his daughter in Britain (all times local):
+German Chancellor Angela Merkel says there's serious information pointing to Russia's responsibility in the poisoning in Britain of a Russian ex-spy and his daughter, and that the duty now lies with Moscow to prove that it wasn't involved.
+On a visit to Warsaw, Merkel also has said she expects European Union leaders to come to "strong conclusions" in the matter at a summit later this week in Brussels. Russia strongly denies any involvement.
+London has given Moscow until the end of Tuesday to explain the use of a military-grade nerve agent for the poisoning in England of Russian former double agent Sergei Skripal and his daughter Yulia. 
+
+
+On Monday Prime Minister Theresa May said it was "highly likely" that Russia was to blame, after Britain identified the substance as a type of nerve agent developed by the Soviet military. 
+
+Russia's foreign minister has flatly denied that his country was involved in the case. "We've made a statement to dismiss this as nonsense. We have nothing to do with this," Sergei Lavrov said on Tuesday. 
+
+He said the British government had refused to provide Moscow access to materials related to the poison attack,  TASS reported . 
+
+UK 'encouraged' by response 
+
+British Foreign Secretary Boris Johnson has described as encouraging the strength of support for the UK over the case. 
+
+US President Donald Trump said on Tuesday he planned to talk to Theresa May later in the day. "It sounds to me that it would be Russia based on all the evidence they have," he told reporters. "As soon as we get the facts straight, if we agree with them, we will condemn Russia or whoever it may be."   
+
+Earlier – before he was sacked by Trump – US Secretary of State Rex Tillerson said the United States had "full confidence" in Britain's assessment that Russia was likely responsible. 
+
+"We agree that those responsible - both those who committed the crime and those who ordered it - must face appropriately serious consequences," Tillerson said in a statement.   
+
+On Tuesday the European Union said it would stand by Britain over the nerve agent attack. 
+
+"We are very much concerned with the situation, also the findings the UK has so far," European Commission Vice President Valdis Combrovskis told reporters when asked if the EU might back action against Russia over the case. 
+
+"Of course the UK can count on EU solidarity in this regard," he added. 
+
+The head of the Organisation for the Prohibition of Chemical Weapons (OPCW) has condemned the use of a chemical agent in the attack last week. Director General Ahmet Uzumcu said those responsible "must be held accountable", according to the UK's ambassador to the Netherlands and OPCW representative Peter Wilson. 
+
+Britain has identified the substance used as part of the highly-lethal Novichok group of nerve agents developed by the Soviet military in the 1970s and 1980s. 
+
+However, a former senior official with Russia's foreign military intelligence agency (GRU) has told Euronews that the UK has no proof that Moscow is behind the Skripals' poisoning. 
+
+Vladimir Koshelev, who says he personally knew the ex-spy, said Sergei Skripal posed no threat to Russia. He added that Moscow had fulfulled its international obligations for eliminating chemical weapons following the demise of the Soviet Union. 
+
+Instead he suggested that other states such as Ukraine could have been responsible. Referring to intelligence services "friendly" to Britain, he hypothesised that "another country that used to be part of the USSR - where warehouses with these weapons were also located, for example Ukraine", might have been happy to work with British intelligence services "just to make harm to the Russian Federation". 
+
+'Extensive measures' planned 
+
+The British prime minister told MPs on Monday it was "highly likely" that Russia was behind an attempted assassination of the former spy in southern England, adding that Britain would deem it an unlawful use of force on its territory if Russian authorities failed to provide a credible explanation by Tuesday evening. 
+
+In a statement to Parliament in Westminster, she said: "Either this was a direct act by the Russian state against our country, or the Russian government lost control of its potentially, catastrophically damaging nerve agent and allowed it to get into the hands of others." 
+
+She added that Britain was preparing to take "extensive measures" against Russia. 
+
+Russia's ambassador to London has been summoned to explain to British Foreign Secretary Boris Johnson how the nerve agent came to h
+
+                                                    Media: Euronews
+                                            
+Merkel spoke during a news conference alongside Poland's prime minister, who said European leaders must show solidarity after the nerve agent poisoning of ex-spy Sergei Skripal and his daughter Yulia.
+British military officials say a vehicle has been removed from a village 10 miles (16 kilometers) north of Salisbury as part of the inquiry into the poisoning of a Russian ex-spy and his daughter.
+A road in the village of Durrington was closed off and tents were erected as the military and police searched for clues Monday. The Ministry of Defense said the military presence was "part of our ongoing support to help police in the investigation."
+Ex-spy Sergei Skripal and his daughter Yulia remain in critical condition in a Salisbury hospital more than two weeks after the March 4 attack.
+The military did not say why the vehicle was removed. British media say it had been used to transport Yulia Skripal from the airport when she arrived in Britain a day before the attack.
+NATO's secretary-general says the alliance stands united with Britain amid diplomatic tensions with Russia over an ex-spy's poisoning in an English city.
+Jens Stoltenberg said "all 29 NATO allies stand united. We stand in solidarity with the United Kingdom. The U.K. is not alone." He made the comments during a joint news conference with U.K. Foreign Secretary Boris Johnson at NATO headquarters.
+Britain has accused Russia of being behind the March 4 attack in Salisbury with a Novichok nerve agent on ex-spy Sergei Skripal and his daughter that has left them in critical condition. Moscow vehemently denies any involvement.
+Stoltenberg said that "Russia's response so far has demonstrated a clear disregard for international peace and security. We continue to call on Russia to provide the complete disclosure of the Novichok program."
+The Kremlin says Britain will eventually have to offer proof to back up its claim of Russia's involvement in the poisoning of an ex-spy — or apologize.
+President Vladimir Putin's spokesman, Dmitry Peskov, said that the "slanderous anti-Russian flow coming from Britain is inexplicable, unfounded and driven by unclear motives."
+Britain has accused Russia of using a military-grade nerve agent to poison former Russian double agent Sergei Skripal and his daughter, who have been in critical condition for two weeks. Britain has announced the expulsion of 23 Russian diplomats, and Russia has responded in kind.
+The European Union on Monday condemned Skripal's poisoning, and British Foreign Secretary Boris Johnson dismissed Moscow's denials as absurd.
+British Foreign Secretary Boris Johnson is describing Russian claims that it is not responsible for the poisoning of a former spy as absurd, and says the U.K. has the full backing of its European partners.
+Johnson told reporters in Brussels Monday that "Russian denials grow increasingly absurd," with contradictory claims about whether Russia produced the nerve agent Novichok used in the March 4 attack that left Sergei Skripal and his daughter in critical condition.
+He said "what people can see is that this is a classic Russian strategy of trying to conceal the needle of truth in a haystack of lies and obfuscation."
+Johnson, speaking before briefing European Union foreign ministers on developments, said many in the bloc have been victims of "malign Russian behavior" and that Moscow is "not fooling anybody anymore."

@@ -1,0 +1,1563 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:product="http://ogp.me/ns/product#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <title>Scaled-Down Military Drills Between US And South Korea To Go Ahead</title>
+    <meta charset="utf-8" />
+<script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', "1631873666899595");fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" src="https://www.facebook.com/tr?id=1631873666899595&amp;ev=PageView&amp;noscript=1" /></noscript>
+<meta name="title" content="Scaled-Down Military Drills Between US And South Korea To Go Ahead" />
+<meta property="og:site_name" content="Forces Network" />
+<link rel="canonical" href="https://www.forces.net/news/scaled-down-military-drills-between-us-and-south-korea-go-ahead" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="South Korea and the United States have announced that they will hold joint military drills on a similar scale to previous years, despite potential talks between President Trump and Kim Jong Un..." />
+<meta name="twitter:title" content="Scaled-Down Military Drills Between US And South Korea To Go Ahead" />
+<meta property="fb:app_id" content="254852684918811" />
+<meta property="og:type" content="article" />
+<meta name="description" content="South Korea and the United States have announced that they will hold joint military drills on a similar scale to previous years, despite potential talks between President Trump and Kim Jong Un..." />
+<meta property="og:url" content="https://www.forces.net/news/scaled-down-military-drills-between-us-and-south-korea-go-ahead" />
+<meta property="og:title" content="Scaled-Down Military Drills Between US And South Korea To Go Ahead " />
+<meta name="google-site-verification" content="ODX3zm5BiBBRWQLYpde5IL9ACWYpuLtXBEAB_PEsYuk" />
+<meta property="og:description" content="South Korea and the United States have announced that they will hold joint military drills on a similar scale to previous years, despite potential talks between President Trump and Kim Jong Un..." />
+<meta name="twitter:url" content="https://www.forces.net/news/scaled-down-military-drills-between-us-and-south-korea-go-ahead" />
+<meta name="twitter:image:height" content="314" />
+<meta name="twitter:image" content="https://www.forces.net/sites/default/files/1000w_q95_10.jpg" />
+<meta name="twitter:image:width" content="600" />
+<meta property="og:image" content="https://www.forces.net/sites/default/files/1000w_q95_10.jpg" />
+<meta name="twitter:player:width" content="600" />
+<meta name="twitter:player:height" content="314" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script type="text/javascript">
+// Initialize the google variables.
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+// Add a place to store the slot name variable.
+googletag.slots = googletag.slots || {};
+(function() {
+  var useSSL = "https:" == document.location.protocol;
+  var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+  document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script>
+<script type="text/javascript">
+  
+  googletag.slots["forcesside"] = googletag.defineSlot("/13206682/forcesside", [[300, 600], [300, 250]], "js-dfp-tag-forcesside")
+
+    .addService(googletag.pubads())
+
+  
+  
+  
+      ;
+</script>
+<script type="text/javascript">
+  
+  googletag.slots["forceshi"] = googletag.defineSlot("/13206682/forceshi", [1, 1], "js-dfp-tag-forceshi")
+
+    .addService(googletag.pubads())
+
+  
+  
+  
+      ;
+</script>
+<script type="text/javascript">
+        // Start by defining breakpoints for this ad.
+      var mapping = googletag.sizeMapping()
+              .addSize([1, 1], [[320, 50], [300, 50]])
+              .addSize([768, 20], [[970, 90], [728, 90]])
+            .build();
+  
+  googletag.slots["forcestop"] = googletag.defineSlot("/13206682/forcestop", [[970, 90], [728, 90], [320, 50], [300, 50]], "js-dfp-tag-forcestop")
+
+    .addService(googletag.pubads())
+
+  
+  
+  
+        // Apply size mapping when there are breakpoints.
+    .defineSizeMapping(mapping)
+    ;
+</script>
+<script type="text/javascript">
+googletag.cmd.push(function() {
+      googletag.pubads().enableAsyncRendering();
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().collapseEmptyDivs();
+      });
+googletag.enableServices();
+</script>
+<link rel="shortcut icon" href="/themes/custom/forcesnet/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="revision" href="/news/scaled-down-military-drills-between-us-and-south-korea-go-ahead" />
+<script>(function () {var _fbq = window._fbq || (window._fbq = []);if (!_fbq.loaded) {var fbds = document.createElement('script');fbds.async = true;fbds.src = '//connect.facebook.net/en_US/fbds.js';var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(fbds, s);_fbq.loaded = true;}})();window._fbq = window._fbq || [];window._fbq.push(['track', '6023593985397', {'value': '0.00','currency': 'GBP'}]);</script>
+<noscript><img height="1" width="1" alt="" src="https://www.facebook.com/tr?ev=6023593985397&amp;cd[value]=0.00&amp;amp…" /></noscript>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-26450055-2", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+
+    <style media="all">
+@import url("/core/assets/vendor/normalize-css/normalize.css?p5x8vh");
+@import url("/sites/default/files/css/optimized/css_k0JAibD3ZCwTt24LYbnbS5BzPCdFlPO7VcjrGu4KVaQ.AXeNgLhJCaCbpbxIuXlIM43JtUy58pQXacMVeCRqa1g.css?p5x8vh");
+@import url("/core/themes/stable/css/system/components/align.module.css?p5x8vh");
+@import url("/sites/default/files/css/optimized/css_PwuFbWcp4hneFLLsQJ6rldRAtwMWYQOx-Ke7UsY30LI.ZsKoN1MOvwqugttzYY2bv8YiLJzNCFXA3ymlExX8gbY.css?p5x8vh");
+@import url("/core/themes/stable/css/system/components/fieldgroup.module.css?p5x8vh");
+@import url("/core/themes/stable/css/system/components/container-inline.module.css?p5x8vh");
+@import url("/core/themes/stable/css/system/components/clearfix.module.css?p5x8vh");
+@import url("/core/themes/stable/css/system/components/details.module.css?p5x8vh");
+@import url("/core/themes/stable/css/system/components/hidden.module.css?p5x8vh");
+@import url("/core/themes/stable/css/system/components/item-list.module.css?p5x8vh");
+@import url("/core/themes/stable/css/system/components/js.module.css?p5x8vh");
+@import url("/core/themes/stable/css/system/components/nowrap.module.css?p5x8vh");
+@import url("/core/themes/stable/css/system/components/position-container.module.css?p5x8vh");
+@import url("/core/themes/stable/css/system/components/progress.module.css?p5x8vh");
+@import url("/core/themes/stable/css/system/components/reset-appearance.module.css?p5x8vh");
+@import url("/core/themes/stable/css/system/components/resize.module.css?p5x8vh");
+@import url("/core/themes/stable/css/system/components/sticky-header.module.css?p5x8vh");
+@import url("/sites/default/files/css/optimized/css_55HfDL_0KdLcPWXl8PtxRl0jwaj5S_5E1xUa_ZYP5B8.Q8LG4fsEAvC21qh7zMA171msq4pyRtpRyIeVlCSaaIQ.css?p5x8vh");
+@import url("/core/themes/stable/css/system/components/system-status-report-counters.css?p5x8vh");
+@import url("/core/themes/stable/css/system/components/system-status-report-general-info.css?p5x8vh");
+@import url("/sites/default/files/css/optimized/css_wKgy1R3NftrbXNqjrGCnKPG2MuBS6VO7bNbGOiDkrg0.SVK0C2rgJymNdp-Amb6v-6NkIk9ucBvkW_1wfEomVKo.css?p5x8vh");
+@import url("/sites/default/files/css/optimized/css_rBIqZVBIuePlh5HcHJagk0J6UraUAUbgK2dWoQXZhoA.FCu60SEKVG9wJqaA1DIt_qaxboLiqneyEN0BBf7IoSs.css?p5x8vh");
+@import url("/sites/default/files/css/optimized/css_i0JCJIw_hNFirk25N3COBh3WqFTF0ZCxXh5hJxJtPzo.HkEk6qeEy792tdB91rdUv992VzUoiQH9eXdl9uUBxSI.css?p5x8vh");
+@import url("/core/themes/stable/css/views/views.module.css?p5x8vh");
+@import url("/libraries/addtohomescreen/style/addtohomescreen.css?p5x8vh");
+@import url("/sites/default/files/css/optimized/css_uhtWcnTvdLMYqQkGQGUAqIj04XlB2mFrYinN32a2QoM.bsE8IOrg22JFJ6wuXMKMx2IienERSS2d2X8hN8x8zdI.css?p5x8vh");
+</style>
+<style media="all">
+@import url("/core/themes/classy/css/components/action-links.css?p5x8vh");
+@import url("/core/themes/classy/css/components/breadcrumb.css?p5x8vh");
+@import url("/core/themes/classy/css/components/button.css?p5x8vh");
+@import url("/sites/default/files/css/optimized/css_YgAHkBJi9Ni-9F7uzPGNgev_md-vkMtl6mCLeP2RGQo.bwjJuOUlv-pEi6_EI_-dwOq75nYzwA0BXr0zLr8CFSk.css?p5x8vh");
+@import url("/core/themes/classy/css/components/container-inline.css?p5x8vh");
+@import url("/core/themes/classy/css/components/details.css?p5x8vh");
+@import url("/core/themes/classy/css/components/exposed-filters.css?p5x8vh");
+@import url("/core/themes/classy/css/components/field.css?p5x8vh");
+@import url("/sites/default/files/css/optimized/css_2ZIQEH23X5MiYNnG0xXxF4-mLNnDM1COX_Q2nrLEUNA.rEXiEdCQR3m_YqDHrocg1gl3-MidMJdnc6gRhKDZgDk.css?p5x8vh");
+@import url("/sites/default/files/css/optimized/css_Lv1bP8JXpB3pSNozo4jmOwtgOWK1g_Pvv99cLDR_lLI.upxHHEUuVGKCCQSh0LdIm1PG0vvx_ePB2JfShDK_X_E.css?p5x8vh");
+@import url("/core/themes/classy/css/components/inline-form.css?p5x8vh");
+@import url("/core/themes/classy/css/components/item-list.css?p5x8vh");
+@import url("/core/themes/classy/css/components/link.css?p5x8vh");
+@import url("/core/themes/classy/css/components/links.css?p5x8vh");
+@import url("/core/themes/classy/css/components/more-link.css?p5x8vh");
+@import url("/core/themes/classy/css/components/pager.css?p5x8vh");
+@import url("/core/themes/classy/css/components/tabledrag.css?p5x8vh");
+@import url("/core/themes/classy/css/components/tableselect.css?p5x8vh");
+@import url("/core/themes/classy/css/components/tablesort.css?p5x8vh");
+@import url("/core/themes/classy/css/components/tabs.css?p5x8vh");
+@import url("/core/themes/classy/css/components/textarea.css?p5x8vh");
+@import url("/core/themes/classy/css/components/ui-dialog.css?p5x8vh");
+@import url("/core/themes/classy/css/components/node.css?p5x8vh");
+@import url("/sites/default/files/css/optimized/css_J6dLcwxLPT2uFEuf2TVbXMPFtkZKGxtZV5vaIL-CqGU.HgNjxWMn3D9ROEJ3f2YI47-TiCKI3uCsCdN8XgEy1H8.css?p5x8vh");
+@import url("/sites/default/files/css/optimized/css_RSwanIGLJy5iPy88WTWiWztS8qp3HmlRPAUhVM4dITA.xQQT5dLr4sLdyVSKqlR_KuT2Fps_k31gJOheGxeyQ4E.css?p5x8vh");
+</style>
+
+
+      <script type="text/javascript">
+          // Initialize the google variables.
+          var googletag = googletag || {};
+          googletag.cmd = googletag.cmd || [];
+          // Add a place to store the slot name variable.
+          googletag.slots = googletag.slots || {};
+          (function() {
+              var useSSL = "https:" == document.location.protocol;
+              var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+              document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+          })();
+      </script>
+
+        
+<!--[if lte IE 8]>
+<script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>
+<![endif]-->
+
+      <link rel="apple-touch-icon" sizes="180x180" href="/themes/custom/forcesnet/apple-touch-icon.png">
+      <link rel="icon" type="image/png" href="/themes/custom/forcesnet/favicon-32x32.png" sizes="32x32">
+      <link rel="icon" type="image/png" href="/themes/custom/forcesnet/favicon-16x16.png" sizes="16x16">
+      <link rel="manifest" href="/themes/custom/forcesnet/manifest.json">
+      <link rel="shortcut icon" href="/themes/custom/forcesnet/favicon.ico">
+      <meta name="msapplication-TileColor" content="#da532c">
+      <meta name="msapplication-TileImage" content="/themes/custom/forcesnet/mstile-144x144.png">
+      <meta name="msapplication-config" content="/themes/custom/forcesnet/browserconfig.xml">
+      <meta name="theme-color" content="#ffffff">
+  </head>
+  <body class="path-node page-node-type-article channel-news">
+
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.10";
+          fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
+
+        <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56544011290dedd0&amp;async=1&amp;domready=1"></script>
+
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+
+    <script>
+      (function (doc) {
+        var scripts = doc.getElementsByTagName('script');
+        var script = scripts[scripts.length - 1];
+        var xhr = new XMLHttpRequest();
+        xhr.onload = function () {
+          var div = doc.createElement('div');
+          div.setAttribute('class', 'no-print');
+          div.innerHTML = this.responseText;
+          div.style.display = 'none';
+          script.parentNode.insertBefore(div, script);
+        }
+        xhr.open('get', '/themes/custom/forcesnet/assets/dist/images/svg/svg.svg', true);
+        xhr.send()
+      })(document)
+    </script>
+
+    
+    
+
+<div class="layout-container article__page">
+    <div class="cookie-banner js-cookie-banner">
+        <div class="container">
+            <p class="cookie-banner-text">This site uses cookies. More details can be found in our <a href="#">privacy policy</a></p>
+            <button class="cookie-banner-button js-cookie-cta" type="button">Do not show this message again</button>
+        </div>
+    </div>
+
+    <div class="banner ">
+        <div class="region region-top-banner">
+    <div id="block-dfptagforcestop" data-block-plugin-id="dfp_ad:86fce7de-5fc6-4411-acef-57deb7526b0d" class="block block-dfp block-dfp-ad86fce7de-5fc6-4411-acef-57deb7526b0d">
+  
+    
+      <div id="js-dfp-tag-forcestop">
+        <script type="text/javascript">
+        googletag.cmd.push(function() {
+            googletag.display('js-dfp-tag-forcestop');
+        });
+    </script>
+</div>
+
+  </div>
+
+  </div>
+
+    </div>
+
+    <header class="header" role="banner">
+      <div class="container">
+        <a class="site-logo" href="/" title="home">Forces Network</a>
+        <nav class="menu--main">
+          
+              <ul class="menu">
+              
+      <li class="news-theme menu-item menu-item--collapsed menu-item--active-trail">
+
+        <a href="/news"  class="news-theme">
+            <span>
+          News
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="radio-theme radio-menu-logo menu-item menu-item--collapsed">
+
+        <a href="/radio"  class="radio-theme radio-menu-logo">
+            <span>
+          Radio
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="sport-theme menu-item menu-item--collapsed">
+
+        <a href="/sport"  class="sport-theme">
+            <span>
+          Sport
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="events-theme menu-item menu-item--collapsed">
+
+        <a href="/live-events"  class="events-theme">
+            <span>
+          Live Events
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="tv-theme tv-menu-logo menu-item menu-item--collapsed">
+
+        <a href="/tv"  class="tv-theme tv-menu-logo">
+            <span>
+          TV
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="forcestv-theme forcestv-menu-logo menu-item">
+
+        <a href="/forces-tv"  class="forcestv-theme forcestv-menu-logo">
+            <span>
+          Forces TV
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="video-theme menu-item" target="_blank">
+
+        <a href="http://videos.forces.tv/"  class="video-theme" target="_blank">
+            <span>
+          Video
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="events-theme menu-item">
+
+        <a href="/soldieringonawards"  class="events-theme">
+            <span>
+          Soldiering On
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="general-theme external-link menu-item" target="_blank">
+
+        <a href="http://www.forcescinemas.com/"  class="general-theme external-link" target="_blank">
+            <span>
+          Cinema
+              </span>
+        </a>
+
+              </li>
+        </ul>
+  
+
+
+        </nav>
+      <div class="dropdown">
+        <a href="#" class="dropdown__link">More</a>
+        <nav class="menu--main">
+          
+              <ul class="menu">
+              
+      <li class="news-theme menu-item menu-item--collapsed menu-item--active-trail">
+
+        <a href="/news"  class="news-theme">
+            <span>
+          News
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="radio-theme radio-menu-logo menu-item menu-item--collapsed">
+
+        <a href="/radio"  class="radio-theme radio-menu-logo">
+            <span>
+          Radio
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="sport-theme menu-item menu-item--collapsed">
+
+        <a href="/sport"  class="sport-theme">
+            <span>
+          Sport
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="events-theme menu-item menu-item--collapsed">
+
+        <a href="/live-events"  class="events-theme">
+            <span>
+          Live Events
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="tv-theme tv-menu-logo menu-item menu-item--collapsed">
+
+        <a href="/tv"  class="tv-theme tv-menu-logo">
+            <span>
+          TV
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="forcestv-theme forcestv-menu-logo menu-item">
+
+        <a href="/forces-tv"  class="forcestv-theme forcestv-menu-logo">
+            <span>
+          Forces TV
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="video-theme menu-item" target="_blank">
+
+        <a href="http://videos.forces.tv/"  class="video-theme" target="_blank">
+            <span>
+          Video
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="events-theme menu-item">
+
+        <a href="/soldieringonawards"  class="events-theme">
+            <span>
+          Soldiering On
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="general-theme external-link menu-item" target="_blank">
+
+        <a href="http://www.forcescinemas.com/"  class="general-theme external-link" target="_blank">
+            <span>
+          Cinema
+              </span>
+        </a>
+
+              </li>
+        </ul>
+  
+
+
+        </nav>
+      </div>
+      <ul class="utility">
+        <li class="utility__item utility__item--radio-colour">
+          <a href="#" onclick="window.open('/radioplayer', 'UKRadioPlayerPopup', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=380,height=660')" title="Listen live"><svg class="utility-radio"><use xlink:href="#radio-alt"></use></svg>Listen Live</a>
+        </li>
+        <li class="utility__item utility__item--radio-colour">
+          <a href="#" onclick="window.open('/radioplayer', 'UKRadioPlayerPopup', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=380,height=660')" title="Listen live">
+            <span class="icon-roundel icon-roundel--radio">
+              <svg class="icon icon--radio icon--roundel"><use xlink:href="#listen"></use></svg>
+            </span>
+          </a>
+        </li>
+        <li class="utility__item utility__item--search">
+          <a class="icon-roundel" href="#">
+            <svg class="icon icon--roundel"><use xlink:href="#search"></use></svg>
+          </a>
+          <div class="utility-search">
+            <form class="ftv-search-block-form search-block-form" data-drupal-selector="ftv-search-block-form" action="/news/scaled-down-military-drills-between-us-and-south-korea-go-ahead" method="post" id="ftv-search-block-form" accept-charset="UTF-8">
+  <div class="container-inline js-form-wrapper form-wrapper" data-drupal-selector="edit-basic" id="edit-basic"><div class="js-form-item form-item form-item-wrapper js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Search</label>
+        <input placeholder="Search" class="form-search" title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" class="button js-form-submit form-submit" />
+</div>
+</div>
+<input data-drupal-selector="form-7klnbfd8dgh0xptc-iregvq-8qbd1ctuewicbs1qtku" type="hidden" name="form_build_id" value="form-7KlNbFd8dGh0Xptc-IrEGvQ_8qBd1CtUEWiCbS1QtKU" />
+<input data-drupal-selector="edit-ftv-search-block-form" type="hidden" name="form_id" value="ftv_search_block_form" />
+
+</form>
+
+          </div>
+        </li>
+        <li class="utility__item utility__item--menu">
+          <a class="icon-roundel" href="#">
+            <svg class="icon icon--roundel"><use xlink:href="#menu"></use></svg>
+            <svg class="icon icon--roundel icon--hide"><use xlink:href="#close"></use></svg>
+          </a>
+        </li>
+      </ul>
+    </div>
+    </header>
+    <div class="cover-menu">
+      <div class="container">
+      
+              <ul class="menu">
+              
+      <li class="news-theme menu-item menu-item--expanded">
+
+        <a href="/news"  class="news-theme">
+            <span>
+          News
+              </span>
+        </a>
+
+                                <ul class="menu-child">
+              
+      <li class="menu-item">
+
+        <a href="/news/army" >
+            <span>
+          Army
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/news/navy" >
+            <span>
+          Navy
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/news/raf" >
+            <span>
+          RAF
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="http://www.forces.net/sport/invictus-games" >
+            <span>
+          Invictus Games
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/news/programmes/british-forces-news" >
+            <span>
+          Watch British Forces News
+              </span>
+        </a>
+
+              </li>
+        </ul>
+  
+              </li>
+          
+      <li class="radio-theme radio-menu-logo menu-item menu-item--expanded">
+
+        <a href="/radio"  class="radio-theme radio-menu-logo">
+            <span>
+          Radio
+              </span>
+        </a>
+
+                                <ul class="menu-child">
+              
+      <li class="menu-item">
+
+        <a href="/radio/dabplus" >
+            <span>
+          DAB+
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/radio/howtolisten" >
+            <span>
+          How To Listen
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/radio/ondemand" >
+            <span>
+          On Demand
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/radio/presenters" >
+            <span>
+          Presenters
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/radio/bigshows" >
+            <span>
+          The Big Shows
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/radio/hatchandgeere" >
+            <span>
+          Hatch and Geere
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/radio/sitrep/latest" >
+            <span>
+          Sitrep
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="http://bfbssurvey.forces.net/" >
+            <span>
+          BFBS Survey
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/radio/radio-player-help" >
+            <span>
+          BFBS Radio Player Help
+              </span>
+        </a>
+
+              </li>
+        </ul>
+  
+              </li>
+          
+      <li class="sport-theme menu-item menu-item--expanded">
+
+        <a href="/sport"  class="sport-theme">
+            <span>
+          Sport
+              </span>
+        </a>
+
+                                <ul class="menu-child">
+              
+      <li class="menu-item">
+
+        <a href="/sport/boxing" >
+            <span>
+          Boxing
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/sport/cricket" >
+            <span>
+          Cricket
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/sport/football" >
+            <span>
+          Football
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/sport/motorsport" >
+            <span>
+          Motorsport
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/sport/netball" >
+            <span>
+          Netball
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/sport/olympics" >
+            <span>
+          Olympics
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/sport/paralympics" >
+            <span>
+          Paralympics
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/sport/rugby-league" >
+            <span>
+          Rugby League
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/sport/rugby-union" >
+            <span>
+          Rugby Union
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/sport/tennis" >
+            <span>
+          Tennis
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/sport/winter-sports" >
+            <span>
+          Winter Sports
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/sport/theforcessportsshow" >
+            <span>
+          Forces Sports Show
+              </span>
+        </a>
+
+              </li>
+        </ul>
+  
+              </li>
+          
+      <li class="events-theme menu-item menu-item--expanded">
+
+        <a href="/live-events"  class="events-theme">
+            <span>
+          Live Events
+              </span>
+        </a>
+
+                                <ul class="menu-child">
+              
+      <li class="menu-item">
+
+        <a href="/live-events" >
+            <span>
+          Home
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/live-events/get-quote" >
+            <span>
+          Get A Quote
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/live-events/testimonials" >
+            <span>
+          Testimonials
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/live-events/contact-us" >
+            <span>
+          Contact Us
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/live-events/meet-the-team" >
+            <span>
+          Meet The Team
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/live-events/blog" >
+            <span>
+          The Blog
+              </span>
+        </a>
+
+              </li>
+        </ul>
+  
+              </li>
+          
+      <li class="tv-theme tv-menu-logo menu-item menu-item--expanded">
+
+        <a href="/tv"  class="tv-theme tv-menu-logo">
+            <span>
+          TV
+              </span>
+        </a>
+
+                                <ul class="menu-child">
+              
+      <li class="menu-item">
+
+        <a href="/tv" >
+            <span>
+          Live Schedule
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="https://tvplayer.bfbs.com/login" >
+            <span>
+          Watch on BFBS TV Player
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/tv/how-get-bfbs-tv" >
+            <span>
+          How To Get BFBS TV
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="http://bfbssurvey.forces.net/" >
+            <span>
+          BFBS Survey
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/tv/contact-bfbs-tv-0" >
+            <span>
+          Contact BFBS TV
+              </span>
+        </a>
+
+              </li>
+        </ul>
+  
+              </li>
+          
+      <li class="forcestv-theme forcestv-menu-logo menu-item">
+
+        <a href="/forces-tv"  class="forcestv-theme forcestv-menu-logo">
+            <span>
+          Forces TV
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="video-theme menu-item" target="_blank">
+
+        <a href="http://videos.forces.tv/"  class="video-theme" target="_blank">
+            <span>
+          Video
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="events-theme menu-item">
+
+        <a href="/soldieringonawards"  class="events-theme">
+            <span>
+          Soldiering On
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="general-theme external-link menu-item" target="_blank">
+
+        <a href="http://www.forcescinemas.com/"  class="general-theme external-link" target="_blank">
+            <span>
+          Cinema
+              </span>
+        </a>
+
+              </li>
+        </ul>
+  
+
+
+    </div>
+    </div>
+
+    <div class="site-content">
+            <div class="section-header">
+        <div class="container">
+          <a href="/news"><div class="section-header__title">News</div></a>
+          <a href="#" class="section-header__button"><svg class="icon"><use xlink:href="#menu"></use></svg>Sections</a>
+        </div>
+      </div>
+      <div class="sub-menu">
+        <div class="container">
+          
+              <ul class="menu">
+              
+      <li class="menu-item">
+
+        <a href="/news/army" >
+            <span>
+          Army
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/news/navy" >
+            <span>
+          Navy
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/news/raf" >
+            <span>
+          RAF
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="http://www.forces.net/sport/invictus-games" >
+            <span>
+          Invictus Games
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="play-icon menu-item">
+
+        <a href="/news/programmes/british-forces-news"  class="play-icon">
+            <span>
+          Watch British Forces News
+              </span>
+        </a>
+
+              </li>
+        </ul>
+  
+
+
+        </div>
+      </div>
+            <div class="js-load-more-content">
+        <div class="infinite-article-scroll" data-article-url="/news/scaled-down-military-drills-between-us-and-south-korea-go-ahead" data-article-title="Scaled-Down Military Drills Between US And South Korea To Go Ahead " data-id="105385">
+                  <div class="title-shift">  <div class="region region-page-title">
+    <div id="block-pagetitle-2" data-block-plugin-id="page_title_block" class="block block-core block-page-title-block">
+  
+    
+      
+
+  <div class="container"><h1 class="page-title"><span class="field field--name-title field--type-string field--label-hidden">Scaled-Down Military Drills Between US And South Korea To Go Ahead </span>
+</h1></div>
+
+
+  </div>
+
+  </div>
+</div>
+        
+        <div class="fluid-wrapper container">
+        <a id="main-content" tabindex="-1"></a>        <main role="main" class="main  ">
+                    <div class="col-wrapper">
+          
+                        <aside class="layout-sidebar-first left-column" role="complementary">
+                <div class="region region-sidebar-first">
+    <div id="block-contributorblock" data-block-plugin-id="contributor_block" class="block block-forcesnet-article-extras block-contributor-block">
+  
+    
+      <div class="article-meta">
+<div class="article-meta__contributor-image">
+</div>
+        <p class="article-meta__contributor-info"></p>
+</div>
+
+  </div>
+<div id="block-bylineblock" data-block-plugin-id="byline_block" class="block block-forcesnet-article-extras block-byline-block">
+  
+    
+      <div class="article-meta">
+  <p class="article-meta__reporter"></p>
+  <p class="article-meta__date">Tue, 20/03/2018 - 08:00</p>
+  <div class="article-meta__social" id="article-meta-social">
+    <p>Share this story</p>
+    <div class="addthis_toolbox addthis_default_style"
+         addthis:url="https&#x3A;&#x2F;&#x2F;www.forces.net&#x2F;news&#x2F;scaled-down-military-drills-between-us-and-south-korea-go-ahead"
+         addthis:title="Scaled-Down&#x20;Military&#x20;Drills&#x20;Between&#x20;US&#x20;And&#x20;South&#x20;Korea&#x20;To&#x20;Go&#x20;Ahead&#x20;"
+         addthis:description="South&#x20;Korea&#x20;and&#x20;the&#x20;United&#x20;States&#x20;have&#x20;announced&#x20;that&#x20;they&#x20;will&#x20;hold&#x20;joint&#x20;military&#x20;drills&#x20;on&#x20;a&#x20;similar&#x20;scale&#x20;to&#x20;previous&#x20;years,&#x20;despite&#x20;potential&#x20;talks&#x20;between&#x20;President&#x20;Trump&#x20;and&#x20;Kim&#x20;Jong&#x20;Un...">
+      <a class="addthis_button_facebook"></a>
+      <a class="addthis_button_twitter"></a>
+      <a class="addthis_button_google_plusone_share"></a>
+      <a class="addthis_button_pinterest_share"></a>
+      <a class="addthis_button_linkedin"></a>
+      <a class="addthis_button_email"></a>
+    </div>
+  </div>
+</div>
+
+  </div>
+
+  </div>
+
+            </aside>
+            
+            <div class="layout-content page page--sidebar">
+                <div class="region region-content">
+    
+
+<div id="block-forcesnet-content" data-block-plugin-id="system_main_block" class="block block-system block-system-main-block">
+  
+    
+      
+
+<div class="article__wrapper">
+  
+  <article role="article" about="/news/scaled-down-military-drills-between-us-and-south-korea-go-ahead" class="article node node--type-article node--view-mode-full">
+
+    <div class="article__media">
+      
+      
+      
+            <div class="field field--name-field-cover-image field--type-image field--label-hidden field__item">  <img src="/sites/default/files/styles/cover_image/public/1000w_q95_10.jpg?itok=u7N0M4AT" width="800" height="450" alt="U.S. Army and South Korean Army take part in Exercise Warrior Strike IX" typeof="foaf:Image" class="image-style-cover-image" />
+
+
+</div>
+      
+      
+    </div>
+
+    <div class="node__content">
+      
+      <div class="field field--name-field-content field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">  <div class="paragraph paragraph--type--related-content paragraph--view-mode--default">
+          
+            <div class="field field--name-field-related-content field--type-entity-reference field--label-hidden field__item">
+<article role="article" about="/news/tri-service/comment-why-we-shouldnt-snigger-north-korea" class="node node--type-article node--view-mode-embedded-teaser panel embedded-article">
+
+<div class="article__media">
+  
+            <div class="field field--name-field-cover-image field--type-image field--label-hidden field__item">  <a href="/news/tri-service/comment-why-we-shouldnt-snigger-north-korea"><img src="/sites/default/files/styles/list_teaser/public/nk2.jpg?itok=NsnpXqYh" width="539" height="304" alt="Why We Shouldn&amp;#039;t Snigger At North Korea " title="Why We Shouldn&amp;#039;t Snigger At North Korea " typeof="foaf:Image" class="image-style-list-teaser" />
+
+</a>
+</div>
+      
+</div>
+
+
+<h3  class="article__title">
+  <a href="/news/tri-service/comment-why-we-shouldnt-snigger-north-korea" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Comment: Why We Shouldn&#039;t Snigger At North Korea </span>
+</a>
+</h3>
+
+
+<div class="article__body">
+  
+</div>
+
+  <a href="/news/tri-service/comment-why-we-shouldnt-snigger-north-korea" class="article__read-more">Read more</a>
+
+</article>
+</div>
+      
+      </div>
+</div>
+              <div class="field__item">  <div class="paragraph paragraph--type--rich-text paragraph--view-mode--default">
+          
+            <div class="basic-rich-text field field--name-field-rich-text field--type-text-long field--label-hidden field__item"><p>South Korea and the United States have announced that they will hold joint military drills, despite potential talks between President Trump and Kim Jong Un.</p>
+
+<p>However, the drills are likely to be more low-key than past years ahead of two highly anticipated summits among the countries' leaders.</p>
+
+<p>The Pentagon said the exercises will begin on April 1.</p>
+
+<p>The announcement comes as Donald Trump prepares for a major political summit with Kim Jong Un.</p>
+
+<p>The exercises, named “Foal Eagle and Key Resolve”, will last for four weeks, meaning they would end before Trump met with the North Korean leader.</p>
+
+<p>They were postponed during the Pyeongchang Winter Olympics, which saw rare co-operative steps between the rival Korean nations after months of confrontation over the North's weapons programmes.</p></div>
+      
+      </div>
+</div>
+              <div class="field__item"><figure role="group" class="caption caption-article embedded-entity">
+  <article class="media media-image view-mode-embedded" data-quickedit-entity-id="paragraph/75426" data-quickedit-entity-instance-id="0">
+      
+            <div class="field field--name-field-image field--type-image field--label-hidden field__item">  <img src="/sites/default/files/styles/inline_image/public/1000w_q95%20%281%29_1.jpg?itok=6QqvSg1y" width="750" height="501" alt="U.S. Army and South Korean Army take part in Exercise Warrior Strike IX in South Korea in December" typeof="foaf:Image" class="image-style-inline-image" />
+
+
+</div>
+      
+  </article>
+  <figcaption>
+            <div class="field field--name-field-caption field--type-string field--label-hidden field__item">U.S. Army and South Korean Army take part in Exercise Warrior Strike IX in South Korea in December</div>
+      </figcaption>
+</figure>
+</div>
+              <div class="field__item">  <div class="paragraph paragraph--type--rich-text paragraph--view-mode--default">
+          
+            <div class="basic-rich-text field field--name-field-rich-text field--type-text-long field--label-hidden field__item"><p>A Pentagon spokesman said:</p>
+
+<p>"Secretary of Defense James N. Mattis and the Republic of Korea Minister of National Defense Song Young-moo have agreed to resume the annual combined exercises including Foal Eagle and Key Resolve which were de-conflicted with the schedule of the Olympic Games.</p>
+
+<blockquote>
+<p>“The exercises are expected to resume April 1, 2018, at a scale similar to that of the previous years.</p>
+</blockquote>
+
+<p>"The United Nations Command has notified the Korean People's Army on the schedule as well as the defensive nature of the annual exercises."</p>
+
+<p>North Korea is known to view the exercises held between the US and South Korea as a form of provocation, and has used them as justification for nuclear testing in the past.</p>
+
+<p>The exercises begin with Foal Eagle, a field training drill that will last about four weeks, compared with its typical two-month run.</p>
+
+<p>The other drill, known as Key Resolve, is a computer-simulated command post exercise and is scheduled to start around the middle of April for a usual two-week run, a South Korean official said.</p>
+
+<p>Choi Kang, vice president of Seoul's Asan Institute for Policy Studie said: </p>
+
+<blockquote>
+<p>"These are low-key drills. Now it's a dialogue mode so they are trying to keep pace with that."</p>
+</blockquote></div>
+      
+      </div>
+</div>
+              <div class="field__item">  <div class="paragraph paragraph--type--related-content paragraph--view-mode--default">
+          
+            <div class="field field--name-field-related-content field--type-entity-reference field--label-hidden field__item">
+<article role="article" about="/news/north-korea-sent-banned-chemical-items-syria-says-un-experts" class="node node--type-article node--view-mode-embedded-teaser panel embedded-article">
+
+<div class="article__media">
+  
+            <div class="field field--name-field-cover-image field--type-image field--label-hidden field__item">  <a href="/news/north-korea-sent-banned-chemical-items-syria-says-un-experts"><img src="/sites/default/files/styles/list_teaser/public/KJU%20PA-33936156.jpg?itok=CkKJmuIv" width="539" height="304" alt="Kim Jong Un" typeof="foaf:Image" class="image-style-list-teaser" />
+
+</a>
+</div>
+      
+</div>
+
+
+<h3  class="article__title">
+  <a href="/news/north-korea-sent-banned-chemical-items-syria-says-un-experts" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">North Korea &#039;Sent Banned Chemical Items To Syria&#039;</span>
+</a>
+</h3>
+
+
+<div class="article__body">
+  
+</div>
+
+  <a href="/news/north-korea-sent-banned-chemical-items-syria-says-un-experts" class="article__read-more">Read more</a>
+
+</article>
+</div>
+      
+      </div>
+</div>
+              <div class="field__item">
+            <div class="field field--name-field-image field--type-image field--label-hidden field__item">  <img src="/sites/default/files/styles/inline_image/public/1000w_q95%20%283%29.jpg?itok=vcb9r0US" width="750" height="501" alt="U.S. Army and South Korean Army take part in Exercise Warrior Strike IX in South Korea in December" typeof="foaf:Image" class="image-style-inline-image" />
+
+
+</div>
+      </div>
+          </div>
+  
+    </div>
+  </article>
+</div>
+
+  </div>
+<div id="block-dfptagforceshi" data-block-plugin-id="dfp_ad:f2fa885e-1f38-4982-a209-46ede86b4e13" class="block block-dfp block-dfp-adf2fa885e-1f38-4982-a209-46ede86b4e13">
+  
+    
+      <div id="js-dfp-tag-forceshi">
+        <script type="text/javascript">
+        googletag.cmd.push(function() {
+            googletag.display('js-dfp-tag-forceshi');
+        });
+    </script>
+</div>
+
+  </div>
+<div class="views-element-container block block-views block-views-blocktopics-block-1 topics-block" id="block-views-block-topics-block-1" data-block-plugin-id="views_block:topics-block_1">
+  
+      <h2 class="topics-block__label">Topics:</h2>
+    
+      <div><div class="view view-topics view-id-topics view-display-id-block_1 js-view-dom-id-82f96c1841a9fbb653694caba22b562f8883ffe1391524d81aeeaf533482c114">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row">
+    <div class="views-field views-field-name"><span class="field-content"><a href="/news-0" hreflang="en">News</a></span></div>
+  </div>
+
+    </div>
+  
+      
+
+          </div>
+</div>
+
+  </div>
+
+  </div>
+
+            </div>                    </div>
+          
+                    <aside class="right-column" role="complementary">
+              <div class="region region-sidebar-second">
+    <div id="block-dfptagforcesside" data-block-plugin-id="dfp_ad:664c74b9-afc0-4653-a823-b45b27a40834" class="block block-dfp block-dfp-ad664c74b9-afc0-4653-a823-b45b27a40834">
+  
+    
+      <div id="js-dfp-tag-forcesside">
+        <script type="text/javascript">
+        googletag.cmd.push(function() {
+            googletag.display('js-dfp-tag-forcesside');
+        });
+    </script>
+</div>
+
+  </div>
+
+  </div>
+
+          </aside>
+                  </main>
+        </div>
+
+                <div class="banded-section banded-section--additional" role="complementary">
+          <div class="container">
+            <div class="page page--no-margin">
+                <div class="region region-additional-content">
+    <div id="block-ftvoutbrain" data-block-plugin-id="ftv_outbrain" class="block block-ftv-outbrain">
+    <div class="block-view-inner">
+    
+        
+            <div class="OUTBRAIN" data-src="https://www.forces.net/node/105381" data-widget-id="AR_2" data-ob-template="ForcesTV"></div>
+<script type="text/javascript" async="async" src="https://widgets.outbrain.com/outbrain.js"></script>
+
+        </div>
+</div>
+
+  </div>
+
+            </div>
+          </div>
+        </div>
+                <button id="js-load-more" class="article__button-load">
+        </button>
+        <svg class="js-loading js-hide">
+            <use xlink:href="#loading"></use>
+        </svg>
+        </div>
+      </div>
+
+      
+      
+      <footer class="footer" role="contentinfo">
+          <div class="container">
+            <div class="footer__bg"></div>
+            <div class="footer__section footer__contact">
+              <svg class="footer__logo">
+                  <use xlink:href="#forces-logo-alt"></use>
+              </svg>
+              <span class="footer__title">Contact Us</span>
+              <ul class="footer__icon-list">
+                <li><a href="mailto:info@bfbs.com"><span class="icon-roundel icon-roundel--footer"><svg class="icon icon--roundel icon--footer"><use xlink:href="#email"></use></svg>
+                </span>Email</a></li>
+                <li>
+                  <span class="icon-roundel icon-roundel--footer"><svg class="icon icon--roundel icon--footer"><use xlink:href="#phone"></use></svg>
+                  </span>+44 (0) 2037 504 550</li>
+              </ul>
+            </div>
+            <div class="footer__section footer__nav">
+              
+              <ul class="menu">
+              
+      <li class="menu-item">
+
+        <a href="/radio/ondemand" >
+            <span>
+          BFBS Radio On Demand
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/website-terms-of-use" >
+            <span>
+          Website Terms of Use
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/privacy-policy" >
+            <span>
+          Privacy Policy
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="/competition-terms-conditions" >
+            <span>
+          Competition Terms and Conditions
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="http://bfbs.com/survey/" >
+            <span>
+          BFBS Survey
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="menu-item">
+
+        <a href="http://jobs.ssvc.com/" >
+            <span>
+          Job Opportunities
+              </span>
+        </a>
+
+              </li>
+        </ul>
+  
+
+
+            </div>
+            <div class="footer__section footer__links">
+              
+              <ul class="menu">
+              
+      <li class="facebook-square menu-item" target="_blank">
+
+        <a href="https://www.facebook.com/TheForcesNetwork"  class="facebook-square" target="_blank">
+            <span>
+          Facebook
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="instagram-square menu-item" target="_blank">
+
+        <a href="https://www.instagram.com/forcesnews/"  class="instagram-square" target="_blank">
+            <span>
+          Instagram
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="twitter-square menu-item" target="_blank">
+
+        <a href="https://twitter.com/ForcesNews"  class="twitter-square" target="_blank">
+            <span>
+          Twitter
+              </span>
+        </a>
+
+              </li>
+          
+      <li class="youtube-square menu-item" target="_blank">
+
+        <a href="https://www.youtube.com/user/BritishForcesNews"  class="youtube-square" target="_blank">
+            <span>
+          YouTube
+              </span>
+        </a>
+
+              </li>
+        </ul>
+  
+
+
+            </div>
+          </div>
+      </footer>
+      <div class="ssvc">
+        <div class="container">
+          <svg class="icon--ssvc">
+            <use xlink:href="#SSVC"></use>
+          </svg>
+          <p class="ssvc__text"><a class="ssvc__link" href="http://www.ssvc.com/">Services Sound &amp; Vision Corporation</a>
+Services Sound &amp; Vision Corporation, Chalfont Grove, Narcot Lane, Gerrards Cross, Buckinghamshire, SL9 8TN<br />Charity Registered in England No. 233480. Company Limited by Guarantee. Registered in England No. 407270</p>
+        </div>
+      </div>
+
+  </div>
+</div>
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/105385","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","addtohomescreen":{"debug":false,"modal":false,"mandatory":false,"skipFirstVisit":true,"autostart":true,"icon":true,"startDelay":1,"lifespan":0,"displayPace":1440,"maxDisplayCount":1},"google_analytics":{"trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"statistics":{"data":{"nid":"105385"},"url":"\/core\/modules\/statistics\/statistics.php"},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"ajax":[],"user":{"uid":0,"permissionsHash":"4db32acdbce08eb9dafc2a747f44929383db21a4520b5bc7acd6fce92367d286"}}</script>
+<script src="/core/assets/vendor/domready/ready.min.js?v=1.0.8"></script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=2.2.4"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=8.3.7"></script>
+<script src="/core/misc/drupal.js?v=8.3.7"></script>
+<script src="/core/misc/drupal.init.js?v=8.3.7"></script>
+<script src="/libraries/addtohomescreen/src/addtohomescreen.min.js?v=3.2.3"></script>
+<script src="/modules/contrib/addtohomescreen/addtohomescreen.js?v=3.2.3"></script>
+<script src="/modules/contrib/google_analytics/js/google_analytics.js?v=8.3.7"></script>
+<script src="/themes/custom/forcesnet/assets/dist/js/bundle.min.js?v=1.x"></script>
+<script src="/core/modules/statistics/statistics.js?v=8.3.7"></script>
+
+    <script type='text/javascript'>
+
+    var authors = 'anthony.woodley@ssvc.com';
+    if(document.getElementsByClassName('article-meta__reporter')[0])
+    {
+      authors = document.getElementsByClassName('article-meta__reporter')[0].innerText
+    }
+
+    var sections = document.location.href.split('/')[3];
+    
+    if( !sections ) {
+      sections = 'Forces.net';
+    }
+    
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 47429;
+    _sf_async_config.domain = 'www.forces.net';
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.flickerControl = false;
+    _sf_async_config.sections = document.location.href.split('/')[3]; 
+    _sf_async_config.authors = authors;
+    /** CONFIGURATION END **/
+    (function() {
+        function loadChartbeat() {
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+            document.body.appendChild(e);
+        }
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+            loadChartbeat : function() {
+                oldonload();
+                loadChartbeat();
+            };
+    })();
+</script>
+
+
+    <script type="text/javascript">
+        function initAddThis() {
+            addthis.init()
+        }
+
+        initAddThis();
+    </script>
+
+  </body>
+</html>

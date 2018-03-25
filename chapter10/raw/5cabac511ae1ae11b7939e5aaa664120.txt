@@ -1,0 +1,1061 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+	<meta charset="UTF-8">
+	<title>Trump signs order punishing China on trade | abc11.com</title>
+			<link rel="amphtml" href="http://abc11.com/amp/politics/trump-signs-order-punishing-china-on-trade/3246873/">
+		
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta name="description" content="President Donald Trump signed an order Thursday that paves the way for imposing tariffs on as much as &#38;#36;60 billion worth of Chinese imports.">
+	<meta name="keywords" content="trump,tariffs,china,trade,trade,china">
+	<meta name="news_keywords" content="trump,tariffs,china,trade">
+	<meta name="robots" content="NOODP,NOYDIR">
+	
+	<meta name="google-site-verification" content="0LzYdlKjKWtJkzxw_b7jBuWIFfpmkxoz3D1SvDAfTq0">
+	<meta name="msvalidate.01" content="59C39F9AA91BE12CB90B7EF18335463D">
+	<meta property="og:locale" content="en_US" />
+	<link id="canonical" rel="canonical" href="http://abc11.com/politics/trump-signs-order-punishing-china-on-trade/3246873/">
+	<meta property="og:type" content="article">
+	<meta property="og:url" content="http://abc11.com/3246873/">
+	<meta property="og:title" content="Trump signs order punishing China on trade">
+	<meta property="og:description" content="President Donald Trump signed an order Thursday that paves the way for imposing tariffs on as much as &#36;60 billion worth of Chinese imports.">
+	<meta property="og:image" content="http://cdn.abclocal.go.com/content/wtvd/images/cms/982062_1280x720.jpg">
+	<meta property="og:site_name" content="ABC11 Raleigh-Durham">
+	<meta property="fb:app_id" content="476025212522972">
+	<meta property="fb:pages" content="57780972549">
+	
+	<meta property="article:publisher" content="https://facebook.com/abc11">
+	<meta property="article:section" content="Politics">
+	<meta property="article:tag" content="trump,tariffs,china,trade,trade,china">
+	<meta property="article:published_time" content="2018-03-22T17:28:35.000Z">
+	<meta property="article:modified_time" content="2018-03-22T18:35:06.000Z">
+	
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="Trump signs order punishing China on trade">
+	<meta name="twitter:description" content="President Donald Trump signed an order Thursday that paves the way for imposing tariffs on as much as &#36;60 billion worth of Chinese imports.">
+	<meta name="twitter:image" content="http://cdn.abclocal.go.com/content/wtvd/images/cms/982062_1280x720.jpg">
+	<meta name="twitter:site" content="@abc11_wtvd">
+	<meta name="twitter:creator" content="@abc11_wtvd">
+<link rel="alternate" href="http://abc11.com/feed/" title="ABC11 RSS" type="application/rss+xml">
+	<link rel="alternate" href="android-app://com.abclocal.wtvd.news/http/abc11.com/politics/trump-signs-order-punishing-china-on-trade/3246873/" />
+	<link href='//cdn.abclocal.go.com' rel='preconnect' crossorigin>
+	<link href='//cdn.unid.go.com' rel='preconnect' crossorigin>
+	<link href='//cdn.registerdisney.go.com' rel='preconnect' crossorigin>
+	<link href='//merlin.abc.go.com' rel='preconnect' crossorigin>
+	<link href='//tags.bluekai.com' rel='preconnect' crossorigin>
+	<link href='//apis.google.com' rel='preconnect' crossorigin>
+	<link href='//fonts.gstatic.com' rel='preconnect' crossorigin>
+	<link rel="shortcut icon" href="http://cdn.abclocal.go.com/assets/news/wtvd/images/logos/favicon.ico">
+	<link rel="apple-touch-icon" href="http://cdn.abclocal.go.com/assets/news/wtvd/images/logos/touch-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="http://cdn.abclocal.go.com/assets/news/wtvd/images/logos/touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="http://cdn.abclocal.go.com/assets/news/wtvd/images/logos/touch-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="http://cdn.abclocal.go.com/assets/news/wtvd/images/logos/touch-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="http://cdn.abclocal.go.com/assets/news/wtvd/images/logos/touch-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="http://cdn.abclocal.go.com/assets/news/wtvd/images/logos/touch-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="http://cdn.abclocal.go.com/assets/news/wtvd/images/logos/touch-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="http://cdn.abclocal.go.com/assets/news/wtvd/images/logos/touch-icon-180x180.png">
+<link rel="stylesheet" type="text/css" href="http://cdn.abclocal.go.com/assets/compiled/css/core/1.5.6/core.min.css">
+<link rel="stylesheet" type="text/css" href="http://cdn.abclocal.go.com/assets/compiled/css/library/1.0.2/library.min.css">
+<link rel="stylesheet" type="text/css" href="http://cdn.abclocal.go.com/assets/compiled/css/wtvd-common/1.0.0/wtvd-common.min.css">
+<link rel="stylesheet" type="text/css" href="http://cdn.abclocal.go.com/assets/compiled/css/story/1.1.2/story.min.css">
+
+<!--[if lt IE 9]>
+	<link rel="stylesheet" type="text/css" href="http://cdn.abclocal.go.com/assets/news/global/css/ie8/frame.css" />
+	
+<![endif]-->
+<script async defer src="//cdn.unid.go.com/js/unid.min.js" type="text/javascript"></script><script type="text/javascript" src="http://cdn.abclocal.go.com/assets/compiled/js/top/1.0.1/top.min.js"></script>
+
+<script>
+var merlinObj = new Merlin({
+    "contentId": "3246873",
+    "productId": "otvwtvdWeb",
+    "source": "otv",
+    "traceId": ""
+});
+//merlinObj.setRec("topPostFromX","12345");	//(recName, recID)
+merlinObj.registerBasic(true);
+</script>
+
+</head>
+<body id="top" class="wtvd body-story">
+
+	<div class="wrapper">
+		<!--[if lt IE 8]>
+			<div class="unsupported"><strong>You are using an unsupported browser or browser setting.</strong><br>Please ensure you are not viewing this site in IE &quot;compatibility view,&quot; <a href="http://browsehappy.com/">upgrade your browser</a>, or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</div>
+		<![endif]-->
+		
+			<a href="/video/"><div class="top-live-now-wrapper">
+					<div class="top-live-now-inner">
+						<img id="opt-video-play" src="http://cdn.abclocal.go.com/assets/news/global/images/nav/video-play.png" width="22" height="16" alt="">
+			
+						<span class="opt-live-text">Today's Top Stories</span><button id="btn-watch-video" class="frame-search-button">WATCH NOW</button>
+				
+					</div>
+			</div></a>
+		
+
+		<header role="banner" class="breakingAlerts">
+			<div class="search">
+				
+<section id="frame-search-form">
+	<form class="form-search frame-search" action="/search/?query=" method="get">
+		<!--<input type="hidden" name="site" value="wtvd">-->
+		<input type="text" name="query" class="search-query frame-search-input" placeholder="Search Our Site" autocomplete="off"/>
+		<button type="submit" class="frame-search-button">GO</button>
+	</form>
+	<div id="frame-suggestions"></div>
+</section>
+			</div>
+			
+<div class="nav-container-default">
+
+<!-- The weather popup form -->
+<form id="overlay_popup_nav_form" class="form-inline form-overlay" style="display:none;">
+	<div class="info">Personalize your weather by entering a location.</div>
+	<div class="error">Sorry, but the location you entered was not found. Please try again.</div>
+	
+	<div class="edit-form-submit">
+		<input id="location-weather-input" type="text" name="location" >
+		<input class="button"  id="go-weather-edit-btn" type="button" value="Submit" />
+		<input type="hidden" name="station" value="wtvd" />
+		<input type="hidden" id="cityId-weather-input" name="cityId" value="" />
+	</div>
+</form>
+	<section class="nav-weather-main">
+	</section>
+	<div class="brand">
+		<div class="brand-small">
+			<a href="http://abc11.com/"  data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:abc_logo%22},%22granular%22:{%22nav%22:%22header:abc_logo%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'>
+
+				<img src="http://cdn.abclocal.go.com/assets/news/wtvd/images/logos/header-small.png" alt="ABC11">
+
+			</a>
+		</div>
+		<div class="brand-large" itemscope itemtype="http://schema.org/Organization">
+			<a href="http://abc11.com/" itemprop="url"  data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:abc_logo%22},%22granular%22:{%22nav%22:%22header:abc_logo%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'>
+
+				<img src="http://cdn.abclocal.go.com/assets/news/wtvd/images/logos/header-large.png" alt="ABC11 Raleigh-Durham" itemprop="logo">
+
+			</a>
+		</div>
+	</div>
+	<nav class="nav" role="navigation">
+		<a class="nav-sections" href="/news/"  data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:Sections%22},%22granular%22:{%22nav%22:%22header:Sections%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'><img src="http://cdn.abclocal.go.com/assets/news/global/images/nav/sections.png" width="19" height="16" alt=""><span class="nav-icon-label">Sections</span></a>
+		<a class="nav-traffic" href="/traffic/"  data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:Traffic%22},%22granular%22:{%22nav%22:%22header:Traffic%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'><img src="http://cdn.abclocal.go.com/assets/news/global/images/nav/traffic.png" width="32" height="16" alt=""><span class="nav-icon-label">Traffic</span></a>
+		<a class="nav-video" href="/video/"  data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:Video%22},%22granular%22:{%22nav%22:%22header:Video%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'><img src="http://cdn.abclocal.go.com/assets/news/global/images/nav/video-play.png" width="22" height="16" alt=""><span class="nav-icon-label">Watch</span></a>
+		<span class="nav-local">
+			<a href="/raleigh/" data-clink= "{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:Raleigh_link_1%22},%22granular%22:{%22nav%22:%22header:Raleigh%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:link_1%22}}">Raleigh</a><a href="/durham/" data-clink= "{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:Durham_link_2%22},%22granular%22:{%22nav%22:%22header:Durham%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:link_2%22}}">Durham</a><a href="/fayetteville/" data-clink= "{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:Fayetteville_link_3%22},%22granular%22:{%22nav%22:%22header:Fayetteville%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:link_3%22}}">Fayetteville</a><a href="/counties/" data-clink= "{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:Surrounding-Area_link_4%22},%22granular%22:{%22nav%22:%22header:Surrounding-Area%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:link_4%22}}">Surrounding Area</a> 
+		</span>
+	</nav>
+
+
+</div> <!-- end .nav-container-default -->
+
+			<div class="clear"></div>
+		</header>
+<header id="feature-container" class="feature-dark">
+<section class="breaking-news" style="display:none;">
+	<div id="breaking-news-handler" >
+		<ul id="breaking-news-stories" class="breaking-news-stories collapse">
+			
+		</ul>
+	</div>
+	<div class="breaking-news-pager">
+		<div class="hr"><hr /></div>
+		<ul>
+			
+		</ul>
+	</div>
+	<div class="clear"></div>
+</section>
+
+
+<a class="feature-action has-breaking" href="/video/"  data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22feature-header:feature-header-action%22},%22granular%22:{%22nav%22:%22feature-header:feature-header-action%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}"><svg class="dark-play" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 17"><path fill="#FFF" d="M.762.685v15.63H15.24V.684H.76zM4.784 12.43V4.57l6.433 3.93-6.433 3.93z"/></svg><p>TOP VIDEOS</p></a><div id="feature-header-container"><div id="feature-header-left"><a class="feature-menu" href="/news/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22feature-header:Sections%22},%22granular%22:{%22nav%22:%22feature-header:Sections%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}"><svg class="dark-burger" viewBox="0 0 24 22" xmlns="http://www.w3.org/2000/svg"><g fill="#FFF" fill-rule="evenodd"><path d="M0 12.318h24v-3H0M0 21.136h24v-3H0M0 3.5h24v-3H0"/></g></svg></a><a class="feature-logo" href="http://abc11.com"  data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22feature-header:abc_logo-new%22},%22granular%22:{%22nav%22:%22feature-header:abc_logo-new%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}"><img src="http://cdn.abclocal.go.com/assets/news/global/images/feature-header/wtvd_icon.png" alt="kabc"></a></div><div id="feature-header-right"><div class="feature-login-container"><a class="feature-logged-out register" data-flow="newsletter" href="#">Log in</a><a class="feature-logged-in profile" href="#"><svg class="dark-profile" width="18" height="21" viewBox="0 0 18 22" xmlns="http://www.w3.org/2000/svg"><g fill="#FFF" fill-rule="evenodd"><path d="M17.203 18.502c-.032-2.96-3.672-5.354-8.16-5.354-4.49 0-8.128 2.393-8.16 5.354H.88v3.21h16.326v-3.21h-.003zM14.733 6.094c0 3.143-2.548 5.69-5.69 5.69-3.143 0-5.69-2.547-5.69-5.69 0-3.143 2.547-5.69 5.69-5.69 3.142 0 5.69 2.547 5.69 5.69"/></g></svg></a></div><div class="feature-weather-container"><a href="/weather/"><span class="feature-degrees"></span><div class="feature-weather"></div></a></div></div></div></header>
+		<nav role="sections">
+			<div class="nav-sections-main-local">
+				<div class="nav-sections-links nav-sections-main">
+					<a href="/" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Home_link_1%22},%22granular%22:{%22nav%22:%22header:navbar:Home%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:link_1%22}}'>Home</a>
+					<a href="/weather/" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:AccuWeather_link_2%22},%22granular%22:{%22nav%22:%22header:navbar:AccuWeather%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:link_2%22}}'>AccuWeather</a>
+					<a href="/traffic/" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Traffic_link_3%22},%22granular%22:{%22nav%22:%22header:navbar:Traffic%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:link_3%22}}'>Traffic</a>
+					<a href="/video/" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Video_link_4%22},%22granular%22:{%22nav%22:%22header:navbar:Video%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:link_4%22}}'>Video</a>
+					<a href="/photos/" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Photos_link_5%22},%22granular%22:{%22nav%22:%22header:navbar:Photos%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:link_5%22}}'>Photos</a>
+					<a href="/apps/" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Mobile-Apps_link_6%22},%22granular%22:{%22nav%22:%22header:navbar:Mobile-Apps%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:link_6%22}}'>Apps</a>
+				</div>
+				<div class="nav-sections-links nav-sections-local subnav-local">
+					<div class="nav-sections-header">
+						<a class="nav-section-name" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:Local-News%22},%22granular%22:{%22nav%22:%22header:Local-News%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'>Local News <div class="expand-arrow-light"></div></a>
+						<div class="nav-sections-links-collapsed">
+							<a href="/raleigh/" data-clink= "{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Raleigh_local_news-link_1%22},%22granular%22:{%22nav%22:%22header:navbar:Raleigh%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:local_news-link_1%22}}">Raleigh</a><a href="/durham/" data-clink= "{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Durham_local_news-link_2%22},%22granular%22:{%22nav%22:%22header:navbar:Durham%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:local_news-link_2%22}}">Durham</a><a href="/fayetteville/" data-clink= "{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Fayetteville_local_news-link_3%22},%22granular%22:{%22nav%22:%22header:navbar:Fayetteville%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:local_news-link_3%22}}">Fayetteville</a><a href="/counties/" data-clink= "{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Surrounding-Area_local_news-link_4%22},%22granular%22:{%22nav%22:%22header:navbar:Surrounding-Area%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:local_news-link_4%22}}">Surrounding Area</a>
+						</div>
+					</div> <!-- end .nav-sections-header -->
+				</div>
+				<div class="clear"></div>
+			</div>
+
+			
+			<div class="nav-sections-links nav-sections-categories subnav-categories">
+				<div class="nav-sections-header">
+					<a class="nav-section-name" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:Categories%22},%22granular%22:{%22nav%22:%22header:Categories%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'>Categories <div class="expand-arrow-light"></div></a>
+					<div class="nav-sections-links-collapsed">
+						<div class="nav-sections-categories-one">
+							<a href="/us-world/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:US-and World_categories1-link_1%22},%22granular%22:{%22nav%22:%22header:navbar:US-and World%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:categories1-link_1%22}}">U.S. & World</a>
+<a href="/state/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:North-Carolina_categories1-link_2%22},%22granular%22:{%22nav%22:%22header:navbar:North-Carolina%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:categories1-link_2%22}}">North Carolina</a>
+<a href="/entertainment/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Entertainment_categories1-link_3%22},%22granular%22:{%22nav%22:%22header:navbar:Entertainment%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:categories1-link_3%22}}">Entertainment</a>
+<a href="/sports/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Sports_categories1-link_4%22},%22granular%22:{%22nav%22:%22header:navbar:Sports%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:categories1-link_4%22}}">Sports</a>
+<a href="/politics/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Politics_categories1-link_5%22},%22granular%22:{%22nav%22:%22header:navbar:Politics%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:categories1-link_5%22}}">Politics</a>
+<a href="/health/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Health_categories1-link_6%22},%22granular%22:{%22nav%22:%22header:navbar:Health%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:categories1-link_6%22}}">Health</a>
+
+						</div>
+						<div class="nav-sections-categories-two">
+							<a href="/iteam/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:I-Team_categories2-link_1%22},%22granular%22:{%22nav%22:%22header:navbar:I-Team%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:categories2-link_1%22}}">I-Team</a>
+<a href="/troubleshooter/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Troubleshooter_categories2-link_2%22},%22granular%22:{%22nav%22:%22header:navbar:Troubleshooter%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:categories2-link_2%22}}">Troubleshooter</a>
+<a href="/moneysaver/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Moneysaver_categories2-link_3%22},%22granular%22:{%22nav%22:%22header:navbar:Moneysaver%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:categories2-link_3%22}}">Moneysaver</a>
+<a href="http://www.abc11.com/scienceclub" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Science-Club_categories2-link_4%22},%22granular%22:{%22nav%22:%22header:navbar:Science-Club%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:categories2-link_4%22}}">Science Club</a>
+
+						</div>
+					</div> <!-- end .nav-sections-links-collapsed -->
+				</div> <!-- end .nav-sections-header -->
+				<div class="clear"></div>
+			</div>
+			
+
+
+			
+			<div class="nav-sections-community-shows">
+				<div class="nav-sections-links nav-sections-community subnav-community">
+					<div class="nav-sections-header">
+						<a class="nav-section-name" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:Station-Info%22},%22granular%22:{%22nav%22:%22header:Station-Info%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'>Station Info <div class="expand-arrow-light"></div></a>
+						<div class="nav-sections-links-collapsed">
+							<a href="/about/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:About-ABC11_community-link_1%22},%22granular%22:{%22nav%22:%22header:navbar:About-ABC11%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:community-link_1%22}}">About ABC11</a>
+<a href="http://iwitness.abc11.com" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:EyeWitness-Photos-Video_community-link_2%22},%22granular%22:{%22nav%22:%22header:navbar:EyeWitness-Photos-Video%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:community-link_2%22}}">EyeWitness Photos/Video</a>
+<a href="/together/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:ABC11-Together_community-link_3%22},%22granular%22:{%22nav%22:%22header:navbar:ABC11-Together%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:community-link_3%22}}">ABC11 Together</a>
+<a href="http://abc11.com/community/calendar/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Events-Calendar_community-link_4%22},%22granular%22:{%22nav%22:%22header:navbar:Events-Calendar%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:community-link_4%22}}">Events Calendar</a>
+<a href="/tvlistings/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:TV-Listings_community-link_5%22},%22granular%22:{%22nav%22:%22header:navbar:TV-Listings%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:community-link_5%22}}">TV Listings</a>
+<a href="/jobs/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Jobs_community-link_6%22},%22granular%22:{%22nav%22:%22header:navbar:Jobs%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:community-link_6%22}}">Jobs</a>
+
+						</div> <!-- end .nav-sections-links-collapsed -->
+					</div> <!-- end .nav-sections-header -->
+				</div>
+			</div>
+
+			
+			<div class="nav-sections-community-shows">
+				<div class="nav-sections-links nav-sections-shows subnav-shows">
+					<div class="nav-sections-header">
+						<a class="nav-section-name" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:Shows%22},%22granular%22:{%22nav%22:%22header:Shows%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'>Shows <div class="expand-arrow-light"></div></a>
+						<div class="nav-sections-links-collapsed">
+							<a href="/live/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:ABC11-Live-Newscasts_shows-link_1%22},%22granular%22:{%22nav%22:%22header:navbar:ABC11-Live-Newscasts%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:shows-link_1%22}}">ABC11 Live Newscasts</a>
+<a href="/perspectives/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:ABC11-Perspectives_shows-link_2%22},%22granular%22:{%22nav%22:%22header:navbar:ABC11-Perspectives%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:shows-link_2%22}}">ABC11 Perspectives</a>
+<a href="http://www.laff.com/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:LAFF_shows-link_3%22},%22granular%22:{%22nav%22:%22header:navbar:LAFF%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:shows-link_3%22}}">LAFF</a>
+<a href="http://livewellnetwork.com/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Live-Well-Network_shows-link_4%22},%22granular%22:{%22nav%22:%22header:navbar:Live-Well-Network%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:shows-link_4%22}}">Live Well Network</a>
+
+						</div> <!-- end .nav-sections-links-collapsed -->
+					</div> <!-- end .nav-sections-header -->
+				</div> <!-- end .nav-sections-links -->
+				<div class="clear"></div>
+			</div> <!-- end .nav-sections-community-shows -->
+
+			<div class="nav-promos-follow">
+				<div class="nav-sections-promos">
+					
+					<div class="nav-sections-promo">
+						
+			<div class="nav-sections-promo-image">
+				<a href="http://abc11.com/together/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:image-ABC11-Together-Making-a-difference-in-the-community%22},%22granular%22:{%22nav%22:%22header:navbar:image-ABC11-Together-Making-a-difference-in-the-community%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}"><img class="mod-border" src="http://cdn.abclocal.go.com/content/wtvd/images/cms/2098199_120x68.jpg"></a>
+			</div>
+			<a href="http://abc11.com/together/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:text-ABC11-Together-Making-a-difference-in-the-community%22},%22granular%22:{%22nav%22:%22header:navbar:text-ABC11-Together-Making-a-difference-in-the-community%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}">ABC11 Together: Making a difference in the community</a>
+			
+						<div class="clear"></div>
+					</div>
+				</div> <!-- end .nav-sections-promos -->
+
+				<div class="frame-social nav-social">
+					<div class="frame-social-action">Follow Us</div>
+					<div class="frame-social-icons social-icons">
+						<a href="https://facebook.com/abc11" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:share-facebook%22},%22granular%22:{%22nav%22:%22header:share-facebook%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}"><img src="http://cdn.abclocal.go.com/assets/news/global/images/social/facebook/circle-white.png" width="31" height="31" alt="Facebook"></a><a href="https://twitter.com/abc11_wtvd" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:share-twitter%22},%22granular%22:{%22nav%22:%22header:share-twitter%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}"><img src="http://cdn.abclocal.go.com/assets/news/global/images/social/twitter/circle-white.png" width="31" height="31" alt="Twitter"></a><a href="https://www.instagram.com/abc11_wtvd/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:share-instagram%22},%22granular%22:{%22nav%22:%22header:share-instagram%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}"><img src="http://cdn.abclocal.go.com/assets/news/global/images/social/instagram/circle-white.png" width="31" height="31" alt="Instagram"></a><a href="/newsletters" data-clink={%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:share-newsletters%22},%22granular%22:{%22nav%22:%22header:share-newsletters%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}><img src="http://cdn.abclocal.go.com/assets/news/global/images/social/email/circle-white.png" width="31" height="31" alt="Newsletters"></a>
+					</div>
+					<div class="clear"></div>
+				</div>	<!-- end .frame-social nav-social -->
+
+				<div class="clear"></div>
+			</div> <!-- end .nav-promos-follow -->
+			<div class="clear"></div>
+
+			
+
+		</nav>
+
+
+		<main role="main">
+
+			
+<section class="breaking-news" style="display:none;">
+	<div id="breaking-news-handler" >
+		<ul id="breaking-news-stories" class="breaking-news-stories collapse">
+			
+		</ul>
+	</div>
+	<div class="breaking-news-pager">
+		<div class="hr"><hr /></div>
+		<ul>
+			
+		</ul>
+	</div>
+	<div class="clear"></div>
+</section>
+
+
+
+
+			<!-- empty div for sticky nav -->
+			<div class="nav-anchor"></div>
+
+			<div class="ad ad-banner responsive-ad"></div>
+
+			<div class="content">
+
+				<!-- START CONTENT -->
+
+					<!-- START CONTENT -->
+	<div class="main-wide main-left">
+		<!-- LEAD STORY -->
+		<section class="lead-story inner"><div class="taxonomy"><a href="http://abc11.com/topic/politics/">POLITICS</a></div><h1 class="headline">Trump signs order punishing China on trade</h1><div class="share-panel share-panel-legacy top-share"><div class="share social-icons" style="display:block;"><div class="share-option-partner share-option-facebook"><div class="fb-share-button" data-href="http%3A%2F%2Fabc11.com%2F3246873%2F" data-type="button"></div></div><div class="share-option-partner share-option-google"><div class="g-plusone" data-href="http%3A%2F%2Fabc11.com%2F3246873%2F" data-size="medium" data-annotation="none"></div></div><div class="share-option-partner share-option-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://abc11.com/3246873/" data-via="abc11_wtvd" data-text="Trump signs order punishing China on trade" data-related="abc11_wtvd" data-count="none" data-lang="en" ></a></div>	<div class="share-option-partner share-option-email"><a href="mailto:?subject=Trump signs order punishing China on trade&body=President Donald Trump signed an order Thursday that paves the way for imposing tariffs on as much as &#36;60 billion worth of Chinese imports. - http://abc11.com/3246873/"><span>Email</span></a></div>
+<div class="clear"></div></div></div><div class="share-panel-new" style="display: none;"><ul><li class="facebook" onclick='window.open("https://www.facebook.com/sharer.php?u=http%3A%2F%2Fabc11.com%2F3246873%2F", "_blank", "width=550,height=420,scrollbars=no,resizable=yes");'><a href="#"><svg viewBox="0 0 10 18" class="facebook-svg svg"><path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M2.519,3.811v2.294h-1.8v2.806h1.8v8.339h3.696V8.911h2.48c0,0,0.232-1.345,0.346-2.816H6.23V4.176c0-0.287,0.402-0.673,0.801-0.673h2.015V0.583H6.307C2.427,0.583,2.519,3.391,2.519,3.811z"/></svg><span>share</span></a></li><li class="gplus" onclick='window.open("https://plus.google.com/share?url=http%3A%2F%2Fabc11.com%2F3246873%2F", "_blank", "width=550,height=420,scrollbars=no,resizable=yes");'><a href="#"><svg version="1.1" viewBox="0 0 24 12.531" class="gplus-svg svg"><path fill="#FFFFFF" d="M17.375,3.298H15.75V5.49h-2.167v1.533h2.167v2.191h1.625V7.023h2.167V5.435h-2.167V3.298z"/><path fill="#FFFFFF" d="M6.217,4.997v2.465h3.25C9.25,8.887,8.004,9.928,6.217,9.928c-1.95,0-3.575-1.697-3.575-3.671c0-1.972,1.571-3.671,3.575-3.671c0.921,0,1.679,0.274,2.329,0.932l1.733-1.753c-1.083-0.987-2.437-1.59-4.062-1.59c-3.304,0-6.013,2.739-6.013,6.082s2.708,6.081,6.013,6.081c3.521,0,5.796-2.521,5.796-5.972c0-0.438-0.054-0.931-0.108-1.37L6.217,4.997"/></svg><span>share</span></a></li><li class="twitter" onclick='window.open("http://twitter.com/intent/tweet?url=http%3A%2F%2Fabc11.com%2F3246873%2F&text=Trump+signs+order+punishing+China+on+trade&via=abc11_wtvd", "_blank", "width=550,height=420,scrollbars=no,resizable=yes");'><a href="#"><svg viewBox="0 0 18 16" class="twitter-svg svg"><path fill="#FFFFFF" d="M16.91,3.037c-0.582,0.261-1.209,0.438-1.865,0.517c0.67-0.407,1.186-1.05,1.428-1.816c-0.627,0.376-1.322,0.649-2.061,0.796c-0.594-0.638-1.436-1.037-2.369-1.037c-1.793,0-3.246,1.47-3.246,3.283c0,0.257,0.029,0.507,0.084,0.748c-2.697-0.137-5.088-1.444-6.689-3.43c-0.279,0.485-0.439,1.049-0.439,1.65c0,1.139,0.573,2.144,1.443,2.732C2.664,6.464,2.164,6.316,1.727,6.07C1.726,6.084,1.726,6.098,1.726,6.112c0,1.591,1.118,2.917,2.604,3.218C4.057,9.405,3.77,9.445,3.475,9.445c-0.209,0-0.412-0.021-0.611-0.059c0.413,1.305,1.611,2.253,3.032,2.28c-1.11,0.88-2.511,1.404-4.031,1.404c-0.262,0-0.521-0.016-0.774-0.045c1.437,0.931,3.143,1.475,4.976,1.475c5.97,0,9.233-5.002,9.233-9.34c0-0.143-0.002-0.284-0.01-0.425C15.924,4.273,16.475,3.695,16.91,3.037"/></svg><span>tweet</span></a></li><li class="email"><a href="mailto:?subject=Trump signs order punishing China on trade&body=President Donald Trump signed an order Thursday that paves the way for imposing tariffs on as much as &#36;60 billion worth of Chinese imports. - http://abc11.com/3246873/"><svg viewBox="0 0 29 20" class="email-svg svg"><path fill="#FFFFFF" d="M28.09,18.868H0.911V3.464L14.5,14.694l13.59-11.23V18.868z M27.701,1.132L14.5,11.718L1.299,1.132H27.701z" /></svg><span>email</span></a></li></ul></div><div class="top-media headline-list-item type-imageCreator"><div class="image" data-imgsrc="http://cdn.abclocal.go.com/content/wtvd/images/cms/982062.jpg" data-imgalt="Donald Trump speaks at a rally organized by Tea Party Patriots in on Capitol Hill in Washington, Wednesday, Sept. 9">
+						<noscript itemscope itemtype="http://schema.org/ImageObject">
+							<meta itemprop="name url contentUrl" content="http://cdn.abclocal.go.com/content/wtvd/images/cms/982062_1280x720.jpg">
+							<meta itemprop="headline caption text" content="Trump signs order punishing China on trade">
+							<meta itemprop="description" content="Donald Trump speaks at a rally organized by Tea Party Patriots in on Capitol Hill in Washington, Wednesday, Sept. 9">
+							<img src="http://cdn.abclocal.go.com/content/wtvd/images/cms/982062_1280x720.jpg" alt="Donald Trump speaks at a rally organized by Tea Party Patriots in on Capitol Hill in Washington, Wednesday, Sept. 9" title="Trump signs order punishing China on trade">
+						</noscript><div class="image-caption global-caption ap">
+		<div class="origin-logo origin-image ap"><span class="ap">AP</span></div><span class="meta caption-text origin-image">
+				<p>Donald Trump speaks at a rally organized by Tea Party Patriots in on Capitol Hill in Washington, Wednesday, Sept. 9 (Carolyn Kaster)</p>
+			</span></div></div></div> <!-- end story --><div class="clear"></div>
+		</section>
+		<section class="story-body inner"><div class="originBylineContainer"><div class="image-caption global-caption ap byline">
+		<div class="origin-logo origin-image ap byline"><span class="ap byline">AP</span></div></div></div><div class="meta"><time class="timeago" datetime="2018-03-22T18:35:06Z">Thursday, March 22, 2018 02:35PM</time></div><div class="body-text"><div class="dateline">WASHINGTON -- </div>President Donald Trump signed an order Thursday that paves the way for imposing tariffs on as much as $60 billion worth of Chinese imports to punish Beijing for what he said is the theft of American technology and Chinese pressure on U.S. companies to hand it over.<br><br>"It is the largest deficit of any country in the history of our world," Trump said of the U.S.-China trade imbalance, blaming it for lost American jobs.<br> <div class="adRectangle-pos-small-inline" data-set="adAppend"></div> <br>He said his action would make the country stronger and richer.<br><br>China has already warned that it will take "all necessary measures" to defend itself, raising the prospect of a trade war between the world's two biggest economies.<br><br>The White House said Thursday that Trump would direct the Office of the U.S. Trade Representative to publish a list of proposed tariffs for public comment within 15 days. USTR has already identified potential targets: 1,300 product lines worth about $48 billion. The president is also asking Treasury Secretary Steven Mnuchin to come up with a list of restrictions on Chinese investment.<br><br>Financial markets skidded Thursday on the risk of growing commercial conflict between the U.S. and China and the possibility that China will impose retaliatory tariffs on U.S. products. Dozens of industry groups sent a letter last weekend to Trump warning that "the imposition of sweeping tariffs would trigger a chain reaction of negative consequences for the U.S. economy, provoking retaliation; stifling U.S. agriculture, goods, and services exports, and raising costs for businesses and consumers."<br><br>The administration moves on Thursday mark the end of a seven-month U.S. investigation into the hardball tactics China has used to challenge U.S. supremacy in technology, including, the U.S. says, dispatching hackers to steal commercial secrets and demanding that U.S. companies hand over trade secrets in exchange for access to the Chinese market. The administration argues that years of negotiations with China have failed to produce results.<br> <div class="adRectangle-pos-small-inline" data-set="adAppend"></div> <br>"It could be a watershed moment," said Stephen Ezell, vice president of global innovation policy at the Information Technology & Innovation Foundation, a think tank. "The Trump administration's decision to go down this path is illustrative that previous strategies have not borne the hoped-for fruit."<br><br>Business groups mostly agree that something needs to be done about China's aggressive push in technology  - but they worry that China will retaliate by targeting U.S. exports of aircraft, soybeans and other products and start a tit-for-tat trade war of escalating sanctions between the world's two biggest economies.<br><br>"The sanctions are a very big deal," says Mary Lovely, a Syracuse University economist and senior fellow at the Peterson Institute for International Economics. "The Chinese see them as a major threat and do not want a costly trade war."<br><br>Chinese officials warned of potential retaliation and expressed hopes that the U.S. would avoid taking actions that would hurt both countries.<br><br>"China will not sit idly to see its legitimate rights damaged and must take all necessary measures to resolutely defend its legitimate rights," the Commerce Ministry in Beijing said in a statement on its website.<br> <div class="adRectangle-pos-small-inline" data-set="adAppend"></div> <br>The move against China comes just as the United States prepares to impose tariffs of 25 percent on imported steel and 10 percent on aluminum - sanctions that are meant to hit China for flooding the world with cheap steel and aluminum but will likely fall hardest on U.S. allies like South Korea and Brazil because they ship more of the metals to the United States.<br><br>Trump campaigned on promises to bring down America's massive trade deficit - $566 billion last year - by rewriting trade agreements and cracking down on what he called abusive commercial practices by U.S. trading partners. But he was slow to turn rhetoric to action. In January, he imposed tariffs on imported solar panels and washing machines. Then he unveiled the steel and aluminum tariffs, saying reliance on imported metals jeopardizes U.S. national security.<br><br>To target China, Trump has dusted off a Cold War weapon for trade disputes: Section 301 of the U.S. Trade Act of 1974, which lets the president unilaterally impose tariffs. It was meant for a world in which large swaths of global commerce were not covered by trade agreements. With the arrival in 1995 of the World Trade Organization, which polices global trade, Section 301 fell largely into disuse.<br><br>At first it looked like Trump and Chinese President Xi Jinping were going to get along fine. They enjoyed an amiable summit nearly a year ago at Trump's Mar-a-Lago resort in Florida. But America's longstanding complaints about Chinese economic practices continued to simmer, and it became more and more apparent that the U.S. investigation into China's technology policies was going to end in trade sanctions.<br><br>Chinese Premier Li Keqiang this week urged Washington to act "rationally" and promised to open China up to more foreign products and investment. "China has been trying to cool things down for weeks. They have offered concessions," Lovely says. "Nothing seems to cool the fire. I fear they will take a hard line now that their efforts have been rebuffed. ... China cannot appear subservient to the U.S."<div class="report-typo"><a href="mailto:digitalhelp@abc11.com?Subject=Report a Typo&body=Trump signs order punishing China on trade%0D%0A%0D%0Ahttp://abc11.com/politics/trump-signs-order-punishing-china-on-trade/3246873/">Report a Typo</a></div>
+				
+
+			<div class="clear"></div>
+		</div> <!-- end body-text--><br/><div class="story-taxonomy">
+		<strong>Related Topics:</strong><br><a href="http://abc11.com/topic/politics/" class="button">politics</a><a href="http://abc11.com/tag/trade/" class="button">trade</a><a href="http://abc11.com/tag/china/" class="button">china</a><div class="clear"></div>
+	</div>
+	<div class="share-panel share-panel-legacy"><div class="share social-icons" style="display:block;"><div class="share-option-partner share-option-facebook"><div class="fb-share-button" data-href="http%3A%2F%2Fabc11.com%2F3246873%2F" data-type="button"></div></div><div class="share-option-partner share-option-google"><div class="g-plusone" data-href="http%3A%2F%2Fabc11.com%2F3246873%2F" data-size="medium" data-annotation="none"></div></div><div class="share-option-partner share-option-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://abc11.com/3246873/" data-via="abc11_wtvd" data-text="Trump signs order punishing China on trade" data-related="abc11_wtvd" data-count="none" data-lang="en" ></a></div>	<div class="share-option-partner share-option-email"><a href="mailto:?subject=Trump signs order punishing China on trade&body=President Donald Trump signed an order Thursday that paves the way for imposing tariffs on as much as &#36;60 billion worth of Chinese imports. - http://abc11.com/3246873/"><span>Email</span></a></div>
+<div class="clear"></div></div></div><div class="share-panel-new" style="display: none;"><ul><li class="facebook" onclick='window.open("https://www.facebook.com/sharer.php?u=http%3A%2F%2Fabc11.com%2F3246873%2F", "_blank", "width=550,height=420,scrollbars=no,resizable=yes");'><a href="#"><svg viewBox="0 0 10 18" class="facebook-svg svg"><path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M2.519,3.811v2.294h-1.8v2.806h1.8v8.339h3.696V8.911h2.48c0,0,0.232-1.345,0.346-2.816H6.23V4.176c0-0.287,0.402-0.673,0.801-0.673h2.015V0.583H6.307C2.427,0.583,2.519,3.391,2.519,3.811z"/></svg><span>share</span></a></li><li class="gplus" onclick='window.open("https://plus.google.com/share?url=http%3A%2F%2Fabc11.com%2F3246873%2F", "_blank", "width=550,height=420,scrollbars=no,resizable=yes");'><a href="#"><svg version="1.1" viewBox="0 0 24 12.531" class="gplus-svg svg"><path fill="#FFFFFF" d="M17.375,3.298H15.75V5.49h-2.167v1.533h2.167v2.191h1.625V7.023h2.167V5.435h-2.167V3.298z"/><path fill="#FFFFFF" d="M6.217,4.997v2.465h3.25C9.25,8.887,8.004,9.928,6.217,9.928c-1.95,0-3.575-1.697-3.575-3.671c0-1.972,1.571-3.671,3.575-3.671c0.921,0,1.679,0.274,2.329,0.932l1.733-1.753c-1.083-0.987-2.437-1.59-4.062-1.59c-3.304,0-6.013,2.739-6.013,6.082s2.708,6.081,6.013,6.081c3.521,0,5.796-2.521,5.796-5.972c0-0.438-0.054-0.931-0.108-1.37L6.217,4.997"/></svg><span>share</span></a></li><li class="twitter" onclick='window.open("http://twitter.com/intent/tweet?url=http%3A%2F%2Fabc11.com%2F3246873%2F&text=Trump+signs+order+punishing+China+on+trade&via=abc11_wtvd", "_blank", "width=550,height=420,scrollbars=no,resizable=yes");'><a href="#"><svg viewBox="0 0 18 16" class="twitter-svg svg"><path fill="#FFFFFF" d="M16.91,3.037c-0.582,0.261-1.209,0.438-1.865,0.517c0.67-0.407,1.186-1.05,1.428-1.816c-0.627,0.376-1.322,0.649-2.061,0.796c-0.594-0.638-1.436-1.037-2.369-1.037c-1.793,0-3.246,1.47-3.246,3.283c0,0.257,0.029,0.507,0.084,0.748c-2.697-0.137-5.088-1.444-6.689-3.43c-0.279,0.485-0.439,1.049-0.439,1.65c0,1.139,0.573,2.144,1.443,2.732C2.664,6.464,2.164,6.316,1.727,6.07C1.726,6.084,1.726,6.098,1.726,6.112c0,1.591,1.118,2.917,2.604,3.218C4.057,9.405,3.77,9.445,3.475,9.445c-0.209,0-0.412-0.021-0.611-0.059c0.413,1.305,1.611,2.253,3.032,2.28c-1.11,0.88-2.511,1.404-4.031,1.404c-0.262,0-0.521-0.016-0.774-0.045c1.437,0.931,3.143,1.475,4.976,1.475c5.97,0,9.233-5.002,9.233-9.34c0-0.143-0.002-0.284-0.01-0.425C15.924,4.273,16.475,3.695,16.91,3.037"/></svg><span>tweet</span></a></li><li class="email"><a href="mailto:?subject=Trump signs order punishing China on trade&body=President Donald Trump signed an order Thursday that paves the way for imposing tariffs on as much as &#36;60 billion worth of Chinese imports. - http://abc11.com/3246873/"><svg viewBox="0 0 29 20" class="email-svg svg"><path fill="#FFFFFF" d="M28.09,18.868H0.911V3.464L14.5,14.694l13.59-11.23V18.868z M27.701,1.132L14.5,11.718L1.299,1.132H27.701z" /></svg><span>email</span></a></li></ul></div><div class="clear"></div><div class="meta"> (Copyright &copy;2018 by The Associated Press. All Rights Reserved.) </div></section>
+		<!-- outbrain article -->
+		<hr />
+	<section id="outbrain-youmightlike" class="inner ad-container">
+		<div class="OUTBRAIN" data-src="http://abc11.com/politics/trump-signs-order-punishing-china-on-trade/3246873/" data-widget-id="MB_2" data-ob-template="abclocal"></div>
+	</section>
+	<section id="outbrain-morefrom" class="inner">
+		<div class="OUTBRAIN" data-src="http://abc11.com/politics/trump-signs-order-punishing-china-on-trade/3246873/" data-widget-id="MB_3" data-ob-template="abclocal"></div>
+	</section><!-- TALENT -->
+		
+		
+		<!-- AD 300x250 OR 320x50 APPEND -->
+		<div class="adRectangle-pos-small ad-container" data-set="adAppend"></div>
+
+		<div class="clear"></div>
+	</div> <!-- end main-left -->
+	<div class="side-wide side-right">
+		<div class="side1">
+			<!-- outbrain sidebar append medium -->
+
+			<div class="outbrainSidebar-pos-medium ad-container" data-set="outbrainSidebarAppend"></div>
+			<!-- ad banner -->
+			<div class="adRectangle-pos-medium ad-container" data-set="adAppend"></div><section class="topic headlines-list inner">			
+				<div class="section-header">POLITICS</div>
+				<div class="headlines-images"><div class="headline-list-item item-0 has-image" data-media="video"><a href="/politics/what-to-know-about-upcoming-march-for-our-lives/3228334/"><div class="image" data-imgsrc="http://cdn.abclocal.go.com/content/creativecontent/images/cms/3228505.jpg" data-imgalt="Students at Roosevelt High School take part in a protest against gun violence Wednesday, March 14, 2018, in Seattle." data-topic="politics" data-dynamic="https://cdn.abcotvs.com/dip/images/3228505_031718-cc-ap-student-gun-protests-img.jpg">
+											<noscript itemscope itemtype="http://schema.org/ImageObject">
+												<meta itemprop="name url contentUrl" content="http://cdn.abclocal.go.com/content/creativecontent/images/cms/3228505_1280x720.jpg">
+												<meta itemprop="headline caption text" content="March for Our Lives: What to know about the student-led event on March 24">
+												<meta itemprop="description" content="On March 24, students in Washington and around the world will hit the streets to demand legislative action to curb gun violence in schools.">
+												<img src="http://cdn.abclocal.go.com/content/creativecontent/images/cms/3228505_1280x720.jpg" alt="Students at Roosevelt High School take part in a protest against gun violence Wednesday, March 14, 2018, in Seattle." title="March for Our Lives: What to know about the student-led event on March 24">
+											</noscript>
+										</div><div class="headline">What to know about upcoming March for Our Lives</div>
+									<div class="lastmodified">
+									<time class="timeago" datetime="2018-03-23T01:34:00Z"></time>
+									</div>
+								</a></div><div class="headline-list-item item-1 has-image" data-media="image"><a href="/politics/hr-mcmaster-out-as-national-security-adviser-president-trump-announces/3248015/"><div class="image" data-imgsrc="http://cdn.abclocal.go.com/content/wtvd/images/cms/automation/vod/1996991.jpg" data-imgalt="National Security Adviser rejects media report" data-topic="politics" data-dynamic="https://cdn.abcotvs.com/dip/images/1996991_051517-wtvd-mcmaster-full-briefing-raw-vid.jpg">
+											<noscript itemscope itemtype="http://schema.org/ImageObject">
+												<meta itemprop="name url contentUrl" content="http://cdn.abclocal.go.com/content/wtvd/images/cms/automation/vod/1996991_1280x720.jpg">
+												<meta itemprop="headline caption text" content="H.R. McMaster out as national security adviser, President Trump announces">
+												<meta itemprop="description" content="National Security Advisor H.R. McMaster.">
+												<img src="http://cdn.abclocal.go.com/content/wtvd/images/cms/automation/vod/1996991_1280x720.jpg" alt="National Security Adviser rejects media report" title="H.R. McMaster out as national security adviser, President Trump announces">
+											</noscript>
+										</div><div class="headline">H.R. McMaster out as national security adviser, President Trump announces</div>
+									<div class="lastmodified">
+									<time class="timeago" datetime="2018-03-23T00:31:09Z"></time>
+									</div>
+								</a></div><div class="headline-list-item item-2 has-image" data-media="video"><a href="/politics/parkland-survivors-featured-on-cover-of-time-magazine/3247080/"><div class="image" data-imgsrc="http://cdn.abclocal.go.com/content/creativecontent/images/cms/3247680.jpg" data-imgalt="" data-topic="politics" data-dynamic="https://cdn.abcotvs.com/dip/images/3247680_032218-cc-time-mag-parkland-kids-img.jpg">
+											<noscript itemscope itemtype="http://schema.org/ImageObject">
+												<meta itemprop="name url contentUrl" content="http://cdn.abclocal.go.com/content/creativecontent/images/cms/3247680_1280x720.jpg">
+												<meta itemprop="headline caption text" content="Parkland survivors appear on Time magazine cover ahead of March for Our Lives">
+												<meta itemprop="description" content="Five of the high school students who have emerged as the new faces of gun control in the weeks following a mass shooting are profiled in Time magazine. ">
+												<img src="http://cdn.abclocal.go.com/content/creativecontent/images/cms/3247680_1280x720.jpg" alt="" title="Parkland survivors appear on Time magazine cover ahead of March for Our Lives">
+											</noscript>
+										</div><div class="headline">Parkland survivors featured on cover of Time magazine</div>
+									<div class="lastmodified">
+									<time class="timeago" datetime="2018-03-22T21:31:16Z"></time>
+									</div>
+								</a></div><div class="headline-list-item item-3 has-image" data-media="video"><a href="/politics/politifact-pittenger-harris-sling-accusations/3247344/"><div class="image" data-imgsrc="http://cdn.abclocal.go.com/content/wtvd/images/cms/automation/vod/3247282.jpg" data-imgalt="PolitiFact: Fact checking Pittenger, Harris" data-topic="politics" data-dynamic="https://cdn.abcotvs.com/dip/images/3247282_032218-wtvd-politifact-web-vid.jpg">
+											<noscript itemscope itemtype="http://schema.org/ImageObject">
+												<meta itemprop="name url contentUrl" content="http://cdn.abclocal.go.com/content/wtvd/images/cms/automation/vod/3247282_1280x720.jpg">
+												<meta itemprop="headline caption text" content="PolitiFact: Pittenger, Harris sling accusations">
+												<meta itemprop="description" content="This week, PolitiFact looks at claims made by Congressman Robert Pittenger and his opponent, the Rev. Mark Harris.">
+												<img src="http://cdn.abclocal.go.com/content/wtvd/images/cms/automation/vod/3247282_1280x720.jpg" alt="PolitiFact: Fact checking Pittenger, Harris" title="PolitiFact: Pittenger, Harris sling accusations">
+											</noscript>
+										</div><div class="headline">PolitiFact: Pittenger, Harris sling accusations</div>
+									<div class="lastmodified">
+									<time class="timeago" datetime="2018-03-22T20:44:44Z"></time>
+									</div>
+								</a></div></div>
+				<a class="button button-block" href="http://abc11.com/topic/politics/">More Politics <div class="arrow-blue arrow-pos-right"></div></a>
+			</section>
+			<hr><section class="top-stories headlines-list inner"><div class="section-header">Top Stories</div><div class="top-stories-expanded">
+			<div class="headlines-images"><div class="headline-list-item item-0 has-image" data-media="video"><a href="/teenage-girl-in-critical-condition-after-raleigh-apartment-fire/3247281/"><div class="image" data-imgsrc="http://cdn.abclocal.go.com/content/wtvd/images/cms/automation/vod/3247445.jpg" data-imgalt="Crews respond to apartment fire in Raleigh" data-topic="crime-safety" data-dynamic="https://cdn.abcotvs.com/dip/images/3247445_032218-wtvd-apartment-fire-josh-4pm-vid.jpg">
+											<noscript itemscope itemtype="http://schema.org/ImageObject">
+												<meta itemprop="name url contentUrl" content="http://cdn.abclocal.go.com/content/wtvd/images/cms/automation/vod/3247445_1280x720.jpg">
+												<meta itemprop="headline caption text" content="Teenage girl in critical condition after Raleigh apartment fire">
+												<meta itemprop="description" content="Crews are on the scene of a fire at an apartment complex in northwest Raleigh that sent one person to the hospital.">
+												<img src="http://cdn.abclocal.go.com/content/wtvd/images/cms/automation/vod/3247445_1280x720.jpg" alt="Crews respond to apartment fire in Raleigh" title="Teenage girl in critical condition after Raleigh apartment fire">
+											</noscript>
+										</div><div class="headline">Teenage girl in critical condition after Raleigh apartment fire</div>
+									<div class="lastmodified">
+									<time class="timeago" datetime="2018-03-23T02:23:23Z"></time>
+									</div>
+								</a></div><div class="headline-list-item item-1 has-image" data-media="video"><a href="/business/troubleshooter-restaurant-owner-gets-$70k-back-in-overcharged-electric-bills/3247431/"><div class="image" data-imgsrc="http://cdn.abclocal.go.com/content/wtvd/images/cms/automation/vod/3248025.jpg" data-imgalt="Troubleshooter: Restaurant owner gets $70K back in overcharged electric bills" data-topic="business" data-dynamic="https://cdn.abcotvs.com/dip/images/3248025_032218-restaurant-overcharged-electricity-vid.jpg">
+											<noscript itemscope itemtype="http://schema.org/ImageObject">
+												<meta itemprop="name url contentUrl" content="http://cdn.abclocal.go.com/content/wtvd/images/cms/automation/vod/3248025_1280x720.jpg">
+												<meta itemprop="headline caption text" content="Troubleshooter: Restaurant owner gets &#36;70K back in overcharged electric bills">
+												<meta itemprop="description" content="Juan Fabian at his Rocky Mount restaurant La Perla Tapatia has been overcharged for electricity for years.">
+												<img src="http://cdn.abclocal.go.com/content/wtvd/images/cms/automation/vod/3248025_1280x720.jpg" alt="Troubleshooter: Restaurant owner gets $70K back in overcharged electric bills" title="Troubleshooter: Restaurant owner gets &#36;70K back in overcharged electric bills">
+											</noscript>
+										</div><div class="headline">Troubleshooter: Restaurant owner gets &#36;70K back in overcharged electric bills</div>
+									<div class="lastmodified">
+									<time class="timeago" datetime="2018-03-22T22:39:24Z"></time>
+									</div>
+								</a></div><div class="headline-list-item item-2 has-image" data-media="video"><a href="/judge-sets-$100k-bond-for-mother-arrested-for-allegedly-giving-baby-marijuana/3246824/"><div class="image" data-imgsrc="http://cdn.abclocal.go.com/content/wtvd/images/cms/automation/vod/3248010.jpg" data-imgalt="Bond set for mom in pot-smoking baby case" data-topic="crime-safety" data-dynamic="https://cdn.abcotvs.com/dip/images/3248010_032218-wtvd-pot-mom-court-6pm-vid.jpg">
+											<noscript itemscope itemtype="http://schema.org/ImageObject">
+												<meta itemprop="name url contentUrl" content="http://cdn.abclocal.go.com/content/wtvd/images/cms/automation/vod/3248010_1280x720.jpg">
+												<meta itemprop="headline caption text" content="Wake County judge sets &#36;100K bond for mother arrested for allegedly giving baby marijuana">
+												<meta itemprop="description" content="Brianna Ashanti Lofton made a first court appearance in a case that has garnered national attention.">
+												<img src="http://cdn.abclocal.go.com/content/wtvd/images/cms/automation/vod/3248010_1280x720.jpg" alt="Bond set for mom in pot-smoking baby case" title="Wake County judge sets &#36;100K bond for mother arrested for allegedly giving baby marijuana">
+											</noscript>
+										</div><div class="headline">Judge sets &#36;100K bond for mother arrested for allegedly giving baby marijuana</div>
+									<div class="lastmodified">
+									<time class="timeago" datetime="2018-03-22T22:45:37Z"></time>
+									</div>
+								</a></div><div class="headline-list-item item-3 has-image" data-media="video"><a href="/health/emt-aids-woman-during-medical-emergency-at-raleigh-movie-theater-/3248242/"><div class="image" data-imgsrc="http://cdn.abclocal.go.com/content/wtvd/images/cms/automation/vod/3248115.jpg" data-imgalt="Off-duty EMY helps woman stricken in movie theater" data-topic="health" data-dynamic="https://cdn.abcotvs.com/dip/images/3248115_032218-wtvd-movie-med-rescue-6pm-vid.jpg">
+											<noscript itemscope itemtype="http://schema.org/ImageObject">
+												<meta itemprop="name url contentUrl" content="http://cdn.abclocal.go.com/content/wtvd/images/cms/automation/vod/3248115_1280x720.jpg">
+												<meta itemprop="headline caption text" content="EMT jumps into action to help woman during medical emergency at Raleigh movie theater ">
+												<meta itemprop="description" content="Dan Stalfire jumped into action when he saw a woman seemed to be in medical distress.">
+												<img src="http://cdn.abclocal.go.com/content/wtvd/images/cms/automation/vod/3248115_1280x720.jpg" alt="Off-duty EMY helps woman stricken in movie theater" title="EMT jumps into action to help woman during medical emergency at Raleigh movie theater ">
+											</noscript>
+										</div><div class="headline">EMT aids woman during medical emergency at Raleigh movie theater </div>
+									<div class="lastmodified">
+									<time class="timeago" datetime="2018-03-23T00:02:12Z"></time>
+									</div>
+								</a></div></div><!-- MORE TOP STORIES -->
+			<div class="top-stories-more headlines-noimages single-line"><div class="headline-list-item item-0 no-image" data-media="post"><a href="/maryland-school-shooting-victim-brain-dead-being-taken-off-life-support/3248565/"><div class="headline">Maryland school shooting victim &#39;brain dead,&#39; being taken off life support</div>
+									<div class="lastmodified">
+									<time class="timeago" datetime="2018-03-23T01:45:30Z"></time>
+									</div>
+								</a></div><div class="headline-list-item item-1 no-image" data-media="post"><a href="/politics/hr-mcmaster-out-as-national-security-adviser-president-trump-announces/3248015/"><div class="headline">H.R. McMaster out as national security adviser, President Trump announces</div>
+									<div class="lastmodified">
+									<time class="timeago" datetime="2018-03-23T00:31:09Z"></time>
+									</div>
+								</a></div><div class="headline-list-item item-2 no-image" data-media="post"><a href="/sports/celebration-of-life-for-woody-durham-scheduled-at-unc/3248754/"><div class="headline">Celebration of life for Woody Durham scheduled at UNC</div>
+									<div class="lastmodified">
+									<time class="timeago" datetime="2018-03-23T01:58:25Z"></time>
+									</div>
+								</a></div><div class="headline-list-item item-3 no-image" data-media="post"><a href="/durham-man-arrested-on-child-porn-charges/3248101/"><div class="headline">Durham man arrested on child porn charges</div>
+									<div class="lastmodified">
+									<time class="timeago" datetime="2018-03-22T22:55:27Z"></time>
+									</div>
+								</a></div></div>
+		</div>
+		<a class="show-button-more button button-block" href="#">Show More <div class="expand-arrow"></div></a>
+		<!-- COLLAPSED TOP STORIES -->
+		<div class="top-stories-collapsed">
+			<div class="top-stories-more headlines-noimages single-line"><div class="headline-list-item item-0 no-image" data-media="post"><a href="/i-team-judge-orders-owners-of-woodlake-dam-to-pay-$161m-after-lawsuit/3247723/"><div class="headline">I-Team: Judge orders owners of Woodlake Dam to pay &#36;161M after lawsuit</div>
+									<div class="lastmodified">
+									<time class="timeago" datetime="2018-03-22T23:29:30Z"></time>
+									</div>
+								</a></div><div class="headline-list-item item-1 no-image" data-media="post"><a href="/possible-person-of-interest-named-in-death-of-garner-mom/3246736/"><div class="headline">Possible person of interest named in death of Garner mom</div>
+									<div class="lastmodified">
+									<time class="timeago" datetime="2018-03-22T22:09:49Z"></time>
+									</div>
+								</a></div><div class="headline-list-item item-2 no-image" data-media="post"><a href="/apex-sees-string-of-car-break-ins/3247593/"><div class="headline">Apex sees string of car break-ins</div>
+									<div class="lastmodified">
+									<time class="timeago" datetime="2018-03-22T21:24:35Z"></time>
+									</div>
+								</a></div><div class="headline-list-item item-3 no-image" data-media="post"><a href="/durham-police-17-year-olds-death-ruled-case-of-self-defense/3247940/"><div class="headline">Durham police: 17-year-old&#39;s death ruled case of self-defense</div>
+									<div class="lastmodified">
+									<time class="timeago" datetime="2018-03-23T00:30:38Z"></time>
+									</div>
+								</a></div><div class="headline-list-item item-4 no-image" data-media="post"><a href="/fort-bragg-soldier-who-died-in-altercation-with-another-soldier-idd/3247395/"><div class="headline">Fort Bragg soldier who died in altercation with another soldier ID&#39;d</div>
+									<div class="lastmodified">
+									<time class="timeago" datetime="2018-03-22T22:58:54Z"></time>
+									</div>
+								</a></div></div><a class="button button-block" href="/news/">More News <div class="arrow-blue arrow-pos-right"></div></a></div>
+	</section><!-- outbrain sidebar append small -->
+
+			<div class="outbrainSidebar-pos-small ad-container" data-set="outbrainSidebarAppend"><section id="outbrain-sidebar" class="outbrainSidebar inner ad-container">
+		<hr>
+		<div class="OUTBRAIN" data-src="http://abc11.com/politics/trump-signs-order-punishing-china-on-trade/3246873/" data-widget-id="MB_1" data-ob-template="abclocal"></div> 
+		<hr>
+	</section></div>
+
+		</div> <!-- end side1 -->
+		<!-- side2 appears as the 3rd column on large desktop -->
+		<div class="side2">
+			<!-- outbrain "recommend" sidebar append large -->
+			<div class="outbrainSidebar-pos-large ad-container" data-set="outbrainSidebarAppend"></div>
+			<!-- ad banner for large -->
+
+			<div class="adRectangle-pos-large ad-container" data-set="adAppend"></div><!-- RECOMMENDED PHOTOS -->
+	<section class="photos inner">
+		<hr>
+		<div class="section-header">Photos</div>
+		<div class="headlines-images"><div class="headline-list-item item-0 has-image" data-media="post"><a href="/community-events/floral-festival-coming-in-bloom-at-nc-museum-of-art/3242963/"><div class="image" data-imgsrc="http://cdn.abclocal.go.com/content/wtvd/images/cms/3242960.jpg" data-imgalt="There are 53 arrangements on display in the permanent collection." data-topic="community-events" data-dynamic="https://cdn.abcotvs.com/dip/images/3242960_032118-wtvd-flowers-museum-elaina-main-img.jpg">
+												<noscript itemscope itemtype="http://schema.org/ImageObject">
+													<meta itemprop="name url contentUrl" content="http://cdn.abclocal.go.com/content/wtvd/images/cms/3242960_1280x720.jpg">
+													<meta itemprop="headline caption text" content="Floral festival coming in bloom at NC Museum of Art">
+													<meta itemprop="description" content="There are 53 arrangements on display in the permanent collection.">
+													<img src="http://cdn.abclocal.go.com/content/wtvd/images/cms/3242960_1280x720.jpg" alt="There are 53 arrangements on display in the permanent collection." title="Floral festival coming in bloom at NC Museum of Art">
+												</noscript>
+											</div><div class="headline">Floral festival coming in bloom at NC Museum of Art</div><div class="lastmodified"><time class="timeago" datetime="2018-03-22T00:40:26Z"></time></div></a></div><div class="headline-list-item item-1 has-image" data-media="post"><a href="/sports/nc-state-football-holds-pro-day/3236115/"><div class="image" data-imgsrc="http://cdn.abclocal.go.com/content/wtvd/images/cms/3236133.jpg" data-imgalt="New England coach Bill Belichick and others watch defensive line drills at NC States pro day Monday." data-topic="sports" data-dynamic="https://cdn.abcotvs.com/dip/images/3236133_031918-wtvd-pack-pro-day-cover-img.jpg">
+												<noscript itemscope itemtype="http://schema.org/ImageObject">
+													<meta itemprop="name url contentUrl" content="http://cdn.abclocal.go.com/content/wtvd/images/cms/3236133_1280x720.jpg">
+													<meta itemprop="headline caption text" content="NC State football holds pro day">
+													<meta itemprop="description" content="New England coach Bill Belichick and others watch defensive line drills at NC State&#39;s pro day Monday.">
+													<img src="http://cdn.abclocal.go.com/content/wtvd/images/cms/3236133_1280x720.jpg" alt="New England coach Bill Belichick and others watch defensive line drills at NC States pro day Monday." title="NC State football holds pro day">
+												</noscript>
+											</div><div class="headline">NC State football holds pro day</div><div class="lastmodified"><time class="timeago" datetime="2018-03-20T01:37:39Z"></time></div></a></div><div class="headline-list-item item-2 has-image" data-media="post"><a href="/community-events/photos-9th-annual-tobacco-road-marathon/3230501/"><div class="image" data-imgsrc="http://cdn.abclocal.go.com/content/wtvd/images/cms/automation/images/3230496.JPG" data-imgalt="" data-topic="community-events" data-dynamic="https://cdn.abcotvs.com/dip/images/3230496_031818-wtvd-tobacco-marathon-009-img.JPG">
+												<noscript itemscope itemtype="http://schema.org/ImageObject">
+													<meta itemprop="name url contentUrl" content="http://cdn.abclocal.go.com/content/wtvd/images/cms/automation/images/3230496_1280x720.JPG">
+													<meta itemprop="headline caption text" content="PHOTOS: 9th annual Tobacco Road Marathon">
+													<meta itemprop="description" content="">
+													<img src="http://cdn.abclocal.go.com/content/wtvd/images/cms/automation/images/3230496_1280x720.JPG" alt="" title="PHOTOS: 9th annual Tobacco Road Marathon">
+												</noscript>
+											</div><div class="headline">PHOTOS: 9th annual Tobacco Road Marathon</div><div class="lastmodified"><time class="timeago" datetime="2018-03-18T16:03:48Z"></time></div></a></div><div class="headline-list-item item-3 has-image" data-media="post"><a href="/still-rebuilding-1-year-after-the-massive-downtown-raleigh-fire/3223046/"><div class="image" data-imgsrc="http://cdn.abclocal.go.com/content/wtvd/images/cms/automation/images/3223086.jpg" data-imgalt="Still rebuilding: 1 year after the massive downtown Raleigh fire" data-topic="uncategorized" data-dynamic="https://cdn.abcotvs.com/dip/images/3223086_031618-wtvd-downtown-apartment-fire-before-after-img.jpg">
+												<noscript itemscope itemtype="http://schema.org/ImageObject">
+													<meta itemprop="name url contentUrl" content="http://cdn.abclocal.go.com/content/wtvd/images/cms/automation/images/3223086_1280x720.jpg">
+													<meta itemprop="headline caption text" content="Still rebuilding: 1 year after the massive downtown Raleigh fire">
+													<meta itemprop="description" content="Still rebuilding: 1 year after the massive downtown Raleigh fire">
+													<img src="http://cdn.abclocal.go.com/content/wtvd/images/cms/automation/images/3223086_1280x720.jpg" alt="Still rebuilding: 1 year after the massive downtown Raleigh fire" title="Still rebuilding: 1 year after the massive downtown Raleigh fire">
+												</noscript>
+											</div><div class="headline">Still rebuilding: 1 year after the massive downtown Raleigh fire</div><div class="lastmodified"><time class="timeago" datetime="2018-03-16T10:31:56Z"></time></div></a></div></div>
+		<a class="button button-block" href="http://abc11.com/photos/">More Photos <div class="arrow-blue arrow-pos-right"></div></a>
+	</section></div> <!-- end side2 -->
+	</div> <!-- end side-wide -->
+	
+	<!-- Yieldmo end of post trial ad -->	
+	<div id="ym_123013" class="ym inner"></div><script type="text/javascript">(function(e,t){if(t._ym===void 0){t._ym="";var m=e.createElement("script");m.type="text/javascript",m.async=!0,m.src="//static.yieldmo.com/ym.m2.js",(e.getElementsByTagName("head")[0]||e.getElementsByTagName("body")[0]).appendChild(m)}else t._ym instanceof String||void 0===t._ym.chkPls||t._ym.chkPls()})(document,window);</script>
+	
+
+
+				<!-- END CONTENT -->
+
+				<div class="clear"></div>
+
+			</div> <!-- end .content -->
+
+			
+
+		</main>
+
+		<!-- empty div for sticky sub nav, close when it reaches the footer -->
+		<div class="nav-anchor-footer"></div>
+
+		
+		<footer class="footer" role="contentinfo">
+			<div class="footer-searchsocial">
+				<div class="footer-brand">
+					<div class="footer-brand-logo">
+						<a href="/" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:abc_logo%22},%22granular%22:{%22nav%22:%22footer:abc_logo%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'>
+							<img src="http://cdn.abclocal.go.com/assets/news/wtvd/images/logos/header-large.png" alt="ABC11 Raleigh-Durham">
+						</a>
+					</div>
+				</div>
+
+				<!-- BEGIN SMALL FOOTER NAV -->
+				<section class="footer-smallnav">
+					<ul>
+						<li><a href="/" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Home_link_1%22},%22granular%22:{%22nav%22:%22footer:Home%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:link_1%22}}'>Home</a></li>
+						<li><a href="/weather/" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:AccuWeather_link_2%22},%22granular%22:{%22nav%22:%22footer:AccuWeather%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:link_2%22}}'>AccuWeather</a></li>
+						<li><a href="/traffic/" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Traffic_link_3%22},%22granular%22:{%22nav%22:%22footer:Traffic%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:link_3%22}}'>Traffic</a></li>
+						<li>
+							<a class="footer-smallnav-header">Local News <div class="expand-arrow-light"></div></a>
+							<ul>
+								<a href="/raleigh/" data-clink= "{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Raleigh_local_news-link_1%22},%22granular%22:{%22nav%22:%22footer:Raleigh%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:local_news-link_1%22}}">Raleigh</a><a href="/durham/" data-clink= "{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Durham_local_news-link_2%22},%22granular%22:{%22nav%22:%22footer:Durham%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:local_news-link_2%22}}">Durham</a><a href="/fayetteville/" data-clink= "{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Fayetteville_local_news-link_3%22},%22granular%22:{%22nav%22:%22footer:Fayetteville%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:local_news-link_3%22}}">Fayetteville</a><a href="/counties/" data-clink= "{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Surrounding-Area_local_news-link_4%22},%22granular%22:{%22nav%22:%22footer:Surrounding-Area%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:local_news-link_4%22}}">Surrounding Area</a>
+							</ul>
+						</li>
+						<li>
+							<a class="footer-smallnav-header">Categories <div class="expand-arrow-light"></div></a>
+							<ul>
+								<a href="/video/" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Video_link_4%22},%22granular%22:{%22nav%22:%22footer:Video%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:link_4%22}}'>Video</a>
+								<a href="/photos/" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Photos_link_5%22},%22granular%22:{%22nav%22:%22footer:Photos%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:link_5%22}}'>Photos</a>
+								<a href="/us-world/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:US-and World_categories1-link_1%22},%22granular%22:{%22nav%22:%22footer:US-and World%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:categories1-link_1%22}}">U.S. & World</a>
+<a href="/state/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:North-Carolina_categories1-link_2%22},%22granular%22:{%22nav%22:%22footer:North-Carolina%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:categories1-link_2%22}}">North Carolina</a>
+<a href="/entertainment/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Entertainment_categories1-link_3%22},%22granular%22:{%22nav%22:%22footer:Entertainment%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:categories1-link_3%22}}">Entertainment</a>
+<a href="/sports/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Sports_categories1-link_4%22},%22granular%22:{%22nav%22:%22footer:Sports%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:categories1-link_4%22}}">Sports</a>
+<a href="/politics/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Politics_categories1-link_5%22},%22granular%22:{%22nav%22:%22footer:Politics%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:categories1-link_5%22}}">Politics</a>
+<a href="/health/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Health_categories1-link_6%22},%22granular%22:{%22nav%22:%22footer:Health%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:categories1-link_6%22}}">Health</a>
+
+							</ul>
+						</li>
+						<li>
+							<a class="footer-smallnav-header">Station Info <div class="expand-arrow-light"></div></a>
+							<ul>
+								<a href="/about/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:About-ABC11_community-link_1%22},%22granular%22:{%22nav%22:%22footer:About-ABC11%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:community-link_1%22}}">About ABC11</a>
+<a href="http://iwitness.abc11.com" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:EyeWitness-Photos-Video_community-link_2%22},%22granular%22:{%22nav%22:%22footer:EyeWitness-Photos-Video%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:community-link_2%22}}">EyeWitness Photos/Video</a>
+<a href="/together/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:ABC11-Together_community-link_3%22},%22granular%22:{%22nav%22:%22footer:ABC11-Together%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:community-link_3%22}}">ABC11 Together</a>
+<a href="http://abc11.com/community/calendar/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Events-Calendar_community-link_4%22},%22granular%22:{%22nav%22:%22footer:Events-Calendar%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:community-link_4%22}}">Events Calendar</a>
+<a href="/tvlistings/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:TV-Listings_community-link_5%22},%22granular%22:{%22nav%22:%22footer:TV-Listings%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:community-link_5%22}}">TV Listings</a>
+<a href="/jobs/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Jobs_community-link_6%22},%22granular%22:{%22nav%22:%22footer:Jobs%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:community-link_6%22}}">Jobs</a>
+
+							</ul>
+						</li>
+						<li>
+							<a class="footer-smallnav-header">Shows <div class="expand-arrow-light"></div></a>
+							<ul>
+								<a href="/live/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:ABC11-Live-Newscasts_shows-link_1%22},%22granular%22:{%22nav%22:%22footer:ABC11-Live-Newscasts%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:shows-link_1%22}}">ABC11 Live Newscasts</a>
+<a href="/perspectives/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:ABC11-Perspectives_shows-link_2%22},%22granular%22:{%22nav%22:%22footer:ABC11-Perspectives%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:shows-link_2%22}}">ABC11 Perspectives</a>
+<a href="http://www.laff.com/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:LAFF_shows-link_3%22},%22granular%22:{%22nav%22:%22footer:LAFF%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:shows-link_3%22}}">LAFF</a>
+<a href="http://livewellnetwork.com/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Live-Well-Network_shows-link_4%22},%22granular%22:{%22nav%22:%22footer:Live-Well-Network%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:shows-link_4%22}}">Live Well Network</a>
+
+							</ul>
+						</li>
+						<li><a href="/apps/" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Mobile-Apps_link_6%22},%22granular%22:{%22nav%22:%22footer:Mobile-Apps%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:link_6%22}}'>Apps</a></li>
+					</ul>
+				</section>
+				<!-- END SMALL FOOTER NAV -->
+
+				
+<section id="frame-search-form">
+	<form class="form-search frame-search" action="/search/?query=" method="get">
+		<!--<input type="hidden" name="site" value="wtvd">-->
+		<input type="text" name="query" class="search-query frame-search-input" placeholder="Search Our Site" autocomplete="off"/>
+		<button type="submit" class="frame-search-button">GO</button>
+	</form>
+	<div id="frame-suggestions"></div>
+</section>
+				<div class="frame-social">
+					<div class="frame-social-action">Follow Us</div>
+					<div class="frame-social-icons social-icons">
+						<a href="https://facebook.com/abc11" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:share-facebook%22},%22granular%22:{%22nav%22:%22footer:share-facebook%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}"><img src="http://cdn.abclocal.go.com/assets/news/global/images/social/facebook/circle-white.png" width="31" height="31" alt="Facebook"></a><a href="https://twitter.com/abc11_wtvd" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:share-twitter%22},%22granular%22:{%22nav%22:%22footer:share-twitter%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}"><img src="http://cdn.abclocal.go.com/assets/news/global/images/social/twitter/circle-white.png" width="31" height="31" alt="Twitter"></a><a href="https://www.instagram.com/abc11_wtvd/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:share-instagram%22},%22granular%22:{%22nav%22:%22footer:share-instagram%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}"><img src="http://cdn.abclocal.go.com/assets/news/global/images/social/instagram/circle-white.png" width="31" height="31" alt="Instagram"></a><a href="/newsletters" data-clink={%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:share-newsletters%22},%22granular%22:{%22nav%22:%22footer:share-newsletters%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}><img src="http://cdn.abclocal.go.com/assets/news/global/images/social/email/circle-white.png" width="31" height="31" alt="Newsletters"></a>
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+
+			<div class="footer-sections">
+				<div class="footer-sections-col1">
+					<div class="footer-sections-group">
+						<a href="/" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Home_link_1%22},%22granular%22:{%22nav%22:%22footer:Home%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:link_1%22}}'>Home</a>
+						<a href="/weather/" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:AccuWeather_link_2%22},%22granular%22:{%22nav%22:%22footer:AccuWeather%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:link_2%22}}'>AccuWeather</a>
+						<a href="/traffic/" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Traffic_link_3%22},%22granular%22:{%22nav%22:%22footer:Traffic%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:link_3%22}}'>Traffic</a>
+						<a href="/video/" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Video_link_4%22},%22granular%22:{%22nav%22:%22footer:Video%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:link_4%22}}'>Video</a>
+						<a href="/photos/" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Photos_link_5%22},%22granular%22:{%22nav%22:%22footer:Photos%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:link_5%22}}'>Photos</a>
+						<a href="/apps/" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Mobile-Apps_link_6%22},%22granular%22:{%22nav%22:%22footer:Mobile-Apps%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:link_6%22}}'>Apps</a>
+					</div>
+					<div class="footer-sections-group">
+						<a href="/raleigh/" data-clink= "{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Raleigh_local_news-link_1%22},%22granular%22:{%22nav%22:%22footer:Raleigh%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:local_news-link_1%22}}">Raleigh</a><a href="/durham/" data-clink= "{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Durham_local_news-link_2%22},%22granular%22:{%22nav%22:%22footer:Durham%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:local_news-link_2%22}}">Durham</a><a href="/fayetteville/" data-clink= "{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Fayetteville_local_news-link_3%22},%22granular%22:{%22nav%22:%22footer:Fayetteville%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:local_news-link_3%22}}">Fayetteville</a><a href="/counties/" data-clink= "{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Surrounding-Area_local_news-link_4%22},%22granular%22:{%22nav%22:%22footer:Surrounding-Area%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:local_news-link_4%22}}">Surrounding Area</a>
+					</div>
+					<div class="clear"></div>
+				</div>
+				<div class="footer-sections-col2">
+					<div class="footer-sections-group">
+						<a href="/us-world/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:US-and World_categories1-link_1%22},%22granular%22:{%22nav%22:%22footer:US-and World%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:categories1-link_1%22}}">U.S. & World</a>
+<a href="/state/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:North-Carolina_categories1-link_2%22},%22granular%22:{%22nav%22:%22footer:North-Carolina%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:categories1-link_2%22}}">North Carolina</a>
+<a href="/entertainment/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Entertainment_categories1-link_3%22},%22granular%22:{%22nav%22:%22footer:Entertainment%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:categories1-link_3%22}}">Entertainment</a>
+<a href="/sports/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Sports_categories1-link_4%22},%22granular%22:{%22nav%22:%22footer:Sports%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:categories1-link_4%22}}">Sports</a>
+<a href="/politics/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Politics_categories1-link_5%22},%22granular%22:{%22nav%22:%22footer:Politics%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:categories1-link_5%22}}">Politics</a>
+<a href="/health/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Health_categories1-link_6%22},%22granular%22:{%22nav%22:%22footer:Health%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:categories1-link_6%22}}">Health</a>
+
+					</div>
+					<div class="footer-sections-group">
+						<a href="/about/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:About-ABC11_community-link_1%22},%22granular%22:{%22nav%22:%22footer:About-ABC11%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:community-link_1%22}}">About ABC11</a>
+<a href="http://iwitness.abc11.com" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:EyeWitness-Photos-Video_community-link_2%22},%22granular%22:{%22nav%22:%22footer:EyeWitness-Photos-Video%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:community-link_2%22}}">EyeWitness Photos/Video</a>
+<a href="/together/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:ABC11-Together_community-link_3%22},%22granular%22:{%22nav%22:%22footer:ABC11-Together%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:community-link_3%22}}">ABC11 Together</a>
+<a href="http://abc11.com/community/calendar/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Events-Calendar_community-link_4%22},%22granular%22:{%22nav%22:%22footer:Events-Calendar%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:community-link_4%22}}">Events Calendar</a>
+<a href="/tvlistings/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:TV-Listings_community-link_5%22},%22granular%22:{%22nav%22:%22footer:TV-Listings%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:community-link_5%22}}">TV Listings</a>
+<a href="/jobs/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Jobs_community-link_6%22},%22granular%22:{%22nav%22:%22footer:Jobs%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22footer:community-link_6%22}}">Jobs</a>
+
+					</div>
+					<div class="clear"></div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+
+<div class="footer-legal">
+	<div class="footer-legal-links">
+		<div class="footer-legal-links-col1">
+			<a href="https://disneyprivacycenter.com/" target="_new" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Privacy-Policy%22},%22granular%22:{%22nav%22:%22footer:Privacy-Policy%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'>Privacy Policy</a>
+			<a href="https://disneyprivacycenter.com/kids-privacy-policy/english/" target="_new" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Privacy-Policy%22},%22granular%22:{%22nav%22:%22footer:Privacy-Policy%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'>Children's Privacy Policy</a>
+			<a href="https://disneyprivacycenter.com/notice-to-california-residents/" target="_new" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Privacy-Policy%22},%22granular%22:{%22nav%22:%22footer:Privacy-Policy%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'>Your California Privacy Rights</a>
+		</div>
+		<div class="footer-legal-links-col2">		
+			<a href="http://disneytermsofuse.com/" target="_new" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Terms-of-Use%22},%22granular%22:{%22nav%22:%22footer:Terms-of-Use%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'>Terms of Use</a>
+			<a href="http://preferences.truste.com/2.0/?type=abc&affiliateId=115" target="_new" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Interest-Based-Ads%22},%22granular%22:{%22nav%22:%22footer:Interest-Based-Ads%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'>Interest-Based Ads</a>
+			<a href="https://publicfiles.fcc.gov/tv-profile/wtvd" target="_new" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Online-Public-Inspection-File%22},%22granular%22:{%22nav%22:%22footer:Online-Public-Inspection-File%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'>Public Inspection File</a>
+		</div>
+		<div class="clear"></div>
+	</div>
+	<div class="footer-legal-copyright">
+		Copyright &copy; 2018 ABC Inc., WTVD-TV Raleigh-Durham. All Rights Reserved.
+		<br><span class="rwd"></span>
+	</div>
+</div>
+			<div class="clear"></div>
+		</footer>
+<div class="nav-container-sticky wrapper">
+	<div class="nav-background">
+
+<!-- The weather popup form -->
+<form id="overlay_popup_nav_form" class="form-inline form-overlay" style="display:none;">
+	<div class="info">Personalize your weather by entering a location.</div>
+	<div class="error">Sorry, but the location you entered was not found. Please try again.</div>
+	
+	<div class="edit-form-submit">
+		<input id="location-weather-input" type="text" name="location" >
+		<input class="button"  id="go-weather-edit-btn" type="button" value="Submit" />
+		<input type="hidden" name="station" value="wtvd" />
+		<input type="hidden" id="cityId-weather-input" name="cityId" value="" />
+	</div>
+</form>
+	<section class="nav-weather-main">
+	</section>
+	<div class="brand">
+		<div class="brand-small">
+			<a href="http://abc11.com/"  data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22sticky:abc_logo%22},%22granular%22:{%22nav%22:%22sticky:abc_logo%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'>
+
+				<img src="http://cdn.abclocal.go.com/assets/news/wtvd/images/logos/header-small.png" alt="ABC11">
+
+			</a>
+		</div>
+		<div class="brand-large" itemscope itemtype="http://schema.org/Organization">
+			<a href="http://abc11.com/" itemprop="url"  data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22sticky:abc_logo%22},%22granular%22:{%22nav%22:%22sticky:abc_logo%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'>
+
+				<img src="http://cdn.abclocal.go.com/assets/news/wtvd/images/logos/header-large.png" alt="ABC11 Raleigh-Durham" itemprop="logo">
+
+			</a>
+		</div>
+	</div>
+	<nav class="nav" role="navigation">
+		<a class="nav-sections" href="/news/"  data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22sticky:Sections%22},%22granular%22:{%22nav%22:%22sticky:Sections%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'><img src="http://cdn.abclocal.go.com/assets/news/global/images/nav/sections.png" width="19" height="16" alt=""><span class="nav-icon-label">Sections</span></a>
+		<a class="nav-traffic" href="/traffic/"  data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22sticky:Traffic%22},%22granular%22:{%22nav%22:%22sticky:Traffic%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'><img src="http://cdn.abclocal.go.com/assets/news/global/images/nav/traffic.png" width="32" height="16" alt=""><span class="nav-icon-label">Traffic</span></a>
+		<a class="nav-video" href="/video/"  data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22sticky:Video%22},%22granular%22:{%22nav%22:%22sticky:Video%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'><img src="http://cdn.abclocal.go.com/assets/news/global/images/nav/video-play.png" width="22" height="16" alt=""><span class="nav-icon-label">Watch</span></a>
+		<span class="nav-local">
+			<a href="/raleigh/" data-clink= "{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22sticky:Raleigh_link_1%22},%22granular%22:{%22nav%22:%22sticky:Raleigh%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22sticky:link_1%22}}">Raleigh</a><a href="/durham/" data-clink= "{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22sticky:Durham_link_2%22},%22granular%22:{%22nav%22:%22sticky:Durham%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22sticky:link_2%22}}">Durham</a><a href="/fayetteville/" data-clink= "{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22sticky:Fayetteville_link_3%22},%22granular%22:{%22nav%22:%22sticky:Fayetteville%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22sticky:link_3%22}}">Fayetteville</a><a href="/counties/" data-clink= "{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22sticky:Surrounding-Area_link_4%22},%22granular%22:{%22nav%22:%22sticky:Surrounding-Area%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22sticky:link_4%22}}">Surrounding Area</a> 
+		</span>
+	</nav>
+
+
+	</div> <!-- end .nav-background -->
+</div> <!-- end .nav-container -->
+
+		<nav role="sections-sticky">
+			<div class="nav-sections-main-local">
+				<div class="nav-sections-links nav-sections-main">
+					<a href="/" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Home_link_1%22},%22granular%22:{%22nav%22:%22header:navbar:Home%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:link_1%22}}'>Home</a>
+					<a href="/weather/" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:AccuWeather_link_2%22},%22granular%22:{%22nav%22:%22header:navbar:AccuWeather%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:link_2%22}}'>AccuWeather</a>
+					<a href="/traffic/" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Traffic_link_3%22},%22granular%22:{%22nav%22:%22header:navbar:Traffic%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:link_3%22}}'>Traffic</a>
+					<a href="/video/" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Video_link_4%22},%22granular%22:{%22nav%22:%22header:navbar:Video%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:link_4%22}}'>Video</a>
+					<a href="/photos/" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Photos_link_5%22},%22granular%22:{%22nav%22:%22header:navbar:Photos%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:link_5%22}}'>Photos</a>
+					<a href="/apps/" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Mobile-Apps_link_6%22},%22granular%22:{%22nav%22:%22header:navbar:Mobile-Apps%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:link_6%22}}'>Apps</a>
+				</div>
+				<div class="nav-sections-links nav-sections-local subnav-local">
+					<div class="nav-sections-header">
+						<a class="nav-section-name" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:Local-News%22},%22granular%22:{%22nav%22:%22header:Local-News%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'>Local News <div class="expand-arrow-light"></div></a>
+						<div class="nav-sections-links-collapsed">
+							<a href="/raleigh/" data-clink= "{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Raleigh_local_news-link_1%22},%22granular%22:{%22nav%22:%22header:navbar:Raleigh%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:local_news-link_1%22}}">Raleigh</a><a href="/durham/" data-clink= "{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Durham_local_news-link_2%22},%22granular%22:{%22nav%22:%22header:navbar:Durham%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:local_news-link_2%22}}">Durham</a><a href="/fayetteville/" data-clink= "{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Fayetteville_local_news-link_3%22},%22granular%22:{%22nav%22:%22header:navbar:Fayetteville%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:local_news-link_3%22}}">Fayetteville</a><a href="/counties/" data-clink= "{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Surrounding-Area_local_news-link_4%22},%22granular%22:{%22nav%22:%22header:navbar:Surrounding-Area%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:local_news-link_4%22}}">Surrounding Area</a>
+						</div>
+					</div> <!-- end .nav-sections-header -->
+				</div>
+				<div class="clear"></div>
+			</div>
+
+			
+			<div class="nav-sections-links nav-sections-categories subnav-categories">
+				<div class="nav-sections-header">
+					<a class="nav-section-name" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:Categories%22},%22granular%22:{%22nav%22:%22header:Categories%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'>Categories <div class="expand-arrow-light"></div></a>
+					<div class="nav-sections-links-collapsed">
+						<div class="nav-sections-categories-one">
+							<a href="/us-world/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:US-and World_categories1-link_1%22},%22granular%22:{%22nav%22:%22header:navbar:US-and World%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:categories1-link_1%22}}">U.S. & World</a>
+<a href="/state/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:North-Carolina_categories1-link_2%22},%22granular%22:{%22nav%22:%22header:navbar:North-Carolina%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:categories1-link_2%22}}">North Carolina</a>
+<a href="/entertainment/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Entertainment_categories1-link_3%22},%22granular%22:{%22nav%22:%22header:navbar:Entertainment%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:categories1-link_3%22}}">Entertainment</a>
+<a href="/sports/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Sports_categories1-link_4%22},%22granular%22:{%22nav%22:%22header:navbar:Sports%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:categories1-link_4%22}}">Sports</a>
+<a href="/politics/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Politics_categories1-link_5%22},%22granular%22:{%22nav%22:%22header:navbar:Politics%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:categories1-link_5%22}}">Politics</a>
+<a href="/health/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Health_categories1-link_6%22},%22granular%22:{%22nav%22:%22header:navbar:Health%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:categories1-link_6%22}}">Health</a>
+
+						</div>
+						<div class="nav-sections-categories-two">
+							<a href="/iteam/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:I-Team_categories2-link_1%22},%22granular%22:{%22nav%22:%22header:navbar:I-Team%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:categories2-link_1%22}}">I-Team</a>
+<a href="/troubleshooter/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Troubleshooter_categories2-link_2%22},%22granular%22:{%22nav%22:%22header:navbar:Troubleshooter%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:categories2-link_2%22}}">Troubleshooter</a>
+<a href="/moneysaver/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Moneysaver_categories2-link_3%22},%22granular%22:{%22nav%22:%22header:navbar:Moneysaver%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:categories2-link_3%22}}">Moneysaver</a>
+<a href="http://www.abc11.com/scienceclub" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Science-Club_categories2-link_4%22},%22granular%22:{%22nav%22:%22header:navbar:Science-Club%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:categories2-link_4%22}}">Science Club</a>
+
+						</div>
+					</div> <!-- end .nav-sections-links-collapsed -->
+				</div> <!-- end .nav-sections-header -->
+				<div class="clear"></div>
+			</div>
+			
+
+
+			
+			<div class="nav-sections-community-shows">
+				<div class="nav-sections-links nav-sections-community subnav-community">
+					<div class="nav-sections-header">
+						<a class="nav-section-name" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:Station-Info%22},%22granular%22:{%22nav%22:%22header:Station-Info%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'>Station Info <div class="expand-arrow-light"></div></a>
+						<div class="nav-sections-links-collapsed">
+							<a href="/about/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:About-ABC11_community-link_1%22},%22granular%22:{%22nav%22:%22header:navbar:About-ABC11%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:community-link_1%22}}">About ABC11</a>
+<a href="http://iwitness.abc11.com" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:EyeWitness-Photos-Video_community-link_2%22},%22granular%22:{%22nav%22:%22header:navbar:EyeWitness-Photos-Video%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:community-link_2%22}}">EyeWitness Photos/Video</a>
+<a href="/together/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:ABC11-Together_community-link_3%22},%22granular%22:{%22nav%22:%22header:navbar:ABC11-Together%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:community-link_3%22}}">ABC11 Together</a>
+<a href="http://abc11.com/community/calendar/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Events-Calendar_community-link_4%22},%22granular%22:{%22nav%22:%22header:navbar:Events-Calendar%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:community-link_4%22}}">Events Calendar</a>
+<a href="/tvlistings/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:TV-Listings_community-link_5%22},%22granular%22:{%22nav%22:%22header:navbar:TV-Listings%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:community-link_5%22}}">TV Listings</a>
+<a href="/jobs/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Jobs_community-link_6%22},%22granular%22:{%22nav%22:%22header:navbar:Jobs%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:community-link_6%22}}">Jobs</a>
+
+						</div> <!-- end .nav-sections-links-collapsed -->
+					</div> <!-- end .nav-sections-header -->
+				</div>
+			</div>
+
+			
+			<div class="nav-sections-community-shows">
+				<div class="nav-sections-links nav-sections-shows subnav-shows">
+					<div class="nav-sections-header">
+						<a class="nav-section-name" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:Shows%22},%22granular%22:{%22nav%22:%22header:Shows%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'>Shows <div class="expand-arrow-light"></div></a>
+						<div class="nav-sections-links-collapsed">
+							<a href="/live/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:ABC11-Live-Newscasts_shows-link_1%22},%22granular%22:{%22nav%22:%22header:navbar:ABC11-Live-Newscasts%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:shows-link_1%22}}">ABC11 Live Newscasts</a>
+<a href="/perspectives/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:ABC11-Perspectives_shows-link_2%22},%22granular%22:{%22nav%22:%22header:navbar:ABC11-Perspectives%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:shows-link_2%22}}">ABC11 Perspectives</a>
+<a href="http://www.laff.com/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:LAFF_shows-link_3%22},%22granular%22:{%22nav%22:%22header:navbar:LAFF%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:shows-link_3%22}}">LAFF</a>
+<a href="http://livewellnetwork.com/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:Live-Well-Network_shows-link_4%22},%22granular%22:{%22nav%22:%22header:navbar:Live-Well-Network%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22header:navbar:shows-link_4%22}}">Live Well Network</a>
+
+						</div> <!-- end .nav-sections-links-collapsed -->
+					</div> <!-- end .nav-sections-header -->
+				</div> <!-- end .nav-sections-links -->
+				<div class="clear"></div>
+			</div> <!-- end .nav-sections-community-shows -->
+
+			<div class="nav-promos-follow">
+				<div class="nav-sections-promos">
+					
+					<div class="nav-sections-promo">
+						
+			<div class="nav-sections-promo-image">
+				<a href="http://abc11.com/together/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:image-ABC11-Together-Making-a-difference-in-the-community%22},%22granular%22:{%22nav%22:%22header:navbar:image-ABC11-Together-Making-a-difference-in-the-community%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}"><img class="mod-border" src="http://cdn.abclocal.go.com/content/wtvd/images/cms/2098199_120x68.jpg"></a>
+			</div>
+			<a href="http://abc11.com/together/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:navbar:text-ABC11-Together-Making-a-difference-in-the-community%22},%22granular%22:{%22nav%22:%22header:navbar:text-ABC11-Together-Making-a-difference-in-the-community%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}">ABC11 Together: Making a difference in the community</a>
+			
+						<div class="clear"></div>
+					</div>
+				</div> <!-- end .nav-sections-promos -->
+
+				<div class="frame-social nav-social">
+					<div class="frame-social-action">Follow Us</div>
+					<div class="frame-social-icons social-icons">
+						<a href="https://facebook.com/abc11" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:share-facebook%22},%22granular%22:{%22nav%22:%22header:share-facebook%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}"><img src="http://cdn.abclocal.go.com/assets/news/global/images/social/facebook/circle-white.png" width="31" height="31" alt="Facebook"></a><a href="https://twitter.com/abc11_wtvd" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:share-twitter%22},%22granular%22:{%22nav%22:%22header:share-twitter%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}"><img src="http://cdn.abclocal.go.com/assets/news/global/images/social/twitter/circle-white.png" width="31" height="31" alt="Twitter"></a><a href="https://www.instagram.com/abc11_wtvd/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:share-instagram%22},%22granular%22:{%22nav%22:%22header:share-instagram%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}"><img src="http://cdn.abclocal.go.com/assets/news/global/images/social/instagram/circle-white.png" width="31" height="31" alt="Instagram"></a><a href="/newsletters" data-clink={%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:share-newsletters%22},%22granular%22:{%22nav%22:%22header:share-newsletters%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}><img src="http://cdn.abclocal.go.com/assets/news/global/images/social/email/circle-white.png" width="31" height="31" alt="Newsletters"></a>
+					</div>
+					<div class="clear"></div>
+				</div>	<!-- end .frame-social nav-social -->
+
+				<div class="clear"></div>
+			</div> <!-- end .nav-promos-follow -->
+			<div class="clear"></div>
+
+			
+
+			<div class="nav-sticky-other">
+				<div class="nav-section-links">
+
+					
+<section id="frame-search-form">
+	<form class="form-search frame-search" action="/search/?query=" method="get">
+		<!--<input type="hidden" name="site" value="wtvd">-->
+		<input type="text" name="query" class="search-query frame-search-input" placeholder="Search Our Site" autocomplete="off"/>
+		<button type="submit" class="frame-search-button">GO</button>
+	</form>
+	<div id="frame-suggestions"></div>
+</section>
+
+					<div class="frame-social nav-social">
+						<div class="frame-social-action">Follow Us</div>
+						<div class="frame-social-icons social-icons">
+							<a href="https://facebook.com/abc11" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:share-facebook%22},%22granular%22:{%22nav%22:%22header:share-facebook%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}"><img src="http://cdn.abclocal.go.com/assets/news/global/images/social/facebook/circle-white.png" width="31" height="31" alt="Facebook"></a><a href="https://twitter.com/abc11_wtvd" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:share-twitter%22},%22granular%22:{%22nav%22:%22header:share-twitter%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}"><img src="http://cdn.abclocal.go.com/assets/news/global/images/social/twitter/circle-white.png" width="31" height="31" alt="Twitter"></a><a href="https://www.instagram.com/abc11_wtvd/" data-clink="{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:share-instagram%22},%22granular%22:{%22nav%22:%22header:share-instagram%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}"><img src="http://cdn.abclocal.go.com/assets/news/global/images/social/instagram/circle-white.png" width="31" height="31" alt="Instagram"></a><a href="/newsletters" data-clink={%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22header:share-newsletters%22},%22granular%22:{%22nav%22:%22header:share-newsletters%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}><img src="http://cdn.abclocal.go.com/assets/news/global/images/social/email/circle-white.png" width="31" height="31" alt="Newsletters"></a>
+						</div>
+						<div class="clear"></div>
+					</div>	<!-- end .frame-social -->
+
+					<div class="nav-sticky-footer-links">
+						
+
+<div class="footer-legal">
+	<div class="footer-legal-links">
+		<div class="footer-legal-links-col1">
+			<a href="https://disneyprivacycenter.com/" target="_new" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Privacy-Policy%22},%22granular%22:{%22nav%22:%22footer:Privacy-Policy%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'>Privacy Policy</a>
+			<a href="https://disneyprivacycenter.com/kids-privacy-policy/english/" target="_new" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Privacy-Policy%22},%22granular%22:{%22nav%22:%22footer:Privacy-Policy%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'>Children's Privacy Policy</a>
+			<a href="https://disneyprivacycenter.com/notice-to-california-residents/" target="_new" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Privacy-Policy%22},%22granular%22:{%22nav%22:%22footer:Privacy-Policy%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'>Your California Privacy Rights</a>
+		</div>
+		<div class="footer-legal-links-col2">		
+			<a href="http://disneytermsofuse.com/" target="_new" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Terms-of-Use%22},%22granular%22:{%22nav%22:%22footer:Terms-of-Use%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'>Terms of Use</a>
+			<a href="http://preferences.truste.com/2.0/?type=abc&affiliateId=115" target="_new" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Interest-Based-Ads%22},%22granular%22:{%22nav%22:%22footer:Interest-Based-Ads%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'>Interest-Based Ads</a>
+			<a href="https://publicfiles.fcc.gov/tv-profile/wtvd" target="_new" data-clink= '{%22basic%22:{%22events%22:%22event9%22,%22type%22:%22o%22,%22name%22:%22footer:Online-Public-Inspection-File%22},%22granular%22:{%22nav%22:%22footer:Online-Public-Inspection-File%22,%22control%22:%22%22,%22content_link%22:%22%22,%22content_pos%22:%22%22}}'>Public Inspection File</a>
+		</div>
+		<div class="clear"></div>
+	</div>
+	<div class="footer-legal-copyright">
+		Copyright &copy; 2018 ABC Inc., WTVD-TV Raleigh-Durham
+
+					</div>
+
+				</div>	<!-- end .nav-section-links -->
+			</div>
+			<div class="clear"></div>
+			
+
+		</nav>
+	</div> <!-- end .wrapper -->
+
+<!-- div for weather city drop-down-->
+<div id="menu-container"></div>
+
+<!-- Advertising -->
+<div class="ad ad-overpage ad-interstitial ad-adhesion ad-prestitial responsive-ad"></div>
+<div class="ad ad-pageroll"></div>
+
+<!-- Inline Ad MediaQuery Helpers -->
+<div class="ad-helper large"></div>
+<div class="ad-helper medium"></div>
+<div class="ad-helper small"></div>
+
+<!-- Facebook Social Plugins -->
+<div id="fb-root"></div>
+
+	
+	
+	<div class="adPropsArray" data-displayAds="true" data-pageType="story" data-csid="wtvd_politics" data-caid="3246873" data-sfid="206627" data-keyValues="tag=trade&tag=china&_otv_dom=abc11.com" data-server="2915d.v.fwmrm.net" data-networkId="168285"></div>
+	
+
+
+<script type="text/javascript" src="/api/jsvars"></script>
+<script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
+<script type="text/javascript" src="//platform.vine.co/static/scripts/embed.js"></script>
+<script type="text/javascript" src="https://tagboard.com/public/js/embed.js"></script>
+<script type="text/javascript" src="http://cdn.abclocal.go.com/assets/compiled/js/library/1.1.0/library.min.js"></script>
+<script type="text/javascript" src="http://cdn.abclocal.go.com/assets/compiled/js/core/2.3.1/core.min.js"></script>
+<script type="text/javascript" src="http://cdn.abclocal.go.com/assets/compiled/js/breaking-news/1.0.3/breaking-news.min.js"></script>
+<script type="text/javascript" src="http://cdn.abclocal.go.com/assets/compiled/js/page/1.9.4/page.min.js"></script>
+<script type="text/javascript" src="http://cdn.abclocal.go.com/assets/compiled/js/social/1.0.1/social.min.js"></script>
+<script type="text/javascript" src="http://cdn.abclocal.go.com/assets/compiled/js/player/3.0.7/player.min.js"></script>
+
+
+<script>
+
+
+(function($) {
+	//GLOBAL CONFIG
+	omnitureAcct = "wdgotvwtvdresponsive";
+	quantcastAcct = "p-9e_QHc34iBt22";
+	quantcastLabel = "ABCLocalTV.WTVD-TV";
+	chartbeatAcct = "wtvd.abclocal.go.com";
+
+	// for video
+	window.vpe = window.vpe || {};
+	window.vpe.omni = {
+	    'pagename': 'politics/post_image/trump-signs-order-punishing-china-on-trade-id=3246873',
+	    'station': 'wtvd',
+	    'topic': 'politics',
+	    'contentType': 'post_image',
+	    'channel': 'politics',
+	    'contentID': '3246873'
+	}
+
+	requestUrl = "http://cdn.abclocal.go.com/assets/compiled/js/tracker/1.0.9/tracker.js";
+
+	$.ajax({
+		url: requestUrl,
+		dataType: "script",
+		cache: true,
+		async: true,
+		success: function(){
+			var tracker = analytics.tracker;
+			tracker.options = {};
+			//common variables
+			tracker.options[tracker.property] = "abcotv";
+			tracker.options[tracker.channel] = "politics";
+			tracker.options[tracker.pagename] = "politics/post_image/trump-signs-order-punishing-china-on-trade-id=3246873";
+			tracker.options[tracker.hier] = "abcotv/politics";
+			tracker.options[tracker.contenttype] = "post_image";
+			tracker.options[tracker.platformtype] = "ABC OTV Website";
+			tracker.options[tracker.contentid] = "3246873";
+			tracker.options[tracker.headline] = "Trump signs order punishing China on trade";
+			tracker.options[tracker.externalid] = "";
+			tracker.options[tracker.station] = "wtvd";
+			tracker.options[tracker.domain] = "abc11.com";
+			tracker.options[tracker.origin] = "ap";
+			tracker.options[tracker.isdynamic] = "not dynamic";
+			tracker.options[tracker.iscategory] = "";
+			tracker.options[tracker.webversion] = "ABC11 RALEIGH-DURHAM WEB 1.0.1";
+			//tracker.options[tracker.creativecontent] = "";
+			//topic,tags and places
+			tracker.options[tracker.topic] = "politics";
+			tracker.options[tracker.tags] = "trade,china";
+			tracker.options[tracker.places] = "";
+			//search
+ 	 	 	tracker.options[tracker.searchquery] = ""
+ 	 	 	tracker.options[tracker.searchtype] = ""
+			//registration
+			//tracker.options[tracker.reg_success_event] = "event3,event4,event18";
+			//tracker.options[tracker.reg_status] = "not-registered";
+			//tracker.options[tracker.login_status] = "not-logged-in";
+
+			tracker.readystate = function(){
+				try {
+					window.adblockDetector.init({
+						found: function() {
+							tracker.options[tracker.adblock] = true;
+							tracker.track(tracker.options);
+						},
+						notFound: function() {
+							tracker.track(tracker.options);
+						}
+					});
+				} catch(e) {
+					// Incase the adblock detector is blocked or doesn't load up correctly. We still want to initiate a pageview.
+					tracker.track(tracker.options);
+				}
+			};
+
+		}
+	});
+})(jQuery);
+</script>
+<noscript>
+	<div style="display:none;">
+		<!-- No script Nielsen and Quantcast Tagging-->
+		<img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-606744h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="" />
+		<img src="//pixel.quantserve.com/pixel/p-9e_QHc34iBt22.gif?labels=ABCLocalTV%2eWTVD-TV" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<script type="text/javascript" src="http://cdn.abclocal.go.com/assets/compiled/js/ads/1.0.3/ads.min.js"></script>
+
+<!--BEGIN QUALTRICS SITE INTERCEPT-->
+<script type='text/javascript'>
+(function(){var g=function(e,h,f,g){
+this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g+ "&t=" + (new Date()).getTime();document.body&&document.body.appendChild(a)}};
+this.start=function(){var a=this;window.addEventListener?window.addEventListener("load",function(){a.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){a.go()})}};
+try{(new g(100,"r","QSI_S_ZN_5hSLIyrLhlJ7ndr","//zn5hsliyrlhlj7ndr-abcotv.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_5hSLIyrLhlJ7ndr&Q_LOC="+encodeURIComponent(window.location.href))).start()}catch(i){}})();
+</script><div id='ZN_5hSLIyrLhlJ7ndr'><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END SITE INTERCEPT-->
+
+</body>
+</html>

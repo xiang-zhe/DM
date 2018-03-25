@@ -1,0 +1,2798 @@
+<!DOCTYPE html>
+  <!--[if lt IE 7]>      <html lang="en-AU" class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+  <!--[if IE 7]>         <html lang="en-AU" class="lt-ie9 lt-ie8"> <![endif]-->
+  <!--[if IE 8]>         <html lang="en-AU" class="lt-ie9"> <![endif]-->
+  <!--[if gt IE 8]><!--> <html lang="en-AU"> <!--<![endif]-->
+<head>
+  <title>Police had &#039;no power&#039; to wake sleeping Aboriginal man who suffered fatal fall, inquest told - ABC News (Australian Broadcasting Corporation)</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/>
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/>
+<link rel="schema.iptc" href="urn:newsml:iptc.org:20031010:topicset.iptc-genre:8"/>
+<link rel="canonical" data-abc-platform="standard" href="http://www.abc.net.au/news/2018-03-20/nt-police-had-no-power-to-wake-aboriginal-man-inquest-told/9567936"/>
+<meta name="title" content="Police had &#039;no power&#039; to wake sleeping Aboriginal man who suffered fatal fall, inquest told"/>
+                <meta name="description" content="Mr Young, whose first name has not been used for cultural reasons, died in hospital in March 2016, nearly a fortnight after falling and hitting his head shortly after an officer roused him from his sleep."/>
+                <meta name="keywords" content="black deaths in custody, aboriginal, police, crime, inquest, duty of care, darwin, nt, indigenous"/>
+                <meta name="ICBM" content="-23.0333,133.8000"/>
+                <meta name="geo.position" content="-23.0333;133.8000"/>
+                <meta name="ContentId" content="9567936"/>
+                <meta name="ABC.site" content="ABC News"/>
+                <meta name="ABC.editorialGenre" content="News &amp; Current Affairs"/>
+                <meta name="ABC.tags" content="community-and-society;death;indigenous-aboriginal-and-torres-strait-islander;black-deaths-in-custody;law-crime-and-justice;crime;police"/>
+                <meta name="ABC_WCMS_sitesearch_include" content="true"/>
+                <meta name="twitter:card" content="summary"/>
+                <meta name="ABC.productionUnit" content="States - Darwin digital"/>
+                <meta name="ABC.ContentType" content="CMArticle"/>
+                <meta name="DC.Publisher.CorporateName" content="Australian Broadcasting Corporation"/>
+                <meta name="DC.rights" scheme="DCTERMS.URI" content="http://www.abc.net.au/conditions.htm#UseOfContent"/>
+        <meta name="DC.rightsHolder" content="ABC"/>
+                <meta name="DC.type" content="Text"/>
+                <meta name="DC.type" scheme="iptc-genre" content="Current"/>
+        <meta name="DC.title" content="Police had &#039;no power&#039; to wake sleeping Aboriginal man who suffered fatal fall, inquest told"/>
+                <meta name="DC.creator.CorporateName" content="Australian Broadcasting Corporation"/>
+                <meta name="DC.date" scheme="DCTERMS.W3CDTF" content="2018-03-20T18:49:04+1100"/>
+        <meta name="DC.format" scheme="DCTERMS.IMT" content="text/html"/>
+        <meta name="DC.identifier" scheme="DCTERMS.URI" content="http://www.abc.net.au/news/2018-03-20/nt-police-had-no-power-to-wake-aboriginal-man-inquest-told/9567936"/>
+          <meta name="DC.language" scheme="DCTERMS.RFC3066" content="en-AU"/>
+        <meta name="DC.subject" scheme="ABCTERMS.subject" content="Community and Society;Community and Society:Death;Community and Society:Indigenous (Aboriginal and Torres Strait Islander);Community and Society:Indigenous (Aboriginal and Torres Strait Islander):Black Deaths In Custody;Law, Crime and Justice;Law, Crime and Justice:Crime;Law, Crime and Justice:Police"/>
+        <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2018-03-20T18:49:04+1100"/>
+        <meta name="DCTERMS.modified" scheme="DCTERMS.W3CDTF" content="2018-03-20T18:49:04+1100"/>
+        <meta name="DCTERMS.spatial" content="NT;Darwin"/>
+                <meta name="DCTERMS.spatial" scheme="DCTERMS.DCMIPoint" content="east=133.8000;north=-23.0333"/>
+        <meta property="og:title" content="Police had &#039;no power&#039; to wake sleeping Aboriginal man who suffered fatal fall, inquest told"/>
+                <meta property="og:description" content="The NT coroner tells an inquest into the death of an elderly Aboriginal man the actions of police could be viewed as heavy handed but not contemptuous."/>
+                <meta property="og:url" content="http://www.abc.net.au/news/2018-03-20/nt-police-had-no-power-to-wake-aboriginal-man-inquest-told/9567936"/>
+                <meta property="og:image" content="http://www.abc.net.au/news/image/6827848-16x9-700x394.jpg"/>
+                <meta property="og:image:type" content="image/jpeg"/>
+                <meta property="og:image:width" content="700"/>
+                <meta property="og:image:height" content="394"/>
+                <meta name="twitter:image" content="http://www.abc.net.au/news/image/6827848-16x9-700x394.jpg"/>
+                <meta property="og:type" content="Article"/>
+                <meta property="og:updated_time" content="2018-03-20T18:49:04+1100"/>
+                <meta property="article:published_time" content="2018-03-20T18:49:04+1100"/>
+                <meta property="article:modified_time" content="2018-03-20T18:49:04+1100"/>
+                <meta property="article:publisher" content="https://www.facebook.com/abcnews.au"/>
+                <meta property="article:author" content="http://www.abc.net.au/news/tom-maddocks/7301010"/>
+                <meta property="article:tag" content="black deaths in custody"/>
+                <meta property="article:tag" content="aboriginal"/>
+                <meta property="article:tag" content="police"/>
+                <meta property="article:tag" content="crime"/>
+                <meta property="article:tag" content="inquest"/>
+                <meta property="article:tag" content="duty of care"/>
+                <meta property="article:tag" content="darwin"/>
+                <meta property="article:tag" content="nt"/>
+                <meta property="article:tag" content="indigenous"/>
+                <meta property="article:tag" content="NT"/>
+                <meta property="article:tag" content="Australia"/>
+                <meta property="article:tag" content="Darwin"/>
+                <meta property="article:tag" content="Community and Society"/>
+                <meta property="article:tag" content="Death"/>
+                <meta property="article:tag" content="Indigenous (Aboriginal and Torres Strait Islander)"/>
+                <meta property="article:tag" content="Black Deaths In Custody"/>
+                <meta property="article:tag" content="Law, Crime and Justice"/>
+                <meta property="article:tag" content="Crime"/>
+                <meta property="article:tag" content="Police"/>
+                <meta property="og:site_name" content="ABC News"/>
+                <meta name="twitter:site" content="@ABCNews"/>
+                <meta name="apple-mobile-web-app-title" content="ABC News"/>
+                <meta property="fb:pages" content="72924719987"/>
+                <link rel="alternate" data-abc-platform="mobile" media="only screen and (max-width: 640px)" href="http://mobile.abc.net.au/news/2018-03-20/nt-police-had-no-power-to-wake-aboriginal-man-inquest-told/9567936"/>
+  <link media="all" rel="stylesheet" type="text/css"
+                                                                              href="https://res.abc.net.au/bundles/2.2.0/styles/abc.bundle.2.2.0.min.css"/>
+    <link rel="stylesheet" type="text/css"
+                                                                              href="http://www.abc.net.au/res/sites/news-projects/news-core/1.3.3/desktop.css"/>
+    <link rel="alternate" type="application/rss+xml" title="Just In" href="/news/feed/51120/rss.xml">
+  <link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://www.abc.net.au/cm/cb/8413652/News+iOS+76x76+2017/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://www.abc.net.au/cm/cb/4355924/News+iOS+120x120/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://www.abc.net.au/cm/cb/8413660/News+iOS+152x152+2017/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://www.abc.net.au/cm/cb/8413674/News+iOS+180x180+2017/data.png"/>
+    <script type="text/javascript" src="/news/ajax/45902/managed.js"></script>
+<script type="text/javascript" src="http://www.abc.net.au/res/libraries/jquery/jquery-1.11.3.min.js"></script>
+        <script type="text/javascript" src="http://www.abc.net.au/res/libraries/location/abc.location-1.latest.min.js"></script>
+        <script type="text/javascript" src="http://www.abc.net.au/res/bundles/platforms/abc.bundle.platforms-1.0.min.js"></script>
+        <script type="text/javascript" src="http://www.abc.net.au/res/sites/news-projects/news-core/1.3.2/desktop.js"></script>
+        <script type="text/javascript" src="/cm/code/8724582/abc.news.config-2018-03-20.js" async></script>
+        </head>
+<body class="platform-standard news story_page">
+<!-- Start ABC Bundle Header 2.2.0 (customised) -->
+<!--noindex-->
+<nav id="abcHeader" class="global" aria-label="ABC Network Navigation" data-resourcebase="https://res.abc.net.au/bundles/2.2.0/" data-scriptsbase="https://res.abc.net.au/bundles/2.2.0/scripts/" data-version="2.2.0">
+ <a class="abcLink home" href="http://www.abc.net.au/" data-mobile="http://mobile.abc.net.au/"><img src="https://res.abc.net.au/bundles/2.2.0/images/logo-abc@2x.png" width="65" height="16" alt="" />ABC Home</a>
+ <div class="sites">
+  <a class="controller" href="javascript:;" aria-controls="abcNavSites"><img src="https://res.abc.net.au/bundles/2.2.0/images/icon-menu-grey@1x.gif" 
+   data-src="images/icon-menu-grey@1x.gif" data-hover="images/icon-menu-blue@1x.gif" class="icon" alt="" /><span class='text'><span>Open</span> Sites <span>menu</span></span></a>
+  <div id="abcNavSites" class="menu" role="menu" aria-expanded="false">
+   <ul>
+    <li class='odd'><a class="abcLink" role="menuitem" href="http://www.abc.net.au/" data-mobile="http://mobile.abc.net.au/">ABC Home</a></li>
+    <li><a class="abcLink" role="menuitem" href="http://www.abc.net.au/news/" data-mobile="http://mobile.abc.net.au/news/">News</a></li>
+    <li class='odd'><a class="abcLink" role="menuitem" href="http://www.abc.net.au/iview/" data-mobile="http://www.abc.net.au/iview/">iview</a></li>
+    <li><a class="abcLink" role="menuitem" href="http://www.abc.net.au/tv/" data-mobile="http://www.abc.net.au/tv/">TV</a></li>
+    <li class='odd'><a class="abcLink" role="menuitem" href="http://www.abc.net.au/radio/" data-mobile="http://www.abc.net.au/radio/">Radio</a></li>
+    <li><a class="abcLink" role="menuitem" href="http://www.abc.net.au/children/" data-mobile="http://mobile.abc.net.au/children/">Kids</a></li>
+    <li class='odd'><a class="abcLink" role="menuitem" href="https://shop.abc.net.au/" data-mobile="https://shop.abc.net.au/">Shop</a></li>
+    <li><a class="abcLink more" role="menuitem" href="http://www.abc.net.au/more/" data-mobile="http://www.abc.net.au/more/">More</a></li>
+   </ul>
+  </div>
+ </div>
+ <div class="accounts">
+  <!-- Accounts is currently injected due to different URLs --><span data-src="images/icon-user-grey@1x.png" data-hover="images/icon-user-blue@1x.png"></span>
+ </div>
+ <a class="abcLink search" href="http://search.abc.net.au/s/search.html?collection=abcall_meta&form=simple"
+  data-mobile="http://search.abc.net.au/s/search.html?collection=abcall_meta&form=simple"><span>Search</span>
+  <img src="https://res.abc.net.au/bundles/2.2.0/images/icon-search-grey@1x.png" data-hover="images/icon-search-blue@1x.png" class="icon" alt="" /></a>
+</nav>
+<!--endnoindex-->
+<!-- End ABC Bundle Header 2.2.0 (customised) -->
+<!--noindex-->
+<div class="page_margins">
+  <div id="header" class="header">
+    <div class="brand">
+        <a href="/news/"><img class="print" src="/cm/lb/8212706/data/news-logo-2017---desktop-print-data.png" alt="ABC News" width="387" height="100" />
+                <img class="noprint" src="/cm/lb/8212704/data/news-logo2017-data.png" alt="ABC News" width="242" height="80" />
+                </a></div>
+      <a href="/news/australia/" class="location-widget">Australia</a><a href="/news/weather/" class="weather-widget">Weather</a></div>
+  <div id="nav" class="nav">           
+  <ul id="primary-nav">
+        <li id="n-news" class="active"><a href="/news/">News Home</a></li><li id="n-justin" class=""><a href="/news/justin/">Just In</a></li><li id="n-politics" class=""><a href="/news/politics/">Politics</a></li><li id="n-world" class=""><a href="/news/world/">World</a></li><li id="n-business" class=""><a href="/news/business/">Business</a></li><li id="n-sport" class=""><a href="/news/sport/">Sport</a></li><li id="n-science" class=""><a href="/news/science/">Science</a></li><li id="n-health" class=""><a href="/news/health/">Health</a></li><li id="n-arts-culture" class=""><a href="/news/arts-culture/">Arts</a></li><li id="n-analysis-and-opinion" class=""><a href="/news/analysis-and-opinion/">Analysis</a></li><li id="n-factcheck" class=""><a href="/news/factcheck/">Fact Check</a></li><li id="n-more" class=""><a href="/news/more/">More</a></li></ul>
+  </div>
+<!-- A modules - start -->
+  <!-- A modules - end -->
+  <div class="page section">
+    <div class="subcolumns">
+    <div class="c75l">
+      <!-- B modules - start -->
+      <div class="article section">
+    
+
+<div class="tools">
+  
+    
+  
+  <a class="button"
+     href="http://www2b.abc.net.au/EAF/View/MailToQuery.aspx?http://www.abc.net.au/news/2018-03-20/nt-police-had-no-power-to-wake-aboriginal-man-inquest-told/9567936"><span>Email</span></a>
+</div><!--endnoindex-->
+    <h1>Police had &#039;no power&#039; to wake sleeping Aboriginal man who suffered fatal fall, inquest told</h1><div class="byline">
+      By <a href="/news/tom-maddocks/7301010" target="_self" title="">Tom Maddocks</a></div>
+  
+
+
+
+  
+  
+    
+      <p class="published">
+        Posted 
+    <span class="timestamp">
+      March 20, 2018 18:49:04
+    </span>
+      </p>
+    
+  
+
+<div class="attached-content">
+      <div class="inline-content photo left">
+    <a href="/news/2018-03-20/nt-police-car-flashing-lights/9567946">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/6827848-4x3-340x255.jpg" alt="NT Police car flashing lights" title="NT Police car flashing lights" width="340" height="255"/>
+</a><a href="/news/2018-03-20/nt-police-car-flashing-lights/9567946" class="inline-caption"><strong>
+        Photo:</strong>
+       The inquest is probing the police response in the death of an Aboriginal man in Darwin. <span class="source">(Supplied)</span>
+      </a></div>
+<div class="inline-content story left">
+    <a href="/news/2018-03-19/nt-coroner-to-probe-police-actions-in-death-of-aboriginal-man/9564370"><strong>Related Story:</strong>
+       &#039;The police intervened and he died&#039;: NT coroner to probe death of Aboriginal man</a></div>
+<div class="inline-content map left">
+      <div class="story-map"></div>
+      <a class="inline-caption" href="http://maps.google.com/?q=-23.0333,133.8000(NT)&amp;z=5">
+        <strong>Map: </strong>
+        NT</a>
+    </div>
+  </div>
+  <p>The Northern Territory coroner has told an inquest into the death of an elderly Aboriginal man the actions of police could be viewed as "heavy-handed" but not "contemptuous".</p><p>Mr Young, whose first name has not been used for cultural reasons, died in hospital in March 2016, nearly a fortnight after falling and hitting his head shortly after an officer roused him from his sleep.</p><p>A <a href="/news/2018-03-19/nt-coroner-to-probe-police-actions-in-death-of-aboriginal-man/9564370" target="_self" title="">coronial inquest was told the 70-year-old had been socialising with a group of people</a> at a unit inside a housing complex in the Darwin suburb of Nightcliff.</p><p>The inquest is examining whether police acted within their powers and fulfilled their duty of care.</p><blockquote class="quote--pullquote"><p>"There wasn't blood on the floor... no fights breaking out such as to give police the power to do what they wanted to do," Coroner Greg Cavanagh said.</p></blockquote><p>"So to go in the way they did... is to some extent heavy-handed, but you couldn't categorise it as contemptuous.</p><p>Mr Young was not doing anything wrong at the time of the incident, but police and paramedics attended because a woman residing at the property had asked them to leave. </p><p>The inquest heard Mr Young's family held concerns the officer responded in the manner they did because he was Aboriginal.</p><p>Acting Assistant Commissioner Tony Fuller took offence to the suggestion of racial stereotyping, but told the inquest he understood why the family would think that "because police come into contact with Aboriginal people quite regularly".</p><h2>Police 'would have been criticised' if they did not act</h2><p>On Monday, the officer in charge of the investigation into Mr Young's death, Detective Senior Sergeant Daniel Ralph, said officers may not have been acting lawfully, but only on a "purely technical point of law".</p><p>Mr Fuller today conceded police had "no power" to wake him and said it was a "failing" of the Trespass Act. </p><p>He said the act was "obviously very problematic", was not relied upon because of "all these ambiguities" and that he would "welcome any changes".</p><p>However, Mr Fuller told the inquest officers "had an obligation for Mr Young's care" and acted in good faith in speaking to him, to determine whether he had a "lawful reason to be there".</p><p>Counsel Assisting the Coroner, Kelvin Currie, said there needed to be a better understanding for frontline officers who found themselves in similar scenarios, and possible legislative changes.</p><p>He told the inquest no changes could result in more litigation.</p><p>"The duty of care was not fulfilled in this case," Mr Currie said.</p><blockquote class="quote--pullquote"><p>"Waking an elderly man who had been drinking, inside a dark room... was not going to end well."</p></blockquote><p>Mr Fuller said the housing complex was "not a nice place" and was "renowned for anti-social, alcohol and drug-fuelled violence".</p><p>The inquest heard Mr Young was a supportive person and much-loved by his community.</p>
+
+
+<p class="topics">
+	<strong>Topics:</strong>
+	
+	<a href="/news/topic/community-and-society">community-and-society</a>,
+
+
+	
+	<a href="/news/topic/death">death</a>,
+
+
+	
+	<a href="/news/topic/indigenous-aboriginal-and-torres-strait-islander">indigenous-aboriginal-and-torres-strait-islander</a>,
+
+
+	
+	<a href="/news/topic/black-deaths-in-custody">black-deaths-in-custody</a>,
+
+
+	
+	<a href="/news/topic/law-crime-and-justice">law-crime-and-justice</a>,
+
+
+	
+	<a href="/news/topic/crime">crime</a>,
+
+
+	
+	<a href="/news/topic/police">police</a>,
+
+
+	
+	<a href="/news/topic/nt">nt</a>,
+
+
+	
+	<a href="/news/topic/darwin-0800">darwin-0800</a>
+	
+</p>
+
+<div class="statepromo">
+        <p>
+          
+
+
+
+
+
+<a href="/news/nt/" class="button">
+<span><strong>
+  More
+</strong> stories from Northern Territory</span></a>
+
+</p>
+      </div>
+    <!--noindex-->
+  </div>
+<!-- B modules - end -->
+    </div>
+    <div class="c25r sidebar">
+    <!-- Sidebar modules - start -->
+    <style>
+#ntlangPromo {
+ background-color: #6b2c04;
+ background: linear-gradient(90deg, #6b2c04, #c95104);
+ padding:0;
+}
+.view-sidebar #ntlangPromo {
+  margin-bottom: 15px;
+}
+#ntlangPromo h2 {
+  background: linear-gradient(90deg, #6b2c04, rgba(107,44,4,0.4));
+}
+.ntlangTitle, .view-sidebar .ntlangTitle {
+  color: #FFF;
+  font-size: 15px;
+  font-family: arial;
+  padding: 12px 10px;
+  margin:0;
+}
+p.ntlangTitle a:link, p.ntlangTitle a:visited {
+  color: #FFF;
+  text-decoration: none;
+}
+</style>
+<div class="section" id="ntlangPromo">
+  <h2 class="ntlangTitle">News in language</h2>
+  <p class="ntlangTitle"><a href="/news/indigenous-news-service/">Listen to the news in Warlpiri, Yolngu Matha and Kriol</a></p>
+</div>
+<div class="section localised-top-stories">
+        <div class="inner">
+          <h2>Top Stories</h2>
+          
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/justine-damond-minneapolis-officer-charged-in-shooting/9569918">&#039;Disregard for human life&#039;: Police officer charged over Justine Damond&#039;s death</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/justine-damond-what-we-now-know-about-her-last-moments/9570200">&#039;I&#039;m dying&#039;: What we now know about Justine Damond&#039;s final moments</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/james-packer-resigns-from-crown-resorts/9570344">James Packer leaves Crown Resorts for mental health reasons</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/real-estate-boom-town-where-most-homes-now-sell-for-a-loss/9566710">&#039;We got caught up in the hype&#039;: When a property boom town goes bust</a>
+
+<span class="media">
+    <span class="photos" title="Photos">(photos)</span>
+
+</span>
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/cambridge-analytica-claimed-it-secured-donald-trump-presidentia/9570690">Cambridge Analytica bosses filmed taking credit for &#039;Crooked Hillary&#039; campaign</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/myer-sales-plunge-and-no-dividend-for-shareholders/9571138">Myer posts $476 million loss, after pricey write-down of its brand name</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/cyclone-marcus-is-heading-for-perth-but-you-dont-need-to-panic/9569042">Cyclone Marcus has hit category five and is heading for Perth, but you don&#039;t need to panic</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/bernardi-says-someone-should-lose-their-job-over-comedy-sketch/9570346">MPs say &#039;someone needs to lose their job&#039; over ABC comedy sketch</a>
+
+<span class="media">
+    <span class="photos" title="Photos">(photos)</span>
+
+</span>
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/ballarat-trench-collapse-man-killed-another-rescued/9571302">Man dead, another rescued after trench collapses at Ballarat</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/foul-play-concerns-as-ships-engineer-goes-missing-townsville-qld/9570322">Foul play concerns after man &#039;lost over the side&#039; of live cattle ship</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/inglis-speaks-out-after-copping-racial-abuse-from-supporter/9571346"><em>SPORT</em>
+      Inglis slams &#039;appalling&#039; racism after abuse from fan at NRL game</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/authorities-responding-to-another-reported-explosion-in-austin/9570948">Another Austin explosion injures at least one person</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/mortgage-brokers-heavy-lifting-may-not-say-you-money/9569112">Mortgage brokers do the &#039;heavy lifting&#039;, but may not save you money</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/big-wave-surfer-ross-clarke-jones-conquers-the-wall-of-water/9565812"><em>SPORT</em>
+      &#039;Don&#039;t hesitate&#039;: Watch how Australia&#039;s giant-wave surfer glides on a wall of water</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/drug-ice-a-large-factor-in-rising-child-protection-rates/9567206">As ice use has climbed, so has the number of children removed from families</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/science/2018-03-21/self-driving-autonomous-cars-five-ethical-questions/9567986">5 big ethical questions about driverless cars we still need answered</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/science/2018-03-21/americans-greenhouse-gas-emissions-red-meat/9566792">20 per cent of Americans eat half their country&#039;s food-related greenhouse emissions</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/victorian-labor-misused-$388k-for-election-campaign-ombudsman/9570016">Victorian Labor misused $388k for election campaign staff: ombudsman</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/stephen-hawking-ashes-interred-near-graves-of-newton-and-darwin/9570220">Hawking&#039;s ashes to be interred near grave of Sir Isaac Newton</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/independent-investigation-into-tathra-fire/9570066">Tathra fire inquiry will debunk &#039;filthy and disgusting&#039; union tactics, Minister says</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/tathra-bushfire:-family-overjoyed-after-finding-dogs-survived/9568498">&#039;Couldn&#039;t sleep a wink&#039;: Dogs believed dead in Tathra bushfire found safe</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/donald-trump-congratulates-vladimir-putin-leaders-look-meet-soon/9570154">Trump faces Republican backlash after congratulating Putin on re-election</a>
+
+</li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    <div class="section graphic">
+  <a href="http://m.me/abcnews.au?ref=welcomefromABCNewshomepage">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="/cm/lb/7996774/thumbnail.png" alt="Start a chat with ABC News on Facebook Messenger" title="Start a chat with ABC News on Facebook Messenger" class="" width="220" />
+</a></div><div class="connect-with-abc section promo">
+<h2>Connect with ABC News</h2>
+<ul>
+    <li><a href="http://www.facebook.com/abcnews.au" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6388890/data/facebook-data.png" alt="ABC News on Facebook" title="ABC News on Facebook" width="30" height="30" />
+    </a></li>
+    <li><a href="http://instagram.com/abcnews_au" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6389068/data/instagram-data.png" alt="ABC News on Instagram" title="ABC News on Instagram" width="32" height="31" />
+    </a></li>
+    <li><a href="http://www.twitter.com/abcnews" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6388894/data/twitter-data.png" alt="ABC News on Twitter" title="ABC News on Twitter" width="32" height="27" />
+    </a></li>
+    <li><a href="http://www.youtube.com/newsonabc" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6389052/data/youtube-data.png" alt="ABC News on YouTube" title="ABC News on YouTube" width="50" height="22" />
+    </a></li>
+    <li><a href="/news/2016-06-16/what-is-snapchat-and-why-is-the-abc-on-it/7517174" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/8208710/data/snapchat-data.jpg" alt="ABC News on Snapchat" title="ABC News on Snapchat" width="31" height="30" />
+    </a></li>
+
+    <li><a href="https://apple.news/TsieN9U-WQ0SZbtP1VTI4uQ" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/8458084/data/applenews-data.png" alt="ABC News on Apple News" title="ABC News on Apple News" width="32" height="32" />
+    </a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<div class="section graphic">
+  <a href="/news/feeds/">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="/cm/lb/4745996/thumbnail/news-podcasts-sidebar-graphic-promo-thumbnail.jpg" alt="News Podcasts" title="News Podcasts" class="" width="220" />
+</a></div><div class="section promo">
+  <div class="inner">
+      <h2>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/contact/tip-off/"
+    >
+  
+
+  
+    
+        <span>Got a news tip?</span>
+    
+    
+  
+
+  </a>
+</h2><p>If you have inside knowledge of a topic in the news, <a href="/news/contact/tip-off/" target="_self" title="">contact the ABC</a>.</p></div>
+  </div>
+<div class="related">
+<div class="newsmail-signup card">
+<h2>News in your inbox</h2>
+<span class="spiel">Top headlines, analysis, breaking&nbsp;alerts</span>
+
+<div class="form main">
+</div>
+<a href="/news/alerts/subscribe/">More info</a>
+</div>
+</div>
+<div class="section promo">
+  <div class="inner">
+      <h2>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/news/about/backstory/"
+    >
+  
+
+  
+    
+        <span>ABC Backstory</span>
+    
+    
+  
+
+  </a>
+</h2><p><a href="http://www.abc.net.au/news/about/backstory/" target="_self" title="">ABC teams share the story behind the story and insights into the making of digital, TV and radio content.</a></p></div>
+  </div>
+<div class="section promo">
+  <div class="inner">
+      <h2>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://about.abc.net.au/how-the-abc-is-run/what-guides-us/abc-editorial-standards/"
+    >
+  
+
+  
+    
+        <span>Editorial Policies</span>
+    
+    
+  
+
+  </a>
+</h2><p><a href="http://about.abc.net.au/how-the-abc-is-run/what-guides-us/abc-editorial-standards/" target="_self" title="">Read about our editorial guiding principles and the enforceable standard our journalists follow.</a></p></div>
+  </div>
+<!-- Sidebar modules - end -->
+  </div>
+</div>
+</div><!-- C modules - start -->
+  <div class="page section featured-scroller featured-scroller-4 dark">
+<div class="section">
+  <h2>Features</h2>
+  </div>
+<div class="inner">
+  <ol class="subcolumns">
+    <li class="c25l">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2018-03-21/facebook-how-to-delete-its-not-as-hard-as-you-think/9570332" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/9571408-16x9-220x124.jpg" alt="An illustration of a scrunched up paper with Facebook logo on it being thrown into bin" title="Facebook being thrown into bin" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  Want to #DeleteFacebook?</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p>If you're angry with Facebook and wondering if it's time to ditch Facebook from your life, you're not alone.</p>
+	 </div>
+    </li>
+         <li class="c25l">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2018-03-21/how-keep-nato-strong-in-future-without-raising-russia-tensions/9547930" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/9548176-16x9-220x124.jpg" alt="Two Sikorsky Seahawk helicopters in the sky during a NATO military exercise." title="Two Sikorsky Seahawk helicopters during NATO games" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  The future of NATO</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p class="title">
+        By <a href="/news/antony-funnell/8059042" target="_self" title="">Antony Funnell</a> for <a href="/radionational/programs/futuretense/" target="_self" title="">Future Tense</a></p>
+		<p>Most critics agree NATO needs to change so it remains an effective military force. Four experts weigh in on what needs reworking.</p>
+	 </div>
+    </li>
+         <li class="c25l">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2018-03-21/university-admissions-atar-is-outdated/9567862" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/9055140-16x9-220x124.jpg" alt="Boys sitting a school exam." title="High school students sitting HSC exams" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  Is time up for the stressful, pointless ATAR?</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p>Education is more than a number, more than a ranking and more than a competition. So why are we still ranking students with an ATAR at the end of high schools?</p>
+	 </div>
+    </li>
+         <li class="c25r">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2018-03-20/homelessness-mapped-australia-by-suburb/9551556" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/9564110-16x9-220x124.jpg" alt="Map shows homelessness touches every part of Australia." title="Homelessness mapped around Australia" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  Homelessness mapped</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p>Some of Australia's most remote, least populated areas have the highest numbers of homeless people.</p>
+	 </div>
+    </li>
+         </ol>
+</div></div><div id="footer-stories" class="page section">
+    <div class="subcolumns">
+    <div class="c25l">
+        <div class="section">
+          <h2>Top Stories</h2>
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/justine-damond-minneapolis-officer-charged-in-shooting/9569918">&#039;Disregard for human life&#039;: Police officer charged over Justine Damond&#039;s death</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/justine-damond-what-we-now-know-about-her-last-moments/9570200">&#039;I&#039;m dying&#039;: What we now know about Justine Damond&#039;s final moments</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/james-packer-resigns-from-crown-resorts/9570344">James Packer leaves Crown Resorts for mental health reasons</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/real-estate-boom-town-where-most-homes-now-sell-for-a-loss/9566710">&#039;We got caught up in the hype&#039;: When a property boom town goes bust</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/cambridge-analytica-claimed-it-secured-donald-trump-presidentia/9570690">Cambridge Analytica bosses filmed taking credit for &#039;Crooked Hillary&#039; campaign</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/myer-sales-plunge-and-no-dividend-for-shareholders/9571138">Myer posts $476 million loss, after pricey write-down of its brand name</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/cyclone-marcus-is-heading-for-perth-but-you-dont-need-to-panic/9569042">Cyclone Marcus has hit category five and is heading for Perth, but you don&#039;t need to panic</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/bernardi-says-someone-should-lose-their-job-over-comedy-sketch/9570346">MPs say &#039;someone needs to lose their job&#039; over ABC comedy sketch</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/ballarat-trench-collapse-man-killed-another-rescued/9571302">Man dead, another rescued after trench collapses at Ballarat</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/foul-play-concerns-as-ships-engineer-goes-missing-townsville-qld/9570322">Foul play concerns after man &#039;lost over the side&#039; of live cattle ship</a></li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    <div class="c25l">
+        <div class="section">
+          <h2>Just In</h2>
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/leeanne-lapham-death-graeme-evans-sentenced-manslaughter-qld/9570536">Leeann Lapham&#039;s killer jailed for manslaughter over &#039;brutal&#039; death</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/cambridge-analytica-claimed-it-secured-donald-trump-presidentia/9570690">Cambridge Analytica bosses filmed taking credit for &#039;Crooked Hillary&#039; campaign</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/how-to-spot-a-charity-scam/9571060">How do you spot a charity scammer?</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/inglis-speaks-out-after-copping-racial-abuse-from-supporter/9571346">Inglis slams &#039;appalling&#039; racism after abuse from fan at NRL game</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/australia-protected-from-340000-potential-biosecurity-breaches/9571270">Giant snails, goat foetuses, skinned frogs: The strange items Customs seized last year</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/foul-play-concerns-as-ships-engineer-goes-missing-townsville-qld/9570322">Foul play concerns after man &#039;lost over the side&#039; of live cattle ship</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/afl-boss-gillon-mclachlan-in-tasmania/9570596">AFL boss warns &#039;hard decisions&#039; ahead if Tasmanian football to be saved</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/labor-leader-rebecca-white-has-unveiled-her-shadow-cabinet/9570900">Tasmania&#039;s shadow health job given to newcomer over veteran David O&#039;Byrne</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/jenna-ohea-to-make-opals-return-at-commonwealth-games/9570966">Jenna O&#039;Hea to make emotional Opals return at Commonwealth Games</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/ballarat-trench-collapse-man-killed-another-rescued/9571302">Man dead, another rescued after trench collapses at Ballarat</a></li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    <div class="c25l">
+        <div class="section">
+          <h2>Most Popular</h2><ul class="headlines">
+  <li>
+    <a href="/news/2018-03-20/government-announces-security-review-centrelinkafter-racist-rant/9568392">Man&#039;s racist rant at Centrelink office sparks security overhaul</a>
+
+</li>
+<li>
+    <a href="/news/2018-03-21/justine-damond-minneapolis-officer-charged-in-shooting/9569918">&#039;Disregard for human life&#039;: Police officer charged over Justine Damond&#039;s death</a>
+
+</li>
+<li>
+    <a href="/news/2018-03-21/james-packer-resigns-from-crown-resorts/9570344">James Packer leaves Crown Resorts for mental health reasons</a>
+
+</li>
+<li>
+    <a href="/news/2018-03-20/before-you-write-that-scathing-online-review-beware-defamation/9566400">Had a terrible meal? Be careful what you say about it online</a>
+
+<span class="media">
+    <span class="photos" title="Photos">(photos)</span>
+
+</span>
+</li>
+<li>
+    <a href="/news/2018-03-21/bernardi-says-someone-should-lose-their-job-over-comedy-sketch/9570346">MPs say &#039;someone needs to lose their job&#039; over ABC comedy sketch</a>
+
+<span class="media">
+    <span class="photos" title="Photos">(photos)</span>
+
+</span>
+</li>
+<li>
+    <a href="/news/2018-03-20/body-of-missing-wa-woman-alison-raspa-found-in-whistler/9566124">Death in the ski fields: Australian Alison Raspa&#039;s body found after four months</a>
+
+</li>
+<li>
+    <a href="/news/2018-03-20/salim-mehajer-declared-bankrupt/9566552">Marble staircase debt sees Salim Mehajer declared bankrupt</a>
+
+</li>
+<li>
+    <a href="/news/2018-03-20/beechworth-post-box-goes-unemptied-for-six-months/9567174">Mail mystery as post box goes uncleared for six months</a>
+
+</li>
+<li>
+    <a href="/news/2018-03-20/worlds-last-male-northern-white-rhino-dies/9568284">Last male northern white rhino dies, leaving species on the brink of extinction</a>
+
+</li>
+<li>
+    <a href="/news/2018-03-21/big-wave-surfer-ross-clarke-jones-conquers-the-wall-of-water/9565812">&#039;Don&#039;t hesitate&#039;: Watch how Australia&#039;s giant-wave surfer glides on a wall of water</a>
+
+</li>
+</ul></div>
+      </div>
+    <div class="c25r">
+        <div class="section">
+          <h2>Analysis &amp; Opinion</h2>
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-21/university-admissions-atar-is-outdated/9567862">Is time up for the stressful, pointless ATAR?</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/health/2018-03-21/hospital-patient-better-communication-change-ward-rounds/9564160">A patient care revolution is needed — and it can begin with morning rounds</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-20/uber-driverless-car-accident-who-is-to-blame/9567766">So who&#039;s to blame when a driverless car has an accident?</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-20/jacquie-petrusma-dumped-human-services-minister-reshuffle/9566330">Controversy-dogged Jacquie Petrusma dumped as Human Services Minister in reshuffle</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-20/myanmar-leader-aung-san-suu-kyi-victim-to-western-expectations/9566300">Have we expected too much from Aung San Suu Kyi?</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-20/before-you-write-that-scathing-online-review-beware-defamation/9566400">Had a terrible meal? Be careful what you say about it online</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-20/can-fairwork-deliver-a-fair-outcome-on-the-minimum-wage/9554672">The way we determine a &#039;fair&#039; minimum wage is out of date</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-20/therapy-dogs-can-help-reduce-student-stress-anxiety-depression/9564120">How therapy dogs can help students in the classroom with more than stress relief</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-20/china-e28093-xi-jinping-is-all-powerful-what-will-he-do-next/9563170">Now that Xi Jinping is all powerful, what will he do next?</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-20/robert-mueller-the-man-donald-trump-fears-most/9563366">The man Trump fears the most casts a dark shadow over the Oval Office</a></li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    </div>
+  </div>
+<!-- C modules - end -->
+<div id="footer" class="page section">
+    <!-- program footer-->
+  <div class="subcolumns">
+    <div id="sitemap" class="c75l">
+        <div class="section">
+          <h2>Site Map</h2>
+        </div>
+        <div class="subcolumns">
+          <div class="c16l">
+              <div class="section">
+    <h3>Sections</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/"
+    >
+  
+
+  
+    
+        <span>ABC News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/justin/"
+    >
+  
+
+  
+    
+        <span>Just In</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/australia/"
+    >
+  
+
+  
+    
+        <span>Australia</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/world/"
+    >
+  
+
+  
+    
+        <span>World</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/business/"
+    >
+  
+
+  
+    
+        <span>Business</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/entertainment/"
+    >
+  
+
+  
+    
+        <span>Entertainment</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/sport/"
+    >
+  
+
+  
+    
+        <span>Sport</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/analysis-and-opinion/"
+    >
+  
+
+  
+    
+        <span>Analysis &amp; Opinion</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/weather/"
+    >
+  
+
+  
+    
+        <span>Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/topics/"
+    >
+  
+
+  
+    
+        <span>Topics</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/archive/"
+    >
+  
+
+  
+    
+        <span>Archive</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/corrections/"
+    >
+  
+
+  
+    
+        <span>Corrections &amp; Clarifications</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Local Weather</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/sydney/weather/"
+    >
+  
+
+  
+    
+        <span>Sydney Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/melbourne/weather/"
+    >
+  
+
+  
+    
+        <span>Melbourne Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/adelaide/weather/"
+    >
+  
+
+  
+    
+        <span>Adelaide Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/brisbane/weather/"
+    >
+  
+
+  
+    
+        <span>Brisbane Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/perth/weather/"
+    >
+  
+
+  
+    
+        <span>Perth Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/hobart/weather/"
+    >
+  
+
+  
+    
+        <span>Hobart Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/darwin/weather/"
+    >
+  
+
+  
+    
+        <span>Darwin Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/canberra/weather/"
+    >
+  
+
+  
+    
+        <span>Canberra Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Local News</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/sydney/news/"
+    >
+  
+
+  
+    
+        <span>Sydney News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/melbourne/news/"
+    >
+  
+
+  
+    
+        <span>Melbourne News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/adelaide/news/"
+    >
+  
+
+  
+    
+        <span>Adelaide News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/brisbane/news/"
+    >
+  
+
+  
+    
+        <span>Brisbane News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/perth/news/"
+    >
+  
+
+  
+    
+        <span>Perth News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/hobart/news/"
+    >
+  
+
+  
+    
+        <span>Hobart News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/darwin/news/"
+    >
+  
+
+  
+    
+        <span>Darwin News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/canberra/news/"
+    >
+  
+
+  
+    
+        <span>Canberra News</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Media</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/video/"
+    >
+  
+
+  
+    
+        <span>Video</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/audio/"
+    >
+  
+
+  
+    
+        <span>Audio</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/photos/"
+    >
+  
+
+  
+    
+        <span>Photos</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Subscribe</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/feeds/"
+    >
+  
+
+  
+    
+        <span>Podcasts</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/feeds/rss/"
+    >
+  
+
+  
+    
+        <span>RSS Feeds</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/alerts/"
+    >
+  
+
+  
+    
+        <span>NewsMail</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Connect</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/upload/"
+    >
+  
+
+  
+    
+        <span>Upload</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/contact/"
+    >
+  
+
+  
+    
+        <span>Contact Us</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/analysis-and-opinion/"
+    >
+  
+
+  
+    
+        <span>Suggest a Contributor</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            </div>
+      </div>
+    <!-- right section-->
+    <div class="c25r">
+      <div id="fineprint" class="section">
+        <p>
+          <small>This service may include material from Agence France-Presse (AFP), APTN, Reuters, AAP, CNN and the BBC World Service which is copyright and cannot be reproduced.</small>
+        </p>
+        <p>
+          <small>AEDT = Australian Eastern Daylight Savings Time which is 11 hours ahead of UTC (Greenwich Mean Time)</small>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="platforms">
+      <a href="http://mobile.abc.net.au/news/2018-03-20/nt-police-had-no-power-to-wake-aboriginal-man-inquest-told/9567936?pfm=sm" class="platform-mobile switch">Change to mobile view</a></div>
+  </div><!-- End footer --></div>
+<!-- Start Webtrends -->
+<div class="hide">
+  </div>
+<!-- End Webtrends -->
+<!--endnoindex--><!--Global footer-->
+<!-- Start ABC Bundle Footer 2.2.0 (customised) -->
+<!--noindex-->
+<nav id="abcFooter" class="global" aria-label="ABC Footer Navigation" data-version="2.2.0">
+ <ul>
+  <li><a class="abcLink" href="http://about.abc.net.au/terms-of-use/">Terms of Use</a></li>
+  <li><a class="abcLink" href="http://about.abc.net.au/abc-privacy-policy/">Privacy Policy</a></li>
+  <li><a class="abcLink" href="http://about.abc.net.au/accessibility-statement/">Accessibility</a></li>
+  <li><a class="abcLink" href="http://about.abc.net.au/talk-to-the-abc/">Contact Us</a></li>
+  <li><a class="abcLink" href="http://about.abc.net.au/terms-of-use/#UseOfContent">&copy; <time>2018</time> ABC</a></li>
+ </ul>
+</nav>
+<script type="text/javascript" src="https://res.abc.net.au/bundles/2.2.0/scripts/abc.bundle.2.2.0.min.js"></script>
+<script type="text/javascript" src="https://res.abc.net.au/libraries/stats/abc.stats.bundle.js"></script>
+<!-- START Webtrends -->
+<noscript><img alt="dcsimg" id="dcsimg" width="1" height="1" src="//statse.webtrendslive.com/dcsg85fae000004n0vfjpj8oa_9m4q/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.2.10&amp;dcssip=www.abc.net.au"></noscript>
+<!-- END Webtrends -->
+<!-- Google Tag Manager -->
+<script type="text/javascript">
+// <![CDATA[
+ (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ })(window,document,'script','dataLayer','GTM-PB2GX');
+ // ]]>
+</script>
+<noscript>
+ <iframe src="//www.googletagmanager.com/ns.html?id=GTM-PB2GX" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager -->
+<!-- ABC MyLogin -->
+<script type="text/javascript" src="https://mylogin.abc.net.au/js/abc.mylogin.embedded.js"></script>
+<script type="text/javascript">ABC.MyLoginEmbedded.init();</script>
+<!-- END ABC MyLogin -->
+<!--endnoindex-->
+<!-- End ABC Bundle Footer 2.2.0 (customised) -->
+<!--end global footer-->
+</body>
+</html>

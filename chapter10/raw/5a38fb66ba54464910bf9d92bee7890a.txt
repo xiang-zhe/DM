@@ -1,0 +1,980 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+.ntv-mw .socialContainer.twoCol {
+  position:relative !important;
+}
+</style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<link rel="icon" type="image/png" href="../../dist/assets/icons/favicon.ico">
+<link href="../../dist/assets/icons/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="../../dist/assets/icons/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="../../dist/assets/icons/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="../../dist/assets/icons/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+<link href="../../dist/assets/icons/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
+<link href="../../dist/assets/icons/icon-hires.png" rel="icon" sizes="192x192" />
+<link href="../../dist/assets/icons/icon-normal.png" rel="icon" sizes="128x128" />
+<link rel="stylesheet" type="text/css" href="/dist/css_1521016599896/main.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<script type="text/javascript" src="/dist/bower_components/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular/angular.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular-animate/angular-animate.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular-touch/angular-touch.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular-ui/build/angular-ui.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/toastr/toastr.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/waypoints/lib/jquery.waypoints.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/waypoints/lib/shortcuts/sticky.min.js"></script>
+<script type="text/javascript"
+        src="/dist/bower_components/angular-ui-router/release/angular-ui-router.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/moment/min/moment.min.js"></script>
+<script type='text/javascript' src='../../dist/assets/js/ng-infinite-scroll.js'></script>
+<meta property="al:ios:app_name" content="ap-news-app">
+<meta property="al:ios:app_store_id" content="364677107">
+
+<meta name="ap-news-app" content="app-id=364677107, app-argument=https://www.apnews.com/c55368eb286046cba7efe9d8615e74e8/Northern-Brazil-overwhelmed-by-desperate,-hungry-Venezuelans">
+<meta property="fb:pages" content="249655421622"/>
+
+<meta name="referrer" content="origin">
+<meta name="google-site-verification" content="LJ7vk4czBDDGQtqBLAiY_a9dcLP5v9X-sLlrYaW5kbM" />
+
+<script type="text/javascript">
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 11689; // ACCOUNT NUMBER
+    _sf_async_config.domain = 'apnews.com'; // DOMAIN
+    _sf_async_config.flickerControl = false;
+    _sf_async_config.useCanonical = true;
+    /** CONFIGURATION END **/
+    var _sf_startpt = (new Date()).getTime();
+</script>
+<script async src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+<script type='text/javascript'>
+    var environment_type = 'PRODUCTION';
+
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function () {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script>
+
+<!-- Branch WEB SDK
+    TODO: Implement deeplinks and Journeys
+-->
+<script type="text/javascript">
+  (function(b,r,a,n,c,h,_,s,d,k){if(!b[n]||!b[n]._q){for(;s<_.length;)c(h,_[s++]);d=r.createElement(a);d.async=1;d.src="https://cdn.branch.io/branch-latest.min.js";k=r.getElementsByTagName(a)[0];k.parentNode.insertBefore(d,k);b[n]=h}})(window,document,"script","branch",function(b,r){b[r]=function(){b._q.push([r,arguments])}},{_q:[],_v:1},"addListener applyCode banner closeBanner creditHistory credits data deepview deepviewCta first getCode init link logout redeem referrals removeListener sendSMS setBranchViewData setIdentity track validateCode".split(" "), 0);
+
+    branch.init('key_live_ndufC8VAc2V3dnaX3lenvdhkvAc3rs4S', function(err, data) {
+    });
+</script>
+
+    <script type="text/javascript" src="../../dist/assets/js/jquery.mobile.min.js"></script>
+    <script type="text/javascript" src="../../dist/assets/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../../dist/assets/js/smartquotes.js"></script>
+    <script>smartquotes()</script>
+
+    <!-- APNews app tags -->
+    <meta property="al:ios:url" content="apnews://c55368eb286046cba7efe9d8615e74e8">
+    <!-- video js -->
+    <link href="//vjs.zencdn.net/5.3/video-js.min.css" rel="stylesheet">
+    <!--<link rel="stylesheet" href="../../dist/assets/js/videojs.ads.css"/>
+    <link rel="stylesheet" href="../../dist/assets/js/videojs.ima.css"/>-->
+    <title>Northern Brazil overwhelmed by desperate, hungry Venezuelans</title>
+    <meta id="adMetaTags" name="keywords" content="Brazil,AP Top News,Hunger,International News,Latin America,Caribbean,Venezuela"/>
+    <meta name="description" content="
+              PACARAIMA, Brazil (AP) — Hungry and destitute, tens of thousands of victims of Venezuela&#39;s unrelenting political and economic crisis are trying their luck in Brazil — a coun"/>
+    <link rel="canonical" href="https://www.apnews.com/c55368eb286046cba7efe9d8615e74e8"/>
+    <link rel="amphtml" href="https://www.apnews.com/amp/c55368eb286046cba7efe9d8615e74e8">
+
+    <!-- OG Tags -->
+    <meta property="og:url" content="https://www.apnews.com/c55368eb286046cba7efe9d8615e74e8/Northern-Brazil-overwhelmed-by-desperate,-hungry-Venezuelans"/>
+    <meta property="og:image" content="https://storage.googleapis.com/afs-prod/media/media:a343640d71a846ef958e7941fbeec970/800.jpeg"/>
+    <meta property="og:image:width" content="800"/>
+    <meta property="og:image:height" content="600"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:title" content="Northern Brazil overwhelmed by desperate, hungry Venezuelans"/>
+    <meta property="og:site_name" content="AP News"/>
+    <meta property="fb:app_id" content="870613919693099"/>
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:description" content="
+              PACARAIMA, Brazil (AP) — Hungry and destitute, tens of thousands of victims of Venezuela&#39;s unrelenting political and economic crisis are trying their luck in Brazil — a coun"/>
+    <meta property="article:publisher" content="https://www.facebook.com/APNews"/>
+
+    <!-- Twitter Card tags -->
+    <meta property="twitter:card" content="summary_large_image"/>
+    <meta property="twitter:site" content="@ap"/>
+    <meta property="twitter:title" content="Northern Brazil overwhelmed by desperate, hungry Venezuelans"/>
+    <meta property="twitter:description" content="
+              PACARAIMA, Brazil (AP) — Hungry and destitute, tens of thousands of victims of Venezuela&#39;s unrelenting political and economic crisis are trying their luck in Brazil — a coun"/>
+    <meta property="twitter:image" content="https://storage.googleapis.com/afs-prod/media/media:a343640d71a846ef958e7941fbeec970/800.jpeg"/>
+    <meta property="twitter:url" content=" https://www.apnews.com/c55368eb286046cba7efe9d8615e74e8"/>
+    <meta name="twitter:image:alt" content="https://storage.googleapis.com/afs-prod/media/media:a343640d71a846ef958e7941fbeec970/800.jpeg"/>
+
+    <!-- AppNexus -->
+    <script src="https://acdn.adnxs.com/prebid/c/7403/pb.js" async=true></script>
+    <script>
+        var googletag = googletag || {};
+
+        googletag.cmd = googletag.cmd || [];
+        googletag.cmd.push(function () {
+          googletag.pubads().disableInitialLoad();
+        });
+    </script>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push(
+                {article: 'auto'}
+        );
+        !function (e, f, u) {
+            e.async = 1;
+            e.src = u;
+            f.parentNode.insertBefore(e, f);
+        }(document.createElement('script'),
+                document.getElementsByTagName('script')[0],
+                '//cdn.taboola.com/libtrc/associatedpress-apnews/loader.js');
+    </script>
+    <script type='text/javascript'>
+      googletag.cmd.push(function(){
+        var isSticked = false;
+        var bottomAdPos;
+        googletag.pubads().addEventListener('slotRenderEnded', function (event) {
+            if (event.slot.getSlotElementId() === "div-gpt-ad-1461247613791-1") {
+              var bottomAd = $("#bottomAd");
+              bottomAdPos = bottomAd.position().top;
+              var articleContent = $("#articleContent");
+              var rightRail = $(".rightRail");
+              $(window).scroll(function() {
+                  var windowPos = $(window).scrollTop();
+                  if (windowPos >=  bottomAd.position().top + bottomAd.height()){
+                      if(!isSticked){
+                        bottomAdPos = bottomAd.position().top;
+                        isSticked = true;
+                      }
+                      bottomAd.addClass("stickBottomAd");
+                  }
+                  if(windowPos < bottomAdPos){
+                      bottomAd.removeClass("stickBottomAd");
+                  }
+              });
+             }
+         });
+        googletag.defineSlot('/15786418/APNews/site/article/rectangle1', [[300, 250], [300, 600]], 'div-gpt-ad-1461247613791-1').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        googletag.defineSlot('/15786418/APNews/site/article/rectangle2', [300, 250], 'div-gpt-ad-1461247613791-2').addService(googletag.pubads());
+      });
+    </script>
+
+    <base href="/">
+    <script type="text/javascript">
+      $(document).ready(function(){
+        var imageClassList = $('.articleImage').prop('classList');
+        if(jQuery.inArray('tallImage',imageClassList) != -1){
+          $('.articleBody .ad-placeholder:nth(0)').remove();
+        }
+        $('a').on('click', function(){
+            ga('send',{
+                hitType: 'event',
+                eventCategory: 'StoryLink',
+                eventAction: 'LinkOpened',
+                eventLabel: $(this).href
+            });
+        });
+      });
+    </script>
+    <script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-19104461-33', 'auto');
+        ga('set', {
+            'dimension1': 'c55368eb286046cba7efe9d8615e74e8',
+            'dimension4': "Northern Brazil overwhelmed by desperate, hungry Venezuelans",
+            'dimension8': '',
+            'dimension11'   : 'NO'
+        });
+        ga('send', 'pageview');
+
+    </script>
+
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.apnews.com/c55368eb286046cba7efe9d8615e74e8"
+        },
+        "headline": "Northern Brazil overwhelmed by desperate, hungry Venezuelans",
+        "image":{
+            "@type": "ImageObject",
+            "url": "https://storage.googleapis.com/afs-prod/media/media:a343640d71a846ef958e7941fbeec970/800.jpeg",
+            "height": "533",
+            "width": "800"
+        },
+        "datePublished": "2018-03-20 21:16:15",
+        "dateModified": "2018-03-20 21:16:15",
+        "author": {
+            "@type": "Person",
+            "name": "By PETER PRENGAMAN"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Associated Press",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "http://apcontextual.appspot.com/Support/AMPLogo.png",
+              "width": 600,
+              "height": 60
+            }
+        },
+        "description": ""
+      }
+
+
+    </script>
+
+</head>
+<body ng-app="articleContent" style="background-color: white">
+<script type="text/javascript" src="../../dist/assets/js/socialMedia.js"></script>
+
+<!-- Modal -->
+<div id="imageModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="closeContentModalButton">
+                    <a type="button" data-dismiss="modal">&times;</a>
+                </div>
+            </div>
+            <div class="modal-body">
+                <div id="imageCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner" role="listbox">
+                        
+                        <div class="item  active ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:a343640d71a846ef958e7941fbeec970/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              In this March 9, 2018 photo, young Venezuelans pull their luggage after crossing the border to Pacaraima, Roraima state, Brazil. Hungry and destitute, tens of thousands of victims of Venezuela's unrelenting political and economic crisis are trying their luck in Brazil, a country where they do not speak the language, conditions are often poor and there are few border towns to receive them. (AP Photo/Eraldo Peres)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:e61677ac278443c09797d1289b1ca03d/800.jpeg" alt="Charlie Ivan Delgado">
+                            <div class="carousel-caption">
+                                
+              <p>
+              In this March 8, 2018 photo, Venezuelan Charlie Ivan Delgado shows his country's currency as he talks about the economic crisis at a migrant shelter that offers three meals a day where he brought his family of five, inside the Tancredo Neves Gymnasium in Boa Vista, Roraima state, Brazil. The soccer referee has only been able to officiate a handful of games in rural areas outside the city, the kids are not in school and it's hard to imagine how the family might leave the shelter. "It's like Tarzan being in New York," said Delgado. (AP Photo/Eraldo Peres)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:d8fa6c8c7920493e8cebeb6b316509b7/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              In this March 10, 2018 photo, people stand at the border between Venezuela, right, and Brazil, near the Brazilian city of Pacaraima, Roraima state. Portuguese-speaking Brazil has become the latest alternative for Venezuelans, but they are not finding much comfort there. (AP Photo/Eraldo Peres)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:0fba2a2289794c9b9377ed08d1c78f0c/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              In this March 8, 2018 photo, Venezuelan children wait for a free meal at a migrant shelter set up at the Tancredo Neves Gymnasium in Boa Vista, Roraima state, Brazil. This is the largest of three shelters for migrants in the city, and has 700 people despite being equipped for 200. (AP Photo/Eraldo Peres)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:e5838c877adf48bb81b238b6c540717d/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              In this March 11, 2018 photo, tents set up by Venezuelans dot Simon Bolivar Square in Boa Vista, Roraima state, Brazil. Brazilian authorities estimate 40,000 Venezuelans are living in Boa Vista, accounting for over 12 percent of the population in a city that was already poor and unable to offer many opportunities to its residents. (AP Photo/Eraldo Peres)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:078ba8380250442d85f196ad78142384/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              In this March 9, 2018 photo, Venezuelan Kritce Montero and her husband Hector Espinosa stand with their children, 6-month-old Hector, their 7-year-old daughter, right, and an unidentified family member, after getting their documents to enter Brazil at the immigration office in Pacaraima, Roraima state, Brazil. "We are desperate. We could no longer buy food," said 33-year-old Montero, adding it had been months since Hector had any formula or diapers. (AP Photo/Eraldo Peres)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:ce698ab716ac4f58afddf8486759ac08/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              In this March 11, 2018 photo, clothing lays out to dry at a camp set up by Venezuelan migrants living in Simon Bolivar Square in Boa Vista, Roraima state, Brazil. Roraima's governor has declared a state of emergency to free up funds for overwhelmed public hospitals, where health officials estimate that 8 in 10 patients are Venezuelan. (AP Photo/Eraldo Peres)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:7a97dc18b1bd455a829b48f012d1518f/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              In this March 9, 2018 photo, a Venezuelan woman talks to a Brazilian soldier inspecting people's bags at a checkpoint as she crosses the border to Pacaraima, Roraima state, Brazil. Between Jan. 1 and March 7 of this year, 27,755 Venezuelans crossed into Brazil via Pacaraima. Authorities estimate at least 80,000 are currently in Brazil, most of them in Roraima state. (AP Photo/Eraldo Peres)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:fd326c23a34545c4b0dcf5eef9fed925/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              In this March 11, 2018 photo, Venezuelan migrants relax on the banks of the Branco River where they also wash clothes and bathe in Boa Vista, Roraima state, Brazil. Thousands of Venezuelans are living in the streets, sleeping in tents and on benches in central squares. Some have taken over abandoned buildings and cram dozens of people into small apartments. (AP Photo/Eraldo Peres)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:d5c891d7a6a04f1b94c3dd96041e6dda/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              In this March 11, 2018 photo, a Venezuelan family, one in a wheelchair, cool off and bathe in the Branco River in Boa Vista, Roraima state, Brazil. Some Venezuelans arrive to Brazil wearing baggy clothes, have emaciated faces and complain of medical issues ranging from children with measles to diabetics with no insulin. (AP Photo/Eraldo Peres)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:2849b9c688324012b713737f0b92f2a3/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              In this March 8, 2018 photo, Venezuelans wait for a free meal in Simon Bolivar Square where many are living in tents in Boa Vista, Roraima state, Brazil. When trucks pull up with food, hundreds run toward them to get a meal before they run out, while tempers flare as men accuse women and children of using their advantage to get extra portions. (AP Photo/Eraldo Peres)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:302498098dc64d50aeea029d1e55b9a4/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              In this March 9, 2018 photo, Venezuelans cook food on the side of the BR 147 highway after crossing the border to Pacaraima, Roraima state, Brazil. Venezuelans are allowed to enter Brazil with just a national identification card, a lifeline for many who say that getting a passport in Venezuela has become impossible. (AP Photo/Eraldo Peres)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:96dfd437b65e4040a091ae2dacccb43f/800.jpeg" alt="Leonardo Wilfredo">
+                            <div class="carousel-caption">
+                                
+              <p>
+              In this March 8, 2018 photo, Venezuelan Leonardo Wilfredo cuts a client's hair at his makeshift barbershop inside a migrant shelter at the Tancredo Neves Gymnasium in Boa Vista, Roraima state, Brazil. Police say Venezuelans are sometimes working for as little as $7 a day in everything from construction to yard work, putting downward pressure on wages. (AP Photo/Eraldo Peres)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:29874f3ab4754eee950b30431d4653f3/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              In this March 8, 2018 photo, children rest on a mattress inside the Tancredo Neves Gymnasium that is operating as a shelter for Venezuelans in Boa Vista, Roraima state, Brazil. Most Venezuelan migrants have arrived in the last several months, putting intense pressure on the public health system and volunteer organizations and churches that are carrying the largest burden when it comes to keeping Venezuelans fed. (AP Photo/Eraldo Peres)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:2dce34d481e44c67a154a2387ae7ac78/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              In this March 11, 2018 photo, a sign that reads in Portuguese: "I need work. Tractor driver. Excavator." near a Venezuelan migrant outside his tent in Simon Bolivar Square where Venezuelans have set up tents in Boa Vista, Roraima, Brazil. While finding work is hard, those offering to work for less isn't enough: Several interviewed said many employers have told them flat out they won't hire Venezuelans. (AP Photo/Eraldo Peres)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:d789ce29ba3b49cdb9a084c05c503ad5/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              In this March 8, 2018 photo, tents fill the Tancredo Neves Gymnasium that is operating as a shelter for Venezuelans in Boa Vista, Roraima state, Brazil. Here, children roam the former gymnasium while groups of men and women chat about their hopes for finding work and worry about the families they left in Venezuela. (AP Photo/Eraldo Peres)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:5cc93d0130964e95a0ab524ce331c609/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              In this March 8, 2018 photo, Venezuelans form a line behind a vehicle providing free meals in Simon Bolivar Square where many are living in tents in Boa Vista, Roraima state, Brazil. Many Venezuelans arrive to Brazil weak from hunger and with no money for a hotel, food or the $9 bus ride to Boa Vista, the capital of the Brazilian state of Roraima, known in Venezuelan circles as a place that offers three meals a day. (AP Photo/Eraldo Peres)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:7466333ee13b4836af0ad2bdbe0aa1ec/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              In this March 11, 2018 photo, a tear runs down the cheek of Venezuelan woman praying during religious service in Simon Bolivar Square where many are living in tents in Boa Vista, Roraima state, Brazil. While in recent years millions of Venezuelans have immigrated, until recently Brazil received relatively few of them. Hundreds of thousands have gone to Colombia, but authorities there and elsewhere in South America are tightening their borders. (AP Photo/Eraldo Peres)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:82f63f4f947146558599d32445988782/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              In this March 8, 2018 photo, a Venezuelan family rests in a shelter set up inside the Tancredo Neves Gymnasium in Boa Vista, Roraima state, Brazil. Venezuelans are allowed to enter Brazil with just a national identification card, and those without one can enter with a birth certificate if they are granted refugee status, however, such "refugees" can't return to Venezuela after President Nicolas Maduro called them "traitors" of the state. (AP Photo/Eraldo Peres)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:0fe3760ee62e4a889133d2281499a1e8/800.jpeg" alt="Charlie Ivan Delgado">
+                            <div class="carousel-caption">
+                                
+              <p>
+              In this March 8, 2018 photo, Venezuelan Charlie Ivan Delgado sells ice and juice inside the migrant shelter set up inside the Tancredo Neves Gymnasium in Boa Vista, Roraima state, Brazil. Delgado, a professional soccer referee, arrived with hopes of earning enough money so he and his high school sweetheart could finally afford a wedding, but each time he called home he would hear his three young children were always hungry so he abandoned wedding plans and brought his family to the shelter that offers three meals a day. (AP Photo/Eraldo Peres)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:6cd74c24ac5940c0918e55b6ac05ba8d/800.jpeg" alt="Angel David, Ashley Angelina">
+                            <div class="carousel-caption">
+                                
+              <p>
+              In this March 9, 2018 photo, 9-year-old Ashley Angelina holds her doll as she hitch-hikes with her twin brother Angel David and their parents along highway BR 147 after crossing the Venezuelan border as they migrate to Brazil near Pacaraima, Roraima state, Brazil. Their parents said they had no money for the bus to Boa Vista, and instead of staying in Pacaraima, they began the journey at night on foot. After walking 4 miles (6 kilometers), a Brazilian driver stopped and agreed to take them to Boa Vista for free. (AP Photo/Eraldo Peres)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:eb04cfdda514480fa7616960cbedfbbe/800.jpeg" alt="Jose Guillen, Julho Bascelta, Angel David, Ashley Angelina">
+                            <div class="carousel-caption">
+                                
+              <p>
+              In this March 9, 2018 photo, Venezuelans Jose Guillen and his wife July Bascelta hitch hike with their 9-year-old twins Angel David and Ashley Angelina along highway BR 147 after crossing the border into Brazil near Pacaraima, Roraima state, Brazil. "God will provide," said Guillen when asked how the family would eat during a trip to Boa Vista that can take five days. (AP Photo/Eraldo Peres)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                    </div>
+
+                    <!-- Left and right controls -->
+                    
+                    <a class="left carousel-control" href="#imageCarousel" role="button" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"><div class="sr-only carousel-round"> <svg class="carousel-arrow" viewBox="0 0 100 100"><path d="M 25,50 L 60,85 L 65,80 L 35,50  L 65,20 L 60,15 Z" class="arrow"></path></svg> </div></span>
+                    </a>
+                    <a class="right carousel-control" href="#imageCarousel" role="button" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"><div class="sr-only carousel-round"> <svg class="carousel-arrow" viewBox="0 0 100 100"><path d="M 25,50 L 60,85 L 65,80 L 35,50  L 65,20 L 60,15 Z" class="arrow" transform="translate(100, 100) rotate(180) "></path></svg> </div></span>
+                    </a>
+
+                    <ol class="carousel-indicators">
+                        
+                        <li data-target="#imageCarousel" data-slide-to="0" 
+                            class="active" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="1" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="2" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="3" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="4" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="5" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="6" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="7" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="8" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="9" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="10" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="11" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="12" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="13" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="14" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="15" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="16" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="17" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="18" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="19" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="20" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="21" ></li>
+                        
+                    </ol>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div page-header></div>
+
+
+<div class="articleView" >
+    <div class="articleContentContainer">
+        <div class="sideRail leftRail" >
+            <div class="fullscreen">
+                <div>
+                    <h4>By PETER PRENGAMAN</h4>
+                </div>
+                <div>
+                    <h4 class="updatedString">Yesterday</h4>
+                </div>
+            </div>
+            <div class="outerShareContainer">
+                <!--share-container is Angular directive, search for 'searchContainer'-->
+<!--fbShare, tweet and deeplink are handled by jQuery, search for file socialMedia.js-->
+<div class="fbShare socialIcons" data-url="https://www.apnews.com/c55368eb286046cba7efe9d8615e74e8/Northern-Brazil-overwhelmed-by-desperate,-hungry-Venezuelans" data-title="Northern Brazil overwhelmed by desperate, hungry Venezuelans" data-image="https://storage.googleapis.com/afs-prod/media/media:a343640d71a846ef958e7941fbeec970/800.jpeg"
+     data-member="" data-id="urn:publicid:ap.org:c55368eb286046cba7efe9d8615e74e8" data-cardType="">
+    <img src="../../dist/assets/icons/facebook-share.png" class="shareIcon"/>
+</div>
+<div class="tweet socialIcons" data-title="Northern Brazil overwhelmed by desperate, hungry Venezuelans" data-url="https://www.apnews.com/c55368eb286046cba7efe9d8615e74e8"
+     data-member="" data-id="urn:publicid:ap.org:c55368eb286046cba7efe9d8615e74e8" data-cardType="">
+    <img src="../../dist/assets/icons/twitter-share.png" class="shareIcon"/>
+</div>
+<div id="mailTo" class="socialIcons" data-url="https://www.apnews.com/c55368eb286046cba7efe9d8615e74e8" data-member=""
+     data-id="urn:publicid:ap.org:c55368eb286046cba7efe9d8615e74e8" data-cardType="">
+    <img src="../../dist/assets/icons/email.png" class="shareIcon"/>
+</div>
+<div class="deeplink socialIcons" data-url="https://www.apnews.com/c55368eb286046cba7efe9d8615e74e8">
+    <img  class="deeplink-image" src="../../dist/assets/icons/permalink-field.jpg"/>
+    <span class="deeplink-text">https://www.apnews.com/c55368eb286046cba7efe9d8615e74e8</span>
+    <div class="deeplink-hint">Link copied!</div>
+</div>
+<div share-container name="Northern Brazil overwhelmed by desperate, hungry Venezuelans" is-share="false" url="https://www.apnews.com/c55368eb286046cba7efe9d8615e74e8" id="urn:publicid:ap.org:c55368eb286046cba7efe9d8615e74e8" short-id="c55368eb286046cba7efe9d8615e74e8" type="content" page="card"
+     card-type="" card-title="Northern Brazil overwhelmed by desperate, hungry Venezuelans" member-name=""></div>
+            </div>
+
+            <div class="leftRailTags leftRailTitle">
+                <h4>RELATED TOPICS</h4>
+                <ul>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/Brazil">Brazil</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/Hunger">Hunger</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/apf-intlnews">International News</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/apf-latinamerica">Latin America</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/apf-Caribbean">Caribbean</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/Venezuela">Venezuela</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <div>
+                <span class="leftRailTitle">More from</span><br/>
+                <a href="/tag/apf-topnews"><span class="moreFrom">AP Top News</span></a>
+            </div>
+        </div>
+
+        
+        <div class="articleContent" id="articleContent">
+            <div class="dtTitle">
+                <ul class="topTags">
+                    
+                    <li class="tagsList">
+                        <a href="/tag/Brazil">Brazil</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/Hunger">Hunger</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-intlnews">International News</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-latinamerica">Latin America</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-Caribbean">Caribbean</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/Venezuela">Venezuela</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-topnews">AP Top News</a>
+                    </li>
+                </ul>
+                <div class="dtTitleContainer">
+                    <h1 class="topTitle">Northern Brazil overwhelmed by desperate, hungry Venezuelans</h1>
+                </div>
+            </div>
+            
+            <div class=" articleImage modalImageButton  ">
+                <div class="articleIcons">
+                    
+                    <button data-toggle="modal" class="modalImageButton"><img
+                            src="../../dist/assets/icons/slideshow-story-view.png" class="articleIcon"></button>
+                    
+                    
+                </div>
+                <img class="afkl-lazy-image primaryImage" src="https://storage.googleapis.com/afs-prod/media/media:a343640d71a846ef958e7941fbeec970/800.jpeg"><!--src="https://storage.googleapis.com/afs-prod/media/media:a343640d71a846ef958e7941fbeec970/800.jpeg"-->
+            </div>
+            
+            <script>
+            </script>
+            <article id="contentArea"
+                     class="    ">
+                
+                <div class="mobileTitle">
+                    <ul style="padding: 0">
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Brazil">Brazil</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Hunger">Hunger</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-intlnews">International News</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-latinamerica">Latin America</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-Caribbean">Caribbean</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Venezuela">Venezuela</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-topnews">AP Top News</a>
+                        </li>
+                    </ul>
+                    <h3>Northern Brazil overwhelmed by desperate, hungry Venezuelans</h3>
+                </div>
+                
+                <div class="tabletTitle">
+                    <ul style="padding: 0">
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Brazil">Brazil</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Hunger">Hunger</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-intlnews">International News</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-latinamerica">Latin America</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-Caribbean">Caribbean</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Venezuela">Venezuela</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-topnews">AP Top News</a>
+                        </li>
+                    </ul>
+                    <h3>Northern Brazil overwhelmed by desperate, hungry Venezuelans</h3>
+                </div>
+                <div class="mobile">
+                    <div>
+                        <h6>By PETER PRENGAMAN</h6>
+                    </div>
+                    <div>
+                        <h6>Yesterday</h6>
+                    </div>
+
+                </div>
+                <div class="mobile mobileShareTemplate">
+                    <!--share-container is Angular directive, search for 'searchContainer'-->
+<!--fbShare, tweet and deeplink are handled by jQuery, search for file socialMedia.js-->
+<div class="fbShare socialIcons" data-url="https://www.apnews.com/c55368eb286046cba7efe9d8615e74e8/Northern-Brazil-overwhelmed-by-desperate,-hungry-Venezuelans" data-title="Northern Brazil overwhelmed by desperate, hungry Venezuelans" data-image="https://storage.googleapis.com/afs-prod/media/media:a343640d71a846ef958e7941fbeec970/800.jpeg"
+     data-member="" data-id="urn:publicid:ap.org:c55368eb286046cba7efe9d8615e74e8" data-cardType="">
+    <img src="../../dist/assets/icons/facebook-share.png" class="shareIcon"/>
+</div>
+<div class="tweet socialIcons" data-title="Northern Brazil overwhelmed by desperate, hungry Venezuelans" data-url="https://www.apnews.com/c55368eb286046cba7efe9d8615e74e8"
+     data-member="" data-id="urn:publicid:ap.org:c55368eb286046cba7efe9d8615e74e8" data-cardType="">
+    <img src="../../dist/assets/icons/twitter-share.png" class="shareIcon"/>
+</div>
+<div id="mailTo" class="socialIcons" data-url="https://www.apnews.com/c55368eb286046cba7efe9d8615e74e8" data-member=""
+     data-id="urn:publicid:ap.org:c55368eb286046cba7efe9d8615e74e8" data-cardType="">
+    <img src="../../dist/assets/icons/email.png" class="shareIcon"/>
+</div>
+<div class="deeplink socialIcons" data-url="https://www.apnews.com/c55368eb286046cba7efe9d8615e74e8">
+    <img  class="deeplink-image" src="../../dist/assets/icons/permalink-field.jpg"/>
+    <span class="deeplink-text">https://www.apnews.com/c55368eb286046cba7efe9d8615e74e8</span>
+    <div class="deeplink-hint">Link copied!</div>
+</div>
+<div share-container name="Northern Brazil overwhelmed by desperate, hungry Venezuelans" is-share="false" url="https://www.apnews.com/c55368eb286046cba7efe9d8615e74e8" id="urn:publicid:ap.org:c55368eb286046cba7efe9d8615e74e8" short-id="c55368eb286046cba7efe9d8615e74e8" type="content" page="card"
+     card-type="" card-title="Northern Brazil overwhelmed by desperate, hungry Venezuelans" member-name=""></div>
+                </div>
+                <div class="articleBody" mark-urls>
+                    
+<p>PACARAIMA, Brazil (AP) &#8212; Hungry and destitute, tens of thousands of victims of Venezuela's unrelenting political and economic crisis are trying their luck in Brazil &#8212; a country where they do not speak the language, conditions are often poor and there are few border towns to receive them.</p>
+<p>Many arrive to Brazil's northern border weak from hunger and with no money for a hotel, food or the $9 bus ride to Boa Vista, the capital of the Brazilian state of Roraima, known in Venezuelan circles as a place that offers three meals a day. In dozens of interviews over four days, many said they had not had more than one meal a day for the last year.</p><div class="ad-placeholder"></div>
+<p>Some wore baggy clothes, had emaciated faces and complained of medical issues ranging from children with measles to diabetics with no insulin.</p>
+<p>Kritce Montero tried to shush 6-month-old Hector, who cried from hunger even after breast-feeding while his family and several hundred other Venezuelans waited to be processed at the border.</p>
+<p>Montero, who said she lost 57 pounds (26 kilograms) the last year from eating just one meal a day, traveled with Hector and her 7-year-old daughter 18 hours by bus from Maturin, a city in northeast Venezuela. After spending the night sleeping on the ground in Pacaraima, a dusty border town in the Amazon, they took another bus 130 miles (210 kilometers) to Boa Vista.</p>
+<p>"We are desperate. We could no longer buy food," said 33-year-old Montero, adding it had been months since Hector had any formula or diapers.</p>
+<p>While in recent years millions of Venezuelans have immigrated, until recently Brazil received relatively few of them. Hundreds of thousands have gone to Colombia, but authorities there and elsewhere in South America are tightening their borders.</p>
+<p>Portuguese-speaking Brazil has become the latest alternative for Venezuelans. But they are not finding much comfort there.</p>
+<p>On a recent day, Militza DonQuis, 38, sat under a tree on the side of the main road in Pacaraima. In the two months since she and her husband arrived from Puerto Cabello, they have not been able to find work. With no money, they can't take the bus to Boa Vista, so they sleep on the ground and scrounge for food during the day.</p>
+<p>"This is horrible," said DonQuis through tears, adding that in two months she had been unable to send money home to her children, ages 12 and 14, who she left with a sister.</p><div class="ad-placeholder"></div>
+<p>With no money for a bus, Jose Guillen, 48, and wife July Bascelta, 44, decided to begin the journey to Boa Vista at night on foot, setting off with 9-year-old twins Angel and Ashley along a road surrounded by forest.</p>
+<p>"God will provide," said Guillen when asked how the family would eat during a trip that can take five days.</p>
+<p>After walking 4 miles (6 kilometers), a Brazilian driver stopped agreed to give them a lift to Boa Vista, where the situation is arguably more desperate. Thousands of Venezuelans are living in the streets. They sleep in tents and on benches in central squares, have taken over abandoned buildings and cram dozens of people into small apartments.</p>
+<p>The largest of three shelters in the city, Tancredo, has 700 people despite being equipped for 200. Half-naked children roam the former gymnasium while groups of men and women chat about their hopes for finding work and worry about the families they left in Venezuela.</p>
+<p>Charlie Ivan Delgado, 30, said he came to Brazil several months ago with hopes of earning enough money so he and his high school sweetheart could finally afford a wedding. But each time he called home to El Tigre, he would hear the situation was getting worse, that their three children, ages 9, 5 and 1, were always hungry. So he decided to abandon wedding plans and bring his family.</p>
+<p>"Kids in Venezuela today don't think about playing with their friends or what they might study" in the university, said Delgado, sitting with his children and partner in a tent. "It's more, 'What am I going to eat today?"</p>
+<p>While the shelter offers three meals a day, the family's prospects are bleak.</p>
+<p>The soccer referee has only been able to officiate a handful of games in rural areas outside Boa Vista, the kids are not in school and it's hard to imagine how the family might leave the shelter.</p>
+<p>"It's like Tarzan being in New York," said Delgado.</p>
+<p>Brazilian authorities estimate 40,000 Venezuelans are living in Boa Vista, accounting for over 12 percent of the population in a city that was already poor and unable to offer many opportunities to its residents.</p>
+<p>Most have arrived in the last several months, putting intense pressure on the public health system, the jails and volunteer organizations and churches that are carrying the largest burden when it comes to keeping Venezuelans fed.</p>
+<p>Police say Venezuelans are sometimes working for as little as $7 a day in everything from construction to yard work, putting downward pressure on wages. For many, even offering to work for less isn't enough: Several interviewed said many employers have told them flat out they won't hire Venezuelans.</p>
+<p>Milene da Souza, one of a group of volunteers who periodically serve food, said many Brazilians were increasingly angry at the situation.</p>
+<p>"Brazil has many of its own problems," she said. "Roraima has its own problems."</p>
+<p>Last month, fears of a backlash intensified when an arsonist set fire to two Boa Vista houses filled with Venezuelan immigrants, injuring dozens, several severely. A man originally from neighboring Guiana has been arrested, and police have said he was motivated by anger at Venezuelans in the city.</p>
+<p>On the Plaza Simon Bolivar, named after the South American independence leader who was the inspiration for late Venezuelan President Hugo Chavez' "socialist revolution," throngs are camping in tents or simply sleeping on the grass. When trucks pull up with food, hundreds run toward them, elbowing each other in a mad scramble to get a meal before they run out. Tempers flare as men accuse women and children of using their advantage to get extra portions.</p>
+<p>Roraima's governor has declared a state of emergency to free up funds for overwhelmed public hospitals, where health officials estimate that 8 in 10 patients are Venezuelan. Last month, President Michel Temer canceled activities during Carnival to make an emergency trip to Boa Vista.</p>
+<p>But residents say the federal government's plans, which include building a field hospital in Pacaraima and relocating a few thousand immigrants to bigger cities, are not enough. Between Jan. 1 and March 7 of this year, 27,755 Venezuelans crossed into Brazil from Pacaraima. Authorities estimate at least 80,000 are currently in Brazil, most of them in Roraima state.</p>
+<p>During a meeting Tuesday with Colombian President Juan Manuel Santos, Temer said Venezuelan migration was having an "unsettling" effect on other nations in Latin America. Also Tuesday, the U.S. government announced that it was sending $2.5 million in emergency food and medicine assistance for Venezuelans in Colombia.</p>
+<p>Brazil, Latin America's largest nation, has one of the region's most inclusive immigration policies. Venezuelans are allowed to enter with just a national identification card, a lifeline for many who say that getting a passport in Venezuela has become impossible. Many immigrants who don't have identification cards but can show a birth certificate are allowed in if they request and are granted refugee status.</p>
+<p>Being designated "refugees" can be problematic because such immigrants can't return to Venezuela; Maduro has called them "traitors" of the state.</p>
+<p>Many say that as long as Maduro is in power they have no reason to return.</p>
+<p>Despite skyrocketing inflation and a collapse of many businesses, Maduro has refused to allow humanitarian aid to enter Venezuela. He denies there is a crisis and says international relief would lead to foreign intervention.</p>
+<p>"Maduro's solution is that we just eat each other," said Diana Merida sarcastically while washing her clothes in a Boa Vista river. The 34-year-old from Maturin said she recently sent $3 home to her 16-year-old daughter and 11-year-old son, which would allow them to buy some rice.</p>
+<p>While it took her three days of selling coffee to earn that, it was more than she could earn in a month as a saleswoman in a clothes store back home.</p>
+<p>On the Plaza Simon Bolivar, Kritce Montero sits with baby Hector, who now has on a diaper and has spent the last two days gobbling up formula, all donated by volunteers.</p>
+<p>It's been two days since the family crossed the border in Pacaraima. The first night they slept under a tree in the plaza, but then the second night somebody offered them a tent because of the baby.</p>
+<p>"At least here, I'm able to feed my kids," said Montero. "Even if I'm living under a bridge, I would feel OK if my kids have food."</p>
+<p>____</p>
+<p>Follow Peter Prengaman: twitter.com/peterprengaman</p>
+
+                </div>
+            </article>
+            
+            <div class="taboolaContainer" id="taboolaContainer">
+                <div id="taboola-below-article-text-links"></div>
+                <div id="taboola-below-article-thumbnails-2nd"></div>
+                <div id="taboola-below-article-thumbnails"></div>
+            </div>
+        </div>
+        
+        <div class="sideRail rightRail">
+            <div class="adUnit" id="div-gpt-ad-1461247613791-2">
+            </div>
+            <script type='text/javascript'>
+                googletag.cmd.push(function () {
+                    googletag.display('div-gpt-ad-1461247613791-2');
+                });
+            </script>
+            <div class="rightRailContent" side-feed tag-id="apf-topnews" content-id="c55368eb286046cba7efe9d8615e74e8">
+            </div>
+            <div class="bottomAd" id="bottomAd">
+                <div class="feedAd" id="div-gpt-ad-1461247613791-1">
+                </div>
+            </div>
+            <script type='text/javascript'>
+                googletag.cmd.push(function () {
+                    googletag.display('div-gpt-ad-1461247613791-1');
+                });
+            </script>
+        </div>
+        
+
+
+    </div>
+    <div page-footer></div>
+</div>
+<script type="application/javascript" src="/dist/articleContent_1521016612264.js"></script> 
+<script type="application/javascript" src="/dist/contentTemplates_1521016624504/templates.js"></script>
+<script src="//vjs.zencdn.net/5.3/video.min.js"></script>
+<script type="text/javascript" src="//imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
+<script src="../../dist/assets/js/videojs.ads.js"></script>
+<script src="../../dist/assets/js/videojs.ima.js"></script>
+<script type="application/javascript" src="/dist/articleManager_1521016612264.js"></script> 
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push(
+            {flush: true}
+    );
+</script>
+
+<script type="text/javascript">
+    $(function () {
+        window._taboola = window._taboola || [];
+        _taboola.push(
+                {
+                    mode: 'thumbnails-a',
+                    container: 'taboola-below-article-thumbnails',
+                    placement: 'Below Article Thumbnails',
+                    target_type: 'mix'
+                }
+        );
+        _taboola.push(
+            {
+                mode: 'organic-thumbnails-a',
+                container: 'taboola-below-article-thumbnails-2nd',
+                placement: 'Below Article Thumbnails 2nd',
+                target_type: 'mix'
+            }
+        );
+        _taboola.push(
+            {
+                mode: 'organic-text-links-a',
+                container: 'taboola-below-article-text-links',
+                placement: 'Below Article Text Links',
+                target_type: 'mix'
+            }
+        );
+    });
+</script>
+<!-- Twitter universal website tag code -->
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">twttr.conversion.trackPid('nv0fp',
+        {tw_sale_amount: 0, tw_order_quantity: 0}
+);</script>
+<noscript>
+    <img height="1" width="1" style="display:none;" alt=""
+         src="https://analytics.twitter.com/i/adsct?txn_id=nv0fp&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0"/>
+    <img height="1" width="1" style="display:none;" alt=""
+         src="//t.co/i/adsct?txn_id=nv0fp&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0"/>
+</noscript>
+<!-- End Twitter universal website tag code -->
+<input id="hiddenTitle" type="hidden" value="Northern Brazil overwhelmed by desperate, hungry Venezuelans">
+<input type="hidden" value="None" id="userAccount">
+<input type="hidden" value="None" id="userToken">
+<input type="hidden" value="https://afs-prod.appspot.com" id="baseAFS">
+<input type="hidden" value="https://storage.googleapis.com/afs-prod/" id="baseGCS">
+<input type="hidden" value="31.230416,121.473701" id="latLong">
+<input type="hidden" value="31" id="region">
+<input type="hidden" value="shanghai" id="city">
+<input type="hidden" value="CN" id="country">
+
+<script type='text/javascript'>
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.sections = 'Topnews, Intlnews, Latinamerica, Caribbean';
+    _sf_async_config.authors = 'By PETER PRENGAMAN';
+    _sf_async_config.alias = window.location.href;
+
+    /** CONFIGURATION END **/
+    (function() {
+      function loadChartbeat() {
+          window._sf_endpt = (new Date()).getTime();
+          var e = document.createElement('script');
+          e.setAttribute('language', 'javascript');
+          e.setAttribute('type', 'text/javascript');
+          e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+          document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+          loadChartbeat : function() {
+              oldonload();
+              loadChartbeat();
+          };
+
+      })();
+  </script>
+</body>
+</html>

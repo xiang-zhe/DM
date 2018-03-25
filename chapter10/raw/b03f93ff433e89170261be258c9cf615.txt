@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://hitechbeacon.com/xmlrpc.php">
+
+<title>US businesses get ready for backlash as Trump readies to slap trade sanctions on China. | Hi Tech Beacon</title>
+
+<!-- All in One SEO Pack 2.4.2 by Michael Torbert of Semper Fi Web Design[251,368] -->
+<link rel="canonical" href="http://hitechbeacon.com/2018/03/22/us-businesses-get-ready-for-backlash-as-trump-readies-to-slap-trade-sanctions-on-china/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-108643970-1', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Hi Tech Beacon &raquo; Feed" href="http://hitechbeacon.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Hi Tech Beacon &raquo; Comments Feed" href="http://hitechbeacon.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Hi Tech Beacon &raquo; US businesses get ready for backlash as Trump readies to slap trade sanctions on China. Comments Feed" href="http://hitechbeacon.com/2018/03/22/us-businesses-get-ready-for-backlash-as-trump-readies-to-slap-trade-sanctions-on-china/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/hitechbeacon.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp_fanzone_slider-css'  href='http://hitechbeacon.com/wp-content/themes/wp-fanzone/css/slider.css?ver=4.8.5' type='text/css' media='screen' />
+<link rel='stylesheet' id='wp_fanzone_responsive-css'  href='http://hitechbeacon.com/wp-content/themes/wp-fanzone/css/responsive.css?ver=4.8.5' type='text/css' media='screen' />
+<link rel='stylesheet' id='wp_fanzone_font_awesome-css'  href='http://hitechbeacon.com/wp-content/themes/wp-fanzone/assets/css/font-awesome.min.css?ver=4.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wp_fanzone_googleFonts-css'  href='//fonts.googleapis.com/css?family=Lato%7COswald&#038;ver=4.8.5' type='text/css' media='all' />
+<!--[if IE]>
+<link rel='stylesheet' id='wp_fanzone-ie-css'  href='http://hitechbeacon.com/wp-content/themes/wp-fanzone/css/ie.css?ver=4.8.5' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='wp-fanzone-style-css'  href='http://hitechbeacon.com/wp-content/themes/wp-fanzone/style.css?ver=4.8.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://hitechbeacon.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://hitechbeacon.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://hitechbeacon.com/wp-content/themes/wp-fanzone/js/responsive.js?ver=4.8.5'></script>
+<script type='text/javascript' src='http://hitechbeacon.com/wp-content/themes/wp-fanzone/js/slider.js?ver=4.8.5'></script>
+<script type='text/javascript' src='http://hitechbeacon.com/wp-content/themes/wp-fanzone/js/jquery.imagesloaded.min.js?ver=4.8.5'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://hitechbeacon.com/wp-content/themes/wp-fanzone/js/html5shiv.js?ver=4.8.5'></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://hitechbeacon.com/wp-content/themes/wp-fanzone/js/ie-responsive.min.js?ver=4.8.5'></script>
+<![endif]-->
+<script type='text/javascript' src='http://hitechbeacon.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='http://hitechbeacon.com/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='http://hitechbeacon.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var slider_speed = {"vars":"6000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://hitechbeacon.com/wp-content/themes/wp-fanzone/js/custom.js?ver=4.8.5'></script>
+<link rel='https://api.w.org/' href='http://hitechbeacon.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://hitechbeacon.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://hitechbeacon.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='India’s IOT spending to reach at an all time high,an increase of 28% from the last year.' href='http://hitechbeacon.com/2018/03/22/indias-iot-spending-to-reach-at-an-all-time-highan-increase-of-28-from-the-last-year/' />
+<link rel='next' title='Global Aircraft Interiors Market: Advanced technologies &amp; Growth Opportunities in Global Industry by 2023' href='http://hitechbeacon.com/2018/03/22/global-aircraft-interiors-market-advanced-technologies-growth-opportunities-in-global-industry-by-2023/' />
+<meta name="generator" content="WordPress 4.8.5" />
+<link rel='shortlink' href='http://hitechbeacon.com/?p=23777' />
+<link rel="alternate" type="application/json+oembed" href="http://hitechbeacon.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fhitechbeacon.com%2F2018%2F03%2F22%2Fus-businesses-get-ready-for-backlash-as-trump-readies-to-slap-trade-sanctions-on-china%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://hitechbeacon.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fhitechbeacon.com%2F2018%2F03%2F22%2Fus-businesses-get-ready-for-backlash-as-trump-readies-to-slap-trade-sanctions-on-china%2F&#038;format=xml" />
+	<style id="color-settings">
+			.btn-info, .btn-default, .main-navigation li:hover > a, .main-navigation ul ul a, .main-navigation .current_page_item > a, .main-navigation .current-menu-item > a, .navbar-toggle .icon-bar, .main-navigation .current_page_ancestor > a, #copyright, #respond #submit, .post-content form input[type=submit], .post-content form input[type=button], .widget-title h4, .pagination .fa, #footer .widget_calendar thead tr, .site-info, footer .widget_calendar thead tr{
+			background-color:#dd3333;
+			}
+		.top-bar, .btn-info, .nav_container, #footer, .navbar-default .navbar-toggle, footer#colophon{
+			border-color:#dd3333;
+		}
+		aside ul li a, .pagination a, h4.author-title a, .author-info a, cite.fn, a.comment-reply-link, comment-meta a, a.comment-edit-link, .logged-in-as a, .widget_tag_cloud a, .widget_calendar td a, .widget_calendar td a, footer .meta-info span, footer .meta-info a, footer ul li a:hover, .meta-info a:hover, ul li.recentcomments, .post_box a.meta-comment:hover, .entry a:hover, .entry a:focus, .entry a, #breadcrumbs a, #breadcrumbs a:hover, .meta-info, .post a{
+		color:#dd3333;
+		}
+		.arrow-right{
+			border-left: 10px solid #dd3333;
+		}
+		</style>
+	</head>
+
+<body class="post-template-default single single-post postid-23777 single-format-standard group-blog">
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header">
+    	<div id="top-bar" class="top-bar">
+        	<div class="container">            	
+            	<div class="row">
+                	<div class="col-md-7">
+							<p style="display:inline-block; color:#fff; vertical-align: top; padding-top:10px; float:left; margin-right:10px;">March 23, 2018</p>
+                            					</div>
+                    <div class="col-md-5 fan-sociel-media">
+						             	
+                        						                                                																		                    	                    	                    	                    	              
+
+                    </div> <!--end fan-sociel-media-->
+                </div>
+        	</div>
+        </div>
+		<div class="site-branding">
+        	<div class="container">
+            	<div class="row">
+                	<div class="col-md-12">
+						                        <div id="site-logo">
+                            <a href="http://hitechbeacon.com/" title="Hi Tech Beacon" rel="home">
+                                <img src="http://192.163.195.203/~hitechbeacon/wp-content/uploads/2017/10/Clip2net_171016193244.png" alt="Hi Tech Beacon" />
+                            </a>
+                        </div>
+                                                                        <div class="clearfix"></div>
+					</div>
+                </div>
+            </div>	
+		</div><!-- .site-branding -->
+
+		<div class="nav_container">
+            <div class="container">
+                <nav id="site-navigation" class="main-navigation container-fluid">
+                  <button class="menu-toggle navbar-toggle" aria-controls="menu" aria-expanded="false">
+                  	<span class="sr-only">Toggle navigation</span>            
+                    <span class="icon-bar"></span>            
+                    <span class="icon-bar"></span>            
+                    <span class="icon-bar"></span>
+                  </button>
+				<div class="menu-main-container"><ul id="menu" class="menu"><li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-12"><a href="http://hitechbeacon.com/">Home</a></li>
+<li id="menu-item-131" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-131"><a href="http://hitechbeacon.com/culture_arts/">Culture &#038; Arts</a></li>
+<li id="menu-item-132" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-132"><a href="http://hitechbeacon.com/economy/">Economy</a></li>
+<li id="menu-item-133" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-133"><a href="http://hitechbeacon.com/it/">IT</a></li>
+<li id="menu-item-134" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134"><a href="http://hitechbeacon.com/medicine/">Medicine</a></li>
+<li id="menu-item-135" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-135"><a href="http://hitechbeacon.com/national/">National</a></li>
+<li id="menu-item-136" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136"><a href="http://hitechbeacon.com/sci-tech/">Sci-tech</a></li>
+<li id="menu-item-137" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-137"><a href="http://hitechbeacon.com/sport/">Sport</a></li>
+<li id="menu-item-138" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-138"><a href="http://hitechbeacon.com/world/">World</a></li>
+<li id="menu-item-17366" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17366"><a href="#">Market Research Reports</a>
+<ul  class="sub-menu">
+	<li id="menu-item-17367" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17367"><a href="http://hitechbeacon.com/market-research-reports/materials-and-chemicals/">Materials and Chemicals</a></li>
+	<li id="menu-item-17369" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17369"><a href="http://hitechbeacon.com/market-research-reports/ict-media/">ICT Media</a></li>
+	<li id="menu-item-17371" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17371"><a href="http://hitechbeacon.com/market-research-reports/energy-and-power/">Energy and Power</a></li>
+	<li id="menu-item-17378" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17378"><a href="http://hitechbeacon.com/market-research-reports/consumer-goods/">Consumer Goods</a></li>
+	<li id="menu-item-17379" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17379"><a href="http://hitechbeacon.com/market-research-reports/medical-devices/">Medical Devices</a></li>
+</ul>
+</li>
+</ul></div>
+                </nav>
+
+            </div>
+
+        </div> <!--end nav_container-->
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content container">
+<div class="row breadcrumb-container">
+	<ul id="breadcrumbs"><li><a href="http://hitechbeacon.com">Home</a></li><li class="separator"> / </li><li><a href="http://hitechbeacon.com/world/" rel="category tag">World</a></li><li class="separator"> / </li><li>US businesses get ready for backlash as Trump readies to slap trade sanctions on China.</li></ul></div>
+<div class="row">
+	<div id="primary" class="content-area col-md-9">
+		<main id="main" class="site-main" role="main">
+
+		
+			
+<article id="post-23777" class="post-23777 post type-post status-publish format-standard hentry category-world tag-china tag-donald-trump">
+	<header class="entry-header">
+		<h1 class="entry-title">US businesses get ready for backlash as Trump readies to slap trade sanctions on China.</h1>		<img src=""/>
+
+		<div class="entry-meta">
+			 <p class="meta-info"><span><em>
+                Posted By <a href="http://hitechbeacon.com/author/chaitrali/" title="Posts by Chaitrali Datar" rel="author">Chaitrali Datar</a>  on  March 22, 2018             </em></span></p>
+		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>People from various businesses in America are bracing up for a major backlash as Trump gets ready to slap various trade sanctions on China.</p>
+<p>Trump has targeted China and other countries to pay complete attention to the factors and for stealing the American technology and pressuring the US companies to hand over the various companies.</p>
+<p>&nbsp;</p>
+<p><strong><b>What is the administration saying?</b></strong></p>
+<p>&nbsp;</p>
+<p>The administration is expected to slap a trade action on this week on the same and is expected to take some concrete action on the same.Many of the industry groups have also sent trade sanctions to the administration and request to stop all the allegations against the same.</p>
+<p>&nbsp;</p>
+<p>They have warned on the imposition of the sweeping tarrifs and a chain reaction of the negative consequences to the stifling US agriculture and goods and services imports and exports on the same and of the various other consequences also.</p>
+<p>&nbsp;</p>
+<p>The announcement will also mark the end of a seven month long investigation and also challenge the US supremacy and also add a lot of spark to the debate.The Administrator decisions to pull down this path is imperative and will see a lot of structures available.</p>
+<p>&nbsp;</p>
+<p>But all along the various businessmen agree that something need to be done and fast.They can also retaliate by tar getting the US exports and also of the Trump administration think-tank to know the same.</p>
+<p>They also want to think soon about China’s aggressive push on the economy and soon work on the same.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+                <footer class="entry-footer">
+			<span class="cat-links">Posted in <a href="http://hitechbeacon.com/world/" rel="category tag">World</a></span><span class="tags-links"> Tagged <a href="http://hitechbeacon.com/tag/china/" rel="tag">China</a>, <a href="http://hitechbeacon.com/tag/donald-trump/" rel="tag">Donald Trump</a></span>        </footer><!-- .entry-footer -->
+        		
+	</div><!-- .entry-content -->
+
+	
+</article><!-- #post-## -->
+
+				<nav class="navigation post-navigation" role="navigation">
+		<h1 class="screen-reader-text">Post navigation</h1>
+		<div class="nav-links">
+			<div class="nav-previous"><a href="http://hitechbeacon.com/2018/03/22/indias-iot-spending-to-reach-at-an-all-time-highan-increase-of-28-from-the-last-year/" rel="prev"><span class="meta-nav">&larr;</span>&nbsp;India’s IOT spending to reach at an all time high,an increase of 28% from the last year.</a></div><div class="nav-next"><a href="http://hitechbeacon.com/2018/03/22/global-aircraft-interiors-market-advanced-technologies-growth-opportunities-in-global-industry-by-2023/" rel="next">Global Aircraft Interiors Market: Advanced technologies &amp; Growth Opportunities in Global Industry by 2023&nbsp;<span class="meta-nav">&rarr;</span></a></div>		</div><!-- .nav-links -->
+	</nav><!-- .navigation -->
+	
+			
+<div id="comments" class="comments-area">
+
+	
+	
+	
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2018/03/22/us-businesses-get-ready-for-backlash-as-trump-readies-to-slap-trade-sanctions-on-china/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="http://hitechbeacon.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+				<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" aria-required="true" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" aria-required='true' required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" aria-required='true' required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='23777' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>			</form>
+			</div><!-- #respond -->
+	
+</div><!-- #comments -->
+
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+	<aside id="widget" class="widget-container col-md-3 ">
+        
+<div id="sidebar" class="clearfix">
+
+	    	        	<aside id="search-2" class="widget widget_search"><form method="get" class="searchform" action="http://hitechbeacon.com/">
+	<input type="text" name="s" id="s" value="Search here.." onfocus='if (this.value == "Search here..") { this.value = ""; }' onblur='if (this.value == "") { this.value = "Search here.."; }' />
+	<input type="image" src="http://hitechbeacon.com/wp-content/themes/wp-fanzone/images/search-button.png" alt="Search" id="search-button">
+</form></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<div class="widget-title"><h4>Recent Posts</h4><div class="arrow-right"></div></div>		<ul>
+					<li>
+				<a href="http://hitechbeacon.com/2018/03/22/electronic-health-records-ehr-market-growth-recent-trends-by-regions-type-application-and-geographical-analysis-to-2022/">Electronic Health Records (EHR) Market Growth, Recent Trends by Regions, Type, Application and Geographical Analysis to 2022</a>
+						</li>
+					<li>
+				<a href="http://hitechbeacon.com/2018/03/22/know-the-key-areas-for-investments-in-digital-cameras-li-ion-battery-market-analysis-forecast-to-2023/">Know the Key Areas For Investments In Digital Cameras Li-Ion Battery Market &#8211; Analysis &amp; Forecast to 2023</a>
+						</li>
+					<li>
+				<a href="http://hitechbeacon.com/2018/03/22/digital-cameras-li-ion-battery-market-2018-by-identifying-the-key-market-segments-poised-for-strong-growth-in-future-2023/">Digital Cameras Li-Ion Battery Market 2018–By Identifying the Key Market Segments Poised for Strong Growth in Future 2023</a>
+						</li>
+					<li>
+				<a href="http://hitechbeacon.com/2018/03/22/vanadium-redox-battery-vrb-market-is-expected-to-generate-huge-profits-by-2018-2023/">Vanadium Redox Battery (VRB) Market Is Expected To Generate Huge Profits by 2018 – 2023</a>
+						</li>
+					<li>
+				<a href="http://hitechbeacon.com/2018/03/22/new-report-inspects-solid-state-oxygen-fuel-cell-market-trends-drivers-strategies-segmentation-application-technology-market-analysis-research-report-to-2023/">New Report inspects Solid State Oxygen Fuel Cell Market Trends, Drivers, Strategies, Segmentation Application, Technology &amp; Market Analysis Research Report to 2023</a>
+						</li>
+				</ul>
+		</aside>		                
+        
+    
+</div>
+<!-- END sidebar -->    </aside>
+</div> 
+
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer">
+    	<div class="container">
+                <div class="row">
+                    <div class="col-md-4">
+                                            </div>
+                    <div class="col-md-4">
+                                            </div>
+                    <div class="col-md-4">
+                                            </div>
+                </div>
+        </div>
+        <div class="site-info">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                
+                    &copy; Hi Tech Beacon                                        </div>
+                </div>
+            </div>
+        </div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='http://hitechbeacon.com/wp-content/themes/wp-fanzone/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='http://hitechbeacon.com/wp-content/themes/wp-fanzone/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='http://hitechbeacon.com/wp-includes/js/comment-reply.min.js?ver=4.8.5'></script>
+<script type='text/javascript' src='http://hitechbeacon.com/wp-includes/js/wp-embed.min.js?ver=4.8.5'></script>
+
+</body>
+</html>

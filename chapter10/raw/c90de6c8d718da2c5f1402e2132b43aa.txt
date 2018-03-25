@@ -1,0 +1,3541 @@
+
+
+
+
+										
+																															
+
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en" prefix="og:http://ogp.me/ns# fb:http://www.facebook.com/2008/fbml irishtimes:http://www.irishtimes.com/" version="HTML+RDFa 1.1"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en" prefix="og:http://ogp.me/ns# fb:http://www.facebook.com/2008/fbml irishtimes:http://www.irishtimes.com/" version="HTML+RDFa 1.1"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en" prefix="og:http://ogp.me/ns# fb:http://www.facebook.com/2008/fbml irishtimes:http://www.irishtimes.com/" version="HTML+RDFa 1.1"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js eq-ie9" lang="en" prefix="og:http://ogp.me/ns# fb:http://www.facebook.com/2008/fbml irishtimes:http://www.irishtimes.com/" version="HTML+RDFa 1.1"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang="en" prefix="og:http://ogp.me/ns# fb:http://www.facebook.com/2008/fbml rNews:http://www.iptc.org/ns/1.0 irishtimes:http://www.irishtimes.com/" version="HTML+RDFa 1.1"> <!-- <![endif]-->
+<head>
+
+<!-- Google Tag Manager -->
+<script>
+    dataLayer = [{'Page_Type':'metered_article', 'Topic':'news,world,europe'}];
+</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-M9Q373');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Optimize Page hiding snippet -->
+<style>.async-hide { opacity: 0 !important}</style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+    h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+    (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000, {'GTM-M9Q373':true});</script>
+<!-- End Google Optimize Page hiding snippet -->
+
+    <script type="text/javascript">var _it_page_revision_id = '201303211700'; </script>
+
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+	<meta name="apple-itunes-app" content="app-id=365544593">
+
+                    
+        <link rel="canonical" href="https://www.irishtimes.com/news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897" />
+            <link rel="amphtml" href="https://www.irishtimes.com/news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897?mode=amp">
+        <link rel="alternate" href="https://www.irishtimes.com/news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897?mode=amp">
+                <title>Britain labels Moscow’s nerve agent denials ‘increasingly absurd’</title>
+        <meta name="description" content="Foreign minister Boris Johnson secures strong support from EU and Nato over attack" />
+    
+  
+      <meta property="vf:unique_id" content="wwwirishtimescom13432897" />
+
+         <meta itemprop="datePublished" content="2018-03-19T18:17:27+0000"/>
+
+    
+  <meta name="news_keywords" content="News, World, Europe" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0, user-scalable=yes, target-densitydpi=medium-dpi" />
+ <!-- <meta name="apple-mobile-web-app-capable" content="yes" />-->
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+          <meta name="robots" content="all" />
+    <meta name="format-detection" content="telephone=no" />
+
+  <link rel="shortcut icon" href="/assets/images/favicons/favicon.ico" />
+	
+  <link rel="apple-touch-icon-precomposed" href="/assets/images/favicons/apple-touch-icon-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/images/favicons/apple-touch-icon-72x72-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/images/favicons/apple-touch-icon-114x114-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/images/favicons/apple-touch-icon-144x144-precomposed.png" />
+
+    
+  <link rel="stylesheet" href="/assets/css/framework.min.css?rev=20180313T104847"/>
+  <!--<link rel="stylesheet" href="/assets/css/index.css?rev=20180313T104847"/>-->
+  	
+
+<link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,700,700italic,900,900italic,400italic'
+          rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic'
+          rel='stylesheet' type='text/css'>
+
+
+  <!--<link rel="stylesheet" href="/assets/css/patch.css?rev=20180313T104847"/>-->
+
+    	    	    <link rel="stylesheet" href="/assets/css/mondo-style-article.min.css?rev=20180313T104847"/>
+  	    <link rel="stylesheet" href="/assets/css/print.min.css?rev=20180313T104847" media="print"/>
+	    
+
+
+<link rel='stylesheet' href='/assets/css/comments.min.css?rev=20180313T104847' type='text/css' media='screen'>
+
+    <link rel="alternate" type="application/rss+xml" title="ActiveCampaign Business Today Digest More From Business" href="/rss/activecampaign-business-today-digest-more-from-business-1.3180340">
+        <link rel="alternate" type="application/rss+xml" title="ActiveCampaign Business Today Top Stories" href="/rss/activecampaign-business-today-top-stories-1.3180275">
+        <link rel="alternate" type="application/rss+xml" title="ActiveCampaign Business Today Editors Note " href="/rss/activecampaign-business-today-editors-note-1.3175762">
+        <link rel="alternate" type="application/rss+xml" title="ActiveCampaign Business Today Todays Columnist" href="/rss/activecampaign-business-today-todays-columnist-1.3175583">
+        <link rel="alternate" type="application/rss+xml" title="NOA RSS" href="/rss/noa-rss-1.3093339">
+        <link rel="alternate" type="application/rss+xml" title="Construction RSS" href="/rss/construction-rss-1.3020527">
+        <link rel="alternate" type="application/rss+xml" title="Commercial Property RSS" href="/rss/commercial-property-rss-1.3020524">
+        <link rel="alternate" type="application/rss+xml" title="facebook instant articles" href="/rss/facebook-instant-articles-1.2675736">
+        <link rel="alternate" type="application/rss+xml" title="work rss" href="/rss/work-rss-1.2458565">
+        <link rel="alternate" type="application/rss+xml" title="Apple RSS" href="/rss/apple-rss-1.2384003">
+        <link rel="alternate" type="application/rss+xml" title="The Irish Times - News" href="/rss/the-irish-times-news-1.1319192">
+        <link rel="alternate" type="application/rss+xml" title="@IrishTimesWorldFeed" href="/rss/irishtimesworldfeed-1.1321046">
+        <link rel="alternate" type="application/rss+xml" title="Irish Times World RSS" href="/rss/irish-times-world-rss-1.1315954">
+        
+
+	<script src="/assets/js/mondo-script.min.js?rev=20180313T104847"></script>
+	<script src="/assets/js/visible-viewport.js?rev=20180313T104847"></script>
+	    	<script src="/apw.js?v=1"></script>
+    	<script src="/apw.js?f=mod&v=1"></script>
+		
+                                
+
+
+                            
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+</script>
+<script>
+    var adLazyloaded = [];
+    var Bottom1, OutOfPage, RightSidebarTop, Top;
+        var InContent1;
+        if ("undefined" === typeof kvusertype) {
+        var kvusertype = '0';
+    }
+    if ("undefined" === typeof kvarticlecount) {
+        var kvarticlecount = '';
+    }
+    var kvreferral = document.referrer;
+    (function (getCookie) {
+        var cookie = getCookie('IT_PW_AUTH');
+        if (null != cookie && "" != cookie) {
+            kvusertype = '1';
+        }
+        var pw_meter_news = getCookie('apw_aac_news');
+        var it_pw_auth = getCookie('IT_PW_AUTH');
+        if (pw_meter_news && pw_meter_news != ""
+                && (!(it_pw_auth || it_pw_auth == ""))
+        ) {
+            var parts = pw_meter_news.split(".");
+            kvarticlecount = parseInt( parts[2], 10 );
+        }
+    } (function (name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }));
+
+
+    googletag.cmd.push(function() {
+        Top = googletag.defineSlot('/4844766/The_Irish_Times/News/News_Top', [[970, 250], [970, 90], [728, 90], [320, 100], [320, 50], [300, 100], [300, 75], [300, 50]], 'div-gpt-ad-Top').defineSizeMapping([[[1024,200],[[970, 250],[970, 90],[728, 90]]],[[980,200],[[970, 90], [728, 90]]],[[728,200],[[728, 90]]],[[0,0],[[320, 100],[320, 50],[300, 100],[300, 75],[300, 50]]]]).addService(googletag.pubads());
+        OutOfPage = googletag.defineOutOfPageSlot('/4844766/The_Irish_Times/News/News_OutOfPage',  'div-gpt-ad-OutOfPage').defineSizeMapping([[[1200,200],[[1, 1]]],[[0,0],[]]]).addService(googletag.pubads());
+        RightSidebarTop = googletag.defineSlot('/4844766/The_Irish_Times/News/News_RightSidebarTop', [[300, 600], [300, 250]], 'div-gpt-ad-RightSidebarTop').addService(googletag.pubads());
+                        InContent1 = googletag.defineSlot('/4844766/The_Irish_Times/News/News_InContent', [300, 250], 'div-gpt-ad-InContent-1').addService(googletag.pubads()).setTargeting('kvinline', ['1']);
+                        
+                Bottom1 = googletag.defineSlot('/4844766/The_Irish_Times/News/News_Bottom1', [300, 250], 'div-gpt-ad-Bottom1').addService(googletag.pubads());
+        adLazyloaded.push(Bottom1);
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().collapseEmptyDivs(true);
+        googletag.pubads().setTargeting('kvsubsection', ['News_World']).setTargeting('kvlevel3', ['News_World_Europe']).setTargeting('kvreferral', [kvreferral]).setTargeting('kvpeople', []).setTargeting('kvcategory', []).setTargeting('kvtopic', []).setTargeting('kvarticlecount', [kvarticlecount]).setTargeting('kvloc', []).setTargeting('kvpagetype', ['article']).setTargeting('kvusertype', [kvusertype]).setTargeting('kvcompany', []).setTargeting('kvcontentid', ['1.3432897']);
+        googletag.pubads().enableVideoAds();
+        googletag.pubads().disableInitialLoad();
+        googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+            if (event.slot === Top) {
+                if(undefined !== event.size && event.size && event.size[1] > 90){
+                    jq('html').addClass('ad-over');
+                }
+            }
+        });
+        googletag.enableServices();
+    });
+	
+	/* AM-68
+	this event listener needs to be set up to read the size in the header ad slot, and if 970x250 call the moveAd() function
+	googletag.events.SlotRenderEndedEvent()
+	https://developers.google.com/doubleclick-gpt/reference#googletageventsslotrenderendedevent
+	*/
+	/* to set the page skin */
+	function setBackground(data) { 
+		jq('html').addClass('gutter');
+	  
+		var backgroundDiv = document.body; 
+		backgroundDiv.style.backgroundImage ="url('" + data.background_url + "')"; 
+		
+		var backgroundLayer = document.getElementById("skin-dfp"); 
+		backgroundLayer.setAttribute('href', data.click_tracker);
+		backgroundLayer.setAttribute('target', '_blank'); 
+		
+		var impresion_DFP = document.createElement( 'img' );  
+		impresion_DFP.setAttribute('src', decodeURIComponent(data.impressionTracker));  
+		impresion_DFP.setAttribute('id', 'ImpressionTracker');  
+		impresion_DFP.className = 'invisible';
+		backgroundDiv.appendChild(impresion_DFP);  
+		
+		var impresion_thirdParty = document.createElement( 'img' );  
+		impresion_thirdParty.setAttribute('src', data.thirdPartyImpressionTracker);  
+		impresion_thirdParty.setAttribute('id', 'ThirdPartyImpressionTracker');  
+		impresion_thirdParty.className = 'invisible';
+		backgroundDiv.appendChild(impresion_thirdParty);
+	} 
+	
+</script>
+	   <!-- Adding IE8 polyfill for the article.js (computedstyle is used for the sharingtools debounce) -->
+    <!--[if IE 8]>  <script src="/assets/js/getComputedStyle.js"></script> <![endif]-->
+		<script src="/assets/js/article.min.js?rev=20180313T104847"></script>
+    	<script src="/assets/js/article-tools/it-selection-sharer.min.js?rev=20180313T104847"></script>
+
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+          									                    					<meta property="og:title" content="Britain labels Moscow&rsquo;s nerve agent denials &lsquo;increasingly absurd&rsquo;">
+					<meta property="og:type" content="article">
+					<meta property="og:url" content="https://www.irishtimes.com/news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897">
+					<meta property="og:site_name" content="The Irish Times">
+				  							<meta property="og:description" content="Foreign minister Boris Johnson secures strong support from EU and Nato over attack">
+          			                	<meta property="og:locale" content="en_US"/>
+                	<meta property="og:image" content="https://www.irishtimes.com/image-creator/?id=1.3432896&origw=1440">
+                    <meta property="og:image:secure_url" content="https://www.irishtimes.com/image-creator/?id=1.3432896&origw=1440">
+                	<meta property="og:image:type" content="image/jpeg"/>
+                                                                    																																															<meta property="og:image:height" content="630"/>
+						<meta property="og:image:width" content="1200"/>
+														    	
+					
+						
+				                    	<meta name="twitter:card" content="summary_large_image">
+										<meta name="twitter:site" content="@IrishTimesWorld">
+										
+										<meta name="twitter:url" content="https://www.irishtimes.com/news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897">
+                    					<meta name="twitter:title" content="Britain labels Moscow&rsquo;s nerve agent denials &lsquo;increasingly absurd&rsquo;">
+          					  <meta name="twitter:description" content="Foreign minister Boris Johnson secures strong support from EU and Nato over attack">
+          					<meta name="twitter:image" content="https://www.irishtimes.com/polopoly_fs/1.3432896.1521483382!/image/image.jpg">
+										<meta name="p:domain_verify" content="407f54448f07f81a1dee976d9c243713"/>
+    <script type="text/javascript">
+		var _ittwitterhandle = 'IrishTimesWorld';
+    </script>
+  
+        <meta property="fb:pages" content="45441411157" />
+      <meta property="twitter:account_id" content="15084853" />
+    	<meta property="fb:app_id" content="1170474839675514"/>
+      
+
+	
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({c1: "2", c2: "8946263", c3: "", c4: "https://www.irishtimes.com/news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897", c5: "News_World_Europe" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=8946263&cv=2.0&cj=1" />
+</noscript>
+
+<!-- End comScore Tag -->
+
+  
+           
+							
+					
+											
+<script type="text/javascript"><!--
+        var _gaq = _gaq || [];
+        _gaq.push(
+            ['_setAccount', 'UA-850873-2'],
+            ['_setDomainName', '.irishtimes.com'],
+            ['_setCustomVar', 1, 'Page_Type',  'article', 3],
+                            ['_setCustomVar', 2, 'Section', 'news', 3],
+                
+                
+                ['_setCustomVar', 3, 'Subsection', 'news_world', 3],
+                                    			['_setCustomVar', 4, 'Level3', 'news_world_europe', 3],
+				    		['_trackPageview', '/news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897'],
+		['_setAllowLinker', true]
+        );
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+        --></script>
+              
+
+
+        
+
+    
+    
+  
+
+
+
+<script type="text/javascript"><!--
+	var _sf_async_config = _sf_async_config || {};
+	/** CONFIGURATION START **/
+	_sf_async_config.uid = 31036;
+	_sf_async_config.domain = 'irishtimes.com';
+		  _sf_async_config.sections = "News_World_Europe";
+  		_sf_async_config.title = "Britain labels Moscow’s nerve agent denials ‘increasingly absurd’";
+
+	    _sf_async_config.path = "/news/world/europe/1.3432897";
+  
+    var _cbq = window._cbq = (window._cbq || []);
+	/** CONFIGURATION END **/
+		(function(){
+			function loadChartbeat() {
+              if(document.body.classList.contains('authenticated')){
+                  _cbq.push(['_acct', 'paid']);
+              }else{
+                  _cbq.push(['_acct', 'anon']);
+              }
+			  window._sf_endpt=(new Date()).getTime();
+			  var e = document.createElement('script');
+			  e.setAttribute('language', 'javascript');
+			  e.setAttribute('type', 'text/javascript');
+			  e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+              document.body.appendChild(e);
+	}
+	var oldonload = window.onload;
+	window.onload = (typeof window.onload != 'function') ?
+		loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+--></script>
+               
+        <!-- Include ES5 shim, sham and html5 shiv for ie8 support  -->
+      <!-- Exclude this if you don't need ie8 support -->
+      <script src="https://vjs.zencdn.net/ie8/1.1.0/videojs-ie8.min.js"></script>
+  
+</head>
+<body class="news isArticle isMetered   " vocab="http://schema.org/">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-M9Q373" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id='div-gpt-ad-OutOfPage' class="hidden" style='height:1px; width:1px;'>
+    <script>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-OutOfPage'); googletag.pubads().refresh([OutOfPage]); });
+    </script>
+</div>
+<a href="#" id="skin-dfp"></a>
+
+		<div id="wrapper" class="clearfix sb-site-container">	
+		<header role="banner" class="clearfix nocontent">
+	
+						  
+                  
+    
+  
+    
+  
+    
+    
+        <script src="/assets/js/notify.js"></script>
+<script>
+jq(document).ready( function($) {
+	var pw_meter_news = $.cookie('apw_aac_news');
+    //var pw_meter_news = $.cookie('pw_meter_news');
+    var it_pw_auth = $.cookie('IT_PW_AUTH');
+    if (typeof pw_meter_news != 'undefined' && pw_meter_news && pw_meter_news != ""
+        && (!(it_pw_auth || it_pw_auth == ""))
+    ) {
+        var parts = pw_meter_news.split(".");
+
+        var used_quota = parseInt( parts[2], 10 );
+        //var max_quota = parseInt( parts[3], 10 );
+    	var apw_quota = 10;
+        if(!_apw.settings.anonymous_ac.pids || !_apw.settings.anonymous_ac.pids.news){
+          apw_quota = _apw.settings.anonymous_ac.fallback.quota;
+        }else{
+          console.log(apw_quota = _apw.settings.anonymous_ac.pids);
+          apw_quota = _apw.settings.anonymous_ac.pids.news.quota;
+        }
+        var max_quota = parseInt( apw_quota, 10 );
+        var free_quota = max_quota - used_quota;
+
+        if (free_quota == 2
+            && jq(document.body).hasClass('isArticle')
+            && jq(document.body).hasClass('isMetered')
+            && location.href.indexOf('mode=sample') == -1) {
+
+            //show the toast
+            jq.notify({
+                //message: "You have read " + used_quota + " of " + max_quota + " free articles this week.",
+                message: "You have "+ free_quota + " free articles left this week.",
+                //message: "You have 2 free articles left this week.",
+                prompt: "Try unlimited access for just \u20ac1. <span>Find out more</span>"
+            }, {
+                globalPosition: 'bottom left',
+                //  autoHide: false
+                autoHideDelay: 8000
+            });
+
+            //fire a custom event
+            if ( dataLayer && Array.isArray(dataLayer) ) {
+                dataLayer.push({
+                    'category': 'Non Interaction Events',
+                    'action': 'Toast Message Triggered',
+                    'label': 'Find out more: Toast message - article '+used_quota+' of '+max_quota
+                }, {'event': 'data-layer-event'});
+
+            }
+
+
+        }
+
+        jq("#metermsg-storefront").click(function() {
+            if ( dataLayer && Array.isArray(dataLayer) ) {
+                dataLayer.push({
+                    'category': '/digital-subscriptions',
+                    'action': 'Go to StoreFront',
+                    'label': 'Find out more: Toast message - article ' + used_quota + ' of ' + max_quota
+                }, {'event': 'data-layer-event'});
+            }
+        });
+    }
+
+});
+
+jq.notify.addStyle('bootstrap', {
+    html:
+    "<div>" +
+    "<a href='/digital-subscriptions' class='toast-msg goto-storefront' id='metermsg-storefront'>" +
+    "<div class='notify-msg' data-notify-text='message'/>" +
+    "<div class='notify-prompt' data-notify-html='prompt'>" +
+    "</div>" +
+    "</a>" +
+    "</div>"
+});
+
+
+
+
+</script>
+
+<style type="text/css">
+
+    .notifyjs-bootstrap-base{font-family:"DINWeb-Medium",Arial,Helvetica,sans-serif; font-size:15px; box-shadow:5px 5px 15px 0 rgba(0, 0, 0, 0.3); background-color:rgba(246,246,246, .9); padding:8px; border:1px solid #C6C6C6; border-top:3px solid #006666; text-align:center;}
+    .notifyjs-bootstrap-base .notify-msg{color:#006666; font-size:110%; margin:5px 8px;}
+    .notifyjs-bootstrap-base .notify-prompt{color:#515151;}
+
+    .notifyjs-bootstrap-base .notify-prompt span{background-color:#fad165; border-radius:4px; color:#333; display: inline-block; font-family: "DINWeb-Bold",Arial,Helvetica,sans-serif;
+    font-size: 14px; line-height:15px; padding:9px 9px 5px; text-transform: uppercase; border: 1px solid #bb9c4b;}
+
+    .lt-ie9 .notifyjs-bootstrap-base{ background-color:rgb(246,246,246);}
+
+    @media only screen and (max-width: 768px) {
+
+    .notifyjs-bootstrap-base{}
+    .notifyjs-bootstrap-base .notify-msg{font-size:100%;}
+    .notifyjs-bootstrap-base .notify-prompt{}
+    .notifyjs-bootstrap-base .notify-prompt span{display:none;}
+}
+
+
+</style>
+
+      
+    
+    
+         <div id="top-line-navigation" class="clearfix">
+    <div class="left-remainder">
+      <div class="inner"></div>
+    </div>
+    <div class="container clearfix">
+      <nav class="column-1">
+        <ul>
+          <li class="search">
+            <a href="#" id="activate-search" data-dropdown-menu="search">
+              <i class="s-icon s-icon-search"></i>
+              <span>Search</span>
+            </a>
+          </li><!--
+          --><li class="newsletters"><a href="/newsletters"><i class="s-icon s-icon-newsletters"></i> <span>Newsletters</span></a></li><!--
+          --><li class="crosswords"><a href="/games/crosswords"><i class="s-icon s-icon-crossword"></i> <span>Crossword</span></a></li><!--
+          --><li class="crosswords"><a href="http://notices.irishtimes.com/"><i class="s-icon s-icon-notices"></i> <span>Notices</span></a></li>
+        </ul>
+      </nav>
+      <nav class="column-2">
+        <ul>
+        <li class="my-account">
+          <a href="#" id="activate-myaccount" data-dropdown-menu="myaccount">
+            <!-- <i class="s-icon s-icon-signed-in"></i> -->
+            <span>My Account</span>
+            <i></i>
+            <i></i>
+            <i></i>
+          </a>
+        </li><!--
+        --><li class="subscribe">
+              <a href="/digital-subscriptions" class="goto-storefront gtm-event" id="toolbar-storefront" data-evt-category="/digital-subscriptions" data-evt-action="Go to StoreFront" data-evt-label="Subscribe: Top toolbar (desktop only)" >Subscribe</a>
+        </li><!--
+        --><li class="signin">
+              <a id="activate-signin" data-dropdown-menu="signin" href="#">
+                <i class="s-icon-signin"></i>
+                <span>Sign In</span>
+              </a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+    <div class="right-remainder">
+      <div class="inner"></div>
+    </div>
+  </div>
+
+      
+    
+    
+        <div class="banner">
+			
+                  
+    
+  
+    
+  
+    
+    
+        										<div id='div-gpt-ad-Top' class="ad-element">
+			<script>
+				googletag.cmd.push(function() {
+					googletag.display('div-gpt-ad-Top');
+										googletag.pubads().refresh([Top]);
+									});
+			</script>
+		</div>
+	 
+	
+      
+  
+      	</div>
+      
+    
+    
+        
+
+
+
+		 <div class="persistent-wrapper">
+ <div id="persistent">
+    <!-- Masthead area -->
+    <div id="page-metadata" class="alternate">
+      <div class="left-remainder">
+      <div class="inner"></div>
+    </div>
+    <div class="container">
+      <div id="open-touch-menu" class="sb-toggle-left navbar-left">
+        <span></span><span></span><span></span>
+      </div>
+      <div id="logo"> <a href="/"> <span class="accessibility">The Irish Times</span> </a> </div>
+	  <div class="date">Wed, Mar 21, 2018</div>
+      <div class="weather weather-landing" id="weatherWidget">
+        <a href="/weather/">
+		  <div class="default-location">  <i class="s-icon s-icon-settings"></i></div>
+          <div class="outlook">
+            <div title="" class="symbol-wrap">
+              <p class="main large"> <i class=""></i> </p>
+              <p class="left small"> <i class=""></i> </p>
+			  <p class="right small"><i class=""></i></p>
+            </div>
+          </div>
+          <span class="temp"> <sup> </sup></span>
+        </a>
+      </div>
+	  <div class="mobile-signin">
+        <a id="activate-mobile-signin" class="sb-toggle-right">
+          <i class="s-icon-signinout"></i>
+          
+        </a>
+       </div>
+
+    </div>
+    <div class="right-remainder">
+      <div class="inner"></div>
+    </div>
+  </div>
+
+       <div id="primary-navigation">
+      <div class="section-navigation clearfix">
+        <div class="left-remainder">
+            <div class="inner"></div>
+        </div>
+        <div class="container">
+            <!-- Top level menu -->
+            <nav class="main-nav" aria-label="main menu" role="navigation">
+              <ul aria-label="sections" role="menubar">
+				<li class="top-section homepage-section" role="menuitem"><a href="/"><span class="accessibility">The Irish Times</span></a></li>
+                                                    	                                        	                                                           					<li class="top-section news-section selected" role="menuitem"><a href="/news" >News</a></li>
+				                                    	                                                           					<li class="top-section sport-section" role="menuitem"><a href="/sport" >Sport</a></li>
+				                                    	                                                           					<li class="top-section business-section" role="menuitem"><a href="/business" >Business</a></li>
+				                                    	                                                           					<li class="top-section opinion-section" role="menuitem"><a href="/opinion" >Opinion</a></li>
+				                                    	                                                           					<li class="top-section lifestyle-section" role="menuitem"><a href="/life-and-style" >Life & Style</a></li>
+				                                    	                                                           					<li class="top-section culture-section" role="menuitem"><a href="/culture" >Culture</a></li>
+				                                    	                                                           					<li class="top-section more-section" role="menuitem"><a href="/more" >More</a></li>
+				                                    	                                                           					<li class="top-section video-section" role="menuitem"><a href="/video" ><i class="s-icon s-icon-video"></i>Video</a></li>
+				                                    	                                                           					<li class="top-section podcast-section" role="menuitem"><a href="/podcasts" ><i class="s-icon s-icon-podcast"></i>Podcasts</a></li>
+				                                                        	                                                           					<li class="top-section jobs-section" role="menuitem"><a href="https://execjobs.irishtimes.com/" target="blank">Executive Jobs</a></li>
+								<li class="top-section search">
+						<a href="#" id="sticky-search">
+							<i class="s-icon s-icon-search"></i>
+							<span>Search</span>
+						</a>
+				</li>
+				<div class="right-utilities">
+        	<li class="top-section subscribe">
+          	<a href="/digital-subscriptions" class="goto-storefront gtm-event" id="sticky-storefront" data-evt-category="/digital-subscriptions" data-evt-action="Go to StoreFront" data-evt-label="Subscribe: Sticky menu (desktop only)">Subscribe</a>
+        	</li>
+        	<li class="top-section my-account">
+          	<a href="#" id="sticky-myaccount">
+            	<span>My Account</span>
+							<i></i>
+							<i></i>
+							<i></i>
+          	</a>
+        	</li>
+        	<li class="top-section signin">
+            <a href="#" id="sticky-signin">Sign In</a>
+        	</li>
+				</div>
+      </ul>
+            </nav>
+        </div>
+
+        <div class="right-remainder">
+            <div class="inner"></div>
+        </div>
+      </div>
+
+    <div class="sub-navigation clearfix">
+      <div class="left-remainder">
+          <div class="inner"></div>
+      </div>
+      <div id="overflowWrapper" class="container">
+                    <nav class="sub-nav" id="news-sub-nav" role="navigation">
+			  <span class="transparent-left"></span>
+              <ul class="pull-left">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              				          					          					          				          					          					          				          					          					          				          					          					          				          					          					          				          					          					          				          					          					          				          					          					          				                                                                <li class="first"><a href="		  
+				
+						/news/world	">World</a> </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               		                     <li class="selected"><a href="		  
+				
+						/news/world/europe	">Europe</a> </li>
+		                                                                                                                                                                         <li><a href="		  
+				
+						/news/world/uk	" >UK</a> </li>
+                                                                                                                                                                                                                                                                                                                                                                             <li><a href="		  
+				
+						/news/world/us	" >US</a> </li>
+                                                                                                                                                                                                                                <li><a href="		  
+				
+						/news/world/africa	" >Africa</a> </li>
+                                                                                                                                                                                                                                <li><a href="		  
+				
+						/news/world/middle-east	" >Middle East</a> </li>
+                                                                                                                                                                                                                                <li><a href="		  
+				
+						/news/world/asia-pacific	" >Asia-Pacific</a> </li>
+                                                                                                                                                                                                                                <li><a href="		  
+				
+						/news/world/brexit	" >Brexit</a> </li>
+                                                                                                                                                                                                                                <li><a href="		  
+				
+						/news/world/europe/migrant-crisis	" >Migrant Crisis</a> </li>
+                                                                                                                                                                                   </ul>
+			  <span class="transparent-right"></span>
+                            <a href="#" id="pushdown-control" class="toggle pull-right" data-toggle="collapse" data-target=".pushdown"><span class="text">All News</span> <span class="caret caret-dark"></span></a>
+                          </nav>
+       </div>
+        <div class="right-remainder">
+          <div class="inner"></div>
+        </div>
+   	</div>
+
+	
+				
+
+ </div>
+</div></div>
+    <div class="all-in-section clearfix">
+    <div class="left-remainder">
+      <div class="inner"></div>
+    </div>
+    <div class="container">
+        <!-- Push down menu -->
+        <div class="pushdown collapse" id="news-pushdown" data-control="#pushdown-control">
+          <nav class="section-nav" id="news-section-nav">
+                        <ul class="menu-left" id="isotope">
+                          	              		              		              <li class="internal">
+		              				              				   		                <a href="		  
+				
+						/news/ireland	" >Ireland</a>
+		                    		                    		                    <ul>
+		                    			                    				                    						                        	<li class="internal"><a href="		  
+				
+						/news/ireland/irish-news	" >Irish News</a></li>
+		                        			                        		                    </ul>
+		                    		                </li>
+	              	          	              		              			          		              <li class="internal selected">
+		              				              				   		                <a href="		  
+				
+						/news/world	" >World</a>
+		                    		                    		                    <ul>
+		                    			                    				                    						                        	<li class="internal"><a href="		  
+				
+						/news/world/uk	" >UK</a></li>
+		                        			                        		                    				                    						                    					                        	<li class="internal selected"><a href="		  
+				
+						/news/world/europe	" >Europe</a></li>
+		                        			                        		                    				                    						                        	<li class="internal"><a href="		  
+				
+						/news/world/us	" >US</a></li>
+		                        			                        		                    				                    						                        	<li class="internal"><a href="		  
+				
+						/news/world/africa	" >Africa</a></li>
+		                        			                        		                    				                    						                        	<li class="internal"><a href="		  
+				
+						/news/world/middle-east	" >Middle East</a></li>
+		                        			                        		                    				                    						                        	<li class="internal"><a href="		  
+				
+						/news/world/asia-pacific	" >Asia-Pacific</a></li>
+		                        			                        		                    				                        		                    				                        		                    </ul>
+		                    		                </li>
+	              	          	              		              		              <li class="internal">
+		              				              				   		                <a href="		  
+				
+						/news/politics	" >Politics</a>
+		                    		                    		                    <ul>
+		                    			                    				                    						                        	<li class="internal"><a href="		  
+				
+						/news/politics/abortion-referendum	" >Abortion referendum</a></li>
+		                        			                        		                    				                    						                        	<li class="internal"><a href="		  
+				
+						/news/politics/oireachtas	" >Oireachtas</a></li>
+		                        			                        		                    				                    						                        	<li class="internal"><a href="		  
+				
+						/news/politics/poll	" >Poll</a></li>
+		                        			                        		                    				                        		                    				                        		                    </ul>
+		                    		                </li>
+	              	          	              		              		              <li class="internal">
+		              				              				   		                <a href="		  
+				
+						/news/crime-and-law	" >Crime & Law</a>
+		                    		                    		                </li>
+	              	          	              		              		              <li class="internal">
+		              				              				   		                <a href="		  
+				
+						/news/social-affairs	" >Social Affairs</a>
+		                    		                    		                    <ul>
+		                    			                    				                    						                        	<li class="internal"><a href="		  
+				
+						/news/social-affairs/religion-and-beliefs	" >Religion & Beliefs</a></li>
+		                        			                        		                    </ul>
+		                    		                </li>
+	              	          	              		              		              <li class="internal">
+		              				              				   		                <a href="		  
+				
+						/news/health	" >Health</a>
+		                    		                    		                </li>
+	              	          	              		              		              <li class="internal">
+		              				              				   		                <a href="		  
+				
+						/news/education	" >Education</a>
+		                    		                    		                    <ul>
+		                    			                    				                    						                        	<li class="internal"><a href="		  
+				
+						/student-hub	" >Student Hub</a></li>
+		                        			                        		                    				                    						                        	<li class="internal"><a href="		  
+				
+						/student-hub/2nd-level-student-hub	" >2nd Level Hub</a></li>
+		                        			                        		                    </ul>
+		                    		                </li>
+	              	          	              		              		              <li class="internal">
+		              				              				   		                <a href="		  
+				
+						/news/world/brexit	" >Brexit</a>
+		                    		                    		                </li>
+	              	          	              		              		              <li class="internal">
+		              				              				   		                <a href="		  
+				
+						/your-subscription/subscriber-only-articles	" >Subscriber Only</a>
+		                    		                    		                </li>
+	              	          	              		              		              <li class="internal">
+		              				              				   		                <a href="		  
+				
+						/news/crime-and-law/courts	" >Courts</a>
+		                    		                    		                    <ul>
+		                    			                    				                        		                    				                        		                    				                        		                    				                        		                    				                        		                    				                        		                    </ul>
+		                    		                </li>
+	              	          	              		              		              <li class="internal">
+		              				              				   		                <a href="		  
+				
+						/news/environment	" >Environment</a>
+		                    		                    		                    <ul>
+		                    			                    				                    						                        	<li class="internal"><a href="		  
+				
+						/news/environment/heritage-habitat	" >Heritage & Habitat</a></li>
+		                        			                        		                    				                    						                        	<li class="internal"><a href="		  
+				
+						/news/environment/illegal-dumping	" >Illegal Dumping</a></li>
+		                        			                        		                    				                        		                    </ul>
+		                    		                </li>
+	              	          	              		              		              <li class="internal">
+		              				              				   		                <a href="		  
+				
+						/news/science	" >Science</a>
+		                    		                    		                    <ul>
+		                    			                    				                    						                        	<li class="internal"><a href="		  
+				
+						/news/science/space	" >Space</a></li>
+		                        			                        		                    				                    						                        	<li class="internal"><a href="		  
+				
+						/news/science/citizen-science	" >Citizen Science</a></li>
+		                        			                        		                    </ul>
+		                    		                </li>
+	              	          	              		              		              <li class="internal">
+		              				              				   		                <a href="		  
+				
+						/news/consumer	" >Consumer</a>
+		                    		                    		                </li>
+	              	          	              		              		              <li class="internal">
+		              				              				   		                <a href="		  
+				
+						/news/offbeat	" >Offbeat</a>
+		                    		                    		                </li>
+	              	          	              		              		              <li class="internal">
+		              				              				   		                <a href="		  
+				
+						/news/highlights	" >Highlights</a>
+		                    		                    		                </li>
+	              	                      </ul>
+                            <ul class="menu-right">
+                		                	<li>
+	                				            			               	<span>Specials</span>
+			            			            			            	<ul>
+				           				                    <li class="internal"><a href="		  
+				
+						/news/politics/abortion-referendum	" >Abortion referendum</a></li>
+			                			                    <li class="internal"><a href="		  
+				
+						/news/world/us/trump-presidency	" >Trump presidency</a></li>
+			                			                    <li class="internal"><a href="		  
+				
+						/news/world/terror-attacks	" >Terror attacks</a></li>
+			                			                </ul>
+		                		                </li>
+				    	                	<li>
+	                				            			       		     <a href="		  
+				
+						/podcasts	">Podcasts</a>
+			            			            			            	<ul>
+				           				                    <li class="podcast"><a href="		  
+				
+						/news/politics/inside-politics	" >Inside Politics</a></li>
+			                			                    <li class="podcast"><a href="		  
+				
+						/news/world/world-view	" >World View</a></li>
+			                			                </ul>
+		                		                </li>
+				    	                	<li>
+	                				            			       		     <a href="		  
+				
+						/your-subscription/subscription-tour	">Subscriptions</a>
+			            			            			            	<ul>
+				           				                    <li class="internal"><a href="			https://www.irishtimes.com/digital-edition
+	" >ePaper</a></li>
+			                			                    <li class="internal"><a href="		  
+				
+						/archive	" >Newspaper Archive</a></li>
+			                			                </ul>
+		                		                </li>
+				    	             </ul>
+                       </nav>
+        </div>
+      </div>
+      <div class="right-remainder">
+        <div class="inner"></div>
+      </div>
+    </div>
+    
+      
+  
+      					</header>
+		
+		
+		<div id="torso" role="main" class="clearfix">
+			<!-- Cookie Policy notice -->
+			
+			<div id="cookies-policy-wrapper" style="display: none;">
+				<div id="cookies-policy" style="display: block;">
+					<div id="cookies-policy-prompt" class="span12">
+By using this website, you consent to our use of cookies. For more information on cookies see our <a id="cookies-policy-moreinfo" href="/policy-and-terms/cookie-policy">Cookie Policy</a>.
+				<button id="cookies-policy-continue-button" class="close-btn" type="button">X</button>
+					</div>
+				</div>
+			</div>
+      <!--[if lte IE 8]>
+      <div class="ie8-upgrade">
+          The website has been optimised for modern web browsers; for the best experience, please <a href="http://browsehappy.com/" target="_blank">update your browser now.</a>
+          <button type="button" class="close" data-dismiss="alert">X</button>
+      </div>
+      <![endif]-->
+			
+			<div class="left-remainder"><div class="inner"></div></div>
+			<div class="container">
+			
+								<div class="bt-container">
+
+						<div class="row nocontent">
+							
+	<div class="span12">
+			</div>
+	
+
+						</div>
+					
+																                    
+					<div class="row">
+
+						 																					<div class="span8 " id="content_left">
+								                                									
+ 
+
+
+<script>
+    jq(document).ready(function(){
+        var authorized, uid, pw_meter_news, action = "Meter article";
+                    authorized = "true";
+                uid = jq.cookie('IT_pw_userdata');
+        if(undefined === uid){
+            uid = "null";
+        }
+                    pw_meter_news = jq.cookie('apw_aac_news');
+            if (typeof pw_meter_news != 'undefined' && pw_meter_news && pw_meter_news != "") {
+                var parts = pw_meter_news.split(".");
+                var used_quota = parseInt(parts[2], 10);
+                var apw_quota = 10;
+                if (!_apw.settings.anonymous_ac.pids || !_apw.settings.anonymous_ac.pids.news) {
+                    apw_quota = _apw.settings.anonymous_ac.fallback.quota;
+                } else {
+                    apw_quota = _apw.settings.anonymous_ac.pids.news.quota;
+                }
+                var max_quota = parseInt(apw_quota, 10);
+                action = action + " TotalRead: " + used_quota + " - Max: " + max_quota;
+            }
+        
+        dataLayer.push({
+            'category': 'Digital Pass',
+            'action': action,
+            'label': jq(location).attr('pathname')+ " authorized:" + authorized + " uid:"+uid
+        }, {'event': 'data-layer-event'});
+    });
+</script>
+
+<script type="text/javascript">
+    var _itarticleURL = 'https://www.irishtimes.com/news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897';
+    var _itarticleHeadline = 'Britain labels Moscow\u2019s nerve agent denials \u2018increasingly absurd\u2019';
+</script>
+
+
+                        
+
+
+
+<article class="article row" resource="https://www.irishtimes.com/news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897" typeof="NewsArticle rNews:NewsArticle">
+    <span property="rNews:identifier" content="1.3432897"></span>
+    <span property="sourceOrganization" content="The Irish Times"></span>
+    <div class="article_holder span8 genre-current">
+        <section class="header">
+            <hgroup>
+                <h1 property="headline">Britain labels Moscow&rsquo;s nerve agent denials &lsquo;increasingly absurd&rsquo;</h1>
+                                                    <h2 property="description"> Foreign minister Boris Johnson secures strong support from EU and Nato over attack</h2>
+                            </hgroup>
+
+                                                                                                                    <div class="article-top-area">
+                                                                <div class="time-metadata has-modified">
+                                            <time title="Mon, Mar 19, 2018, 18:17 (GMT)">Mon, Mar 19, 2018, 18:17</time>
+                        <span title="Mon, Mar 19, 2018, 18:21 (GMT)" class="modified"><span>Updated: </span>Mon, Mar 19, 2018, 18:21</span>
+                                    </div>
+                            </div>
+
+                            				    <ul class="nav nav-tabs sidebar_tabs" id="tabbed_article">
+	    		    		<li class="it-video-icon active" id="it_videos"><a href="javascript:void(0);" label="Videos" pos="LEFT"><span></span>Video</a></li>
+            	<li class="it-camera-icon" id="it_pictures"><a href="javascript:void(0);" label="Images" pos="RIGHT"><span></span>Images</a></li>
+                    </ul>
+        <script>
+            jq(document).ready(function(){
+                jq('#tabbed_article > li > a').click(function() {
+                    dataLayer.push({
+                        'category': 'In-page interaction events',
+                        'action': 'Two Tabs - Video & Images',
+                        'label': jq(this).attr('pos') + ' Tab clicked (' + jq(this).attr('label') + ')'
+                    },{'event':'data-layer-event'});
+                });
+            });
+        </script>
+	
+				     <!-- end div.element.tv -->
+    	<script type="text/javascript">
+    		var myPlayer;
+		</script>
+        <div class="video-player" style="">
+																				
+	 
+	
+								
+	
+  
+		
+	
+<div class="bc-outer">
+	<video
+		class="video-js vjs-default-skin vjs-big-play-centered"
+		id="myExperience13432773"
+		data-video-id="5754234496001"
+		data-account="1795463433001"
+		data-player="EJZ88sbdtx"
+		data-embed="default"
+		preload="auto"
+		controls
+				>
+	</video>
+	<script src="//players.brightcove.net/1795463433001/EJZ88sbdtx_default/index.min.js"></script>
+</div>
+
+
+	<script src="//players.brightcove.net/videojs-ima3/2/videojs.ima3.min.js"></script>
+	<link href="//players.brightcove.net/videojs-ima3/2/videojs.ima3.min.css" rel="stylesheet">
+	<link href="/assets/css/brightcove/video.css?rev=20180313T104847" rel="stylesheet">
+<script type="text/javascript">
+
+    videojs('myExperience13432773').ready(function(){
+      //var serverUrl = "https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/124319096/external/single_ad_samples&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&cust_params=deployment%3Ddevsite%26sample_ct%3Dskippablelinear&correlator=";
+			var adRequestUrl = "https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/4844766/The_Irish_Times/News/News_Video&kvsubsection='News_World'&kvreferral&kvpeople=&kvcategory=&kvtopic=&kvarticlecount=&kvloc=&kvlen=93&kvpagetype='article'&kvusertype=&kvcompany=&kvcontentid=1.3432773&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1";
+      console.log('ad request url:', adRequestUrl);
+      var inactivityTimeout;
+      myPlayer = this;
+
+      myPlayer.ima3({
+        serverUrl: "https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/4844766/The_Irish_Times/News/News_Video&kvsubsection='News_World'&kvreferral&kvpeople=&kvcategory=&kvtopic=&kvarticlecount=&kvloc=&kvlen=93&kvpagetype='article'&kvusertype=&kvcompany=&kvcontentid=1.3432773&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1",
+        adTechOrder: ["html5","flash"]
+      });
+
+      myPlayer.on("useractive",function(){
+        clearTimeout(inactivityTimeout);
+        inactivityTimeout = setTimeout(function() {
+          myPlayer.userActive(false);
+        }, 3000);
+      });
+
+      myPlayer.on("ads-ad-started", function() {
+        myPlayer.addClass("not-hover");
+      });
+
+    });
+</script>
+											<p id="video-5754234496001" class="videocaption">Fresh from his election victory, Vladimir Putin dismisses allegations that Russia was behind a nerve agent attack on a former Russian double agent as "total rubbish".</p>
+												                </div>
+	
+	  		                        <div class="article_image image-carousel" style="display:none;">
+				                                        		                                                		        	                                		                <img title='British foreign secretary Boris Johnson with Nato secretary general Jens Stoltenberg during a meeting at which the attempted murder of Sergei Skripal and his daughter Yulia were discussed. Photograph: EPA' height='330' alt='British foreign secretary Boris Johnson with Nato secretary general Jens Stoltenberg during a meeting at which the attempted murder of Sergei Skripal and his daughter Yulia were discussed. Photograph: EPA' data-tablet='box_620_330' width='620' class='responsive-img' data-desktop='box_620_330' src='/polopoly_fs/1.3432896.1521483382!/image/image.jpg_gen/derivatives/box_300_160/image.jpg' data-mobile='box_300_160' />			                                        					<p>British foreign secretary Boris Johnson with Nato secretary general Jens Stoltenberg during a meeting at which the attempted murder of Sergei Skripal and his daughter Yulia were discussed. Photograph: EPA</p>
+                                        							</div>
+			            
+
+        </section>
+
+        <section property="articleBody" class="article_body">
+
+            <div class="shareTools" id="share_gutter">
+                <div class="addthis_sharing_toolbox">
+	<div class="more-tools more-tools--hidden">
+		<div class="addthis_sharing_toolbox">			
+		</div>		
+		<div class="more-tools--custom">
+						<a class="print social-icons-Print gtm-event" data-evt-category="Social Tools" data-evt-action="Print on Social Tools menu" data-evt-label="/news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897" onClick="location.href='							/news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897	?mode=print&ot=example.AjaxPageLayout.ot'" value="Print this page">&nbsp;</a>
+							<a class="rss social-icons-RSS gtm-event" data-evt-category="Social Tools" data-evt-action="RSS on Social Tools menu" data-evt-label="/news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897" href="/cmlink/irishtimesworldfeed-1.1321046" target="_blank">&nbsp;</a>
+					</div>
+	</div>
+	<div class="more-button--wrapper">                    
+		<a class="more-button social-icons-More">&nbsp;</a>
+	</div>
+</div>      
+
+            </div>
+            <div class="beacon">&nbsp;</div>
+
+
+            <div class="article_bodycopy">
+                                                                                            <p class="no_name"> British foreign secretary Boris Johnson has denounced Moscow’s denials of involvement in the nerve weapon attack on a former Russian double agent as “increasingly absurd”.</p>
+                                                                                             
+<p class="no_name">Mr Johnson’s remarks came as he received further support from the European Union and Nato on Monday over the attack.</p>
+                                                                                             
+<p class="no_name">The secretary of state for foreign affairs discussed the attempted murder of Sergei Skripal and his daughter Yulia at a session of EU foreign ministers, which he addressed. Mr Johnson also discussed the incident in a meeting with Nato secretary-general Jens Stoltenberg after statements of solidarity last week by a host of Western governments.</p>
+                                                                                             
+<p class="no_name">“Our Nato allies have shown such undivided support,” said Mr Johnson after meeting Mr Stoltenberg.</p>
+                                                                                             
+<p class="no_name">All 28 EU foreign ministers issued a joint statement on the attack, expressing “unqualified solidarity”.</p>
+                                                                                             
+<p class="no_name">“The European Union takes extremely seriously the UK government’s assessment that it is highly likely that the Russian Federation is responsible,” the statement noted.</p>
+                                                                                             
+<p class="no_name">Russia, including president Vladimir Putin, denies any involvement.</p>
+                                                                            
+                                                                    <aside class="related-articles--instream has-3">
+                                        <ul>
+                                                                                                                                                                                                                                                                                                                                                <li class="internal"><a class="gtm-event" data-evt-category="Related links" data-evt-action="Clicked internal: /opinion/editorial/spy-poisoning-a-lacklustre-response-1.3428644 " data-evt-label="Link 1 of 3 (20) on /news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897 (instream)" href="/opinion/editorial/spy-poisoning-a-lacklustre-response-1.3428644">
+
+                                                        <span class="instream-headline">Spy poisoning: A lacklustre response</span>
+
+                                                    </a></li>
+                                                                                                                                                                                                                                                                                                                                                            <li class="video"><a class="gtm-event" data-evt-category="Related links" data-evt-action="Clicked video: /news/ireland/irish-news/diplomatic-war-comes-to-dublin-as-russians-invite-media-to-embassy-1.3428594 " data-evt-label="Link 2 of 3 (20) on /news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897 (instream)" href="/news/ireland/irish-news/diplomatic-war-comes-to-dublin-as-russians-invite-media-to-embassy-1.3428594">
+
+                                                        <span class="instream-headline">Diplomatic war comes to Dublin as Russians invite media to embassy</span>
+
+                                                    </a></li>
+                                                                                                                                                                                                                                                                                                                                                            <li class="video"><a class="gtm-event" data-evt-category="Related links" data-evt-action="Clicked video: /news/world/europe/us-joins-nato-allies-in-closing-ranks-against-russia-1.3428131 " data-evt-label="Link 3 of 3 (20) on /news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897 (instream)" href="/news/world/europe/us-joins-nato-allies-in-closing-ranks-against-russia-1.3428131">
+
+                                                        <span class="instream-headline">US joins Nato allies in closing ranks against Russia</span>
+
+                                                    </a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
+                                    </aside>
+                                                                                                                                                             
+<p class="no_name">Mr Johnson said he saw a “classic Russian strategy” as he arrived for the EU meeting, a day after Putin was re-elected for another six-year term as president.</p>
+                                                                                             
+<p class="no_name">“They’re not fooling anybody anymore,” said Mr Johnson. “There is scarcely a country around the table here in Brussels that has not been affected in recent years by some kind of malign or disruptive Russian behaviour.”</p>
+                                                                                             
+<p class="no_name">Mr Stoltenberg echoed that position: “Russia will continue to seek to divide us.”</p>
+                                                                                             
+<p class="no_name">Swedish foreign minister Margot Wallstrom, meanwhile, accused the Russian foreign ministry of deliberately sowing confusion by suggesting the nerve agent used in the attack on the Skripals might have come from Sweden.</p>
+                                                                                             
+<p class="no_name">“This is just ridiculous and totally unfounded,” said Ms Wallstrom. “I think they are trying to divert the real issues here.”</p>
+                                                                                             
+<p class="no_name">Moscow on Saturday announced the expulsion of 23 British diplomats in a response to Britain’s decision last week to expel the same number of Russian diplomats from London.</p>
+                                                                        
+                            <div id='div-gpt-ad-InContent-1' class="ad-inline-article">
+                                <script>
+                                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-InContent-1');
+                                                                                    googletag.pubads().refresh([InContent1]);
+                                                                            });
+                                </script>
+                            </div>
+
+                        
+                                                                                                                     
+<p class="no_name">On Sunday, Mr Johnson accused Russia of stockpiling the deadly Soviet-era nerve agent Novichok used to poison the Skripals, a charge Moscow denies.</p>
+                                                                                             
+<p class="no_name">The couple were found unconscious on a bench in the English city of Salisbury on March 4th and remain in a critical condition in hospital.</p>
+                                                                                             
+<p class="no_name">Asked what support Britain had requested from the EU and Nato to counter Russia, Mr Johnson replied that he was seeking to intensify work on a range of strategies. These include defences against Russian attacks on computer networks, challenging disinformation campaigns and acting against criminal financial networks.</p>
+                                                                                             
+<p class="no_name">“There are things we can and must do together,” said Mr Johnson, adding that Britain was “going after the money that has been illicitly or corruptly obtained”, without giving details.</p>
+                                                                                             
+<p class="no_name">While there was no immediate prospect of further sanctions on Russia, British prime minister Theresa May will have an opportunity to present her case for any such measures at an EU summit on Thursday, or call for others to expel diplomats.</p>
+                                                                                             
+<p class="no_name">“We need to put pressure on Russia to take part in a real enquiry about the attack,” said Belgian foreign minister Didier Reynders . – Reuters </p>
+                                                                                                                                            <div class="shareToolsBottom" id="share-base">
+                    <div class="addthis_sharing_toolbox">
+	<div class="more-tools more-tools--hidden">
+		<div class="addthis_sharing_toolbox">			
+		</div>		
+		<div class="more-tools--custom">
+						<a class="print social-icons-Print gtm-event" data-evt-category="Social Tools" data-evt-action="Print on Social Tools menu" data-evt-label="/news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897" onClick="location.href='							/news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897	?mode=print&ot=example.AjaxPageLayout.ot'" value="Print this page">&nbsp;</a>
+							<a class="rss social-icons-RSS gtm-event" data-evt-category="Social Tools" data-evt-action="RSS on Social Tools menu" data-evt-label="/news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897" href="/cmlink/irishtimesworldfeed-1.1321046" target="_blank">&nbsp;</a>
+					</div>
+	</div>
+	<div class="more-button--wrapper">                    
+		<a class="more-button social-icons-More">&nbsp;</a>
+	</div>
+</div>      
+                </div>
+            </div>
+        </section>
+        <div class="row">
+            			        </div>
+                    <div class="article_footer">
+
+
+                            <span property="keywords" content=""></span>
+                                                                    <!-- Sample markup for related items (to see if an aside inside the article is semantic and SEO friendly enough) -->
+                                    <aside class="related-articles">
+                        
+                            <h2>Read More</h2>
+                            <ul>
+                                                                                                                                                                                                                                                                    <li class="analysis"><a href="/news/world/uk/espionage-analysis-pm-s-statement-notable-for-what-is-missing-1.3427293" class="gtm-event" data-evt-category="Related links" data-evt-action="Clicked analysis: /news/world/uk/espionage-analysis-pm-s-statement-notable-for-what-is-missing-1.3427293 " data-evt-label="Link 1 of 17 (20) on /news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897 (under)">Espionage analysis: PM’s statement notable for what is missing</a></li>
+                                                                                                                                                                                                                                            <li class="video"><a href="/news/world/uk/uk-expels-23-russian-diplomats-over-spy-poisoning-1.3426639" class="gtm-event" data-evt-category="Related links" data-evt-action="Clicked video: /news/world/uk/uk-expels-23-russian-diplomats-over-spy-poisoning-1.3426639 " data-evt-label="Link 2 of 17 (20) on /news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897 (under)">UK expels 23 Russian diplomats over spy poisoning</a></li>
+                                                                                                                                                                                                                                            <li class="video"><a href="/opinion/unlikely-that-vladimir-putin-behind-skripal-poisoning-1.3425736" class="gtm-event" data-evt-category="Related links" data-evt-action="Clicked video: /opinion/unlikely-that-vladimir-putin-behind-skripal-poisoning-1.3425736 " data-evt-label="Link 3 of 17 (20) on /news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897 (under)">Unlikely that Vladimir Putin behind Skripal poisoning</a></li>
+                                                                                                                                                                                                                                            <li class="analysis"><a href="/news/world/uk/britain-s-response-to-moscow-will-require-global-support-1.3426108" class="gtm-event" data-evt-category="Related links" data-evt-action="Clicked analysis: /news/world/uk/britain-s-response-to-moscow-will-require-global-support-1.3426108 " data-evt-label="Link 4 of 17 (20) on /news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897 (under)">Britain’s response to Moscow will require global support</a></li>
+                                                                                                                                                                                                                                            <li class="internal"><a href="/news/world/uk/nerve-agent-used-in-uk-attack-developed-by-russia-during-cold-war-1.3425708" class="gtm-event" data-evt-category="Related links" data-evt-action="Clicked internal: /news/world/uk/nerve-agent-used-in-uk-attack-developed-by-russia-during-cold-war-1.3425708 " data-evt-label="Link 5 of 17 (20) on /news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897 (under)">Nerve agent used in UK attack developed by Russia during Cold War</a></li>
+                                                                                                                                                            <div id="related-collapse" class="collapse">
+                                                                                                                                                                <li class="video"><a href="/news/world/europe/russian-denies-carrying-out-nerve-agent-attack-in-britain-1.3426039" class="gtm-event" data-evt-category="Related links" data-evt-action="Clicked video: /news/world/europe/russian-denies-carrying-out-nerve-agent-attack-in-britain-1.3426039 " data-evt-label="Link 6 of 17 (20) on /news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897 (under)">Russian denies carrying out nerve agent attack in Britain</a></li>
+                                                                                                                                                                                                                                            <li class="video"><a href="/news/world/podcast-britain-and-russia-in-nerve-agent-standoff-1.3425703" class="gtm-event" data-evt-category="Related links" data-evt-action="Clicked video: /news/world/podcast-britain-and-russia-in-nerve-agent-standoff-1.3425703 " data-evt-label="Link 7 of 17 (20) on /news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897 (under)">Podcast: Britain and Russia in nerve agent standoff</a></li>
+                                                                                                                                                                                                                                            <li class="video"><a href="/news/world/uk/british-police-make-appeal-over-spy-attack-as-russia-deadline-nears-1.3425191" class="gtm-event" data-evt-category="Related links" data-evt-action="Clicked video: /news/world/uk/british-police-make-appeal-over-spy-attack-as-russia-deadline-nears-1.3425191 " data-evt-label="Link 8 of 17 (20) on /news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897 (under)">British police make appeal over spy attack as Russia deadline nears</a></li>
+                                                                                                                                                                                                                                            <li class="internal"><a href="/news/world/uk/uk-counter-terror-police-investigate-berezovsky-associate-s-death-1.3425964" class="gtm-event" data-evt-category="Related links" data-evt-action="Clicked internal: /news/world/uk/uk-counter-terror-police-investigate-berezovsky-associate-s-death-1.3425964 " data-evt-label="Link 9 of 17 (20) on /news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897 (under)">UK counter-terror police investigate Berezovsky associate’s death</a></li>
+                                                                                                                                                                                                                                            <li class="video"><a href="/news/world/uk/highly-likely-russia-behind-attack-on-former-spy-says-may-1.3423790" class="gtm-event" data-evt-category="Related links" data-evt-action="Clicked video: /news/world/uk/highly-likely-russia-behind-attack-on-former-spy-says-may-1.3423790 " data-evt-label="Link 10 of 17 (20) on /news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897 (under)">‘Highly likely’ Russia behind attack on former spy, says May</a></li>
+                                                                                                                                                                                                                                            <li class="internal"><a href="/news/world/uk/russian-state-tv-accuses-uk-of-poisoning-spy-in-salisbury-1.3423920" class="gtm-event" data-evt-category="Related links" data-evt-action="Clicked internal: /news/world/uk/russian-state-tv-accuses-uk-of-poisoning-spy-in-salisbury-1.3423920 " data-evt-label="Link 11 of 17 (20) on /news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897 (under)">Russian state TV accuses UK of poisoning spy in Salisbury</a></li>
+                                                                                                                                                                                                                                            <li class="video"><a href="/news/world/uk/spy-attack-scandal-tests-britain-s-strength-against-moscow-1.3424515" class="gtm-event" data-evt-category="Related links" data-evt-action="Clicked video: /news/world/uk/spy-attack-scandal-tests-britain-s-strength-against-moscow-1.3424515 " data-evt-label="Link 12 of 17 (20) on /news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897 (under)">Spy attack scandal tests Britain’s strength against Moscow</a></li>
+                                                                                                                                                                                                                                            <li class="internal"><a href="/news/world/uk/people-who-visited-venues-frequented-by-ex-russian-spy-told-to-wash-items-1.3422829" class="gtm-event" data-evt-category="Related links" data-evt-action="Clicked internal: /news/world/uk/people-who-visited-venues-frequented-by-ex-russian-spy-told-to-wash-items-1.3422829 " data-evt-label="Link 13 of 17 (20) on /news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897 (under)">People who visited venues frequented by ex-Russian spy told to wash items</a></li>
+                                                                                                                                                                                                                                            <li class="internal"><a href="/news/world/uk/british-police-identify-over-200-witnesses-in-nerve-agent-attack-1.3422517" class="gtm-event" data-evt-category="Related links" data-evt-action="Clicked internal: /news/world/uk/british-police-identify-over-200-witnesses-in-nerve-agent-attack-1.3422517 " data-evt-label="Link 14 of 17 (20) on /news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897 (under)">British police identify over 200 witnesses in nerve agent attack</a></li>
+                                                                                                                                                                                                                                            <li class="internal"><a href="/news/politics/russian-spy-poisoning-inquiry-widens-after-medics-treat-21-1.3420921" class="gtm-event" data-evt-category="Related links" data-evt-action="Clicked internal: /news/politics/russian-spy-poisoning-inquiry-widens-after-medics-treat-21-1.3420921 " data-evt-label="Link 15 of 17 (20) on /news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897 (under)">Russian spy poisoning inquiry widens after medics treat 21</a></li>
+                                                                                                                                                                                                                                            <li class="opinion"><a href="/opinion/brian-boyd-current-bout-of-russophobia-rings-hollow-1.3420973" class="gtm-event" data-evt-category="Related links" data-evt-action="Clicked opinion: /opinion/brian-boyd-current-bout-of-russophobia-rings-hollow-1.3420973 " data-evt-label="Link 16 of 17 (20) on /news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897 (under)">Brian Boyd: Current bout of Russophobia rings hollow</a></li>
+                                                                                                                                                                                                                                            <li class="analysis"><a href="/news/world/uk/uncertainty-over-british-response-to-skripal-poisoning-1.3421508" class="gtm-event" data-evt-category="Related links" data-evt-action="Clicked analysis: /news/world/uk/uncertainty-over-british-response-to-skripal-poisoning-1.3421508 " data-evt-label="Link 17 of 17 (20) on /news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897 (under)">Uncertainty over British response to Skripal poisoning</a></li>
+                                                                                                                                                                                                            </div>
+                                    <button id="more-related" type="button" class="btn" title="Show more related articles">
+                                        <span class="symbol"></span>
+                                    </button>
+                                                            </ul>
+                        
+                                            </aside>
+                                <!-- End of the sample aside markup -->
+            </div>
+        
+                                    <script type="text/javascript">
+                jq(document).ready(function() {
+                    var showContent = 0;
+                    var cookieName = "IT_dismissCRE";
+                    function setCRECookie() {
+                        years = 99;
+                        days = 365;
+                        now = new Date();
+                        now.setTime(now.getTime() + (years * days * 24 * 60 * 60 * 1000));
+                        jq.cookie(cookieName, 1, {
+                                expires: years * days,
+                                path:'/'
+                            }
+                        );
+                    }
+
+                    jq(document).on('click', '.read-next__button--optout', function() {
+                        // Set cookie for permanently dismissing CRE
+                        setCRECookie();
+                        // Show optout confirmation briefly
+                        var parent = 'div.read-next';
+                        var htmlBlock = '<div class="cre-confirmation"> You will no longer see these recommendations </div>';
+                        jq(parent).html(htmlBlock);
+                        // Hide notification
+                        jq(parent).delay( 1000 ).fadeOut( 'slow' );
+                    });
+
+                    jq(document).on('click', '.read-next--dismiss', function () {
+                        // Hide notification
+                        jq(this).trigger('notify-hide');
+                    });
+
+                    jq(document).on('click', '.read-next--more', function() {
+                        // show the more info
+                        jq('.notifyjs-readNext-base').toggleClass('flipped')
+                    });
+
+                    jq(document).on('click', '.read-next__button--ok', function() {
+                        // hide the more info
+                        jq('.notifyjs-readNext-base').toggleClass('flipped')
+                    });
+
+                    jq(document).on('click', '.read-next--close', function() {
+                        // Hide notification
+                        jq(this).trigger('notify-hide');
+                    });
+
+                    var readNextOptions = {
+                        style: "readNext",
+                        globalPosition: 'bottom right',
+                        clickToHide: false,
+                        autoHide: false
+                        //autoHideDelay: 8000
+                    };
+
+                    /* Recommended article */
+                                                                                                                        var articlelink = "https://www.irishtimes.com/news/world/middle-east/damascus-sees-some-ghouta-rebels-accepting-deals-soon-1.3432910";
+                    var articleheadline = "Damascus sees some Ghouta rebels accepting deals soon";
+                    var articleimage = '<img src=\"' + "/polopoly_fs/1.3432909.1521484668!/image/image.jpg_gen/derivatives/box_220/image.jpg" + '\" />';
+                    var section = "news";
+                    var evtCategory = "Read Next";
+                    var evtLabel = "https://www.irishtimes.com/news/world/middle-east/damascus-sees-some-ghouta-rebels-accepting-deals-soon-1.3432910 on https://www.irishtimes.com/news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897, Content recommendation";
+                    jq.notify.addStyle('readNext', {
+                        html: "<div>" +
+                        "<div class='read-next "+section+"'>" +
+                                                "<div class='read-next--wrapper front'>" +
+                                                "<span class='read-next--title read-next--more gtm-event' data-evt-category='" + evtCategory + "' data-evt-action='More info https://www.irishtimes.com/news/world/middle-east/damascus-sees-some-ghouta-rebels-accepting-deals-soon-1.3432910, bottom of page' data-evt-label='" + evtLabel + "''> Suggested for you <i class='fa fa-info' aria-hidden='true'></i></span>" +
+                        "<span class='read-next--dismiss gtm-event' data-evt-category=' " + evtCategory + "' data-evt-action='Closed https://www.irishtimes.com/news/world/middle-east/damascus-sees-some-ghouta-rebels-accepting-deals-soon-1.3432910, bottom of page' data-evt-label='" + evtLabel + "'></span>" +
+                        "<a href='" + articlelink + "' class='gtm-event' data-evt-category='" + evtCategory + "' data-evt-action='Clicked https://www.irishtimes.com/news/world/middle-east/damascus-sees-some-ghouta-rebels-accepting-deals-soon-1.3432910, bottom of page' data-evt-label='" + evtLabel + "' >" +
+                        "<div class='read-next--img' data-notify-html='image'/>" +
+                        "<div class='read-next--headline' data-notify-html='headline'>" +
+                        "</div>" +
+                        "</a>" +
+                        "</div>"+
+                        "<div class='read-next--wrappermore back'>" +
+                        "<span class='read-next--title'>Why am I seeing this?</span>"+
+						            "<div class='read-next__body'>We suggest this article for you based on what others who have read this article have also read</div>"+
+                        "<div class='read-next__button read-next__button--ok gtm-event' data-evt-category='" + evtCategory + "' data-evt-action='Accept https://www.irishtimes.com/news/world/middle-east/damascus-sees-some-ghouta-rebels-accepting-deals-soon-1.3432910, bottom of page' data-evt-label='" + evtLabel + "'><i class='read-next--less fa fa-chevron-left' aria-hidden='true'> </i>&nbsp;&nbsp; Ok got it! </div>"+
+                        "<div class='read-next__button read-next__button--optout gtm-event' data-evt-category='" + evtCategory + "' data-evt-action='Opt Out https://www.irishtimes.com/news/world/middle-east/damascus-sees-some-ghouta-rebels-accepting-deals-soon-1.3432910, bottom of page' data-evt-label='" + evtLabel + "'><i class='read-next--optout fa fa-times' aria-hidden='true'> </i>&nbsp;&nbsp; Don't show me these again </div>" + 
+                        "</div>" +
+                        "</div>" +
+                        "</div>"
+                    });
+
+                    var $context = jq(this);
+                    var creCookie = jq.cookie(cookieName) || false;
+                    if (creCookie) {
+                        jq(this).trigger('notify-hide');
+                    }else{
+                        /* Use smartscroll listener to fire the panel at end of article */
+                        jq(window).smartscroll(function () {
+                            //Calculate how far down the page the user has scrolled
+                            var scrollPos = (jq(window).scrollTop() / jq('div.article_bodycopy').height()) * 100;
+                            scrollPos = Math.round(scrollPos);
+
+                            if (scrollPos > 75) {
+                                showContent++;
+                                if (showContent == 1) {
+                                    jq.notify({
+                                        headline: articleheadline,
+                                        image: articleimage
+                                    }, readNextOptions);
+                                    if (currentWindowWidth && currentWindowWidth < 1150) {
+                                        setTimeout(function() {
+                                            jq('.read-next--dismiss').trigger('notify-hide');
+                                        }, 30000);
+                                    }
+                                    dataLayer.push({
+                                        'category': evtCategory,
+                                        'action': 'Shown https://www.irishtimes.com/news/world/middle-east/damascus-sees-some-ghouta-rebels-accepting-deals-soon-1.3432910, bottom of page',
+                                        'label': evtLabel
+                                    }, {'event': 'data-layer-event'});
+                                }
+                            }
+                        }); // end scroll
+                    }
+                });
+            </script>
+                    
+    </div>
+</article>
+
+
+
+
+
+
+
+
+    	    		    
+		    		    			    				    				    
+                	                 
+    
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+  	"@type": "NewsArticle",
+  	"publisher": {
+		"@type": "Organization",
+		"name": "The Irish Times",
+		"url": "https://www.irishtimes.com/",
+		"logo": {
+			"@type": "ImageObject",
+		  	"url": "https://www.irishtimes.com/assets/images/logo/masthead-large.png",
+		  	"width": 450,
+		  	"height": 36
+		}
+  	},
+	"author": [
+		{
+			"@type": "Organization",
+			"name": "The Irish Times",
+			"url": "https://www.irishtimes.com/"
+		}
+
+	],
+  	"dateModified": "2018-03-19T18:21Z",
+  	"datePublished": "2018-03-19T18:17Z",
+  	"headline": "Britain labels Moscow&rsquo;s nerve agent denials &lsquo;increasingly absurd&rsquo;",
+  	"description": "Foreign minister Boris Johnson secures strong support from EU and Nato over attack",
+	"articleSection": "Europe",
+  	"inLanguage": "en",
+	"image":{
+		"@type": "ImageObject",
+		"url": "https://www.irishtimes.com/polopoly_fs/1.3432896.1521483382!/image/image.jpg"
+,
+		"height": "810",
+		"width": "1440"
+	},
+  	"mainEntityOfPage":{
+		"@type": "WebPage",
+		"@id": "https://schema.org/WebPage",
+		"url": "https://www.irishtimes.com/news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897"
+  	},
+  	"url": "https://www.irishtimes.com/news/world/europe/britain-labels-moscow-s-nerve-agent-denials-increasingly-absurd-1.3432897"
+}
+</script>
+
+  
+																		<div class="article-footer-slot nocontent">
+										
+                  
+    
+  
+    
+  
+    
+    
+        <script type="text/javascript">
+jq(function() {
+  var canonical = jq( 'link[rel="canonical"]' ).attr( 'href' );
+  var pieces = canonical.split(".com/");
+  var path = pieces[1].split("/");
+
+  if ( path[1] === "politics" ) {
+    jq( '.article_footer_subscribe' ).addClass( 'politics' );
+  }else if(path[1] === "world"){
+    jq( '.article_footer_subscribe' ).addClass( 'world' ); 
+  }
+    
+});
+</script>
+<style>
+
+.article_footer_subscribe {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.authenticated .article_footer_subscribe {
+  display: none;
+}
+.anonymous .article_footer_subscribe {
+  opacity: 1;
+}
+.article_footer_subscribe {
+  display: block;
+  margin-bottom: 20px;
+  height: 60px;
+  width: 100%;
+  border-bottom: 1px solid #C6C6C6;
+}
+.article_footer_subscribe .pithy_message {
+  font-style: italic;
+  width: 440px;
+  position: relative;
+  display: block;
+  float: left;
+  height: 60px;
+  line-height: 60px;
+}
+.article_footer_subscribe .pithy_message p {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+}
+.article_footer_subscribe .pithy_message p, .news .article_footer_subscribe .pithy_message p {
+  color: #c00;
+}
+.sport .article_footer_subscribe .pithy_message p {
+  color: #3ea447;
+}
+.business .article_footer_subscribe .pithy_message p {
+  color: #1190af;
+}
+.debate .article_footer_subscribe .pithy_message p {
+  color: #777552;
+}
+.life-and-style .article_footer_subscribe .pithy_message p {
+  color: #f60;
+}
+.culture .article_footer_subscribe .pithy_message p {
+  color: #b74f7d;
+}
+.article_footer_subscribe .lovely_image {
+  display: block;
+  float: right;
+  width: 180px;
+  height: 60px;
+  background-image: url(/static/images/footer-subscribe/Print-Digital-Bundles.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+@media only screen and (max-width:979px) and (min-width:768px) {
+  .article_footer_subscribe .pithy_message {
+    width: 246px;
+  }
+}
+@media only screen and (min-width:480px) and (max-width:767px) {
+  .article_footer_subscribe .pithy_message {
+    width: 246px;
+  }
+}
+@media only screen and (min-width:320px) and (max-width:479px) {
+  .article_footer_subscribe {
+    height: 100%;
+    float: left;
+  }
+  .article_footer_subscribe .pithy_message {
+    width: 200px;
+    height: 50px;
+    line-height: 50px;
+  }
+}
+@media (-webkit-min-device-pixel-ratio:2), (min-resolution:192dpi) {
+  .article_footer_subscribe .lovely_image {
+    background-image: url(/static/images/footer-subscribe/Print-Digital-Bundles@2x.png);
+  }
+}
+
+/* Messages */
+
+.article_footer_subscribe .pithy_message p:before{
+  color: #515151;
+  content: "Get every story, every day, wherever you are.";
+}
+
+.news .article_footer_subscribe .pithy_message p:before {
+  content: "Facts have no agenda.  Real news has value.";
+}
+.article_footer_subscribe.politics .pithy_message p:before, .news .article_footer_subscribe.politics .pithy_message p:before {
+  content: "Keeping IT real.  For news you can trust.";
+}
+
+.article_footer_subscribe.world .pithy_message p:before, .news .article_footer_subscribe.world .pithy_message p:before {
+  content: "Truth matters.  For news you can trust.";
+}
+
+.sport .article_footer_subscribe .pithy_message p:before {
+  content: "Can you do without the best reporting and sporting debate?";
+}
+.business .article_footer_subscribe .pithy_message p:before {
+  content: "Never miss a business story again.";
+}
+.debate .article_footer_subscribe .pithy_message p:before {
+  content: " Be part of the conversation. ";
+}
+.life-and-style .article_footer_subscribe .pithy_message p:before {
+  content: "Stories and views that matter to you.";
+}
+.culture .article_footer_subscribe .pithy_message p:before {
+  content: "Stay in touch with culture that matters.";
+}
+</style>
+<a href="/digital-subscriptions" class="gtm-event goto-storefont" data-evt-category="/digital-subscriptions" data-evt-action="Go to StoreFront" data-evt-label="Subscribe: Prompt in the article footer">
+  <div class="article_footer_subscribe">
+    <div class="pithy_message">
+     <p>&nbsp;Subscribe.</p>
+    </div>
+    <div class="lovely_image">
+      &nbsp;
+    </div>
+  </div>
+</a>
+
+      
+    
+    
+        
+	
+<div class="row section">
+
+
+
+
+<div class="span8 more-in-section solid-border news ">
+
+			<h3 class="section-title ">
+				  	                More from The Irish Times
+	              			</h3>
+                                
+<div class="row">
+
+    
+  
+      
+  
+    
+  	   <div class="span2 " >
+   			    <div class="article_info">
+	      <ul>
+	        <li class="first debate last"><a href="/opinion">Opinion</a></li>
+	      </ul>
+	    </div>
+	    	    <a href="							/opinion/cambridge-analytica-and-facebook-irish-regulator-has-questions-to-answer-1.3434251	" onClick="dataLayer.push({'event' : 'data-layer-event', 'category' : 'More In Element', 'action' : 'More in Footer of /news/world', 'label': 'Clicked: \/'});">
+						    			
+										
+		    																<span class="img">
+															<img title='Data breach: Facebook says Cambridge Analytica obtained and used user-profile information improperly. Photograph: Dado Ruvic/Reuters' height='79' alt='Data breach: Facebook says Cambridge Analytica obtained and used user-profile information improperly. Photograph: Dado Ruvic/Reuters' width='140' src='/polopoly_fs/1.3434248.1521574646!/image/image.jpg_gen/derivatives/box_140/image.jpg' />								    										<span class="video-icon"><i></i><span class="duration">  0:26</span></span>
+																</span>
+																					<span class="h4">Cambridge Analytica and Facebook: Irish regulator has questions to answer</span>
+		</a>
+	</div>
+      
+    
+  
+      
+  
+    
+  	   <div class="span2 " >
+   			    <div class="article_info">
+	      <ul>
+	        <li class="first debate last"><a href="/opinion">Opinion</a></li>
+	      </ul>
+	    </div>
+	    	    <a href="							/opinion/why-i-was-persuaded-abortion-up-to-12-weeks-should-be-allowed-1.3433974	" onClick="dataLayer.push({'event' : 'data-layer-event', 'category' : 'More In Element', 'action' : 'More in Footer of /news/world', 'label': 'Clicked: \/'});">
+						    			
+										
+		    																<span class="img">
+															<img title='Fianna Fáil health spokesman Billy Kelleher: If as a society we are sincere about our compassion for women we need to be sincere in respecting and trusting the decisions women make. This is why I believe we should repeal the Eighth Amendment. Photograph: Brenda Fitzsimons ' height='79' alt='Fianna Fáil health spokesman Billy Kelleher: If as a society we are sincere about our compassion for women we need to be sincere in respecting and trusting the decisions women make. This is why I believe we should repeal the Eighth Amendment. Photograph: Brenda Fitzsimons ' width='140' src='/polopoly_fs/1.3433964.1521562946!/image/image.jpg_gen/derivatives/box_140/image.jpg' />								    										<span class="video-icon"><i></i><span class="duration">  2:50</span></span>
+																</span>
+																					<span class="h4">Why I was persuaded abortion up to 12 weeks should be allowed</span>
+		</a>
+	</div>
+      
+    
+  
+      
+  
+    
+  	   <div class="span2 " >
+   			    <div class="article_info">
+	      <ul>
+	        <li class="first sport last"><a href="/sport/rugby">Rugby</a></li>
+	      </ul>
+	    </div>
+	    	    <a href="							/sport/rugby/leinster-and-munster-count-injury-toll-ahead-of-quarter-finals-1.3434258	" onClick="dataLayer.push({'event' : 'data-layer-event', 'category' : 'More In Element', 'action' : 'More in Footer of /news/world', 'label': 'Clicked: \/sport'});">
+						    			
+					
+		    																<span class="img">
+															<img title=' Luke McGrath’s knee injury compounds the issue of what overseas players will play  against Saracens in their European Champions Cup quarter-final on Easter Sunday. Photograph: Byran Keane/Inpho' height='79' alt=' Luke McGrath’s knee injury compounds the issue of what overseas players will play  against Saracens in their European Champions Cup quarter-final on Easter Sunday. Photograph: Byran Keane/Inpho' width='140' src='/polopoly_fs/1.3434256.1521573274!/image/image.jpg_gen/derivatives/box_140/image.jpg' />								    							</span>
+																					<span class="h4">Leinster and Munster count injury toll ahead of quarter-finals</span>
+		</a>
+	</div>
+      
+    
+  
+      
+  
+    
+  	   <div class="span2 " >
+   			    <div class="article_info">
+	      <ul>
+	        <li class="first news last"><a href="/news/politics">Politics</a></li>
+	      </ul>
+	    </div>
+	    	    <a href="							/news/politics/all-senior-fine-gael-ministers-united-behind-repeal-message-1.3434362	" onClick="dataLayer.push({'event' : 'data-layer-event', 'category' : 'More In Element', 'action' : 'More in Footer of /news/world', 'label': 'Clicked: \/news'});">
+						    			
+										
+		    																<span class="img">
+															<img title='Taoiseach Leo Varadkar (centre) with Minister for  Social Protection  Regina Doherty  and Minister for Finance Paschal Donohoe, who are being mentioned as possible directors of the Fine Gael campaign in favour of repealing the Eighth Amendment.   Photograph: Dara Mac Dónaill' height='79' alt='Taoiseach Leo Varadkar (centre) with Minister for  Social Protection  Regina Doherty  and Minister for Finance Paschal Donohoe, who are being mentioned as possible directors of the Fine Gael campaign in favour of repealing the Eighth Amendment.   Photograph: Dara Mac Dónaill' width='140' src='/polopoly_fs/1.3434360.1521579514!/image/image.jpg_gen/derivatives/box_140/image.jpg' />								    										<span class="video-icon"><i></i><span class="duration">  2:50</span></span>
+																</span>
+																					<span class="h4">All senior Fine Gael Ministers united behind repeal message</span>
+		</a>
+	</div>
+            </div>
+      </div>
+</div>
+
+      
+    
+    
+        
+	
+<div class="row section">
+
+
+
+
+<div class="span8 more-in-section solid-border business ">
+
+			<h3 class="section-title ">
+				  	                More in Sponsored
+	              			</h3>
+                                
+<div class="row">
+
+    
+  
+      
+  
+    
+  	   <div class="span2 " >
+   			    <a href="							/sponsored/universal/who-was-mary-magdalene-1.3428261	" onClick="dataLayer.push({'event' : 'data-layer-event', 'category' : 'More In Element', 'action' : 'More in Footer of /news/world', 'label': 'Clicked: \/sponsored'});">
+						    			
+					
+		    																<span class="img">
+															<img title='Joaquin Phoenix and Rooney Mara star in Mary Magdelene, in cinemas nationwide now. ' height='79' alt='MM' width='140' src='/polopoly_fs/1.3428288.1521119915!/image/image.jpg_gen/derivatives/box_140/image.jpg' />								    							</span>
+																					<span class="h4">Who was Mary Magdalene? </span>
+		</a>
+	</div>
+      
+    
+  
+      
+  
+    
+  	   <div class="span2 " >
+   			    <a href="							/sponsored/local-impact/allergan-enhances-life-and-prosperity-in-westport-community-1.3403216	" onClick="dataLayer.push({'event' : 'data-layer-event', 'category' : 'More In Element', 'action' : 'More in Footer of /news/world', 'label': 'Clicked: \/sponsored'});">
+						    			
+					
+		    																<span class="img">
+															<img title='David Monaghan (senior manager, Analytical Technology), Ayleen McNamara (associate director, Quality Compliance), Shane Spratt (project engineer) and Isaac Safo-Ankoma (manufacturing technician). Photograph: Michael Mc Laughlin' height='79' alt='Allergen' width='140' src='/polopoly_fs/1.3403237.1519397341!/image/image.jpg_gen/derivatives/box_140/image.jpg' />								    							</span>
+																					<span class="h4">Allergan enhances life and prosperity in Westport community</span>
+		</a>
+	</div>
+      
+    
+  
+      
+  
+    
+  	   <div class="span2 " >
+   			    <a href="							/sponsored/esb/how-business-can-save-costs-through-smart-energy-management-1.3424110	" onClick="dataLayer.push({'event' : 'data-layer-event', 'category' : 'More In Element', 'action' : 'More in Footer of /news/world', 'label': 'Clicked: \/sponsored'});">
+						    			
+					
+		    																<span class="img">
+															<img title='A detailed review of a customer’s energy usage and assets onsite enables the team of engineers at ESB’s Smart Energy Service to recommend and implement a range of innovate energy solutions. Photograph: iStock ' height='79' alt='ESB Networks' width='140' src='/polopoly_fs/1.3424187.1520868265!/image/image.jpg_gen/derivatives/box_140/image.jpg' />								    							</span>
+																					<span class="h4">How business can save costs through Smart energy management</span>
+		</a>
+	</div>
+      
+    
+  
+      
+  
+    
+  	   <div class="span2 " >
+   			    <a href="							/sponsored/oroko/a-couples-holiday-the-oroko-way-1.3418001	" onClick="dataLayer.push({'event' : 'data-layer-event', 'category' : 'More In Element', 'action' : 'More in Footer of /news/world', 'label': 'Clicked: \/sponsored'});">
+						    			
+					
+		    																<span class="img">
+															<img title='Camellia Hills Hotel, Sri Lanka ' height='79' alt='Sri Lanka' width='140' src='/polopoly_fs/1.3418013.1520441854!/image/image.jpg_gen/derivatives/box_140/image.jpg' />								    							</span>
+																					<span class="h4">A couples holiday the Oroko way</span>
+		</a>
+	</div>
+            </div>
+      </div>
+</div>
+
+      
+    
+    
+        
+  
+
+
+<div class="row  col-split-s8">
+		<div class="span4 left">
+	  
+                  
+    
+  
+    
+  
+    
+    
+        												<div id='div-gpt-ad-Bottom1' class="ad-element">
+			<script>
+				googletag.cmd.push(function() {
+					googletag.display('div-gpt-ad-Bottom1');
+									});
+			</script>
+		</div>
+	 
+	
+      
+  
+          </div>
+	<div class="span4 right">
+	  
+                  
+    
+  
+    
+  
+    
+    
+        		     
+				
+
+<div class=row>
+    <div class="span4">
+    	<div class="ad-element">
+<script type="text/javascript"><!--
+google_ad_client = "pub-5684614859760536";
+google_ad_channel = '1180656452';
+google_language = 'en';
+google_ad_slot = "2088487591";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+</div></div>
+
+ 	
+      
+  
+      	</div>
+</div>
+      
+  
+      									</div>
+																																																			</div>
+												
+                        							<div class="span4 nocontent" id="content_right">
+								
+                  
+    
+  
+    
+  
+    
+    
+        
+		<script src="/assets/js/jquery.timeago.js?rev=20180313T104847"></script>
+	<script>
+	jq(document).ready(function() {
+	  jq.timeago.settings.cutoff = 604800000;
+	  jq.timeago.settings.strings.suffixAgo = ""; 
+	  jq.timeago.settings.strings.seconds = "Just now";
+	  jq.timeago.settings.strings.minute = "%d min";
+	  jq.timeago.settings.strings.minutes = "%d mins";
+	  jq.timeago.settings.strings.hour = "%d hour";
+	  jq.timeago.settings.strings.hours = "%d hours";
+	  jq.timeago.settings.strings.day = "Yesterday";
+	  jq.timeago.settings.strings.days = "%d days ago";
+	  jq.timeago.settings.strings.wordSeparator = " ";
+	  
+	  jq.when( jq("abbr.timeago").timeago("init") ).then(function( ) {
+		  //run when initialised	 
+		  //console.log("running") 
+	  });
+	  
+	});
+	</script>
+	  	  
+	    <script>
+	    	jq(document).ready(function()
+			{
+			    jq.ajax({
+				  url: '/news/world/column-splitter-span-12-7.2411576/latest-world-7.2411579?ot=example.AjaxPageLayout.ot',
+				  timeout: 10000,
+				  success: function(data) {
+					  jq('#ajax-placeholder-152930954').html(data);
+					  jq("abbr.timeago").timeago();
+					/*Analytics*/
+					jq('.latestin .story a').click(function(e) {		
+                        dataLayer.push({
+                            'event': 'data-layer-event',
+                            'category': 'Latest',
+                            'action': 'Latest in News',
+                            'label': ' Clicked: '+(jq(this).attr('href'))+' from ' + window.location.pathname + ' From: '+whichPosition( jq(this) )
+                        });
+					});		
+				  }
+				});
+				
+				var refreshId = setInterval( function() 
+			    {
+			    	
+					var timestamp = new Date().getTime();
+					jq.ajax({
+						  url: '/news/world/column-splitter-span-12-7.2411576/latest-world-7.2411579?ot=example.AjaxPageLayout.ot&ts='+timestamp,
+						  timeout: 10000,
+						  
+						  complete: function(data, statusMsg){
+							if(statusMsg == 'success'){
+								var responseText = jq.trim( data.responseText );
+								var inpageText = jq.trim( jq('#ajax-placeholder-152930954').text() );
+								
+								if(responseText != inpageText){
+									jq('.spinner').show();
+									jq('#ajax-placeholder-152930954' ).animate({
+										opacity: 0
+										}, 400, 'linear', function() {
+											jq('#ajax-placeholder-152930954').html(responseText);
+											jq('#ajax-placeholder-152930954' ).animate({
+											opacity: 1
+											}, 400, 'linear', function() {
+												jq('.spinner').hide();
+												removeSplitterGaps();
+												jq("abbr.timeago").timeago();
+												/*Analytics*/
+												jq('.latestin .story a').click(function(e) {		
+                                                    dataLayer.push({
+                                                        'event': 'data-layer-event',
+                                                        'category': 'Latest',
+                                                        'action': 'Latest in News',
+                                                        'label': ' Clicked: '+(jq(this).attr('href'))+' from ' + window.location.pathname + ' From: '+whichPosition( jq(this) )
+                                                    });
+												});	
+										});						
+									});
+								}
+							}else{
+								return;
+							}
+						  }						  
+						});	
+	
+			    }, 120000);
+			});
+	    </script>
+	    						
+						
+		<div class="row section latestin">
+			<span class="spinner"></span>
+			<div class="span4">
+	      		  	      <h2 class="section-title">
+	        				Latest World
+				      </h2>
+	      		 </div>
+			<div id="ajax-placeholder-152930954" class="span4">
+																		                					
+					
+					
+					<div class="story clearfix">
+																		<a href="/news/world/uk/amended-legislation-planned-against-online-political-interference-1.3433582">
+							Amended legislation planned against online political interference
+						</a>
+						
+												<abbr title="2018-03-20T21:19:07+0000" class="timeago">21:19</abbr>
+												
+					</div>
+																						                					
+					
+					
+					<div class="story clearfix">
+																		<a href="/news/world/uk/british-watchdog-seeks-warrant-to-access-cambridge-analytica-servers-1.3434373">
+							British watchdog seeks warrant to access Cambridge Analytica servers
+						</a>
+						
+												<abbr title="2018-03-20T21:18:34+0000" class="timeago">21:18</abbr>
+												
+					</div>
+																						                					
+					
+					
+					<div class="story clearfix">
+																		<a href="/news/world/asia-pacific/india-confirms-39-of-its-citizens-kidnapped-by-isis-are-dead-1.3434331">
+							India confirms 39 of its citizens kidnapped by Isis are dead
+						</a>
+						
+												<abbr title="2018-03-20T20:33:23+0000" class="timeago">20:33</abbr>
+												
+					</div>
+																						                					
+					
+					
+					<div class="story clearfix">
+																		<a href="/news/world/uk/britain-increases-checks-on-private-jets-to-thwart-breaches-of-national-security-1.3434279">
+							Britain increases checks on private jets to thwart breaches of national security
+						</a>
+						
+												<abbr title="2018-03-20T19:55:18+0000" class="timeago">19:55</abbr>
+												
+					</div>
+																						                					
+					
+					
+					<div class="story clearfix">
+																		<a href="/news/world/uk/gove-urges-brexiteers-to-keep-faith-despite-fisheries-deal-1.3434200">
+							Gove urges Brexiteers to keep faith despite fisheries deal
+						</a>
+						
+												<abbr title="2018-03-20T19:05:14+0000" class="timeago">19:05</abbr>
+												
+					</div>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																			</div>
+								
+		</div>
+	    
+	  
+	
+      
+    
+    
+        										<div id='div-gpt-ad-RightSidebarTop' class="ad-element">
+			<script>
+				googletag.cmd.push(function() {
+					googletag.display('div-gpt-ad-RightSidebarTop');
+										googletag.pubads().refresh([RightSidebarTop]);
+									});
+			</script>
+		</div>
+	 
+	
+      
+    
+    
+        
+<div class="row section">
+  <div class="span4">
+      </div>
+  <div class="span4 ">
+	<a href="http://www.irishtimes.com/news/world/world-view"><img src="/polopoly_fs/1.2887544.1480508458!/image/image.png"></a>
+<script src="/static/podcasts/js/jquery-plugin-scplayer.js"></script>
+
+<div class="scplayer"
+  id="worldview-pc"
+  data-soundcloud-url="https://api.soundcloud.com/users/76926899/tracks.json"
+  data-soundcloud-color="CC0000"
+></div>
+
+<script>
+jq(document).ready( function() {
+  jq('#worldview-pc').scplayer();
+});
+</script>
+
+</script>
+<style type="text/css">
+.follow-btns{margin:0 5px;}
+.follow-btns a{float:left: display:block; margin-right:5px;}
+</style>
+<div class="follow-btns">
+<a href="https://itunes.apple.com/ie/podcast/irish-times-world-view/id813704540?mt=2#iTunes" title="Subscribe on iTunes">
+	<img alt="Subscribe on iTunes" src="/static/podcasts/images/itunes_w90.png" />
+</a> 
+
+
+<a href="https://soundcloud.com/irishtimes-world" title="Follow on Soundcloud">
+	<img alt="Follow on Soundcloud" src="/static/podcasts/images/soundcloud_w90.png" />
+</a> 
+
+    
+<a style="margin-right:0;" href="http://www.stitcher.com/podcast/the-irish-times/irish-times-world-view?amp;refid=stpr" title="Listen on Stitcher">	<img alt="Listen on Stitcher" src="/static/podcasts/images/stitcher_w90.png" />
+</a>
+</div>
+  </div>
+</div>
+
+      
+    
+    
+        	
+
+<div class="row trendingarticles   ">
+      <div class="span4">
+      <h2 class="section-title">Most Read in News</h2>
+    </div>
+                              				
+  		  	
+        
+       
+          
+					<div class="span4 story ">
+          <span class="meta">1</span>
+		      <a href="/news/politics/oireachtas/abortion-debate-martin-ferris-speaks-of-birth-of-grandchild-who-lived-for-58-minutes-1.3434416" data-category="News">
+		      
+		          		              <span class="tr-headline">Abortion debate: Martin Ferris speaks of birth of grandchild who lived for 58 minutes</span>
+		          		          		      </a>
+		    </div>
+		                                         				
+  		  	
+        
+       
+          
+					<div class="span4 story ">
+          <span class="meta">2</span>
+		      <a href="/news/crime-and-law/man-in-his-80s-sexually-assaulted-on-a-bus-by-70-year-old-man-1.3433919" data-category="News">
+		      
+		          		              <span class="tr-headline">Man in his 80s sexually assaulted on a bus by 70-year-old man</span>
+		          		          		      </a>
+		    </div>
+		                                         				
+  		  	
+        
+       
+          
+					<div class="span4 story ">
+          <span class="meta">3</span>
+		      <a href="/news/ireland/irish-news/garda%C3%AD-called-as-teenage-ball-forced-to-close-after-30-minutes-1.3433648" data-category="News">
+		      
+		          		              <span class="tr-headline">Gardaí called as teenage ball forced to close after 30 minutes</span>
+		          		          		      </a>
+		    </div>
+		                                         				
+  		  	
+        
+       
+          
+					<div class="span4 story ">
+          <span class="meta">4</span>
+		      <a href="/news/environment/clontarf-baths-may-breach-planning-rules-1.3434191" data-category="News">
+		      
+		          		              <span class="tr-headline">Clontarf baths may breach planning rules</span>
+		          		          		      </a>
+		    </div>
+		                                         			  			
+  		  	
+        
+       
+          
+					<div class="span4 story last">
+          <span class="meta">5</span>
+		      <a href="/news/crime-and-law/garda-investigation-into-use-of-uniform-on-parade-float-1.3434305" data-category="News">
+		      
+		          		              <span class="tr-headline">Garda investigation into use of uniform on parade float</span>
+		          		          		      </a>
+		    </div>
+		                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               	
+	
+	<div class="span4 sub-prompt">
+		<a id="nevermiss-storefont" href="/digital-subscriptions" data-sgmt-listname="RHS Sub promo" data-evt-label="Subscribe: Real news..." data-evt-category="/digital-subscriptions" data-evt-action="Go to StoreFront" class="goto-storefront gtm-event">
+		<span class="never-miss">Real news has value</span> <span class="it-btn btn-subscribe">SUBSCRIBE</span>
+		</a>
+	</div>
+
+
+  </div>
+
+      
+    
+    
+        			
+						
+
+				
+		
+		<div class="row section alsoin">
+			<div class="span4">
+											<h2 class="section-title">
+					<a href="/your-subscription/subscriber-only-articles" class="gtm-event" data-evt-category="Also In element" data-evt-action="/your-subscription/subscriber-only-articles on /news/world/europe" data-evt-label="Subscriber Only"><span>							Subscriber Only
+					</span></a>				</h2>
+							</div>
+							
+														
+										
+																											
+					<div class="span4 trending btm-line soa index_story" >
+						<a href="/news/environment/storm-emma-behind-the-scenes-of-the-snowmergency-1.3413069" class="gtm-event" data-evt-category="Also In element" data-evt-action="/news/environment/storm-emma-behind-the-scenes-of-the-snowmergency-1.3413069 on /news/world/europe" data-evt-label="Subscriber Only - Premium">
+																																				<span class="img">
+																							<img title='True grit: Motorway maintainence workers load trucks  at the Dublin County Council depot in Ballymount. Photograph: Cyril Byrne  ' height='79' alt='True grit: Motorway maintainence workers load trucks  at the Dublin County Council depot in Ballymount. Photograph: Cyril Byrne  ' width='140' src='/polopoly_fs/1.3413063.1520002513!/image/image.jpg_gen/derivatives/landscape_140/image.jpg' />													 											</span>
+																																									<span class="h4">Storm Emma: Behind the scenes of the snowmergency</span>
+													</a>
+					</div>
+											
+														
+										
+																											
+					<div class="span4 trending btm-line soa index_story" >
+						<a href="/news/consumer/clicks-and-mortar-the-irish-retailers-who-are-doing-the-business-online-1.3400523" class="gtm-event" data-evt-category="Also In element" data-evt-action="/news/consumer/clicks-and-mortar-the-irish-retailers-who-are-doing-the-business-online-1.3400523 on /news/world/europe" data-evt-label="Subscriber Only - Premium">
+																																				<span class="img">
+																							<img title='Kenny’s Bookshop in Galway was online long before Jeff Bezos set up Amazon' height='79' alt='Kenny’s Bookshop in Galway was online long before Jeff Bezos set up Amazon' width='140' src='/polopoly_fs/1.3400520.1519237236!/image/image.jpg_gen/derivatives/landscape_140/image.jpg' />													 											</span>
+																																									<span class="h4">Clicks and mortar: The Irish retailers who are doing the business online</span>
+													</a>
+					</div>
+											
+														
+										
+																											
+					<div class="span4 trending btm-line soa index_story" >
+						<a href="/news/ireland/irish-news/brits-in-army-life-in-1970s-northern-ireland-1.3402093" class="gtm-event" data-evt-category="Also In element" data-evt-action="/news/ireland/irish-news/brits-in-army-life-in-1970s-northern-ireland-1.3402093 on /news/world/europe" data-evt-label="Subscriber Only - Premium">
+																																				<span class="img">
+																							<img title='A British army sniper takes cover behind a makeshift peace line dividing Catholic and Protestant communities in north Belfast in February 1978. Photograph: Alex Bowie/Getty Images' height='79' alt='A British army sniper takes cover behind a makeshift peace line dividing Catholic and Protestant communities in north Belfast in February 1978. Photograph: Alex Bowie/Getty Images' width='140' src='/polopoly_fs/1.3402074.1519317520!/image/image.jpg_gen/derivatives/landscape_140/image.jpg' />													 											</span>
+																																									<span class="h4">Brits in: Army life in 1970s Northern Ireland</span>
+													</a>
+					</div>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																														</div>
+		
+      
+    
+    
+        
+
+      	  	  	  	  	  	  
+
+
+
+
+<div class="row">
+	<div class="span4">
+										<div class="feature_box  horizontal clearfix news ">
+								    		
+    			        			        				<a href="/news/world/us/trump-presidency" onClick="dataLayer.push({'event' : 'data-layer-event', 'category' : 'Editor Feature Box', 'action' : 'Clicked: '+(jq(this).attr('href')), 'label': 'spanFourHorizontal - From: '+whichPosition( jq(this) )+' on: '+ jq(location).attr('pathname')});">
+        			        			                        			        			       <span class="img">
+        						                                                                                        	        <img title='US president Donald Trump shouts at journalists from across the South Lawn of the White House on Wednesday as he leaves for  St Charles, Missouri, to address a rally. Photograph: Chip Somodevilla/Getty Images' height='140' alt='US president Donald Trump shouts at journalists from across the South Lawn of the White House on Wednesday as he leaves for  St Charles, Missouri, to address a rally. Photograph: Chip Somodevilla/Getty Images' width='140' src='/polopoly_fs/1.3310069.1511986823!/image/image.jpg_gen/derivatives/box_140_140/image.jpg' />                                            				</span>
+            										</a>
+				    			        			<div class="feature_text">
+        				            				<a href="/news/world/us/trump-presidency" onClick="dataLayer.push({'event' : 'data-layer-event', 'category' : 'Editor Feature Box', 'action' : 'Clicked: '+(jq(this).attr('href')), 'label': 'spanFourHorizontal - From: '+whichPosition( jq(this) )+' on: '+ jq(location).attr('pathname')});">
+            			                											<span class="h2">Trump presidency</span>
+                			                											<span class="p">The man, the administration and the fallout worldwide</span>
+                			        				</a>
+        			</div>
+        			<div class="border_bottom">&nbsp;</div>
+							</div>
+			</div>
+</div>
+
+      
+    
+    
+        
+
+      	  	  	  	  	  	  
+
+
+
+
+<div class="row">
+	<div class="span4">
+										<div class="feature_box  horizontal clearfix news ">
+								    		
+    			        			        				<a href="/news/world/brexit" onClick="dataLayer.push({'event' : 'data-layer-event', 'category' : 'Editor Feature Box', 'action' : 'Clicked: '+(jq(this).attr('href')), 'label': 'spanFourHorizontal - From: '+whichPosition( jq(this) )+' on: '+ jq(location).attr('pathname')});">
+        			        			                        			        			       <span class="img">
+        						                                                                                        	        <img title='More than one British academic has been suggesting  that the pressure from our EU partners to ease our position on the Border will be irresistible' height='140' alt='More than one British academic has been suggesting  that the pressure from our EU partners to ease our position on the Border will be irresistible' width='140' src='/polopoly_fs/1.3309847.1512053575!/image/image.jpg_gen/derivatives/box_140_140/image.jpg' />                                            				</span>
+            										</a>
+				    			        			<div class="feature_text">
+        				            				<a href="/news/world/brexit" onClick="dataLayer.push({'event' : 'data-layer-event', 'category' : 'Editor Feature Box', 'action' : 'Clicked: '+(jq(this).attr('href')), 'label': 'spanFourHorizontal - From: '+whichPosition( jq(this) )+' on: '+ jq(location).attr('pathname')});">
+            			                											<span class="h2">Brexit</span>
+                			                											<span class="p">What happens now and what does it mean for Ireland? Full coverage here</span>
+                			        				</a>
+        			</div>
+        			<div class="border_bottom">&nbsp;</div>
+							</div>
+			</div>
+</div>
+
+      
+    
+    
+        
+
+      	  	  	  	  	  	  
+
+
+
+
+<div class="row">
+	<div class="span4">
+										<div class="feature_box  horizontal clearfix news ">
+								    		
+    			        			        				<a href="/news/world/terror-attacks" onClick="dataLayer.push({'event' : 'data-layer-event', 'category' : 'Editor Feature Box', 'action' : 'Clicked: '+(jq(this).attr('href')), 'label': 'spanFourHorizontal - From: '+whichPosition( jq(this) )+' on: '+ jq(location).attr('pathname')});">
+        			        			                        			        			       <span class="img">
+        						                                                                                        	        <img title='The suspects allegedly planned to target Times Square. File photograph: iStock' height='140' alt='The suspects allegedly planned to target Times Square. File photograph: iStock' width='140' src='/polopoly_fs/1.3248322.1507380059!/image/image.jpg_gen/derivatives/box_140_140/image.jpg' />                                            				</span>
+            										</a>
+				    			        			<div class="feature_text">
+        				            				<a href="/news/world/terror-attacks" onClick="dataLayer.push({'event' : 'data-layer-event', 'category' : 'Editor Feature Box', 'action' : 'Clicked: '+(jq(this).attr('href')), 'label': 'spanFourHorizontal - From: '+whichPosition( jq(this) )+' on: '+ jq(location).attr('pathname')});">
+            			                											<span class="h2">Terror attacks</span>
+                			                											<span class="p">Read more on terror strikes throughout Europe and the world </span>
+                			        				</a>
+        			</div>
+        			<div class="border_bottom">&nbsp;</div>
+							</div>
+			</div>
+</div>
+
+      
+    
+    
+        
+
+      	  	  	  	  	  	  
+
+
+
+
+<div class="row">
+	<div class="span4">
+										<div class="feature_box  horizontal clearfix news ">
+								    		
+    			        			        				<a href="/news/world/europe/migrant-crisis" onClick="dataLayer.push({'event' : 'data-layer-event', 'category' : 'Editor Feature Box', 'action' : 'Clicked: '+(jq(this).attr('href')), 'label': 'spanFourHorizontal - From: '+whichPosition( jq(this) )+' on: '+ jq(location).attr('pathname')});">
+        			        			                        			        			       <span class="img">
+        						                                                                                        	        <img title=' A Spanish Maritime Rescue ship carrying the 90 rescued migrants arrives at the port of Almeria, Spain, last week. Photograph: Carlos Barba/EPA' height='140' alt=' A Spanish Maritime Rescue ship carrying the 90 rescued migrants arrives at the port of Almeria, Spain, last week. Photograph: Carlos Barba/EPA' width='140' src='/polopoly_fs/1.3301316.1511376602!/image/image.jpg_gen/derivatives/box_140_140/image.jpg' />                                            				</span>
+            										</a>
+				    			        			<div class="feature_text">
+        				            				<a href="/news/world/europe/migrant-crisis" onClick="dataLayer.push({'event' : 'data-layer-event', 'category' : 'Editor Feature Box', 'action' : 'Clicked: '+(jq(this).attr('href')), 'label': 'spanFourHorizontal - From: '+whichPosition( jq(this) )+' on: '+ jq(location).attr('pathname')});">
+            			                											<span class="h2">Migrant Crisis</span>
+                			                											<span class="p">European unity falters in the face of refugee crisis </span>
+                			        				</a>
+        			</div>
+        			<div class="border_bottom">&nbsp;</div>
+							</div>
+			</div>
+</div>
+
+      
+    
+    
+        
+
+
+
+	
+<div class="row verticalteaserlist">
+	<div class="span4">
+		
+					<div class="row news">
+								                        <div class="span4">	
+            <h3 class="section-title">
+			                <a href="/opinion/opinion-analysis" class="gtm-event" data-evt-category="Vertical Teaser List" data-evt-action="/opinion/opinion-analysis on /news/world/europe" data-evt-label="Features & Opinion"><span>                Features & Opinion
+              </span></a>            </h3>
+            </div>
+												
+								
+			          	  												
+														<div class="span4 story  news headline-over btm-line ">
+										<a href="/news/world/marielle-franco-represented-something-hopeful-in-brazilian-politics-is-that-why-she-was-killed-1.3434162" class="gtm-event" data-evt-category="Vertical Teaser List" data-evt-action="/news/world/marielle-franco-represented-something-hopeful-in-brazilian-politics-is-that-why-she-was-killed-1.3434162 on /news/world/europe" data-evt-label="Features & Opinion">
+					<span class="h2">Marielle Franco represented something hopeful in Brazilian politics. Is that why she was killed?</span> 
+					</a>
+					              		  	
+  	  <div  class="article_info">
+	  <ul>
+	  	  	  		  		  	  	  	  	  	  	    	    	    	    <li class="first news"><a href="/news/world">World</a></li>
+	  	    	    	    	                <li class="last author">
+	        <span property="creator" typeof="Person foaf:Person">
+        <a href="/profile/tom-hennigan-7.1593409" property="workplaceHomepage"><span property="name foaf:name">Tom Hennigan</span></a>
+        </span>
+	    </li>
+  
+	  	  </ul>
+	</div>
+						  <p>
+					  						  		<a href="/news/world/marielle-franco-represented-something-hopeful-in-brazilian-politics-is-that-why-she-was-killed-1.3434162" class="gtm-event" data-evt-category="Vertical Teaser List" data-evt-action="/news/world/marielle-franco-represented-something-hopeful-in-brazilian-politics-is-that-why-she-was-killed-1.3434162 on /news/world/europe" data-evt-label="Features & Opinion">
+					  							  		<span class="img">
+															<img title='Photo: BATCH, License: N/A' height='79' alt='Marielle Franco represented something hopeful in Brazilian politics. Is that why she was killed?' width='140' src='/polopoly_fs/1.3434154.1521569617!/image/image.jpg_gen/derivatives/box_140/image.jpg' />								
+						    															<span class="video-icon"><i></i></span>
+														</span> 
+							</a>				  	
+					  						  						<a href="/news/world/marielle-franco-represented-something-hopeful-in-brazilian-politics-is-that-why-she-was-killed-1.3434162" class="gtm-event" data-evt-category="Vertical Teaser List" data-evt-action="/news/world/marielle-franco-represented-something-hopeful-in-brazilian-politics-is-that-why-she-was-killed-1.3434162 on /news/world/europe" data-evt-label="Features & Opinion">S&atilde;o Paulo Letter: The murder of a city councillor in the centre of Rio raises questions about politics and policing</a>
+					  					  </p>
+					  					  					  </div>
+															
+								
+			          	  												
+														<div class="span4 story  news headline-over btm-line ">
+										<a href="/news/world/door-wide-open-to-cambridge-analytica-style-political-messaging-in-ireland-1.3434370" class="gtm-event" data-evt-category="Vertical Teaser List" data-evt-action="/news/world/door-wide-open-to-cambridge-analytica-style-political-messaging-in-ireland-1.3434370 on /news/world/europe" data-evt-label="Features & Opinion">
+					<span class="h2">Door wide open to Cambridge Analytica-style political messaging in Ireland</span> 
+					</a>
+					              		  	
+  	  <div  class="article_info">
+	  <ul>
+	  	  	  		  		  	  	  	  	  	  	    	    	    	    <li class="first news"><a href="/news/world">World</a></li>
+	  	    	    	    	                <li class="last author">
+	        <span property="creator" typeof="Person foaf:Person">
+        <a href="/profile/pat-leahy-7.3563768" property="workplaceHomepage"><span property="name foaf:name">Pat Leahy</span></a>
+        </span>
+	    </li>
+  
+	  	  </ul>
+	</div>
+						  <p>
+					  						  		<a href="/news/world/door-wide-open-to-cambridge-analytica-style-political-messaging-in-ireland-1.3434370" class="gtm-event" data-evt-category="Vertical Teaser List" data-evt-action="/news/world/door-wide-open-to-cambridge-analytica-style-political-messaging-in-ireland-1.3434370 on /news/world/europe" data-evt-label="Features & Opinion">
+					  							  		<span class="img">
+															<img title='Photo: BATCH, License: N/A' height='79' alt='Door wide open to Cambridge Analytica-style political messaging in Ireland' width='140' src='/polopoly_fs/1.3434366.1521580283!/image/image.jpg_gen/derivatives/box_140/image.jpg' />								
+						    															<span class="video-icon"><i></i></span>
+														</span> 
+							</a>				  	
+					  						  						<a href="/news/world/door-wide-open-to-cambridge-analytica-style-political-messaging-in-ireland-1.3434370" class="gtm-event" data-evt-category="Vertical Teaser List" data-evt-action="/news/world/door-wide-open-to-cambridge-analytica-style-political-messaging-in-ireland-1.3434370 on /news/world/europe" data-evt-label="Features & Opinion">Analysis: Very little regulation against data-driven campaigning techniques here</a>
+					  					  </p>
+					  					  					  </div>
+															
+								
+			          	  												
+														<div class="span4 story  news headline-over btm-line ">
+										<a href="/news/world/asia-pacific/xi-jinping-boosts-his-authoritarian-rule-as-china-s-parliament-ends-1.3434104" class="gtm-event" data-evt-category="Vertical Teaser List" data-evt-action="/news/world/asia-pacific/xi-jinping-boosts-his-authoritarian-rule-as-china-s-parliament-ends-1.3434104 on /news/world/europe" data-evt-label="Features & Opinion">
+					<span class="h2">Xi Jinping boosts his authoritarian rule as China&rsquo;s parliament ends</span> 
+					</a>
+					              		  	
+  	  <div  class="article_info">
+	  <ul>
+	  	  	  		  		  	  	  	  	  	  	    	    	    	    <li class="first news"><a href="/news/world/asia-pacific">Asia-Pacific</a></li>
+	  	    	    	    	                <li class="last author">
+	        <span property="creator" typeof="Person foaf:Person">
+        <a href="/profile/clifford-coonan-7.1010679" property="workplaceHomepage"><span property="name foaf:name">Clifford Coonan</span></a>
+        </span>
+	    </li>
+  
+	  	  </ul>
+	</div>
+						  <p>
+					  						  		<a href="/news/world/asia-pacific/xi-jinping-boosts-his-authoritarian-rule-as-china-s-parliament-ends-1.3434104" class="gtm-event" data-evt-category="Vertical Teaser List" data-evt-action="/news/world/asia-pacific/xi-jinping-boosts-his-authoritarian-rule-as-china-s-parliament-ends-1.3434104 on /news/world/europe" data-evt-label="Features & Opinion">
+					  							  		<span class="img">
+															<img title='Photo: BATCH, License: N/A' height='79' alt='Xi Jinping boosts his authoritarian rule as China’s parliament ends' width='140' src='/polopoly_fs/1.3434102.1521567353!/image/image.jpg_gen/derivatives/box_140/image.jpg' />								
+						    														</span> 
+							</a>				  	
+					  						  						<a href="/news/world/asia-pacific/xi-jinping-boosts-his-authoritarian-rule-as-china-s-parliament-ends-1.3434104" class="gtm-event" data-evt-category="Vertical Teaser List" data-evt-action="/news/world/asia-pacific/xi-jinping-boosts-his-authoritarian-rule-as-china-s-parliament-ends-1.3434104 on /news/world/europe" data-evt-label="Features & Opinion">Xi likely to become even more assertive about what he says China wants</a>
+					  					  </p>
+					  					  					  </div>
+															
+								
+			          	  												
+														<div class="span4 story  news headline-over btm-line ">
+										<a href="/news/world/asia-pacific/facebook-used-to-cripple-opposition-in-run-up-to-cambodia-s-elections-1.3432885" class="gtm-event" data-evt-category="Vertical Teaser List" data-evt-action="/news/world/asia-pacific/facebook-used-to-cripple-opposition-in-run-up-to-cambodia-s-elections-1.3432885 on /news/world/europe" data-evt-label="Features & Opinion">
+					<span class="h2">Facebook used to cripple opposition in run-up to Cambodia&rsquo;s elections</span> 
+					</a>
+					              		  	
+  	  <div  class="article_info">
+	  <ul>
+	  	  	  		  		  	  	  	  	  	  	    	    	    	    <li class="first news"><a href="/news/world/asia-pacific">Asia-Pacific</a></li>
+	  	    	    	    	                         <li class="last author">
+	        <span property="creator" typeof="Person foaf:Person"><span property="name foaf:name">Sally Hayden</span></span>
+        	    </li>
+  
+	  	  </ul>
+	</div>
+						  <p>
+					  						  		<a href="/news/world/asia-pacific/facebook-used-to-cripple-opposition-in-run-up-to-cambodia-s-elections-1.3432885" class="gtm-event" data-evt-category="Vertical Teaser List" data-evt-action="/news/world/asia-pacific/facebook-used-to-cripple-opposition-in-run-up-to-cambodia-s-elections-1.3432885 on /news/world/europe" data-evt-label="Features & Opinion">
+					  							  		<span class="img">
+															<img title='Photo: BATCH, License: N/A' height='79' alt='Facebook used to cripple opposition in run-up to Cambodia’s elections' width='140' src='/polopoly_fs/1.3432884.1521482777!/image/image.jpg_gen/derivatives/box_140/image.jpg' />								
+						    														</span> 
+							</a>				  	
+					  						  						<a href="/news/world/asia-pacific/facebook-used-to-cripple-opposition-in-run-up-to-cambodia-s-elections-1.3432885" class="gtm-event" data-evt-category="Vertical Teaser List" data-evt-action="/news/world/asia-pacific/facebook-used-to-cripple-opposition-in-run-up-to-cambodia-s-elections-1.3432885 on /news/world/europe" data-evt-label="Features & Opinion">Social media company denies it is being misused by ruling government to suppress dissent</a>
+					  					  </p>
+					  					  					  </div>
+															
+								
+			          	  												
+														<div class="span4 story  news headline-over btm-line ">
+										<a href="/news/world/europe/q-a-what-happened-in-brussels-on-monday-1.3432543" class="gtm-event" data-evt-category="Vertical Teaser List" data-evt-action="/news/world/europe/q-a-what-happened-in-brussels-on-monday-1.3432543 on /news/world/europe" data-evt-label="Features & Opinion">
+					<span class="h2">Q&amp;A: What happened in Brussels on Monday?</span> 
+					</a>
+					              		  	
+  	  <div  class="article_info">
+	  <ul>
+	  	  	  		  		  	  	  	  	  	  	    	    	    	    <li class="first news"><a href="/news/world/europe">Europe</a></li>
+	  	    	    	    	                <li class="last author">
+	        <span property="creator" typeof="Person foaf:Person">
+        <a href="/cliff-taylor-7.2941340" property="workplaceHomepage"><span property="name foaf:name">Cliff Taylor</span></a>
+        </span>
+	    </li>
+  
+	  	  </ul>
+	</div>
+						  <p>
+					  						  		<a href="/news/world/europe/q-a-what-happened-in-brussels-on-monday-1.3432543" class="gtm-event" data-evt-category="Vertical Teaser List" data-evt-action="/news/world/europe/q-a-what-happened-in-brussels-on-monday-1.3432543 on /news/world/europe" data-evt-label="Features & Opinion">
+					  							  		<span class="img">
+															<img title='Photo: BATCH, License: N/A' height='79' alt='Q&A: What happened in Brussels on Monday?' width='140' src='/polopoly_fs/1.3432707.1521481997!/image/image.jpg_gen/derivatives/box_140/image.jpg' />								
+						    														</span> 
+							</a>				  	
+					  						  						<a href="/news/world/europe/q-a-what-happened-in-brussels-on-monday-1.3432543" class="gtm-event" data-evt-category="Vertical Teaser List" data-evt-action="/news/world/europe/q-a-what-happened-in-brussels-on-monday-1.3432543 on /news/world/europe" data-evt-label="Features & Opinion">Cliff Taylor: Key issue of Border remains despite agreement on backstop</a>
+					  					  </p>
+					  					  					  </div>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																					</div>
+    </div>
+</div>
+
+      
+    
+    
+        
+
+				
+		
+		
+	<div class="row section">
+		<div class="span4">
+			
+    		                    <div class="row">
+          <div class="span4">
+            <h3 class="section-title">
+              <a href="/news/galleries"><span>                Galleries
+              </span></a>            </h3>
+          </div>
+          </div>
+    		    	
+			<div class="row">
+				<div class="span4">
+					<div class="gallery-element">
+						
+												    						
+    							
+								    							<div class="image first">
+    								  <a href="							/news/world/us/florida-high-school-shootings-1.3393115	">
+										                    						<img title='February 14th, 2018: People are brought out of the Marjory Stoneman Douglas High School in Parkland, Florida, after a shooting at the school  left 17 dead. Photograph: Joe Raedle/Getty Images' height='160' alt='February 14th, 2018: People are brought out of the Marjory Stoneman Douglas High School in Parkland, Florida, after a shooting at the school  left 17 dead. Photograph: Joe Raedle/Getty Images' width='300' src='/polopoly_fs/1.3393136.1518680146!/image/image.jpg_gen/derivatives/box_300_160/image.jpg' />																				<i class="icon"></i>
+										            								<span class="title">
+												Florida high school shootings
+                                            </span>
+										        							</a>
+								</div>
+																					    						
+    							
+								    							<div class="image ">
+    								  <a href="							/news/world/the-best-signs-from-the-2018-women-s-march-1.3363017	">
+										                    						<img title='
+Twitter: @Huffpost' height='160' alt='
+Twitter: @Huffpost' width='300' src='/polopoly_fs/1.3363016.1516533120!/image/image.jpg_gen/derivatives/box_300_160/image.jpg' />																				<i class="icon"></i>
+										            								<span class="title">
+												The best signs from the 2018 Women's March
+                                            </span>
+										        							</a>
+								</div>
+																					    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    												    									
+					</div>
+				</div>
+            </div>
+			
+		</div>
+	</div>
+
+      
+    
+    
+        
+<div class="row section">
+  <div class="span4">
+    		<h2 class="section-title">Twitter</h2>
+      </div>
+  <div class="span4 ">
+	<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/IrishTimesWorld" data-widget-id="294133428180361216">Tweets by @IrishTimesWorld</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+  </div>
+</div>
+
+      
+    
+    
+        <style>
+#newsdigest-widget { margin: 0px auto 20px; width: 300px; font-family: Arial, Helvetica, sans-serif; }
+#newsdigest-widget .section-title {margin-bottom:3px !important;}
+#newsdigest-widget p {margin:0 0 5px 0; padding:0;font-size:14px; font-weight:bold;}
+
+#newsdigest-widget input[type='radio'] {vertical-align:baseline; margin-right:5px;}
+#newsdigest-widget input[type='text'],#newsdigest-widget input[type='email'] {
+  width:132px;
+  padding:4px;
+  outline: none;
+  border:solid 1px #ccc;
+  cursor: text!important;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, .05),0 1px 0 white;
+  -moz-box-shadow: inset 0 1px 3px rgba(0, 0, 0, .05),0 1px 0 white;
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, .05),0 1px 0 white;
+  -webkit-transition: background 0.5s ease;
+  -moz-transition: background 0.5s ease;
+  -o-transition: background 0.5s ease;
+  transition: background 0.5s ease;
+}
+
+#newsdigest-widget input[type='text']:hover,#newsdigest-widget input[type='email']:hover {
+  border:solid 1px #999;
+  -moz-box-shadow:inset 0 0 10px #ccc;
+  -webkit-box-shadow: inset 0 0 10px #ccc;
+  box-shadow:inset 0 0 5px #ddd;
+}
+
+#newsdigest-widget input[type='text']:focus,#newsdigest-widget input[type='email']:focus {
+  border:solid 1px #80cbff;
+  -moz-box-shadow:inset 0 0 10px #000;
+  -webkit-box-shadow: inset 0 0 10px #000;
+  box-shadow:inset 0 0 5px #ddd;
+}
+.hideInfo {display:none;}
+#newsdigest-widget #subscribe {margin:20px 0 0 0;width:140px; padding:5px 0;}
+#newsdigest-widget label {color:#000; margin:0 0 3px 0;}
+
+#newsdigest-widget .digestSelection {margin:0 0 10px 0;padding:0 0 10px 0;text-align:left;list-style:none; border-bottom:solid 1px #e5e5e5;float:left;}
+#newsdigest-widget .digestSelection li {float:left; width:100px;}
+#newsdigest-widget .personalInfo {margin:0;padding:0 0 10px 0;text-align:left;list-style:none; float:left;}
+#newsdigest-widget .inputWrapper { width: 150px;float:left; }
+.alert {border:none;background:none;padding:0; font-family:Arial,Helvetica, sans-serif; color:#000;font-size:14px;}
+.inputContainer .error {display:inline; color:#cc0000 !important; font-weight:bold; font-size:12px; text-transform:uppercase; padding:0 0 0 5px;}
+.successOverlay {height:200px; }
+#newsdigest-widget { border:solid 1px #ccc; padding:0 4px; width:290px !Important;}
+#newsdigest-widget .digestSelection li { width:95px !Important;}
+#newsdigest-widget .inputWrapper { width:145px !Important;}
+#newsdigest-widget input[type='text'], #newsdigest-widget input[type='email'] {width:128px !Important;}
+</style>
+
+<script>
+
+jq(document).ready( function() {  
+
+  var visitorid;
+
+  var ca = document.cookie.split(';');
+  for(var i=0;i < ca.length;i++) {
+    var c = ca[i];
+    while (c.charAt(0)==' ') c = c.substring(1,c.length);
+    if (c.indexOf('__utma') == 0) {
+      visitorid = c.substring('__utma'.length,c.length);
+      visitorid = visitorid.split(".")[1];
+      break
+    }
+  }
+
+  if (visitorid != '') {
+    jq('#googleid').val( visitorid );
+  } 
+
+  jq("#newsdigest-form").validate({
+    debug:true,
+    rules: {
+      name: "required",
+      surname: "required",
+      email: {
+        required: true,
+        email: true
+      }
+    },
+    messages: {
+      name: {
+        required: "Required"
+      },
+      surname: {
+        required: "Required"
+      },
+      email : {
+        required: "Required",
+        email: "Not valid"
+      }
+    },
+    submitHandler: function(form) {
+      jq.ajax({
+        type: "POST",
+        url: jq('#newsdigest-form').attr('action'),
+        data: jq("#newsdigest-form").serialize(), 
+        success: function (data, status) {
+          var digestSelection = jq('input[name=digestSelection]:checked', '#newsdigest-form'  ).val();
+          _gaq.push([ '_trackEvent', 'Digest Signup', 'digestSelection', digestSelection ]);
+          dataLayer.push({'digest-signup': 'News Digest Signup'},{'event': 'digest-signup-event'});
+        },
+        complete: function (data, status) {    
+          if (data.status != 200) {
+            alerttype="alert-error";
+            message = data.responseText;
+          } else {
+            response = jq.parseJSON(data.responseText);
+            if (response.result == 'OK') {
+              alerttype="success";
+              jq("#newsdigest-form").hide();
+              message="<p>Thank you for signing up.</p>";
+              message+="<p>You will start to receive Daily Digests from <strong>newsdigest@comms.irishtimes.com</strong>.</p>";
+              message+="<p>Please add this email address to your address book.</p>";
+            } else {
+              alerttype = "alert-error";
+              message = response.result;
+            }
+          }
+          jq('#alert').addClass("successOverlay");  
+          jq('#alert').html('<div id="alertdiv" class="alert '+alerttype+'"><span>'+message+'</span></div>');
+        },             
+      });
+      return false;
+    }
+  }); 
+});
+</script>
+<div id="newsdigest-widget">
+<h3 class="section-title">News - direct to your inbox</h2>
+<form id="newsdigest-form" action="/commsapi/api/v1/subscribe">
+  <fieldset>
+    <p>Which Daily Digest would you like?</p>
+    <ul class="digestSelection">
+      <li><label><input type="radio" name="digestSelection" value="morning" id="digestSelection_0" />Morning</label></li>
+      <li><label><input type="radio" name="digestSelection" value="afternoon" id="digestSelection_1" />Lunchtime</label></li>
+      <li><label><input type="radio" name="digestSelection" value="both" id="digestSelection_2" checked />Both</label></li>
+    </ul>
+    <div class="inputWrapper hideInfo">
+    <label for="googleid">
+      <div class="inputContainer">Google ID<label for="googleid" class="error" generated="true"></label></div>
+    </label>
+    <input type="text" name="googleid" id="googleid">
+    </div>
+  <div class="inputWrapper">
+    <label for="name">
+      <div class="inputContainer">Name<label for="name" class="error" generated="true"></label></div>
+    </label>
+    <input type="text" name="name" placeholder="Name" class="required" title="Required">
+    </div>
+    <div class="inputWrapper">
+    <label for="surname">
+      <div class="inputContainer">Surname<label for="surname" class="error" generated="true"></label></div>
+    </label>
+      <input type="text" name="surname" placeholder="Name" class="required" title="Required">
+   </div>
+    <div class="inputWrapper">
+    <label for="email">
+      <div class="inputContainer">Email<label for="email" class="error" generated="true"></label></div>
+  </label>
+  <input type="text" name="email" placeholder="Email Address" class="required" title="Required">
+    </div>
+  <div class="inputWrapper">
+      <button class="btn btn-primary btn-large btn-block" id="subscribe" type="submit">Sign Up</button>
+    </div>
+  </fieldset>
+</form>
+</div>
+<div id="alert"></div>
+
+      
+  
+      							</div>
+																																																																																								
+							
+						
+					</div>
+				</div>
+					
+			</div>
+			<div class="right-remainder"><div class="inner"></div></div>			
+		</div>
+		
+			
+		
+						  
+                  
+    
+  
+    
+  
+    
+    
+        <footer class="nocontent clearfix">
+  <div class="clearfix">
+    <div class="left-remainder">
+      <div class="inner"></div>
+    </div>
+    <div class="container">
+      <div id="links" class="clearfix footer-section">
+        <div class="row">
+          <div class="span12">
+            <div id="mobile-links">
+              <h5><a href="/subscriptions">Subscribe</a></h5>
+              <h5><a href="/about-us">About Us</a></h5>
+              <h5><a href="/policy-and-terms">Policy &amp; Terms</a></h5>
+            </div>
+            <div class="row">
+              <div class="span3">
+                <h5>Subscribe</h5>
+                <nav>
+                  <ul>
+                    <li><a href="/your-subscription/subscription-tour">Why Subscribe?</a></li>
+                    <li><a href="/subscriptions">Subscription Bundles</a> </li>
+                    <li><a href="/gift">Gift Subscriptions</a> </li>
+                    <li><a href="http://www.newsdelivery.ie">Home Delivery</a> </li>
+                  </ul>
+                </nav>
+              </div>
+              <div class="span6">
+                <h5>Irish Times Products &amp; Services</h5>
+                <div class="row">
+                  <div class="span3">
+                    <nav>
+                      <ul>
+                        <li><a href="/digital-edition">ePaper</a> </li>
+                        <li><a href="/more/ebooks">eBooks</a> </li>
+                        <li><a href="/games/crosswords">Crosswords</a> </li>
+                        <li><a href="/archive">Newspaper Archive</a> </li>                        
+                      </ul>
+                    </nav>
+                  </div>
+                  <div class="span3">
+                    <nav>
+                      <ul>
+                        <li><a href="/newsletters">Email Alerts &amp; Newsletters</a> </li>
+                        <li><a href="/static/articleindex/">Article Archive</a> </li>
+	                    <li><a href="http://execjobs.irishtimes.com/" target="_blank">Executive Jobs</a></li>    
+						<li><a href="/pagesales">Page Sales</a></li>
+                        <li><a href="/photosales">Photo Sales</a></li>
+                      </ul>
+                    </nav>
+                  </div>
+                </div>
+              </div>
+              <div class="span3">
+                <h5>About Us</h5>
+                <nav>
+                  <ul>
+                    <li><a href="/mediasolutions">Advertise</a> </li>
+                    <li><a href="/about-us/contact-us">Contact Us</a> </li>
+                    <li><a href="/about-us/the-irish-times-trust">The Irish Times Trust CLG</a> </li>
+                    <li><a href="/about-us/career-opportunities">Careers</a> </li>
+                  </ul>
+                </nav>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div><!-- /#links -->
+      
+      <div id="connect" class="clearfix footer-section">
+        <div class="row">
+          <div class="span6">
+            <div class="follow">
+              <div class="addthis_horizontal_follow_toolbox"></div>
+            </div>
+        </div>
+        <div class="span6">
+            <div class="apps"> <a target="_blank" href="https://itunes.apple.com/ie/artist/the-irish-times-ltd/id365544597&app=itunes"> <img alt="Download on the App Store" src="/assets/images/icons/apps/app-store.png" width="106" height="32" /> </a> <a target="_blank" href="https://play.google.com/store/apps/developer?id=The+Irish+Times+Ltd"> <img alt="Download on Google Play" src="/assets/images/icons/apps/google-play.png" width="106" height="32" /> </a> </div>
+          </div>
+        </div>
+      </div><!-- /#connect --> 
+    </div><!-- /.container -->
+    
+    <div class="right-remainder">
+      <div class="inner"></div>
+    </div>
+  </div><!-- /.clearfix -->
+  
+  <div class="clearfix">
+    <div id="partners" class="clearfix footer-section">
+      <div class="left-remainder">
+        <div class="inner"></div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="span12">
+            <nav>
+              <ul>
+                <li class="link-label">Our Partners</li>
+                <li><a href="http://www.rewardingtimes.ie">Rewarding Times</a></li>
+                <li><a href="https://www.myhome.ie">MyHome.ie</a></li>
+                <li><a href="http://www.irishracing.com">Irish Racing</a></li>
+                <li><a href="http://www.top1000.ie">Top 1000</a></li>
+                <li><a href="http://www.myantiques.ie">MyAntiques.ie</a></li>
+                <li><a href="http://www.thegloss.ie">The Gloss</a></li>
+                <li><a href="https://www.irishtimestraining.com/">Irish Times Training</a></li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div><!-- /.container -->
+      
+      <div class="right-remainder">
+        <div class="inner"></div>
+      </div>
+    </div><!-- /#partners --> 
+  </div><!-- /.clearfix -->
+  
+  <div class="clearfix">
+    <div class="left-remainder">
+      <div class="inner"></div>
+    </div>
+    <div class="container">
+      <div id="legal" class="clearfix footer-section" role="contentinfo">
+        <div class="row">
+          <div class="span12 policy_terms">
+            <nav>
+              <ul>
+                <li><a href="/policy-and-terms/terms-conditions">Terms &amp; Conditions</a> </li>
+                <li><a href="/policy-and-terms/privacy-policy">Privacy Policy</a> </li>
+                <li><a href="/policy-and-terms/cookie-policy">Cookie Information</a> </li>
+                <li><a href="/policy-and-terms/community-standards">Community Standards</a> </li>
+                <li><a href="/policy-and-terms/copyright">Copyright</a> </li>
+                <li><a href="/about-us/help">FAQs</a> </li>
+              </ul>
+            </nav>
+          </div>
+          <div class="span12 copyright">&copy; <span class="thisyear">2015</span> THE IRISH TIMES</div>
+        </div>
+      </div><!-- /#legal --> 
+      
+    </div><!-- /.container -->
+    
+    <div class="right-remainder">
+      <div class="inner"></div>
+    </div>
+  </div><!-- /.clearfix --> 
+  
+</footer>
+<script>
+	var _glb_mydate = new Date();
+	jq(function() { 
+		jq('.thisyear').html( _glb_mydate.getFullYear()  );
+	});
+</script>
+
+      
+  
+      			
+		
+	</div>
+
+  <div class="arrow_backtotop_wrapper">  
+    <a class="arrow_backtotop_inner scroll gtm-event" href="#wrapper" data-evt-category="[Back to top arrow]" data-evt-action="Tapped" data-evt-label=""></a>
+  </div>  
+
+	
+	<div class="clear"></div>
+	<noscript>
+		<div id="no-script">For the best site experience please enable JavaScript in your browser settings</div>
+	</noscript>
+			
+                  
+    
+  
+    
+  
+    
+    
+        <style>
+
+/* Any CSS that needs to be patched put here with date and jira ref.
+   Add a comment to the corresponding jira to remember to remove it when the fix is propoerly deployed
+*/
+
+
+/* Gradient on Package story h2 12-10-2016 To be deployed to live */
+.news-package .story .h2{
+  	padding: 50px 10px 10px 10px;
+    background: -webkit-linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0.6) 51%, rgba(0,0,0,0.9) 100%);
+    background: -o-llinear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0.6) 51%, rgba(0,0,0,0.9) 100%);
+    background: linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0.6) 51%, rgba(0,0,0,0.9) 100%)
+}
+  
+
+/* 01/11/16 - stop follow buttons from moving on hover */
+#torso .bt-container .at-follow-tbx-element .at-follow-btn:focus, #torso .bt-container .at-follow-tbx-element .at-follow-btn:hover{
+-webkit-transform: translateY(0px);
+    transform: translateY(0px);
+    outline-offset: 0;
+}
+
+  
+/*  10/11/2016 - Premium Content Feature Box Fix (Hotizontal one and Vertical One on Mobile) */
+  
+  @media only screen and (max-width: 767px){.span2 .soa.feature_box .feature_text:before {top: 70px;}}
+  .soa.feature_box.horizontal .feature_text:before{top:60px;}
+            
+
+
+</style>
+
+
+      
+    
+    
+        <script>
+jq(document).ready(function() {
+  function showTab(){
+  
+    var minWidth = 1100;
+    var shouldShow = jq('body.isArticle.anonymous')[0] != undefined;
+    var hasTakeover = jq('body').css('background-image');
+  	var tab = '<div class="floating_tab slideFromLeft"><a class="gtm-event" data-evt-category="/digital-subscriptions" data-evt-action="Go to StoreFront" data-evt-label="Subscribe Now: Floating Tab" href="/digital-subscriptions"><b>Subscribe Now</b></a></div>';
+    
+    if( (windowWidth >= minWidth) && (shouldShow == true) && (hasTakeover == 'none')  ){ 
+		jq( "body" ).append( tab );
+    }
+  }
+  setTimeout(showTab, 3000);
+});
+</script>
+
+<style type="text/css">
+.floating_tab{position:fixed; left:0; top:auto;  bottom:30%; -webkit-backface-visibility: hidden;
+ -webkit-animation-fill-mode: both; -moz-animation-fill-mode: both; -ms-animation-fill-mode: both; -o-animation-fill-mode: both; animation-fill-mode: both; 
+ -webkit-animation-duration: 1s; -moz-animation-duration: 1s; -ms-animation-duration: 1s; -o-animation-duration: 1s; animation-duration: 1s;
+ -webkit-box-shadow: 5px 0px 20px 0px rgba(81, 81, 81, 0.7); -moz-box-shadow:    5px 0px 20px 0px rgba(81, 81, 81, 0.7); box-shadow: 5px 0px 20px 0px rgba(81, 81, 81, 0.7);}
+
+.floating_tab a{display:block; height:144px; width:40px; box-sizing:border-box; padding:10px;     letter-spacing: -0.04em; /* background-color:#066; color:#FFF;*/  background-color:#fad165; color:#333;  
+ font-family:"DINWeb-Bold",Arial,Helvetica,sans-serif; text-transform:uppercase; font-weight:bold; white-space: nowrap;}
+
+.floating_tab a b{
+  display: inline-block; margin:auto;  position:absolute; top: 0; bottom: 0;
+ -webkit-transform: rotate(-90deg)  translate(-50%, 50%); -moz-transform: rotate(-90deg)  translate(-50%, 50%); -ms-transform: rotate(-90deg)  translate(-50%, 50%); -o-transform: rotate(-90deg)  translate(-50%, 50%); 
+ -webkit-transform-origin: 0 50%; -moz-transform-origin: 0 50%; -ms-transform-origin: 0 50%; -o-transform-origin: 0 50%;  transform-origin: 0 50%;   height: 30px;}
+
+
+@-webkit-keyframes slideFromLeft {
+	0% {opacity:0; -webkit-transform:translateX(-850px); transform:translateX(-850px)}
+	100% {-webkit-transform:translateX(0); transform:translateX(0)}
+}
+  
+@keyframes slideFromLeft {
+	0% {opacity:0; -webkit-transform:translateX(-850px); -ms-transform:translateX(-850px); transform:translateX(-850px)}
+	100% {-webkit-transform:translateX(0); -ms-transform:translateX(0); transform:translateX(0)}
+}
+
+    .slideFromLeft { -webkit-animation-name: slideFromLeft; animation-name: slideFromLeft }
+
+@media only screen and (max-width: 1101px) { .floating_tab{display:none !important;} }    
+ 
+
+::i-block-chrome,article{z-index:inherit;}/*old safari*/
+
+
+/*old IE*/
+.lt-ie9 .floating_tab{display:none !important;}
+.lt-ie8 .floating_tab{display:none !important;}
+</style>
+
+      
+    
+    
+          <div id="mobile-signin" class="sb-slidebar sb-right sb-style-push sb-width-wide">
+    <div class="signin">
+        <h4>Sign In</h4>
+				<div class="userlog">
+	        <form id="sign-inForm__Mobile" action="https://www.irishtimes.com/auth-rest-api/v1/paywall/login" method="post">
+						<div class="form-element">
+	          	<span class="input-holder">
+	            	<input type="email" name="signin__email__mobile" id="signin-email-mobile" autocorrect="off" autocapitalize="off" placeholder="Email Address" onfocus="this.placeholder = 'Email Address'" onblur="this.placeholder = 'Email Address'">
+								<label for="signin-email-mobile" class="error" generated="true"></label>
+	          	</span>
+						</div>
+						<div class="form-element">
+	          	<span class="input-holder">
+	            	<input type="password" name="signin__password__mobile" id="signin-password-mobile" placeholder="Password" onfocus="this.placeholder = 'Password'" onblur="this.placeholder = 'Password'">
+							 	<label for="signin-password-mobile" class="error" generated="true"></label>
+	          	</span>
+						</div>
+	          <div>
+	            <button type="submit" class="btn btn-small sign-in-btn"><span>Sign In</span></button>
+	          </div>
+	          <div class="error">
+	            <p></p>
+	          </div>
+					</div>
+          <a href="/myaccount/forgot" class="forgot-pw">Forgot Password?</a>
+					<div class="subscribe-panel">
+    				<div class="subscribe-cta">
+          		<h5>Don't have an account?</h5>
+          		<a class="subscribe goto-storefront gtm-event" id="mobilesignin-storefront" href="/digital-subscriptions" data-evt-category="/digital-subscriptions" data-evt-action="Go to StoreFront" data-evt-label="Subscribe: Mobile sign in area (pushes out from RHS)" >Subscribe</a>
+							</div>
+					</div>
+				</form>
+    </div>
+    <div class="signout">
+			<h4> </h4>
+      <div class="myservices">
+				<ul id="subscriber-menu" class="links">
+					
+          <li class="soa">
+            <a href="/your-subscription/subscriber-only-articles">
+               <b>Subscriber Only Articles</b>
+            </a>
+          </li>
+
+          <li class="e-paper">
+            <a href="/epaper" id="epaper-app2"><b>The ePaper</b></a>
+          </li>
+
+          <li class="benefit">
+            <a href="/subscriber-rewards">
+              <b>Subscriber Rewards</b>
+            </a>
+          </li>
+
+          <li class="subscriber-tour">
+            <a href="/your-subscription/subscription-tour">
+              <b>Subscriber Tour</b>
+            </a>
+          </li>
+
+          <li class="breaking-news">
+            <a id="bnews-app2" href="/apps"><b>Breaking news app</b></a>
+          </li> 
+
+          <li class="itsunday">
+            <a href="/it-sunday">
+              <b>IT Sunday</b>
+            </a>
+          </li>
+
+          <li class="myaccount">
+            <a href="/myaccount">
+              <b>My Account</b>
+            </a>
+          </li>
+
+          <li class="ebooks">
+            <a href="/more/ebooks">
+              <b>eBooks</b>
+            </a>
+          </li>
+
+          <li class="newsletters">
+            <a href="/newsletters">
+              <b>Email Newsletters</b>
+            </a>
+          </li>
+
+          <li class="crossword">
+            <a href="/cross-mobile-message">
+              <b>Crossword Club</b>
+            </a>
+          </li>
+
+          <li class="archive">
+            <a href="/arch-mobile-message">
+              <b>Newspaper Archive</b>
+            </a>
+          </li>  	
+          
+				</ul>
+				<ul>
+					<li class="sign-out-btn"><span>Sign Out</span></li>
+				</ul>
+		  </div>
+    </div>
+  </div>
+	<div id="mobile-navigation" class="sb-slidebar sb-left sb-style-push sb-width-wide">
+		<div class="mobile-top">
+
+			<span class="IT-logo"><a href="/"></a></span><span class="subscribe"><a id="mobilemenu-storefront" class="goto-storefront gtm-event" href="/digital-subscriptions" data-evt-category="/digital-subscriptions" data-evt-action="Go to StoreFront" data-evt-label="Subscribe: Mobile menu (pushes out from LHS)">SUBSCRIBE</a></span>
+		</div>
+		<div class="mobile-search">
+									
+						  			  			
+						<form action="/search/search-7.4195619" method="get" autocomplete="off">
+
+			<input type="text" name="q" id="mobile-search" autocorrect="off" autocapitalize="off" placeholder="Search" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Search'">
+			<button type="submit" class="btn search-btn"></button>
+
+			</form>
+		</div>
+		<!-- Mobile Weather Row -->
+			<div class="mobile-weather">
+				<div class="weather weather-landing">
+					<a href="/weather/">
+						<div class="outlook">
+							<div title="" class="symbol-wrap">
+								<p class="main large"> <i class=""></i> </p>
+								<p class="left small"> <i class=""></i> </p>
+								<p class="right small"><i class=""></i></p>
+							</div>
+						</div>
+						<div class="temp"></div>
+						<div class="date-location">
+							<time class="date">Wed 21/3/2018</time>
+							<div class="default-location"></div>
+						</div>
+					</a>
+				</div>
+			</div>
+		<!-- End Mobile Weather Row -->
+		<nav>
+	    <ul class="mobile-nav">
+	                                                                                      												            	<li class="nav-level-1 with-subs news-section  selected"><a href="		  
+				
+						/news	" >News</a><!--
+--><span class="toggle" data-toggle="collapse" data-target="#news-sub"> <span class="caret-new"></span> </span>
+          			<ul class="nav-level-2-list collapse" id="news-sub" data-parent="#mobile-navigation" data-control=".with-subs.news-section">
+	          							          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/news/ireland	" >Ireland</a> </li>
+				          						          					          																					          		<li class="nav-level-2-item selected"><a href="		  
+				
+						/news/world	" >World</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/news/politics	" >Politics</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/news/crime-and-law	" >Crime & Law</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/news/social-affairs	" >Social Affairs</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/news/health	" >Health</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/news/education	" >Education</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/news/world/brexit	" >Brexit</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/your-subscription/subscriber-only-articles	" >Subscriber Only</a> </li>
+				          						          					          					          					          					          					          					          					          					          					          					          					          					          		        		</ul>
+                          		</li>
+                                                                                          								            	<li class="nav-level-1 with-subs sport-section  "><a href="		  
+				
+						/sport	" >Sport</a><!--
+--><span class="toggle" data-toggle="collapse" data-target="#sport-sub"> <span class="caret-new"></span> </span>
+          			<ul class="nav-level-2-list collapse" id="sport-sub" data-parent="#mobile-navigation" data-control=".with-subs.sport-section">
+	          							          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/sport/six-nations	" >Six Nations</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/sport/rugby	" >Rugby</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/sport/soccer	" >Soccer</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/sport/gaelic-games	" >Gaelic Games</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/sport/golf	" >Golf</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/sport/racing	" >Racing</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/sport/other-sports	" >Other Sports</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/sport/women-in-sport	" >Women in Sport</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/sport/comment	" >Comment</a> </li>
+				          						          		        		</ul>
+                          		</li>
+                                                                                          								            	<li class="nav-level-1 with-subs business-section  "><a href="		  
+				
+						/business	" >Business</a><!--
+--><span class="toggle" data-toggle="collapse" data-target="#business-sub"> <span class="caret-new"></span> </span>
+          			<ul class="nav-level-2-list collapse" id="business-sub" data-parent="#mobile-navigation" data-control=".with-subs.business-section">
+	          							          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/business/economy	" >The Economy</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/business/your-money	" >Your Money</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/business/companies	" >Companies</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/business/technology	" >Technology</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/business/work	" >Work</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/business/commercial-property	" >Commercial Property</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/business/comment	" >Comment</a> </li>
+				          						          					          					          		        		</ul>
+                          		</li>
+                                                                                          								            	<li class="nav-level-1 with-subs opinion-section  "><a href="		  
+				
+						/opinion	" >Opinion</a><!--
+--><span class="toggle" data-toggle="collapse" data-target="#opinion-sub"> <span class="caret-new"></span> </span>
+          			<ul class="nav-level-2-list collapse" id="opinion-sub" data-parent="#mobile-navigation" data-control=".with-subs.opinion-section">
+	          							          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/opinion/editorial	" >Editorials</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/opinion/letters	" >Letters</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/opinion/columnists	" >Columnists</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/opinion/an-irishman-s-diary	" >An Irishman's Diary</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/opinion/opinion-analysis	" >Opinion & Analysis</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/opinion/martyn-turner	" >Martyn Turner</a> </li>
+				          						          		        		</ul>
+                          		</li>
+                                                                                          								            	<li class="nav-level-1 with-subs lifestyle-section  "><a href="		  
+				
+						/life-and-style	" >Life & Style</a><!--
+--><span class="toggle" data-toggle="collapse" data-target="#lifestyle-sub"> <span class="caret-new"></span> </span>
+          			<ul class="nav-level-2-list collapse" id="lifestyle-sub" data-parent="#mobile-navigation" data-control=".with-subs.lifestyle-section">
+	          							          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/life-and-style/food-and-drink	" >Food & Drink</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/life-and-style/homes-and-property	" >Homes & Property</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/life-and-style/health-family	" >Health & Family</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/life-and-style/people	" >People</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/life-and-style/travel	" >Travel</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/life-and-style/motors	" >Motors</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/life-and-style/fashion	" >Fashion</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/life-and-style/abroad	" >Abroad</a> </li>
+				          						          					          					          		        		</ul>
+                          		</li>
+                                                                                          								            	<li class="nav-level-1 with-subs culture-section  "><a href="		  
+				
+						/culture	" >Culture</a><!--
+--><span class="toggle" data-toggle="collapse" data-target="#culture-sub"> <span class="caret-new"></span> </span>
+          			<ul class="nav-level-2-list collapse" id="culture-sub" data-parent="#mobile-navigation" data-control=".with-subs.culture-section">
+	          							          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/culture/books	" >Books</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/culture/film	" >Film</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/culture/music	" >Music</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/culture/stage	" >Stage</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/culture/art-and-design	" >Art & Design</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/culture/tv-radio-web	" >TV, Radio, Web</a> </li>
+				          						          					          					          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/culture/treibh	" >Treibh</a> </li>
+				          						          					          					          		        		</ul>
+                          		</li>
+                                                                                                          								            	<li class="nav-level-1 with-subs more-section reversed "><a href="		  
+				
+						/more	" >More</a><!--
+--><span class="toggle" data-toggle="collapse" data-target="#more-sub"> <span class="caret-new"></span> </span>
+          			<ul class="nav-level-2-list collapse" id="more-sub" data-parent="#mobile-navigation" data-control=".with-subs.more-section">
+	          							          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/you-are-what-you-read	" >You are what you read</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/more/ebooks	" >eBooks</a> </li>
+				          						          					          					          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/offers	" >Offers</a> </li>
+				          						          					          					          					          													          		<li class="nav-level-2-item "><a href="			https://execjobs.irishtimes.com/
+	" >Jobs</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="			http://notices.irishtimes.com/
+	" >Family Notices</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/competitions	" >Competitions</a> </li>
+				          						          		        		</ul>
+                          		</li>
+                                                                                          <span class="mobile-divider"></span>
+                												            	<li class="nav-level-1  video-section  "><a href="		  
+				
+						/video	" ><i class='s-icon s-icon-video'></i>Video</a><!--
+-->          		</li>
+                                                                                          												            	<li class="nav-level-1 with-subs podcast-section  "><a href="		  
+				
+						/podcasts	" ><i class='s-icon s-icon-podcast'></i>Podcasts</a><!--
+--><span class="toggle" data-toggle="collapse" data-target="#podcast-sub"> <span class="caret-new"></span> </span>
+          			<ul class="nav-level-2-list collapse" id="podcast-sub" data-parent="#mobile-navigation" data-control=".with-subs.podcast-section">
+	          							          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/news/politics/inside-politics	" >Inside Politics</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/news/world/world-view	" >World View</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/sport/second-captains	" >Second Captains</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/business/business-podcast	" >Business</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/life-and-style/people/r%C3%B3is%C3%ADn-meets	" >Róisín Meets</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/culture/off-topic	" >Off Topic</a> </li>
+				          						          					          													          		<li class="nav-level-2-item "><a href="		  
+				
+						/life-and-style/people/the-women-s-podcast	" >The Women's Podcast</a> </li>
+				          						          		        		</ul>
+                          		</li>
+                                                                                          								            	<li class="nav-level-1  jobs-section  "><a href="			https://execjobs.irishtimes.com/
+	" target="blank">Executive Jobs</a><!--
+-->          		</li>
+          	    </ul>
+	    <span class="mobile-divider"></span>
+	    <ul class="mobile-nav nav-level-1 last">
+	      <li class="nav-level-1-item crosswords"><a href="/games/crosswords"><i class="s-icon s-icon-crossword"></i>Crosswords</a></li>
+	      <li class="nav-level-1-item newsletters"><a href="/newsletters"><i class="s-icon s-icon-newsletters"></i>Newsletters</a></li>
+	      <li class="nav-level-1-item notices"><a href="http://notices.irishtimes.com"><i class="s-icon s-icon-notices"></i>Notices</a></li>
+	    </ul>
+	  </nav>
+	</div>
+
+  <div id="pushdown-overlay">
+    <div class="search-pushdown toolbar-pushdown" id="search-pushdown">
+      <div class="container">
+                        
+                                    
+                <form action="/search/search-7.4195619" method="get" autocomplete="off">
+          <div>
+            <input type="text" name="q" id="header-search" autocorrect="off" autocapitalize="off" placeholder="Search" onfocus="this.placeholder = 'Search'" onblur="this.placeholder = 'Search'">
+            <button type="submit" class="btn sign-in"></button>
+          </div>
+        </form>
+      </div>
+      <!-- <div class="pushup close"><i class="s-icon s-icon-close"></i></div> -->
+    </div>
+    <div class="toolbar-pushdown signin-pushdown" id="signin-pushdown">
+      <div class="container">
+				<div class="signin-dropdown">
+        	<form action="https://www.irishtimes.com/auth-rest-api/v1/paywall/login" method="post" id="sign-inForm">
+          <div>
+						<input type="email" tabindex="1" name="signin__email" id="signin__email" autocorrect="off" autocapitalize="off" placeholder="Email Address" onfocus="this.placeholder = 'Email Address'" onblur="this.placeholder = 'Email Address'">
+						<label for="signin__email"  class="error" generated="true"></label>
+          </div>
+          <div>
+            <input type="password" tabindex="2" name="signin__password" id="signin__password" placeholder="Password" onfocus="this.placeholder = 'Password'" onblur="this.placeholder = 'Password'">
+						<label for="signin__password"  class="error" generated="true"></label>
+            <div class="forgot-pw">
+              <a href="/myaccount/forgot">Forgot Password?</a>
+            </div>
+          </div>
+            <button type="submit" tabindex="3" class="btn sign-in"><span>Sign In</span></button>
+        </form>
+        <div class="error">
+          <p>Invalid email or password.</p>
+        </div>
+				<div>
+					<span>Not an Irish Times subscriber? <a href="/digital-subscriptions">Subscribe</a></span>
+				</div>
+      </div>
+			</div>
+    </div>
+
+	<div class="toolbar-pushdown myaccount-pushdown" id="myaccount-pushdown">
+      <div class="container">
+		<div class="myservices row">
+				<ul>
+
+				<li class="soa">
+					<a href="/your-subscription/subscriber-only-articles">
+						<b>Subscriber Only Articles</b>
+						<span>Specially selected and available only to our subscribers</span>
+					</a>
+				</li>
+
+        <li class="benefit">
+            <a href="/subscriber-rewards">
+              <b>Subscriber Rewards</b>
+              <span>Exclusive offers, discounts and invitations</span>
+            </a>
+          </li>
+
+        <li class="subscriber-tour">
+            <a href="/your-subscription/subscription-tour">
+              <b>Subscriber Tour</b>
+              <span>Explore the features of your subscription</span>
+            </a>
+        </li>
+
+        <li class="crossword">
+            <a href="/games/crosswords">
+              <b>Crossword Club</b>
+              <span>Digital Simplex and Crosaire crosswords</span>
+            </a>
+          </li>
+
+        
+        <li class="archive">
+					<a href="/premium/loginpage">
+						<b>Newspaper Archive</b>
+						<span>150 years of Irish Times journalism</span>
+					</a>
+				</li>
+
+        <li class="myaccount">
+            <a href="/myaccount">
+              <b>My Account</b>
+              <span>Manage your account</span>
+            </a>
+          </li>
+
+
+        <li class="itsunday">
+            <a href="/it-sunday">
+              <b>IT Sunday</b>
+              <span>Your weekly email exclusively curated for subscribers</span>
+            </a>
+          </li>
+
+					<li class="ebooks">
+						<a href="/more/ebooks">
+							<b>eBooks</b>
+							<span>Carefully curated selections of Irish Times writing</span>
+						</a>
+					</li>
+
+					<li class="newsletters">
+						<a href="/newsletters">
+							<b>Email Newsletters</b>
+							<span>Sign up to get the stories you want delivered to your inbox</span>
+						</a>
+					</li>
+					
+					<li class="e-paper">
+						<a id="epaper-app" href="/epaper">
+							<b>The ePaper</b>
+							<span>An exact digital replica of the printed paper</span>
+						</a>
+					</li>
+
+					<li class="breaking-news">
+						<a id="bnews-app" href="/apps">
+							<b>Breaking news app</b>
+							<span>Our <em>Apple and Android</em> app<em>s</em> to read on the go</span>
+						</a>
+					</li>
+
+					<li class="signout">
+						<a id="activate-signout" href="#">Sign Out</a>
+					</li>
+
+				</ul>
+		</div>
+
+      </div>
+      <!-- <div class="pushup close"><i class="s-icon s-icon-close"></i></div>-->
+    </div>
+
+  </div> <!-- / #pushdown-overlay -->
+
+      
+  
+      		
+
+	<!-- <script src="//s7.addthis.com/js/250/addthis_widget.js#username=irishtimes"></script> -->
+	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=irishtimes" async="async"></script>
+	
+	
+		<script src="/assets/js/addthis-config.js?rev=20180313T104847"></script> 
+	
+
+<script>
+    var refreshed = false;
+
+    var adAlmostVisibleScrollValue = 300;
+
+    var listener = function() {
+        if (window.scrollY >= adAlmostVisibleScrollValue && !refreshed) {
+            googletag.cmd.push(function() {
+                adLazyloaded.forEach(function(element){
+                    googletag.pubads().refresh([element]);
+				});
+            });
+            refreshed = true;
+
+            window.removeEventListener('scroll', listener);
+        }
+    }
+    window.addEventListener('scroll', listener);
+			</script>
+</body>
+</html>

@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#" xmlns:article="http://ogp.me/ns/article#" itemscope itemtype="http://schema.org/Article">
+<head>
+<meta charset="UTF-8">
+<link rel="dns-prefetch" href="//ads.pubmatic.com" />
+<link rel="dns-prefetch" href="//gads.pubmatic.com" />
+<link rel="dns-prefetch" href="//t.pubmatic.com" />
+<link rel="dns-prefetch" href="//showads.pubmatic.com" />
+	<!-- Google analytics starts for financialexpress.com -->
+	<script type="text/javascript" data-cfasync="false">
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-1403607-4', 'auto');
+		ga('send', 'pageview');
+	</script>
+	<!-- Google analytics ends -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>39 Indians killed by ISIS in Iraq; most of them were from Punjab, says Sushma Sushma Swaraj - The Financial Express</title>
+	<link rel="shortcut icon" href="http://www.financialexpress.com/wp-content/themes/vip/financialexpress/images/favicon.ico.png" />
+	<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	<![endif]-->
+		<meta name="robots" content="NOODP" />
+		<meta name="google-site-verification" content="nnS9ohdeMSGDdh9sLRZN1ESq4TvpuADVGHNCL4k2dRY" />
+	<!--  Banner ad code -->
+			<script type="text/javascript">
+			var story_id = 1104740;
+		</script>
+			<script>
+		var PWT={}; //Initialize Namespace
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		PWT.jsLoaded = function(){ //PubMatic pwt.js on load callback is used to load GPT
+			(function() {
+				var gads = document.createElement('script');
+				var useSSL = 'https:' == document.location.protocol;
+				gads.async = true;
+				gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+				var node = document.getElementsByTagName('script')[0];
+				node.parentNode.insertBefore(gads, node);
+			})();
+		};
+		(function() {
+		    var purl = window.location.href;
+		    var url = '//ads.pubmatic.com/AdServer/js/pwt/156021/116';
+		    var profileVersionId = '';
+		    if(purl.indexOf('pwtv=')>0){
+		        var regexp = /pwtv=(.*?)(&|$)/g;
+		        var matches = regexp.exec(purl);
+		        if(matches.length >= 2 && matches[1].length > 0){
+		            profileVersionId = '/'+matches[1];
+		        }
+		    }
+		    var wtads = document.createElement('script');
+		    wtads.async = true;
+		    wtads.type = 'text/javascript';
+		    wtads.src = url+profileVersionId+'/pwt.js';
+		    var node = document.getElementsByTagName('script')[0];
+		    node.parentNode.insertBefore(wtads, node);
+		})();
+	</script>
+		
+<meta name="description" content="39 Indians killed by ISIS in Mosul, Iraq: Union foreign minister Sushma Swaraj on Tuesday said that 39 Indians stranded in Mosul (Iraq) were killed by ISIS. The minister said this in her statement in the Rajya Sabha." />
+<meta name="news_keywords" content="ISIS, IRAQ, MOSUL, SWARAJ, 39 indians killed in iraq, indian killed in iraq, sushma swaraj" />
+<meta name="keywords" content="isis, iraq, mosul, swaraj, 39 indians killed in iraq, indian killed in iraq, sushma swaraj" />
+<!-- Jetpack Site Verification Tags -->
+<meta name="msvalidate.01" content="CCA9DA5B985004F4462DA743E776C636" />
+<link rel="publisher" href="https://plus.google.com/+financialexpress" /><meta property="og:type" content="article" />
+		<meta property="og:url" content="http://www.financialexpress.com/india-news/39-indians-killed-by-isis-in-mosul-iraq-sushma-swaraj-in-parliament/1104740/" />
+					<meta property="og:site_name" content="The Financial Express" />
+					<meta property="og:title" content="39 Indians killed by ISIS in Iraq; most of them were from Punjab, says Sushma Sushma&nbsp;Swaraj" />
+					<meta property="og:image" content="http://images.financialexpress.com/2018/03/SWARAJ.jpg" />
+			<meta property="og:image:type" content="image/jpeg" />
+			<meta property="og:image:width" content="480" />
+			<meta property="og:image:height" content="267" />
+			<meta property="og:description" content="39 Indians killed by ISIS in Mosul, Iraq: Union foreign minister Sushma Swaraj on Tuesday said that 39 Indians stranded in Mosul (Iraq) were killed by ISIS. The minister said this in her statement in the Rajya Sabha. " />
+		<meta property="og:updated_time" content="2018-03-20T18:54:57+05:30" /><meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:site" content="@FinancialXpress">
+		<meta name="twitter:creator" content="@FinancialXpress" />
+		<meta name="twitter:url" content="http://www.financialexpress.com/india-news/39-indians-killed-by-isis-in-mosul-iraq-sushma-swaraj-in-parliament/1104740/">
+		<meta name="twitter:title" content="39 Indians killed by ISIS in Iraq; most of them were from Punjab, says Sushma Sushma&nbsp;Swaraj">
+		<meta name="twitter:description" content="39 Indians killed by ISIS in Mosul, Iraq: Union foreign minister Sushma Swaraj on Tuesday said that 39 Indians stranded in Mosul (Iraq) were killed by ISIS. The minister said this in her statement in the Rajya Sabha. ">
+		<meta name="twitter:image" content="http://images.financialexpress.com/2018/03/SWARAJ.jpg"><meta itemprop="description" content="39 Indians killed by ISIS in Mosul, Iraq: Union foreign minister Sushma Swaraj on Tuesday said that 39 Indians stranded in Mosul (Iraq) were killed by ISIS. The minister said this in her statement in the Rajya Sabha. ">
+				<meta itemprop="author" content="FE Online"><meta itemprop="mainEntityOfPage" content="http://www.financialexpress.com/india-news/39-indians-killed-by-isis-in-mosul-iraq-sushma-swaraj-in-parliament/1104740/"><meta itemprop="name" content="The Financial Express">
+<meta property="article:published_time" content="2018-03-20T11:12:39+05:30" />
+<meta property="article:modified_time" content="2018-03-20T18:54:57+05:30" />
+<meta itemprop="url" content="http://www.financialexpress.com/india-news/39-indians-killed-by-isis-in-mosul-iraq-sushma-swaraj-in-parliament/1104740/" />
+<meta itemprop="headline" content="39 Indians killed by ISIS in Iraq; most of them were from Punjab, says Sushma Sushma&nbsp;Swaraj" />
+<meta itemprop="datePublished" content="2018-03-20T11:12:39+05:30" />
+<meta itemprop="dateModified" content="2018-03-20T18:54:57+05:30" />
+<meta itemprop="inLanguage" content="English" />
+<meta http-equiv="Last-Modified" content="2018-03-20T18:54:57+05:30"/>
+<meta itemprop="articleSection" content="India news" />
+<!-- This site is optimized with the Yoast SEO plugin v3.3.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="The Financial Express &raquo; Feed" href="http://www.financialexpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Financial Express &raquo; Comments Feed" href="http://www.financialexpress.com/comments/feed/" />
+<link rel='stylesheet' id='fe-style-story-2016-css-css'  href='http://www.financialexpress.com/wp-content/themes/vip/financialexpress/css/style-story-2016.css?ver=5.12' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://www.financialexpress.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.0.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.financialexpress.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script src="http://www.financialexpress.com/wp-content/themes/vip/financialexpress/plugins/ie-async-google-ads/js/others_single.js?ver=5.6.51" async type="text/javascript"></script>
+<script src="http://www.financialexpress.com/wp-content/themes/vip/financialexpress/js/jquery.bxslider.min.js?ver=4.1" async type="text/javascript"></script>
+<script src="http://www.financialexpress.com/wp-content/themes/vip/financialexpress/js/impulse-article.js?ver=4.7.2" async type="text/javascript"></script>
+<script src="http://www.financialexpress.com/wp-content/themes/vip/financialexpress/js/ismobile_min.js?ver=3.1" async type="text/javascript"></script>
+<script src="http://www.financialexpress.com/wp-content/themes/vip/financialexpress/js/fe-scripts.js?ver=5.6" async type="text/javascript"></script>
+<link rel='https://api.w.org/' href='http://www.financialexpress.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.financialexpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.financialexpress.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.2" />
+<link rel="alternate" type="application/json+oembed" href="http://www.financialexpress.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.financialexpress.com%2Findia-news%2F39-indians-killed-by-isis-in-mosul-iraq-sushma-swaraj-in-parliament%2F1104740%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.financialexpress.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.financialexpress.com%2Findia-news%2F39-indians-killed-by-isis-in-mosul-iraq-sushma-swaraj-in-parliament%2F1104740%2F&#038;format=xml" />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<meta itemprop="thumbnailUrl" content="http://images.financialexpress.com/2018/03/SWARAJ.jpg?w=200" />			<meta property="fb:pages" content="157671354275436" />
+							<meta property="ia:markup_url_dev" content="http://www.financialexpress.com/india-news/39-indians-killed-by-isis-in-mosul-iraq-sushma-swaraj-in-parliament/1104740/?ia_markup=1" />
+						<style>
+			.wpcom-related-posts ul li {
+				list-style-type: none;
+				display: inline-block;
+			}
+		</style>
+		<link rel="canonical" href="http://www.financialexpress.com/india-news/39-indians-killed-by-isis-in-mosul-iraq-sushma-swaraj-in-parliament/1104740/" />
+<link rel="amphtml" href="http://www.financialexpress.com/india-news/39-indians-killed-by-isis-in-mosul-iraq-sushma-swaraj-in-parliament/1104740/lite/" />		<!-- Begin comScore Tag -->
+		<script data-cfasync="false">
+			var _comscore = _comscore || [];
+			_comscore.push({ c1: "2", c2: "8738137" });
+			(function() {
+			var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+			s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+			el.parentNode.insertBefore(s, el);
+			})();
+		</script>
+		<noscript>
+			<img src="http://b.scorecardresearch.com/p?c1=2&c2=8738137&cv=2.0&cj=1" alt="" />
+		</noscript>
+		<!-- End comScore Tag -->
+	<script>document.createElement('article'); document.createElement('section'); document.createElement('aside'); document.createElement('hgroup'); document.createElement('nav'); document.createElement('header'); document.createElement('footer'); document.createElement('figure'); document.createElement('figcaption');</script>
+			<!-- Quora Pixel Code (JS Helper) -->
+		<script>
+		!function(q,e,v,n,t,s){if(q.qp) return; n=q.qp=function(){n.qp?n.qp.apply(n,arguments):n.queue.push(arguments);}; n.queue=[];t=document.createElement(e);t.async=!0;t.src=v; s=document.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s);}(window, 'script', 'https://a.quora.com/qevents.js');
+		qp('init', 'd7d38805b839435b81309c84cde6934f');
+		qp('track', 'ViewContent');
+		</script>
+		<noscript><img height="1" width="1" style="display:none" src="https://q.quora.com/_/ad/d7d38805b839435b81309c84cde6934f/pixel?tag=ViewContent&noscript=1"/></noscript>
+		<!-- End of Quora Pixel Code -->
+	<!--
+	generated in 1.315 seconds
+	56873 bytes batcached for 60 seconds
+-->
+</head>
+<body>
+		<header>
+		<div id="fixedMenu" class="topbar">
+			<div class="fe-wrapper">
+				<nav id="nav">
+					<div class="navicon sprite-new">SECTIONS</div>
+					<ul id="navbar">
+						<li><a href="/">Home</a></li>
+						<li><a href="/budget/">Budget 2018</a></li>
+						<li><a href="/income-tax-calculator/">Income Tax Calculator</a></li>
+						<li><a href="/market/">Market</a></li>
+						<li><a href="/industry/companies/">Companies</a></li>
+						<li><a href="/economy/">Economy</a></li>
+						<li><a href="/industry/tech/">Tech</a></li>
+						<li><a href="/auto/">Auto</a></li>
+						<li><a href="/mutual-fund/">Mutual Funds</a></li>
+						<li><a href="/stock-market/">Stocks</a></li>
+						<li><a href="/currency/">Currency</a></li>
+						<li><a href="/print/edits-columns/">Opinions</a></li>
+						<li><a href="/elections/">Elections 2017</a></li>
+						<li><a href="/todays-paper/">Todays Paper</a></li>
+						<li><a href="http://epaper.financialexpress.com/">E-Paper</a></li>
+						<li><a href="/astrotype/daily/">Horoscope</a></li>
+						<li><a href="/photos/">Photos</a></li>
+						<li><a href="/videos/">Video</a></li>
+						<li><a href="/photo-news/">Photo Story</a></li>
+						<li>
+							<ul class="lang-menu">
+								<li class="selected"><a title="English" href="http://www.financialexpress.com/"><span class="eng-font">English</span></a></li>
+								<li><a href="http://www.financialexpress.com/hindi/" title="हिन्दी"><span class="hin-font">हिन्दी</span></a></li>
+							</ul>
+						</li>
+					</ul>
+				</nav>
+				<h2 itemprop="publisher" itemscope itemtype="http://schema.org/Organization" class="logo">
+					<span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+						<meta itemprop="url" content="http://www.financialexpress.com/wp-content/themes/vip/financialexpress/images/financialexpress-logo.png">
+						<meta itemprop="name" content="The Financial Express">
+					</span >
+					<meta itemprop="name" content="The Financial Express" />
+					<a itemprop="url" href="/" title="Business News"><img src="http://www.financialexpress.com/wp-content/themes/vip/financialexpress/images/fe-new-logo-rtl.svg" alt="Business News" /></a>
+					<span class="lang-toggle"><a href="http://www.financialexpress.com/hindi/">हिन्दी</a></span>
+				</h2>
+				<div class="rightbar">
+					<div class="socialbx">
+						<a href="https://www.facebook.com/thefinancialexpress" target="_blank"><i class="fa fa-facebook"></i></a>
+						<a href="https://twitter.com/FinancialXpress" target="_blank"><i class="fa fa-twitter"></i></a>
+						<a href="https://plus.google.com/+financialexpress" target="_blank"><i class="fa fa-google-plus"></i></a>
+						<div class="navdd-div"><a href="#" target="_blank"><i class="fa fa-search"></i></a>
+						<div class="navdd">
+							<div class="m-search"><i class="fa fa-search"></i></div>
+							<div class="searchbx">
+								<form action="/" id="searchform" class="searchform" method="get" role="search">
+									<input type="text" placeholder="Search" title="&nbsp;search" value="" name="s" id="searchQval" class="search-txt">
+									<input type="image" alt="search" class="search-icon" src="http://www.financialexpress.com/wp-content/themes/vip/financialexpress/images/search-icon1.png" name="sa">
+								</form>
+							</div>
+						</div>
+					</div>
+					</div>
+				</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="fe-wrapper">
+			<div class="adsstorytopbx">
+							<div class='adsbx970x90 remove_on_mobile' id='div-gpt-ad-1452144880051-2' >				<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-1452144880051-2'); });</script>
+				</div><div class='adsbx970x90 remove_on_mobile' id='div-gpt-ad-1517308328843-0' >				<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-1517308328843-0'); });</script>
+				</div>								<div class="clear"></div>
+		</div>
+		</div>
+	</header>
+	<div class="fe-wrapper">
+				<div id="breaking_ticker_inline" class="breaking_ticker_inline"></div>
+			<ol class="fe-breadcrumb"><li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://www.financialexpress.com" itemprop="url"><span itemprop="title">Home</span></a></li><li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://www.financialexpress.com/india-news/" itemprop="url"><span itemprop="title">India news</span></a> </li><li class="bdcmb-title"><span>39 Indians killed by ISIS in Iraq; most of them were from Punjab, says Sushma Sushma&nbsp;Swaraj</span></li></ol>	
+	<!--container 1 start-->
+	<div class="fe-leftpanel">
+				<div class="storybox">
+			<div class="commentbx">
+			</div>
+			<h1 itemprop="headline">39 Indians killed by ISIS in Iraq; most of them were from Punjab, says Sushma Sushma&nbsp;Swaraj</h1>
+			<h2 class="synopsis">39 Indians killed by ISIS in Mosul, Iraq: Union foreign minister Sushma Swaraj on Tuesday said that 39 Indians stranded in Mosul (Iraq) were killed by ISIS. The minister said this in her statement in the Rajya Sabha. </h2>
+						<div class="datebx">
+				<span>By: </span><a href="http://www.financialexpress.com/author/feonline/" title="Posts by FE Online" class="url fn" rel="author">FE Online</a> | 				 
+				<span itemprop="dateModified" content="2018-03-20T18:54:57+05:30">
+					Updated: March 20, 2018 6:54 PM				</span>
+			</div>
+			<script> var s_post_id = 1104740; </script>
+			<div class="append_social_share"></div>
+			<div  id='div-gpt-ad-1452144880051-11' >				<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-1452144880051-11'); });</script>
+				</div>			<div class="custom-caption">
+				<span itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+							<meta itemprop="url" content="http://images.financialexpress.com/2018/03/SWARAJ.jpg" />
+							<meta itemprop="width" content="660"/>
+							<meta itemprop="height" content="440"/>
+						</span>				<div class="main-story-content" itemprop="articleBody">
+					<div class="custom-caption"><section class="imgsection alignnone"><figure><img class="size-full wp-image-1104744" src="http://images.financialexpress.com/2018/03/SWARAJ.jpg" alt="ISIS, IRAQ, MOSUL, SWARAJ, 39 indians killed in iraq, indian killed in iraq, sushma swaraj" srcset="http://images.financialexpress.com/2018/03/SWARAJ.jpg 660w, http://images.financialexpress.com/2018/03/SWARAJ-300x200.jpg 300w, http://images.financialexpress.com/2018/03/SWARAJ-620x413.jpg 620w, http://images.financialexpress.com/2018/03/SWARAJ-401x267.jpg 401w" sizes="(max-width: 660px) 100vw, 660px" /> Islamic State of Iraq and Syria has killed 39 Indian it has kidnapped in Iraq, External Affairs Minister Sushma Swaraj.</figure><div class="clear"></div>
+			</section></div>
+<p>Union foreign minister Sushma Swaraj on Tuesday said that 39 Indians stranded in Mosul (Iraq) were killed by ISIS. The minister said this in her statement in the Rajya Sabha. Swaraj also said that the stranded Indians were kidnapped and most of them were from Punjab. The Union minister said that the bodies of the deceased were exhumed and DNA samples sent for forensic test. The 39 Indians were kidnapped by ISIS in Mosul in 2014. Until October last year, both India and Iraq had contended that the 39 people were alive. The relatives of the 39 Indians were made to undergo DNA test last year.</p>
+<p>Swaraj told Parliament that MoS EAM, General VK Singh, will go to Iraq to bring back mortal remains. &#8220;General VK Singh will go to Iraq to bring back mortal remains of Indians killed in Iraq. The plane carrying mortal remains will first go to Amritsar, then to Patna and then to Kolkata,&#8221; Swaraj said.</p>
+<p>She further said that mortal remains of deceased were kept in Baghdad. The government had sent DNA samples of relatives for the purpose of verification of bodies. Along with the Central, four state governments &#8211; Punjab, Himachal Pradesh, West Bengal and Bihar &#8211; were also involved in the process. Deep penetration radar confirmed that all Indians were dead after all bodies were exhumed, Swaraj said.</p>
+<p>Reacting to Swaraj&#8217;s statement, Punjab Chief Minister Amarinder Singh took to Twitter and offered his condolences. &#8220;Shattered at the heart-wrenching news from Sushma Swaraj that the 39 Indians missing in Iraq, most of whom were Punjabis, are dead,&#8221; Singh said. &#8220;My heart goes out to the families who had been living in hope since their reported abduction by ISIS in 2014. Prayers with all of them,&#8221; he added.</p>
+<p>Taking to Twitter, <a target="_blank" href="http://www.financialexpress.com/tag/congress/">Congress</a> MP Sashi Tharoor targeted the government for giving false hope to the nation. &#8220;Sad news of the confirmation of the deaths of 39 Indians in Iraq. Thoughts &amp; prayers are w/their families. But why  did the Govt give false hope to the nation for three and a half years that the people were still alive? That was disappointing behaviour. (sic)&#8221; Tharoor said.</p>
+<p>Check Amarinder Singh&#8217;s Tweet:</p>
+<blockquote class="twitter-tweet" data-lang="en">
+<p dir="ltr" lang="en">Shattered at the heart-wrenching news from <a href="http://twitter.com/SushmaSwaraj?ref_src=twsrc%5Etfw" rel="nofollow">@SushmaSwaraj</a> that the 39 Indians missing in Iraq, most of whom were Punjabis, are dead. My heart goes out to the families who had been living in hope since their reported abduction by ISIS in 2014. Prayers with all of them.</p>
+<p>— Capt.Amarinder Singh (@capt_amarinder) <a href="http://twitter.com/capt_amarinder/status/975977614417584129?ref_src=twsrc%5Etfw" rel="nofollow">March 20, 2018</a></p></blockquote>
+<p><script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Amid reports of the death of the 39 Indians, Swaraj had told Parliament in July 2017 that she would not declare that the 39 Indians were dead without concrete proof or evidence. &#8220;It is a sin to declare a person dead without concrete evidence. I will not do this sin,” Swaraj had said in her statement in the Lok Sabha.</p>
+<p>She added that the government wouldcontinue its efforts to trace the Indians. She had told the Parliament that file will not close till there is proof that the 39 Indians are dead. Earlier, Opposition had said that Swaraj misled the Parliament. Earlier, New Delhi had sought Iraq&#8217;s help in locating the missing Indians after Iraqi forces recaptured Mosul from IS. The 39 people, most of whom hailed from Punjab, were working as laborers near Mosul, when they were kidnapped during their evacuation.</p>
+				</div>
+				<div class="common-bottom-text"><p>Get live <a href="http://www.financialexpress.com/market/stock-market/" target="_blank">Stock Prices</a> from BSE and NSE and latest NAV, portfolio of <a href="http://www.financialexpress.com/mutual-funds-india/" target="_blank">Mutual Funds</a>, calculate your tax by <a href="http://www.financialexpress.com/income-tax-calculator/" target="_blank">Income Tax Calculator</a>, know market’s <a href="http://www.financialexpress.com/market/stock-market/nse-top-gainers/" target="_blank">Top Gainers</a>, <a href="http://www.financialexpress.com/market/stock-market/nse-top-losers/" target="_blank">Top Losers</a> & <a href="http://www.financialexpress.com/mutual-funds-india/equity-funds/" target="_blank">Best Equity Funds</a>. Like us on <a href=" https://www.facebook.com/thefinancialexpress" target="_blank">Facebook</a> and follow us on <a href=" https://twitter.com/FinancialXpress" target="_blank">Twitter</a>.</p></div>
+												<div class="clear"></div>
+				<div class="youmaylike"> </div>
+				<!-- story tags -->
+				<script type="text/javascript">
+				/////like dislike event tracking
+				jQuery(document).ready( function() {
+					jQuery("div[id^='pd_rating_holder_'] .rating-nero-icon").click(function(){
+						var id = jQuery(this).attr("id").split("_");
+						var key = parseInt(id.length)-1;
+						var action = id[key] ==1 ? "Like" : "Dislike";
+						var title = jQuery("h1").text();
+						if(typeof(_gaq)!=undefined){
+							_gaq.push(['_trackEvent', 'Article', action, title]);
+						}
+						});
+				});
+				</script>
+								<div class="OUTBRAIN" data-src="http://www.financialexpress.com/india-news/39-indians-killed-by-isis-in-mosul-iraq-sushma-swaraj-in-parliament/1104740/" data-widget-id="AR_1" data-ob-template="TheFinancialExpress" ></div>
+				<div class="OUTBRAIN" data-src="http://www.financialexpress.com/india-news/39-indians-killed-by-isis-in-mosul-iraq-sushma-swaraj-in-parliament/1104740/" data-widget-id="AR_2" data-ob-template="TheFinancialExpress" ></div>
+				<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+				
+												
+																					<div id="tie_topcommentlist" class="tie_topcommentlist commentlist-box"></div>
+												<div id="com-fb-root"></div>
+						<div class="commentlist-box commentlist_container mb25"><ol class="commentlist" id="topcommentlist_1104740">
+			<li class="user-main-cmtbox"><article class="comment-body com_firt">
+				<div class="comment-author"><img width="56" height="56" class="userimgbox" src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50"><div class="commenter-name">baldeep singh</div></div><div class="datetime">Mar 20, 2018 at 9:44 pm</div><div class="comment-content">Now, we need to do air strike in Iraq</div><div class="reply comment_reply" contentid="1104740" superrootid="2791155" pslideid="" commentlevel="1" attrid="2791155"> Reply</div></article><ol class="reply_comment com_children" id="comment_2791155"></ol></li>
+			
+			<li class="user-main-cmtbox"><article class="comment-body ">
+				<div class="comment-author"><img width="56" height="56" class="userimgbox" src="https://lh5.googleusercontent.com/-ePoT_SLWEzk/AAAAAAAAAAI/AAAAAAAAAA8/huibB4-XqGU/photo.jpg?sz=50"><div class="commenter-name">AMIYA KUMAR DEKA</div></div><div class="datetime">Mar 20, 2018 at 8:31 pm</div><div class="comment-content">Hold on boys. Wonder why the youths mostly from the state of Punab,  have been going abroad (countries like Canada, Saudi Arabia, UAE etc) by  ing their ancestral lands and paying fraud travel agents/ recruiting agents, just to get labourer's  s ! Most of them eventually become pennyless,  less and st ed with their Passport surrendered to tge fraudsters. This particular Group of youths left Punab in 2013 and eventually fell into the clutces of ISIS. Present Govt has been trying all possible means for last 3 years to rescue them as disclosed by MEA from time to time, but didn't succeed. RIP. No one should play politics over this issue. Political and Social leaders and intellectuals have failed miserably inpast decades, to create awareness among the public about the hazards of illegal migration.</div><div class="reply comment_reply" contentid="1104740" superrootid="2791044" pslideid="" commentlevel="1" attrid="2791044"> Reply</div></article><ol class="reply_comment com_children" id="comment_2791044"></ol></li>
+			
+			<li class="user-main-cmtbox"><article class="comment-body ">
+				<div class="comment-author"><img width="56" height="56" class="userimgbox" src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50"><div class="commenter-name">Sagar Kumar</div></div><div class="datetime">Mar 20, 2018 at 6:14 pm</div><div class="comment-content">Bhakton phat gayi kya?</div><div class="reply comment_reply" contentid="1104740" superrootid="2790865" pslideid="" commentlevel="1" attrid="2790865"> Reply</div></article><ol class="reply_comment com_children" id="comment_2790865"></ol></li>
+			
+			<li class="user-main-cmtbox"><article class="comment-body ">
+				<div class="comment-author"><img width="56" height="56" class="userimgbox" src="https://graph.facebook.com/119377988892561/picture"><div class="commenter-name">Vimal Sehgal</div></div><div class="datetime">Mar 20, 2018 at 4:15 pm</div><div class="comment-content">World wide jihad in action. Beware.</div><div class="reply comment_reply" contentid="1104740" superrootid="2790822" pslideid="" commentlevel="1" attrid="2790822"> Reply</div></article><ol class="reply_comment com_children" id="comment_2790822"></ol></li>
+			
+			<li class="user-main-cmtbox"><article class="comment-body ">
+				<div class="comment-author"><img width="56" height="56" class="userimgbox" src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=50"><div class="commenter-name">sonam Gupta</div></div><div class="datetime">Mar 20, 2018 at 1:14 pm</div><div class="comment-content">It  took 4 years for indian government for just to prove that Indians in IRAQ was dead 4 years back.. Very bad.. Families for that 39 Indians was just expecting that their son, husband, father is alive.</div><div class="reply comment_reply" contentid="1104740" superrootid="2790512" pslideid="" commentlevel="1" attrid="2790512"> Reply</div></article><ol class="reply_comment com_children" id="comment_2790512"></ol></li>
+			
+			<li class="user-main-cmtbox"><article class="comment-body ">
+				<div class="comment-author"><img width="56" height="56" class="userimgbox" src="https://graph.facebook.com/10214064704725138/picture"><div class="commenter-name">Uma Maheswar Nakka</div></div><div class="datetime">Mar 20, 2018 at 11:30 am</div><div class="comment-content">Very sad indeed, reading this bad news that ISIS killed so many people and all were Indians.</div><div class="reply comment_reply" contentid="1104740" superrootid="2790229" pslideid="" commentlevel="1" attrid="2790229"> Reply</div></article><ol class="reply_comment com_children" id="comment_2790229"></ol></li>
+			<li id="loading_more">Load More Comments</li></ol></div>
+																		</div>
+		</div>
+	</div>
+	<aside class="fe-rightpanel">  
+		<div class='aside ad300x250 visible-md visible-lg' id='div-gpt-ad-1452144880051-0' >				<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-1452144880051-0'); });</script>
+				</div><div class="gallery-section-box"><div class="title-head"><a href="http://www.financialexpress.com/budget">Budget 2018</a></div><div class="gallery-thumb"><ul><li><a href="http://www.financialexpress.com/budget/budget-passed-in-lok-sabha-without-discussion-finance-bill-appropriation-bill-passed-by-voice-vote/1098201/"><img src="http://images.financialexpress.com/2018/03/par-ir-300x200.jpg?w=100" title="Budget passed in Lok Sabha without discussion; Finance bill, Appropriation bill passed by voice&nbsp;vote">
+				</a><strong><a href="http://www.financialexpress.com/budget/budget-passed-in-lok-sabha-without-discussion-finance-bill-appropriation-bill-passed-by-voice-vote/1098201/">Budget passed in Lok Sabha without discussion; Finance bill, Appropriation bill passed by voice&nbsp;vote</a></strong></li><li><a href="http://www.financialexpress.com/budget/assam-budget-proposes-new-schemes-for-women-education-sector/1096318/"><img src="http://images.financialexpress.com/2018/03/sector-reuters-300x200.jpg?w=100" title="Assam Budget proposes new schemes for women, education&nbsp;sector">
+				</a><strong><a href="http://www.financialexpress.com/budget/assam-budget-proposes-new-schemes-for-women-education-sector/1096318/">Assam Budget proposes new schemes for women, education&nbsp;sector</a></strong></li><li><a href="http://www.financialexpress.com/budget/assam-finance-minister-to-present-first-e-budget-tomorrow/1094871/"><img src="http://images.financialexpress.com/2018/03/assam-pti-300x200.jpg?w=100" title="Assam Finance Minister to present first e-Budget&nbsp;tomorrow">
+				</a><strong><a href="http://www.financialexpress.com/budget/assam-finance-minister-to-present-first-e-budget-tomorrow/1094871/">Assam Finance Minister to present first e-Budget&nbsp;tomorrow</a></strong></li><li><a href="http://www.financialexpress.com/budget/no-fresh-tax-in-rs-41440-cr-himachal-budget-for-2018-19/1093409/"><img src="http://images.financialexpress.com/2018/03/Thakur0IE-300x200.jpg?w=100" title="No fresh tax in Rs 41,440 cr Himachal budget for&nbsp;2018-19">
+				</a><strong><a href="http://www.financialexpress.com/budget/no-fresh-tax-in-rs-41440-cr-himachal-budget-for-2018-19/1093409/">No fresh tax in Rs 41,440 cr Himachal budget for&nbsp;2018-19</a></strong></li><li><a href="http://www.financialexpress.com/budget/andhra-pradesh-budget-2018-ysr-congress-to-boycott-session-starting-tomorrow/1087202/"><img src="http://images.financialexpress.com/2018/03/AP-PTI-300x200.jpg?w=100" title="Andhra Pradesh Budget 2018: YSR Congress to boycott session starting&nbsp;tomorrow">
+				</a><strong><a href="http://www.financialexpress.com/budget/andhra-pradesh-budget-2018-ysr-congress-to-boycott-session-starting-tomorrow/1087202/">Andhra Pradesh Budget 2018: YSR Congress to boycott session starting&nbsp;tomorrow</a></strong></li><li><a href="http://www.financialexpress.com/budget/budget-2018-opposition-set-to-corner-government-in-parliament-on-financial-scams/1087180/"><img src="http://images.financialexpress.com/2018/03/Parliament-pti-300x200.jpg?w=100" title="Budget 2018: Opposition set to corner government in Parliament on financial&nbsp;scams">
+				</a><strong><a href="http://www.financialexpress.com/budget/budget-2018-opposition-set-to-corner-government-in-parliament-on-financial-scams/1087180/">Budget 2018: Opposition set to corner government in Parliament on financial&nbsp;scams</a></strong></li><li><a href="http://www.financialexpress.com/budget/budget-2018-upas-and-ndas-starkly-differing-priorities/1087824/"><img src="http://images.financialexpress.com/2018/03/JAITLEY-FEB-1-2-1-300x200.jpg?w=100" title="Budget 2018: UPA’s and NDA’s starkly differing&nbsp;priorities">
+				</a><strong><a href="http://www.financialexpress.com/budget/budget-2018-upas-and-ndas-starkly-differing-priorities/1087824/">Budget 2018: UPA’s and NDA’s starkly differing&nbsp;priorities</a></strong></li><li><a href="http://www.financialexpress.com/budget/why-universities-need-better-budgetary-support/1079059/"><img src="http://images.financialexpress.com/2018/02/du-1-300x200.jpg?w=100" title="Why universities need better budgetary&nbsp;support">
+				</a><strong><a href="http://www.financialexpress.com/budget/why-universities-need-better-budgetary-support/1079059/">Why universities need better budgetary&nbsp;support</a></strong></li><li><a href="http://www.financialexpress.com/budget/budget-2018-madhya-pradesh-assemblys-financial-session-to-begin-tomorrow/1078874/"><img src="http://images.financialexpress.com/2018/02/Budget-2018-pti-300x200.jpg?w=100" title="Budget 2018: Madhya Pradesh Assembly&#8217;s financial session to begin&nbsp;tomorrow">
+				</a><strong><a href="http://www.financialexpress.com/budget/budget-2018-madhya-pradesh-assemblys-financial-session-to-begin-tomorrow/1078874/">Budget 2018: Madhya Pradesh Assembly&#8217;s financial session to begin&nbsp;tomorrow</a></strong></li></ul></div></div><div class='aside ad300x250 visible-md visible-lg' id='div-gpt-ad-1452144880051-3' >				<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-1452144880051-3'); });</script>
+				</div><aside><div class="inthenews"><div class="title-head">Don't Miss</div><ul><li><a href="http://www.financialexpress.com/infrastructure/airlines-aviation/how-airfares-soared-amid-cancellation-of-flights/1105745/"><img src="http://images.financialexpress.com/2018/03/air.jpg?w=100" alt="How airfares soared amid cancellation of flights" /></a><strong><a href="http://www.financialexpress.com/infrastructure/airlines-aviation/how-airfares-soared-amid-cancellation-of-flights/1105745/">How airfares soared amid cancellation of flights</a></strong></li><li><a href="http://www.financialexpress.com/opinion/services-and-digitisation-the-next-big-engines-of-job-creation/1105675/"><img src="http://images.financialexpress.com/2018/03/JOB-300x200.jpg?w=100" alt="Services and Digitisation: The next big engines of job creation" /></a><strong><a href="http://www.financialexpress.com/opinion/services-and-digitisation-the-next-big-engines-of-job-creation/1105675/">Services and Digitisation: The next big engines of job creation</a></strong></li><li><a href="http://www.financialexpress.com/opinion/industry-4-0-how-digitalisation-will-kill-traditional-manufacturing/1105686/"><img src="http://images.financialexpress.com/2018/03/industry-3-300x200.jpg?w=100" alt="Industry 4.0: How digitalisation will kill traditional manufacturing" /></a><strong><a href="http://www.financialexpress.com/opinion/industry-4-0-how-digitalisation-will-kill-traditional-manufacturing/1105686/">Industry 4.0: How digitalisation will kill traditional manufacturing</a></strong></li><li><a href="http://www.financialexpress.com/opinion/forget-aadhaar-facebook-threat-real-what-cambridge-analytica-case-confirms/1105692/"><img src="http://images.financialexpress.com/2018/03/facebook-3-300x200.jpg?w=100" alt="Forget Aadhaar, Facebook threat real: What Cambridge-Analytica case confirms" /></a><strong><a href="http://www.financialexpress.com/opinion/forget-aadhaar-facebook-threat-real-what-cambridge-analytica-case-confirms/1105692/">Forget Aadhaar, Facebook threat real: What Cambridge-Analytica case confirms</a></strong></li><li><a href="http://www.financialexpress.com/opinion/job-growth-in-india-development-means-creating-good-jobs/1105683/"><img src="http://images.financialexpress.com/2018/03/jobs-3-300x200.jpg?w=100" alt="Job growth in India: Development means creating good jobs" /></a><strong><a href="http://www.financialexpress.com/opinion/job-growth-in-india-development-means-creating-good-jobs/1105683/">Job growth in India: Development means creating good jobs</a></strong></li><li><a href="http://www.financialexpress.com/industry/noida-finds-two-builders-diverting-cash-collected-from-homebuyers/1105724/"><img src="http://images.financialexpress.com/2018/03/home-1-300x200.jpg?w=100" alt="Audit of realtors: Noida Authority finds two builders diverting cash collected from homebuyers" /></a><strong><a href="http://www.financialexpress.com/industry/noida-finds-two-builders-diverting-cash-collected-from-homebuyers/1105724/">Audit of realtors: Noida Authority finds two builders diverting cash collected from homebuyers</a></strong></li><li><a href="http://www.financialexpress.com/industry/disinvestment-indigo-qatar-airways-to-make-a-joint-bid-for-air-india/1105759/"><img src="http://images.financialexpress.com/2018/03/indigo-7-300x200.jpg?w=100" alt="Disinvestment: IndiGo, Qatar Airways to make a joint bid for Air India" /></a><strong><a href="http://www.financialexpress.com/industry/disinvestment-indigo-qatar-airways-to-make-a-joint-bid-for-air-india/1105759/">Disinvestment: IndiGo, Qatar Airways to make a joint bid for Air India</a></strong></li><li><a href="http://www.financialexpress.com/economy/informal-ministerial-members-reaffirm-support-to-wto/1105756/"><img src="http://images.financialexpress.com/2018/03/minister-300x200.jpg?w=100" alt="Informal ministerial: Members reaffirm support to WTO" /></a><strong><a href="http://www.financialexpress.com/economy/informal-ministerial-members-reaffirm-support-to-wto/1105756/">Informal ministerial: Members reaffirm support to WTO</a></strong></li><li><a href="http://www.financialexpress.com/industry/labour-reform-government-notifies-fixed-term-jobs-for-all-sectors/1105753/"><img src="http://images.financialexpress.com/2018/03/employment-300x200.jpg?w=100" alt="Labour reform: Government notifies fixed-term jobs for all sectors" /></a><strong><a href="http://www.financialexpress.com/industry/labour-reform-government-notifies-fixed-term-jobs-for-all-sectors/1105753/">Labour reform: Government notifies fixed-term jobs for all sectors</a></strong></li><li><a href="http://www.financialexpress.com/industry/micro-irrigation-north-block-stymied-rs-5000-crore-fund-for-a-year/1105750/"><img src="http://images.financialexpress.com/2018/03/culture-300x200.jpg?w=100" alt="Micro-irrigation: North Block stymied Rs 5,000-crore fund for a year" /></a><strong><a href="http://www.financialexpress.com/industry/micro-irrigation-north-block-stymied-rs-5000-crore-fund-for-a-year/1105750/">Micro-irrigation: North Block stymied Rs 5,000-crore fund for a year</a></strong></li></ul></div></aside><div class='aside ad300x250 visible-md visible-lg' id='div-gpt-ad-1452144880051-8' >				<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-1452144880051-8'); });</script>
+				</div><div class="gallery-section-box"><div class="title-head"><a href="http://www.financialexpress.com/picture-gallery-section/business-gallery/">Business Gallery</a></div><div class="gallery-thumb"><ul><li><a href="http://www.financialexpress.com/photos/business-gallery/1105421/indian-railways-electric-locomotive-alstom-bihar-madhepura-factory-features-images/"><p class="photo-icon"></p><img src="http://images.financialexpress.com/2018/03/loco9-300x200.jpg?w=100" title="Wow! This is where Indian Railways&#8217; 12,000 HP &#8216;Make in India&#8217; electric locomotives are being&nbsp;manufactured">
+				</a><strong><a href="http://www.financialexpress.com/photos/business-gallery/1105421/indian-railways-electric-locomotive-alstom-bihar-madhepura-factory-features-images/">Wow! This is where Indian Railways&#8217; 12,000 HP &#8216;Make in India&#8217; electric locomotives are being&nbsp;manufactured</a></strong></li><li><a href="http://www.financialexpress.com/photos/business-gallery/1098497/in-pics-delhi-metro-pink-line-everything-you-need-to-know-about-new-metro-line/"><p class="photo-icon"></p><img src="http://images.financialexpress.com/2018/03/metro-rail-04-300x200.jpg?w=100" title="In Pics: Delhi Metro Pink Line &#8211; Everything you need to know about new Metro&nbsp;Line">
+				</a><strong><a href="http://www.financialexpress.com/photos/business-gallery/1098497/in-pics-delhi-metro-pink-line-everything-you-need-to-know-about-new-metro-line/">In Pics: Delhi Metro Pink Line &#8211; Everything you need to know about new Metro&nbsp;Line</a></strong></li><li><a href="http://www.financialexpress.com/photos/business-gallery/1095669/shocking-nepal-plane-crash-images-over-50-feared-dead-as-us-bangla-airlines-aircraft-crashes-at-kathmandu-airport/"><p class="photo-icon"></p><img src="http://images.financialexpress.com/2018/03/plance-crash-300x200.jpg?w=100" title="Shocking! Nepal Plane Crash Today images: Over 50 feared dead as US-Bangla airlines aircraft crashes at Kathmandu&nbsp;airport">
+				</a><strong><a href="http://www.financialexpress.com/photos/business-gallery/1095669/shocking-nepal-plane-crash-images-over-50-feared-dead-as-us-bangla-airlines-aircraft-crashes-at-kathmandu-airport/">Shocking! Nepal Plane Crash Today images: Over 50 feared dead as US-Bangla airlines aircraft crashes at Kathmandu&nbsp;airport</a></strong></li><li><a href="http://www.financialexpress.com/photos/business-gallery/1090473/forbes-billionaires-list-2018-jeff-bezos-beats-bill-gates-to-grab-top-spot-check-who-else-makes-it/"><p class="photo-icon"></p><img src="http://images.financialexpress.com/2018/03/collage-1-600x400.jpg?w=100" title="Forbes Billionaires list 2018: Jeff Bezos beats Bill Gates to grab top spot; check who else makes&nbsp;it">
+				</a><strong><a href="http://www.financialexpress.com/photos/business-gallery/1090473/forbes-billionaires-list-2018-jeff-bezos-beats-bill-gates-to-grab-top-spot-check-who-else-makes-it/">Forbes Billionaires list 2018: Jeff Bezos beats Bill Gates to grab top spot; check who else makes&nbsp;it</a></strong></li><li><a href="http://www.financialexpress.com/photos/business-gallery/1077033/candid-moments-pm-narendra-modi-earns-new-friendship-in-justin-trudeaus-kids/"><p class="photo-icon"></p><img src="http://images.financialexpress.com/2018/02/a64ea7990d3943aca7d9bba58c80e10b-a64ea7990d3943aca7d9bba58c80e10b-d3a892dcf429dd0bd50f6a7067000c93-300x200.jpg?w=100" title="Candid moments! PM Narendra Modi earns new friendship in Justin Trudeau&#8217;s&nbsp;kids">
+				</a><strong><a href="http://www.financialexpress.com/photos/business-gallery/1077033/candid-moments-pm-narendra-modi-earns-new-friendship-in-justin-trudeaus-kids/">Candid moments! PM Narendra Modi earns new friendship in Justin Trudeau&#8217;s&nbsp;kids</a></strong></li></ul></div></div><div class='aside ad300x250' id='div-gpt-ad-1505474200911-0' >				<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-1505474200911-0'); });</script>
+				</div><div class="gallery-section-box"><div class="title-head"><a href="http://www.financialexpress.com/picture-gallery-section/technology-gallery/">Technology Gallery</a></div><div class="gallery-thumb"><ul><li><a href="http://www.financialexpress.com/photos/technology-gallery/1055585/falcon-heavy-launch-how-elon-musks-spacex-sent-a-car-into-space-aboard-worlds-most-powerful-rocket-see-pics/"><p class="photo-icon"></p><img src="http://images.financialexpress.com/2018/02/collage-8-300x200.jpg?w=100" title="Falcon Heavy launch: How Elon Musk&#8217;s SpaceX sent a car into space aboard world&#8217;s most powerful rocket; see&nbsp;pics">
+				</a><strong><a href="http://www.financialexpress.com/photos/technology-gallery/1055585/falcon-heavy-launch-how-elon-musks-spacex-sent-a-car-into-space-aboard-worlds-most-powerful-rocket-see-pics/">Falcon Heavy launch: How Elon Musk&#8217;s SpaceX sent a car into space aboard world&#8217;s most powerful rocket; see&nbsp;pics</a></strong></li><li><a href="http://www.financialexpress.com/photos/technology-gallery/1029021/smartphones-launching-in-2018-from-xiaomi-mi-mix-3-to-samsung-galaxy-9-here-is-full-list/"><p class="photo-icon"></p><img src="http://images.financialexpress.com/2018/01/collage-35-300x200.jpg?w=100" title="These big smartphones are coming in 2018: From Xiaomi Mi Mix 3 to Samsung Galaxy 9, here is full&nbsp;list">
+				</a><strong><a href="http://www.financialexpress.com/photos/technology-gallery/1029021/smartphones-launching-in-2018-from-xiaomi-mi-mix-3-to-samsung-galaxy-9-here-is-full-list/">These big smartphones are coming in 2018: From Xiaomi Mi Mix 3 to Samsung Galaxy 9, here is full&nbsp;list</a></strong></li><li><a href="http://www.financialexpress.com/photos/technology-gallery/1028341/nasa-astronauts-conduct-first-spacewalk-of-2018-see-pictures/"><p class="photo-icon"></p><img src="http://images.financialexpress.com/2018/01/1-107-300x200.jpg?w=100" title="NASA astronauts conduct first spacewalk of 2018; see&nbsp;pictures">
+				</a><strong><a href="http://www.financialexpress.com/photos/technology-gallery/1028341/nasa-astronauts-conduct-first-spacewalk-of-2018-see-pictures/">NASA astronauts conduct first spacewalk of 2018; see&nbsp;pictures</a></strong></li><li><a href="http://www.financialexpress.com/photos/technology-gallery/1025422/from-call-of-duty-wwii-gta-v-to-star-wars-battlefront-ii-here-are-the-best-selling-games-of-2017-list-will-startle-you/"><p class="photo-icon"></p><img src="http://images.financialexpress.com/2018/01/collage-31-300x200.jpg?w=100" title="From Call of Duty WWII, GTA V to Star Wars Battlefront II, here are the best selling games of 2017; list will startle&nbsp;you">
+				</a><strong><a href="http://www.financialexpress.com/photos/technology-gallery/1025422/from-call-of-duty-wwii-gta-v-to-star-wars-battlefront-ii-here-are-the-best-selling-games-of-2017-list-will-startle-you/">From Call of Duty WWII, GTA V to Star Wars Battlefront II, here are the best selling games of 2017; list will startle&nbsp;you</a></strong></li><li><a href="http://www.financialexpress.com/photos/technology-gallery/1023934/flipkart-republic-day-sale-massive-discounts-on-iphone-x-mi-mix-2-redmi-note-4-more/"><p class="photo-icon"></p><img src="http://images.financialexpress.com/2018/01/1-85-2-300x200.jpg?w=100" title="Flipkart Republic Day sale: Massive discounts on iPhone X, Mi Mix 2, Redmi Note 4,&nbsp;more">
+				</a><strong><a href="http://www.financialexpress.com/photos/technology-gallery/1023934/flipkart-republic-day-sale-massive-discounts-on-iphone-x-mi-mix-2-redmi-note-4-more/">Flipkart Republic Day sale: Massive discounts on iPhone X, Mi Mix 2, Redmi Note 4,&nbsp;more</a></strong></li></ul></div></div><div class='aside twitter ad300x250' ></div>		<div class='aside ad300x250' id='div-gpt-ad-1478842567868-0' >				<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-1478842567868-0'); });</script>
+				</div>			</aside>
+ 
+<!--/.nav-collapse --> 
+<!--footer start-->
+		<p id="go-top"> <a href="#top"><span></span>Go to Top</a> </p>
+	</div>
+	<div class="clear"></div>
+	<footer>
+	  <div class="fe-wrapper">
+		<div class="social-icons">
+		  <ul>
+			<li class="no-mob"><a href="/todays-paper/" title="Print Edition" class="print-edition">&nbsp;</a></li>
+			<li class="no-mob"><a href="http://indianexpress.com/" title="Mobile" target="_blank" class="mobile">&nbsp;</a></li>
+			<li class="no-mob"><a title="Financial Express - Apple iPhone App" target="_blank" href="http://itunes.apple.com/us/app/financial-express-for-iphone/id508738603?mt=8" rel="nofollow" class="iPhone">&nbsp;</a></li>
+			<li class="no-mob"><a href="http://itunes.apple.com/in/app/the-financial-express/id491303242?mt=8" rel="nofollow" title="Financial Express - Apple iPad App" target="_blank" class="iPad">&nbsp;</a></li>
+			<li class="no-mob"><a href="https://play.google.com/store/apps/details?id=com.financialexpress.android"  rel="nofollow" title="Financial Express - Google Android App" target="_blank" class="android">&nbsp;</a></li>
+			<li class="no-mob"><a href="/syndication/" title="RSS Feed" target="_blank" class="rss">&nbsp;</a></li>
+			<li class="no-mob"><a href="http://epaper.financialexpress.com/" title="e-Paper" target="_blank" class="ePaper">&nbsp;</a></li>
+			<li><a href="https://www.facebook.com/thefinancialexpress" rel="nofollow" title="Financial Express - Facebook" target="_blank" class="facebook">&nbsp;</a></li>
+			<li><a href="https://twitter.com/FinancialXpress" rel="nofollow" title="Financial Express - Twitter" target="_blank" class="twitter1">&nbsp;</a></li>
+			<li><a href="https://plus.google.com/+financialexpress" rel="nofollow" title="Financial Express - Google Plus" target="_blank" class="gplus">&nbsp;</a></li>
+		  </ul>
+		</div>
+		<div class="group">
+		  <ul>
+			<li><a href="http://expressindia.indianexpress.com/news/expressgroup/" title="The Express Group" target="_blank">The Express Group</a></li>
+			<li><a href="http://www.indianexpress.com/" title="The Indian Express - News" target="_blank">The Indian Express</a></li>
+			<li><a href="http://www.financialexpress.com/" target="_blank">The Financial Express</a></li>
+			<li><a href="http://www.loksatta.com/" title="Loksatta - Marathi News" target="_blank">Loksatta</a></li>
+			<li><a href="http://www.jansatta.com/" title="Jansatta - Hindi News" target="_blank">Jansatta</a></li>
+			<li><a href="http://www.inuth.com/" target="_blank" title="inUth">inUth</a></li>
+			<li><a href="http://expressindia.indianexpress.com/ramnath-goenka-foundation/" title="Ramnath Goenka Awards" target="_blank">Ramnath Goenka Awards </a></li>
+		  </ul>
+		</div>
+		<div class="group">
+		  <ul>
+			<li><a href="/privacy-policy/" target="_blank">Privacy Policy</a></li>
+			<li><a href="http://expressgroup.indianexpress.com/advertise.html" title="Advertise with Us" target="_blank">Advertise with Us</a></li>
+			<li><a href="/contact-us/" target="_blank">Contact Us</a></li>
+			<li><a href="/feedback/">Feedback</a></li>
+		  </ul>
+		</div>
+		<div class="express-group">&nbsp;</div>
+		<div class="copyright">
+		  <p>Copyright &copy;
+			<script type="text/javascript">
+										var thisdate = new Date();
+										var dataStr;
+										dataStr = thisdate.getFullYear();
+										document.write(dataStr);
+					</script> The Indian Express [P] Ltd. All Rights Reserved. </p>
+		</div>
+	  </div>
+	</footer>
+	<!--footer end-->
+			<div id="append_breaking_box" class="breaking-scroll"></div>
+		<div class="gutter-left">
+	<div  id='div-gpt-ad-1452144880051-5' >				<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-1452144880051-5'); });</script>
+				</div></div>
+<div class="gutter-right">
+	<div  id='div-gpt-ad-1452144880051-6' >				<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-1452144880051-6'); });</script>
+				</div></div>	<div  id='div-gpt-ad-1452144880051-9' >				<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-1452144880051-9'); });</script>
+				</div><div  id='div-gpt-ad-1452144880051-10' >				<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-1452144880051-10'); });</script>
+				</div><div  id='div-gpt-ad-1452144880051-12' >				<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-1452144880051-12'); });</script>
+				</div>
+	<link rel='stylesheet' id='ie_social_share_style-css'  href='http://www.financialexpress.com/wp-content/themes/vip/financialexpress/plugins/social-share/css/style.css?ver=4.7' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.financialexpress.com/wp-content/themes/vip/financialexpress/js/fe_breaking_priority_scroll.js?ver=17112017.2'></script>
+<script type='text/javascript' src='http://www.financialexpress.com/wp-content/themes/vip/financialexpress/js/breaking_ticker.js?ver=1.3'></script>
+<script type='text/javascript' src='http://www.financialexpress.com/wp-content/themes/vip/financialexpress/js/auto-widget-photo-slider.js?ver=1.1'></script>
+<script src="http://www.financialexpress.com/wp-content/themes/vip/financialexpress/plugins/social-share/js/social-share.js?ver=4.8.0" async type="text/javascript"></script>
+<script src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201812" async type="text/javascript"></script>
+<script src="http://www.financialexpress.com/wp-includes/js/wp-embed.min.js?ver=4.7.2" async type="text/javascript"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tie_comments_data = {"api_key":"ee402f6c27fce915bbc8287c83a28603","post_id":"1104740","post_title":"39 Indians killed by ISIS in Iraq; most of them were from Punjab, says Sushma Sushma Swaraj","post_type":"post","start_cmnt":"21","onload":"0","ad_id":"","ad_name_1":"<div><\/div>","ad_name_2":"<div><\/div>","ad_name_3":"<div><\/div>","ad_name_4":"","fb_api_key":"1672404616366149","box_color":"","brand_logo":"","powered_by_text":"","powered_link":""};
+/* ]]> */
+</script>
+<script src="http://commenting.financialexpress.com/media2/js/tie_comments.js?ver=26" async type="text/javascript"></script>
+	
+			<link rel='stylesheet' id='financialexpress-droid-font-css' href='http://fonts.googleapis.com/css?family=Droid+Serif%3A400%2C700&#038;ver=4.7#038;ver=4.1-alpha-20141011' type='text/css' />
+				<script type="text/javascript">
+			var ttsmi2_data = { siteid: 41974, count: 'site' };
+			(function() {
+				var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+				sc.src = '//target.smi2.net/client/target.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+			}());
+		</script>
+		<!-- Javascript tag  -->
+	<script>window._izq = window._izq || []; window._izq.push(["init"]);</script>
+	<script async="true" src="//cdn.izooto.com/scripts/0811812f1a106d6206f32a8c5ed0fde32d27a1b8.js"></script>
+	<!-- Google Remarketing Code - 12/12/2016 -->
+	<!-- AR90IOUN8 -->
+	<img src='http://pubads.g.doubleclick.net/gampad/ad?iu=/1050432/NIC_logo_Presence_Imp_1x1_Trk&sz=1x1&t=&c=123456789' style="display:block;"/>
+	<img src='http://pubads.g.doubleclick.net/gampad/ad?iu=/1050432/LIC_Budget_Logo_2018&sz=1x1&t=&c=123456789&d_imp=1&d_imp_hdr=1' style="display:block;" />
+</body>
+</html>

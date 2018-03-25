@@ -1,0 +1,806 @@
+
+<!doctype html>
+<html amp lang="en">
+<head>
+    <meta charset="utf-8">
+    <link rel="canonical" href="https://www.rte.ie/news/world/2018/0319/948595-saudi-arabia-abaya-dress/">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,600,700,700i|Montserrat:700" rel="stylesheet" type="text/css">
+
+    <title>Saudi crown prince says women need not wear head cover</title>
+
+    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+    <style amp-custom>
+        html {
+            box-sizing: border-box;
+        }
+
+        *, :after, :before {
+            box-sizing: inherit;
+        }
+
+        body {
+            font-size: 12px;
+            font-family: 'Source Sans Pro', sans-serif;
+            color: #0a0a0a;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        a {
+            color: #06e;
+            text-decoration: none;
+        }
+
+        .live span.live {
+            position: relative;
+            margin: 0;
+            color: #e20000;
+        }
+
+        .live span.live:before {
+            border-radius: 62.5rem;
+            display: inline-block;
+            position: relative;
+            background-color: #e20000;
+            width: .60em;
+            height: .60em;
+            content: '';
+            margin: 0 .2em .05em 0;
+            vertical-align: initial;
+            animation: blinker 1.5s linear infinite;
+        }
+
+        @keyframes blinker {
+          50% { opacity: 0.0; }
+        }
+
+        .ad-container {
+            width: 300px;
+            height: 250px;
+            display: block;
+            margin: 1rem auto;
+        }
+
+        button, .button {
+            -webkit-appearance: none;
+            background: 0 0;
+            border: none;
+            border-radius: 2px;
+            height: 36px;
+            margin: 0;
+            min-width: 64px;
+            padding: 0 16px;
+            display: inline-block;
+            font-size: 14px;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 0;
+            will-change: box-shadow;
+            transition: box-shadow .2s cubic-bezier(.4,0,1,1),background-color .2s cubic-bezier(.4,0,.2,1),color .2s cubic-bezier(.4,0,.2,1);
+            outline: 0;
+            text-align: center;
+            line-height: 36px;
+        }
+
+        header,
+        footer {
+            background: #151719;
+            height: 54px;
+            text-align: center;
+        }
+
+        header a,
+        footer a {
+            display: block;
+        }
+
+        header svg,
+        footer svg {
+            width: 60px;
+            height: 50px;
+        }
+
+        .article-body {
+            margin: 1rem auto;
+            padding-left: 1.25rem;
+            padding-right: 1.25rem;
+            max-width: 600px;
+        }
+
+        .article-body p {
+            font-size: 1.1rem;
+            line-height: 1.9rem;
+            margin: 2.2rem 0;
+        }
+
+        .headline {
+            font-family: 'Montserrat', sans-serif;
+            line-height: normal;
+            font-size: 2em;
+            border-bottom: 1px solid #eee;
+            margin: 0;
+            padding-bottom: 1rem;
+        }
+
+        p.img-caption, figcaption {
+            display: block;
+            font-size: .9rem;
+            color: #6b728c;
+            text-align: center;
+            line-height: normal;
+            border-bottom: 1px solid #eee;
+            padding-left: 1rem;
+            padding-right: 1rem;
+            padding-bottom: .5rem;
+            margin: .5rem 0 .5rem 0;
+        }
+
+        .article-meta {
+            color: #6b728c;
+            font-size: 1rem;
+            padding: 1rem 0;
+        }
+
+        .article-meta a {
+            color: #333;
+        }
+
+        figure {
+            margin: 0;
+        }
+
+        p.site-links {
+            text-align: center;
+            font-size: 1.3rem;
+            margin: 2.2rem 0;
+        }
+
+        p.site-links > a {
+            display: block;
+            line-height: 1.9rem;
+        }
+
+        p.site-links .more {
+            font-family: "Montserrat", sans-serif;
+            font-size: 1.125rem;
+            font-weight: bold;
+            margin-top: 1rem;
+        }
+
+        #subnav {
+            font-family: "Source Sans Pro", sans-serif;
+            position: relative;
+            background-color: #00A7B3;
+            height: 40px;
+            overflow-y: hidden;
+        }
+
+        #subnav .row {
+            max-width: 1160px;
+            margin: 0 auto;
+        }
+
+        #subnav .row:after,
+        #subnav .row:before {
+            content: ' ';
+            display: table;
+        }
+
+        #subnav .row:after {
+            clear: both;
+        }
+
+        .subnav nav::-webkit-scrollbar {
+            width: 0;
+            -ms-overflow-style: none;
+            overflow: -moz-scrollbars-none;
+        }
+
+        #secondary-nav {
+            display: block;
+            width: 100%;
+            padding-left: 1.25rem;
+            padding-right: 1.25rem;
+            float: left;
+            white-space: nowrap;
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch;
+        }
+
+        #secondary-nav ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .subnav ul li {
+            display: inline-block;
+            position: relative;
+            vertical-align: middle;
+        }
+
+        .subnav ul li:first-child {
+            padding-left: 0;
+        }
+
+        .subnav ul li.tag {
+            margin-top: -1px;
+            position: relative;
+        }
+
+        .subnav ul li a {
+            display: block;
+            font-size: 1rem;
+            font-weight: 600;
+            line-height: 1rem;
+            color: #fff;
+            height: 100%;
+            padding: 0.75rem 0.5rem;
+        }
+
+        .subnav ul li.pillar a {
+            position: relative;
+            padding-left: 0;
+            padding-right: 0.3rem;
+        }
+
+        .subnav ul li.pillar a span {
+            position: relative;
+            z-index: 2;
+        }
+
+        .subnav ul li.pillar a:after {
+            content: ">";
+            color: #fff;
+            z-index: 2;
+            position: relative;
+            padding-left: 0.5rem;
+            display: inline-block;
+        }
+
+        .subnav ul li.tag a {
+            color: #fff;
+            position: relative;
+            border-right: 1px solid white;
+            padding: 0.1rem 1.1rem 0.1rem 0;
+        }
+
+        .subnav ul li.tag a span {
+            position: relative;
+            z-index: 2;
+        }
+
+        .subnav ul li.tag a:before {
+            content: "";
+            width: 100vw;
+            right: 0;
+            top: 0;
+            position: absolute;
+            height: 100%;
+            z-index: 1;
+        }
+
+        .subnav ul li.first a {
+            padding-left: 1rem;
+        }
+
+        .subnav ul li.last a {
+            padding-right: 1rem;
+        }
+
+        body.news a,
+        .news.tracker .post-time,
+        .news.tracker h2:after {
+            color: #1176dd;
+        }
+
+        .news .pager li.current,
+        .news #subnav {
+            background-color: #1176dd;
+        }
+
+        body.sport a,
+        .sport.tracker .post-time,
+        .sport.tracker h2:after {
+            color: #4dbeee;
+        }
+
+        .sport .pager li.current,
+        .sport #subnav {
+            background-color: #4dbeee;
+        }
+
+        body.lifestyle a,
+        .lifestyle.tracker .post-time,
+        .lifestyle.tracker h2:after {
+            color: #edc726;
+        }
+
+        .lifestyle .pager li.current,
+        .lifestyle #subnav {
+            background-color: #edc726;
+        }
+
+        body.culture a,
+        .culture.tracker .post-time,
+        .culture.tracker h2:after {
+            color: #8450d6;
+        }
+
+        .culture .pager li.current,
+        .culture #subnav {
+            background-color: #8450d6;
+        }
+
+        body.entertainment a,
+        .entertainment.tracker .post-time,
+        .entertainment.tracker h2:after {
+            color: #f2558a;
+        }
+
+        .entertainment .pager li.current,
+        .entertainment #subnav {
+            background-color: #f2558a;
+        }
+
+        body a.full-article {
+            font-size: 1rem;
+            color: #06e;
+        }
+
+        blockquote, blockquote p {
+            font-size: 1.3rem;
+            font-style: italic;
+        }
+
+        .byline {
+            font-size: 1rem;
+            font-weight: bold;
+        }
+
+        .byline span.reset-color {
+            color: #6b728c;
+        }
+
+        .social-share {
+            padding-bottom: 1rem;
+        }
+
+        amp-social-share[type="facebook"] {
+            border-radius: 50%;
+            background-size: 70%;
+        }
+
+        amp-social-share[type="twitter"] {
+            border-radius: 50%;
+            background-size: 60%;
+            margin-left: .5rem;
+        }
+
+        
+
+        amp-social-share[type="whatsapp"] {
+            background: url("data:image/svg+xml;utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2020%2020%22%3E%3Cdefs%3E%3Cstyle%3E.cls-1%7Bfill%3A%2325d366%3B%7D%3C%2Fstyle%3E%3C%2Fdefs%3E%3Ctitle%3Eicon%3C%2Ftitle%3E%3Cg%20id%3D%22Layer_2%22%20data-name%3D%22Layer%202%22%3E%3Cpath%20class%3D%22cls-1%22%20d%3D%22M10%2C4.67A5.33%2C5.33%2C0%2C0%2C0%2C5.62%2C13L5%2C15l2-.53A5.33%2C5.33%2C0%2C1%2C0%2C10%2C4.67Zm3.14%2C7.65a1.66%2C1.66%2C0%2C0%2C1-1.09.77A2.2%2C2.2%2C0%2C0%2C1%2C11%2C13a9.23%2C9.23%2C0%2C0%2C1-.91-.34%2C7.22%2C7.22%2C0%2C0%2C1-2.75-2.42A3.13%2C3.13%2C0%2C0%2C1%2C6.74%2C8.6%2C1.82%2C1.82%2C0%2C0%2C1%2C7.3%2C7.26a.6.6%2C0%2C0%2C1%2C.42-.2H8c.1%2C0%2C.23%2C0%2C.36.28s.46%2C1.11.5%2C1.19a.3.3%2C0%2C0%2C1%2C0%2C.28%2C1.09%2C1.09%2C0%2C0%2C1-.16.27c-.08.09-.17.21-.24.28a.24.24%2C0%2C0%2C0-.07.33%2C4.84%2C4.84%2C0%2C0%2C0%2C.91%2C1.11%2C4.39%2C4.39%2C0%2C0%2C0%2C1.29.79c.16.08.25.07.35%2C0s.4-.47.51-.63.21-.13.36-.08.94.44%2C1.1.52.27.12.3.19A1.35%2C1.35%2C0%2C0%2C1%2C13.14%2C12.32Z%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E");
+            background-size: 184%;
+            background-repeat: no-repeat;
+            background-position: center;
+            margin-left: .5rem;
+        }
+
+        amp-social-share[type="linkedin"] {
+            border-radius: 50%;
+            background-size: 80%;
+            margin-left: .5rem;
+        }
+
+        amp-social-share[type="email"] {
+            border-radius: 50%;
+            background: url("data:image/svg+xml;utf-8,%3Csvg%20id%3D%22Layer_1%22%20data-name%3D%22Layer%201%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2042%2042%22%3E%3Cdefs%3E%3Cstyle%3E.cls-1%7Bfill%3A%23ffffff%3Bfill-rule%3Aevenodd%3B%7D%3C%2Fstyle%3E%3C%2Fdefs%3E%3Ctitle%3EEmail%20Icon%3C%2Ftitle%3E%3Cpath%20class%3D%22cls-1%22%20d%3D%22M8%2C7.4h25.2L21%2C20.7L8%2C7.4L8%2C7.4z%20M3.1%2C9.4l18%2C19.2L38.9%2C9.4v25.3H3.1L3.1%2C9.4L3.1%2C9.4z%22%2F%3E%3C%2Fsvg%3E");
+            background-size: 63%;
+            background-color: #a7b3c9;
+            background-position: center;
+            background-repeat: no-repeat;
+            margin-left: .5rem;
+        }
+
+        a.post-link {
+            display: inline-block;
+            width: 36px;
+            height: 36px;
+            margin-left: .4rem;
+            border-radius: 50%;
+            background: url("data:image/svg+xml;utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2020%2020%22%3E%3Cdefs%3E%3Cstyle%3E.cls-1%7Bfill%3A%23ffffff%3B%7D%3C%2Fstyle%3E%3C%2Fdefs%3E%3Ctitle%3Eicon%3C%2Ftitle%3E%3Cg%20id%3D%22Layer_2%22%20data-name%3D%22Layer%202%22%3E%3Cpath%20class%3D%22cls-1%22%20d%3D%22M16.21%2C7.3a3.39%2C3.39%2C0%2C0%2C1-1%2C2.41L14%2C11a4.28%2C4.28%2C0%2C0%2C0-.24-2.18L14%2C8.5a1.71%2C1.71%2C0%2C0%2C0%2C0-2.41l-.1-.1A1.75%2C1.75%2C0%2C0%2C0%2C11.5%2C6L9%2C8.45a1.71%2C1.71%2C0%2C0%2C0%2C0%2C2.41l.1.1a1.64%2C1.64%2C0%2C0%2C0%2C.78.42l-1.3%2C1.3a3.38%2C3.38%2C0%2C0%2C1-.69-.52l-.1-.1a3.42%2C3.42%2C0%2C0%2C1%2C0-4.83l2.46-2.46a3.42%2C3.42%2C0%2C0%2C1%2C4.83%2C0l.1.1A3.39%2C3.39%2C0%2C0%2C1%2C16.21%2C7.3Zm-4.08.59-.06-.06a3.37%2C3.37%2C0%2C0%2C0-.69-.52L10.1%2C8.6a1.69%2C1.69%2C0%2C0%2C1%2C.77.44l.06.06h0l0%2C0a1.71%2C1.71%2C0%2C0%2C1%2C0%2C2.41L8.5%2C14a1.71%2C1.71%2C0%2C0%2C1-2.41%2C0l0%2C0L6%2C13.91A1.71%2C1.71%2C0%2C0%2C1%2C6%2C11.5l.28-.28A4.28%2C4.28%2C0%2C0%2C1%2C6%2C9L4.78%2C10.29a3.42%2C3.42%2C0%2C0%2C0%2C0%2C4.83l.07.07%2C0%2C0a3.42%2C3.42%2C0%2C0%2C0%2C4.83%2C0l2.46-2.46a3.42%2C3.42%2C0%2C0%2C0%2C0-4.83l0%2C0%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E");
+            background-size: 86%;
+            background-color: #a7b3c9;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+
+        amp-live-list > [update] {
+            position: fixed;
+            top: 10px;
+            color: #fff;
+            box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
+            background-color: #00a5b1;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+
+        #live-post-list div[items] {
+            margin: 1rem 0;
+        }
+
+        .tracker h2 {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 1.85em;
+            line-height: 1.3em;
+            margin-top: 0;
+            margin-bottom: 0.5rem;
+        }
+
+        .tracker-key-points h2 {
+            margin-top: 1.25rem;
+            margin-bottom: 0;
+        }
+
+        .tracker-key-points h2:after {
+            content: ".";
+        }
+
+        .tracker-key-points p {
+            font-size: 1rem;
+            line-height: 1.5rem;
+            margin: 1rem 0;
+        }
+
+        .tracker-key-points ul {
+            padding: 0;
+            margin: 0;
+            list-style: none;
+        }
+
+        .tracker-key-points li {
+            font-size: 1.35em;
+            line-height: 1.5em;
+            position: relative;
+            list-style-type: none;
+            padding: 0.5rem 0 0.5rem 1rem;
+            border-bottom: 1px solid #dbe1e9;
+        }
+
+        .tracker-key-points li:before {
+            content: "\2022";
+            position: absolute;
+            left: 4px;
+        }
+
+        .tracker-key-points ul li p {
+            margin: 0;
+        }
+
+        .tracker div[items] > div {
+            border-bottom: 1px solid #dbe1e9;
+            margin-bottom: 1rem;
+        }
+
+        .tracker div[items] > div:last-child {
+            border: 0;
+        }
+
+        .tracker .post-time {
+            font-size: 1.2em;
+        }
+
+        .tracker .post-content {
+            margin-top: 0.75rem;
+        }
+
+        .tracker .post-content amp-img {
+            margin-bottom: 1rem;
+        }
+
+        .tracker .post-content p {
+            margin: 0 0 1rem 0;
+        }
+
+        .paginator .results {
+            color: #636c7b;
+            background-color: #f5f6fa;
+            padding: 1.25rem 1.25rem 0;
+            font-size: 1.3em;
+            text-align: center;
+        }
+
+        ul.pager {
+            font-family: 'Source Sans Pro', sans-serif;
+            font-size: 1.3em;
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            clear: both;
+            width: 100%;
+            background-color: #f5f6fa;
+            text-align: center;
+        }
+
+        .pager .not-visible {
+            visibility: hidden;
+        }
+
+        .pager li {
+            display: inline-block;
+            padding: 3px 9px;
+            font-weight: bold;
+            margin: 0.8rem 0;
+        }
+
+        .pager li a {
+            color: #000;
+        }
+
+        .pager li.current {
+            background: #00a7b3;
+            border-radius: 90px;
+            color: #fff;
+        }
+
+        .article-body a.sponsor-info {
+            display: inline-block;
+            width: 100%;
+            color: #6b728c;
+            font-size: 1rem;
+            text-align: center;
+            padding: 0.5rem 0 1rem;
+            border-bottom: 1px solid #eee;
+        }
+
+        .article-body a.sponsor-info strong {
+            display: block;
+        }
+
+        .article-body a.sponsor-info .sponsor-img {
+            width: 100%;
+            text-align: center;
+            margin-top: 10px;
+        }
+    </style>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Saudi crown prince says women need not wear head cover",
+        "description": "Women in Saudi Arabia need not wear head cover or the black abaya - the full-length robes symbolic of Islamic piety - as long as their attire is &quot;decent and respectful&quot;, the kingdom&#39;s crown prince has said.",
+        "datePublished": "2018-03-19T15:49:26.180000+00:00",
+        "dateModified": "2018-03-20T08:45:30.067000+00:00",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://img.rasset.ie/000f8f5a-700.jpg",
+          "height": 394,
+          "width": 700
+        },
+        
+        "author": "RTÉ News",
+        
+        "publisher": {
+          "@type": "Organization",
+          "name": "RTÉ",
+          "logo": "https://dj.rasset.ie/rteapi/img/rte-logo.png"
+        }
+      }
+    </script>
+    
+    
+    
+    
+    
+    
+    
+    <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+    <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+    <script async custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js"></script>
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+</head>
+<body class="news newsdocument">
+    <header>
+        <a href="https://www.rte.ie" class="logo">
+            <svg aria-label="RTÉ" xmlns="https://www.w3.org/2000/svg" viewBox="0 0 64.5 35.25" enable-background="new 0 0 64.5 35.25" x="0px" y="0px" xml:space="preserve">
+                <path fill="#ffffff" d="M57.35,29.78A9.41,9.41,0,0,1,48,21.66h8.9c1,0,3.13.21,3.13,0.21V17.93s-2.1.16-3.28,0.16H48a9.46,9.46,0,0,1,9.37-7.88,19,19,0,0,1,5.47,1.12l0.06-4.15a17,17,0,0,0-5.53-.82c-7.83,0-14.68,6-14.68,13.61,0,8.25,6.85,13.81,14.68,13.81a15.61,15.61,0,0,0,5.88-1l-0.11-4.29a15.33,15.33,0,0,1-5.77,1.27" />
+                <path fill="#ffffff" d="M30.7,33.68a29.68,29.68,0,0,0,.3-3.73V11H29.72c-1.74,0-4.44,0-6.43.19L23.12,6.83H43.89l-0.1,4.39C41.74,11,39.09,11,37.29,11H35.72V29.95a25.51,25.51,0,0,0,.35,3.73H30.7Z" />
+                <path fill="#ffffff" d="M62.92,4.63a20.83,20.83,0,0,0-5.21-.72,17,17,0,0,0-11.77,4.3L46,5A20.33,20.33,0,0,1,57.71,1.56,20.1,20.1,0,0,1,63,2.27Z" />
+                <path fill="#ffffff" d="M10.79,19.86H6.92V10.1S8.8,10,11,10c0.34,0,.66,0,1,0,3.6,0.3,5.09,2.26,5.09,4.62,0,2.65-2.09,4.65-5.09,5.08a9.3,9.3,0,0,1-1.21.07M21.4,30l-7.22-7c4.44-.43,8.18-3.69,8.18-7.93,0-4.51-2.6-8.5-10.35-8.82l-1,0c-5.36,0-9,.26-9,0.26s0.24,2.65.24,4V30a23.42,23.42,0,0,1-.35,3.68H7.27a25,25,0,0,1-.35-4V21.71L12,27l2.57,2.66a50.78,50.78,0,0,0,4.35,4h7.16A52.81,52.81,0,0,1,21.4,30" />
+            </svg>
+        </a>
+    </header>
+
+    
+
+
+    <div class="subnav" id="subnav">
+        <div class="row">
+            <nav class="small-12 column" id="secondary-nav">
+                <ul>
+                        
+                            
+                                <li class="pillar">
+                                    <a data-cs-tracking='{"rte_ref_pn":"nav", "rte_ref_pt":"Sub", "rte_ref_pp":"0", "rte_ref_hl":"News","rte_ref_sp":"1"}' data-trackevent-action="subnav" data-trackevent-label="pillar-news" href="/news/">
+                                        <span>News</span>
+                                    </a>
+                                </li>
+                            
+                        
+
+                        
+                            <li class="tag">
+                                <a data-cs-tracking='{"rte_ref_pn":"nav", "rte_ref_pt":"Sub", "rte_ref_pp":"0", "rte_ref_hl":"World","rte_ref_sp":"2"}' data-trackevent-action="subnav" data-trackevent-label="tag-news" href="/news/world/">
+                                    <span class="title"> World</span>
+                                </a>
+                            </li>
+                        
+
+                        
+                        
+                            <li class="first">
+                                <a data-cs-tracking='{"rte_ref_pn":"nav", "rte_ref_pt":"Sub", "rte_ref_pp":"0", "rte_ref_hl":"Ireland","rte_ref_sp":"3"}' href="/news/ireland/" data-trackevent-action="subnav" data-trackevent-label="ireland">Ireland</a>
+                            </li>
+                        
+                    
+                        
+                            <li>
+                                <a data-cs-tracking='{"rte_ref_pn":"nav", "rte_ref_pt":"Sub", "rte_ref_pp":"0", "rte_ref_hl":"Business","rte_ref_sp":"4"}' href="/news/business/" data-trackevent-action="subnav" data-trackevent-label="business">Business</a>
+                            </li>
+                        
+                    
+                        
+                            <li>
+                                <a data-cs-tracking='{"rte_ref_pn":"nav", "rte_ref_pt":"Sub", "rte_ref_pp":"0", "rte_ref_hl":"Sport","rte_ref_sp":"5"}' href="/sport/" data-trackevent-action="subnav" data-trackevent-label="sport">Sport</a>
+                            </li>
+                        
+                    
+                        
+                            <li>
+                                <a data-cs-tracking='{"rte_ref_pn":"nav", "rte_ref_pt":"Sub", "rte_ref_pp":"0", "rte_ref_hl":"Nuacht","rte_ref_sp":"6"}' href="/news/nuacht/" data-trackevent-action="subnav" data-trackevent-label="nuacht">Nuacht</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="last">
+                                <a data-cs-tracking='{"rte_ref_pn":"nav", "rte_ref_pt":"Sub", "rte_ref_pp":"0", "rte_ref_hl":"Programmes","rte_ref_sp":"7"}' href="//www.rte.ie/news/player/" data-trackevent-action="subnav" data-trackevent-label="programmes">Programmes</a>
+                            </li>
+                        
+                    
+                </ul>
+            </nav>
+        </div>
+    </div>
+
+
+<!-- template: subnav.html -->
+
+    <section class="article-body">
+        <h1 class="headline">
+            
+            
+            Saudi crown prince says women need not wear head cover
+        </h1>
+
+        <div class="article-meta">
+            Updated / Tuesday, 20 Mar 2018 <strong>08:45</strong>
+        </div>
+
+        <!-- Social Share -->
+        <div class="social-share">
+            <amp-social-share width="30" height="30" layout="fixed" type="facebook" data-param-app_id="212765848759773"></amp-social-share>
+            <amp-social-share width="30" height="30" layout="fixed" type="twitter"></amp-social-share>
+            <amp-social-share width="30" height="30" layout="fixed" type="whatsapp"></amp-social-share>
+            <amp-social-share width="30" height="30" layout="fixed" type="linkedin"></amp-social-share>
+            <amp-social-share width="30" height="30" layout="fixed" type="email"></amp-social-share>
+        </div>
+
+        <!-- Main Image -->
+        <div class="img-container">
+            
+                <amp-img src="https://img.rasset.ie/000f8f5a-642.jpg" alt="Saudi crown prince Mohammad bin Salman said women need not wear the abaya robe or head cover, as long as their attire is &quot;decent and respectful&quot;" width="642" height="361" layout="responsive"></amp-img>
+            
+        </div>
+        
+            <p class="img-caption">Saudi crown prince Mohammad bin Salman said women need not wear the abaya robe or head cover, as long as their attire is &quot;decent and respectful&quot;</p>
+        
+
+        
+
+        
+
+        <!-- Main body content -->
+        
+        
+            <p>Women in Saudi Arabia need not wear head cover or the black abaya - the full-length robes symbolic of Islamic piety - as long as their attire is &quot;decent and respectful&quot;, the kingdom&#39;s crown prince has said.</p>
+<p>With the ascent to power of young Prince Mohammad bin Salman, the kingdom has seen an expansion in women&#39;s rights including a decision to allow women to attend mixed public sporting events and the right to drive cars from this summer.</p>
+<p>The changes have been hailed as proof of a new progressive trend towards modernisation in the deeply conservative Muslim kingdom, although the gender-segregated nation continues to be criticised for its continued constraints on women.</p>
+<p>&quot;The laws are very clear and stipulated in the laws of sharia: that women wear decent, respectful clothing, like men,&quot; Prince Mohammed said in an interview with CBS television aired late yesterday.</p>
+<p>&quot;This, however, does not particularly specify a black abaya or a black head cover,&quot; he said.</p>
+<p>&quot;The decision is entirely left for women to decide what type of decent and respectful attire she chooses to wear,&quot; he added.</p>
+<p>A senior cleric said last month that women should dress modestly, but this did not necessitate wearing the abaya.</p>
+<div class="ad-container"><amp-ad width="300" height="250" type="doubleclick" data-slot="/3014/RTE.ie/news/article"></amp-ad></div><p>It remains unclear if these statements signal a change in the enforcement of women&#39;s dress code in the kingdom.</p>
+<p>Saudi Arabia has no written legal code to go with the texts making up sharia, and police and judiciary have long enforced a strict dress code requiring Saudi women to wear abayas, and in many cases to cover their hair and faces.</p>
+<p>But the kingdom has witnessed a cautious new climate of social freedoms with the rise of the 32-year-old crown prince to power after decades of elderly rulers.</p>
+<p>Saudi women have started wearing more colorful abayas in recent years, the light blues and pinks in stark contrast with the traditional black.</p>
+<p>Open abayas over long skirts or jeans are also becoming more common in some parts of the country.</p>
+<p>On 8 March, a group of women in the Saudi city of Jeddah marked International Women&#39;s Day by exercising one of their newly acquired freedoms: the right to go for a jog, paying no heed to bemused onlookers.</p>
+<p>However, activists have blasted the country&rsquo;s continued guardianship system requiring a male family member to grant permission for a woman to study abroad, travel and other activities.</p>
+<p>Last week, a UN rights watchdog called on Saudi Arabia to end discriminatory practices against women including male guardianship, and give them full access to justice.</p>
+        
+    </section>
+
+    <!-- Advert -->
+    <div class="ad-container">
+        <amp-ad width=300 height=250 type="doubleclick" data-slot="/3014/RTE.ie/news/article"></amp-ad>
+    </div>
+
+    <!-- Links back to rte -->
+    <p class="site-links">
+        <a class="full-article" href="https://www.rte.ie/news/world/2018/0319/948595-saudi-arabia-abaya-dress/">View this article on rte.ie</a>
+        
+            <a class="more" href="/news/world/">More World</a>
+        
+    </p>
+
+    <footer>
+        <a href="https://www.rte.ie" class="logo">
+            <svg aria-label="RTÉ" xmlns="https://www.w3.org/2000/svg" viewBox="0 0 64.5 35.25" enable-background="new 0 0 64.5 35.25" x="0px" y="0px" xml:space="preserve">
+                <path fill="#ffffff" d="M57.35,29.78A9.41,9.41,0,0,1,48,21.66h8.9c1,0,3.13.21,3.13,0.21V17.93s-2.1.16-3.28,0.16H48a9.46,9.46,0,0,1,9.37-7.88,19,19,0,0,1,5.47,1.12l0.06-4.15a17,17,0,0,0-5.53-.82c-7.83,0-14.68,6-14.68,13.61,0,8.25,6.85,13.81,14.68,13.81a15.61,15.61,0,0,0,5.88-1l-0.11-4.29a15.33,15.33,0,0,1-5.77,1.27" />
+                <path fill="#ffffff" d="M30.7,33.68a29.68,29.68,0,0,0,.3-3.73V11H29.72c-1.74,0-4.44,0-6.43.19L23.12,6.83H43.89l-0.1,4.39C41.74,11,39.09,11,37.29,11H35.72V29.95a25.51,25.51,0,0,0,.35,3.73H30.7Z" />
+                <path fill="#ffffff" d="M62.92,4.63a20.83,20.83,0,0,0-5.21-.72,17,17,0,0,0-11.77,4.3L46,5A20.33,20.33,0,0,1,57.71,1.56,20.1,20.1,0,0,1,63,2.27Z" />
+                <path fill="#ffffff" d="M10.79,19.86H6.92V10.1S8.8,10,11,10c0.34,0,.66,0,1,0,3.6,0.3,5.09,2.26,5.09,4.62,0,2.65-2.09,4.65-5.09,5.08a9.3,9.3,0,0,1-1.21.07M21.4,30l-7.22-7c4.44-.43,8.18-3.69,8.18-7.93,0-4.51-2.6-8.5-10.35-8.82l-1,0c-5.36,0-9,.26-9,0.26s0.24,2.65.24,4V30a23.42,23.42,0,0,1-.35,3.68H7.27a25,25,0,0,1-.35-4V21.71L12,27l2.57,2.66a50.78,50.78,0,0,0,4.35,4h7.16A52.81,52.81,0,0,1,21.4,30" />
+            </svg>
+        </a>
+    </footer>
+
+    <!-- Analytics -->
+    <amp-pixel src="https://ssl.google-analytics.com/collect?v=1&tid=UA-65085526-7&t=pageview&dt=Saudi crown prince says women need not wear head cover&dl=https://www.rte.ie/news/world/2018/0319/948595-saudi-arabia-abaya-dress/&z=6447"></amp-pixel>
+
+    <amp-analytics>
+        <script type="application/json">
+            {
+                "transport": {
+                    "xhrpost": false,
+                    "beacon": false,
+                    "image": true
+                },
+                "requests": {
+                    "host": "https://sb.scorecardresearch.com",
+                    "base": "${host}/b?",
+                    "pageView": "${base}c1=2&c2=${c2}&ns_site=${ns_site}&rn=${random}&c8=${title}&c7=${canonicalUrl}&c9=${documentReferrer}&cs_c7amp=${ampdocUrl}&rte_vs_pl=${rte_vs_pl}&rte_vs_sn=${rte_vs_sn}&rte_mt_sec=${rte_mt_sec}&rte_mt_cat=${rte_mt_cat}&rte_mt_id=${rte_mt_id}&rte_mt_type=${rte_mt_type}&rte_mt_title=${rte_mt_title}&rte_mt_amp=${rte_mt_amp}&name=${name}"
+                },
+                "vars": {
+                    "c2": "16951747",
+                    "ns_site": "master"
+                },
+                "triggers": {
+                    "pageLoad": {
+                        "on": "visible",
+                        "request": "pageView",
+                        "vars": {
+                            "random": "4156",
+                            "title": "Saudi crown prince says women need not wear head cover",
+                            "canonicalUrl": "https://www.rte.ie/news/world/2018/0319/948595-saudi-arabia-abaya-dress/",
+                            "documentReferrer": "",
+                            "ampdocUrl": "https://www.rte.ie/amp/948595/",
+                            "rte_vs_pl": "web",
+                            "rte_vs_sn": "world",
+                            "rte_mt_sec": "news",
+                            "rte_mt_cat": "news,world,saudiarabia",
+                            "rte_mt_id": "948595",
+                            "rte_mt_title": "Saudi crown prince says women need not wear head cover",
+                            "rte_mt_type": "article",
+                            "rte_mt_amp": "1",
+                            "name": "news.world.2018.0319.948595-saudi-arabia-abaya-dress."
+                        }
+                    }
+                }
+            }
+        </script>
+    </amp-analytics>
+</body>
+</html>

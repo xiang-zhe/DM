@@ -1,0 +1,3145 @@
+
+<!DOCTYPE HTML>
+
+    
+<!--[if IE 8]>
+<html class="no-js lt-ie9" xml:lang="en">
+<![endif]-->
+<!--[if gt IE 8]>
+<!-->
+<html class="no-js" lang="en">
+    <!--
+<![endif]-->
+
+    <head>
+    <script>
+      (function(){
+        if(window.BOOMR && window.BOOMR.version){return;}
+        var dom,doc,where,iframe = document.createElement("iframe"),win = window;
+
+        function boomerangSaveLoadTime(e) {
+          win.BOOMR_onload=(e && e.timeStamp) || new Date().getTime();
+        }
+        if (win.addEventListener) {
+          win.addEventListener("load", boomerangSaveLoadTime, false);
+        } else if (win.attachEvent) {
+          win.attachEvent("onload", boomerangSaveLoadTime);
+        }
+
+        iframe.src = "javascript:false";
+        iframe.title = ""; iframe.role="presentation";
+        (iframe.frameElement || iframe).style.cssText = "width:0;height:0;border:0;display:none;";
+        where = document.getElementsByTagName("script")[0];
+        where.parentNode.insertBefore(iframe, where);
+
+        try {
+          doc = iframe.contentWindow.document;
+        } catch(e) {
+          dom = document.domain;
+          iframe.src="javascript:var d=document.open();d.domain='"+dom+"';void(0);";
+          doc = iframe.contentWindow.document;
+        }
+        doc.open()._l = function() {
+          var js = this.createElement("script");
+          if(dom) this.domain = dom;
+          js.id = "boomr-if-as";
+          js.src = "https://s.go-mpulse.net/boomerang/" +
+          "R9YSD-XHS3U-KQGGF-8W2UT-K37B7";
+          BOOMR_lstart=new Date().getTime();
+          this.body.appendChild(js);
+        };
+        doc.write('<body onload="document._l();">');
+        doc.close();
+      })();
+    </script>
+
+    
+
+    
+    <meta content="IE=Edge" http-equiv="x-ua-compatible"/>
+    <meta charset="utf-8"/>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+
+    
+    
+        <title>Donald Trump prepared to slap China with US$60 billion in annual tariffs | Stuff.co.nz</title>
+        <meta name="description" content="US president to follow through on long-time threat he says will punish China and create more American jobs."/>
+    
+    
+
+    <meta name="keywords" content="Sport, Entertainment, Business, Motoring, World, Life and Style, Latest News, Technology, Weather, Travel">
+    <meta name="verify-v1" content="RazNiYjuvNuEsMeFXxfR9l9cDZIKxcq2VjQZA25CHgM="/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+    <meta name="robots" content="noarchive"/>
+    
+    
+
+    <meta property="fb:app_id" content="207633159308175"/>
+
+    
+    <meta property="fb:pages" content="21253884267"/>
+
+    <meta property="og:site_name" content="Stuff"/>
+    
+        <meta property="og:title" content="Donald Trump prepared to slap China with US$60 billion in annual tariffs"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:url" content="http://www.stuff.co.nz/business/world/102428132/donald-trump-prepared-to-slap-china-with-us60-billion-in-annual-tariffs"/>
+        <meta property="og:image" content="https://resources.stuff.co.nz/content/dam/images/1/o/z/d/x/t/image.related.StuffLandscapeSixteenByNine.620x349.1oze1w.png/1521503585009.jpg"/>
+        <meta property="og:description" content="US president to follow through on long-time threat he says will punish China and create more American jobs."/>
+        <meta property="og:image:width" content="620"/>
+        <meta property="og:image:height" content="349"/>
+    
+
+    
+
+<link rel="alternate" media="only screen and (max-width: 500px)" href="http://i.stuff.co.nz/business/world/102428132/donald-trump-prepared-to-slap-china-with-us60-billion-in-annual-tariffs"/>
+
+    <script>
+        document.documentElement.className =
+            document.documentElement.className.replace('no-js', 'js');
+    </script>
+
+    <link rel="apple-touch-icon-precomposed" href="/etc/designs/ffx/nz/stuff/clientlibs-all/images/apple-touch-icon--precomposed.png"/>
+
+    <link rel="icon" href="/etc/designs/ffx/nz/stuff/clientlibs-all/images/favicon.png"/>
+
+    <link rel="stylesheet" href="/etc/designs/ffx/nz/stuff/clientlibs-all.min.clientlibversion.f8320aa4ebe653b2e3b879ef4d78d349.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/ffx/nz/stuff/clientlibs-legacy/app.min.clientlibversion.8bed7806f12b3652675dea30358c4cb3.css" type="text/css">
+<!--[if lte IE 9]>
+        <link rel="stylesheet" href="/etc/designs/ffx/nz/stuff/clientlibs-all/styles/ie9.css" type="text/css">
+    <![endif]-->
+    <!--[if lt IE 9]>
+        <link rel="stylesheet" href="/etc/designs/ffx/nz/stuff/clientlibs-all/styles/ie8.css" type="text/css">
+        <script src="/etc/designs/ffx/nz/stuff/clientlibs-other/html5shiv/js/html5shiv-printshiv-min.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" href="/etc/designs/ffx/nz/stuff/clientlibs-customskins/verticals-business.min.clientlibversion.922aed0681544cc9fd1665a84e69def6.css" type="text/css">
+<script>
+        window.errors = [];
+        window.onerror = function(error) {
+                window.errors.push(error);
+            };
+
+        var nz = nz || {};
+        nz.ffx = nz.ffx || {};
+        nz.ffx.config = nz.ffx.config || {};
+        nz.ffx.featureflags = nz.ffx.featureflags || {};
+
+        
+        nz.ffx.featureflags.video = nz.ffx.featureflags.video || {};
+        nz.ffx.featureflags.video.brightcove = nz.ffx.featureflags.video.brightcove || {};
+        nz.ffx.featureflags.video.brightcove.desktopArticleInitDelay = 0;
+        nz.ffx.featureflags.video.brightcove.desktopChannelInitDelay = 0;
+        nz.ffx.featureflags.video.brightcove.desktopSectionInitDelay = 0;
+
+        
+        nz.ffx.featureflags.embeds = nz.ffx.featureflags.embeds || {};
+        nz.ffx.featureflags.embeds.embedsToIframeResizer = ["iframe[src*\u003d\"https://liveblog-test-eu-west-12.s3-eu-west-1.amazonaws.com\"]","iframe[src*\u003d\"https://stuff.liveblog.pro\"]"];
+
+        
+        nz.ffx.scriptUrls = {
+            polyfillMatchMedia: '/etc/designs/ffx/nz/stuff/clientlibs-legacy/polyfillMatchMedia.min.clientlibversion.ffc2b9d49d3954bcfa23ea1c8f213889.js',
+            app               : '/etc/designs/ffx/nz/stuff/clientlibs-legacy/app.min.clientlibversion.ed17b297997bc20e5869edd217e92ffa.js'
+        }
+    </script>
+
+    <script type="text/javascript" src="/etc/designs/ffx/nz/stuff/clientlibs-legacy/head.min.clientlibversion.4013a7036b282743cb5e0c8957b2343c.js"></script>
+<script src="https://assets.stuff.co.nz/static/scripts/stuff-plugins/stuff-plugins.min.js"></script>
+    <script language="JavaScript" type="text/javascript">
+(function() {
+    window.digitalData = {
+        page: {
+            pageInfo: {
+                pageID: '102428132',
+                pageName: 'Donald\x20Trump\x20prepared\x20to\x20slap\x20China\x20with\x20US\x2460\x20billion\x20in\x20annual\x20tariffs',
+                sysEnv: "desktop",
+                variant: "1",
+                version: "1",
+                publisher: "stuff",
+
+                
+                articleID: '102428132',
+                headline: 'Donald\x20Trump\x20prepared\x20to\x20slap\x20China\x20with\x20US\x2460\x20billion\x20in\x20annual\x20tariffs',
+                author: 'Damian\x20Paletta\x20and\x20Josh\x20Dawsey',
+                source: 'The\x20Washington\x20Post',
+                lastPublishedTime: '2018-03-20 12:53:04'
+            },
+
+            category: {
+                pageType: 'article',
+
+                primaryCategory: 'business'
+
+                ,
+                        subCategory1: 'world'
+                    
+            }
+        },
+
+        user: [{
+            profile: [{
+                profileInfo: {
+                    
+                }
+            }],
+
+            
+            segment: {}
+        }],
+
+        events: [] 
+    };
+
+    
+    var values = Cookies.getJSON('account');
+    if (values) {
+        digitalData.user[0].profile[0].profileInfo.uid = values.uid;
+        
+    }
+})();
+</script>
+<script type="text/javascript" src="https://cdns.gigya.com/js/socialize.js?apiKey=3_9JitkeW_HEZvUcTSahg2tBTNm_psp2j-F58dCHDCilHVDYpGUAnC0vHmZMfro1_V">
+    {
+        siteName: 'stuff.co.nz',
+        enabledProviders: 'facebook,yahoo,google,twitter,messenger,linkedin,openid',
+        sessionExpiration: 0
+    };
+    </script>
+
+    <script type="text/javascript">
+            
+            window["nz.ffx.GigyaStuff.params"] = {
+                categoryId: 'Stuff',
+                streamId: 'stuff/business/world/102428132'
+            };
+        </script>
+    <script type="text/javascript" src="/etc/designs/ffx/nz/stuff/clientlibs-legacy/video.min.clientlibversion.2e9f4fefeced407617ce2490f5595cb9.js"></script>
+<script type="text/javascript" src="/etc/designs/ffx/nz/stuff/clientlibs-all.min.clientlibversion.d78e9bf9bc2fa9863df54eb7f1376693.js"></script>
+<script src="//assets.adobedtm.com/10d15a330ba9eec67033fb8a57223f1f239d36eb/satelliteLib-910e45cf05dcb21b86589d0386873588075cd6fc.js"></script>
+    <script src="https://assets.stuff.co.nz/static/stuff-header-bidding/latest/stuff-header-bidding.js"></script>
+<script type="text/javascript">
+
+    var dartLoc = "onl.stuff.business/world";
+    var dartEnv = "prod";
+    var dartCtype = "story";
+    var dartWeatherLoc = ($.cookie('weatherSelection') || "33").toString();  
+    var pageSource = window.digitalData.page.pageInfo.source;
+    var dartPid = "";
+    var exclusions = [];
+    
+        dartPid = "102428132";
+
+        
+
+  /* -------------------------------- */
+  /* Header Bidding section           */
+  /* -------------------------------- */
+
+    var gptRan = false;
+    var gptRun = function() {
+        
+        if (gptRan) {
+            return;
+        }
+        gptRan = true;
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' === document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    };
+
+    var nz = (window.nz = window.nz || {});
+    nz.ffx = nz.ffx || {};
+
+    // if prebid loaded start header bidding
+    if (nz.ffx.prebid) {
+        var PAGESLOTS = [	// all ad slots on the page
+        
+            {
+                name: 'specialoffer2',
+                sizes: [[240,45]]
+            },
+        
+            {
+                name: 'specialoffer1',
+                sizes: [[240,45]]
+            },
+        
+            {
+                name: 'specialoffer3',
+                sizes: [[240,45]]
+            },
+        
+            {
+                name: 'topstrip',
+                sizes: [[300,25],[275,23]]
+            },
+        
+            {
+                name: 'sectiontopright',
+                sizes: [[300,250],[160,600],[300,600]]
+            },
+        
+            {
+                name: 'topbanner',
+                sizes: [[760,120],[728,90],[970,250]]
+            },
+        
+            {
+                name: 'storybody',
+                sizes: [[300,250]]
+            },
+        
+            {
+                name: 'sectionbottomright',
+                sizes: [[300,250]]
+            },
+        
+        ];
+
+        nz.ffx.prebid.setPlatform && nz.ffx.prebid.setPlatform('cq');
+        nz.ffx.prebid.init(PAGESLOTS, dartLoc, gptRun);
+    } else {
+        // otherwise load GPT straight away
+        gptRun();
+    }
+</script>
+
+
+<script type="text/javascript">
+
+    /* GPT */
+
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+
+    var dartCpid = ($.jqURL.get("cpid") || "").toString();
+    suitableFlash = "false";
+
+    googletag.cmd.push(function() {
+        googletag.pubads().setTargeting("env", dartEnv);
+        googletag.pubads().setTargeting("ctype", dartCtype);
+        googletag.pubads().setTargeting("loc", dartWeatherLoc);
+        googletag.pubads().setTargeting("pid", dartPid);
+        googletag.pubads().setTargeting("cpid", dartCpid);
+        googletag.pubads().setTargeting("source", pageSource);
+        // temporary - for header bidding reporting purposes
+        googletag.pubads().setTargeting("tmp", 'cq');
+
+        var dartKeys = [];
+        
+                dartKeys.push("Financial");
+            
+                dartKeys.push("tariffs");
+            
+                dartKeys.push("LAW");
+            
+                dartKeys.push("TREASURY");
+            
+                dartKeys.push("Trade");
+            
+                dartKeys.push("COMPANIES");
+            
+                dartKeys.push("have");
+            
+                dartKeys.push("Donald Trump");
+            
+                dartKeys.push("one");
+            
+                dartKeys.push("Property");
+            
+                dartKeys.push("This");
+            
+                dartKeys.push("people");
+            
+                dartKeys.push("chinese");
+            
+                dartKeys.push("HOUSE");
+            
+                dartKeys.push("more");
+            
+                dartKeys.push("Who");
+            
+                dartKeys.push("War");
+            
+                dartKeys.push("Australia");
+            
+                dartKeys.push("China");
+            
+                dartKeys.push("SENIOR");
+            
+                dartKeys.push("ADMINISTRATION");
+            
+                dartKeys.push("TAX");
+            
+                dartKeys.push("levies");
+            
+                dartKeys.push("may");
+            
+                dartKeys.push("Finance");
+            
+                dartKeys.push("intellectual property");
+            
+                dartKeys.push("MEETING");
+            
+                dartKeys.push("tax cut");
+            
+                dartKeys.push("American");
+            
+                dartKeys.push("Strategy");
+            
+                dartKeys.push("New");
+            
+                dartKeys.push("criticism");
+            
+                dartKeys.push("Economic");
+            
+                dartKeys.push("suspended");
+            
+                dartKeys.push("nation");
+            
+                dartKeys.push("WHITE HOUSE");
+            
+                dartKeys.push("many");
+            
+                dartKeys.push("JOBS");
+            
+                dartKeys.push("market");
+            
+                dartKeys.push("european");
+            
+                dartKeys.push("PRESIDENT");
+            
+                dartKeys.push("WORK");
+            
+                dartKeys.push("beijing");
+            
+                dartKeys.push("first");
+            
+                dartKeys.push("world");
+            
+                dartKeys.push("fear");
+            
+        googletag.pubads().setTargeting("kw", dartKeys);
+
+        for (var i = 0; i < exclusions.length; i++) {
+            var exclusion = exclusions[i];
+            googletag.pubads().setCategoryExclusion(exclusion);
+        }
+
+        var aamffx = nz.ffx.DartSupport().get_aamffx();
+        if (typeof aamffx !== 'undefined') {
+
+            var arrayIndexOf = function(array, key) {
+                if (typeof Array.prototype.indexOf !== 'undefined') {
+                    return array.indexOf(key);
+                }
+
+                for (var i = 0; i < array.length; i++ ) {
+                    if (array[i] === key) {
+                        return i;
+                    }
+                }
+
+                return -1;
+            };
+
+            var keys = [];
+            var vals = [];
+            for (var i = 0; i < aamffx.length;i++) {
+                if (arrayIndexOf(keys, aamffx[i][0]) === -1){
+                    keys.push(aamffx[i][0]);
+                    vals.push([aamffx[i][1]]);
+                } else {
+                    vals[arrayIndexOf(keys, aamffx[i][0])].push(aamffx[i][1]);
+                }
+            }
+            for (var i = 0; i < keys.length;i++) {
+                googletag.pubads().setTargeting(keys[i], vals[i]);
+            }
+        }
+
+        var aamDID = nz.ffx.DartSupport().get_aamDID();
+        if (typeof aamDID !== 'undefined') {
+            googletag.pubads().setTargeting("u", aamDID);
+        }
+
+        var gptadslots = [];
+        
+            gptadslots[0] = googletag.defineSlot('/6674/' + dartLoc, [[240,45]], "specialoffer2")
+                                        .addService(googletag.pubads())
+                                        .setTargeting("pos", "specialoffer2");
+        
+            gptadslots[1] = googletag.defineSlot('/6674/' + dartLoc, [[240,45]], "specialoffer1")
+                                        .addService(googletag.pubads())
+                                        .setTargeting("pos", "specialoffer1");
+        
+            gptadslots[2] = googletag.defineSlot('/6674/' + dartLoc, [[240,45]], "specialoffer3")
+                                        .addService(googletag.pubads())
+                                        .setTargeting("pos", "specialoffer3");
+        
+            gptadslots[3] = googletag.defineSlot('/6674/' + dartLoc, [[300,25],[275,23]], "topstrip")
+                                        .addService(googletag.pubads())
+                                        .setTargeting("pos", "topstrip");
+        
+            gptadslots[4] = googletag.defineSlot('/6674/' + dartLoc, [[300,250],[160,600],[300,600]], "sectiontopright")
+                                        .addService(googletag.pubads())
+                                        .setTargeting("pos", "sectiontopright");
+        
+            gptadslots[5] = googletag.defineSlot('/6674/' + dartLoc, [[760,120],[728,90],[970,250]], "topbanner")
+                                        .addService(googletag.pubads())
+                                        .setTargeting("pos", "topbanner");
+        
+            gptadslots[6] = googletag.defineSlot('/6674/' + dartLoc, [[300,250]], "storybody")
+                                        .addService(googletag.pubads())
+                                        .setTargeting("pos", "storybody");
+        
+            gptadslots[7] = googletag.defineSlot('/6674/' + dartLoc, [[300,250]], "sectionbottomright")
+                                        .addService(googletag.pubads())
+                                        .setTargeting("pos", "sectionbottomright");
+        
+        nz.ffx.prebid && nz.ffx.prebid.setTargetingForGPTAsync();
+
+        
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+    });
+</script>
+
+<link rel="stylesheet" type="text/css" href="//players.brightcove.net/videojs-ima3/2.13/videojs.ima3.min.css"/>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link href="/etc/designs/ffx/nz/stuff/clientlibs-print.clientlibversion.910f3f29bd75ab7e6285881675c667bd.css" rel="stylesheet" type="text/css" media="print"/>
+
+    <!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6758056" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=6758056&cv=2.0&cj=1"/>
+</noscript>
+<!-- End comScore Tag --></head>
+
+    <body>
+    <div class="gutterleftwrap">
+    <div class="display-ad left_gutter_advert"></div>
+</div>
+
+<div class="gutterrightwrap">
+    <div class="right_gutter_advert display-ad"></div>
+</div>
+<nav class="all_site_nav nav_list nav_list_section">
+    <div class="all_site_nav_inner">
+        <a href="/"><img src="/etc/designs/ffx/nz/stuff/images/static/all-site-nav-logo.png" style="border: 0px;" class="all_site_nav_logo" alt="Stuff logo"/></a>
+        <ul class="nav_list nav_list_section">
+            <li><a href="/national">National</a></li>
+            <li><a href="/world">World</a></li>
+            <li><a href="/business">Business</a></li>
+            <li><a href="/opinion">Opinion</a></li>
+            <li><a href="/sport">Sport</a></li>
+            <li><a href="/entertainment">Entertainment</a></li>
+            <li><a href="/life-style">Life & Style</a></li>
+            <li><a href="/travel">Travel</a></li>
+            <li><a href="/motoring">Motoring</a></li>
+        </ul>
+        <div class="all_site_nav_right logged_in account_only">
+            <div class="all_site_nav_dropdown">
+                <a class="all_site_nav_account">
+                <img src="https://static.stuff.co.nz/images/blocker.png" class="blocker" alt="blocker image"/>
+                <img style="border: 0px;" class="all_site_nav_dropdown_avatar avatar" src="/etc/designs/ffx/nz/stuff/images/static/1pxtransparent.gif" alt="Avatar"/><span class="username"></span></a>
+                <div class="all_site_nav_submenu">
+                    <ul class="all_site_nav_root">
+                        <li><a class="profile-link" href="#">Profile</a></li>
+                        <li><a class="settings-link" href="#">Settings</a></li>
+                        <li><a href="#" class="logout">Sign Out</a></li>
+                    </ul>
+                    <div class="all_site_nav_dropdown_btm"></div>
+                </div>
+            </div>
+        </div>
+        <link href="https://cdn-my.stuff.co.nz//css/mystuff-api-styles.min.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+
+        var populateGigyaBar = function() {};
+
+</script>
+
+<script type="text/javascript">
+
+        
+        var nz = nz || {};
+        nz.ffx = nz.ffx || {};
+
+        populateGigyaBar = function() {
+
+            
+            window.nz.ffx.dependencies.domLoaded.promise.then(function() {
+                var title = "Donald Trump prepared to slap China with US$60 billion in annual tariffs";
+                var description = "US president to follow through on long-time threat he says will punish China and create more American jobs.";
+
+                nz.ffx.GigyaStuff.initGigyaEmailShare( {
+                    title: title.replace('"',"'"),
+                    description: description.replace('"',"'"),
+                    canonical_url: "http://www.stuff.co.nz/business/world/102428132/donald-trump-prepared-to-slap-china-with-us60-billion-in-annual-tariffs",
+                    image_url: "https://resources.stuff.co.nz/content/dam/images/1/o/z/d/x/t/image.related.StuffLandscapeSixteenByNine.620x349.1oze1w.png/1521503582880.jpg",
+                    email_url: "http://www.stuff.co.nz/email_a_friend/28/102428132"
+                } );
+
+                
+                nz.ffx.GigyaStuff.enableGigyaShareToolar("fake-sharebox-gigya", "fake");
+                
+            });
+        };
+   </script>
+ <div class="all_site_nav_right guest_only">
+    <div class="all_site_nav_signup_loading"><a class="all_site_nav_signup sn_reg_url"></a></div>
+    <div class="all_site_nav_login_loading"><a class="all_site_nav_login sn_login_url"></a></div>
+</div><script>
+
+                        var myStuffRoot = "https://cdn-my.stuff.co.nz/";
+                        var myStuffJSFile = "https://cdn-my.stuff.co.nz/" + "/api/mystuff-1.0.js";
+
+
+                        try{
+                            $.ajax({
+                                cache: false,
+                                timeout:20000,//20 seconds allowed to load the script.
+                                url: myStuffJSFile,
+                                dataType: "script",
+                                success: function( ) {
+
+                                        nz.ffx.Account.init(myStuffRoot);
+
+                                        $(document).on("click touchstart", ".sn_login_url", function () {
+                                            nz.ffx.Account.login();
+                                            return false;
+                                        });
+
+                                        $(document).on("click touchstart", ".logout,.gig-comments-logoutLink", function () {
+                                            nz.ffx.Account.logout();
+                                            nz.ffx.GigyaStuff.gigyaLogout();
+                                            return false;
+                                        });
+
+                                        $(document).on("click touchstart", ".sn_reg_url", function () {
+                                            nz.ffx.Account.register();
+                                            return false;
+                                        });
+
+                                        populateGigyaBar();
+
+                                    },
+                                error: function(jqXHR, textStatus, errorThrown) {
+                                    $.DEBUG("Error fetching my.stuff API " + errorThrown);
+                                }
+                            });
+                        } catch (e){
+                            $.DEBUG("Error fetching my.stuff API " + e);
+                        }
+                    </script>
+            </div>
+    <div id="trademenav_right">
+        </div>
+</nav>
+<div id="slidedown">
+    <div id ="adpushdownbanner">
+        <div class="push_down_advert display-ad"></div>
+</div>
+</div><div id="page">
+    <div id="container">
+        <header id="pagetop">
+    <div class="section-logo"><div id="logo">
+    <h1>
+        <a class="masthead-logo" data-preserve-href="true" href="/business">
+            business</a>
+    </h1>
+</div></div>
+<div id="search_box">
+    <form action="https://www.stuff.co.nz/searchresults" id="cse-search-box">
+        <input name="Search Site" type="submit" class="search_box_button" value="Search Site" />
+        <input type="hidden" name="cof" value="FORID:9" />
+        <input type="hidden" name="cx" value="006730714154542492986:oh6vl0ybuqy" />
+        <input type="hidden" name="ie" value="UTF-8" />
+        <label for="search_box_text">Search</label>
+        <input type="text" name="q" size="31" id="search_box_text" />
+    </form>
+    <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</div><div class="clearer"></div>
+    <div class="stuff_top_nav"><nav id="nav">
+    <div id="nav_bottom">
+        <div id="nav_bottom_left">
+            <ul>
+                <li>
+                        <a title="" href="https://nzcms.fairfaxmedia.co.nz/cf#/content/desktop/stuff/business/innovation.html"></a>
+                    </li>
+                </ul>
+        </div>
+    </div>
+    
+
+
+
+
+
+</nav>
+<div class="clearer"></div></div>
+<section class="breaking-news-wrapper">
+
+
+
+
+
+
+
+    
+        
+        
+        
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+    
+
+</section>
+<div class="billboard-area">
+        <div class="billboard display-ad"></div>
+</div>
+    <div id="ad_top_banner">
+        <div class="top_banner_advert display-ad"><div id="topbanner__container">
+            <div class="topbanner mbl" id="topbanner">
+                <script type="text/javascript">
+                    googletag.cmd.push(function() {
+                        googletag.display('topbanner');
+                    });
+                </script>
+            </div>
+        </div>
+    </div>
+</div>
+</header>
+<div id="content">
+            <div id="left_col">
+                <script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script>
+
+
+
+
+
+
+
+<article class="story_landing" itemscope itemtype="http://schema.org/Article">
+    <div class="story_content_top mbm cf">
+        <h1 itemprop="headline">Donald Trump prepared to slap China with US$60 billion in annual tariffs
+
+
+
+
+
+
+
+
+    
+       
+           
+           
+               <img class="headline-flag headline-flag-video mls nofloat" alt="video" src="/etc/designs/ffx/nz/stuff/clientlibs-all/images/icon_video.png">
+           
+           
+           
+        
+    
+
+
+
+
+
+
+
+
+    
+        
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+    
+        
+    
+    
+    
+    
+
+</h1>
+
+        <h2></h2>
+
+        <div style="display:none;">
+                <div id="fake-sharebox-gigya"> </div>
+            </div>
+
+            <div class="story__byline-wrapper story__byline-wrapper__social cf">
+                <div class="social social--desktop">
+                    <div class="social__bar-container">
+                        <div class="story__byline-block social__story-content u-f-left">
+                            <p class="story__byline" itemscope
+                               itemprop="author" itemtype="http://schema.org/Person">
+                                <span itemprop="name">DAMIAN PALETTA AND JOSH DAWSEY</span>
+                            </p>
+
+                            <p class="story__dateline">
+                            <span itemprop="datePublished" content="Mon Mar 19 23:48:54 UTC 2018">
+                            Last updated&nbsp;12:48, March 20 2018</span>
+                            </p>
+                        </div>
+
+                        <script type="text/javascript">
+                            
+                            var titleForShareBar = 'Donald Trump prepared to slap China with US$60 billion in annual tariffs';
+                        </script>
+                            <ul class="social-bar">
+                            <li><a aria-label="Facebook" class="social-bar__button social-bar__button--facebook" href="javascript:nz.ffx.Share.facebook(titleForShareBar, '', '207633159308175')"></a></li> <li><a aria-label="Twitter" class="social-bar__button social-bar__button--twitter" href="javascript:nz.ffx.Share.twitter(titleForShareBar)"></a></li>
+                            <li><a aria-label="Google Plus" class="social-bar__button social-bar__button--googleplus" href="javascript:nz.ffx.Share.googleplus()"></a></li>
+                            <li><a aria-label="Email" class="social-bar__button social-bar__button--email" href="javascript:nz.ffx.GigyaStuff.emailShare()"></a></li>
+                            <li><a class="social-bar__button social-bar__button--comments js-gigya-comments" href="javascript:nz.ffx.Share.goToComments('[name=\'comments\']')"><span></span></a></li></ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+        
+
+
+
+
+
+<div class="html-asset">
+    <!-- TAG START { player: "Stuff - World - Mouseover - Sound  ", owner: "Stuff.co.nz - Editorial", for: "Stuff.co.nz - Editorial" } -->
+                 <div id="58d1e0f7f78ced6518eee162" style="position:relative; width: 100%; height: 0px; padding-bottom: 56.25%; background: url('http://cdn.vidible.tv/prod/2018-03/19/5aafe7b2d33e150d23ddab81/5aafe7b1e819551ad246ceb2_1920x1080_F_v0.jpg') center/cover;" data-placeholder="//img.vidible.tv/prod/2018-03/19/5aafe7b2d33e150d23ddab81/5aafe7b1e819551ad246ceb2_o_F_v0.jpg?w=1440&h=900&q=60">
+                 <div class="vdb_player vdb_58d1e0f7f78ced6518eee16258d1b4a95095491a900c189d" vdb_params="m.disableadspreloading=true&m.sitesection=world&m.embeded=cms_video_plugin_chromeExtension&m.loadingplaceholder=1" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0;">
+                     <script async type="text/javascript" src="https://delivery.vidible.tv/jsonp/pid=58d1e0f7f78ced6518eee162/vid=5aafe7b2d33e150d23ddab81/58d1b4a95095491a900c189d.js?m.disableadspreloading=true&m.sitesection=world&m.embeded=cms_video_plugin_chromeExtension&m.loadingplaceholder=1"></script>
+                 </div>
+                 </div>
+                     <!-- TAG END { date: 03/19/18 } --><p></p>
+</div>
+
+    
+    
+    
+
+<p>US President Donald Trump is preparing to impose a package of US$60 billion (NZ$83 billion) in annual tariffs against China, following through on a long-time threat that he says will punish China for intellectual property infringement and create more American jobs.</p><p>The tariff package, which Trump plans to unveil by Friday, was confirmed by four senior administration officials.</p><p>Senior aides had presented Trump with a US$30b tariff package that would apply to a range of products, but Trump directed them to roughly double the scope of the new trade levies.</p><p>The package could be applied to more than 100 products, which Trump argues were developed by using trade secrets the Chinese stole from US companies or forced them to hand over in exchange for market access.</p><p><strong>READ MORE:<br> * <a href="https://www.stuff.co.nz/business/101987088/trumps-move-on-steel-and-aluminium-may-spark-global-trade-retaliation" target="_blank">Why Donald Trump's tariffs may spark a global trade war</a><br> * <a href="https://www.stuff.co.nz/business/world/101956030/trump-escalates-trade-war-threatens-european-carmakers-with-stiff-tariffs" target="_blank">Trump escalates trade war, threatens European carmakers with stiff tariffs</a> <br> * <a href="https://www.stuff.co.nz/business/102157821/donald-trump-tweets-he-will-not-impose-tariffs-on-the-great-nation-of-australia" target="_blank">US president says he will not impose tariffs on 'the great nation of Australia'</a></strong></p><p>The situation remains fluid, and Trump has shown a tendency to back off economic threats at the last minute. In recent weeks, however, he has shown a willingness to unilaterally impose tariffs - even amid objections from advisers who fear starting a global trade war. And several administration officials said Trump was particularly determined to follow through on this specific set of tariffs, as criticism of US-China relations was at the centre of his presidential campaign.</p>
+
+
+
+
+
+
+
+
+    
+        
+
+
+
+
+
+
+<div id="102427985" class="landscapephoto">
+    <img alt="Donald Trump has tried to both befriend Chinese leader Xi Jinping and also isolate him." title="" src="https://resources.stuff.co.nz/content/dam/images/1/o/z/d/x/t/image.related.StuffLandscapeSixteenByNine.620x349.1oze1w.png/1521503582880.jpg" class="photoborder">
+    <div class="photocredit">
+        <span class="photocredittext">EVAN VUCCI/AP</span>
+    </div>
+    <div class="photocaption">
+        <p>Donald Trump has tried to both befriend Chinese leader Xi Jinping and also isolate him.</p>
+    </div>
+    <div class="hdivider"> </div>
+</div>
+
+    
+    
+    
+    
+    
+    
+
+<p>Trump plans to impose the tariffs at a time when he has much of the world on edge over his pivot to protectionism. His 2016 campaign was built around promises to put "America First" on every issue, but some aides managed to scale back his plans for trade restrictions in 2017 as he muscled a tax cut bill through Congress.</p><p>That has changed this year, however, with the tax bill signed into law and some of the people who had warned against protectionism exiting the White House.</p><p>One of Trump's top advisers, Treasury Secretary Steven Mnuchin, is in Buenos Aires on Monday and Tuesday meeting with global finance ministers. The foreign officials are trying to determine whether Trump plans to follow through on his threats to engage in a "trade war".</p>
+
+
+
+
+
+
+
+
+    
+        
+
+
+
+
+
+
+<div id="102427984" class="landscapephoto">
+    <img alt="Some of the people who warned against protectionism have left the White House." title="" src="https://resources.stuff.co.nz/content/dam/images/1/o/z/d/x/s/image.related.StuffLandscapeSixteenByNine.620x349.1oze1w.png/1521503582880.jpg" class="photoborder">
+    <div class="photocredit">
+        <span class="photocredittext">CAROLYN KASTER/AP</span>
+    </div>
+    <div class="photocaption">
+        <p>Some of the people who warned against protectionism have left the White House.</p>
+    </div>
+    <div class="hdivider"> </div>
+</div>
+
+    
+    
+    
+    
+    
+    
+
+<p>Many of the financial ministers at the meeting have alleged that China should make changes to its trade policies, but so far most have tried to cajole Beijing multilaterally, a strategy that Trump has said doesn't work.</p><div class="display-ad story_body_advert"><div id="storybody__container">
+            <div class="storybody mbl" id="storybody">
+                <a id="feedback_storybody" href="http://stuff.co.nz/about-stuff/advertising-feedback/?pos=storybody&amp;adsize=300x250&amp;area=onl.stuff.business/world" target="_blank" class="adfeedback">
+                        Ad Feedback
+                    </a>
+                <script type="text/javascript">
+                    googletag.cmd.push(function() {
+                        googletag.display('storybody');
+                    });
+                </script>
+            </div>
+        </div>
+    </div>
+<p>Still, Trump's approach to China has been uneven. He has tried to both befriend Chinese leader Xi Jinping while also isolate him, particularly on economic issues. On Sunday, the Treasury Department had to backtrack on an embarrassing misstep when a senior official said he had suspended economic talks with China, when a formal decision had not yet been made.</p><p> </p><p id="source">
+                <strong>
+                    &nbsp;-&nbsp;The Washington Post</strong>
+            </p>
+        <div class="story-footer-ad-container cf">
+            <div class="story-footer-ad">
+                <div class="left_footer_advert display-ad"></div>
+</div>
+            <div class="story-footer-ad">
+                <div class="right_footer_advert display-ad"></div>
+</div>
+        </div>
+
+        <div class="shareboxes-wrapper">
+            <div class="savestorybox">
+                <div id="story_saved">
+                    <div class="savebox">
+                     <span class="account_only">
+                         <a class="saved_story" data-node_id="102428132">Saved</a>|<a class="saved_stories" href="/stuff-nation/saved-stories">Saved Stories</a>
+                     </span>
+
+                      <span class="guest_only">
+                          <a class="saved_story">Saved</a>|<a class="saved_stories" href="/stuff-nation/saved-stories">Saved Stories</a>
+                     </span>
+                    </div>
+                </div>
+                <div id="story_unsaved">
+                    <div class="savebox">
+                     <span class="account_only">
+                          <a class="unsaved_story" data-node_id="102428132">Save</a>|<a class="saved_stories" href="/stuff-nation/saved-stories">Saved Stories</a>
+                     </span>
+
+                     <span class="guest_only">
+                          <a class="unsaved_story">Save</a>|<a class="saved_stories" href="/stuff-nation/saved-stories">Saved Stories</a>
+                     </span>
+                    </div>
+                </div>
+
+                <span id="save_story_error"></span>
+
+                <script type="text/javascript">
+
+                    $(document).ready(function() {
+                        new nz.ffx.StorySaver("102428132");
+                    });
+
+                </script>
+            </div>
+        </div>
+
+        <div class="next-article"><div id="relatedstories">
+    <h2 class="title_fullwidth">Next World story:</h2>
+    <p><a class="icon-story" href="/business/world/102420747/facebook-shares-plunge-amid-cambridge-analytica-data-fallout">Facebook shares plunge amid Cambridge Analytica data fallout</a></p>
+    <p><a class="section_icon" href="/business">Business Homepage</a></p>
+</div></div>
+<div class="outbrain-wrapper">
+                <div class="OUTBRAIN"
+                     data-src="http://www.stuff.co.nz/business/world/102428132/donald-trump-prepared-to-slap-china-with-us60-billion-in-annual-tariffs"
+                     data-widget-id="AR_1"
+                     data-ob-template="Stuff.co.nz">
+                </div>
+            </div>
+        <div class="outbrain-wrapper">
+                <div class="OUTBRAIN"
+                     data-src="http://www.stuff.co.nz/business/world/102428132/donald-trump-prepared-to-slap-china-with-us60-billion-in-annual-tariffs"
+                     data-widget-id="AR_2"
+                     data-ob-template="Stuff.co.nz">
+                </div>
+            </div>
+        <a name="comments"></a>
+            <div class="gigyaComments comments"><div class="hdivider"></div>
+<a class="gig-comments-anchor" name="comments" title="Comments"></a>
+<h2>Comments</h2>
+<div id='commentsDiv'></div>
+<script type="text/javascript">
+    $(document).ready(function() {
+        
+        nz.ffx.dependencies.account.promise.then(function() {
+            try {
+                nz.ffx.GigyaStuff.showGigyaComments('Stuff',
+                        'Donald Trump prepared to slap China with US$60 billion in annual tariffs', 'stuff/business/world/102428132',
+                        '/etc/designs/ffx/nz/stuff/images/static/snation_comment_logo.gif');
+            } catch (gigyaError) {
+                var error = new Error('Unable to show gigya comments');
+                error.cause = gigyaError;
+
+                window.errors.push(error);
+            }
+        });
+    });
+</script>
+</div>
+<div class="article-google-adsense">
+                <script type="text/javascript">
+                    google_ad_client = 'ca-pub-3713738611001930';
+                    google_ad_width = '620';
+                    google_ad_height = '200';
+                    
+                    google_ad_slot = '2707357974'; // default channel 'othernews_article_footer'
+                    switch (window.digitalData.page.category.primaryCategory.toUpperCase()) {
+                        case 'NATIONAL':
+                            google_ad_slot = '4516899171';
+                            break;
+                        case 'WORLD':
+                            google_ad_slot = '7470365572';
+                            break;
+                        case 'BUSINESS':
+                            google_ad_slot = '8947098779';
+                            break;
+                        case 'TECHNOLOGY':
+                            google_ad_slot = '1423831979';
+                            break;
+                        case 'SPORT':
+                            google_ad_slot = '2900565175';
+                            break;
+                        case 'ENTERTAINMENT':
+                            google_ad_slot = '4377298376';
+                            break;
+                        case 'LIFE-STYLE':
+                            google_ad_slot = '5854031575';
+                            break;
+                        case 'TRAVEL':
+                            google_ad_slot = '8807497977';
+                            break;
+                        case 'MOTORING':
+                            google_ad_slot = '4237697573';
+                            break;
+	                }
+                </script>
+                <script type="text/javascript" src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
+                </script>
+            </div>
+        <div class="sponsored-links sponsored-link-adverts"><section class="sponsored-links-container"></section></div>
+<script type="text/javascript">
+            
+            if (window.digitalData.page.category.primaryCategory === 'travel' || window.digitalData.page.category.primaryCategory === 'entertainment') {
+                $('#storybody').css('float', 'none');
+                $('#storybody').css('margin', '20px auto');
+                
+                $('.story_body_advert').css('clear', 'both');
+                if ("false" === "true") {
+                    $('.story_body_advert').css('float', 'none');
+                }
+            }
+        </script>
+
+</article> </div>  <div id="right_col">
+                <section class="rhcol-item">
+    <div class="RH-Col-TopStrip display-ad"></div>
+</section>
+
+<section class="rhcol-item ">
+    <div class="RH-Col-UpperPointers parsys">
+</div>
+</section>
+
+<div class="rhcol-item ">
+    <div class="parsys RH-Col-SectionTopRight"><div class="section-headlines-box section">
+
+
+
+
+
+
+
+    
+        
+        
+        
+
+
+
+
+
+
+
+    
+    
+        <section class="hbox_narrow hbox_block mbl">
+        <div class="hbox_top">
+            <span class="hbox_top_title headlines_title">
+            <a href="/business" data-article-link-country="nz">
+                business headlines</a></span>
+            
+
+
+
+
+
+
+
+
+    
+
+
+
+</div>
+        <div class="hbox_body_left">
+            <div class="section_headlines">
+                <p>
+                        
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+
+        <a href="/auckland/102472123/auckland-lawyer-fined-30000-for-serious-misconduct" data-article-link-country="nz" class=" icon-story">
+    
+        Lawyer&#039;s &#039;serious&#039; conduct
+    
+</a>
+            
+    
+        
+    
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+</p>
+                   <div class="clear"></div>
+                <p>
+                        
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+
+        <a href="/life-style/home-property/102462292/buying-a-house-in-taranaki-was-meant-to-be-easy-it-wasnt" data-article-link-country="nz" class=" icon-story">
+    
+        House buying anxiety
+    
+</a>
+            
+    
+        
+    
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+</p>
+                   <div class="clear"></div>
+                <p>
+                        
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+
+        <a href="/business/farming/102460868/cows-genetics-reap-20000-for-silverstream-charolais-stud-owners" data-article-link-country="nz" class=" icon-story">
+    
+        Charolais embryos reap $20,000 for stud
+    
+</a>
+            
+    
+        
+    
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+</p>
+                   <div class="clear"></div>
+                <p>
+                        
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+
+        <a href="/business/102466798/spierings-some-good-initiatives-but-farmers-say-he-never-got-them" data-article-link-country="nz" class=" icon-story">
+    
+        Fonterra boss gets report card
+    
+</a>
+            
+    
+        
+    
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+</p>
+                   <div class="clear"></div>
+                <p>
+                        
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+
+        <a href="/business/102359965/masterplan-to-be-developed-for-cromwells-future-amid-unprecedented-and-continuing-growth" data-article-link-country="nz" class=" icon-story">
+    
+        Masterplan to be developed for Cromwell
+    
+</a>
+            
+    
+        
+    
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+</p>
+                   <div class="clear"></div>
+                <p>
+                        
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+
+        <a href="/business/industries/102466777/facebook-investigations-gain-another-follower" data-article-link-country="nz" class=" icon-story">
+    
+        NZ &#039;watching&#039; Facebook saga
+    
+</a>
+            
+    
+        
+    
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+</p>
+                   <div class="clear"></div>
+                <p>
+                        
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+
+        <a href="/business/102465012/lyttelton-union-workers-take-aim-company-at-directors" data-article-link-country="nz" class=" icon-story">
+    
+        Lyttelton directors&#039; targeted
+    
+</a>
+            
+    
+        
+    
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+</p>
+                   <div class="clear"></div>
+                <p>
+                        
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+
+        <a href="/national/102452829/boys-prizewinning-pet-sheep-one-of-five-mauled-to-death" data-article-link-country="nz" class=" icon-story">
+    
+        Pet sheep mauled to death
+    
+</a>
+            
+    
+        
+    
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+</p>
+                   <div class="clear"></div>
+                <p>
+                        
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+
+        <a href="/business/farming/102473864/fonterra-and-beingmate--where-did-it-all-go-sour" data-article-link-country="nz" class=" icon-story">
+    
+        Fonterra Beingmate Q&amp;A
+    
+</a>
+            
+    
+        
+    
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+</p>
+                   <div class="clear"></div>
+                <p>
+                        
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+
+        <a href="/business/farming/102441305/fonterra-half-year-loss-of-348m-after-beingmate-writedown-of-405m" data-article-link-country="nz" class=" icon-story">
+    
+        Beingmate woes hit Fonterra
+    
+</a>
+            
+    
+        
+    
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+</p>
+                   <div class="clear"></div>
+                <p>
+                        
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+
+        <a href="/business/farming/102471607/police-shoot-cow-running-amok-in-suburban-hastings-streets-after-escaping-stockyards" data-article-link-country="nz" class=" icon-story">
+    
+        Police shoot escaped cow
+    
+</a>
+            
+    
+        
+    
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+</p>
+                   <div class="clear"></div>
+                <p>
+                        
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+
+        <a href="/national/102464502/jones-doing-his-job--advocating-for-regions" data-article-link-country="nz" class=" icon-story">
+    
+        Jones a voice for regions
+    
+</a>
+            
+    
+        
+    
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+</p>
+                   <div class="clear"></div>
+                <p>
+                        
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+
+        <a href="/business/102394415/cigarette-vending-machines-could-lead-to-more-violent-tobaccodriven-robberies" data-article-link-country="nz" class=" icon-story">
+    
+        Vending machines no silver bullet
+    
+</a>
+            
+    
+        
+    
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+</p>
+                   <div class="clear"></div>
+                <p>
+                        
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+
+        <a href="/business/industries/102458832/stateowned-companies-there-to-make-profit-only-analyst-says" data-article-link-country="nz" class=" icon-story">
+    
+        Jones &#039;meddling&#039; could hurt Air NZ
+    
+</a>
+            
+    
+        
+    
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+</p>
+                   <div class="clear"></div>
+                <p>
+                        
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+    
+
+        <a href="/business/102464021/the-government-should-front-up-and-say-whether-shane-jones-crusade-is-all-talk" data-article-link-country="nz" class=" icon-story">
+    
+        Is Jones all talk on Air NZ?
+    
+</a>
+            
+    
+        
+    
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+
+
+</p>
+                   <div class="clear"></div>
+                </div>
+        </div>
+        <div class="hbox_body_right"></div>
+        <div class="clearer"> </div>
+    </section>
+
+    
+
+
+    
+    
+
+</div>
+<div class="display-ad section"><div id="sectiontopright__container">
+            <div class="sectiontopright mbl" id="sectiontopright">
+                <a id="feedback_sectiontopright" href="http://stuff.co.nz/about-stuff/advertising-feedback/?pos=sectiontopright&amp;adsize=300x250&amp;area=onl.stuff.business/world" target="_blank" class="adfeedback">
+                        Ad Feedback
+                    </a>
+                <script type="text/javascript">
+                    googletag.cmd.push(function() {
+                        googletag.display('sectiontopright');
+                    });
+                </script>
+            </div>
+        </div>
+    </div>
+<div class="most-popular section">
+
+
+
+
+
+
+
+    
+        
+        
+        <div class="most-popular mostpopular">
+
+
+
+
+
+
+
+    
+    
+        <div id="most_popular">
+    <div class="hbox_narrow">
+        <header class="hbox_top">
+            <span class="hbox_top_title">Most popular</span>
+        </header>
+        <ul class="ui-tabs-nav">
+            <li class="ui-tabs-active"><a href="#viewed">Viewed</a></li>
+            <li><a href="#shared">Shared</a></li>
+            <li><a href="#commented">Commented</a></li>
+        </ul>
+        <div class="tabs-content">
+          <div id="viewed" class="sics-component__most-popular ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-1" role="tabpanel" aria-expanded="true" aria-hidden="false" data-reactroot=""><ul class="sics-component__most-popular__list"><li class="sics-component__most-popular__list-item no-bullets mbs"><a class="sics-component__most-popular__link icon-story" href="https://www.stuff.co.nz/national/102421495/former-us-president-barack-obama-visits-new-zealand">Live: Former US president Barack Obama visits New Zealand</a></li><li class="sics-component__most-popular__list-item no-bullets mbs"><a class="sics-component__most-popular__link icon-story" href="https://www.stuff.co.nz/entertainment/celebrities/102455556/the-chase-star-the-beast-blasted-for-calling-contestant-dead-weight">The Chase star The Beast blasted for calling contestant &#x27;dead weight&#x27;</a></li><li class="sics-component__most-popular__list-item no-bullets mbs"><a class="sics-component__most-popular__link icon-story" href="https://www.stuff.co.nz/national/health/102284031/staff-shortages-leave-mothers-in-labour-helping-one-another">Staff shortages leave mothers in labour helping one another</a></li><li class="sics-component__most-popular__list-item no-bullets mbs"><a class="sics-component__most-popular__link icon-story" href="https://www.stuff.co.nz/national/politics/102451908/shane-jones-calls-for-air-nz-chair-to-step-down-asks-ceo-to-step-down-or-shut-up">Shane Jones calls for Air NZ chair to step down, asks CEO to step down or shut up</a></li><li class="sics-component__most-popular__list-item no-bullets mbs"><a class="sics-component__most-popular__link icon-story" href="https://www.stuff.co.nz/auckland/102423597/the-man-who-said-no-to-obama-mayors-accept-offers-to-spend-time-with-expresident-except-one">The man who said no to Obama: Mayors accept offers to spend time with him, except one</a></li><li class="sics-component__most-popular__list-item no-bullets mbs"><a class="sics-component__most-popular__link icon-story" href="https://www.stuff.co.nz/entertainment/music/102418678/seats-covered-in-thick-black-tarp-during-early-part-of-lordes-flop-us-tour">Seats covered in thick black tarp during early part of Lorde&#x27;s &#x27;flop&#x27; US tour</a></li><li class="sics-component__most-popular__list-item no-bullets mbs"><a class="sics-component__most-popular__link icon-story" href="https://www.stuff.co.nz/national/health/102378164/doctor-fails-severely-dehydrated-baby-allege-parents-who-drove-100km-to-another-hospital-for-help">Doctor fails severely dehydrated baby, allege parents who drove 100km to another hospital for help</a></li><li class="sics-component__most-popular__list-item no-bullets mbs"><a class="sics-component__most-popular__link icon-story" href="https://www.stuff.co.nz/sport/rugby/all-blacks/102449089/former-all-black-dylan-mika-dead-at-45">Former All Black Dylan Mika dead, at 45<span class="sics-component__headline-flag"><span class="sics-component__icon sics-component__icon--video-logo sics-component__headline-flag__icon"></span></span></a></li><li class="sics-component__most-popular__list-item no-bullets mbs"><a class="sics-component__most-popular__link icon-story" href="https://www.stuff.co.nz/business/farming/102458601/fonterra-chief-executive-theo-spierings-to-stand-down">Fonterra chief executive Theo Spierings to stand down</a></li><li class="sics-component__most-popular__list-item no-bullets mbs"><a class="sics-component__most-popular__link icon-story" href="https://www.stuff.co.nz/entertainment/celebrities/102441710/dom-harvey-quite-serious-with-new-girlfriend-six-months-after-splitting-with-jayjay">Dom Harvey &#x27;quite serious&#x27; with new girlfriend six months after splitting with Jay-Jay</a></li></ul></div><div id="shared" class="ui-tabs-panel">
+    <p>
+            <a class="icon-story" href="http://www.stuff.co.nz/national/politics/102458566/Sixteen-is-the-future-age-of-reason-and-responsibility">
+                Sixteen is the future age of reason and responsibility</a>
+            </p>
+    <p>
+            <a class="icon-story" href="http://www.stuff.co.nz/life-style/life/102441038/Like-a-knife-twisted-in-my-eye-The-excruciating-pain-of-cluster-headaches">
+                'Like a knife twisted in my eye': The excruciating pain of cluster headaches </a>
+            </p>
+    <p>
+            <a class="icon-story" href="http://www.stuff.co.nz/national/quizzes/daily-quizzes/20918003/Morning-trivia-quiz-March-21">
+                Morning trivia quiz: March 21</a>
+            </p>
+    </div>
+<div id="commented" class="ui-tabs-panel"></div>
+<script type="text/javascript">
+    if (typeof(gigya) !== "undefined"){
+            
+            $(document).ready(function() {
+                gigya.comments.getTopStreams({
+                    categoryID: 'Stuff',
+                    callback: nz.ffx.GigyaStuff.updateMostCommented,
+                    limit: '10'
+            });
+
+        });
+    }
+</script>
+</div>
+        <div class="clearer"></div>
+    </div>
+</div>
+<div class="clearer"></div>
+
+    
+
+</div>
+
+    
+    
+
+</div>
+<div class="parbase section embedded-page"><iframe style="width&#x3a;&#x20;100&#x25;&#x3b;&#x20;height&#x3a;&#x20;410px&#x3b;" src="https://www.colliers.co.nz/ListingsCarousel/StuffCoNz/Carousel-p.html" frameborder="0"></iframe>
+    </div>
+<div class="cq-special-offers section"><div class="cq-special-offers-box hide" id="3581a207-eb32-4c45-ae0e-fb778c4705dd">
+    <header class="cq-special-offers-box__heading">
+        special offers
+    </header>
+    <div class="display-ad special_offer_1"><div id="specialoffer1__container">
+            <div class="specialoffer1 mbl" id="specialoffer1">
+                <script type="text/javascript">
+                    googletag.cmd.push(function() {
+                        googletag.display('specialoffer1');
+                    });
+                </script>
+            </div>
+        </div>
+    </div>
+<div class="display-ad special_offer_2"><div id="specialoffer2__container">
+            <div class="specialoffer2 mbl" id="specialoffer2">
+                <script type="text/javascript">
+                    googletag.cmd.push(function() {
+                        googletag.display('specialoffer2');
+                    });
+                </script>
+            </div>
+        </div>
+    </div>
+<div class="display-ad special_offer_3"></div>
+</div>
+
+<script>
+        googletag.cmd.push(function () {
+            googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+                try {
+                    if (!event.isEmpty) {
+                        var tkeys = event.slot.getTargetingKeys();
+                        for (var i = 0; i < tkeys.length; i ++) {
+                            var key = tkeys[i];
+                            var tkey = event.slot.getTargeting(key)[0];
+                            if (tkey.indexOf("specialoffer") > -1) {
+                                $("#3581a207-eb32-4c45-ae0e-fb778c4705dd").show();
+                            } 
+                        }
+                    }
+                }
+                catch (e) {
+                    console.log("Special Offers Event Error: " + e);
+                }
+            });
+        });
+    </script>
+</div>
+
+</div>
+</div>
+
+<section class="rhcol-item ">
+    <div class="parsys RH-Col-LowerPointers"><div class="parbase section embedded-page"><iframe style="width&#x3a;&#x20;100&#x25;&#x3b;&#x20;height&#x3a;&#x20;390px&#x3b;" src="https://static.stuff.co.nz/files/AOLBusinesscd.html" frameborder="0"></iframe>
+    </div>
+<div class="parbase section embedded-page"><iframe style="width&#x3a;&#x20;100&#x25;&#x3b;&#x20;height&#x3a;&#x20;933px&#x3b;" src="https://www.neighbourly.co.nz/stuff/933" frameborder="0"></iframe>
+    </div>
+
+</div>
+</section>
+
+<div class="rhcol-item ">
+    <div class="section_bottom_right display-ad"><div id="sectionbottomright__container">
+            <div class="sectionbottomright mbl" id="sectionbottomright">
+                <a id="feedback_sectionbottomright" href="http://stuff.co.nz/about-stuff/advertising-feedback/?pos=sectionbottomright&amp;adsize=300x250&amp;area=onl.stuff.business/world" target="_blank" class="adfeedback">
+                        Ad Feedback
+                    </a>
+                <script type="text/javascript">
+                    googletag.cmd.push(function() {
+                        googletag.display('sectionbottomright');
+                    });
+                </script>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div> </div> <img id="mpvTrackingPixel" src="/track/view/28/102428132/?dest=/etc/designs/ffx/nz/stuff/images/tracking-pixel/1pxwhite.gif" alt="">
+<footer id="footer">
+    <nav id="footer_top">
+         <ul>
+            <li><a href="/national/">National</a></li>
+            <li><a href="/world/">World</a></li>
+            <li><a href="/business/">Business</a></li>
+            <li><a href="/technology/">Technology</a></li>
+            <li><a href="/sport/">Sport</a></li>
+            <li><a href="/entertainment/">Entertainment</a></li>
+            <li><a href="/life-style/">Life &amp; Style</a></li>
+            <li><a href="/travel/">Travel</a></li>
+            <li><a href="/motoring/">Motoring</a></li>
+        </ul>
+    </nav><div id="footer-bottom">
+        <div id="footer-bottom-left">
+            <div class="footer-bottom-left-row">
+                <div class="footer-bottom-left-title">Stuff.co.nz</div>
+                <nav class="footer-bottom-left-list">
+                    <ul>
+                        <li><a href="/about-stuff/22245/Background">About Us</a></li>
+                        <li>|</li>
+                        <li><a href="/about-stuff/33785/Contact-Us">Contact Us</a></li>
+                        <li>|</li>
+                        <li><a class="view-mobile-site" href="http://i.stuff.co.nz/">View Mobile Site</a></li>
+                    </ul>
+                </nav>
+                <div class="clearer"></div>
+            </div>
+            <div class="footer-bottom-left-row">
+                <div class="footer-bottom-left-title">Subscribe</div>
+                <nav class="footer-bottom-left-list">
+                    <ul>
+                        <li><a href="/about-stuff/4060273/Get-Stuff-TXT-Alerts">Text</a></li>
+                        <li>|</li>
+                        <li><a href="/about-stuff/2708777/Follow-us-on-Facebook-and-Twitter">Follow us on Facebook and Twitter</a></li>
+                        <li>|</li>
+                        <li><a href="http://www.mags4gifts.co.nz/">Newspapers</a></li>
+                        <li>|</li>
+                        <li><a href="http://www.mags4gifts.co.nz/">Magazine subscriptions</a></li>
+                        <li>|</li>
+                        <li><a href="/rss">RSS - Top Stories</a></li>
+                    </ul>
+                </nav>
+                <div class="clearer"></div>
+            </div><div class="footer-bottom-left-row">
+                <div class="footer-bottom-left-title">Services</div>
+                <nav class="footer-bottom-left-list">
+                    <ul>
+                        <li><a href="https://stuff-fibre.co.nz">Stuff Fibre</a></li>
+                        <li>|</li>
+                        <li><a href="https://advertise.stuff.co.nz">Advertising</a></li>
+                        <li>|</li>
+                        <li><a href="https://careers.stuff.co.nz">Careers</a></li>
+                    </ul>
+                </nav><div class="clearer"></div>
+            </div><div class="footer-bottom-left-row">
+                <div class="footer-bottom-left-title">Classifieds</div>
+                <nav class="footer-bottom-left-list">
+                    <ul>
+                        <li><a href="http://deaths.stuff.co.nz/obituaries/stuff-nz/">Death Notices</a></li>
+                        <li>|</li>
+                        <li><a href="http://celebrations.stuff.co.nz/celebration/stuff-nz/">Celebrations</a></li>
+                        <li>|</li>
+                        <li><a href="http://www.adstuff.co.nz/">Newspaper Classifieds</a></li>
+                    </ul>
+                </nav><div class="clearer"></div>
+            </div><div class="footer-bottom-left-row">
+                <div class="footer-bottom-left-title">Newspapers</div>
+                <nav class="footer-bottom-left-list">
+                    <ul>
+                        <li><a href="/dominion-post/">Dominion Post </a></li>
+                        <li>|</li>
+                        <li><a href="/the-press/">The Press</a></li>
+                        <li>|</li>
+                        <li><a href="/waikato-times/">Waikato Times</a></li>
+                        <li>|</li>
+                        <li><a href="/auckland/">Auckland Now</a></li>
+                        <li>|</li>
+                        <li><a href="/sunday-news/">Sunday News</a></li>
+                        <li>|</li>
+                        <li><a href="/sunday-star-times/">Sunday Star-Times</a></li>
+                    </ul>
+                </nav><div class="clearer"></div>
+                <div class="footer-bottom-left-row">
+                </div><div class="footer-bottom-left-title">&nbsp;</div>
+                <nav class="footer-bottom-left-list">
+                    <ul>
+                        <li><a href="/marlborough-express/">Marlborough Express</a></li>
+                        <li>|</li>
+                        <li><a href="/manawatu-standard/">Manawatu Standard</a></li>
+                        <li>|</li>
+                        <li><a href="/nelson-mail/">Nelson Mail</a></li>
+                        <li>|</li>
+                        <li><a href="/southland-times/">Southland Times</a></li>
+                        <li>|</li>
+                        <li><a href="/taranaki-daily-news/">Taranaki Daily News</a></li>
+                        <li>|</li>
+                        <li><a href="/timaru-herald/">Timaru Herald</a></li>
+                    </ul>
+                </nav>
+                <div class="clearer"></div>
+            </div>
+            <div class="footer-bottom-left-row">
+                <div class="footer-bottom-left-title">Other Sites</div>
+                <nav class="footer-bottom-left-list">
+                    <ul>
+                        <li><a href="https://www.indexed.co.nz/">Indexed</a></li>
+                        <li>|</li>
+                        <li><a href="/life-style/parenting/">Parenting</a></li>
+                        <li>|</li>
+                        <li><a href="http://www.cuisine.co.nz/">Cuisine</a></li>
+                        <li>|</li>
+                        <li><a href="http://www.nzhouseandgarden.co.nz/">NZ House &amp; Garden</a></li>
+                        <li>|</li>
+                        <li><a href="http://www.nzgardener.co.nz/">NZ Gardener</a></li>
+                    </ul>
+                </nav>
+                <div class="clearer"></div>
+            </div></div><div id="footer-bottom-right">
+            <p class="footer-right-title">Breaking news?</p>
+            <p class="descrip">Send us your photos, videos and tip-offs:</p>
+            <p class="text-grey"><span class="float-left">Email</span><span><a href="mailto:newstips@stuff.co.nz">newstips@stuff.co.nz</a></span></p>
+            <div class="clearer"></div>
+            <p class="text-grey"><span class="float-left">Phone</span><span>0800 697 8833</span></p>
+            <div class="clearer"></div>
+        </div><div class="clearer"></div>
+    </div><div id="ffxcredit">
+          &copy; 2018 Stuff Limited</a><br/>
+          <a href="/about-stuff/legal/25044/privacy-policy">Privacy</a> | <a href="/about-stuff/10647720/Stuffs-terms-and-conditions">Terms and Conditions</a>
+    </div>
+</footer>
+</div></div><script id="nielsen-script-src" src="/etc/designs/ffx/nz/stuff/static/nielsen.min.v60.js"></script>
+<script id="nielsen-script-code" type="text/javascript">
+  var pvar = { cid: "nz-stuff", content: "0", server: "secure-nz" };
+  var feat = { surveys_enabled: 1, sample_rate: 0.1 };
+  var trac = nol_t(pvar, feat);
+  trac.record().post().do_sample();
+</script>
+<noscript id="nielsen-no-script">
+  <div>
+    <img src="//secure-nz.imrworldwide.com/cgi-bin/m?ci=nz-stuff&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt=""/>
+  </div>
+</noscript>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="//secure-nz.imrworldwide.com/cgi-bin/j?ci=nz-stuff&amp;se=1&amp;te=0"></script>
+
+<script type="text/javascript">
+        _satellite.pageBottom();</script>
+<script type="text/javascript" src="/etc/designs/ffx/nz/stuff/clientlibs-legacy/aol.min.clientlibversion.82715da28f89a1a10efb1b47de855a92.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+            var rokt = window._ROKT = window._ROKT || [];
+            var js = document.createElement('SCRIPT'); js.type = 'text/JavaScript'; js.async = true;
+            js.src = 'https://apps.rokt.com/?id=299077ae468349468477d0469676ad58&bhid=299077ae468349468477d0469676ad58-b&v=' + Math.floor(Math.random() * 999).toString();
+            var p = document.getElementsByTagName('script')[0]; p.parentNode.insertBefore(js, p);
+        </script>
+    
+</body>
+
+    <script lang="Javascript">
+        window.ffPageLoaded=true;
+    </script>
+</html>

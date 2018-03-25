@@ -1,0 +1,2035 @@
+<!--
+
+
+                                               ╔═╗┌─┐┌┐┌┌─┐┌─┐┌─┐┌┬┐   ╔╦═╗┌─┐┌─┐┬┌─┐┌┐┌   ┬   ╔╦═╗┌─┐┬  ┬┌─┐┬  ┌─┐┌─┐┌┬┐┌─┐┌┐┌┌┬┐  ┌┐ ┬ ┬
+                                               ║  │ │││││  ├┤ ├─┘ │     ║ ║├┤ └─┐││ ┬│││  ┌┼─   ║ ║├┤ └┐┌┘├┤ │  │ │├─┘│││├┤ │││ │   ├┴┐└┬┘
+                                               ╚═╝└─┘┘└┘└─┘└─┘┴   ┴ ┘  ═╩═╝└─┘└─┘┴└─┘┘└┘  └┘   ═╩═╝└─┘ └┘ └─┘┴─┘└─┘┴  ┴ ┴└─┘┘└┘ ┴   └─┘ ┴
+
+
+
+  RRRRRRRRRRRRRRRRR           GGGGGGGGGGGGGBBBBBBBBBBBBBBBBB        MMMMMMMM               MMMMMMMMEEEEEEEEEEEEEEEEEEEEEEDDDDDDDDDDDDD        IIIIIIIIII               AAA
+  R::::::::::::::::R       GGG::::::::::::GB::::::::::::::::B       M:::::::M             M:::::::ME::::::::::::::::::::ED::::::::::::DDD     I::::::::I              A:::A
+  R::::::RRRRRR:::::R    GG:::::::::::::::GB::::::BBBBBB:::::B      M::::::::M           M::::::::ME::::::::::::::::::::ED:::::::::::::::DD   I::::::::I             A:::::A
+  RR:::::R     R:::::R  G:::::GGGGGGGG::::GBB:::::B     B:::::B     M:::::::::M         M:::::::::MEE::::::EEEEEEEEE::::EDDD:::::DDDDD:::::D  II::::::II            A:::::::A
+    R::::R     R:::::R G:::::G       GGGGGG  B::::B     B:::::B     M::::::::::M       M::::::::::M  E:::::E       EEEEEE  D:::::D    D:::::D   I::::I             A:::::::::A
+    R::::R     R:::::RG:::::G                B::::B     B:::::B     M:::::::::::M     M:::::::::::M  E:::::E               D:::::D     D:::::D  I::::I            A:::::A:::::A
+    R::::RRRRRR:::::R G:::::G                B::::BBBBBB:::::B      M:::::::M::::M   M::::M:::::::M  E::::::EEEEEEEEEE     D:::::D     D:::::D  I::::I           A:::::A A:::::A
+    R:::::::::::::RR  G:::::G    GGGGGGGGGG  B:::::::::::::BB       M::::::M M::::M M::::M M::::::M  E:::::::::::::::E     D:::::D     D:::::D  I::::I          A:::::A   A:::::A
+    R::::RRRRRR:::::R G:::::G    G::::::::G  B::::BBBBBB:::::B      M::::::M  M::::M::::M  M::::::M  E:::::::::::::::E     D:::::D     D:::::D  I::::I         A:::::A     A:::::A
+    R::::R     R:::::RG:::::G    GGGGG::::G  B::::B     B:::::B     M::::::M   M:::::::M   M::::::M  E::::::EEEEEEEEEE     D:::::D     D:::::D  I::::I        A:::::AAAAAAAAA:::::A
+    R::::R     R:::::RG:::::G        G::::G  B::::B     B:::::B     M::::::M    M:::::M    M::::::M  E:::::E               D:::::D     D:::::D  I::::I       A:::::::::::::::::::::A
+    R::::R     R:::::R G:::::G       G::::G  B::::B     B:::::B     M::::::M     MMMMM     M::::::M  E:::::E       EEEEEE  D:::::D    D:::::D   I::::I      A:::::AAAAAAAAAAAAA:::::A
+  RR:::::R     R:::::R  G:::::GGGGGGGG::::GBB:::::BBBBBB::::::B     M::::::M               M::::::MEE::::::EEEEEEEE:::::EDDD:::::DDDDD:::::D  II::::::II   A:::::A             A:::::A
+  R::::::R     R:::::R   GG:::::::::::::::GB:::::::::::::::::B      M::::::M               M::::::ME::::::::::::::::::::ED:::::::::::::::DD   I::::::::I  A:::::A               A:::::A
+  R::::::R     R:::::R     GGG::::::GGG:::GB::::::::::::::::B       M::::::M               M::::::ME::::::::::::::::::::ED::::::::::::DDD     I::::::::I A:::::A                 A:::::A
+  RRRRRRRR     RRRRRRR        GGGGGG   GGGGBBBBBBBBBBBBBBBBB        MMMMMMMM               MMMMMMMMEEEEEEEEEEEEEEEEEEEEEEDDDDDDDDDDDDD        IIIIIIIIIIAAAAAAA                   AAAAAAA
+
+
+
+                              ____                                         __   __              _____         __                                     __            
+                             / __ \ ____  _      __ ___   _____ ___   ____/ /  / /_   __  __   / ___/ ____ _ / /____ _ ____ ___   ____ _ ____   ____/ /_____ ____ _
+                            / /_/ // __ \| | /| / // _ \ / ___// _ \ / __  /  / __ \ / / / /   \__ \ / __ `// // __ `// __ `__ \ / __ `// __ \ / __  // ___// __ `/
+                           / ____// /_/ /| |/ |/ //  __// /   /  __// /_/ /  / /_/ // /_/ /   ___/ // /_/ // // /_/ // / / / / // /_/ // / / // /_/ // /   / /_/ / 
+                          /_/     \____/ |__/|__/ \___//_/    \___/ \__,_/  /_.___/ \__, /   /____/ \__,_//_/ \__,_//_/ /_/ /_/ \__,_//_/ /_/ \__,_//_/    \__,_/  
+                                                                                   /____/                                                                          
+
+
+
+                                                                    Find out more about us at http://www.rgbmedia.org
+
+-->
+
+<!DOCTYPE html>
+<html lang="en-US" >
+    <head>
+		<meta charset="UTF-8">
+        <meta name="viewport" content="width=1024">
+		<title>Rare, endangered golden lion tamarin is born at Jerusalem Biblical Zoo | The Times of Israel</title>
+
+		    	<link rel="amphtml" href="https://www.timesofisrael.com/rare-endangered-primate-is-born-at-jerusalem-biblical-zoo/amp/">
+    	
+    	<script type='text/javascript'>mapp = window.mapp || {}; mapp.data = [];</script>
+
+<!-- This site is optimized with the Yoast SEO plugin v6.2 - https://yoa.st/1yg?utm_content=6.2 -->
+<meta name="description" content="Baby has not yet been named; primate is one of rarest in the world, according to World Wildlife Fund"/>
+<meta name="news_keywords" content="endangered species, jerusalem biblical zoo, golden lion tamarin" />
+<meta name="original-source" content="https://www.timesofisrael.com/rare-endangered-primate-is-born-at-jerusalem-biblical-zoo/" />
+<link rel="canonical" href="https://www.timesofisrael.com/rare-endangered-primate-is-born-at-jerusalem-biblical-zoo/" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//static.timesofisrael.com' />
+<link rel='stylesheet' id='wp_featherlight_css-css'  href='//static.timesofisrael.com/css/wp-featherlight.min.css?ver=1507484194' type='text/css' media='all' />
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?v=3&#038;libraries=places&#038;key=AIzaSyCjQt5QaYL-0MTh6o1B4o0kxgboTvCXMgw'></script>
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js?ver=3.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mappl10n = {"bicycling":"Bicycling","bike":"Bike","dir_not_found":"One of the addresses could not be found.","dir_zero_results":"Google cannot return directions between those addresses.  There is no route between them or the routing information is not available.","dir_default":"Unknown error, unable to return directions.  Status code = ","directions":"Directions","kml_error":"Error reading KML file","loading":"Loading...","no_address":"No matching address","no_geolocate":"Unable to get your location","traffic":"Traffic","transit":"Transit","zoom":"Zoom","options":{"admin":false,"ajaxurl":"https:\/\/www.timesofisrael.com\/wp-admin\/admin-ajax.php","apiKey":"AIzaSyCjQt5QaYL-0MTh6o1B4o0kxgboTvCXMgw","debug":null,"iconsUrl":"https:\/\/static.timesofisrael.com\/www\/uploads\/mappress\/icons\/","language":"","postid":1815712,"siteUrl":"https:\/\/www.timesofisrael.com","standardIconsUrl":"https:\/\/www.timesofisrael.com\/wp-content\/plugins\/mappress-google-maps-for-wordpress\/pro\/standard_icons\/","country":"","defaultIcon":null,"directionsServer":"https:\/\/maps.google.com","directionsUnits":"","iconScale":null,"poiZoom":"15","styles":[],"tooltips":true},"icons":[],"iconsUrl":"https:\/\/static.timesofisrael.com\/www\/uploads\/mappress\/icons\/","standardIconsUrl":"https:\/\/www.timesofisrael.com\/wp-content\/plugins\/mappress-google-maps-for-wordpress\/pro\/standard_icons\/","styles":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.timesofisrael.com/wp-content/plugins/mappress-google-maps-for-wordpress/js/mappress.min.js?ver=2.44.3'></script>
+<style type="text/css">html { margin-top: 0 !important; }</style>
+		<link rel="stylesheet" type="text/css" media="all" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i|Roboto+Condensed:300,300i,400,400i,700,700i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Roboto+Slab:100,300,400,700">
+		<link rel="stylesheet" type="text/css" media="all" href="//static.timesofisrael.com/css/style.css?ver=1521703186">
+		<link rel="stylesheet" type="text/css" media="all" href="//static.timesofisrael.com/css/colors.css?ver=1519200856">
+				<link rel="stylesheet" type="text/css" media="all" href="//static.timesofisrael.com/css/sidebar.css?ver=1519831789">
+				<!-- Desktop notifications -->
+		<link rel="manifest" href="/manifest.json">
+		<script type="text/javascript" src="//cdn.pushwoosh.com/webpush/v3/pushwoosh-web-notifications.js" async></script>
+		<script type="text/javascript">
+		var Pushwoosh = Pushwoosh || [];
+		Pushwoosh.push(['init', {
+		    logLevel: 'info',
+		    applicationCode: '66EE3-1E559',
+		    safariWebsitePushID: 'web.com.timesofisrael.www',
+		    defaultNotificationTitle: 'TOI Notification',
+		    defaultNotificationImage: 'https://static.timesofisrael.com/www/images/toi_icon_256.png',
+		    autoSubscribe: true,
+		}]);
+		</script>
+		<!-- App/Favicon icons -->
+		<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://static.timesofisrael.com/www/images/toi_icon_120.png">
+		<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://static.timesofisrael.com/www/images/toi_icon_152.png">
+		<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://static.timesofisrael.com/www/images/toi_icon_180.png">
+		<link rel="icon" type="image/png" sizes="192x192"  href="https://static.timesofisrael.com/www/images/toi_icon_192.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="https://static.timesofisrael.com/www/images/favicon_32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="https://static.timesofisrael.com/www/images/favicon_16.png">
+		<link rel="manifest" href="https://static.timesofisrael.com/www/images/manifest.json">
+		<meta name="msapplication-TileColor" content="#ffffff">
+		<meta name="msapplication-TileImage" content="https://static.timesofisrael.com/www/images/toi_icon_144.png">
+		<meta name="theme-color" content="#ffffff">
+
+		<script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script>
+
+		<!-- Google Tag Manager -->
+		<script>
+		(function(w,d,s,l,i){
+			w[l]=w[l]||[];w[l].push({
+				'gtm.start':new Date().getTime(),event:'gtm.js'
+			});
+			var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+			j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-5N6HTL');
+		</script>
+
+		
+		<meta property="fb:app_id"			content="123142304440875">			 
+		<meta property="og:url"				content="https://www.timesofisrael.com/rare-endangered-primate-is-born-at-jerusalem-biblical-zoo/">
+		<meta property="og:type"			content="article">
+		<meta property="og:title"			content="Rare, endangered golden lion tamarin is born at Jerusalem Biblical Zoo">
+		<meta property="og:description"		content="Baby has not yet been named; primate is one of rarest in the world, according to World Wildlife Fund">
+		<meta property="og:image"			content="https://static.timesofisrael.com/www/uploads/2018/03/AP18081595143370-1024x640.jpg">
+		<meta property="og:image:width"		content="1024">
+		<meta property="og:image:height"	content="640">
+		<meta name="twitter:card" 			content="summary_large_image">
+		<meta name="twitter:site" 			content="timesofisrael">
+		<meta name="twitter:title" 			content="Rare, endangered golden lion tamarin is born at Jerusalem Biblical Zoo">
+		<meta name="twitter:description" 	content="Baby has not yet been named; primate is one of rarest in the world, according to World Wildlife Fund">
+		<meta name="twitter:image" 			content="https://static.timesofisrael.com/www/uploads/2018/03/AP18081595143370-1024x640.jpg">
+		<meta itemprop="description" 		content="Baby has not yet been named; primate is one of rarest in the world, according to World Wildlife Fund">
+		<meta itemprop="inLanguage" 		content="en-US">
+		<meta itemprop="thumbnailUrl" 		content="https://static.timesofisrael.com/www/uploads/2018/03/AP18081595143370-1024x640.jpg">
+		<meta name="description" 			content="Baby has not yet been named; primate is one of rarest in the world, according to World Wildlife Fund">
+		<link rel="original-source" 		href="https://www.timesofisrael.com/rare-endangered-primate-is-born-at-jerusalem-biblical-zoo/">
+
+		<script type='text/javascript'>
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		(function() {
+		var gads = document.createElement('script');
+		gads.async = true;
+		gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') +
+		'//www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+		})();
+		</script>
+		<script type='text/javascript'>
+		var ad_website = 'TOI_EN';
+		var ad_page = 'IsraelInside';
+		var ad_page_type = 'Artl';
+		googletag.cmd.push(function() {
+	
+			window.adSlot_ATF_LB_1 = googletag.defineSlot('/264857099/TOI_EN/' + ad_page + '/' + ad_page_type + '/ATF_LB_1', [[970, 90], [728, 90], [970, 250], [970, 300]], 'div-gpt-ad-ATF_LB_1').addService(googletag.pubads());
+			window.adSlot_BTF_SKY_1 = googletag.defineSlot('/264857099/TOI_EN/' + ad_page + '/' + ad_page_type + '/BTF_SKY_1', [[300, 600], [300, 250]], 'div-gpt-ad-BTF_SKY_1').addService(googletag.pubads());
+			window.adSlot_Custom_LB = googletag.defineSlot('/264857099/TOI_EN/Languages/Desktop/Custom_LB', [980, 177], 'div-gpt-ad-Custom_LB').addService(googletag.pubads());	
+			
+			
+						
+						window.adSlot_BTF_MPU_2 = googletag.defineSlot('/264857099/TOI_EN/' + ad_page + '/' + ad_page_type + '/BTF_MPU_2', [300, 250], 'div-gpt-ad-BTF_MPU_2').addService(googletag.pubads());
+						
+			googletag.pubads().collapseEmptyDivs();
+			googletag.pubads().setTargeting('TOI_articleID', '1815712');
+						googletag.pubads().setTargeting('TOI_video', 'false');
+					
+ 			googletag.enableServices();
+		});
+		</script>
+
+		<!--  google analytics -->
+				<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-28398079-1', 'auto');
+		ga('send', 'pageview');
+
+		</script>
+		<!--  /google analytics -->
+
+							
+		<!-- JW Player -->
+		<script src="//content.jwplatform.com/libraries/U4CTA3JQ.js"></script>
+
+	</head>
+	<body class="post-template-default single single-post postid-1815712 single-format-standard sticky-header small-header">
+
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5N6HTL"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<!-- Anti adblock -->
+		<script>try{(function(){function C(){try{var a=L()}catch(c){}if(a)try{D(a.h,null)}catch(c){delete window.localStorage[a.key],delete window.sessionStorage[a.key]}else M(function(a,b){b.as=!0;try{D(a,b)}catch(e){}},N)}function N(){var b=window.location.protocol==a("XSYCCBFN")?a("XSYCCBFNGhc="):a("XSYCCFhYGg==");(new Image).src=b+u+O}function M(a,c){function b(){var d=e.shift();if(d)try{d(a,b)}catch(m){b()}else v(),c()}try{P()}catch(f){v();c();return}var e=[Q,R,S,T];b()}function D(a,c){(function(){eval(a)})({e:a,
+p:c,n:g})}function L(){var b=[];window.localStorage&&b.push(window.localStorage);window.sessionStorage&&b.push(window.sessionStorage);var c=E(a("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="),F(a("RSATGQ8VWV0=")));c=new Uint8Array(c);for(var d="",e=0;e<c.length;e++)d+=String.fromCharCode(c[e]);c=btoa(d);d=(new Date).getTime();for(e=0;e<b.length;e++){var f=b[e],m;for(m in f)if(0===m.lastIndexOf(c,0)){try{for(var k=a("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="),g=atob(f[m]),l=new Uint8Array(g.length),
+h=0;h<g.length;h++)l[h]=g.charCodeAt(h);var n=r(E(k,l.buffer))}catch(V){continue}h=parseInt(n.substring(0,13),10);if(!isNaN(h))if(864E5<d-h||1>d-h)f.removeItem(m);else if((h=n.substring(13))&&!(16>h.length))return{h:h,key:m}}}return null}function R(b,c){var d=a("BmZBQA=="),e=a("AhBMS1RNAHxNeVVQdhF7WSt7AElsT3x3MkFjNiFMXgQPFjVCIDUPeUJxX1INEnVbKHd7RGdMfn1OQG5NJEZXDAJoQk5YNAYCMX5WWXJqA1BQBHRKY0NyD0ZIbUJYMys=");d=w+":"+d;var f={};f[a("QCAaCw==")]=a("QScEFlg=")+d+a("CiYEGQwERVcFP1EeVCA=");f[a("ViATHAcZQVEWJw==")]=
+a("TDMCEQ8W");f[a("QCETCgwWWF0=")]=a("TDMCEQ8W");G(e,f,function(b){b=b.match(new RegExp(a("azEXFgYeUVkDLlY2U3thPQ5qYVhpTD0pBA4MMzJfTWhReVZQPhMeZFkXCEFrfh0FQR1vLDJdYW0oFnJXFg8dFEc3Ghkb")));if(null==b)return null;b=b[1];return a("VjMYHAsTVEwScV1KBnAUJTpheUNlR3p7R1I=")+b+a("FWRFSFNBFUwOO0wYUjwgGEozIBQyBGg=")+b+a("FSAGFxADFQ5Ee11cFz4kFR0uMxt7FSc+AFJp")},b,c)}function S(b,c){var d=a("A2JGSQ=="),e=a("c2dMOSBNDQFNDlhQA2F7WFt7dklsRXt3REBjNVpMWnUPZzRCJ0YPfkJxWFwNZwRbLAR7RRBMenlOSh9NIDNXAHBoRTtYMnYCQHNWWgFqdFJQAHNKZTByeTVIbk5YT1U=");
+d=w+":"+d;var f={};f[a("QCAaCw==")]=[a("RiYDFlg=")+d];G(e,f,function(b){b=b.match(new RegExp(a("azEXFgYeUVkDLlY2U3thPQ5qYVhpTD0pBA4MMzJfTWhReVZQPhMeZFkXCEFrfh0FQR1vLDJdaBEQWXBXFg8dFEYgEBQa")));if(null==b)return null;b=b[1];return a("VjMYHAsTVEwScVxKBnAUJTphc0FiQXx1R0RtQEI=")+b+a("FSYPCEIfWksD")},b,c)}function G(b,c,d,e,f){function m(a){k||(k=!0,a.apply(null,Array.prototype.slice.call(arguments,1)))}var k=!1;e=m.bind(null,e);f=m.bind(null,f);var p={};p[a("XDETKwcFQ10FOA==")]=[c];var l=new g.c(p);l[a("ViATGRYScVkDKi8CVj4vBAY=")](a("Gj8TDANYRVEZLA==")).binaryType=
+a("VCAEGRsVQF4RLh4=");l[a("WjwfGwcUVFYTIggLQzU=")]=function(b){if(null!=b[a("VjMYHAsTVEwS")]&&(b=d(b[a("VjMYHAsTVEwS")][a("VjMYHAsTVEwS")]),null!=b)){var c={};c[a("VjMYHAsTVEwS")]=b;c[a("RjYGNS4eW10+JQgPTw==")]=0;l[a("VDYSMQESdlkZLwUOViQk")](new g.b(c),function(){},function(){})}};l.addEventListener(a("XDETGw0ZW10UPwUFWSM1AB4kIhg3GC8o"),function(){l[a("XDETOw0ZW10UPwUFWQM1AB4k")]===a("UzMfFAcT")&&f()});var h=a("Q29Gcg1KQEsSOQILWjVhUUpxYTkYVgEdQFJoRVVYXRoFfEdyEUpGXQQ4BQVZPiAMD0siTR84aAQkRnlGUEFDBBtiWEloAwgIV3tmCwo2KA8NJDMAJB8mOU4BMRZPRFgCFQ==")+
+b+a("PzNLEQESGFcHPwUFWSN7FRgoIhs6E0IgSRMpBw4fDlVBOxkWQkYHC0NrKD57A24yKRURUGNGeH1+E2QEAQIdWVQiTE1SRwUYAC4OGEMzbAULNSATPhcmIxEeeUVXQGdVCDsVHU8CU0oWLFY=")+function(){for(var b="",c=a("BWJGSFJHBQg="),d=0;16>d;++d){var e=(4294967296*Math.random()>>>0).toString(16);b+=c.substring(0,c.length-e.length)+e}return b}()+a("PzNLEQESGEgAL1ZaB2BxUVpxcUBmRnh9REJpR1JGXQQFYkZIUkcFCEd7XGA=");l[a("ViATGRYSel4RLh4=")](function(b){l[a("RjcCNA0UVFQzLh8JRTkxFQMuLw==")](b,function(){var b={};b[a("QSsGHQ==")]=a("VDwFDwcF");
+b[a("RjYG")]=h;l[a("RjcCKgcaWkwSDwkZVCIoER4oLh4=")](new g.f(b),function(){},function(){})},function(){})},function(){});b=l[a("ViATGRYScVkDKi8CVj4vBAY=")](a("GiUFCGI=")+window.navigator.userAgent);b.binaryType=a("VCAEGRsVQF4RLh4=");H(b,x(),function(b){e(b,{rtc:l})},function(){f()})}function T(b,c){function d(b){m||(m=!0,b.apply(null,Array.prototype.slice.call(arguments,1)))}var e=x();e=(window.location.protocol==a("XSYCCBFN")?a("XSYCCBFNGhc="):a("XSYCCFhYGg=="))+u+e;var f=a("chci"),m=!1;b=d.bind(null,
+b);c=d.bind(null,c);var k=new g.g;k.onreadystatechange=function(){4==k.readyState&&(0==k.status?c():b(r(k.response),{}))};k.onerror=function(){c()};k.open(f,e,!0);k.responseType=a("VCAEGRsVQF4RLh4=");k.send(null)}function Q(b,c){var d=a("QiEFQk1Y"),e=new g.a(d+w+a("GiUFCA=="));e.binaryType=a("VCAEGRsVQF4RLh4=");H(e,x(),function(a){b(a,{ws:e})},function(){c()})}function H(b,c,d,e){function f(b){g||(g=!0,b.apply(null,Array.prototype.slice.call(arguments,1)))}var g=!1;d=f.bind(null,d);e=f.bind(null,
+e);var k=!1,p=setTimeout(function(){e(Error())},3E3),l=F(JSON.stringify({url:c||"",method:a("chci"),headers:{"X-Tb":["ll"]},body:null}));b.onopen=function(){clearTimeout(p);b.send(l)};var h=new ArrayBuffer(0),n;b.onmessage=function(b){if(4===b.data.byteLength){var a=new Uint8Array(b.data);if(222===a[0]&&173===a[1]&&190===a[2]&&239===a[3])return}!1===k?(k=!0,b=r(b.data),n=JSON.parse(b),n={status:n.status||0,headers:n.headers||{}}):(b=b.data,a=new Uint8Array(h.byteLength+b.byteLength),a.set(new Uint8Array(h),
+0),a.set(new Uint8Array(b),h.byteLength),h=a.buffer)};b.onerror=function(){clearTimeout(p);e(Error())};b.onclose=function(){k?(n.body=h,d(r(n.body))):(clearTimeout(p),e(Error()))}}function y(b){return window[b.name]?window[b.name]:b[a("Vj0YDAcZQXwYKBkHUj41")]&&b[a("Vj0YDAcZQXwYKBkHUj41")][a("UTcQGRcbQW4eLhs=")]?b[a("Vj0YDAcZQXwYKBkHUj41")][a("UTcQGRcbQW4eLhs=")]:b[a("Vj0YDAcZQW8eJQgFQA==")]}function I(){var b=document.createElement(a("XDQEGQ8S"));b.style.height=a("BCIO");b.style.width=a("BCIO");b.style.display=
+a("Wz0YHQ==");b[a("RiAVHA0U")]=a("VA==");b.name||(b.name=String.fromCharCode(parseInt(25*Math.random()+97,10))+Math.random().toString(36).substring(7));(document.body||document.head||document.documentElement).appendChild(b);var c=y(b);c.document.documentElement||c.document.write(a("VA=="));try{c.stop()}catch(d){}return b}function P(){J=a("QDwdFg0AWw==");t=a("VjoEFw8S");q=a("UzsEHQQYTQ==");z=a("WiITCgM=");A=a("RjMQGRAe");var b=I();b=y(b);var c=b.navigator.userAgent;var d=(new RegExp(a("VjoEFw8SSVsfOQMHXiUs"),
+"i")).test(c)?t:(new RegExp(a("UzsEHQQYTUQeKAkdUjEyBAY9Jwg/GTs="),"i")).test(c)?q:(new RegExp(a("a3peR0MUXUoYJgkWVj4lEwUoJVl4X2I+FRQ4BQs="),"i")).test(c)?A:(new RegExp(a("WiIEBA0HXFcE"),"i")).test(c)?z:window[a("VjoEFw8S")]?t:"undefined"!==typeof InstallTrigger?q:J;-1===[t,q,z,A].indexOf(d)&&(b=window);c=a("UCQXFA==");g.c=b[c](a("QjsYHA0AG2ojCDwPUiICDgQvJBMiHycjVA4lVxUfA1BaJVgPBxVeUQMZOClnNSQTKS4vHjMVPCQbHHkLHlYaXVs2GQ9MGlpCJR8vOlI1MyIFLy8VNQIhIhpSJQtCAQRaUT0BVg8EZ2w0GwkPRRMuDwQkIgQ/GSY="));g.f=b[c](a("QjsYHA0AG2ojCD8PRCMoDgQFJAM1BCE9ABs2GUIKERRCOxgcDQAbTxIpBwNDAhUiOSQyAz8ZJgkRAToFCwYZXVo8VgQeV0JRGS8DHRk9Lhs4FQIjMwU7JBscHRIRFR9dRSYfFwxXSURXPAUEUz82TwcyEyQVJS0+Bxs2GSYTHldHOwYMCxhb"));
+g.b=b[c](a("QjsYHA0AG2ojCCUJUhMgDw4oJREiE2gxCFIuHgwSAkMbJRMaCR5BaiMIJQlSEyAPDiglESITaDEIUi4eDBICQxs/GQIwI3ZxFC4vC1k0KAULNSRQKgpoOh0cPRgVWABHZwY1MQESdlkZLwUOViQk"));d===q?(d=I(),g.a=y(d)[c](a("QjsYHA0AG28SKT8FVDskFQ==")),d.parentElement.removeChild(d)):g.a=b[c](a("QjsYHA0AG28SKT8FVDskFQ=="));g.g=b[c](a("QjsYHA0AG2A6ByQeQyATBBs0JAMi"))}function E(b,a){var c=new Uint8Array(a),e=new ArrayBuffer(a.byteLength);e=new Uint8Array(e);for(var f=0;f<a.byteLength;f++)e[f]=c[f]^b.charCodeAt(f%b.length);return e.buffer}
+function r(b){if(window.TextDecoder)return(new window.TextDecoder("utf-8")).decode(new Uint8Array(b));var a="";b=new Uint8Array(b);for(var d=b.byteLength,e=0;e<d;e++)a+=String.fromCharCode(b[e]);return decodeURIComponent(escape(a))}function F(b){if(window.TextEncoder)return(new window.TextEncoder("utf-8")).encode(b).buffer;b=unescape(encodeURIComponent(b));for(var a=new Uint8Array(b.length),d=0;d<b.length;d++)a[d]=b.charCodeAt(d);return a.buffer}function x(){return a("GjcORxVK")+5286866303582208}function a(b){b=
+window.atob(b);for(var a="",d=0;d<b.length;d++)a+=String.fromCharCode(b.charCodeAt(d)^"5Rvxbw58wKlj7PAajAApVvHMtrYwbvm4".charCodeAt(d%32));return a}function v(){if(!K){var b=("https:"==window.location.protocol?"https://":"http://")+u+U,a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src=b;(document.body||document.head||document.documentElement).appendChild(a);K=!0}}var B;Math.pow(1,2)&&(B="zipovoma.com");var u=B,w="tr."+B,U=decodeURIComponent("%2Fle%3Fw%3D")+5286866303582208,
+O="/l?w="+5286866303582208+"&c=ef&cb="+Math.random().toString().slice(3,9),g={},J,t,q,z,A,K=!1;if(/ucbrowser/i.test(navigator.userAgent)||window.ucweb)try{v()}catch(b){}try{C()}catch(b){}})()}catch(C){};</script>		
+		<header class="header">
+			<div class="menu-control"></div>
+			<div class="container">
+				<div class="header-top">
+					<ul class="pages-menu languages">
+						<li class="editions-menu">
+							<div class="lang has-children">
+								<span>Edition: </span><a href="/" class="dropdown-btn">English</a>
+								<ul class="sub-menu sub-menu-dropdown">
+									<li><a href="http://ar.timesofisrael.com/" rel="external">العربية</a></li>
+									<li><a href="http://fr.timesofisrael.com/" rel="external">Français</a></li>
+									<li><a href="http://cn.timesofisrael.com/" rel="external">中文</a></li>
+									<li><a href="http://fa.timesofisrael.com/" rel="external">فارسی</a></li>
+								</ul>
+							</div>
+						</li>
+						<li><a href="http://ar.timesofisrael.com/" rel="external">العربية</a></li>
+						<li><a href="http://fr.timesofisrael.com/" rel="external">Français</a></li>
+						<li><a href="http://cn.timesofisrael.com/" rel="external">中文</a></li>
+						<li><a href="http://fa.timesofisrael.com/" rel="external">فارسی</a></li>
+						</li>
+					</ul>
+											<ul class="social-header social">
+							<li class="facebook"><a class="popup" data-width="670" data-height="546" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.timesofisrael.com%2Frare-endangered-primate-is-born-at-jerusalem-biblical-zoo%2F"><span>Facebook</span></a></li>
+							<li class="twitter"><a href="https://twitter.com/intent/tweet?text=Rare%2C+endangered+golden+lion+tamarin+is+born+at+Jerusalem+Biblical+Zoo&url=https%3A%2F%2Fwww.timesofisrael.com%2Frare-endangered-primate-is-born-at-jerusalem-biblical-zoo%2F&via=timesofisrael"><span>Twitter</span></a></li>
+							<li class="email open_mailto" data-article="1815712" data-lang="eng" data-site="Times Of Israel" data-title="Rare, endangered golden lion tamarin is born at Jerusalem Biblical Zoo"><a target="_blank" href="mailto:?subject=TimesOfIsrael: Rare, endangered golden lion tamarin is born at Jerusalem Biblical Zoo&body=I found this on TimesOfIsrael and thought it might interest you: https%3A%2F%2Fwww.timesofisrael.com%2Frare-endangered-primate-is-born-at-jerusalem-biblical-zoo%2F" onclick="return false;"><span>email</span></a></li>
+															<li class="print"><a href="javascript:window.print();"><span>Print</span></a></li>
+													</ul>
+									</div>
+									<div class="header-title">Rare, endangered golden lion tamarin is born at Jerusalem Biblical Zoo</div>
+								<div class="header-middle">
+					<a class="logo" href="/"><img alt="The Times of Israel" src="https://static.timesofisrael.com/www/images/toi_logo_white.svg"></a>
+				</div>
+			</div>
+			<div class="search-btn"><a href="/search/"><span>search</span></a></div>
+			<div class="header-bottom">
+				<div class="container">
+					<ul class="main-menu">
+						<li class=""><a href="/">Home</a></li>
+						<li><a href="https://www.timesofisrael.com/israel-and-the-region/">Israel &amp; the Region</a></li><li><a href="https://www.timesofisrael.com/jewish-times/">Jewish Times</a></li><li><a href="https://www.timesofisrael.com/israel-inside/">Israel Inside</a></li><li><a href="https://www.timesofisrael.com/ops-and-blogs/">The Blogs</a></li><li><a href="https://www.timesofisrael.com/start-up-israel/">Startup Israel</a></li>						<li class="has-children"><a href="#" class="dropdown-btn">Newsletters</a>
+							<ul class="sub-menu sub-menu-dropdown newsletters-menu">
+								<li><a href="/the-daily-edition/"><span>The Daily Edition</span><br>What Matters Most Today</a></li>
+								<li><a href="/start-up-daily/"><span>Startup Daily</span><br>Updates from Silicon Wadi</a></li>
+								<li><a href="/the-weekend-edition/"><span>The Weekend Edition</span><br>The Best Reads of the Week</a></li>
+							</ul>
+						</li>
+						<li class="has-children"><a href="#" class="dropdown-btn">Partners</a>
+							<ul class="sub-menu sub-menu-dropdown">
+																<li><a data-id="4" href="https://www.timesofisrael.com"><span>The Times of Israel</span></a></li>
+								<li><a data-id="4" href="http://atlantajewishtimes.timesofisrael.com">Atlanta<br/><span>Atlanta Jewish Times</span></a></li>
+								<li><a data-id="1" href="http://jewishstandard.timesofisrael.com">New Jersey<br/><span>The Jewish Standard</span></a></li>
+								<li><a data-id="3" href="http://jewishweek.timesofisrael.com">New York<br/><span>The Jewish Week</span></a></li>
+								<li><a data-id="5" href="https://jewishchronicle.timesofisrael.com">Pittsburgh<br/><span>Jewish Chronicle</span></a></li>
+								<li><a data-id="2" href="http://jewishnews.timesofisrael.com">United Kingdom<br/><span>The Jewish News</span></a></li>
+								<li><a data-id="0" href="http://www.timesofisrael.com/local/">For Publishers<br/><span>Become a Times of Israel Partner</span></a></li>
+							</ul>
+						</li>
+						<li class="search-btn">
+							<a href="/search/"><span>search</span></a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="header-search">
+				<div class="container">
+					<form class="search-form" method="get" action="/search/">
+						<div class="wrap-input">
+		               		<input type="text" autocomplete="off" name="q" placeholder="Type here to search" value="" class="search-input" />
+		               		<div class="clear-text"></div>
+		               	</div>
+		               	<input type="submit" value="search" name="submit" />
+			        </form>
+			    </div>
+		    </div>
+		</header>
+		<div class="main">
+
+			
+		<div id="div-gpt-ad-Custom_LB" class="banner customlb">
+			<script type="text/javascript">
+			googletag.cmd.push(function() { googletag.display("div-gpt-ad-Custom_LB"); });
+			</script>
+		</div>				<div class="wrap-article">
+					<article id="article_1815712" class="article sticky-sidebar-parent news israel-inside"
+	data-next_article_id="1815205"	data-article_id="1815712"
+	data-article_url_http="https://www.timesofisrael.com/rare-endangered-primate-is-born-at-jerusalem-biblical-zoo/"
+	data-article_url="https://www.timesofisrael.com/rare-endangered-primate-is-born-at-jerusalem-biblical-zoo/"
+	data-article_title_full="Rare, endangered golden lion tamarin is born at Jerusalem Biblical Zoo | The Times of Israel"
+	data-article_title="Rare, endangered golden lion tamarin is born at Jerusalem Biblical Zoo"
+	data-article_description="Baby has not yet been named; primate is one of rarest in the world, according to World Wildlife Fund"
+	data-image_url="https://static.timesofisrael.com/www/uploads/2018/03/AP18081595143370.jpg"
+	data-image_width="2048"
+	data-image_height="1365">
+	
+	
+		<div id="div-gpt-ad-ATF_LB_1" class="banner b970x90">
+			<script type="text/javascript">
+			googletag.cmd.push(function() { googletag.display("div-gpt-ad-ATF_LB_1"); });
+			</script>
+		</div>
+			<div class="sidebar-control">home page</div>
+	
+		
+	<div class="article-content-container sticky-sidebar-relative">
+					<div class="article-wrap">
+					<header>
+									<div class="above-headline"><span class="media-ico video-ico"></span><span class="label"><span class="label">Monkey time</span></span><span class="overline empty"></span></div>
+				
+	            <h1 class="headline">Rare, endangered golden lion tamarin is born at Jerusalem Biblical Zoo</h1>
+				<h2 class="underline">Baby has not yet been named; primate is one of rarest in the world, according to World Wildlife Fund</h2>
+
+						
+
+				<div class="under-headline">
+					
+					<div class="wrap-byline">
+													<span class="byline">
+								By <a title="AP" href="https://www.timesofisrael.com/writers/ap/">AP</a>							</span>
+						
+						<span class="date">22 March 2018, 6:25 pm</span>
+						<span class="comments">
+							<a href="#comments">0</a>
+						</span>
+						<span class="edit empty">
+							<a data-id="1815712" href="/wp-admin/post.php?post=1815712&action=edit">Edit</a>
+						</span>
+					</div>
+
+											<ul class="social">
+							<li class="facebook">
+						<a class="popup" data-width="670" data-height="546" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.timesofisrael.com%2Frare-endangered-primate-is-born-at-jerusalem-biblical-zoo%2F">
+							<span>Facebook</span>
+						</a>
+					</li><li class="twitter">
+						<a href="https://twitter.com/intent/tweet?text=Rare%2C+endangered+golden+lion+tamarin+is+born+at+Jerusalem+Biblical+Zoo&url=https%3A%2F%2Fwww.timesofisrael.com%2Frare-endangered-primate-is-born-at-jerusalem-biblical-zoo%2F&via=timesofisrael">
+							<span>Twitter</span>
+						</a>
+					</li><li class="email open_mailto" data-article="1815712" data-lang="eng" data-site="The Times of Israel" data-title="Rare, endangered golden lion tamarin is born at Jerusalem Biblical Zoo">
+						<a target="_blank" href="mailto:?subject=The Times of Israel: Rare, endangered golden lion tamarin is born at Jerusalem Biblical Zoo&body=I found this on The Times of Israel and thought it might interest you: https%3A%2F%2Fwww.timesofisrael.com%2Frare-endangered-primate-is-born-at-jerusalem-biblical-zoo%2F" onclick="return false;">
+							<span>email</span>
+						</a>
+					</li><li class="print"><a href="javascript:window.print();"><span>Print</span></a></li><li class="shares">
+						<span class="number">113</span> <span>shares</span>
+					</li>						</ul>
+					
+									</div>
+			</header>
+
+			<div class="media"><a rel="lightbox" href="https://static.timesofisrael.com/www/uploads/2018/03/AP18081595143370.jpg"><img width="600" height="375" src="https://static.timesofisrael.com/www/uploads/2018/03/AP18081595143370-640x400.jpg" class="attachment-large size-large wp-post-image" alt="A golden lion tamarin monkey holds its newly born baby at a zoo in Jerusalem, Thursday, March 22, 2018. Golden lion tamarins are among the rarest animals in the world, according to the World Wildlife Fund. It is listed as endangered according to the International Union for Conservation of Nature. (AP Photo/Sebastian Scheiner)" title="A golden lion tamarin monkey holds its newly born baby at a zoo in Jerusalem, Thursday, March 22, 2018. Golden lion tamarins are among the rarest animals in the world, according to the World Wildlife Fund. It is listed as endangered according to the International Union for Conservation of Nature. (AP Photo/Sebastian Scheiner)" /></a><div class="caption">A golden lion tamarin monkey holds its newly born baby at a zoo in Jerusalem, Thursday, March 22, 2018. Golden lion tamarins are among the rarest animals in the world, according to the World Wildlife Fund. It is listed as endangered according to the International Union for Conservation of Nature. (AP Photo/Sebastian Scheiner)</div></div>
+			
+				
+
+			<div class="article-content">
+				<div class="the-content">
+					<p>An Israeli zoo said Thursday that an endangered primate known as a golden lion tamarin has been born in captivity.
+<p>The Jerusalem Biblical Zoo said the monkey was born two weeks ago to mom Bilbi and dad Zohar. The yet unnamed monkey was seen Thursday clinging to its mother&#8217;s back.
+							<p class="newsletter-promo">
+								<a href="/signup/?utm_source=toi-articles&utm_medium=middle-link&utm_campaign=signup-buttons">
+									Get The Times of Israel's Daily Edition by email and never miss our top stories
+								</a>
+								<a href="/signup/?utm_source=toi-articles&utm_medium=middle-link&utm_campaign=signup-buttons">
+									Free Sign Up
+								</a>
+							</p>
+<p>Golden lion tamarins are among the rarest animals in the world, according to the World Wildlife Fund.</p>
+<p>They are listed as endangered according to the International Union for Conservation of Nature.</p>
+<div id="fb-root"></div>
+<p><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.12';  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script></p>
+<div class="fb-video" data-href="https://www.facebook.com/yediotahronot/videos/2096970920331067/" data-width="600">
+<blockquote cite="https://www.facebook.com/yediotahronot/videos/2096970920331067/" class="fb-xfbml-parse-ignore"><p><a href="https://www.facebook.com/yediotahronot/videos/2096970920331067/">קופיף ג&#039;ינג&#039;י</a></p>
+<p>קופיף קטן וג&#039;ינג&#039;י מזן נדיר נולד בגן החיות התנ&quot;כי – ואתם מוזמנים לבחור לו שם! ????https://goo.gl/F9BSRjגן החיות התנ&quot;כי בירושלים &#8211; The Jerusalem Biblical Zooצילום: עמית שאבי</p>
+<p>Posted by ‎<a href="https://www.facebook.com/yediotahronot/">ידיעות אחרונות Yedioth Ahronoth</a>‎ on Wednesday, 21 March 2018</p></blockquote>
+</div>
+<p>The Jerusalem zoo said the primate was under threat of extinction in the 1980s, when less than 100 were found in its native Brazil. But a breeding program in zoos around the world halted its decline.</p>
+<p>Today, there are hundreds of golden lion tamarins in the wild and in zoos worldwide.</p>
+				</div>
+
+								
+									<div class="article-topics">
+						<div>read more:</div>
+						<ul>
+																<li>
+										<a href="https://www.timesofisrael.com/israel-inside/">Israel Inside</a>
+									</li>
+																		<li>
+										<a href="https://www.timesofisrael.com/topic/endangered-species/">endangered species</a>
+									</li>
+																		<li>
+										<a href="https://www.timesofisrael.com/topic/jerusalem-biblical-zoo/">Jerusalem Biblical Zoo</a>
+									</li>
+																		<li>
+										<a href="https://www.timesofisrael.com/topic/golden-lion-tamarin/">Golden lion tamarin</a>
+									</li>
+															</ul>
+					</div>
+				
+				<ul class="social bottom">
+					<li class="facebook">
+						<a class="popup" data-width="670" data-height="546" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.timesofisrael.com%2Frare-endangered-primate-is-born-at-jerusalem-biblical-zoo%2F">
+							<span>Facebook</span>
+						</a>
+					</li><li class="twitter">
+						<a href="https://twitter.com/intent/tweet?text=Rare%2C+endangered+golden+lion+tamarin+is+born+at+Jerusalem+Biblical+Zoo&url=https%3A%2F%2Fwww.timesofisrael.com%2Frare-endangered-primate-is-born-at-jerusalem-biblical-zoo%2F&via=timesofisrael">
+							<span>Twitter</span>
+						</a>
+					</li><li class="email open_mailto" data-article="1815712" data-lang="eng" data-site="The Times of Israel" data-title="Rare, endangered golden lion tamarin is born at Jerusalem Biblical Zoo">
+						<a target="_blank" href="mailto:?subject=The Times of Israel: Rare, endangered golden lion tamarin is born at Jerusalem Biblical Zoo&body=I found this on The Times of Israel and thought it might interest you: https%3A%2F%2Fwww.timesofisrael.com%2Frare-endangered-primate-is-born-at-jerusalem-biblical-zoo%2F" onclick="return false;">
+							<span>email</span>
+						</a>
+					</li><li class="print"><a href="javascript:window.print();"><span>Print</span></a></li><li class="shares">
+						<span class="number">113</span> <span>shares</span>
+					</li>				</ul>
+
+				<div class="OUTBRAIN" data-src="http:///www.timesofisrael.com/rare-endangered-primate-is-born-at-jerusalem-biblical-zoo/" data-widget-id="AR_1" data-ob-template="Times Of Israel" ></div>
+									<div class="OUTBRAIN" data-src="http://www.timesofisrael.com/rare-endangered-primate-is-born-at-jerusalem-biblical-zoo/" data-widget-id="AR_2" data-ob-template="Times Of Israel" ></div>
+				
+								
+					<div id="comments" class="comments">
+						<h5>comments <!-- span>report inappropriate comments</span --></h5>
+						<div class="fb-comments" data-href="https://www.timesofisrael.com/rare-endangered-primate-is-born-at-jerusalem-biblical-zoo/" data-numposts="5"></div>
+					</div>
+				
+			</div>
+
+					</div>
+
+					<aside class="sidebar sticky-sidebar">
+				<div class="sticky-sidebar-wrap">
+					
+		<div id="div-gpt-ad-BTF_SKY_1" class="banner b300x600">
+			<script type="text/javascript">
+			googletag.cmd.push(function() { googletag.display("div-gpt-ad-BTF_SKY_1"); });
+			</script>
+		</div>					<div id="outbrain-sidebar">
+						<div class="OUTBRAIN" data-src="http://www.timesofisrael.com/rare-endangered-primate-is-born-at-jerusalem-biblical-zoo/" data-widget-id="SB_1" data-ob-template="Times Of Israel" ></div>
+					</div>
+					
+		<div id="div-gpt-ad-BTF_MPU_2" class="banner b300x250">
+			<script type="text/javascript">
+			googletag.cmd.push(function() { googletag.display("div-gpt-ad-BTF_MPU_2"); });
+			</script>
+		</div>				</div>
+			</aside>
+			</div> 
+</article>
+				</div>
+				
+<aside class="sidebar sidebar-main">
+	<div class="sidebar-content">
+
+		<div class="sidebar-header">
+			<div class="title">March 23, 2018</div>
+			<div class="subtitle">Current Top Stories</div>
+		</div>
+
+				<div id="hp_section_1" class="hp_section">
+		
+						
+							<section data-block_id="4" class="cols4 block">
+					
+			<div class="item template3 news type-post post-id-1815390 negative">
+				
+				
+			<div class="media">
+				<a href="https://www.timesofisrael.com/decade-after-clandestine-syria-strike-revelation-sparks-a-war-for-credit/">
+				<img width="600" height="375" src="https://static.timesofisrael.com/www/uploads/2018/03/F090330MA08-e1521771708506-640x400.jpg" class="attachment-large size-large wp-post-image" alt="Ehud Olmert, right, and Ehud Barak in the Knesset on March 30, 2009. Miriam Alster/Flash90)" title="Ehud Olmert, right, and Ehud Barak in the Knesset on March 30, 2009. Miriam Alster/Flash90)" />
+				</a>
+			</div>
+				<div class="item-content">
+					<div class="above-headline"><span class="label">Analysis</span></div>
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/decade-after-clandestine-syria-strike-revelation-sparks-a-war-for-credit/">Decade after clandestine Syria strike, revelation sparks a war for credit</a>
+					</div><div class="byline">By <a title="Judah Ari Gross" href="https://www.timesofisrael.com/writers/judah-ari-gross/">Judah Ari Gross</a></div>
+					<div class="underline">
+						<a href="https://www.timesofisrael.com/decade-after-clandestine-syria-strike-revelation-sparks-a-war-for-credit/">Former leaders snipe at each other over who said what in the leadup to Israel's bombing of a nuclear facility in 2007, while ex-spies blame each other for failing to spot danger</a>
+					</div>
+				</div>
+			</div>
+		<div class="package package3 news negative">
+				<div class="item  type-post post-id-1814988">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/barak-says-olmert-was-never-really-prime-minister-likens-him-to-kevin-spacey/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2017/11/AP17304646043992-200x200.jpg" class="attachment-square size-square wp-post-image" alt="This image released by Netflix shows Kevin Spacey in a scene from &#039;House Of Cards.&#039; (David Giesbrecht/Netflix via AP)" title="This image released by Netflix shows Kevin Spacey in a scene from &#039;House Of Cards.&#039; (David Giesbrecht/Netflix via AP)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/barak-says-olmert-was-never-really-prime-minister-likens-him-to-kevin-spacey/">Barak says Olmert was &#8216;never really prime minister,&#8217; likens him to Kevin Spacey</a>
+						</div>
+						<div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-1814879">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/defense-minister-regrets-releasing-details-of-2007-syrian-nuclear-site-attack/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2018/03/F180312MA05-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Defense Minister Avigdor Liberman leads a faction meeting of his Yisrael Beytenu party in the Knesset, March 12, 2018. (Miriam Alster/Flash90)" title="Defense Minister Avigdor Liberman leads a faction meeting of his Yisrael Beytenu party in the Knesset, March 12, 2018. (Miriam Alster/Flash90)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/defense-minister-regrets-releasing-details-of-2007-syrian-nuclear-site-attack/">Defense minister regrets releasing details of attack on Syrian nuclear reactor</a>
+						</div>
+						<div class="byline">By <a title="Stuart Winer" href="https://www.timesofisrael.com/writers/stuart-winer/">Stuart Winer</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-1814605">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/ex-mossad-chief-only-luck-corrected-intelligence-failure-on-syria/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2018/03/508477b2-593e-4045-8d6f-445ddcebaa5c-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Former Mossad chief Tamir Pardo speaks at a conference in memory of his predecessor as head of the spy agency, Meir Dagan, on March 21, 2018. (Tamir Bergig)" title="Former Mossad chief Tamir Pardo speaks at a conference in memory of his predecessor as head of the spy agency, Meir Dagan, on March 21, 2018. (Tamir Bergig)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/ex-mossad-chief-only-luck-corrected-intelligence-failure-on-syria/">Ex-Mossad chief: Only &#8216;luck&#8217; corrected &#8216;intelligence failure&#8217; on Syria</a>
+						</div>
+						<div class="byline">By <a title="Judah Ari Gross" href="https://www.timesofisrael.com/writers/judah-ari-gross/">Judah Ari Gross</a></div>
+					</div>
+				</div>
+		</div>
+			<div class="item template4 news type-post post-id-1815943">
+				
+				
+			<div class="media">
+				<a href="https://www.timesofisrael.com/bringing-in-bolton-white-house-stiffens-stances-against-palestinians-iran/">
+				<img width="600" height="375" src="https://static.timesofisrael.com/www/uploads/2018/03/AP_458196658450-e1521763135543-640x400.jpg" class="attachment-large size-large wp-post-image" alt="Former US ambassador to the U.N. John Bolton speaks at the Republican Jewish Coalition Saturday, March 29, 2014, in Las Vegas. (AP/Julie Jacobson)" title="Former US ambassador to the U.N. John Bolton speaks at the Republican Jewish Coalition Saturday, March 29, 2014, in Las Vegas. (AP/Julie Jacobson)" />
+				</a>
+			</div>
+				<div class="item-content">
+					<div class="above-headline"></div>
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/bringing-in-bolton-white-house-stiffens-stances-against-palestinians-iran/">Bringing in Bolton, White House appears to stiffen against Palestinians, Iran</a>
+					</div><div class="byline">By <a title="Eric Cortellessa" href="https://www.timesofisrael.com/writers/eric-cortellessa/">Eric Cortellessa</a></div>
+					<div class="underline">
+						<a href="https://www.timesofisrael.com/bringing-in-bolton-white-house-stiffens-stances-against-palestinians-iran/">Trump brings in hardliner, who has been an opponent of the two-state solution and advocated striking Iran, just ahead of big moves on Middle East peace and nuclear deal</a>
+					</div>
+				</div>
+			</div>
+		<div class="package package3 news">
+				<div class="item  type-post post-id-1815946">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/trump-names-hawk-bolton-new-national-security-adviser-boots-mcmaster/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2018/03/AP_17055724205640-e1521758303838-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Former U.S. Ambassador to the UN John Bolton speaks at the Conservative Political Action Conference (CPAC), Friday, Feb. 24, 2017, in Oxon Hill, Md. (AP Photo/Alex Brandon)" title="Former U.S. Ambassador to the UN John Bolton speaks at the Conservative Political Action Conference (CPAC), Friday, Feb. 24, 2017, in Oxon Hill, Md. (AP Photo/Alex Brandon)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/trump-names-hawk-bolton-new-national-security-adviser-boots-mcmaster/">Trump names hawk Bolton new national security adviser, boots McMaster</a>
+						</div>
+						<div class="byline">By <a title="Agencies" href="https://www.timesofisrael.com/writers/agencies/">Agencies</a> and <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-1815984">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/war-hero-mcmaster-bows-out-after-mostly-unsuccessful-bid-to-curb-trump/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2018/03/000_130782-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Outgoing National Security Adviser H. R. McMaster leaving the Eisenhower Executive Office Building on the White House campus in Washington, DC, on March 16, 2018. (AFP / Brendan Smialowski)" title="Outgoing National Security Adviser H. R. McMaster leaving the Eisenhower Executive Office Building on the White House campus in Washington, DC, on March 16, 2018. (AFP / Brendan Smialowski)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/war-hero-mcmaster-bows-out-after-mostly-unsuccessful-bid-to-curb-trump/">War hero McMaster bows out after mostly unsuccessful bid to curb Trump</a>
+						</div>
+						<div class="byline">By <a title="Paul Handley" href="https://www.timesofisrael.com/writers/paul-handley/">Paul Handley</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-1815164">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/stiffening-stance-to-save-nuke-deal-europe-struggles-to-gauge-placating-trump/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2018/03/000_12S7FJ-200x200.jpg" class="attachment-square size-square wp-post-image" alt="German Minister of Foreign Affairs Heiko Maas, left, speaks with High Representative of the Union for Foreign Affairs and Security Policy Federica Mogherini ahead of a Foreign Affairs minister meeting at EU headquarters in Brussels on March 19, 2018. (AFP/JOHN THYS)" title="German Minister of Foreign Affairs Heiko Maas, left, speaks with High Representative of the Union for Foreign Affairs and Security Policy Federica Mogherini ahead of a Foreign Affairs minister meeting at EU headquarters in Brussels on March 19, 2018. (AFP/JOHN THYS)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<span class="label">Analysis</span><a href="https://www.timesofisrael.com/stiffening-stance-to-save-nuke-deal-europe-struggles-to-gauge-placating-trump/">Stiffening stance to save nuke deal, Europe struggles to gauge placating Trump</a>
+						</div>
+						<div class="byline">By <a title="Josh Lederman" href="https://www.timesofisrael.com/writers/josh-lederman/">Josh Lederman</a> and <a title="Matthew Lee" href="https://www.timesofisrael.com/writers/matthew-lee/">Matthew Lee</a></div>
+					</div>
+				</div>
+		</div>
+			<div class="item template5 news type-post post-id-1815853">
+				
+				<div class="above-headline"></div>
+				<div class="headline">
+					<a href="https://www.timesofisrael.com/palestinians-call-to-add-us-ambassador-friedman-to-global-terror-list/">Palestinians call to put US ambassador Friedman on &#8216;global terror list&#8217;</a>
+				</div>
+				<div class="underline">
+					<div class="byline">By <a title="Khaled Abu Toameh" href="https://www.timesofisrael.com/writers/khaled-abu-toameh/">Khaled Abu Toameh</a></div><a href="https://www.timesofisrael.com/palestinians-call-to-add-us-ambassador-friedman-to-global-terror-list/">Palestinian Authority steps up war of words with American envoy to Israel, days after Abbas calls him the 'son of a dog' </a>	
+				</div>
+			
+			<div class="media">
+				<a href="https://www.timesofisrael.com/palestinians-call-to-add-us-ambassador-friedman-to-global-terror-list/">
+				<img width="600" height="375" src="https://static.timesofisrael.com/www/uploads/2017/12/F170725YS25-640x400.jpg" class="attachment-large size-large wp-post-image" alt="American Ambassador to Israel David Friedman attends a meeting of the lobby for Israel–United States relations at the Knesset, July 25, 2017. (Yonatan Sindel/Flash90)" title="American Ambassador to Israel David Friedman attends a meeting of the lobby for Israel–United States relations at the Knesset, July 25, 2017. (Yonatan Sindel/Flash90)" />
+				</a>
+			</div>
+			</div>
+		<div class="package package3 news">
+				<div class="item  type-post post-id-1815303">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/most-israelis-think-moving-us-embassy-will-spark-violence-survey-finds/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2018/03/000_1282DG-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Palestinians help evacuate an injured protester during clashes with Israeli troops near Khan Yunis by the border fence between Israel and the southern Gaza Strip on March 9, 2018.  (AFP PHOTO / SAID KHATIB)" title="Palestinians help evacuate an injured protester during clashes with Israeli troops near Khan Yunis by the border fence between Israel and the southern Gaza Strip on March 9, 2018.  (AFP PHOTO / SAID KHATIB)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/most-israelis-think-moving-us-embassy-will-spark-violence-survey-finds/">Most Israelis think moving US embassy will spark violence, but still say do it</a>
+						</div>
+						<div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-1815218">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/palestinian-rejection-said-to-delay-us-peace-plan-announcement-indefinitely/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2017/09/000_SL7QT-e1505975477203-200x200.jpg" class="attachment-square size-square wp-post-image" alt="US President Donald Trump reaches to shake Palestinian Authority President Mahmoud Abbas&#039;s hand before a meeting at the Palace Hotel during the 72nd United Nations General Assembly on September 20, 2017, in New York. (AFP Photo/Brendan Smialowski)" title="US President Donald Trump reaches to shake Palestinian Authority President Mahmoud Abbas&#039;s hand before a meeting at the Palace Hotel during the 72nd United Nations General Assembly on September 20, 2017, in New York. (AFP Photo/Brendan Smialowski)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/palestinian-rejection-said-to-delay-us-peace-plan-announcement-indefinitely/">Palestinian rejection said to delay US peace plan announcement indefinitely</a>
+						</div>
+						<div class="byline">By <a title="Khaled Abu Toameh" href="https://www.timesofisrael.com/writers/khaled-abu-toameh/">Khaled Abu Toameh</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-1815225">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/abbas-health-scares-spark-succession-talk/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2018/03/000_11K9J8-e1520442508846-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Palestinian Authority President President Mahmoud Abbas attends a meeting with the Revolutionary Council of the ruling Fatah party in the West Bank city of Ramallah, on March 1, 2018. (AFP Photo/Abbas Momani)" title="Palestinian Authority President President Mahmoud Abbas attends a meeting with the Revolutionary Council of the ruling Fatah party in the West Bank city of Ramallah, on March 1, 2018. (AFP Photo/Abbas Momani)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/abbas-health-scares-spark-succession-talk/">Abbas health scares spark succession talk</a>
+						</div>
+						<div class="byline">By <a title="Mohammed Daraghmeh" href="https://www.timesofisrael.com/writers/mohammed-daraghmeh/">Mohammed Daraghmeh</a></div>
+					</div>
+				</div>
+		</div>
+			<div class="item template2 news type-post post-id-1815877 negative">
+				
+				
+			<div class="media">
+				<a href="https://www.timesofisrael.com/tamar-zandberg-crowned-new-meretz-leader-after-resounding-primary-win/">
+				<img width="600" height="375" src="https://static.timesofisrael.com/www/uploads/2018/03/F180322MA08-640x400.jpg" class="attachment-large size-large wp-post-image" alt="Meretz MK Tamar Zandberg casts her vote at a polling station in Tel Aviv on March 22, 2018. (Miriam Alster/Flash90)" title="Meretz MK Tamar Zandberg casts her vote at a polling station in Tel Aviv on March 22, 2018. (Miriam Alster/Flash90)" />
+				</a>
+			</div>
+				<div class="item-content">
+					<div class="above-headline"></div>
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/tamar-zandberg-crowned-new-meretz-leader-after-resounding-primary-win/">Tamar Zandberg crowned new Meretz leader after resounding primary win</a>
+					</div><div class="byline">By <a title="Raoul Wootliff" href="https://www.timesofisrael.com/writers/raoul-wootliff/">Raoul Wootliff</a></div>
+					<div class="underline">
+						<a href="https://www.timesofisrael.com/tamar-zandberg-crowned-new-meretz-leader-after-resounding-primary-win/">Veteran MK promises to lead a 'powerful left-wing force,' suggests party could join government with hawkish Yisrael Beytenu</a>
+					</div>
+				</div>
+			</div>
+			<div class="item template2 news type-post post-id-1815842">
+				
+				
+			<div class="media">
+				<a href="https://www.timesofisrael.com/pm-slams-thought-police-media-for-not-showing-other-sides-in-graft-probes/">
+				<img width="600" height="375" src="https://static.timesofisrael.com/www/uploads/2018/03/F180322HP11-640x400.jpg" class="attachment-large size-large wp-post-image" alt="Prime Minister Benjamin Netanyahu speaks during a rally with his supporters and for the Jewish holiday of Passover in Tel Aviv, March 22, 2018. (Hadas Parush/Flash90)" title="Prime Minister Benjamin Netanyahu speaks during a rally with his supporters and for the Jewish holiday of Passover in Tel Aviv, March 22, 2018. (Hadas Parush/Flash90)" />
+				</a>
+			</div>
+				<div class="item-content">
+					<div class="above-headline"></div>
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/pm-slams-thought-police-media-for-not-showing-other-sides-in-graft-probes/">PM slams &#8216;thought police&#8217; media for skewed reporting of graft probes against him</a>
+					</div><div class="byline">By <a title="Stuart Winer" href="https://www.timesofisrael.com/writers/stuart-winer/">Stuart Winer</a> and <a title="Raoul Wootliff" href="https://www.timesofisrael.com/writers/raoul-wootliff/">Raoul Wootliff</a></div>
+					<div class="underline">
+						<a href="https://www.timesofisrael.com/pm-slams-thought-police-media-for-not-showing-other-sides-in-graft-probes/">Netanyahu claims law enforcement community is being pressured to carry out a 'witch hunt' in order to bring down Likud government </a>
+					</div>
+				</div>
+			</div>
+		<div class="package package2 news">
+				<div class="item  type-post post-id-1815472">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/pm-not-a-suspect-in-naval-graft-probe-police-chief-confirms/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2017/12/F171121BAFF08-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Prime Minister Benjamin Netanyahu, right, and Chief of Police Roni Alsheich at an inauguration ceremony marking the opening of a new police station in the northern Arab Israeli town of Jisr az-Zarqa November 21, 2017. (Basel Awidat/Flash90)" title="Prime Minister Benjamin Netanyahu, right, and Chief of Police Roni Alsheich at an inauguration ceremony marking the opening of a new police station in the northern Arab Israeli town of Jisr az-Zarqa November 21, 2017. (Basel Awidat/Flash90)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/pm-not-a-suspect-in-naval-graft-probe-police-chief-confirms/">PM not a suspect in naval graft probe, police chief confirms</a>
+						</div>
+						<div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-1814730">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/ex-idf-chief-gantz-netanyahu-fit-to-stay-in-office-if-not-indicted/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2018/01/gantz-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Former IDF Chief of Staff Benny Gantz speaks at the annual World Zionist Conference, in Jerusalem on November 2, 2017. (Miriam Alster/FLASH90)" title="Former IDF Chief of Staff Benny Gantz speaks at the annual World Zionist Conference, in Jerusalem on November 2, 2017. (Miriam Alster/FLASH90)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/ex-idf-chief-gantz-netanyahu-fit-to-stay-in-office-if-not-indicted/">Ex-IDF chief Gantz may enter politics, says PM fit to stay on if not indicted</a>
+						</div>
+						<div class="byline">By <a title="Michael Bachner" href="https://www.timesofisrael.com/writers/michael-bachner/">Michael Bachner</a></div>
+					</div>
+				</div>
+		</div>
+			<div class="item template4 news type-post post-id-1815722 negative">
+				
+				
+			<div class="media">
+				<a href="https://www.timesofisrael.com/polish-attorney-generals-office-calls-holocaust-law-unconstitutional/">
+				<img width="600" height="375" src="https://static.timesofisrael.com/www/uploads/2017/07/holocaust-640x400.jpg" class="attachment-large size-large wp-post-image" alt="Jews arriving at Auschwitz in 1944. (Wikimedia Commons/via JTA)" title="Jews arriving at Auschwitz in 1944. (Wikimedia Commons/via JTA)" />
+				</a>
+			</div>
+				<div class="item-content">
+					<div class="above-headline"></div>
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/polish-attorney-generals-office-calls-holocaust-law-unconstitutional/">Polish attorney general&#8217;s office calls Holocaust law unconstitutional</a>
+					</div><div class="byline">By <a title="AFP" href="https://www.timesofisrael.com/writers/afp/">AFP</a></div>
+					<div class="underline">
+						<a href="https://www.timesofisrael.com/polish-attorney-generals-office-calls-holocaust-law-unconstitutional/">Law attempting to penalize people overseas, independently of the laws in their countries, may go against Poland's constitution, says country's top justice official</a>
+					</div>
+				</div>
+			</div>
+		<div class="package package2 news negative">
+				<div class="item  type-post post-id-1815475">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/israeli-teen-fined-for-urinating-on-memorial-at-auschwitz/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2018/01/auschwitz-e1517157513492-200x200.jpg" class="attachment-square size-square wp-post-image" alt="The infamous German inscription that reads &#039;Work Makes Free&#039; at the main gate of the Auschwitz I extermination camp in Oswiecim, Poland, on November 15, 2014. (Christopher Furlong/Getty Images via JTA)" title="The infamous German inscription that reads &#039;Work Makes Free&#039; at the main gate of the Auschwitz I extermination camp in Oswiecim, Poland, on November 15, 2014. (Christopher Furlong/Getty Images via JTA)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/israeli-teen-fined-for-urinating-on-memorial-at-auschwitz/">Israeli teen fined for urinating on memorial at Auschwitz</a>
+						</div>
+						<div class="byline">By <a title="JTA" href="https://www.timesofisrael.com/writers/jta/">JTA</a> and <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-1815872">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/poland-puts-berlins-wwii-bill-at-440-billion-euros/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2018/03/000_12S7FB-e1521751046430-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Polish Minister of Foreign Affairs Jacek Czaputowicz, left, speaks with German Minister of Foreign Affairs Heiko Maas, right, ahead of a Foreign Affairs minister meeting at EU headquarters in Brussels on March 19, 2018.  (JOHN THYS/AFP)" title="Polish Minister of Foreign Affairs Jacek Czaputowicz, left, speaks with German Minister of Foreign Affairs Heiko Maas, right, ahead of a Foreign Affairs minister meeting at EU headquarters in Brussels on March 19, 2018.  (JOHN THYS/AFP)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/poland-puts-berlins-wwii-bill-at-440-billion-euros/">Poland puts Berlin&#8217;s WWII bill at 440 billion euros</a>
+						</div>
+						<div class="byline">By <a title="AFP" href="https://www.timesofisrael.com/writers/afp/">AFP</a></div>
+					</div>
+				</div>
+		</div>
+			<div class="item template2 news type-post post-id-1815742 negative">
+				
+				
+			<div class="media">
+				<a href="https://www.timesofisrael.com/in-world-first-air-india-crosses-saudi-airspace-to-israel/">
+				<img width="600" height="375" src="https://static.timesofisrael.com/www/uploads/2018/03/000_1305NU-640x400.jpg" class="attachment-large size-large wp-post-image" alt="A Boeing 787 flight number AI139 of Indian national carrier Air India, from New Delhi, performs manoeuvres on the tarmac at Ben Gurion International Airport on the outskirts of Tel Aviv, on March 22, 2018 after using Saudi airspace for the first time. 
+( AFP PHOTO / JACK GUEZ)" title="A Boeing 787 flight number AI139 of Indian national carrier Air India, from New Delhi, performs manoeuvres on the tarmac at Ben Gurion International Airport on the outskirts of Tel Aviv, on March 22, 2018 after using Saudi airspace for the first time. 
+( AFP PHOTO / JACK GUEZ)" />
+				</a>
+			</div>
+				<div class="item-content">
+					<div class="above-headline"></div>
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/in-world-first-air-india-crosses-saudi-airspace-to-israel/">In world first, Air India crosses Saudi airspace to Israel</a>
+					</div><div class="byline">By <a title="Stephen WEIZMAN" href="https://www.timesofisrael.com/writers/stephen-weizman/">Stephen WEIZMAN</a></div>
+					<div class="underline">
+						<a href="https://www.timesofisrael.com/in-world-first-air-india-crosses-saudi-airspace-to-israel/">First flight lands at Ben Gurion Thursday night, in sign of warming relations with Arab nations that were once avowed enemies</a>
+					</div>
+				</div>
+			</div>
+		<div class="package package1 news negative">
+				<div class="item  type-post post-id-1815778">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/dont-worry-about-us-having-nukes-saudi-journalist-tells-israelis-in-hebrew/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2018/03/Saudi-heberw-journalist-e1521743020482-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Screen capture from video of Saudi Arabian journalist Loay al-Shareef speaking in Hebrew in a message to Israelis about his country&#039;s nuclear ambitions. (Facebook)" title="Screen capture from video of Saudi Arabian journalist Loay al-Shareef speaking in Hebrew in a message to Israelis about his country&#039;s nuclear ambitions. (Facebook)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/dont-worry-about-us-having-nukes-saudi-journalist-tells-israelis-in-hebrew/">Don&#8217;t worry about us having nukes, Saudi journalist tells Israelis, in Hebrew</a>
+						</div>
+						<div class="byline">By <a title="Stuart Winer" href="https://www.timesofisrael.com/writers/stuart-winer/">Stuart Winer</a> and <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					</div>
+				</div>
+		</div>
+			<div class="item template2 news type-post post-id-1815712">
+				
+				
+			<div class="media">
+				<a href="https://www.timesofisrael.com/rare-endangered-primate-is-born-at-jerusalem-biblical-zoo/">
+				<img width="600" height="375" src="https://static.timesofisrael.com/www/uploads/2018/03/AP18081595143370-640x400.jpg" class="attachment-large size-large wp-post-image" alt="A golden lion tamarin monkey holds its newly born baby at a zoo in Jerusalem, Thursday, March 22, 2018. Golden lion tamarins are among the rarest animals in the world, according to the World Wildlife Fund. It is listed as endangered according to the International Union for Conservation of Nature. (AP Photo/Sebastian Scheiner)" title="A golden lion tamarin monkey holds its newly born baby at a zoo in Jerusalem, Thursday, March 22, 2018. Golden lion tamarins are among the rarest animals in the world, according to the World Wildlife Fund. It is listed as endangered according to the International Union for Conservation of Nature. (AP Photo/Sebastian Scheiner)" />
+				</a>
+			</div>
+				<div class="item-content">
+					<div class="above-headline"><span class="label">Monkey time</span></div>
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/rare-endangered-primate-is-born-at-jerusalem-biblical-zoo/">Rare, endangered golden lion tamarin is born at Jerusalem Biblical Zoo</a>
+					</div><div class="byline">By <a title="AP" href="https://www.timesofisrael.com/writers/ap/">AP</a></div>
+					<div class="underline">
+						<span class="media-ico video-ico"></span><a href="https://www.timesofisrael.com/rare-endangered-primate-is-born-at-jerusalem-biblical-zoo/">Baby has not yet been named; primate is one of rarest in the world, according to World Wildlife Fund</a>
+					</div>
+				</div>
+			</div>
+			<div class="item template3 features type-post post-id-1815546 bgcolor bgcolor2">
+				
+				
+			<div class="media">
+				<a href="https://www.timesofisrael.com/how-change-became-possible-in-a-hot-bed-of-intolerance-malmo-sweden/">
+				<img width="600" height="375" src="https://static.timesofisrael.com/www/uploads/2018/03/melchior-e1521736955533-640x400.jpeg" class="attachment-large size-large wp-post-image" alt="Rabbi Michael Melchior speaks at the Global Forum for Combatting Anti-Semitism in Jerusalem, March 21, 2018. (Envision Experiential Marketing, Ron Shelef)" title="Rabbi Michael Melchior speaks at the Global Forum for Combatting Anti-Semitism in Jerusalem, March 21, 2018. (Envision Experiential Marketing, Ron Shelef)" />
+				</a>
+			</div>
+				<div class="item-content">
+					<div class="above-headline"></div>
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/how-change-became-possible-in-a-hot-bed-of-intolerance-malmo-sweden/">How change became possible in a hotbed of intolerance, Malmö, Sweden</a>
+					</div><div class="byline">By <a title="Amanda Borschel-Dan" href="https://www.timesofisrael.com/writers/amanda-borschel-dan/">Amanda Borschel-Dan</a></div>
+					<div class="underline">
+						<a href="https://www.timesofisrael.com/how-change-became-possible-in-a-hot-bed-of-intolerance-malmo-sweden/">At Global Forum for Combatting Anti-Semitism, Rabbi Michael Melchior says interfaith cooperation necessary to combat doctrinal anti-Semitism -- and make a better world</a>
+					</div>
+				</div>
+			</div>
+		<div class="package package1 features bgcolor bgcolor2">
+				<div class="item  type-post post-id-1815982">
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/ohioan-charged-with-hate-crime-for-beating-man-mistaken-for-jew/">Ohioan charged with hate crime for beating man mistaken for Jew</a>
+					</div>
+					<div class="byline">By <a title="JTA" href="https://www.timesofisrael.com/writers/jta/">JTA</a></div>
+				</div>
+		</div>
+			<div class="item template2 news type-post post-id-1815890">
+				
+				
+			<div class="media">
+				<a href="https://www.timesofisrael.com/israelis-to-lose-an-hour-of-sleep-as-clocks-to-spring-forward-into-summer-time/">
+				<img width="600" height="375" src="https://static.timesofisrael.com/www/uploads/2018/03/F160113FFER02-640x400.jpg" class="attachment-large size-large wp-post-image" alt="Watches for sale at the market in Jaffo-Tel Aviv. January 3, 2016. (Esther Rubyan/FLASH90)" title="Watches for sale at the market in Jaffo-Tel Aviv. January 3, 2016. (Esther Rubyan/FLASH90)" />
+				</a>
+			</div>
+				<div class="item-content">
+					<div class="above-headline"></div>
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/israelis-to-lose-an-hour-of-sleep-as-clocks-to-spring-forward-into-summer-time/">Israelis lose an hour of sleep as clocks spring forward into summer time</a>
+					</div><div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					<div class="underline">
+						<a href="https://www.timesofisrael.com/israelis-to-lose-an-hour-of-sleep-as-clocks-to-spring-forward-into-summer-time/">Daylight saving starts early Friday, with clocks leaping forward from 2 a.m. to 3 a.m., PA to follow suit on Saturday</a>
+					</div>
+				</div>
+			</div>
+			<div class="item template2 news type-post post-id-1815798">
+				
+				
+			<div class="media">
+				<a href="https://www.timesofisrael.com/abbas-warns-hamas-hand-over-gaza-back-to-the-palestinian-authority/">
+				<img width="600" height="375" src="https://static.timesofisrael.com/www/uploads/2018/03/000_12Z5EU-640x400.jpg" class="attachment-large size-large wp-post-image" alt="Palestinian Authority President Mahmoud Abbas gestures with his hand during a joint press conference with the visiting Bulgarian president at the Palestinian Authority headquarters in the West Bank city of Ramallah on March 22, 2018. (AFP PHOTO / ABBAS MOMANI)" title="Palestinian Authority President Mahmoud Abbas gestures with his hand during a joint press conference with the visiting Bulgarian president at the Palestinian Authority headquarters in the West Bank city of Ramallah on March 22, 2018. (AFP PHOTO / ABBAS MOMANI)" />
+				</a>
+			</div>
+				<div class="item-content">
+					<div class="above-headline"></div>
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/abbas-warns-hamas-hand-over-gaza-back-to-the-palestinian-authority/">Abbas to Hamas: You &#8216;hijacked&#8217; Gaza, now give it back</a>
+					</div><div class="byline">By <a title="Khaled Abu Toameh" href="https://www.timesofisrael.com/writers/khaled-abu-toameh/">Khaled Abu Toameh</a></div>
+					<div class="underline">
+						<a href="https://www.timesofisrael.com/abbas-warns-hamas-hand-over-gaza-back-to-the-palestinian-authority/">Palestinian Authority president demands terror group subject its armed forces to his control, following attempted assassination of PA PM while visiting the Strip  </a>
+					</div>
+				</div>
+			</div>
+		<div class="package package3 news">
+				<div class="item  type-post post-id-1815527">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/pa-hamas-claims-that-it-killed-convoy-bombing-suspect-are-illogical/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2018/03/000_12Z3M8-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Hamas policemen carry out a raid in Nuseirat, south of Gaza City on March 22, 2018, that resulted in the arrest of a suspect in a recent bomb attack against the Palestinian prime minister, officials said. ( AFP PHOTO / MOHAMMED ABED)" title="Hamas policemen carry out a raid in Nuseirat, south of Gaza City on March 22, 2018, that resulted in the arrest of a suspect in a recent bomb attack against the Palestinian prime minister, officials said. ( AFP PHOTO / MOHAMMED ABED)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/pa-hamas-claims-that-it-killed-convoy-bombing-suspect-are-illogical/">PA: Hamas claims that it killed convoy bombing suspect are &#8216;illogical&#8217;</a>
+						</div>
+						<div class="byline">By <a title="Khaled Abu Toameh" href="https://www.timesofisrael.com/writers/khaled-abu-toameh/">Khaled Abu Toameh</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-1815338">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/hamas-says-it-captured-hamdallah-bomber-2-of-its-men-killed-in-shootout/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2018/03/000_12Z2JN-200x200.jpg" class="attachment-square size-square wp-post-image" alt="A Hamas policeman takes a position in Nuseirat, south of Gaza City on March 22, 2018, during a raid that killed a suspect in a bomb attack against the Palestinian prime minister (AFP PHOTO / MAHMUD HAMS)" title="A Hamas policeman takes a position in Nuseirat, south of Gaza City on March 22, 2018, during a raid that killed a suspect in a bomb attack against the Palestinian prime minister (AFP PHOTO / MAHMUD HAMS)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<span class="media-ico video-ico no-slash"></span><a href="https://www.timesofisrael.com/hamas-says-it-captured-hamdallah-bomber-2-of-its-men-killed-in-shootout/">Hamas says Hamdallah bomber, 2 of its men killed in shootout</a>
+						</div>
+						<div class="byline">By <a title="Khaled Abu Toameh" href="https://www.timesofisrael.com/writers/khaled-abu-toameh/">Khaled Abu Toameh</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-1815134">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/gazans-burn-abbas-effigy-as-hamas-simmers-over-bombing-blame/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2018/03/000_12X0QK-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Palestinians burn a dummy representing Palestinian president Mahmoud Abbas during a protest in Gaza City on March 21, 2018. (AFP/MAHMUD HAMS)" title="Palestinians burn a dummy representing Palestinian president Mahmoud Abbas during a protest in Gaza City on March 21, 2018. (AFP/MAHMUD HAMS)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/gazans-burn-abbas-effigy-as-hamas-simmers-over-bombing-blame/">Gazans burn Abbas effigy as Hamas simmers over bombing blame</a>
+						</div>
+						<div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					</div>
+				</div>
+		</div>
+<div class="item template7 special news">
+	<div class="headline">More Headlines</div>
+</div>
+		<div class="package package2 special">
+				<div class="item  type-post post-id-1815571">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/rabbi-meat-from-cloned-pig-could-be-eaten-by-jews-with-milk/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2018/03/iStock-594910868-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Illustrative: A baked ham (iStock)" title="Illustrative: A baked ham (iStock)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/rabbi-meat-from-cloned-pig-could-be-eaten-by-jews-with-milk/">Rabbi: Meat from cloned pig could be kosher for Jews to eat – with milk</a>
+						</div>
+						<div class="byline">By <a title="JTA" href="https://www.timesofisrael.com/writers/jta/">JTA</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-1815479">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/israel-us-end-biennial-juniper-cobra-exercise-with-live-fire-air-defense-test/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2018/03/LAD_8467-200x200.jpg" class="attachment-square size-square wp-post-image" alt="American, Israeli troops deploy a Patriot missile defense battery during the 2018 Juniper Cobra air defense exercise in March 2018. (Israel Defense Forces)" title="American, Israeli troops deploy a Patriot missile defense battery during the 2018 Juniper Cobra air defense exercise in March 2018. (Israel Defense Forces)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<span class="media-ico video-ico no-slash"></span><a href="https://www.timesofisrael.com/israel-us-end-biennial-juniper-cobra-exercise-with-live-fire-air-defense-test/">Israel, US end biennial Juniper Cobra exercise with live-fire air defense test</a>
+						</div>
+						<div class="byline">By <a title="Judah Ari Gross" href="https://www.timesofisrael.com/writers/judah-ari-gross/">Judah Ari Gross</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-1815565">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/israel-notifies-bedouin-village-that-it-will-be-razed-entirely-next-month/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2017/01/000_K36UA-e1484734047142-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Israeli policemen stand guard as bulldozers demolish homes in the unrecognized Bedouin village of Umm al-Hiran in the Negev desert, on January 18, 2017. (AFP Photo/Menahem Kahana)" title="Israeli policemen stand guard as bulldozers demolish homes in the unrecognized Bedouin village of Umm al-Hiran in the Negev desert, on January 18, 2017. (AFP Photo/Menahem Kahana)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/israel-notifies-bedouin-village-that-it-will-be-razed-entirely-next-month/">Israel notifies Bedouin village that it will be razed entirely next month</a>
+						</div>
+						<div class="byline">By <a title="Jacob Magid" href="https://www.timesofisrael.com/writers/jacob-magid/">Jacob Magid</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-1815615">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/settlers-evacuate-disputed-hebron-building-after-squatting-for-8-months/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2017/10/F170828WHFF08-200x200.jpg" class="attachment-square size-square wp-post-image" alt="An Israeli border police officer guards outside the &#039;Machpela House&#039; in the West Bank city of Hebron on August 28, 2017. (Wisam Hashlamoun/Flash90)" title="An Israeli border police officer guards outside the &#039;Machpela House&#039; in the West Bank city of Hebron on August 28, 2017. (Wisam Hashlamoun/Flash90)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/settlers-evacuate-disputed-hebron-building-after-squatting-for-8-months/">Settlers evacuate disputed Hebron building after squatting for 8 months</a>
+						</div>
+						<div class="byline">By <a title="Jacob Magid" href="https://www.timesofisrael.com/writers/jacob-magid/">Jacob Magid</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-1815532">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/arab-israeli-who-tried-to-join-islamic-state-gets-28-months-in-prison/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2016/03/is-sinai-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Islamic State&#039;s affiliate Sinai Province at weapons training, February 6, 2016 (illustrative image: Telegram.me/HaiAlaElJehad5 via MEMRI)" title="Islamic State&#039;s affiliate Sinai Province at weapons training, February 6, 2016 (illustrative image: Telegram.me/HaiAlaElJehad5 via MEMRI)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/arab-israeli-who-tried-to-join-islamic-state-gets-28-months-in-prison/">Arab Israeli who tried to join Islamic State gets 28 months in prison</a>
+						</div>
+						<div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-1815817">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/jewish-republican-donor-took-2-7m-from-uae-lobbyist-to-influence-trump-report/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2018/03/000_1263FV-200x200.jpg" class="attachment-square size-square wp-post-image" alt="US President Donald Trump speaks during a Cabinet meeting in the Cabinet Room of the White House on March 8, 2018 in Washington, DC. (Mandel Ngan/AFP)" title="US President Donald Trump speaks during a Cabinet meeting in the Cabinet Room of the White House on March 8, 2018 in Washington, DC. (Mandel Ngan/AFP)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/jewish-republican-donor-took-2-7m-from-uae-lobbyist-to-influence-trump-report/">Jewish Republican donor took $2.7m from UAE lobbyist to influence Trump &#8211; report</a>
+						</div>
+						<div class="byline">By <a title="JTA" href="https://www.timesofisrael.com/writers/jta/">JTA</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-1815625">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/28-arrested-as-ultra-orthodox-army-draft-protesters-block-major-highway/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2018/03/IMG-20180322-WA0082-1-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Ultra-Orthodox demonstrators blocking a road in Bnei Brak as they protest against the army draft, March 22, 2018. (Police spokesperson)" title="Ultra-Orthodox demonstrators blocking a road in Bnei Brak as they protest against the army draft, March 22, 2018. (Police spokesperson)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/28-arrested-as-ultra-orthodox-army-draft-protesters-block-major-highway/">30 arrested as ultra-Orthodox army draft protesters block major highway</a>
+						</div>
+						<div class="byline">By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-1815655">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/israeli-firm-says-it-can-turn-garbage-into-plastic-gold/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2018/03/AP18081316320773-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Jack Tato Bigio, co-founder and chief executive at UBQ, holds a recycled plastic bucket next to a pile of dried and shredded garbage at the UBQ factory in Kibbutz Tzeelim, March 13, 2018. (AP Photo/Ariel Schalit)" title="Jack Tato Bigio, co-founder and chief executive at UBQ, holds a recycled plastic bucket next to a pile of dried and shredded garbage at the UBQ factory in Kibbutz Tzeelim, March 13, 2018. (AP Photo/Ariel Schalit)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/israeli-firm-says-it-can-turn-garbage-into-plastic-gold/">Israeli firm says it can turn garbage into plastic gold</a>
+						</div>
+						<div class="byline">By <a title="Ilan Ben Zion" href="https://www.timesofisrael.com/writers/ilan-ben-zion/">Ilan Ben Zion</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-1815283">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/judge-in-texting-scandal-suspended-until-disciplinary-ruling/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2018/02/84209126-e1519584981738-200x200.jpg" class="attachment-square size-square wp-post-image" alt="Judge Ronit Poznansky-Katz. (Judiciary of Israel)" title="Judge Ronit Poznansky-Katz. (Judiciary of Israel)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/judge-in-texting-scandal-suspended-until-disciplinary-ruling/">Judge in texting scandal suspended pending disciplinary ruling</a>
+						</div>
+						<div class="byline">By <a title="Michael Bachner" href="https://www.timesofisrael.com/writers/michael-bachner/">Michael Bachner</a> and <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a></div>
+					</div>
+				</div>
+				<div class="item  type-post post-id-1815189">
+					
+			<div class="media">
+				<a href="https://www.timesofisrael.com/israeli-production-company-to-launch-reality-show-exposing-sexual-harassment/">
+				<img width="200" height="200" src="https://static.timesofisrael.com/www/uploads/2018/02/063_910224306-200x200.jpg" class="attachment-square size-square wp-post-image" alt="An activist holds a #MeToo sign during a news conference on a Title IX lawsuit outside the Department of Education January 25, 2018 in Washington, DC (Alex Wong/Getty Images/AFP)" title="An activist holds a #MeToo sign during a news conference on a Title IX lawsuit outside the Department of Education January 25, 2018 in Washington, DC (Alex Wong/Getty Images/AFP)" />
+				</a>
+			</div>
+					<div class="item-content">
+						<div class="headline">
+							<a href="https://www.timesofisrael.com/israeli-production-company-to-launch-reality-show-exposing-sexual-harassment/">Israeli production company to launch reality show exposing sexual harassment</a>
+						</div>
+						<div class="byline">By <a title="Michael Bachner" href="https://www.timesofisrael.com/writers/michael-bachner/">Michael Bachner</a></div>
+					</div>
+				</div>
+		</div>
+			<div class="item template2 news type-spotlight post-id-1808399">
+				
+				
+			<div class="media">
+				<a href="https://www.timesofisrael.com/spotlight/political-science-blooms-in-the-desert/">
+				<img width="600" height="375" src="https://static.timesofisrael.com/www/uploads/2018/03/Image1-2-640x400.jpg" class="attachment-large size-large wp-post-image" alt="Ben-Gurion University (Photo by: Dr. Avishai Teicher, www.pikiwiki.org.il)" title="Ben-Gurion University (Photo by: Dr. Avishai Teicher, www.pikiwiki.org.il)" />
+				</a>
+			</div>
+				<div class="item-content">
+					<div class="above-headline"><span class="label">Promoted Content</span></div>
+					<div class="headline">
+						<a href="https://www.timesofisrael.com/spotlight/political-science-blooms-in-the-desert/">Political science blooms in the desert</a>
+					</div><div class="byline">By <a title="Dan Guri" href="https://www.timesofisrael.com/writers/dan-guri/">Dan Guri</a></div>
+					<div class="underline">
+						<a href="https://www.timesofisrael.com/spotlight/political-science-blooms-in-the-desert/">Prof. David Newman marks 20 years since the establishment of the Department of Politics and Government at Ben-Gurion University </a>
+					</div>
+				</div>
+			</div>
+<div class="item template8 special blogs">
+	<div class="headline"><a href="/ops-and-blogs/">Top Ops</a></div>
+</div>
+		<div class="package package3 special">
+	<div class="item type-blogs">
+		<div class="avatar"><img width="140" height="140" src="https://static.timesofisrael.com/www/uploads/terms-images/writers/mirvis2-medium.jpg" class="attachment-medium writers-thumbnail" alt="Ephraim Mirvis" title="Ephraim Mirvis" /></div>
+				
+		<div class="byline"><a title="Ephraim Mirvis" href="https://www.timesofisrael.com/writers/ephraim-mirvis/">Ephraim Mirvis</a></div>
+		<div class="headline">
+			<a href="https://www.timesofisrael.com/a-call-to-muslim-faith-leaders/">A call to Muslim faith leaders</a>
+		</div>
+				
+		
+			<div class="underline">
+				<a href="https://www.timesofisrael.com/a-call-to-muslim-faith-leaders/">As Chief Rabbi of the UK, I ask Muslim faith leaders to engage in dialogue with me -- if need be, we can meet in secret</a>
+			</div>
+	</div>
+	<div class="item type-blogs">
+		<div class="avatar"><img width="140" height="140" src="https://static.timesofisrael.com/www/uploads/terms-images/writers/Doug-BloomfieldDEC2016-medium.jpeg" class="attachment-medium writers-thumbnail" alt="Douglas M. Bloomfield" title="Douglas M. Bloomfield" /></div>
+				
+		<div class="byline"><a title="Douglas M. Bloomfield" href="https://www.timesofisrael.com/writers/douglas-m-bloomfield/">Douglas M. Bloomfield</a></div>
+		<div class="headline">
+			<a href="http://blogs.timesofisrael.com/are-settlements-obstacles-or-incentives/" rel="external">Settlements are supposed to be obstacles</a>
+		</div>
+				
+		
+			<div class="underline">
+				<a href="http://blogs.timesofisrael.com/are-settlements-obstacles-or-incentives/" rel="external">Chuck Schumer claims settlements don't block peace. He's wrong and here's how I know</a>
+			</div>
+	</div>
+	<div class="item type-blogs">
+		<div class="avatar"><img width="140" height="140" src="https://static.timesofisrael.com/www/uploads/terms-images/writers/Patrick-D.-John-medium.jpg" class="attachment-medium writers-thumbnail" alt="Patrick D. John" title="Patrick D. John" /></div>
+				
+		<div class="byline"><a title="Patrick D. John" href="https://www.timesofisrael.com/writers/patrick-d-john/">Patrick D. John</a></div>
+		<div class="headline">
+			<a href="http://blogs.timesofisrael.com/was-moses-wife-a-monkey/" rel="external">Was Moses&#8217; wife a monkey?</a>
+		</div>
+				
+		
+			<div class="underline">
+				<a href="http://blogs.timesofisrael.com/was-moses-wife-a-monkey/" rel="external">To Chief Rabbi Yosef: You make Israel look bad -- own your racially insensitive remarks and apologize!</a>
+			</div>
+	</div>
+	<div class="item type-blogs">
+		<div class="avatar"><img width="140" height="140" src="https://static.timesofisrael.com/www/uploads/terms-images/writers/eliezrie-BY-medium.jpg" class="attachment-medium writers-thumbnail" alt="David Eliezrie" title="David Eliezrie" /></div>
+				
+		<div class="byline"><a title="David Eliezrie" href="https://www.timesofisrael.com/writers/david-eliezrie/">David Eliezrie</a></div>
+		<div class="headline">
+			<a href="http://blogs.timesofisrael.com/a-letter-to-ronald-lauder-from-the-front-lines/" rel="external">Dear Ronald Lauder, you missed the real problem</a>
+		</div>
+				
+		
+			<div class="underline">
+				<a href="http://blogs.timesofisrael.com/a-letter-to-ronald-lauder-from-the-front-lines/" rel="external">It's not Israel that's driving young people away from Judaism, it's ignorance of their religion's ageless wisdom</a>
+			</div>
+	</div>
+	<div class="item type-blogs">
+		<div class="avatar"><img width="140" height="140" src="https://static.timesofisrael.com/www/uploads/terms-images/writers/NIW-Nathan-Lopez-Cardoso-Israel-9510-medium.jpeg" class="attachment-medium writers-thumbnail" alt="Nathan Lopes Cardozo" title="Nathan Lopes Cardozo" /></div>
+				
+		<div class="byline"><a title="Nathan Lopes Cardozo" href="https://www.timesofisrael.com/writers/nathan-lopes-cardozo/">Nathan Lopes Cardozo</a></div>
+		<div class="headline">
+			<a href="http://blogs.timesofisrael.com/platos-haggadah-in-the-dialogues/" rel="external">People of the ear</a>
+		</div>
+				
+		
+			<div class="underline">
+				<a href="http://blogs.timesofisrael.com/platos-haggadah-in-the-dialogues/" rel="external">Never mind the haggadah text in front of you; really, the Passover seder is about hearing what we need to know</a>
+			</div>
+	</div>
+	<div class="item type-blogs">
+		<div class="avatar"><img width="140" height="140" src="https://static.timesofisrael.com/www/uploads/terms-images/writers/Chamutal-Shoval-medium.jpg" class="attachment-medium writers-thumbnail" alt="Chamutal Shoval" title="Chamutal Shoval" /></div>
+				
+		<div class="byline"><a title="Chamutal Shoval" href="https://www.timesofisrael.com/writers/chamutal-shoval/">Chamutal Shoval</a></div>
+		<div class="headline">
+			<a href="http://blogs.timesofisrael.com/the-rabbinate-wont-let-me-take-its-exams-in-jewish-law/" rel="external">The Rabbinate won&#8217;t let me take its exams</a>
+		</div>
+				
+		
+			<div class="underline">
+				<a href="http://blogs.timesofisrael.com/the-rabbinate-wont-let-me-take-its-exams-in-jewish-law/" rel="external">By not letting us female students of Shabbat, kashrut, and more establish our expertise, the rabbis quash the Torah</a>
+			</div>
+	</div>
+	<div class="item type-blogs">
+		<div class="avatar"><img width="140" height="140" src="https://static.timesofisrael.com/www/uploads/terms-images/writers/bracha-goldstein2-medium.jpg" class="attachment-medium writers-thumbnail" alt="Bracha Goldstein" title="Bracha Goldstein" /></div>
+				
+		<div class="byline"><a title="Bracha Goldstein" href="https://www.timesofisrael.com/writers/bracha-goldstein/">Bracha Goldstein</a></div>
+		<div class="headline">
+			<a href="http://blogs.timesofisrael.com/redemption/" rel="external">Prepping for Passover like always</a>
+		</div>
+				
+		
+			<div class="underline">
+				<a href="http://blogs.timesofisrael.com/redemption/" rel="external">My heart jumps when I spot a long-forgotten pretzel in the corner, though I no longer believe</a>
+			</div>
+	</div>
+	<div class="item type-blogs">
+		<div class="avatar"><img width="140" height="140" src="https://static.timesofisrael.com/www/uploads/terms-images/writers/shayna-medium.jpg" class="attachment-medium writers-thumbnail" alt="Shayna Goldberg" title="Shayna Goldberg" /></div>
+				
+		<div class="byline"><a title="Shayna Goldberg" href="https://www.timesofisrael.com/writers/shayna-goldberg/">Shayna Goldberg</a></div>
+		<div class="headline">
+			<a href="http://blogs.timesofisrael.com/celebrating-freedom-in-a-postmodern-age/" rel="external">Passover in a postmodern age</a>
+		</div>
+				
+		
+			<div class="underline">
+				<a href="http://blogs.timesofisrael.com/celebrating-freedom-in-a-postmodern-age/" rel="external">We can chalk our beliefs up to artificial constructs that keep us subservient, but our experiences are real and they are freeing</a>
+			</div>
+	</div>
+	<div class="item type-blogs">
+		<div class="avatar"><img width="140" height="140" src="https://static.timesofisrael.com/www/uploads/terms-images/writers/Gillian-Merron-medium.jpg" class="attachment-medium writers-thumbnail" alt="Gillian Merron" title="Gillian Merron" /></div>
+				
+		<div class="byline"><a title="Gillian Merron" href="https://www.timesofisrael.com/writers/gillian-merron/">Gillian Merron</a></div>
+		<div class="headline">
+			<a href="http://blogs.timesofisrael.com/how-brexit-could-affect-the-jewish-community/" rel="external">Is Brexit bad for the Jews?</a>
+		</div>
+				
+		
+			<div class="underline">
+				<a href="http://blogs.timesofisrael.com/how-brexit-could-affect-the-jewish-community/" rel="external">That depends on how the government handles security, trade with Israel, and the kosher slaughter regulations</a>
+			</div>
+	</div>
+	<div class="item type-blogs">
+		<div class="avatar"><img width="140" height="140" src="https://static.timesofisrael.com/www/uploads/terms-images/writers/Joshua-Hammerman-medium.jpg" class="attachment-medium writers-thumbnail" alt="Joshua Hammerman" title="Joshua Hammerman" /></div>
+				
+		<div class="byline"><a title="Joshua Hammerman" href="https://www.timesofisrael.com/writers/joshua-hammerman/">Joshua Hammerman</a></div>
+		<div class="headline">
+			<a href="http://blogs.timesofisrael.com/marching-for-our-lives-by-hopping-on-the-shab-bus/" rel="external">Marching for our lives by hopping on the Shab-bus</a>
+		</div>
+				
+		
+			<div class="underline">
+				<a href="http://blogs.timesofisrael.com/marching-for-our-lives-by-hopping-on-the-shab-bus/" rel="external">The gun control rally is so important that I, a rabbi, am going to blatantly disrupt God’s holy Sabbath</a>
+			</div>
+	</div>
+	<div class="item type-blogs">
+		<div class="avatar"><img width="140" height="140" src="https://static.timesofisrael.com/www/uploads/terms-images/writers/Judy-Freedman-medium.jpg" class="attachment-medium writers-thumbnail" alt="Judy Freedman" title="Judy Freedman" /></div>
+				
+		<div class="byline"><a title="Judy Freedman" href="https://www.timesofisrael.com/writers/judy-freedman/">Judy Freedman</a></div>
+		<div class="headline">
+			<a href="http://blogs.timesofisrael.com/heads-up/" rel="external">Why do you cover your hair?</a>
+		</div>
+				
+		
+			<div class="underline">
+				<a href="http://blogs.timesofisrael.com/heads-up/" rel="external">Each woman has her own path; most are making a statement: 'I am observant and proud of it'</a>
+			</div>
+	</div>
+	<div class="item type-blogs">
+		<div class="avatar"><img width="140" height="140" src="https://static.timesofisrael.com/www/uploads/terms-images/writers/Andrew-Silow-Carroll-medium.jpg" class="attachment-medium writers-thumbnail" alt="Andrew Silow-Carroll" title="Andrew Silow-Carroll" /></div>
+				
+		<div class="byline"><a title="Andrew Silow-Carroll" href="https://www.timesofisrael.com/writers/andrew-silow-carroll/">Andrew Silow-Carroll</a></div>
+		<div class="headline">
+			<a href="http://blogs.timesofisrael.com/nobody-is-talking-about-anti-semitism-youre-kidding-right/" rel="external">&#8216;Nobody&#8217;s talking about anti-Semitism.&#8217; Wait, what?</a>
+		</div>
+				
+		
+			<div class="underline">
+				<a href="http://blogs.timesofisrael.com/nobody-is-talking-about-anti-semitism-youre-kidding-right/" rel="external">Jewish groups are most certainly not downplaying the threat, they just disagree on where it's coming from</a>
+			</div>
+	</div>
+		</div>				</section>
+			
+							<section data-block_id="block2" class="cols2 block">
+					<div id="latest" class="latest-split">
+	<div class="latest-articles widget">
+		<div class="widget-header">
+			<a href="/latest/">Latest Articles</a>
+		</div>
+		<div class="widget-body no-hover">
+			<ul>
+					<li class="item">
+						
+							<div class="media">
+								<a href="https://www.timesofisrael.com/decade-after-clandestine-syria-strike-revelation-sparks-a-war-for-credit/">
+									<img width="160" height="100" src="https://static.timesofisrael.com/www/uploads/2018/03/F090330MA08-e1521771708506-160x100.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Ehud Olmert, right, and Ehud Barak in the Knesset on March 30, 2009. Miriam Alster/Flash90)" title="Ehud Olmert, right, and Ehud Barak in the Knesset on March 30, 2009. Miriam Alster/Flash90)" />
+								</a>
+							</div>
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/decade-after-clandestine-syria-strike-revelation-sparks-a-war-for-credit/">16 minutes ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/decade-after-clandestine-syria-strike-revelation-sparks-a-war-for-credit/">
+									<span class="label">Analysis</span>Decade after clandestine Syria strike, revelation sparks a war for credit 
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/peru-president-undone-by-corruption-scandals-he-vowed-to-end/">35 minutes ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/peru-president-undone-by-corruption-scandals-he-vowed-to-end/">
+									Peru president undone by corruption scandals he vowed to end 
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/war-hero-mcmaster-bows-out-after-mostly-unsuccessful-bid-to-curb-trump/">57 minutes ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/war-hero-mcmaster-bows-out-after-mostly-unsuccessful-bid-to-curb-trump/">
+									War hero McMaster bows out after mostly unsuccessful bid to curb Trump 
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/ohioan-charged-with-hate-crime-for-beating-man-mistaken-for-jew/">1 hour ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/ohioan-charged-with-hate-crime-for-beating-man-mistaken-for-jew/">
+									Ohioan charged with hate crime for beating man mistaken for Jew 
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/colbert-struggles-to-keep-up-with-bader-ginsburg-workout-routine/">2 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/colbert-struggles-to-keep-up-with-bader-ginsburg-workout-routine/">
+									<span class="label">Bench press</span>Colbert struggles to keep up with Bader Ginsburg workout routine 
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/bringing-in-bolton-white-house-stiffens-stances-against-palestinians-iran/">2 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/bringing-in-bolton-white-house-stiffens-stances-against-palestinians-iran/">
+									Bringing in Bolton, White House appears to stiffen against Palestinians, Iran 
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/trump-names-hawk-bolton-new-national-security-adviser-boots-mcmaster/">4 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/trump-names-hawk-bolton-new-national-security-adviser-boots-mcmaster/">
+									Trump names hawk Bolton new national security adviser, boots McMaster 
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/tamar-zandberg-crowned-new-meretz-leader-after-resounding-primary-win/">4 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/tamar-zandberg-crowned-new-meretz-leader-after-resounding-primary-win/">
+									Tamar Zandberg crowned new Meretz leader after resounding primary win 
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/israelis-to-lose-an-hour-of-sleep-as-clocks-to-spring-forward-into-summer-time/">5 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/israelis-to-lose-an-hour-of-sleep-as-clocks-to-spring-forward-into-summer-time/">
+									Israelis lose an hour of sleep as clocks spring forward into summer time 
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/poland-puts-berlins-wwii-bill-at-440-billion-euros/">5 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/poland-puts-berlins-wwii-bill-at-440-billion-euros/">
+									Poland puts Berlin&#8217;s WWII bill at 440 billion euros 
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/palestinians-call-to-add-us-ambassador-friedman-to-global-terror-list/">5 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/palestinians-call-to-add-us-ambassador-friedman-to-global-terror-list/">
+									Palestinians call to put US ambassador Friedman on &#8216;global terror list&#8217; 
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/pm-slams-thought-police-media-for-not-showing-other-sides-in-graft-probes/">5 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/pm-slams-thought-police-media-for-not-showing-other-sides-in-graft-probes/">
+									PM slams &#8216;thought police&#8217; media for skewed reporting of graft probes against him 
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/on-israeli-posters-paddington-bear-goes-kosher-for-passover/">6 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/on-israeli-posters-paddington-bear-goes-kosher-for-passover/">
+									<span class="label">Matzah bear</span>On Israeli posters, Paddington Bear goes kosher for Passover 
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/abbas-warns-hamas-hand-over-gaza-back-to-the-palestinian-authority/">6 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/abbas-warns-hamas-hand-over-gaza-back-to-the-palestinian-authority/">
+									Abbas to Hamas: You &#8216;hijacked&#8217; Gaza, now give it back 
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/top-trump-lawyer-quits-as-mueller-probe-presses-white-house/">7 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/top-trump-lawyer-quits-as-mueller-probe-presses-white-house/">
+									Top Trump lawyer quits as Mueller probe presses White House 
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/jewish-republican-donor-took-2-7m-from-uae-lobbyist-to-influence-trump-report/">7 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/jewish-republican-donor-took-2-7m-from-uae-lobbyist-to-influence-trump-report/">
+									Jewish Republican donor took $2.7m from UAE lobbyist to influence Trump &#8211; report 
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/dont-worry-about-us-having-nukes-saudi-journalist-tells-israelis-in-hebrew/">8 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/dont-worry-about-us-having-nukes-saudi-journalist-tells-israelis-in-hebrew/">
+									Don&#8217;t worry about us having nukes, Saudi journalist tells Israelis, in Hebrew 
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/how-change-became-possible-in-a-hot-bed-of-intolerance-malmo-sweden/">8 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/how-change-became-possible-in-a-hot-bed-of-intolerance-malmo-sweden/">
+									How change became possible in a hotbed of intolerance, Malmö, Sweden 
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/worried-about-being-on-facebook-some-options-explained/">8 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/worried-about-being-on-facebook-some-options-explained/">
+									Worried about being on Facebook? Some options explained 
+								</a>
+							</div>
+						</div>
+					</li>
+					<li class="item">
+						
+						<div class="item-content">
+							<div class="date">
+								<a href="https://www.timesofisrael.com/zuckerberg-apology-fails-to-quiet-facebook-storm/">8 hours ago</a>
+							</div>
+							<div class="headline">
+								<a href="https://www.timesofisrael.com/zuckerberg-apology-fails-to-quiet-facebook-storm/">
+									Zuckerberg apology fails to quiet Facebook storm 
+								</a>
+							</div>
+						</div>
+					</li></ul>		</div>
+		<div class="widget-footer">
+			<a href="/latest/">See All</a>
+		</div>
+	</div>	
+	<div class="latest-blogs widget">
+		<div class="widget-header">
+			<a href="http://blogs.timesofisrael.com/">Latest Blogs</a>
+		</div>
+		<div class="widget-body no-hover">
+			<ul>
+					<li class="blog-item">
+						<div class="avatar">
+							<a href="http://blogs.timesofisrael.com/author/lior-vaknin/">
+								<img width="140" height="140" src="https://static.timesofisrael.com/www/uploads/terms-images/writers/Lior-Vaknin-medium.jpg" class="attachment-medium writers-thumbnail" alt="Lior Vaknin" title="Lior Vaknin" />
+							</a>
+						</div>
+						<div class="item-content">
+							<div class="byline">
+								<a href="http://blogs.timesofisrael.com/author/lior-vaknin/">Lior Vaknin</a>
+							</div>
+							<div class="headline">
+								<a href="http://blogs.timesofisrael.com/is-israel-on-its-way-to-civil-war/">Is Israel on its way to Civil War?</a>
+							</div>
+						</div>
+					</li>
+					<li class="blog-item">
+						<div class="avatar">
+							<a href="http://blogs.timesofisrael.com/author/jerold-s-auerbach/">
+								<img width="140" height="140" src="https://static.timesofisrael.com/www/uploads/terms-images/writers/jerrold-medium.jpg" class="attachment-medium writers-thumbnail" alt="Jerold S. Auerbach" title="Jerold S. Auerbach" />
+							</a>
+						</div>
+						<div class="item-content">
+							<div class="byline">
+								<a href="http://blogs.timesofisrael.com/author/jerold-s-auerbach/">Jerold S. Auerbach</a>
+							</div>
+							<div class="headline">
+								<a href="http://blogs.timesofisrael.com/ronald-lauders-prophecy-of-doom/">Ronald Lauder's Prophecy of Doom</a>
+							</div>
+						</div>
+					</li>
+					<li class="blog-item">
+						<div class="avatar">
+							<a href="http://blogs.timesofisrael.com/author/moshe-mordechai-van-zuiden/">
+								<img width="140" height="140" src="https://static.timesofisrael.com/www/uploads/terms-images/writers/Moshe-Mordechai-van-Zuiden-medium.jpg" class="attachment-medium writers-thumbnail" alt="Moshe-Mordechai van Zuiden" title="Moshe-Mordechai van Zuiden" />
+							</a>
+						</div>
+						<div class="item-content">
+							<div class="byline">
+								<a href="http://blogs.timesofisrael.com/author/moshe-mordechai-van-zuiden/">Moshe-Mordechai van Zuiden</a>
+							</div>
+							<div class="headline">
+								<a href="http://blogs.timesofisrael.com/the-villain-as-accuser/">The villain as accuser</a>
+							</div>
+						</div>
+					</li>
+					<li class="blog-item">
+						<div class="avatar">
+							<a href="http://blogs.timesofisrael.com/author/chana-perman/">
+								<img width="140" height="140" src="https://static.timesofisrael.com/www/uploads/terms-images/writers/Chana-Perman-medium.jpg" class="attachment-medium writers-thumbnail" alt="Chana Perman" title="Chana Perman" />
+							</a>
+						</div>
+						<div class="item-content">
+							<div class="byline">
+								<a href="http://blogs.timesofisrael.com/author/chana-perman/">Chana Perman</a>
+							</div>
+							<div class="headline">
+								<a href="http://blogs.timesofisrael.com/the-midnight-misadventures-of-grandparents-dear/">The Midnight Misadventures of Gra...</a>
+							</div>
+						</div>
+					</li>
+					<li class="blog-item">
+						<div class="avatar">
+							<a href="http://blogs.timesofisrael.com/author/daniel-swindell/">
+								<img width="140" height="140" src="https://static.timesofisrael.com/www/uploads/terms-images/writers/Daniel-Swindell-medium.jpg" class="attachment-medium writers-thumbnail" alt="Daniel Swindell" title="Daniel Swindell" />
+							</a>
+						</div>
+						<div class="item-content">
+							<div class="byline">
+								<a href="http://blogs.timesofisrael.com/author/daniel-swindell/">Daniel Swindell</a>
+							</div>
+							<div class="headline">
+								<a href="http://blogs.timesofisrael.com/the-arab-world-is-guilty-of-colonialist-reversal/">The Arab World is Guilty of Colon...</a>
+							</div>
+						</div>
+					</li>
+					<li class="blog-item">
+						<div class="avatar">
+							<a href="http://blogs.timesofisrael.com/author/ron-kronish/">
+								<img width="140" height="140" src="https://static.timesofisrael.com/www/uploads/terms-images/writers/Ron-Kronish2-medium.jpg" class="attachment-medium writers-thumbnail" alt="Ron Kronish" title="Ron Kronish" />
+							</a>
+						</div>
+						<div class="item-content">
+							<div class="byline">
+								<a href="http://blogs.timesofisrael.com/author/ron-kronish/">Ron Kronish</a>
+							</div>
+							<div class="headline">
+								<a href="http://blogs.timesofisrael.com/why-irrational-politics-appeal-to-voters-in-america-and-israel/">Why Irrational Politics Appeal to...</a>
+							</div>
+						</div>
+					</li>
+					<li class="blog-item">
+						<div class="avatar">
+							<a href="http://blogs.timesofisrael.com/author/joanne-palmer/">
+								<img width="140" height="140" src="https://static.timesofisrael.com/www/uploads/terms-images/writers/joanne-palmer-medium.jpg" class="attachment-medium writers-thumbnail" alt="Joanne Palmer" title="Joanne Palmer" />
+							</a>
+						</div>
+						<div class="item-content">
+							<div class="byline">
+								<a href="http://blogs.timesofisrael.com/author/joanne-palmer/">Joanne Palmer</a>
+							</div>
+							<div class="headline">
+								<a href="http://blogs.timesofisrael.com/remembering-rabbi-ozer-glickman/">Remembering  Rabbi Ozer Glickman</a>
+							</div>
+						</div>
+					</li>
+					<li class="blog-item">
+						<div class="avatar">
+							<a href="http://blogs.timesofisrael.com/author/esor-ben-sorek/">
+								<img width="140" height="140" src="https://static.timesofisrael.com/www/uploads/terms-images/writers/Esor-Ben-Sorek-medium.jpg" class="attachment-medium writers-thumbnail" alt="Esor Ben-Sorek" title="Esor Ben-Sorek" />
+							</a>
+						</div>
+						<div class="item-content">
+							<div class="byline">
+								<a href="http://blogs.timesofisrael.com/author/esor-ben-sorek/">Esor Ben-Sorek</a>
+							</div>
+							<div class="headline">
+								<a href="http://blogs.timesofisrael.com/her-time-to-go-and-now/">Her Time to Go.... And NOW</a>
+							</div>
+						</div>
+					</li>
+					<li class="blog-item">
+						<div class="avatar">
+							<a href="http://blogs.timesofisrael.com/author/raymond-m-berger/">
+								<img width="140" height="140" src="https://static.timesofisrael.com/www/uploads/terms-images/writers/Raymond-M.-Berger-medium.jpg" class="attachment-medium writers-thumbnail" alt="Raymond M. Berger" title="Raymond M. Berger" />
+							</a>
+						</div>
+						<div class="item-content">
+							<div class="byline">
+								<a href="http://blogs.timesofisrael.com/author/raymond-m-berger/">Raymond M. Berger</a>
+							</div>
+							<div class="headline">
+								<a href="http://blogs.timesofisrael.com/did-america-destroy-iraq/">Did America Destroy Iraq?</a>
+							</div>
+						</div>
+					</li>
+					<li class="blog-item">
+						<div class="avatar">
+							<a href="http://blogs.timesofisrael.com/author/benjy-singer/">
+								<img width="140" height="140" src="https://static.timesofisrael.com/www/uploads/terms-images/writers/sa2-medium.jpg" class="attachment-medium writers-thumbnail" alt="Benjy Singer" title="Benjy Singer" />
+							</a>
+						</div>
+						<div class="item-content">
+							<div class="byline">
+								<a href="http://blogs.timesofisrael.com/author/benjy-singer/">Benjy Singer</a>
+							</div>
+							<div class="headline">
+								<a href="http://blogs.timesofisrael.com/seder-night-an-opportunity-to-celebrate-our-memories-and-relationships/">Seder Night -- An Opportunity to ...</a>
+							</div>
+						</div>
+					</li></ul>		</div>
+		<div class="widget-footer">
+			<a href="http://blogs.timesofisrael.com/">See All</a>
+		</div>
+	</div>
+</div><div class="widget nlsignup daily-edition-signup">
+	<div class="widget-body newsletter" data-website="timesofisrael" data-from="widget">
+		<div class="text">
+			<div class="medium">The Times of Israel</div>
+			<div class="big">Daily Edition</div>
+			<div class="medium">Free to Your Inbox</div>
+		</div>
+		<form>
+			<input type="email" name="email" class="email-address" value="" placeholder="Email address" autocorrect="off" autocapitalize="off" autocomplete="off">
+            <input name="subscribe" value="Subscribe" class="submit" type="submit">
+		</form>
+		<div class="newsletter-error">
+			<span>The email is either missing or invalid.</span>
+		</div>
+		<div class="terms">
+			By signing up, you agree to our 
+	        <span class="tooltip">
+	        	terms
+	            <span>
+	                <b></b>
+	                You hereby accept The Times of Israel <a href="/terms/" target="_top">Terms of Use</a> and <a href="/privacy/" target="_top">Privacy Policy</a>, and you agree to receive the latest news &amp; offers from The Times of Israel and its partners or ad sponsors.
+	            </span>
+	        </span>
+		</div>
+	</div>
+</div>
+	<div id="tales-of-the-times" class="slider">
+		<div class="section-header">
+			<div class="title"><a href="https://www.timesofisrael.com/collection/tales-of-the-times/">Tales of the Times</a></div>
+							<div class="subtitle"><a href="https://www.timesofisrael.com/collection/tales-of-the-times/">The quirky, improbable, infuriating and uplifting</a></div>
+					</div>
+
+		<div class="arrows prev disabled"><a href="#" title="Previous"></a></div>
+		<div id="tales-of-the-times-viewport" class="slider-viewport">
+			<ul style="width:5000">
+									<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/colbert-struggles-to-keep-up-with-bader-ginsburg-workout-routine/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2018/03/rbg-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="Ruth Bader Ginsburg, left, and Steohen Colbert stretching before working out. (screen capture: YouTube)" title="Ruth Bader Ginsburg, left, and Steohen Colbert stretching before working out. (screen capture: YouTube)" /></a>
+						</div>
+						<span class="label">Bench press</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/colbert-struggles-to-keep-up-with-bader-ginsburg-workout-routine/"><span class="media-ico video-ico no-slash"></span>Colbert struggles to keep up with Bader Ginsburg workout routine</a>
+						</div>
+													<div class="byline">
+								By <a title="Ben Sales" href="https://www.timesofisrael.com/writers/ben-sales/">Ben Sales</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/on-israeli-posters-paddington-bear-goes-kosher-for-passover/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2018/03/yesplanet_paddington_2000x390-e1521745779493-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="An advert for Paddington 2 in which his sandwich is switched for matzah for the film that comes out over the Passover holiday  (Courtesy)" title="An advert for Paddington 2 in which his sandwich is switched for matzah for the film that comes out over the Passover holiday  (Courtesy)" /></a>
+						</div>
+						<span class="label">Matzah bear</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/on-israeli-posters-paddington-bear-goes-kosher-for-passover/">On Israeli posters, Paddington Bear goes kosher for Passover</a>
+						</div>
+													<div class="byline">
+								By <a title="AP" href="https://www.timesofisrael.com/writers/ap/">AP</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/scimitar-wielding-turkish-governor-vows-to-conquer-jerusalem/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2018/03/Untitled-11-e1521717894493-400x250.png" class="attachment-medium size-medium wp-post-image" alt="Necati Senturk, governor of Turkey&#039;s Kirsehir province, wielding a double bladed scimitar in a speech in mid-March 2018. (Screen capture: YouTube)" title="Necati Senturk, governor of Turkey&#039;s Kirsehir province, wielding a double bladed scimitar in a speech in mid-March 2018. (Screen capture: YouTube)" /></a>
+						</div>
+						<span class="label">Crossing swords</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/scimitar-wielding-turkish-governor-vows-to-conquer-jerusalem/"><span class="media-ico video-ico no-slash"></span>Scimitar-wielding Turkish governor vows to conquer Jerusalem</a>
+						</div>
+													<div class="byline">
+								By <a title="AFP" href="https://www.timesofisrael.com/writers/afp/">AFP</a> and <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/trump-crazy-biden-would-go-down-crying-if-he-assaulted-me/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2018/02/000_11B2KK-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="US President Donald Trump speaks during the 2018 White House business session with state governors in the State dining room of the White House on February 26, 2018, in Washington, DC. (AFP PHOTO)" title="US President Donald Trump speaks during the 2018 White House business session with state governors in the State dining room of the White House on February 26, 2018, in Washington, DC. (AFP PHOTO)" /></a>
+						</div>
+						<span class="label">Heavyweight champion?</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/trump-crazy-biden-would-go-down-crying-if-he-assaulted-me/">Trump: &#8216;Crazy&#8217; Biden would go down crying if he assaulted me</a>
+						</div>
+													<div class="byline">
+								By <a title="AP" href="https://www.timesofisrael.com/writers/ap/">AP</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/in-european-jewrys-song-contest-israel-is-always-a-winner/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2018/03/jewrovision-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="A view of the German Jewrovision contest in Munich, Germany, March 2, 2013. (Lennart Preiss/Getty Images)" title="A view of the German Jewrovision contest in Munich, Germany, March 2, 2013. (Lennart Preiss/Getty Images)" /></a>
+						</div>
+						<span class="label">Jewish harmony</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/in-european-jewrys-song-contest-israel-is-always-a-winner/">In European Jewry’s song contest, Israel is always a winner</a>
+						</div>
+													<div class="byline">
+								By <a title="Cnaan Liphshiz" href="https://www.timesofisrael.com/writers/cnaan-liphshiz/">Cnaan Liphshiz</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/mayim-bialik-happy-to-take-a-public-bullet-over-israel-support/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2018/03/Pres-Rivlin-and-Mayim-Bialik-03182018-resize-1-e1521654589877-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="Actress Mayim Bialik meets President Reuven Rivlin at his residence in Jerusalem on March 18, 2018. (Mark Neiman/GPO)" title="Actress Mayim Bialik meets President Reuven Rivlin at his residence in Jerusalem on March 18, 2018. (Mark Neiman/GPO)" /></a>
+						</div>
+						<span class="label">From Hollywood, with love</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/mayim-bialik-happy-to-take-a-public-bullet-over-israel-support/"><span class="media-ico video-ico no-slash"></span>Mayim Bialik &#8216;happy to take a public bullet&#8217; over Israel support</a>
+						</div>
+													<div class="byline">
+								By <a title="JTA" href="https://www.timesofisrael.com/writers/jta/">JTA</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/arab-israeli-designer-sees-fashion-as-a-multicultural-effort/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2018/03/AC6I0269-e1521636340353-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="One of Nadia Ibrahim Azzizi&#039;s designs shown at a night celebrating Arab-Israeli designers (Courtesy Nadia Ibrahim Azzizi)" title="One of Nadia Ibrahim Azzizi&#039;s designs shown at a night celebrating Arab-Israeli designers (Courtesy Nadia Ibrahim Azzizi)" /></a>
+						</div>
+						<span class="label">Made in Jaffa</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/arab-israeli-designer-sees-fashion-as-a-multicultural-effort/">Arab-Israeli designer sees fashion as a multicultural effort</a>
+						</div>
+													<div class="byline">
+								By <a title="Jessica Steinberg" href="https://www.timesofisrael.com/writers/jessica-steinberg/">Jessica Steinberg</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/drumroll-please-its-sir-ringo-wholl-be-playing-in-tel-aviv-this-summer/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2018/03/AP18079465448025-e1521600371199-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="Former Beatle Ringo Starr, is made a knight by Britain&#039;s Prince William at Buckingham Palace during an Investiture ceremony in London Tuesday March 20, 2018. (Yui Mok/PA via AP)" title="Former Beatle Ringo Starr, is made a knight by Britain&#039;s Prince William at Buckingham Palace during an Investiture ceremony in London Tuesday March 20, 2018. (Yui Mok/PA via AP)" /></a>
+						</div>
+						<span class="label">Arise, Sir Ringo</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/drumroll-please-its-sir-ringo-wholl-be-playing-in-tel-aviv-this-summer/">Drumroll please: It&#8217;s &#8216;Sir Ringo&#8217; who&#8217;ll be playing in Tel Aviv this summer</a>
+						</div>
+													<div class="byline">
+								By <a title="AP" href="https://www.timesofisrael.com/writers/ap/">AP</a> and <a title="Jessica Steinberg" href="https://www.timesofisrael.com/writers/jessica-steinberg/">Jessica Steinberg</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/ben-platt-and-lin-manuel-miranda-fight-violence-with-vocals/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2018/03/0-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="Ben Platt and Lin-Manuel Miranda in their new charity single, &#039;Found Tonight&#039; (YouTube)" title="Ben Platt and Lin-Manuel Miranda in their new charity single, &#039;Found Tonight&#039; (YouTube)" /></a>
+						</div>
+						<span class="label">Ballad for change</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/ben-platt-and-lin-manuel-miranda-fight-violence-with-vocals/"><span class="media-ico video-ico no-slash"></span>Ben Platt and Lin-Manuel Miranda fight violence with vocals</a>
+						</div>
+													<div class="byline">
+								By <a title="Tracy Frydberg" href="https://www.timesofisrael.com/writers/tracy-frydberg/">Tracy Frydberg</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/classic-70s-band-america-plans-october-show-in-caesarea/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2018/03/Untitled-4-8-400x250.png" class="attachment-medium size-medium wp-post-image" alt="Gerry Beckley (left) and Dewey Bunnell of America, the 1970s band that will perform in Israel in October. (Official Facebook page)" title="Gerry Beckley (left) and Dewey Bunnell of America, the 1970s band that will perform in Israel in October. (Official Facebook page)" /></a>
+						</div>
+						<span class="label">You can do magic</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/classic-70s-band-america-plans-october-show-in-caesarea/">Classic 70s band America plans October show in Caesarea</a>
+						</div>
+													<div class="byline">
+								By <a title="Jessica Steinberg" href="https://www.timesofisrael.com/writers/jessica-steinberg/">Jessica Steinberg</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/pulling-no-punches-saudi-woman-boxer-breaks-exercise-taboo/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2018/03/000_11A7JH-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="Saudi gym owner Halah Alhamrani, 41, trains in her gym centre in the coastal city of Jeddah, February 19, 2018. (AMER HILABI/AFP)" title="Saudi gym owner Halah Alhamrani, 41, trains in her gym centre in the coastal city of Jeddah, February 19, 2018. (AMER HILABI/AFP)" /></a>
+						</div>
+						<span class="label">Blow by blow</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/pulling-no-punches-saudi-woman-boxer-breaks-exercise-taboo/">Pulling no punches, Saudi woman boxer breaks exercise taboo</a>
+						</div>
+													<div class="byline">
+								By <a title="Anuj Chopra" href="https://www.timesofisrael.com/writers/anuj-chopra/">Anuj Chopra</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/police-agent-disguised-as-bratslav-hasid-incriminates-drug-dealers/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2012/02/Web_F052009oc06-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="Illustrative photo of drugs (Orel Cohen /Flash90)" title="Illustrative photo of drugs (Orel Cohen /Flash90)" /></a>
+						</div>
+						<span class="label">Holy smoke</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/police-agent-disguised-as-bratslav-hasid-incriminates-drug-dealers/">Police agent disguised as Bratslav Hasid incriminates drug dealers</a>
+						</div>
+													<div class="byline">
+								By <a title="Michael Bachner" href="https://www.timesofisrael.com/writers/michael-bachner/">Michael Bachner</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/washington-councilman-accuses-jews-of-controlling-weather/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2018/03/trayon-white-e1521474893346-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="Trayon White Sr. (Facebook via JTA)" title="Trayon White Sr. (Facebook via JTA)" /></a>
+						</div>
+						<span class="label">Fogging Jews</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/washington-councilman-accuses-jews-of-controlling-weather/"><span class="media-ico video-ico no-slash"></span>Washington councilman accuses Jews of controlling weather</a>
+						</div>
+													<div class="byline">
+								By <a title="JTA" href="https://www.timesofisrael.com/writers/jta/">JTA</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/israeli-soccer-star-posts-photo-with-iranian-team-captain/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2018/03/DYkCDWqXkAEOboq-e1521466511905-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="Illustrative photo of Israeli soccer player Maor Buzaglo (L) posing alongside Iranian national team captain Ashkan Dejagah on Sunday, March 18, 2018. (Twitter)" title="Illustrative photo of Israeli soccer player Maor Buzaglo (L) posing alongside Iranian national team captain Ashkan Dejagah on Sunday, March 18, 2018. (Twitter)" /></a>
+						</div>
+						<span class="label">Friendly match</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/israeli-soccer-star-posts-photo-with-iranian-team-captain/">Israeli soccer star posts photo with Iranian team captain</a>
+						</div>
+													<div class="byline">
+								By <a title="TOI staff" href="https://www.timesofisrael.com/writers/times-of-israel-staff/">TOI staff</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/reggae-master-ziggy-marley-to-return-to-israel-this-summer/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2018/03/Untitled-4-6-400x250.png" class="attachment-medium size-medium wp-post-image" alt="Ziggy Marley will perform two intimate concerts in Israel in summer 2018 (Courtesy Ziggy Marley Facebook page)" title="Ziggy Marley will perform two intimate concerts in Israel in summer 2018 (Courtesy Ziggy Marley Facebook page)" /></a>
+						</div>
+						<span class="label">Is this love</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/reggae-master-ziggy-marley-to-return-to-israel-this-summer/">Reggae master Ziggy Marley to return to Israel this summer</a>
+						</div>
+													<div class="byline">
+								By <a title="Jessica Steinberg" href="https://www.timesofisrael.com/writers/jessica-steinberg/">Jessica Steinberg</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/president-rivlin-welcomes-actress-mayim-bialik-to-jerusalem/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2018/03/Pres-Rivlin-and-Mayim-Bialik-03182018-resize-e1521406615711-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="Actress Mayim Bialik, left, meets President Reuven Rivlin at his residence in Jerusalem, March 18, 2018. (Mark Neiman/GPO)" title="Actress Mayim Bialik, left, meets President Reuven Rivlin at his residence in Jerusalem, March 18, 2018. (Mark Neiman/GPO)" /></a>
+						</div>
+												<div class="headline">
+							<a href="https://www.timesofisrael.com/president-rivlin-welcomes-actress-mayim-bialik-to-jerusalem/">President Rivlin welcomes actress Mayim Bialik to Jerusalem</a>
+						</div>
+													<div class="byline">
+								By <a title="JTA" href="https://www.timesofisrael.com/writers/jta/">JTA</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/group-publishes-map-showing-europes-remaining-synagogues/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2018/03/map-400x250.png" class="attachment-medium size-medium wp-post-image" alt="The Foundation for Jewish Heritage has published a map that allows users to scroll through all of Europe’s 3,318 remaining synagogues. (Screenshot from Foundation for Jewish Heritage via JTA)" title="The Foundation for Jewish Heritage has published a map that allows users to scroll through all of Europe’s 3,318 remaining synagogues. (Screenshot from Foundation for Jewish Heritage via JTA)" /></a>
+						</div>
+						<span class="label">GIStalt</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/group-publishes-map-showing-europes-remaining-synagogues/">Interactive map shows all Europe’s remaining synagogues</a>
+						</div>
+													<div class="byline">
+								By <a title="Cnaan Liphshiz" href="https://www.timesofisrael.com/writers/cnaan-liphshiz/">Cnaan Liphshiz</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/belgian-theater-sorry-for-you-fought-for-is-audition-ad/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2016/08/Islamic-State-Preying_Horo-2-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="Fighters from the Islamic State group marching in Raqqa, Syria, January 14, 2014. (Militant photo via AP, File)" title="Fighters from the Islamic State group marching in Raqqa, Syria, January 14, 2014. (Militant photo via AP, File)" /></a>
+						</div>
+						<span class="label">Foul Play</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/belgian-theater-sorry-for-you-fought-for-is-audition-ad/">Belgian theater sorry for &#8216;you fought for IS?&#8217; audition ad</a>
+						</div>
+													<div class="byline">
+								By <a title="Matthieu Demeestere" href="https://www.timesofisrael.com/writers/matthieu-demeestere/">Matthieu Demeestere</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/tumult-engulfing-his-white-house-trump-jokes-whos-next/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2018/03/063_932567550-e1521189873508-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="US President Donald Trump on March 15, 2018 in Washington, DC. (Win McNamee/Getty Images/AFP)" title="US President Donald Trump on March 15, 2018 in Washington, DC. (Win McNamee/Getty Images/AFP)" /></a>
+						</div>
+						<span class="label">'You're fired!'</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/tumult-engulfing-his-white-house-trump-jokes-whos-next/">Tumult engulfing his White House, Trump jokes &#8216;who&#8217;s next?&#8217;</a>
+						</div>
+													<div class="byline">
+								By <a title="Zeke Miller" href="https://www.timesofisrael.com/writers/zeke-miller/">Zeke Miller</a>, <a title="Jonathan Lemire" href="https://www.timesofisrael.com/writers/jonathan-lemire/">Jonathan Lemire</a> and <a title="Catherine Lucey" href="https://www.timesofisrael.com/writers/catherine-lucey/">Catherine Lucey</a>							</div>
+											</li>
+										<li class="item bgcolor bgcolor2">
+						<div class="media">
+							<a href="https://www.timesofisrael.com/trump-wrongly-insists-us-has-trade-deficit-with-canada/"><img width="400" height="250" src="https://static.timesofisrael.com/www/uploads/2017/10/000_TB164-e1507752864426-400x250.jpg" class="attachment-medium size-medium wp-post-image" alt="US President Donald Trump (R) speaks to the press during a meeting with Canadian Prime Minister Justin Trudeau at the White House on October 11, 2017. (AFP Photo/Jim Watson)" title="US President Donald Trump (R) speaks to the press during a meeting with Canadian Prime Minister Justin Trudeau at the White House on October 11, 2017. (AFP Photo/Jim Watson)" /></a>
+						</div>
+						<span class="label">Fake facts</span>						<div class="headline">
+							<a href="https://www.timesofisrael.com/trump-wrongly-insists-us-has-trade-deficit-with-canada/">Trump wrongly insists US has trade deficit with Canada</a>
+						</div>
+													<div class="byline">
+								By <a title="AP" href="https://www.timesofisrael.com/writers/ap/">AP</a>							</div>
+											</li>
+								</ul>
+		</div>
+		<div class="arrows next"><a href="#" title="Next"></a></div>		
+	</div>
+			<div class="banner b970x90">
+		<div class="OUTBRAIN" data-src="https://www.timesofisrael.com" data-widget-id="HPC" data-ob-template="Times Of Israel"></div>
+	</div>				</section>
+					
+		</div><!-- end main headlines -->
+
+	</div>
+	<div class="sidebar-footer">
+		<span>Scroll to view more</span>
+	</div>		
+</aside>
+
+					</div><!-- end main -->
+
+				<script type='text/javascript' src='//static.timesofisrael.com/js/responsiveslides.min.js?ver=1.55'></script>
+<script type='text/javascript' src='//static.timesofisrael.com/js/jquery.fitvids.js?ver=1502265084'></script>
+<script type='text/javascript' src='//static.timesofisrael.com/js/global_functions.js?ver=1521704371'></script>
+<script type='text/javascript' src='//static.timesofisrael.com/js/wpFeatherlight.pkgd.js?ver=1507487605'></script>
+<script type='text/javascript' src='//static.timesofisrael.com/www/js/functions.js?ver=1512906913'></script>
+	
+					<script src='https://www.google.com/recaptcha/api.js'></script>
+				
+		<!-- facebook -->
+		<div id="fb-root"></div>
+		<script>
+		window.fbAsyncInit = function() {
+		    FB.init({
+		    	appId      : '123142304440875',
+		      	xfbml      : true,
+		      	version    : 'v2.8'
+		    });
+	    	FB.AppEvents.logPageView();
+
+			
+				FB.Event.subscribe('comment.create', function (response) {
+					jQuery.ajax({
+						type: "POST",
+						url: "/wp-content/themes/rgb/functions/facebook.php",
+						data: { p: "1815712", c: response.commentID, a: "add" }
+					});
+				});
+				FB.Event.subscribe('comment.remove', function (response) {
+					jQuery.ajax({
+						type: "POST",
+						url: "/wp-content/themes/rgb/functions/facebook.php",
+						data: { p: "1815712", c: response.commentID, a: "rem" }
+					});
+				});
+
+						
+		};
+		(function(d, s, id){
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) {return;}
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+		</script>
+		<!-- Twitter -->
+		<script>
+		window.twttr = (function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0],
+		    t = window.twttr || {};
+		  if (d.getElementById(id)) return t;
+		  js = d.createElement(s);
+		  js.id = id;
+		  js.src = "https://platform.twitter.com/widgets.js";
+		  fjs.parentNode.insertBefore(js, fjs);
+		
+		  t._e = [];
+		  t.ready = function(f) {
+		    t._e.push(f);
+		  };
+		
+		  return t;
+		}(document, "script", "twitter-wjs"));
+		</script>		
+		
+				<!--BEGIN FIRSTIMPRESSION TAG -->
+		<script data-cfasync='false' type='text/javascript'>
+			window.apd_options = { 'websiteId': 5459, 'runFromFrame': false };
+			(function() {
+				var w = window.apd_options.runFromFrame ? window.top : window;
+				if(window.apd_options.runFromFrame && w!=window.parent) w=window.parent;
+				if (w.location.hash.indexOf('apdAdmin') != -1){if(typeof(Storage) !== 'undefined') {w.localStorage.apdAdmin = 1;}}
+				var adminMode = ((typeof(Storage) == 'undefined') || (w.localStorage.apdAdmin == 1));
+				w.apd_options=window.apd_options;
+				var apd = w.document.createElement('script'); apd.type = 'text/javascript'; apd.async = true;
+				apd.src = '//' + (adminMode ? 'cdn' : 'ecdn') + '.firstimpression.io/' + (adminMode ? 'fi.js?id=' + window.apd_options.websiteId : 'fi_client.js') ;
+				var s = w.document.getElementsByTagName('head')[0]; s.appendChild(apd);
+			})();
+		</script>
+		<!-- END FIRSTIMPRESSION TAG -->
+		
+		<!-- interstitial ad -->
+				<script src='https://www.googletagservices.com/tag/js/gpt.js'>
+  		googletag.pubads().definePassback('/264857099/TOI_EN/Special/Desktop_Interstitial', [1, 1]).setTargeting('TOI_articleID', [1815712]).display();
+		</script>
+				<!-- /end interstitial ad -->
+
+	</body>
+</html>

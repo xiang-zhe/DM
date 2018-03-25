@@ -1,0 +1,643 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="title" content="Sea level fears as more of giant Antarctic glacier floating than thought" /><link rel="image_src" href="http://www.digitaljournal.com/img/1/0/4/8/0/9/3/i/3/7/5/p-large/20ffa8b2e9cea394fa6e134c9dd1da2f3dc78e98.jpg" /><meta property="og:type" content="article" /><meta property="og:description" content="More of a giant France-sized glacier in Antarctica is floating on the ocean than previously thought, scientists said Tuesday, raising fears it could melt faster as the climate warms and have a dramatic impact on rising sea-levels." /><meta property="og:title" content="Sea level fears as more of giant Antarctic glacier floating than thought" /><meta property="og:image" content="http://www.digitaljournal.com/img/1/0/4/8/0/9/3/i/3/7/5/p-large/20ffa8b2e9cea394fa6e134c9dd1da2f3dc78e98.jpg" /><meta property="og:url" content="http://www.digitaljournal.com/news/world/sea-level-fears-as-more-of-giant-antarctic-glacier-floating-than-thought/article/517832" /><meta property="article:published_time" content="2018-03-20T01:10:09-04:00" /><meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@digitaljournal">
+<meta name="twitter:title" content="Sea level fears as more of giant Antarctic glacier floating than thought">
+<meta name="twitter:description" content="More of a giant France-sized glacier in Antarctica is floating on the ocean than previously thought, scientists said Tuesday, raising fears it could melt faster as the climate warms and have a dramatic impact on rising sea-levels.">
+<meta name="twitter:image:src" content="http://www.digitaljournal.com/img/1/0/4/8/0/9/3/i/3/7/5/p-large/20ffa8b2e9cea394fa6e134c9dd1da2f3dc78e98.jpg">
+<meta property="fb:app_id" content="321580635153" />
+<meta name="keywords" content="Antarctica, Australia, Glacier, Environment, Climate" />
+<meta name="description" content="More of a giant France-sized glacier in Antarctica is floating on the ocean than previously thought, scientists said Tuesday, raising fears it could melt faster as the climate warms and have a dramatic impact on rising sea-levels." />
+<style type='text/css'>
+  @import url(/yui-6.css);
+  @import url(/commonmin-163.css);
+  @import url(/css/bricks-100.css);
+</style>
+<!--[if IE 7]>
+<link rel="stylesheet" href="/css/fontawesome/css/font-awesome-ie7.min.css">
+<![endif]-->
+<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<link href='https://fonts.googleapis.com/css?family=PT+Sans:700,400|PT+Serif:700,400' rel='stylesheet' type='text/css'>
+<script type="text/javascript" src="/yui-10.js">
+</script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script>
+  if (!window.jQuery) { document.write('<script src="/js/jquery-1.11.1.min.js"><\/script>'); }
+</script>
+<script type="text/javascript" src="/djmin-214.js">
+</script>
+  <script src="http://f1.na.readspeaker.com/script/4357/ReadSpeaker.js?pids=embhl" type="text/javascript"></script>
+<link href="https://plus.google.com/+digitaljournal" rel="publisher" />
+<link rel="canonical" href="http://www.digitaljournal.com/news/world/sea-level-fears-as-more-of-giant-antarctic-glacier-floating-than-thought/article/517832" /><script type="text/javascript">
+  var pubid="ca-pub-1077026815079259";
+  djp.user.set_vis_cookies();
+  djp.ga_addserv(pubid);
+  djp.ga_enable();
+</script>
+
+<script type='text/javascript'>
+var ga_load = Array(0)
+var ga_targeting = Array(5)
+ga_targeting["page-type"] = "article"
+ga_targeting["article-id"] = "517832"
+ga_targeting["page-obj-id"] = "517832"
+ga_targeting["department"] = "Environment"
+ga_targeting["art-status"] = "active"
+</script>
+<script type="text/javascript">
+  djp.domain = 'digitaljournal.com';
+  djp.ga_addattr('dju',djp.user.is_loggedin()?1:0);
+  if (djp.user.is_loggedin() && typeof(upg)!='undefined') {
+    djp.ga_addattr('djut',upg);
+    djp.ga_addattr('djg','');
+  }
+  if (typeof(ga_targeting)!='undefined' && ga_targeting  && ga_targeting.length)
+  for(var k in ga_targeting)
+    djp.ga_addattr(k,ga_targeting[k]);
+    if (typeof(ga_load)!='undefined' && ga_load) {
+    for(var i=0;i<ga_load.length;i++)
+      djp.ga_addslot(pubid, ga_load[i]);
+  }
+  djp.ga_addslot(pubid, "728x90-Leaderboard-ATF");
+  djp.ga_addslot(pubid, "300x250-Big-Box-ATF");
+  djp.ga_addslot(pubid, "300x250-Big-Box-2-ATF");
+  djp.ga_addslot(pubid, "Interstitial");
+  djp.ga_fetch();
+    djp.fb_permissions = 'email,user_birthday,user_interests,user_education_history,user_location,user_religion_politics,user_hometown,user_work_history';
+</script>
+
+<title>Sea level fears as more of giant Antarctic glacier floating than thought</title>
+<script type="text/javascript">
+  if(document.location.protocol=='http:'){
+    var Tynt=Tynt||[];Tynt.push('dF1byYV0Kr3713adbi-bnq');
+    (function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
+  }
+</script>
+</head>
+<body id="djbody" class="yui-skin-sam" marginheight=0 marginwidth=0>
+<div id="loadextras">
+<iframe id="djajaxfrm" src="/images/djlogo_onblack.gif"></iframe>
+<input id="djajaxfld" type="hidden">
+</div>
+<div id="loadextrasinv">
+</div>
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "12434953" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=12434953&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<script>
+  var utype = djp.user.cfg.type_str;
+  if (utype == 'Anonymous' && djp.user.num_visits>1)
+    utype = 'Repeat Anonymous';
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-521285-1', 'digitaljournal.com');
+  ga('require', 'displayfeatures');
+  ga('set', 'dimension1', utype);
+    ga('set', 'dimension2', 'article');
+      ga('set', 'dimension3', 'environment');
+            ga('set', 'dimension6', 'yes');
+    ga('set', 'dimension7', 1048093);
+      ga('set', 'dimension4', 'AFP');
+          ga('send', 'pageview');
+</script>
+
+
+<div id="fb-root"></div>
+<script type="text/javascript">
+  (function(){
+    window.fbAsyncInit = function() {
+      djp.console('after FB source loaded, '+ typeof(FB));
+      djp.init_fb();
+          };
+
+    // Load the SDK Asynchronously
+    (function(d){
+     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     ref.parentNode.insertBefore(js, ref);
+   })(document);
+})();
+</script>
+
+
+<div class=invis><div>
+<form id="dj-login-form" name="user_login_form" action="/edit/user-login" method="post" onsubmit="return false">
+<table bgcolor=white cellpadding=0 cellspacing=0 border=0 width="100%"><tr><td><table align="center" bgcolor=white cellpadding=10 cellspacing=3 border=0><tr><td class="tar" style="padding-right:0">Email</td><td colspan=2><input tabindex=1 type="text" size=35 name="user[email]" value="" /></td></tr>
+<tr><td style="padding-right:0">Password</td><td><input tabindex=2 type="password" size=16 name="user[pass_raw]" value="" /></td><td><input tabindex=4 type="submit" value="Login" class="fancy-button green" /></td></tr>
+<tr><td class=tar style="padding-right:0"><input tabindex=3 type="checkbox" name="rememberme" value="1" checked /></td><td>Remember me</td><td class="tar"><a tabindex=5 href="/user/password_reminder.php" target="_top">Forgot&nbsp;password?</a></td></tr></table></td></tr></table>
+<input type=hidden name=frameless value="1" /><input type=hidden name="output_mode" value="xml" /><input type=hidden name=login_ia value="1" /><input type=hidden name="user[fb_uid]" value="" /><div></div></form>
+
+<div style="margin-top:15px;padding-top:10px;border-top:1px solid #cccccc;background: #fff;" class="tar hide_fb invis">
+  <a href="" onmouseover="djp.user.tt(this,event,{ t:'help', id:'connect_with_fb'});" onclick="return false;" class="help-embed"><i class="icon icon-question-sign"></i></a>
+ &nbsp; &nbsp;
+  <button href="" onclick="djp.user.login_with_fb(null, true, true);return false;" class="fancy-button"><i class="icon-facebook-sign"></i> Log in with Facebook</button>
+  <a href="/connect/with/twitter" class="fancy-button"><i class="icon-twitter"></i> Log in with Twitter</a>
+</div>
+
+</div></div>
+
+
+<div>
+	  <div><div><div id="header">
+		<div id="logobar">
+			<div class="flleft" style="overflow:hidden">
+        <a href="/" class="dj-logo"><img src="/images/dj-logo-2x.png" border="0" height="24"></a>
+			</div>
+      <div style="width:90px;overflow:hidden;height:20px;margin-top:7px;" class="flleft"><fb:like href="http://www.facebook.com/digitaljournal" layout="button_count" width="90"></fb:like></div>
+
+			<div style="margin:14px 10px 0 0;" class="flright">
+                  <a href="" onclick="try{ djp.user.show_login_form();} catch(err){ }return false;">Log In</a>
+                			</div>
+			<div style="clear:both"></div>
+		</div>
+
+        <div id="headernav">
+      <div style="" class="headernav-inner">
+        <div id="headernavcats" class="clearfix">
+          <ul>
+                        <li><a href="/news" class="with-subs" data-type="metadepartment" data-name="news" data-department="">news</a></li>
+                                      <li><a href="/tech-and-science" class="with-subs" data-type="metadepartment" data-name="tech & science" data-department="">tech & science</a></li>
+                                      <li><a href="/social+media" class="" data-type="metadepartment" data-name="social media" data-department="49">social media</a></li>
+                                      <li><a href="/business" class="" data-type="metadepartment" data-name="business" data-department="19">business</a></li>
+                                      <li><a href="/entertainment" class="with-subs" data-type="metadepartment" data-name="entertainment" data-department="">entertainment</a></li>
+                                      <li><a href="/life" class="with-subs" data-type="metadepartment" data-name="life" data-department="">life</a></li>
+                                      <li><a href="/sports" class="" data-type="metadepartment" data-name="sports" data-department="37">sports</a></li>
+                                    </ul>
+        </div>
+        <div class="flright">
+          <form style="margin:0" onsubmit="var q = this.q.value, m = q.replace(/^(user|group|image|blog|comment|article|press):.*$/,'$1');if(m && this.q.value!=m)this.mode.value=m;return (q?true:false)" action="/search/" method="get">
+            <div class="flright">
+              <button class="search fancy-button no-shadow">
+                <i class="icon-search"></i>
+              </button>
+            </div>
+            <div class="flright">
+              <input type="text" size="30" style="width:90px;" title="Search Digital Journal" name="q" value="" class="search-field" placeholder="SEARCH..." />
+            </div>
+            <input type=hidden name=mode value="" />
+          </form>
+        </div>
+
+        <div class="social-bar">
+          <div class="follow-dj">
+            <a href="http://djour.nl/GOJ0WK" target="_blank" class="icon-facebook-sign" onclick="ga('send', 'event', 'visitor', 'social', 'facebook');return true;"></a>
+            &nbsp;
+            <a href="http://djour.nl/slInX9O" target="_blank" class="icon-twitter" onclick="ga('send', 'event', 'visitor', 'social', 'twitter');return true;"></a>
+            &nbsp;
+            <a href="http://djour.nl/8HZ6HL" target="_blank" class="icon-google-plus" onclick="ga('send', 'event', 'visitor', 'social', 'g+');return true;"></a>
+          </div>
+        </div>
+
+        <div class="clearfix"></div>
+      </div>
+    </div>
+      </div></div></div>
+</div>
+
+    <div style="background: #333; width: 1000px; margin: 20px auto;">
+    <div style="margin:10px auto; width: 728px;" class="clearfix">
+      <script type='text/javascript'>
+        djp.ga_fill('728x90-Leaderboard-ATF');
+      </script>
+    </div>
+  </div>
+  
+<table class=djcont bgcolor=white align=center cellpadding=0 cellspacing=0 border=0>
+	<tr><td><div class=block><div class=blockin><div class=blockcnt style="border-top-width:0;">
+
+
+<table cellpadding=0 cellspacing=0 border=0 width="100%">
+<tr valign="top">
+	<td width="100%" id="djframe">
+
+
+
+  
+<div class="">
+
+<div id="ap">
+<div id="article_text">
+<div style="">
+
+
+
+
+<h1 class="in-article rs-content"><span class="rs_skip"><img src="/img/1/0/4/8/0/9/3/i/3/7/5/o/20ffa8b2e9cea394fa6e134c9dd1da2f3dc78e98.jpg" title="" alt="article image" border=0 class="invis" /></span>Sea level fears as more of giant Antarctic glacier floating than thought</h1>
+
+  
+
+
+
+<div class="rs-content abstract">
+  
+  <div class="author clearfix">
+
+    <div class="article-top-social rs_skip">
+      <div class="tools">
+                                        <a accesskey="L" href="http://app.readspeaker.com/cgi-bin/rsent?customerid=4357&lang=en_us&voice=heather22k&readclass=rs-content&url=http%3A%2F%2Fwww.digitaljournal.com%2Fnews%2Fworld%2Fsea-level-fears-as-more-of-giant-antarctic-glacier-floating-than-thought%2Farticle%2F517832" onclick="readpage(this.href, 'xp1'); return false;">Listen</a>
+            |
+            <a href="/print/article/517832" target="_blank">Print</a>
+              </div>
+    </div>
+
+
+        By AFP              &nbsp;
+      &nbsp;
+      22 hours ago            in <a href="/environment" class="department">Environment</a>
+    
+  </div>
+</div>
+
+
+
+
+<div id="xp1" class="rs_preserve rs_skip abstract" style="width: 660px !important"></div>
+
+
+      <div class="img" id="artis-361503"><div style="height:200px;"></div></div>
+  
+
+<div class="rs-content article-column">
+
+  <div class="rs_skip">
+      </div>
+
+  <div class="body"><p>More of a giant France-sized glacier in Antarctica is floating on the ocean than previously thought, scientists said Tuesday, raising fears it could melt faster as the climate warms and have a dramatic impact on rising sea-levels.</p><p>The Totten Glacier is one of the fastest-flowing and largest glaciers in Antarctica with scientists keen to keep a close eye on how it melts given the enormous amount of water it could potentially unleash.</p><p>Using artificially created seismic waves that help scientists see through the ice, researchers have discovered that more of the Totten Glacier floats on the ocean than initially thought.</p><p>"In some locations we thought were grounded, we detected the ocean below indicating that the glacier is in fact floating," said Paul Winberry from Central Washington University, who spent the summer in Antarctica studying the Totten.</p><p>The findings are important because recent studies have shown the Totten Glacier's underbelly is already being eroded by warm, salty sea water flowing hundreds of kilometres inland after passing through underwater "gateways".</p><p>As it does, the portion of the glacier resting on water rather than rock increases, accelerating the pace of disintegration.</p><p>Winberry said more of the glacier floating on a warming ocean could help explain recent periods of accelerated melting.</p><p>"It also means the Totten might be more sensitive to climate variations in the future," he added.</p><p>Glaciers are huge bodies of dense ice that slowly move down valleys, mountains and slopes under their own weight over many centuries, sculpting the earth below as they go.</p><p>They hold the vast majority of Earth's fresh water and are the main contributor to rising sea levels when they melt.</p><p>According to NASA monitoring, between 2002 and 2016, Antarctica lost 125 gigatonnes of ice per year, causing sea levels worldwide to rise by 0.35 millimetres annually.</p><p>From the air, the contours of Totten Glacier are invisible because the entire Antarctic continent is covered by a seamless, kilometres-thick blanket of snow and ice.</p><p>That is why scientists are so determined to understand what is happening underneath the glacier, hidden from view. </p><p>Team leader Ben Galton-Fenzi, from the Australian Antarctic Division, said the Totten Glacier contains enough ice to raise global sea levels by about three metres (9.8 feet) if it all melted.</p><p>"Since the 1900s the global sea-level has risen by around 20 centimetres and by the end of the century it's projected to rise by up to one metre or more, but this is subject to high uncertainty which is why studying glaciers such as the Totten is important," he said.</p><p>"These precise measurements of Totten Glacier are vital to monitoring changes and understanding them in the context of natural variations, and the research is an important step in assessing the potential impact on sea-level under various future scenarios."</p><p>Instruments to measure the glacial flow, speed and thickness have been left on the glacier for another 12 months collecting data.  </p>
+<div style="padding-bottom:15px;"></div></div>
+
+</div>
+</div>
+<!-- end of article_text-->
+</div>
+
+<table width="100%" style="padding:20px 0 5px 0;">
+<tr>
+	<td colspan=2>
+		<span class="nowrap serif">More about</span>
+		<a class="tag" href="/topic/Antarctica" onmouseover="djp.user.tt(this,event,{ id:'2068', t:'topic'});">Antarctica</a>, <a class="tag" href="/topic/Australia" onmouseover="djp.user.tt(this,event,{ id:'958', t:'topic'});">Australia</a>, <a class="tag" href="/topic/Glacier" onmouseover="djp.user.tt(this,event,{ id:'3369', t:'topic'});">Glacier</a>, <a class="tag" href="/topic/Environment" onmouseover="djp.user.tt(this,event,{ id:'1096', t:'topic'});">Environment</a>, <a class="tag" href="/topic/Climate" onmouseover="djp.user.tt(this,event,{ id:'1322', t:'topic'});">Climate</a>	</td>
+</tr>
+<tr>
+<td width="33%">
+<span class="nowrap serif">More news from</span>
+<span class="nimp">		<span>
+								<a href="/news/AU" title="Australia"><img src="/images/flags/au.gif" hspace="2" border=0 /></a>
+						</span>
+</span>
+</td>
+<td class=tar width="33%" style="padding:0 10px;">
+	<form action="/alerts/" method="get">
+	<div class=nowrap><select name="preset_q">	<option value="Antarctica">Antarctica</option>
+		<option value="Australia">Australia</option>
+		<option value="Glacier">Glacier</option>
+		<option value="Environment">Environment</option>
+		<option value="Climate">Climate</option>
+	</select> <input type="submit" class="fancy-button small" value="Create Alert" /></div>
+	</form>
+
+</td>
+</tr>
+</table>
+
+	<div id="yvlblock"></div><script type="text/javascript" src="//ziccardia.com/adBlockDetector/014" async defer></script>
+
+
+<div class="obj-tabs">
+<div id="atabs" class="yui-navset" style="padding-top:30px;"> 
+	<ul class="yui-nav"> 
+  			</ul>             
+  <div class="yui-content">
+			</div>
+</div>
+</div>
+
+<script type='text/javascript'>
+djp.tabs();
+</script>
+
+</div>
+
+
+
+
+<script type='text/javascript'>
+var artact = "1";
+var actimgsize = Array(2)
+actimgsize["0"] = 300
+actimgsize["1"] = 225
+var artid = "517832";
+var albid = "361503";
+</script>
+<script type="text/javascript">
+//djp.htmlFormedEvent.subscribe(function(){ djp.fireInit( function(){ djp.add_l(new DJLayout('ap',{ page:djp,cols:['ac1']})); }); });
+var tgt = gebi('artis-'+(albid?albid:0));
+if (parseInt(artact)) djp.incrviews('article',artid);
+if (tgt) {
+	tgt.album = new DJAlbum(null, {tgt_el:tgt,show:{add_img:1},allow_narrow:1,ui_o:{ hide:{ botrow:0,cbs:0,allowc:0},show:{ cl:1},nozoom:0,pw:[660,350],tgt_el:tgt, ncol:1}});
+	tgt.album.tid = 2;
+	if (parseInt(artid)>0) {
+		tgt.album.cfg.aid = artid;
+		tgt.album.cfg.add_img_f = djp.add_img;
+	}
+	if (parseInt(albid)>0) {
+		tgt.album.id = albid;
+		var alb=tgt.album;
+		//djp.htmlFormedEvent.subscribe(function(){ alb.compupdate(); });
+		alb.compupdate();
+	}
+	else
+		tgt.appendChild(tgt.album.to_html({l:'slider'}));
+}
+</script>
+<script type="text/javascript">
+djp.htmlFormedEvent.subscribe(function(){
+	if (typeof(FB)!='undefined') {
+		FB.Event.subscribe('edge.create',function(obj){
+			var el=gebi('vtart');
+			djp.user.vote({ v:1,id:artid,t:'article',vtel:el,voteopt:el.voteBtnOpt});
+		});
+	}
+});
+$(function() { $('.right-rail-news-item[data-article-id=517832]').hide(); })
+</script>
+
+</td>
+<td width=300 rowspan=2 id="rightcol">
+    <div class="contents">
+
+
+<div style="margin-bottom:20px">
+  <script type="text/javascript">
+    djp.ga_fill("300x250-Big-Box-ATF");
+  </script>
+</div>
+
+
+
+
+
+
+
+
+<div class="headerbar clearfix" style="margin-bottom:1px">
+  <a class="right" href="/w/newsindex?ni=latest">Latest News</a>
+  <div class="title" style="min-width: 70px">Top News</div>
+</div>
+<div class="right-rail-news">
+<div class="right-rail-news-item clearfix" data-article-id="517909">
+<div class="img" id="topnews-right-361581" onclick="ga('send', 'event', 'right rail', '517909:random', 'We Are Family Foundation GALA to honor L');"><a href="http://www.digitaljournal.com/entertainment/music/we-are-family-foundation-gala-to-honor-ll-cool-j-roger-daltrey/article/517909"></a></div>
+  <div class="text">
+    <div class="title">
+            <a id="la-517909" data-type="article-link" href="/entertainment/music/we-are-family-foundation-gala-to-honor-ll-cool-j-roger-daltrey/article/517909" onclick="ga('send', 'event', 'right rail', '517909:random', 'We Are Family Foundation GALA to honor L');">We Are Family Foundation GALA to honor LL Cool J, Roger Daltrey</a>
+    </div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/entertainment/music/we-are-family-foundation-gala-to-honor-ll-cool-j-roger-daltrey/article/517909"></fb:like></div>
+  </div>
+</div>
+<div class="right-rail-news-item clearfix" data-article-id="517881">
+<div class="img" id="topnews-right-361566" onclick="ga('send', 'event', 'right rail', '517881:random', 'In Canada, cannabis has huge impact on c');"><a href="http://www.digitaljournal.com/business/in-canada-marijuana-has-huge-impact-on-commercial-real-estate/article/517881"></a></div>
+  <div class="text">
+    <div class="title">
+            <a id="la-517881" data-type="article-link" href="/business/in-canada-marijuana-has-huge-impact-on-commercial-real-estate/article/517881" onclick="ga('send', 'event', 'right rail', '517881:random', 'In Canada, cannabis has huge impact on c');">In Canada, cannabis has huge impact on commercial real estate</a>
+    </div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/business/in-canada-marijuana-has-huge-impact-on-commercial-real-estate/article/517881"></fb:like></div>
+  </div>
+</div>
+<div style="width:300px;margin: 20px 0">
+  <script type="text/javascript">
+    djp.ga_fill("300x250-Big-Box-2-ATF");
+  </script>
+</div>
+<div class="right-rail-news-item clearfix" data-article-id="517911">
+<div class="img" id="topnews-right-361582" onclick="ga('send', 'event', 'right rail', '517911:random', 'Prince Harry, Markle choose lemon elderf');"><a href="http://www.digitaljournal.com/news/world/prince-harry-markle-choose-lemon-elderflower-cake-for-wedding/article/517911"></a></div>
+  <div class="text">
+    <div class="title">
+            <a id="la-517911" data-type="article-link" href="/news/world/prince-harry-markle-choose-lemon-elderflower-cake-for-wedding/article/517911" onclick="ga('send', 'event', 'right rail', '517911:random', 'Prince Harry, Markle choose lemon elderf');">Prince Harry, Markle choose lemon elderflower cake for wedding</a>
+    </div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/news/world/prince-harry-markle-choose-lemon-elderflower-cake-for-wedding/article/517911"></fb:like></div>
+  </div>
+</div>
+<div class="right-rail-news-item clearfix" data-article-id="517877">
+<div class="img" id="topnews-right-361546" onclick="ga('send', 'event', 'right rail', '517877:random', 'EUs Juncker under fire for nauseating');"><a href="http://www.digitaljournal.com/news/world/eu-s-juncker-under-fire-for-nauseating-putin-letter/article/517877"></a></div>
+  <div class="text">
+    <div class="title">
+            <a id="la-517877" data-type="article-link" href="/news/world/eu-s-juncker-under-fire-for-nauseating-putin-letter/article/517877" onclick="ga('send', 'event', 'right rail', '517877:random', 'EUs Juncker under fire for nauseating');">EU's Juncker under fire for 'nauseating' Putin letter</a>
+    </div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/news/world/eu-s-juncker-under-fire-for-nauseating-putin-letter/article/517877"></fb:like></div>
+  </div>
+</div>
+<div class="right-rail-news-item clearfix" data-article-id="517906">
+<div class="img" id="topnews-right-361577" onclick="ga('send', 'event', 'right rail', '517906:random', 'Grief and stitches at Damascus hospital ');"><a href="http://www.digitaljournal.com/news/world/grief-and-stitches-at-damascus-hospital-after-rocket-attack/article/517906"></a></div>
+  <div class="text">
+    <div class="title">
+            <a id="la-517906" data-type="article-link" href="/news/world/grief-and-stitches-at-damascus-hospital-after-rocket-attack/article/517906" onclick="ga('send', 'event', 'right rail', '517906:random', 'Grief and stitches at Damascus hospital ');">Grief and stitches at Damascus hospital after rocket attack</a>
+    </div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/news/world/grief-and-stitches-at-damascus-hospital-after-rocket-attack/article/517906"></fb:like></div>
+  </div>
+</div>
+<div style="margin: 20px 0; width:300px;">
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <!-- Right Rail - Below the fold -->
+  <ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-1077026815079259" data-ad-slot="6933387029"></ins>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>
+<div class="right-rail-news-item clearfix" data-article-id="517920">
+<div class="img" id="topnews-right-361592" onclick="ga('send', 'event', 'right rail', '517920:random', 'Prince Charles rejects chance to address');"><a href="http://www.digitaljournal.com/news/world/prince-charles-rejects-chance-to-address-australian-republicans/article/517920"></a></div>
+  <div class="text">
+    <div class="title">
+            <a id="la-517920" data-type="article-link" href="/news/world/prince-charles-rejects-chance-to-address-australian-republicans/article/517920" onclick="ga('send', 'event', 'right rail', '517920:random', 'Prince Charles rejects chance to address');">Prince Charles rejects chance to address Australian republicans</a>
+    </div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/news/world/prince-charles-rejects-chance-to-address-australian-republicans/article/517920"></fb:like></div>
+  </div>
+</div>
+<div class="right-rail-news-item clearfix" data-article-id="517868">
+<div class="img" id="topnews-right-361539" onclick="ga('send', 'event', 'right rail', '517868:random', 'Google expands YouTube Director Onsite t');"><a href="http://www.digitaljournal.com/tech-and-science/technology/google-expands-youtube-director-onsite-to-170-usa-cities/article/517868"></a></div>
+  <div class="text">
+    <div class="title">
+            <a id="la-517868" data-type="article-link" href="/tech-and-science/technology/google-expands-youtube-director-onsite-to-170-usa-cities/article/517868" onclick="ga('send', 'event', 'right rail', '517868:random', 'Google expands YouTube Director Onsite t');">Google expands YouTube Director Onsite to 170 U.S. cities</a>
+    </div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/tech-and-science/technology/google-expands-youtube-director-onsite-to-170-usa-cities/article/517868"></fb:like></div>
+  </div>
+</div>
+<div class="right-rail-news-item clearfix" data-article-id="517905">
+<div class="img" id="topnews-right-361578" onclick="ga('send', 'event', 'right rail', '517905:random', 'Data-driven global insurance tech trends');"><a href="http://www.digitaljournal.com/business/data-driven-global-insurance-tech-trends/article/517905"></a></div>
+  <div class="text">
+    <div class="title">
+            <a id="la-517905" data-type="article-link" href="/business/data-driven-global-insurance-tech-trends/article/517905" onclick="ga('send', 'event', 'right rail', '517905:random', 'Data-driven global insurance tech trends');">Data-driven global insurance tech trends</a>
+    </div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/business/data-driven-global-insurance-tech-trends/article/517905"></fb:like></div>
+  </div>
+</div>
+<div class="right-rail-news-item clearfix" data-article-id="517872">
+<div class="img" id="topnews-right-361567" onclick="ga('send', 'event', 'right rail', '517872:random', 'Bitcoin price appears in recovery mode w');"><a href="http://www.digitaljournal.com/tech-and-science/technology/bitcoin-price-appears-in-recovery-mode-well-over-8-000/article/517872"></a></div>
+  <div class="text">
+    <div class="title">
+            <a id="la-517872" data-type="article-link" href="/tech-and-science/technology/bitcoin-price-appears-in-recovery-mode-well-over-8-000/article/517872" onclick="ga('send', 'event', 'right rail', '517872:random', 'Bitcoin price appears in recovery mode w');">Bitcoin price appears in recovery mode well over $8,000</a>
+    </div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/tech-and-science/technology/bitcoin-price-appears-in-recovery-mode-well-over-8-000/article/517872"></fb:like></div>
+  </div>
+</div>
+<div class="right-rail-news-item clearfix" data-article-id="517910">
+<div class="img" id="topnews-right-361583" onclick="ga('send', 'event', 'right rail', '517910:random', 'Interview: Nicky Hilton opens up about h');"><a href="http://www.digitaljournal.com/life/lifestyle/interview-nicky-hilton-opens-up-about-her-tolani-fashion-line/article/517910"></a></div>
+  <div class="text">
+    <div class="title">
+            <a id="la-517910" data-type="article-link" href="/life/lifestyle/interview-nicky-hilton-opens-up-about-her-tolani-fashion-line/article/517910" onclick="ga('send', 'event', 'right rail', '517910:random', 'Interview: Nicky Hilton opens up about h');">Interview: Nicky Hilton opens up about her Tolani fashion line&nbsp;<span class="xtraeff" title="Includes interview">Special</span></a>
+    </div>
+    <div class="fb"><fb:like share="true" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/life/lifestyle/interview-nicky-hilton-opens-up-about-her-tolani-fashion-line/article/517910"></fb:like></div>
+  </div>
+</div>
+</div>
+<script type="text/javascript">
+<!--
+djp.sched_load_alb_imgs('topnews-right-361581 topnews-right-361566 topnews-right-361582 topnews-right-361546 topnews-right-361577 topnews-right-361592 topnews-right-361539 topnews-right-361578 topnews-right-361567 topnews-right-361583');
+//-->
+</script>
+
+
+
+
+<div style="padding:10px 0;">
+	<fb:like-box href="http://www.facebook.com/digitaljournal" width="300" show_faces="true" border_color="white" stream="false" header="false"></fb:like-box>
+</div>
+
+
+  </div>
+</td>
+</table>
+</div></div></div>
+</td></tr></table>
+
+<div class="footer-outer">
+<table class="djfooter blockcnt invrs" align=center cellpadding=0 cellspacing=0 border=0>
+<tr>
+	<td>
+
+<div style="padding-top:10px;">
+  <table width="100%" cellpadding=0 cellspacing=0 border=0><tr valign=top>
+      <td style="line-height: 160%; font-size: 12px; border-right:1px solid #cccccc;padding:0 20px;">
+        <h4 style="padding-top:0;margin-top:0;text-transform:uppercase">Corporate</h4>
+        <div>
+          <a href="/contact_us.php">Contact Us</a>
+          </div><div>
+          <a href="/corporate/about_us.php">About Us</a>
+          </div><div>
+          <a href="/advertise.php">Advertise</a>
+          </div><div>
+          <a href="/corporate/investor_relations.php">Investors & Partners</a>
+        </div>
+      </td>
+      <td style="line-height: 160%; font-size: 12px; border-right:1px solid #cccccc;padding:0 20px;">
+        <h4 style="padding-top:0;margin-top:0;text-transform:uppercase">Help &amp; Support</h4>
+        <div>
+          <a href="/article/220179">Editorial Guidelines</a>
+          </div><div>
+          <a href="/user/terms.php">Terms of Use</a>
+          </div><div>
+          <a href="/privacy.php">Privacy Policy</a>
+        </div>
+      </td>
+      <td style="line-height: 160%; font-size: 12px; padding:0 20px;">
+        <h4 style="padding-top:0;margin-top:0;text-transform:uppercase">News Links</h4>
+        <div>
+          <a href="/news/?ni=latest">Latest News</a>
+          </div><div>
+          <a href="/w/events">Live Events</a>
+          </div><div>
+          <a href="/alerts/">News Alerts</a>
+          </div><div>
+          <a href="/pr/?provider=ACCESSWIRE">ACCESSWIRE</a>
+          </div><div>
+          <a href="/pr/?provider=GlobeNewswire">GlobeNewswire News</a>
+          </div><div>
+          <a href="/pr/">Global Press Releases</a>
+          </div><div>
+          <a href="/pr/?provider=24-7PressRelease">24-7PressRelease.com</a>
+          </div><div>
+          <a href="http://www.digitaljournal.com/digitaltransformation" title="The definitive guide to navigating Digital Transformation">DX Journal</a>
+          </div><div>
+          <a href="http://www.dxinstitute.com" title="Data, research and education for Digital Transformation">DX Institute</a>
+        </div>
+      </td>
+    </tr>
+  </table>
+
+	<div style="padding-top:15px">
+		<div class="details" style="text-align: center">copyright &copy; 2018 <a href="http://www.digitaljournal.com/">digitaljournal.com</a> &nbsp; | &nbsp; powered by <a href="http://www.dell.ca/" target="_blank">dell servers</a></div>
+	</div>
+  </div>
+	</td>
+</tr>
+<tr>
+	<td class=pfm><img src="/images/tr.gif" /></td>
+</tr>
+</table>
+</div>
+
+<div class=invis>
+	<img src="/images/loading.gif" border=0 width="30" height="30" />
+</div>
+
+<script>
+  <!--
+  if ( Dom.getViewportWidth() > 1080 ) {
+    var options={ "publisher": "49ce477b-918c-42e8-b104-b3fc334378aa", "position": "left", "ad": { "visible": false, "openDelay": 5, "closeDelay": 0}, "chicklets": { "items": ["email", "facebook", "twitter", "linkedin", "googleplus"]}};
+    if (typeof(sharethis) != 'undefined') {
+      try {
+        var st_hover_widget = new sharethis.widgets.hoverbuttons(options);
+      } catch (e) {}
+    }
+  }
+
+  djp.ga_fill("Interstitial");
+  djp.htmlFormedEvent.subscribe(function() { if(!djp.ajax.history.was_init) djp.ajax.history.init();setTimeout(kplgin, 1000); });
+  //-->
+</script>
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-578e9b1b3b92ea05"></script>
+
+<script type="text/javascript">
+_linkedin_data_partner_id = "67371";
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+  var b = document.createElement("script");
+  b.type = "text/javascript";b.async = true;
+  b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+  s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+  <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=67371&fmt=gif" />
+</noscript>
+
+<script type="text/javascript">
+<!--
+	djp.htmlFormedEvent.fire(djp);
+//-->
+</script>
+
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+</body>
+
+</html>

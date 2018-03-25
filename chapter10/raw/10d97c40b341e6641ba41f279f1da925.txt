@@ -1,0 +1,2704 @@
+<!DOCTYPE html>
+  <!--[if lt IE 7]>      <html lang="en-AU" class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+  <!--[if IE 7]>         <html lang="en-AU" class="lt-ie9 lt-ie8"> <![endif]-->
+  <!--[if IE 8]>         <html lang="en-AU" class="lt-ie9"> <![endif]-->
+  <!--[if gt IE 8]><!--> <html lang="en-AU"> <!--<![endif]-->
+<head>
+  <title>Boris Johnson says Vladimir Putin will use World Cup like Hitler used Olympics to bolster image - ABC News (Australian Broadcasting Corporation)</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/>
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/>
+<link rel="schema.iptc" href="urn:newsml:iptc.org:20031010:topicset.iptc-genre:8"/>
+<link rel="amphtml" href="http://amp.abc.net.au/article/9574726"/>
+<link rel="canonical" data-abc-platform="standard" href="http://www.abc.net.au/news/2018-03-22/boris-johnson-compares-putins-world-cup-to-hitlers-olympics/9574726"/>
+<meta name="title" content="Putin will use World Cup like Hitler used Olympics, Boris Johnson says"/>
+                <meta name="description" content="Russian President Vladimir Putin will try to bolster Russia&#039;s image through hosting the World Cup in much the same way as Adolf Hitler used the 1936 Olympics in Nazi Germany, Britain&#039;s Foreign Minister Boris Johnson says."/>
+                <meta name="keywords" content="boris johnson, vladimir putin, world cup, hitler, germany, olympics"/>
+                <meta name="ICBM" content="60,100"/>
+                <meta name="geo.position" content="60;100"/>
+                <meta name="ContentId" content="9574726"/>
+                <meta name="ABC.site" content="ABC News"/>
+                <meta name="ABC.editorialGenre" content="News &amp; Current Affairs"/>
+                <meta name="ABC.tags" content="soccer-world-cup;world-politics"/>
+                <meta name="ABC_WCMS_sitesearch_include" content="true"/>
+                <meta name="twitter:card" content="summary"/>
+                <meta name="ABC.productionUnit" content="National news desk"/>
+                <meta name="ABC.ContentType" content="CMArticle"/>
+                <meta name="DC.Publisher.CorporateName" content="Australian Broadcasting Corporation"/>
+                <meta name="DC.rights" scheme="DCTERMS.URI" content="http://www.abc.net.au/conditions.htm#UseOfContent"/>
+        <meta name="DC.rightsHolder" content="Reuters"/>
+                <meta name="DC.rightsHolder" content="AP"/>
+                <meta name="DC.type" content="Text"/>
+                <meta name="DC.type" scheme="iptc-genre" content="Current"/>
+        <meta name="DC.title" content="Putin will use World Cup like Hitler used Olympics, Boris Johnson says"/>
+                <meta name="DC.creator.CorporateName" content="Australian Broadcasting Corporation"/>
+                <meta name="DC.date" scheme="DCTERMS.W3CDTF" content="2018-03-22T07:42:23+1100"/>
+        <meta name="DC.format" scheme="DCTERMS.IMT" content="text/html"/>
+        <meta name="DC.identifier" scheme="DCTERMS.URI" content="http://www.abc.net.au/news/2018-03-22/boris-johnson-compares-putins-world-cup-to-hitlers-olympics/9574726"/>
+          <meta name="DC.language" scheme="DCTERMS.RFC3066" content="en-AU"/>
+        <meta name="DC.subject" scheme="ABCTERMS.subject" content="Sport:Soccer:Soccer World Cup;Government and Politics:World Politics"/>
+        <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2018-03-22T07:42:23+1100"/>
+        <meta name="DCTERMS.modified" scheme="DCTERMS.W3CDTF" content="2018-03-22T09:43:27+1100"/>
+        <meta name="DCTERMS.spatial" content="Russian Federation;United States"/>
+                <meta name="DCTERMS.spatial" scheme="DCTERMS.DCMIPoint" content="east=100;north=60"/>
+        <meta property="og:title" content="Putin will use World Cup like Hitler used Olympics, Boris Johnson says"/>
+                <meta property="og:description" content="British Foreign Secretary Boris Johnson says it is sickening to think of President Vladimir Putin using the World Cup to glorify Russia."/>
+                <meta property="og:url" content="http://www.abc.net.au/news/2018-03-22/boris-johnson-compares-putins-world-cup-to-hitlers-olympics/9574726"/>
+                <meta property="og:image" content="http://www.abc.net.au/news/image/9574772-16x9-700x394.jpg"/>
+                <meta property="og:image:type" content="image/jpeg"/>
+                <meta property="og:image:width" content="700"/>
+                <meta property="og:image:height" content="394"/>
+                <meta name="twitter:image" content="http://www.abc.net.au/news/image/9574772-16x9-700x394.jpg"/>
+                <meta property="og:type" content="Article"/>
+                <meta property="og:updated_time" content="2018-03-22T09:43:27+1100"/>
+                <meta property="article:published_time" content="2018-03-22T07:42:23+1100"/>
+                <meta property="article:modified_time" content="2018-03-22T09:43:27+1100"/>
+                <meta property="article:publisher" content="https://www.facebook.com/abcnews.au"/>
+                <meta property="article:tag" content="boris johnson"/>
+                <meta property="article:tag" content="vladimir putin"/>
+                <meta property="article:tag" content="world cup"/>
+                <meta property="article:tag" content="hitler"/>
+                <meta property="article:tag" content="germany"/>
+                <meta property="article:tag" content="olympics"/>
+                <meta property="article:tag" content="Russian Federation"/>
+                <meta property="article:tag" content="United States"/>
+                <meta property="article:tag" content="Soccer World Cup"/>
+                <meta property="article:tag" content="Soccer"/>
+                <meta property="article:tag" content="Sport"/>
+                <meta property="article:tag" content="World Politics"/>
+                <meta property="article:tag" content="Government and Politics"/>
+                <meta property="og:site_name" content="ABC News"/>
+                <meta name="twitter:site" content="@ABCNews"/>
+                <meta name="apple-mobile-web-app-title" content="ABC News"/>
+                <meta property="fb:pages" content="72924719987"/>
+                <link rel="alternate" data-abc-platform="mobile" media="only screen and (max-width: 640px)" href="http://mobile.abc.net.au/news/2018-03-22/boris-johnson-compares-putins-world-cup-to-hitlers-olympics/9574726"/>
+  <link media="all" rel="stylesheet" type="text/css"
+                                                                              href="https://res.abc.net.au/bundles/2.2.0/styles/abc.bundle.2.2.0.min.css"/>
+    <link rel="stylesheet" type="text/css"
+                                                                              href="http://www.abc.net.au/res/sites/news-projects/news-core/1.3.3/desktop.css"/>
+    <link rel="alternate" type="application/rss+xml" title="Just In" href="/news/feed/51120/rss.xml">
+  <link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://www.abc.net.au/cm/cb/8413652/News+iOS+76x76+2017/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://www.abc.net.au/cm/cb/4355924/News+iOS+120x120/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://www.abc.net.au/cm/cb/8413660/News+iOS+152x152+2017/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://www.abc.net.au/cm/cb/8413674/News+iOS+180x180+2017/data.png"/>
+    <script type="text/javascript" src="/news/ajax/45902/managed.js"></script>
+<script type="text/javascript" src="http://www.abc.net.au/res/libraries/jquery/jquery-1.11.3.min.js"></script>
+        <script type="text/javascript" src="http://www.abc.net.au/res/libraries/location/abc.location-1.latest.min.js"></script>
+        <script type="text/javascript" src="http://www.abc.net.au/res/bundles/platforms/abc.bundle.platforms-1.0.min.js"></script>
+        <script type="text/javascript" src="http://www.abc.net.au/res/sites/news-projects/news-core/1.3.2/desktop.js"></script>
+        <script type="text/javascript" src="/cm/code/8724582/abc.news.config-2018-03-20.js" async></script>
+        </head>
+<body class="platform-standard news story_page">
+<!-- Start ABC Bundle Header 2.2.0 (customised) -->
+<!--noindex-->
+<nav id="abcHeader" class="global" aria-label="ABC Network Navigation" data-resourcebase="https://res.abc.net.au/bundles/2.2.0/" data-scriptsbase="https://res.abc.net.au/bundles/2.2.0/scripts/" data-version="2.2.0">
+ <a class="abcLink home" href="http://www.abc.net.au/" data-mobile="http://mobile.abc.net.au/"><img src="https://res.abc.net.au/bundles/2.2.0/images/logo-abc@2x.png" width="65" height="16" alt="" />ABC Home</a>
+ <div class="sites">
+  <a class="controller" href="javascript:;" aria-controls="abcNavSites"><img src="https://res.abc.net.au/bundles/2.2.0/images/icon-menu-grey@1x.gif" 
+   data-src="images/icon-menu-grey@1x.gif" data-hover="images/icon-menu-blue@1x.gif" class="icon" alt="" /><span class='text'><span>Open</span> Sites <span>menu</span></span></a>
+  <div id="abcNavSites" class="menu" role="menu" aria-expanded="false">
+   <ul>
+    <li class='odd'><a class="abcLink" role="menuitem" href="http://www.abc.net.au/" data-mobile="http://mobile.abc.net.au/">ABC Home</a></li>
+    <li><a class="abcLink" role="menuitem" href="http://www.abc.net.au/news/" data-mobile="http://mobile.abc.net.au/news/">News</a></li>
+    <li class='odd'><a class="abcLink" role="menuitem" href="http://www.abc.net.au/iview/" data-mobile="http://www.abc.net.au/iview/">iview</a></li>
+    <li><a class="abcLink" role="menuitem" href="http://www.abc.net.au/tv/" data-mobile="http://www.abc.net.au/tv/">TV</a></li>
+    <li class='odd'><a class="abcLink" role="menuitem" href="http://www.abc.net.au/radio/" data-mobile="http://www.abc.net.au/radio/">Radio</a></li>
+    <li><a class="abcLink" role="menuitem" href="http://www.abc.net.au/children/" data-mobile="http://mobile.abc.net.au/children/">Kids</a></li>
+    <li class='odd'><a class="abcLink" role="menuitem" href="https://shop.abc.net.au/" data-mobile="https://shop.abc.net.au/">Shop</a></li>
+    <li><a class="abcLink more" role="menuitem" href="http://www.abc.net.au/more/" data-mobile="http://www.abc.net.au/more/">More</a></li>
+   </ul>
+  </div>
+ </div>
+ <div class="accounts">
+  <!-- Accounts is currently injected due to different URLs --><span data-src="images/icon-user-grey@1x.png" data-hover="images/icon-user-blue@1x.png"></span>
+ </div>
+ <a class="abcLink search" href="http://search.abc.net.au/s/search.html?collection=abcall_meta&form=simple"
+  data-mobile="http://search.abc.net.au/s/search.html?collection=abcall_meta&form=simple"><span>Search</span>
+  <img src="https://res.abc.net.au/bundles/2.2.0/images/icon-search-grey@1x.png" data-hover="images/icon-search-blue@1x.png" class="icon" alt="" /></a>
+</nav>
+<!--endnoindex-->
+<!-- End ABC Bundle Header 2.2.0 (customised) -->
+<!--noindex-->
+<div class="page_margins">
+  <div id="header" class="header">
+    <div class="brand">
+        <a href="/news/"><img class="print" src="/cm/lb/8212706/data/news-logo-2017---desktop-print-data.png" alt="ABC News" width="387" height="100" />
+                <img class="noprint" src="/cm/lb/8212704/data/news-logo2017-data.png" alt="ABC News" width="242" height="80" />
+                </a></div>
+      <a href="/news/australia/" class="location-widget">Australia</a><a href="/news/weather/" class="weather-widget">Weather</a></div>
+  <div id="nav" class="nav">           
+  <ul id="primary-nav">
+        <li id="n-news" class="active"><a href="/news/">News Home</a></li><li id="n-justin" class=""><a href="/news/justin/">Just In</a></li><li id="n-politics" class=""><a href="/news/politics/">Politics</a></li><li id="n-world" class=""><a href="/news/world/">World</a></li><li id="n-business" class=""><a href="/news/business/">Business</a></li><li id="n-sport" class=""><a href="/news/sport/">Sport</a></li><li id="n-science" class=""><a href="/news/science/">Science</a></li><li id="n-health" class=""><a href="/news/health/">Health</a></li><li id="n-arts-culture" class=""><a href="/news/arts-culture/">Arts</a></li><li id="n-analysis-and-opinion" class=""><a href="/news/analysis-and-opinion/">Analysis</a></li><li id="n-factcheck" class=""><a href="/news/factcheck/">Fact Check</a></li><li id="n-more" class=""><a href="/news/more/">More</a></li></ul>
+  </div>
+<!-- A modules - start -->
+  <!-- A modules - end -->
+  <div class="page section">
+    <div class="subcolumns">
+    <div class="c75l">
+      <!-- B modules - start -->
+      <div class="article section">
+  
+
+<div class="tools">
+  
+    
+  
+  <a class="button"
+     href="http://www2b.abc.net.au/EAF/View/MailToQuery.aspx?http://www.abc.net.au/news/2018-03-22/boris-johnson-compares-putins-world-cup-to-hitlers-olympics/9574726"><span>Email</span></a>
+</div><!--endnoindex-->
+  <h1>Boris Johnson says Vladimir Putin will use World Cup like Hitler used Olympics to bolster image</h1>
+
+
+
+  
+    <p class="published">
+      Updated 
+    <span class="timestamp">
+      March 22, 2018 09:43:27
+    </span>
+    </p>
+  
+  
+
+<div class="inline-content video full">
+    <script type="text/javascript" charset="utf-8">
+          if (typeof inlineVideoData == 'undefined') var inlineVideoData = new Array();
+          inlineVideoData.push([
+          
+              {'url': 'http://mpegmedia.abc.net.au/news/video/201803/CNs_BorisHitler_2203_256k.mp4', 'contentType': 'video/mp4', 'codec': 'AVC', 'bitrate': '170', 'width': '320', 'height': '180', 'filesize': '1297457'}
+            ,
+              {'url': 'http://mpegmedia.abc.net.au/news/video/201803/CNs_BorisHitler_2203_512k.mp4', 'contentType': 'video/mp4', 'codec': 'AVC', 'bitrate': '427', 'width': '512', 'height': '288', 'filesize': '2834883'}
+            ,
+              {'url': 'http://mpegmedia.abc.net.au/news/video/201803/CNs_BorisHitler_2203_1000k.mp4', 'contentType': 'video/mp4', 'codec': 'AVC', 'bitrate': '928', 'width': '1024', 'height': '576', 'filesize': '6065392'}
+            
+            ]);
+            </script>
+        <a href="/news/2018-03-22/boris-johnson-agrees-world-cup-like-hitler-olympics/9574892" class="inline-video">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/9574894-16x9-700x394.jpg" alt="Boris Johnson agrees Russian World Cup will be like Hitler&#039;s Olympics" title="Boris Johnson agrees Russian World Cup like Hitler&#039;s Olympics" width="700" height="394"/>
+</a><a href="/news/2018-03-22/boris-johnson-agrees-world-cup-like-hitler-olympics/9574892" class="inline-caption"><strong>Video:</strong> Boris Johnson agrees Russian World Cup will be like Hitler&#039;s Olympics
+
+<span class="source">(ABC News)</span>
+      </a></div>
+<div class="attached-content">
+      <div class="inline-content story left">
+    <a href="/news/2018-03-19/vladimir-putin-how-to-understand-the-russian-president/9562906"><strong>Related Story:</strong>
+       How to understand Vladimir Putin&#039;s view of the world</a></div>
+<div class="inline-content story left">
+    <a href="/news/2018-03-19/boris-johnson-criticises-russian-denial-of-ex-spy-attack/9564942"><strong>Related Story:</strong>
+       &#039;They&#039;re not fooling anybody&#039;: Britain&#039;s Foreign Minister criticises Russia&#039;s denial of ex-spy attack</a></div>
+<div class="inline-content map left">
+      <div class="story-map"></div>
+      <a class="inline-caption" href="http://maps.google.com/?q=60,100(Russian%20Federation)&amp;z=5">
+        <strong>Map: </strong>
+        Russian Federation</a>
+    </div>
+  </div>
+  <p>Russian President Vladimir Putin will try to bolster Russia's image through hosting the World Cup in much the same way as Adolf Hitler used the 1936 Olympics in Nazi Germany, Britain's Foreign Minister Boris Johnson said.</p><p>Mr Johnson told Parliament he agreed with a Labour MP who likened the event to Hitler's use of the 1936 Games as a propaganda vehicle for his regime.</p><p>"Your characterisation of what is going to happen in Moscow in the World Cup, in all the venues, I think the comparison with 1936 is certainly right," he said.</p><blockquote class="quote--pullquote"><p>"I think it's an emetic prospect, frankly, to think of Putin glorying in this sporting event."</p></blockquote><p>Russian Foreign Ministry spokeswoman Maria Zakharova said Mr Johnson is "poisoned with venom of hate, unprofessionalism and boorishness", adding that "it's scary to remember that this person represents the political leadership of a nuclear power".</p><p>She said on Facebook Mr Johnson's statements were "unacceptable, unworthy of a top European diplomat", adding that it reflected London's efforts to cast Russia as an enemy, using the most absurd reasons, in order to boycott the World Cup.</p><p>Mr Johnson was being questioned over the <a href="/news/2018-03-19/boris-johnson-criticises-russian-denial-of-ex-spy-attack/9564942" target="_self" title="">chemical poisoning of former Russian double agent Sergei Skripal</a> in Salisbury earlier this month.</p><p>Britain has blamed Russia for the attack and has expelled 23 of its diplomats, but Russia denies involvement.</p><p>Britain has also said it will not send ministers or members of the royal family in delegations to the World Cup, but Mr Johnson said it would be unfair on the players for the England team itself to withdraw.</p><p>He was concerned however about the safety of English fans and the ability of the British embassy and consular services to protect them.</p><p>Clashes between English and Russian fans marred the 2016 European Championship in France.</p><p>British police have previously expressed confidence that Russia would deal with any trouble among their own supporters, as well as visiting ones.</p><p>Mr Johnson said applications to go to Russia for the World Cup were about a quarter of what they were at this stage ahead of the 2014 World Cup in Brazil.</p><p>"It is up to the Russians to guarantee the safety of England fans going to Russia," he added.</p><p>"At the moment we are not inclined actively to dissuade people from going because we want to hear from the Russians what steps they are going to take to look after our fans."</p><p><strong>Reuters/AP</strong></p>
+
+
+<p class="topics">
+	<strong>Topics:</strong>
+	
+	<a href="/news/topic/soccer-world-cup">soccer-world-cup</a>,
+
+
+	
+	<a href="/news/topic/world-politics">world-politics</a>,
+
+
+	
+	<a href="/news/topic/russian-federation">russian-federation</a>,
+
+
+	
+	<a href="/news/topic/united-states">united-states</a>
+	
+</p>
+
+
+  <p class="published">
+    First posted 
+    <span class="timestamp">
+      March 22, 2018 07:42:23
+    </span>
+  </p>
+<!--noindex-->
+  </div>
+<!-- B modules - end -->
+    </div>
+    <div class="c25r sidebar">
+    <!-- Sidebar modules - start -->
+    <div class="section localised-top-stories">
+        <div class="inner">
+          <h2>Top Stories</h2>
+          
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/trump-sets-china-tariff-plan-edges-away-from-trade-war/9578402">China says it will &#039;fight to the end&#039; as US reveals $77 billion tariff plan</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/mass-whale-stranding-at-augusta-sparks-shark-alert/9579014">Mass whale stranding leaves dozens dead at remote West Australian beach</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/cyclone-marcus-cyclone-nora-two-other-storms-hit-north-australia/9578246">Cyclone overload as four major weather systems converge on Australia</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/trump-replaces-hr-mcmaster-with-former-un-ambassador-bolton/9578786">Trump replaces security adviser with former UN ambassador John Bolton</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/revenge-porn-forums-sharing-nudes-of-women-without-consent/9577734">Revenge porn forums sharing drives full of alphabetised photos of Australian women</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/science/2018-03-23/great-pacific-garbage-patch-much-bigger-than-thought-study/9571234">There&#039;s a soup of rubbish in the Pacific that&#039;s almost as big as Queensland</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/mummified-skeleton-not-alien-actually-a-human-baby-study-finds/9578658">Scientists solve &#039;alien&#039; skeleton mystery</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/bradbury-senate-government-corporate-tax-rate/9579024">Analysis: Turnbull Government could pass company tax cuts with support of new senators</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/how-you-told-the-internet-everything/9576666">Your cat is telling people where you live and Apple knows when you last worked out</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/katie-brennan-takes-afl-rules-to-human-rights-commission/9578830"><em>SPORT</em>
+      Brennan takes &#039;discriminatory&#039; AFL rules to Human Rights Commission</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/columbine-high-school-massacre-19-years-later/9577858">Cautious optimism Florida may become what Columbine didn&#039;t — America&#039;s last school shooting</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/sunlight-and-her-all-female-owners/9577498"><em>SPORT</em>
+      The female team behind Golden Slipper favourite have made history before the race begins</a>
+
+<span class="media">
+    <span class="photos" title="Photos">(photos)</span>
+
+</span>
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/what-happens-to-our-skin-as-we-age/9575978">Opinion: Wrinkles, liver spots, crows&#039; feet: What happens to our skin as we age?</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/national-geographics-decision-to-admit-its-racist-past/9565918">&#039;It&#039;s blown up all over the world&#039;: Inside National Geographic&#039;s decision to admit its racist past</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/south-africa-v-australia-pat-cummins-delivers-in-third-test/9578590"><em>SPORT</em>
+      Cummins stands and delivers as Aussies trouble Proteas in Cape Town Test</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/prince-harry-meghan-markle-royal-wedding-invitations-dispatched/9578512">Prince Harry, Meghan Markle&#039;s royal wedding invitations revealed, dispatched</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/everything-you-thought-you-knew-about-vikings-is-probably-wrong/9575860">Everything you thought you knew about Vikings is probably wrong</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/science/2018-03-23/curly-hair-new-zealand-sheep-help-tease-out-secrets/9567916">What makes hair curly? Take a very, very close look at sheep</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/death-to-nuggets-group-targets-kids-menus/9570466">Death To Nuggets group targets unhealthy kids&#039; menus</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/wooden-surfboard-class-connecting-people-with-sports-history/9570760"><em>SPORT</em>
+      Surfers pining for good old days build boards from scratch</a>
+
+</li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    <div class="section graphic">
+  <a href="http://m.me/abcnews.au?ref=welcomefromABCNewshomepage">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="/cm/lb/7996774/thumbnail.png" alt="Start a chat with ABC News on Facebook Messenger" title="Start a chat with ABC News on Facebook Messenger" class="" width="220" />
+</a></div><div class="connect-with-abc section promo">
+<h2>Connect with ABC News</h2>
+<ul>
+    <li><a href="http://www.facebook.com/abcnews.au" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6388890/data/facebook-data.png" alt="ABC News on Facebook" title="ABC News on Facebook" width="30" height="30" />
+    </a></li>
+    <li><a href="http://instagram.com/abcnews_au" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6389068/data/instagram-data.png" alt="ABC News on Instagram" title="ABC News on Instagram" width="32" height="31" />
+    </a></li>
+    <li><a href="http://www.twitter.com/abcnews" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6388894/data/twitter-data.png" alt="ABC News on Twitter" title="ABC News on Twitter" width="32" height="27" />
+    </a></li>
+    <li><a href="http://www.youtube.com/newsonabc" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6389052/data/youtube-data.png" alt="ABC News on YouTube" title="ABC News on YouTube" width="50" height="22" />
+    </a></li>
+    <li><a href="/news/2016-06-16/what-is-snapchat-and-why-is-the-abc-on-it/7517174" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/8208710/data/snapchat-data.jpg" alt="ABC News on Snapchat" title="ABC News on Snapchat" width="31" height="30" />
+    </a></li>
+
+    <li><a href="https://apple.news/TsieN9U-WQ0SZbtP1VTI4uQ" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/8458084/data/applenews-data.png" alt="ABC News on Apple News" title="ABC News on Apple News" width="32" height="32" />
+    </a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<div class="section graphic">
+  <a href="/news/feeds/">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="/cm/lb/4745996/thumbnail/news-podcasts-sidebar-graphic-promo-thumbnail.jpg" alt="News Podcasts" title="News Podcasts" class="" width="220" />
+</a></div><div class="section promo">
+  <div class="inner">
+      <h2>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/contact/tip-off/"
+    >
+  
+
+  
+    
+        <span>Got a news tip?</span>
+    
+    
+  
+
+  </a>
+</h2><p>If you have inside knowledge of a topic in the news, <a href="/news/contact/tip-off/" target="_self" title="">contact the ABC</a>.</p></div>
+  </div>
+<div class="related">
+<div class="newsmail-signup card">
+<h2>News in your inbox</h2>
+<span class="spiel">Top headlines, analysis, breaking&nbsp;alerts</span>
+
+<div class="form main">
+</div>
+<a href="/news/alerts/subscribe/">More info</a>
+</div>
+</div>
+<div class="section promo">
+  <div class="inner">
+      <h2>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/news/about/backstory/"
+    >
+  
+
+  
+    
+        <span>ABC Backstory</span>
+    
+    
+  
+
+  </a>
+</h2><p><a href="http://www.abc.net.au/news/about/backstory/" target="_self" title="">ABC teams share the story behind the story and insights into the making of digital, TV and radio content.</a></p></div>
+  </div>
+<div class="section promo">
+  <div class="inner">
+      <h2>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://about.abc.net.au/how-the-abc-is-run/what-guides-us/abc-editorial-standards/"
+    >
+  
+
+  
+    
+        <span>Editorial Policies</span>
+    
+    
+  
+
+  </a>
+</h2><p><a href="http://about.abc.net.au/how-the-abc-is-run/what-guides-us/abc-editorial-standards/" target="_self" title="">Read about our editorial guiding principles and the enforceable standard our journalists follow.</a></p></div>
+  </div>
+<!-- Sidebar modules - end -->
+  </div>
+</div>
+</div><!-- C modules - start -->
+  <div class="page section featured-scroller featured-scroller-4 dark">
+<div class="section">
+  <h2>Features</h2>
+  </div>
+<div class="inner">
+  <ol class="subcolumns">
+    <li class="c25l">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2018-03-23/donald-trumps-pick-john-bolton-on-north-korea,-russia-and-iran/9579122" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/9579250-16x9-220x124.jpg" alt="Former US ambassador to the United Nations John Bolton speaks at the Conservative Political Action Conference." title="John Bolton speaks at the Conservative Political Action Conference" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  Bolton on Russia and North Korea</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p>New national security adviser John Bolton has a history of taking hardline positions on foreign policy — here's a snapshot of his views on some hot topics currently facing the White House.</p>
+	 </div>
+    </li>
+         <li class="c25l">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2018-03-23/abc-news-quiz-march-23/9576394" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/9568172-16x9-220x124.jpg" alt="A promotion video shows an actor wearing LLVision facial recognition smart glasses." title="LLVision facial recognition" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  ABC News quiz</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p>This week we discovered Australians have shocking dental hygiene, artificial intelligence is being used to crack down on jaywalking, and there's another celebrity running for office. Let's see what you can remember.</p>
+	 </div>
+    </li>
+         <li class="c25l">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2018-03-23/spreadsheet-football-takes-soul-from-afl-but-romance-remains/9577124" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/9004458-16x9-220x124.jpg" alt="The Richmond players celebrate on the stage with the premiership cup as yellow and black confetti flies." title="Richmond players celebrate with the premiership cup" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  Hope for AFL despite footy-nomics</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p>The AFL's relentless course to national sporting pre-eminence has come at a cost, writes Richard Hinds. But fans still have hope thanks to a couple of fairytale flag wins.</p>
+	 </div>
+    </li>
+         <li class="c25r">
+                  <div class="section">
+		  <h2>
+			 <a href="http://doublej.net.au/news/features/jason-isbells-grammy-winning-song-that-almost-wasnt" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/9579610-16x9-220x124.jpg" alt="Jason Isbell and The 400 Unit" title="Jason Isbell and The 400 Unit" width="220" height="124"/>
+<span class="link"></span>
+				<span class="label">
+				  Keep watching Hoarders? Or write that Grammy-winning song?</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p>Americana singer Jason Isbell almost didn't write a song that ended up winning a Grammy. He was too busy watching reality TV<em>.</em></p>
+	 </div>
+    </li>
+         </ol>
+</div></div><div id="footer-stories" class="page section">
+    <div class="subcolumns">
+    <div class="c25l">
+        <div class="section">
+          <h2>Top Stories</h2>
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/trump-sets-china-tariff-plan-edges-away-from-trade-war/9578402">China says it will &#039;fight to the end&#039; as US reveals $77 billion tariff plan</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/mass-whale-stranding-at-augusta-sparks-shark-alert/9579014">Mass whale stranding leaves dozens dead at remote West Australian beach</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/cyclone-marcus-cyclone-nora-two-other-storms-hit-north-australia/9578246">Cyclone overload as four major weather systems converge on Australia</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/trump-replaces-hr-mcmaster-with-former-un-ambassador-bolton/9578786">Trump replaces security adviser with former UN ambassador John Bolton</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/revenge-porn-forums-sharing-nudes-of-women-without-consent/9577734">Revenge porn forums sharing drives full of alphabetised photos of Australian women</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/science/2018-03-23/great-pacific-garbage-patch-much-bigger-than-thought-study/9571234">There&#039;s a soup of rubbish in the Pacific that&#039;s almost as big as Queensland</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/mummified-skeleton-not-alien-actually-a-human-baby-study-finds/9578658">Scientists solve &#039;alien&#039; skeleton mystery</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/bradbury-senate-government-corporate-tax-rate/9579024">Analysis: Turnbull Government could pass company tax cuts with support of new senators</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/how-you-told-the-internet-everything/9576666">Your cat is telling people where you live and Apple knows when you last worked out</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/katie-brennan-takes-afl-rules-to-human-rights-commission/9578830">Brennan takes &#039;discriminatory&#039; AFL rules to Human Rights Commission</a></li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    <div class="c25l">
+        <div class="section">
+          <h2>Just In</h2>
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/video-shows-snake-falling-prey-to-kookaburra-in-backyard-feed/9579260">Snake falls prey to kookaburra in backyard feed</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/russian-agent-has-limited-mental-capacity-after-nerve-attack/9578990">Former Russian spy may have limited mental capacity after nerve attack</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/onesie-artist-adele-varcoe-changing-perception-of-fashion/9579080">Onesie-wearing artist working to change perceptions of fashion</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/trump-vs-china-tariff-explainer/9578724">Is Trump&#039;s China tariff plan really a trade war or just theatre?</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/nsw-drug-busts-police-investigate-possible-mafia-links/9578924">Italian nationals charged over drug supply near Bathurst</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/tropical-cyclone-nora-bom-issues-warning-gulf-of-carpentaria/9579128">Warning issued as Tropical Cyclone Nora approaches Gulf of Carpentaria</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/florida-school-shooting-students-told-to-use-clear-backpacks/9578702">Florida school shooting survivors told to use clear backpacks</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/bradbury-senate-government-corporate-tax-rate/9579024">How a &#039;small army of Bradburys&#039; could hand Turnbull a company tax cut</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/lucy-paveley-road-death-manslaughter-charge-dropped-by-dpp/9579298">Teen driver&#039;s manslaughter charge dropped over Lucy Paveley&#039;s death</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/donald-trumps-pick-john-bolton-on-north-korea,-russia-and-iran/9579122">Here&#039;s Trump&#039;s new national security adviser in his own tweets</a></li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    <div class="c25l">
+        <div class="section">
+          <h2>Most Popular</h2><ul class="headlines">
+  <li>
+    <a href="/news/2018-03-22/myer-accused-of-racial-profiling-over-school-formal-row/9575314">Ten Myer staff called on teenage boy who was shopping for school ball</a>
+
+<span class="media">
+    <span class="photos" title="Photos">(photos)</span>
+
+</span>
+</li>
+<li>
+    <a href="/news/2018-03-23/trump-sets-china-tariff-plan-edges-away-from-trade-war/9578402">China says it will &#039;fight to the end&#039; as US reveals $77 billion tariff plan</a>
+
+</li>
+<li>
+    <a href="/news/2018-03-22/south-africa-v-australia-third-test-in-cape-town-day-one/9576268">South Africa blows strong position as Cummins leads Australian fightback in third Test</a>
+
+</li>
+<li>
+    <a href="/news/2018-03-23/revenge-porn-forums-sharing-nudes-of-women-without-consent/9577734">Revenge porn forums sharing drives full of alphabetised photos of Australian women</a>
+
+</li>
+<li>
+    <a href="/news/2018-03-22/self-driving-uber-fatal-crash-footage-released/9575624">&#039;Disturbing and heartbreaking&#039; footage of fatal self-driving crash released</a>
+
+</li>
+<li>
+    <a href="/news/2018-03-22/tumbleweed-plague-stops-residents-entering-home/9575318">Tumbleweed plague stops resident from entering home</a>
+
+</li>
+<li>
+    <a href="/news/2018-03-22/george-pell-committal-hearing-robes-too-heavy-sexual-offences/9577450">Pell&#039;s alleged offending at cathedral couldn&#039;t have happened, court told</a>
+
+</li>
+<li>
+    <a href="/news/2018-03-23/everything-you-thought-you-knew-about-vikings-is-probably-wrong/9575860">Everything you thought you knew about Vikings is probably wrong</a>
+
+</li>
+<li>
+    <a href="/news/2018-03-22/perth-zoo-new-porcupine-is-one-of-its-strangest-residents/9577696">Perth Zoo&#039;s bizarre new animal set to go on show</a>
+
+</li>
+<li>
+    <a href="/news/2018-03-22/back-pain-is-being-mismanaged-health-experts-warn/9570188">Sore back? Experts say this is why what you&#039;re doing to fix it won&#039;t work</a>
+
+</li>
+</ul></div>
+      </div>
+    <div class="c25r">
+        <div class="section">
+          <h2>Analysis &amp; Opinion</h2>
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/trump-vs-china-tariff-explainer/9578724">Is Trump&#039;s China tariff plan really a trade war or just theatre?</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/bradbury-senate-government-corporate-tax-rate/9579024">How a &#039;small army of Bradburys&#039; could hand Turnbull a company tax cut</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/what-happens-to-our-skin-as-we-age/9575978">Wrinkles, liver spots, crows&#039; feet: what happens to our skin as we age?</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/perth-childrens-hospital-report-adds-tension-to-wa-liberal-mix/9577956">WA Liberal partyroom meetings just got more awkward</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/aflw-grand-final-preview-no-guarantees-dogs-lions-bid-for-glory/9566916">No guarantees as Dogs, Lions bid for glory in AFLW grand final</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/spreadsheet-football-takes-soul-from-afl-but-romance-remains/9577124">Hinds: Spreadsheet football takes soul out of AFL — but romance remains </a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-22/hopes-rising-mathias-cormann-can-get-company-tax-cut-through/9574878">Hopes rising that Mathias Cormann can finish the company tax puzzle by Easter</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-22/richmond-passes-a-difficult-carlton-test-at-the-mcg/9571496">Tigers become the hunted but fight back to beat Blues in season opener</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-22/png-earthquake-disaster-on-our-doorstep-ignored/9575626">There is a disaster on our doorstep that&#039;s being ignored</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-22/facebook-cambridge-analytica-digital-surveillance-data-privacy/9575160">Cambridge Analytica scandal is not a &#039;breach&#039;. It is Facebook&#039;s business model in action </a></li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    </div>
+  </div>
+<!-- C modules - end -->
+<div id="footer" class="page section">
+    <!-- program footer-->
+  <div class="subcolumns">
+    <div id="sitemap" class="c75l">
+        <div class="section">
+          <h2>Site Map</h2>
+        </div>
+        <div class="subcolumns">
+          <div class="c16l">
+              <div class="section">
+    <h3>Sections</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/"
+    >
+  
+
+  
+    
+        <span>ABC News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/justin/"
+    >
+  
+
+  
+    
+        <span>Just In</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/australia/"
+    >
+  
+
+  
+    
+        <span>Australia</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/world/"
+    >
+  
+
+  
+    
+        <span>World</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/business/"
+    >
+  
+
+  
+    
+        <span>Business</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/entertainment/"
+    >
+  
+
+  
+    
+        <span>Entertainment</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/sport/"
+    >
+  
+
+  
+    
+        <span>Sport</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/analysis-and-opinion/"
+    >
+  
+
+  
+    
+        <span>Analysis &amp; Opinion</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/weather/"
+    >
+  
+
+  
+    
+        <span>Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/topics/"
+    >
+  
+
+  
+    
+        <span>Topics</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/archive/"
+    >
+  
+
+  
+    
+        <span>Archive</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/corrections/"
+    >
+  
+
+  
+    
+        <span>Corrections &amp; Clarifications</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Local Weather</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/sydney/weather/"
+    >
+  
+
+  
+    
+        <span>Sydney Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/melbourne/weather/"
+    >
+  
+
+  
+    
+        <span>Melbourne Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/adelaide/weather/"
+    >
+  
+
+  
+    
+        <span>Adelaide Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/brisbane/weather/"
+    >
+  
+
+  
+    
+        <span>Brisbane Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/perth/weather/"
+    >
+  
+
+  
+    
+        <span>Perth Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/hobart/weather/"
+    >
+  
+
+  
+    
+        <span>Hobart Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/darwin/weather/"
+    >
+  
+
+  
+    
+        <span>Darwin Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/canberra/weather/"
+    >
+  
+
+  
+    
+        <span>Canberra Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Local News</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/sydney/news/"
+    >
+  
+
+  
+    
+        <span>Sydney News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/melbourne/news/"
+    >
+  
+
+  
+    
+        <span>Melbourne News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/adelaide/news/"
+    >
+  
+
+  
+    
+        <span>Adelaide News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/brisbane/news/"
+    >
+  
+
+  
+    
+        <span>Brisbane News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/perth/news/"
+    >
+  
+
+  
+    
+        <span>Perth News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/hobart/news/"
+    >
+  
+
+  
+    
+        <span>Hobart News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/darwin/news/"
+    >
+  
+
+  
+    
+        <span>Darwin News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/canberra/news/"
+    >
+  
+
+  
+    
+        <span>Canberra News</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Media</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/video/"
+    >
+  
+
+  
+    
+        <span>Video</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/audio/"
+    >
+  
+
+  
+    
+        <span>Audio</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/photos/"
+    >
+  
+
+  
+    
+        <span>Photos</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Subscribe</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/feeds/"
+    >
+  
+
+  
+    
+        <span>Podcasts</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/feeds/rss/"
+    >
+  
+
+  
+    
+        <span>RSS Feeds</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/alerts/"
+    >
+  
+
+  
+    
+        <span>NewsMail</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Connect</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/upload/"
+    >
+  
+
+  
+    
+        <span>Upload</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/contact/"
+    >
+  
+
+  
+    
+        <span>Contact Us</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/analysis-and-opinion/"
+    >
+  
+
+  
+    
+        <span>Suggest a Contributor</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            </div>
+      </div>
+    <!-- right section-->
+    <div class="c25r">
+      <div id="fineprint" class="section">
+        <p>
+          <small>This service may include material from Agence France-Presse (AFP), APTN, Reuters, AAP, CNN and the BBC World Service which is copyright and cannot be reproduced.</small>
+        </p>
+        <p>
+          <small>AEDT = Australian Eastern Daylight Savings Time which is 11 hours ahead of UTC (Greenwich Mean Time)</small>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="platforms">
+      <a href="http://mobile.abc.net.au/news/2018-03-22/boris-johnson-compares-putins-world-cup-to-hitlers-olympics/9574726?pfm=sm" class="platform-mobile switch">Change to mobile view</a></div>
+  </div><!-- End footer --></div>
+<!-- Start Webtrends -->
+<div class="hide">
+  </div>
+<!-- End Webtrends -->
+<!--endnoindex--><!--Global footer-->
+<!-- Start ABC Bundle Footer 2.2.0 (customised) -->
+<!--noindex-->
+<nav id="abcFooter" class="global" aria-label="ABC Footer Navigation" data-version="2.2.0">
+ <ul>
+  <li><a class="abcLink" href="http://about.abc.net.au/terms-of-use/">Terms of Use</a></li>
+  <li><a class="abcLink" href="http://about.abc.net.au/abc-privacy-policy/">Privacy Policy</a></li>
+  <li><a class="abcLink" href="http://about.abc.net.au/accessibility-statement/">Accessibility</a></li>
+  <li><a class="abcLink" href="http://about.abc.net.au/talk-to-the-abc/">Contact Us</a></li>
+  <li><a class="abcLink" href="http://about.abc.net.au/terms-of-use/#UseOfContent">&copy; <time>2018</time> ABC</a></li>
+ </ul>
+</nav>
+<script type="text/javascript" src="https://res.abc.net.au/bundles/2.2.0/scripts/abc.bundle.2.2.0.min.js"></script>
+<script type="text/javascript" src="https://res.abc.net.au/libraries/stats/abc.stats.bundle.js"></script>
+<!-- START Webtrends -->
+<noscript><img alt="dcsimg" id="dcsimg" width="1" height="1" src="//statse.webtrendslive.com/dcsg85fae000004n0vfjpj8oa_9m4q/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.2.10&amp;dcssip=www.abc.net.au"></noscript>
+<!-- END Webtrends -->
+<!-- Google Tag Manager -->
+<script type="text/javascript">
+// <![CDATA[
+ (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ })(window,document,'script','dataLayer','GTM-PB2GX');
+ // ]]>
+</script>
+<noscript>
+ <iframe src="//www.googletagmanager.com/ns.html?id=GTM-PB2GX" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager -->
+<!-- ABC MyLogin -->
+<script type="text/javascript" src="https://mylogin.abc.net.au/js/abc.mylogin.embedded.js"></script>
+<script type="text/javascript">ABC.MyLoginEmbedded.init();</script>
+<!-- END ABC MyLogin -->
+<!--endnoindex-->
+<!-- End ABC Bundle Footer 2.2.0 (customised) -->
+<!--end global footer-->
+</body>
+</html>

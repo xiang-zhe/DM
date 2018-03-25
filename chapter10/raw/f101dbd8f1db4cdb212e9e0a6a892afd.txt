@@ -1,0 +1,1149 @@
+    <!-- Html.AppendScriptParts("~/Scripts/1.11.3-jquery.min.js"); -->
+
+<!DOCTYPE html>
+<html >
+<head>
+    <title>Alex Cole MSP admits using cannabis . m&#225;</title>
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+    <meta name="description" content="CBD vaping - Ma Time, the ultimate Cannabinoid vape experience in the UK." />
+    <meta name="keywords" content="cbd, hemp oil, cannabidiol, vape" />
+    <meta name="generator" content="nopCommerce" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    
+    
+    
+    <link href="/Content/jquery-ui-themes/smoothness/jquery-ui-1.10.3.custom.min.css" rel="stylesheet" type="text/css" />
+<link href="/Themes/MaTime/Content/css/compstyle.css" rel="stylesheet" type="text/css" />
+<link href="/Themes/MaTime/Content/css/styles.css" rel="stylesheet" type="text/css" />
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" type="text/javascript"></script>
+<script src="/Scripts/jquery.validate.min.js" type="text/javascript"></script>
+<script src="/Scripts/jquery.validate.unobtrusive.min.js" type="text/javascript"></script>
+<script src="/Scripts/jquery-ui-1.10.3.custom.min.js" type="text/javascript"></script>
+<script src="/Scripts/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
+<script src="/Scripts/public.common.js" type="text/javascript"></script>
+<script src="/Scripts/public.ajaxcart.js" type="text/javascript"></script>
+<script src="/Themes/MaTime/Content/js/matime.js" type="text/javascript"></script>
+
+    
+    
+    
+    
+    
+<link rel="shortcut icon" href="https://uk.ma-time.com/favicon.ico" />
+    <!--Powered by nopCommerce - http://www.nopCommerce.com-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800' rel='stylesheet' type='text/css'>
+    <script>
+        $(document).ready(function(){
+            $(".linkdescription").click(function () {
+                $(".linkdescription").addClass('goldunderline');
+                $(".linkspecs").removeClass('goldunderline');
+                $(".linkreviews").removeClass('goldunderline');
+                $(".linkcontactus").removeClass('goldunderline');
+
+                $('.divdescription').css({ display: "block"});
+                $('.divspecs').css({ display: "none" });
+                $('.divreviews').css({ display: "none" });
+                $('.divcontactus').css({ display: "none" });
+            });
+            $(".linkspecs").click(function () {
+                $(".linkdescription").removeClass('goldunderline');
+                $(".linkspecs").addClass('goldunderline');
+                $(".linkreviews").removeClass('goldunderline');
+                $(".linkcontactus").removeClass('goldunderline');
+
+                $('.divdescription').css({ display: "none" });
+                $('.divspecs').css({ display: "block" });
+                $('.divreviews').css({ display: "none" });
+                $('.divcontactus').css({ display: "none" });
+            });
+            $(".linkreviews").click(function () {
+                $(".linkdescription").removeClass('goldunderline');
+                $(".linkspecs").removeClass('goldunderline');
+                $(".linkreviews").addClass('goldunderline');
+                $(".linkcontactus").removeClass('goldunderline');
+
+                $('.divdescription').css({ display: "none" });
+                $('.divspecs').css({ display: "none" });
+                $('.divreviews').css({ display: "block" });
+                $('.divcontactus').css({ display: "none" });
+            });
+            $(".linkcontactus").click(function () {
+                $(".linkdescription").removeClass('goldunderline');
+                $(".linkspecs").removeClass('goldunderline');
+                $(".linkreviews").removeClass('goldunderline');
+                $(".linkcontactus").addClass('goldunderline');
+
+                $('.divdescription').css({ display: "none" });
+                $('.divspecs').css({ display: "none" });
+                $('.divreviews').css({ display: "none" });
+                $('.divcontactus').css({ display: "block" });
+            });
+            $(".short-description").text(function (index, currentText) {
+                return currentText.substr(0, 136) + '...';
+            });
+
+        });
+    </script>
+</head>
+<body>
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-5DVVST"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5DVVST');</script>
+    <!-- End Google Tag Manager -->
+    
+
+
+<div class="ajax-loading-block-window" style="display: none">
+</div>
+<div id="dialog-notifications-success" title="Notification" style="display:none;">
+</div>
+<div id="dialog-notifications-error" title="Error" style="display:none;">
+</div>
+<div id="bar-notification" class="bar-notification">
+    <span class="close" title="Close">&nbsp;</span>
+</div>
+
+
+
+
+<!--[if lte IE 7]>
+    <div style="clear:both;height:59px;text-align:center;position:relative;">
+        <a href="http://www.microsoft.com/windows/internet-explorer/default.aspx" target="_blank">
+            <img src="/Themes/MaTime/Content/images/ie_warning.jpg" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />
+        </a>
+    </div>
+<![endif]-->
+
+<div class="master-wrapper-page">
+    
+    
+<div class="header-wrapper">
+    <div class="header">
+        
+        <div class="header-upper">
+            <div class="header-selectors-wrapper">
+            
+                
+            
+                
+            
+                
+            
+                
+            </div>
+            <div class="search-box">
+    <form action="/search" id="small-search-box-form" method="get">    <input type="submit" class="button-1 search-box-button" value="" />
+    <input type="text" class="search-box-text" id="small-searchterms" autocomplete="off" name="q" placeholder="Search store" />
+        <script type="text/javascript">
+            $("#small-search-box-form").submit(function(event) {
+                if ($("#small-searchterms").val() == "") {
+                    alert('Please enter some search keyword');
+                    $("#small-searchterms").focus();
+                    event.preventDefault();
+                }
+            });
+        </script>
+        
+            <script type="text/javascript">
+                $(document).ready(function() {
+                    $('#small-searchterms').autocomplete({
+                            delay: 500,
+                            minLength: 3,
+                            source: '/catalog/searchtermautocomplete',
+                            appendTo: '.search-box',
+                            select: function(event, ui) {
+                                $("#small-searchterms").val(ui.item.label);
+                                setLocation(ui.item.producturl);
+                                return false;
+                            }
+                        })
+                        .data("ui-autocomplete")._renderItem = function(ul, item) {
+                            var t = item.label;
+                            //html encode
+                            t = htmlEncode(t);
+                            return $("<li></li>")
+                                .data("item.autocomplete", item)
+                                .append("<a><span>" + t + "</span></a>")
+                                .appendTo(ul);
+                        };
+                });
+            </script>
+        
+</form>
+</div>
+            <div class="header-links-wrapper">
+                    <!--<div class="mobilehideshow2">
+    <div class="mobilemenudroptitle">cbd -</div>
+    <div class="mobilemenudropcontent">
+        <a href="/cbd-your-health">cbd</a>
+        <br />
+        <a href="/herbal-vaporizer">herbal vaporizer</a>
+        <br />
+        <a href="/best-herbal-vaporizer">best herbal vaporizer</a>
+        <br />
+        <a href="/cbd-hemp-oil-vape">cbd hemp oil vape</a>
+        <br />
+        <a href="/hemp-oil-versus-cbd-oil">hemp oil versus cbd oil</a>
+        <br />
+        <a href="/hemp-oil-uk">hemp oil uk</a>
+        <br />
+        <a href="/cbd-vape-oil">cbd vape oil</a>
+        <br />
+        <a href="/cbd-vaping-experience">cbd vaping experience </a>
+        <br />
+        <a href="/cbd-oil-for-vape-pen">cbd oil for vape pen</a>
+        <br />
+        <a href="/cbd-vape-juice">cbd vape juice</a>
+        <br />
+        <a href="/vape-shops-near-me">vape shops near me</a>
+        <br />
+        <a href="/cbd-oil-for-vape-pen">cbd oil for vape pen</a>
+        <br />
+        <a href="/cbd-vape-oil-for-sale">cbd vape oil for sale</a>
+        <br />
+        <a href="/cannabis-e-liquid">cannabis e liquid</a>
+        <br />
+        <a href="/buy-cannabis-oil-online">buy cannabis oil online</a>
+        <br />
+        <a href="/cannabis-oil-for-sale">cannabis oil for sale</a>
+        <br />
+        <a href="/thc-e-liquid">thc e liquid for sale</a>
+        <br />
+        <a href="/cannabis-vaporizer-uk">cannabis vaporizer uk</a>
+        <br />
+        <a href="/cannabis-flavoured-e-liquid">cannabis flavoured e liquid</a>
+        <br />
+        <a href="/best-weed-vaporizer-uk">best weed vaporizer uk</a>
+        <br />
+        <a href="/cannabis-e-cig">cannabis e cig</a>
+        <br />
+        <a href="/weed-e-liquid">weed e liquid</a>
+        <br />
+        <a href="/cbd-e-liquid">cbd e liquid</a>
+        <br />
+        <a href="/cbd-e-liquid-for-sale">cbd e liquid for sale</a>
+        <br />
+        <a href="/vg-e-liquid">vg e liquid</a>
+        <br />
+        <a href="/alternative-to-alcohol-to-relax">alternative to alcohol to relax</a>
+        <br />
+        <a href="/cannabidiol-uk">cannabidiol uk</a>
+        <br />
+        <a href="/cbd-medical-abbreviation">cbd medical abbreviation</a>
+        <br />
+        <a href="/cannabidiol-and-anxiety">cannabidiol and anxiety</a>
+        <br />
+        <a href="/vaporizer-pen">vaporizer pen</a>
+        <br />
+        <a href="/cbd-vape-pen">cbd vape pen</a>
+        <br />
+        <a href="/cbd-inhaler">cbd inhaler</a>
+        <br />
+        <a href="/cbd-vapour">cbd vapour</a>
+        <br />
+        <a href="/cannabis-vaporizer">cannabis vaporizer</a>
+        <br />
+        <a href="/cbd-vaporizer-uk">cbd vaporizer uk</a>
+        <br />
+        <a href="/do-vapor-pens-have-nicotine-in-them">do vapour pens have nicotine in them?</a>
+        <br />
+        <a href="/cbd-oil-uk">cbd oil uk</a>
+        <br />
+        <a href="/does-cbd-get-you-high">does cbd get you high</a>
+        <br />
+        <a href="/cannabis-oil-uk">cannabis oil uk</a>
+        <br />
+        <a href="/cbd-oil-for-vaporizer">cbd oil for vaporizer</a>
+        <br />
+        <a href="/cbd-oil-for-anxiety">cbd oil for anxiety</a>
+        <br />
+        <a href="/cbd-gold">cbd gold</a>
+        <br />
+        <a href="/liquid-gold-cbd">liquid gold cbd</a>
+    </div>
+</div>-->
+<div class="header-links">
+    <ul>
+        
+	<!--<li class="cartlink"><a href="/blog">blog</a></li>-->
+        <li><a href="/about-us">about má</a></li>
+	<li><a href="/faqs">faqs</a></li>
+	<li><a href="/blog">blog</a></li>
+	<li><a href="/cbd-vaping-guide">CBD vaping guide</a></li>
+	<li><a href="/thc-e-liquid">THC E Liquid</a></li>
+        <!--<li class="cartlink">
+            <div class="mobileshow2">cbd +</div>
+        </li>-->
+            <!--<li class="altstore"><a href="http://www.ma-time.com/index.aspx?country=US" class="ico-logout">u.s.a. store</a></li>-->
+            <li><a href="/register" class="ico-register">Register</a></li>
+            <li><a href="/login" class="ico-login">Log in</a></li>
+        <li class="cartlink"><a href="/cart">shopping basket</a></li>
+        <li class="cartlink"><a href="/contact-us">contact</a></li>
+        <li class="cartlink"><br /><br /><br /><br /></li>
+    </ul>
+</div>
+<div class="cart-links">
+    <ul>
+            <li id="topcartlink">
+                <a href="/cart" class="ico-cart">
+                    <span class="wishlist-qty">(0)</span>
+                </a>
+            </li>
+                    <li>
+                <a href="/wishlist" class="ico-wishlist">
+                    <span class="wishlist-label"><img src="/Themes/matime/Content/Images/fav.png"></span>
+                </a>
+            </li>
+        
+    </ul>
+            <script type="text/javascript">
+            $(document).ready(function () {
+                $('.header').on('mouseenter', '#topcartlink', function () {
+                    $('#flyout-cart').addClass('active');
+                });
+                $('.header').on('mouseleave', '#topcartlink', function () {
+                    $('#flyout-cart').removeClass('active');
+                });
+                $('.header').on('mouseenter', '#flyout-cart', function () {
+                    $('#flyout-cart').addClass('active');
+                });
+                $('.header').on('mouseleave', '#flyout-cart', function () {
+                    $('#flyout-cart').removeClass('active');
+                });
+            });
+        </script>
+</div>
+
+                <div id="flyout-cart" class="flyout-cart">
+    <div class="mini-shopping-cart">
+        <div class="count">
+You have no items in your shopping cart.        </div>
+    </div>
+</div>
+
+            </div>
+        </div>
+        <div class="header-lower">
+            <div class="header-logo">
+                <a href="/">
+                    <img title="" alt="CBD Globe Distributors Ltd" src="/Themes/MaTime/Content/images/logo.png">
+                    <div>relaxation<span class="linebreakontablet"><br /></span> reinvented&nbsp;&nbsp;&nbsp;&nbsp;</div>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div class="header-menu-wrapper">
+        <div class="header-menu">
+            
+
+<ul class="top-menu">
+    <li><a href="/">home</a></li>
+    
+
+            <li><a href="/premium-cbd-e-liquid">cbd e liquid</a></li>
+        <li><a href="/starter">CBD vape starter pack</a></li>
+        <li><a href="/chill">Chill CBD vape oil refill</a></li>
+        <li><a href="/karma">karma CBD pen</a></li>
+            <!--<li><a href="/blog">blog</a></li>-->
+
+    <!--<li class="dropdown">
+        <a href="/cbd-your-health">cbd</a>
+        <div class="dropdown-content">
+            <a class="dropdownmaster" href="/cbd-your-health">cbd</a>            
+            <a class="nodrop" href="/cbd-your-health">cbd health</a>
+	    <br />
+	    <br />
+	    <a class="nodrop" href="/cbd-e-liquid-uk">uk cbd e liquid</a>
+            <br /><br />
+            <div class="dropsub">
+                <a class="submainlink" href="/herbal-vaporizer">herbal vaporizer</a>
+            </div>
+            <div class="menusub">
+                <a href="/best-herbal-vaporizer">best herbal vaporizer</a>
+                <br />
+                <a href="/cbd-hemp-oil-vape">cbd hemp oil vape</a>
+                <br />
+                <a href="/hemp-oil-versus-cbd-oil">hemp oil versus cbd oil</a>
+                <br />
+                <a href="/hemp-oil-uk">hemp oil uk</a>
+            </div>
+            <br />
+
+            <div class="dropsub">
+                <a class="submainlink" href="/cbd-vape-oil">cbd vape oil</a>
+            </div>
+            <div class="menusub">
+                <a href="/cbd-vaping-experience">cbd vaping experience </a>
+                <br />
+                <a href="/cbd-oil-for-vape-pen">cbd oil for vape pen</a>
+                <br />
+                <a href="/cbd-vape-juice">cbd vape juice</a>
+                <br />
+                <a href="/vape-shops-near-me">vape shops near me</a>
+                <br />
+                <a href="/cbd-oil-for-vape-pen">cbd oil for vape pen</a>
+                <br />
+                <a href="/cbd-vape-oil-for-sale">cbd vape oil for sale</a>
+            </div>
+            <br />
+
+            <div class="dropsub">
+                <a class="submainlink" href="/cannabis-e-liquid">cannabis e liquid</a>
+            </div>
+            <div class="menusub">
+                <a href="/buy-cannabis-oil-online">buy cannabis oil online</a>
+                <br />
+                <a href="/cannabis-oil-for-sale">cannabis oil for sale</a>
+                <br />
+                <a href="/thc-e-liquid">thc e liquid for sale</a>
+                <br />
+                <a href="/cannabis-vaporizer-uk">cannabis vaporizer uk</a>
+                <br />
+                <a href="/cannabis-flavoured-e-liquid">cannabis flavoured e liquid</a>
+                <br />
+                <a href="/best-weed-vaporizer-uk">best weed vaporizer uk</a>
+                <br />
+                <a href="/cannabis-e-cig">cannabis e cig</a>
+                <br />
+                <a href="/weed-e-liquid">weed e liquid</a>
+            </div>
+            <br />
+
+            <div class="dropsub">
+                <a class="submainlink" href="/cbd-e-liquid">cbd e liquid</a>
+            </div>
+            <div class="menusub">
+                <a href="/cbd-e-liquid-for-sale">cbd e liquid for sale</a>
+                <br />
+                <a href="/vg-e-liquid">vg e liquid</a>
+                <br />
+                <a href="/alternative-to-alcohol-to-relax">alternative to alcohol to relax</a>
+            </div>
+            <br />
+
+            <div class="dropsub">
+                <a class="submainlink" href="/cannabidiol-uk">cannabidiol uk</a>
+            </div>
+            <div class="menusub">
+                <a href="/cbd-medical-abbreviation">cbd medical abbreviation</a>
+                <br />
+                <a href="/cannabidiol-and-anxiety">cannabidiol and anxiety</a>
+            </div>
+            <br />
+
+            <div class="dropsub">
+                <a class="submainlink" href="/vaporizer-pen">vaporizer pen</a>
+            </div>
+            <div class="menusub">
+                <a href="http://uk.ma-time.com/cbd-vape-pen">cbd vape pen</a>
+                <br />
+                <a href="/cbd-inhaler">cbd inhaler</a>
+                <br />
+                <a href="/cbd-vapour">cbd vapour </a>
+                <br />
+                <a href="/cannabis-vaporizer">cannabis vaporizer</a>
+                <br />
+                <a href="/cbd-vaporizer-uk">cbd vaporizer uk</a>
+                <br />
+                <a href="/do-vapor-pens-have-nicotine-in-them">do vapour pens have nicotine in them?</a>
+            </div>
+            <br />
+
+            <div class="dropsub">
+                <a class="submainlink" href="/cbd-oil-uk">cbd oil uk</a>
+            </div>
+            <div class="menusub">
+                <a href="/does-cbd-get-you-high">does cbd get you high</a>
+                <br />
+                <a href="/cannabis-oil-uk">cannabis oil uk</a>
+                <br />
+                <a href="/cbd-oil-for-vaporizer">cbd oil for vaporizer</a>
+                <br />
+                <a href="/cbd-oil-for-anxiety">cbd oil for anxiety</a>
+            </div>
+            <br />
+
+            <div class="dropsub">
+                <a class="submainlink" href="/cbd-gold">cbd gold</a>
+            </div>
+            <div class="menusub">
+                <a href="/liquid-gold-cbd">liquid gold cbd</a>
+            </div>
+        </div>
+    </li>-->
+    
+</ul>
+
+    <div class="menu-toggle">Menu</div>
+    <ul class="top-menu mobile">
+        
+                    <li><a href="/premium-cbd-e-liquid">cbd e liquid</a></li>
+            <li><a href="/starter">CBD vape starter pack</a></li>
+            <li><a href="/chill">Chill CBD vape oil refill</a></li>
+            <li><a href="/karma">karma CBD pen</a></li>
+                
+            <!--<div class="mobilehideshow2">
+    <div class="mobilemenudroptitle">cbd -</div>
+    <div class="mobilemenudropcontent">
+        <a href="/cbd-your-health">cbd</a>
+        <br />
+        <a href="/herbal-vaporizer">herbal vaporizer</a>
+        <br />
+        <a href="/best-herbal-vaporizer">best herbal vaporizer</a>
+        <br />
+        <a href="/cbd-hemp-oil-vape">cbd hemp oil vape</a>
+        <br />
+        <a href="/hemp-oil-versus-cbd-oil">hemp oil versus cbd oil</a>
+        <br />
+        <a href="/hemp-oil-uk">hemp oil uk</a>
+        <br />
+        <a href="/cbd-vape-oil">cbd vape oil</a>
+        <br />
+        <a href="/cbd-vaping-experience">cbd vaping experience </a>
+        <br />
+        <a href="/cbd-oil-for-vape-pen">cbd oil for vape pen</a>
+        <br />
+        <a href="/cbd-vape-juice">cbd vape juice</a>
+        <br />
+        <a href="/vape-shops-near-me">vape shops near me</a>
+        <br />
+        <a href="/cbd-oil-for-vape-pen">cbd oil for vape pen</a>
+        <br />
+        <a href="/cbd-vape-oil-for-sale">cbd vape oil for sale</a>
+        <br />
+        <a href="/cannabis-e-liquid">cannabis e liquid</a>
+        <br />
+        <a href="/buy-cannabis-oil-online">buy cannabis oil online</a>
+        <br />
+        <a href="/cannabis-oil-for-sale">cannabis oil for sale</a>
+        <br />
+        <a href="/thc-e-liquid">thc e liquid for sale</a>
+        <br />
+        <a href="/cannabis-vaporizer-uk">cannabis vaporizer uk</a>
+        <br />
+        <a href="/cannabis-flavoured-e-liquid">cannabis flavoured e liquid</a>
+        <br />
+        <a href="/best-weed-vaporizer-uk">best weed vaporizer uk</a>
+        <br />
+        <a href="/cannabis-e-cig">cannabis e cig</a>
+        <br />
+        <a href="/weed-e-liquid">weed e liquid</a>
+        <br />
+        <a href="/cbd-e-liquid">cbd e liquid</a>
+        <br />
+        <a href="/cbd-e-liquid-for-sale">cbd e liquid for sale</a>
+        <br />
+        <a href="/vg-e-liquid">vg e liquid</a>
+        <br />
+        <a href="/alternative-to-alcohol-to-relax">alternative to alcohol to relax</a>
+        <br />
+        <a href="/cannabidiol-uk">cannabidiol uk</a>
+        <br />
+        <a href="/cbd-medical-abbreviation">cbd medical abbreviation</a>
+        <br />
+        <a href="/cannabidiol-and-anxiety">cannabidiol and anxiety</a>
+        <br />
+        <a href="/vaporizer-pen">vaporizer pen</a>
+        <br />
+        <a href="/cbd-vape-pen">cbd vape pen</a>
+        <br />
+        <a href="/cbd-inhaler">cbd inhaler</a>
+        <br />
+        <a href="/cbd-vapour">cbd vapour</a>
+        <br />
+        <a href="/cannabis-vaporizer">cannabis vaporizer</a>
+        <br />
+        <a href="/cbd-vaporizer-uk">cbd vaporizer uk</a>
+        <br />
+        <a href="/do-vapor-pens-have-nicotine-in-them">do vapour pens have nicotine in them?</a>
+        <br />
+        <a href="/cbd-oil-uk">cbd oil uk</a>
+        <br />
+        <a href="/does-cbd-get-you-high">does cbd get you high</a>
+        <br />
+        <a href="/cannabis-oil-uk">cannabis oil uk</a>
+        <br />
+        <a href="/cbd-oil-for-vaporizer">cbd oil for vaporizer</a>
+        <br />
+        <a href="/cbd-oil-for-anxiety">cbd oil for anxiety</a>
+        <br />
+        <a href="/cbd-gold">cbd gold</a>
+        <br />
+        <a href="/liquid-gold-cbd">liquid gold cbd</a>
+    </div>
+</div>-->
+<div class="header-links">
+    <ul>
+        
+	<!--<li class="cartlink"><a href="/blog">blog</a></li>-->
+        <li><a href="/about-us">about má</a></li>
+	<li><a href="/faqs">faqs</a></li>
+	<li><a href="/blog">blog</a></li>
+	<li><a href="/cbd-vaping-guide">CBD vaping guide</a></li>
+	<li><a href="/thc-e-liquid">THC E Liquid</a></li>
+        <!--<li class="cartlink">
+            <div class="mobileshow2">cbd +</div>
+        </li>-->
+            <!--<li class="altstore"><a href="http://www.ma-time.com/index.aspx?country=US" class="ico-logout">u.s.a. store</a></li>-->
+            <li><a href="/register" class="ico-register">Register</a></li>
+            <li><a href="/login" class="ico-login">Log in</a></li>
+        <li class="cartlink"><a href="/cart">shopping basket</a></li>
+        <li class="cartlink"><a href="/contact-us">contact</a></li>
+        <li class="cartlink"><br /><br /><br /><br /></li>
+    </ul>
+</div>
+<div class="cart-links">
+    <ul>
+            <li id="topcartlink">
+                <a href="/cart" class="ico-cart">
+                    <span class="wishlist-qty">(0)</span>
+                </a>
+            </li>
+                    <li>
+                <a href="/wishlist" class="ico-wishlist">
+                    <span class="wishlist-label"><img src="/Themes/matime/Content/Images/fav.png"></span>
+                </a>
+            </li>
+        
+    </ul>
+            <script type="text/javascript">
+            $(document).ready(function () {
+                $('.header').on('mouseenter', '#topcartlink', function () {
+                    $('#flyout-cart').addClass('active');
+                });
+                $('.header').on('mouseleave', '#topcartlink', function () {
+                    $('#flyout-cart').removeClass('active');
+                });
+                $('.header').on('mouseenter', '#flyout-cart', function () {
+                    $('#flyout-cart').addClass('active');
+                });
+                $('.header').on('mouseleave', '#flyout-cart', function () {
+                    $('#flyout-cart').removeClass('active');
+                });
+            });
+        </script>
+</div>
+
+    </ul>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('.menu-toggle').click(function () {
+                $(this).siblings('.top-menu.mobile').slideToggle('slow');
+            });
+            $('.top-menu.mobile .sublist-toggle').click(function () {
+                $(this).siblings('.sublist').slideToggle('slow');
+            });
+        });
+    </script>
+
+
+
+
+
+            <script type="text/javascript">
+                AjaxCart.init(false, '.header-links .cart-qty', '.header-links .wishlist-qty', '#flyout-cart');
+            </script>
+        </div>
+    </div>
+    <div class="master-wrapper-content">
+        
+
+        <div class="master-column-wrapper">
+            
+
+<div class="blog-wrapper">
+    <div class="side-2-blog">
+<div class="newsletter">
+    <div class="title">
+        <strong>get má news</strong>
+    </div>
+    <div class="newsletter-subscribe" id="newsletter-subscribe-block">
+        <div>
+            <input class="discount-coupon-code" id="newsletter-email" name="NewsletterEmail" placeholder="Enter your email here..." type="text" value="" />
+            <input type="button" value="Send" id="newsletter-subscribe-button" class="button-1 madiv_button gold" />
+        </div>
+        <div class="newsletter-validation">
+            <span id="subscribe-loading-progress" style="display: none;" class="please-wait">Wait...</span>
+            <span class="field-validation-valid" data-valmsg-for="NewsletterEmail" data-valmsg-replace="true"></span>
+        </div>
+    </div>
+    <div class="newsletter-result" id="newsletter-result-block"></div>
+    <script type="text/javascript">
+        function newsletter_subscribe(subscribe) {
+            var email = $("#newsletter-email").val();
+            var subscribeProgress = $("#subscribe-loading-progress");
+            subscribeProgress.show();
+            $.ajax({
+                cache: false,
+                type: "POST",
+                url: "/subscribenewsletter",
+                data: { "subscribe": subscribe, "email": email },
+                success: function(data) {
+                    subscribeProgress.hide();
+                    $("#newsletter-result-block").html(data.Result);
+                    if (data.Success) {
+                        $('#newsletter-subscribe-block').hide();
+                        $('#newsletter-result-block').show();
+                    } else {
+                        $('#newsletter-result-block').fadeIn("slow").delay(2000).fadeOut("slow");
+                    }
+                },
+                error: function(xhr, ajaxOptions, thrownError) {
+                    alert('Failed to subscribe.');
+                    subscribeProgress.hide();
+                }
+            });
+        }
+
+        $(document).ready(function () {
+            $('#newsletter-subscribe-button').click(function () {
+                    newsletter_subscribe('true');
+            });
+            $("#newsletter-email").keydown(function (event) {
+                if (event.keyCode == 13) {
+                    $("#newsletter-subscribe-button").click();
+                    return false;
+                }
+            });
+        });
+    </script>
+</div>
+	    <br />
+
+        <div class="block block-blog-archive">
+        <div class="title">
+            <strong>Latest Blogs</strong>
+        </div>
+        <div class="listbox">
+            <ul class="list" id="blog-month-list">
+                    <li class="year">
+                        <strong class="number">2016</strong>
+                        <ul class="sublist" id="blog-year-2016">
+                                <li class="month">
+                                    <a href="/blog/month/2016-8">August
+                                    (2)</a>
+                                </li>
+                                <li class="month">
+                                    <a href="/blog/month/2016-9">September
+                                    (1)</a>
+                                </li>
+                                <li class="month">
+                                    <a href="/blog/month/2016-10">October
+                                    (1)</a>
+                                </li>
+                        </ul>
+                    </li>
+                    <li class="year">
+                        <strong class="number">2017</strong>
+                        <ul class="sublist" id="blog-year-2017">
+                                <li class="month">
+                                    <a href="/blog/month/2017-2">February
+                                    (1)</a>
+                                </li>
+                                <li class="month">
+                                    <a href="/blog/month/2017-3">March
+                                    (6)</a>
+                                </li>
+                                <li class="month">
+                                    <a href="/blog/month/2017-4">April
+                                    (2)</a>
+                                </li>
+                                <li class="month">
+                                    <a href="/blog/month/2017-5">May
+                                    (3)</a>
+                                </li>
+                                <li class="month">
+                                    <a href="/blog/month/2017-6">June
+                                    (2)</a>
+                                </li>
+                                <li class="month">
+                                    <a href="/blog/month/2017-7">July
+                                    (2)</a>
+                                </li>
+                                <li class="month">
+                                    <a href="/blog/month/2017-8">August
+                                    (7)</a>
+                                </li>
+                                <li class="month">
+                                    <a href="/blog/month/2017-10">October
+                                    (1)</a>
+                                </li>
+                                <li class="month">
+                                    <a href="/blog/month/2017-11">November
+                                    (2)</a>
+                                </li>
+                                <li class="month">
+                                    <a href="/blog/month/2017-12">December
+                                    (2)</a>
+                                </li>
+                        </ul>
+                    </li>
+                    <li class="year">
+                        <strong class="number">2018</strong>
+                        <ul class="sublist" id="blog-year-2018">
+                                <li class="month">
+                                    <a href="/blog/month/2018-1">January
+                                    (2)</a>
+                                </li>
+                                <li class="month">
+                                    <a href="/blog/month/2018-2">February
+                                    (2)</a>
+                                </li>
+                                <li class="month">
+                                    <a href="/blog/month/2018-3">March
+                                    (4)</a>
+                                </li>
+                        </ul>
+                    </li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="block block-popular-blogtags">
+        <div class="title">
+            <strong>Popular blog tags</strong>
+        </div>
+        <div class="listbox">
+            <ul class="tags">
+                    <li><a href="/blog/tag/are%20e-cigarettes%20safe" style="font-size:90%;">are e-cigarettes safe</a>
+                    </li>
+                    <li><a href="/blog/tag/cbd%20oils" style="font-size:90%;">cbd oils</a>
+                    </li>
+                    <li><a href="/blog/tag/e-cigarette" style="font-size:90%;">e-cigarette</a>
+                    </li>
+                    <li><a href="/blog/tag/science" style="font-size:90%;">science</a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+
+    </div>
+    <div class="center-2-blog">
+        
+        
+<div class="page blogpost-page">
+    <div class="page-title">
+        <h1>Alex Cole MSP admits using cannabis  </h1>
+    </div>
+    <div class="page-body">
+        <div class="post-date">
+            22 March 2018
+        </div>
+        
+        <div class="post-body">
+            <h1 dir="ltr"><span>Scottish Liberal Democrat health spokesperson admits to using cannabis&nbsp;as he pledges support for a five-year-old child to be prescribed CBD oil on the NHS.</span></h1>
+<p dir="ltr"><span><img src="/Content/Images/uploaded/alex cole 3.jpg" alt="" width="100%" /><br /></span></p>
+<h2 dir="ltr"><span>Let's give this guy a medal already!</span></h2>
+<p dir="ltr"><span>A member of the Scottish Parliament has pledged his support to the mother of a child suffering from </span><span>Myoclonic-Astatic Epilepsy (MAE).</span></p>
+<p dir="ltr"><span>MSP Alex Cole admitted to using cannabis himself whilst pledging support for Karen Gray, the mother of a five-year-old&nbsp;child currently in hospital being treated for epilepsy.</span></p>
+<p dir="ltr"><span>Karen Gray, from East Craigs, Edinburgh, &nbsp;has launched a petition for Cannabidiol (CBD) oil to be prescribed to her son Murray in the hope it will to reduce the &ldquo;nightmare&rdquo; seizures that the brave youngster has to endure. &nbsp;Her son was admitted to the Royal hospital for sick children in December after he suffered 12 seizures. He is currently still in hospital where doctors are prescribing him a range of pharmaceutical medications whilst attempting to control his spasms.</span></p>
+<p dir="ltr"><span>&nbsp;</span></p>
+<p dir="ltr"><span>She said: &ldquo;We&rsquo;re grateful to Alex and to everyone else for their support. It&rsquo;s a nightmare just watching him, you can&rsquo;t do anything and you feel totally helpless. It is ridiculous the CBD oil is not available on the NHS. We have tried other methods that haven&rsquo;t worked on Murray. We know that this definitely helps him so we should be able to use it. That is the most frustrating part.&rdquo;</span></p>
+<p dir="ltr"><span>&nbsp;</span></p>
+<p dir="ltr"><span>The MSP &nbsp;admitted that he personally used marijuana in his university days although he said it just made him feel sleepy.</span></p>
+<p dir="ltr"><span>&nbsp;</span></p>
+<p dir="ltr"><span>The Edinburgh MSP said: &ldquo;Full disclosure, I used it in my student days, but cannabis only ever made me sleepy and a bit queasy so it&rsquo;s not my cup of tea&rdquo;</span></p>
+<p dir="ltr"><span>&nbsp;</span></p>
+<p dir="ltr"><span>Sponsored by HM Government &ldquo;Access to these treatments would make a huge difference to the quality of life of kids like Murray. Any parent would want to make sure their child&rsquo;s life is as pain-free as possible and it&rsquo;s heartbreaking that under the laws currently in place, the NHS is not able to support patients who would benefit from the use of CBD oil. Many patients could benefit from such treatments if they had access to support from medical professionals in doing so.&rdquo; he said.</span></p>
+<p dir="ltr"><span><br /><br /></span></p>
+<p dir="ltr"><span>The case is similar to that of </span><span style="text-decoration: underline;"><strong><a href="https://uk.ma-time.com/riddle-me-this-alfie-dingley">Alfie Dingley</a></strong></span><span> whose parents yesterday delivered a petition to Downing Street calling for their son to have access to medical marijuana to help with his severe seizures.</span></p>
+<p dir="ltr"><span>Alfie&nbsp;illness prompted his parents to take him to the Netherlands to receive treatment with cannabis oil.&nbsp; Whilst receiving the treatment, Alfie's seizures reduced from 150 per month to one.</span></p>
+<p dir="ltr"><span><br /><br /><br /></span></p>
+<p dir="ltr"><span>Read more <g class="gr_ gr_37 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-del replaceWithoutSep" id="37" data-gr-id="37">at:</g> <a href="https://www.scotsman.com/news/politics/lib-dems-alex-cole-hamilton-admits-to-cannabis-use-at-university-1-4710398">https://www.scotsman.com/news/politics/lib-dems-alex-cole-hamilton-admits-to-cannabis-use-at-university-1-4710398</a></span></p>
+<p dir="ltr"><a href="https://www.scotsman.com/news/politics/lib-dems-alex-cole-hamilton-admits-to-cannabis-use-at-university-1-4710398"><span id="docs-internal-guid-98fb3094-4d74-106e-fcd9-55d3232b5481">&nbsp;</span></a></p>
+<p><span>&nbsp;</span></p>
+<p></p>
+        </div>
+        
+            <div class="fieldset new-comment">
+                <div class="title">
+                    <strong>Leave a comment</strong>
+                </div>
+
+                <div class="notifications">
+                    
+
+                </div>
+<form action="/alex-cole-msp-admits-using-cannabis" method="post">                    <div class="form-fields">
+                        <div class="inputs">
+                            <label for="AddNewComment_CommentText">Comment:</label>
+                            <textarea class="enter-comment-text" cols="20" id="AddNewComment_CommentText" name="AddNewComment.CommentText" rows="2">
+</textarea>
+                            <span class="field-validation-valid" data-valmsg-for="AddNewComment.CommentText" data-valmsg-replace="true"></span>
+                        </div>
+                    </div>
+                    <div class="buttons">
+                        <input type="submit" name="add-comment" class="button-1 blog-post-add-comment-button" value="submit comment" />
+                    </div>
+</form>            </div>
+        
+    </div>
+</div>
+
+        
+    </div>
+</div>
+
+        </div>
+        
+    </div>
+    <div class="footer">
+    <div class="footer-block follow-us-social">
+        <a href="http://www.facebook.com/its.ma.time"><img src="/Themes/MaTime/Content/images/facebookiconsquare.png" /></a>
+        <a href="https://www.instagram.com/Ma_Time_"><img src="/Themes/MaTime/Content/images/instagramiconsquare.png" /></a>
+        <a href="https://twitter.com/ma_time_"><img src="/Themes/MaTime/Content/images/twittericonsquare.png" /></a>
+        <a href="https://uk.ma-time.com/contact-us"><img src="/Themes/MaTime/Content/images/emailiconsquare.png" /></a>
+    </div>
+    <div class="footer-upper">
+
+        <div class="footer-block information">
+            <ul class="list">
+                    <li><a href="/contact-us">Contact Us</a></li>
+                    <li><a href="/press-enquiries">Press Enquiries</a></li>
+            </ul>
+        </div>
+        
+        
+        <div class="footer-block follow-us">
+            <div class="social">
+                <div class="title">
+                    <strong>Follow us:</strong>
+                </div>
+                <ul class="networks">
+                        <li class="facebook"><a href="http://www.facebook.com/its.ma.time" target="_blank">Facebook</a></li>
+                                            <li class="youtube"><a href="https://www.instagram.com/Ma_Time_" target="_blank">instagram</a></li>
+                                            <li class="twitter"><a href="https://twitter.com/ma_time_" target="_blank">Twitter</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-block my-account">
+            <ul class="list">
+                <li><a href="/customer/info" class="account">My account</a></li>
+                    <li><a href="/order/history">Orders</a></li>
+                                    <li><a href="/customer/addresses" class="">Addresses</a></li>
+            </ul>
+        </div>
+        <div class="footer-block distribution-list">
+            <!--<div class="title">
+                <strong>distributed by: <a target="_blank" href="http://www.cbdglobe.com/">cbd globe</a></strong>
+            </div>
+	    <br />-->
+            <div class="newsletter">
+    <div class="title">
+        <strong>get má news</strong>
+    </div>
+    <div class="newsletter-subscribe" id="newsletter-subscribe-block">
+        <div>
+            <input class="discount-coupon-code" id="newsletter-email" name="NewsletterEmail" placeholder="Enter your email here..." type="text" value="" />
+            <input type="button" value="Send" id="newsletter-subscribe-button" class="button-1 madiv_button gold" />
+        </div>
+        <div class="newsletter-validation">
+            <span id="subscribe-loading-progress" style="display: none;" class="please-wait">Wait...</span>
+            <span class="field-validation-valid" data-valmsg-for="NewsletterEmail" data-valmsg-replace="true"></span>
+        </div>
+    </div>
+    <div class="newsletter-result" id="newsletter-result-block"></div>
+    <script type="text/javascript">
+        function newsletter_subscribe(subscribe) {
+            var email = $("#newsletter-email").val();
+            var subscribeProgress = $("#subscribe-loading-progress");
+            subscribeProgress.show();
+            $.ajax({
+                cache: false,
+                type: "POST",
+                url: "/subscribenewsletter",
+                data: { "subscribe": subscribe, "email": email },
+                success: function(data) {
+                    subscribeProgress.hide();
+                    $("#newsletter-result-block").html(data.Result);
+                    if (data.Success) {
+                        $('#newsletter-subscribe-block').hide();
+                        $('#newsletter-result-block').show();
+                    } else {
+                        $('#newsletter-result-block').fadeIn("slow").delay(2000).fadeOut("slow");
+                    }
+                },
+                error: function(xhr, ajaxOptions, thrownError) {
+                    alert('Failed to subscribe.');
+                    subscribeProgress.hide();
+                }
+            });
+        }
+
+        $(document).ready(function () {
+            $('#newsletter-subscribe-button').click(function () {
+                    newsletter_subscribe('true');
+            });
+            $("#newsletter-email").keydown(function (event) {
+                if (event.keyCode == 13) {
+                    $("#newsletter-subscribe-button").click();
+                    return false;
+                }
+            });
+        });
+    </script>
+</div>
+
+            <div class="footer-block">
+              <a href="http://Cannabistrades.uk" target="_blank"><img src="/Themes/MaTime/Content/images/ukcta.png" /></a>
+            </div> 
+        </div>
+    </div>
+
+    <div class="footer-lower">
+        <!--<div class="footer-info">
+            <a href="/herbal-vaporizer">herbal vaporizer</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="/cbd-e-liquid">cbd vape oil</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="">cbd e liquid</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="">cbd vaping</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="">cbd oil uk</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="">cbd gold</a>
+        </div>-->
+        <div class="footer-powered-by">
+            <span class="footer-disclaimer">Copyright &copy; 2018 CBD Globe Distributors Ltd. All rights reserved.</span>
+        </div>
+    </div>
+    
+</div>
+<div class="popupfooter">
+    <div class="popupfooter-message">
+        <span style="cursor:pointer;" onclick="ClosePopup()">-[close]-</span><br />
+        <span class="pf-title">má launching 08.02.16</span><br />
+        Sign up here for launch and news from má
+
+        <div class="newsletter">
+    <div class="title">
+        <strong>get má news</strong>
+    </div>
+    <div class="newsletter-subscribe" id="newsletter-subscribe-block">
+        <div>
+            <input class="discount-coupon-code" id="newsletter-email" name="NewsletterEmail" placeholder="Enter your email here..." type="text" value="" />
+            <input type="button" value="Send" id="newsletter-subscribe-button" class="button-1 madiv_button gold" />
+        </div>
+        <div class="newsletter-validation">
+            <span id="subscribe-loading-progress" style="display: none;" class="please-wait">Wait...</span>
+            <span class="field-validation-valid" data-valmsg-for="NewsletterEmail" data-valmsg-replace="true"></span>
+        </div>
+    </div>
+    <div class="newsletter-result" id="newsletter-result-block"></div>
+    <script type="text/javascript">
+        function newsletter_subscribe(subscribe) {
+            var email = $("#newsletter-email").val();
+            var subscribeProgress = $("#subscribe-loading-progress");
+            subscribeProgress.show();
+            $.ajax({
+                cache: false,
+                type: "POST",
+                url: "/subscribenewsletter",
+                data: { "subscribe": subscribe, "email": email },
+                success: function(data) {
+                    subscribeProgress.hide();
+                    $("#newsletter-result-block").html(data.Result);
+                    if (data.Success) {
+                        $('#newsletter-subscribe-block').hide();
+                        $('#newsletter-result-block').show();
+                    } else {
+                        $('#newsletter-result-block').fadeIn("slow").delay(2000).fadeOut("slow");
+                    }
+                },
+                error: function(xhr, ajaxOptions, thrownError) {
+                    alert('Failed to subscribe.');
+                    subscribeProgress.hide();
+                }
+            });
+        }
+
+        $(document).ready(function () {
+            $('#newsletter-subscribe-button').click(function () {
+                    newsletter_subscribe('true');
+            });
+            $("#newsletter-email").keydown(function (event) {
+                if (event.keyCode == 13) {
+                    $("#newsletter-subscribe-button").click();
+                    return false;
+                }
+            });
+        });
+    </script>
+</div>
+
+    </div>
+    <div class="popupfooter-close"></div>
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-block .title').click(function () {
+            var e = window, a = 'inner';
+            if (!('innerWidth' in window)) {
+                a = 'client';
+                e = document.documentElement || document.body;
+            }
+
+            var result = { width: e[a + 'Width'], height: e[a + 'Height'] };
+
+            if (result.width < 769) {
+                $(this).siblings('.list').slideToggle('slow');
+            }
+        });
+    });
+</script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.block .title').click(function () {
+            var e = window, a = 'inner';
+            if (!('innerWidth' in window)) {
+                a = 'client';
+                e = document.documentElement || document.body;
+            }
+
+            var result = { width: e[a + 'Width'], height: e[a + 'Height'] };
+
+            if (result.width < 1001) {
+                $(this).siblings('.listbox').slideToggle('slow');
+            }
+        });
+    });
+</script>
+    <!--            <div id="VerifyAge"></div>
+        <div id="VerifyAgeMessage">
+            <img src="/Themes/MaTime/Content/images/ma.png" /><br />You must be 18 or older to access this store.<br />Please verify your age to continue.<br />
+            <div onclick="location.href = '?verify=true';">
+                Yes, I am 18+
+            </div>
+            <div onclick="location.href = 'http://www.google.co.uk/search?q=ma%20time';">
+                No, get me out of here
+            </div>
+        </div>
+-->
+</div>
+
+<!-- Google code for Analytics tracking -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-58850945-5']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+    
+    
+</body>
+</html>

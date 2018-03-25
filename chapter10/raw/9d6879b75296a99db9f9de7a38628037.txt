@@ -1,0 +1,199 @@
+<!doctype html>
+  <html amp lang="en">
+    <head>
+      <meta charset="utf-8">
+      <link rel="canonical" href="https://www.nst.com.my/news/crime-courts/2018/03/346126/legal-experts-outraged-over-slap-wrist-sentence-datin-who-severely">
+      <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet'>
+      <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+      <title>Legal experts outraged over slap-on-wrist sentence for Datin who severely abused maid</title>
+      <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+      <style amp-custom>
+        body {
+          font-family: Source Sans Pro;
+        }
+        #header{
+          background: #eee;
+          padding: 5px 21px;
+          border-bottom: solid 1px #ccc;
+          text-align: center;
+        }
+        #article-content{
+          padding:10px;
+        }
+        h2.node-title {
+          font-size: 2em;
+          font-weight: 900;
+          line-height: 1.15em;
+          margin-top: 0;
+        }
+        .node-published-date{
+          margin-bottom: 16px;
+          padding-bottom: 8px;
+          text-transform: uppercase;
+          color: #999;
+          font-size: 0.75em;
+        }
+        .article {
+          font-size: 17px;
+        }
+        #footer{
+          background-color: #333;
+          padding: 8px;
+          color: #eee;
+          text-transform: uppercase;
+          text-align: center;
+        }
+        a:active, a:focus, a:hover, a:link, a:visited {
+          color: #333333;
+          text-decoration: none;
+        }
+        #footer a{
+          color: #eee;
+        }
+        .carousel1, .carousel2 {
+          background: #eee;
+          margin: 16px 0;
+        }
+        .carousel1 .slide > amp-img > img{
+          object-fit: contain;
+        }
+        .carousel2 .slide > amp-img > img{
+          object-fit: contain;
+        }
+        .carousel2 .caption {
+          position: absolute;
+          bottom: 0;
+          left: 0;
+          right: 0;
+          padding: 8px;
+          background: rgba(0, 0, 0, 0.6);
+          color: #ddd;
+          font-size: smaller;
+          max-height: 30%;
+        }
+      </style>
+      <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+      <script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
+            <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+      <script async src="https://cdn.ampproject.org/v0.js"></script>
+      <script type="application/ld+json">
+      {
+       "@context": "http://schema.org",
+       "@type": "NewsArticle",
+       "mainEntityOfPage":{
+         "@type":"WebPage",
+         "@id":"https://www.nst.com.my/news/crime-courts/2018/03/346126/legal-experts-outraged-over-slap-wrist-sentence-datin-who-severely"
+       },
+       "headline": "Legal experts outraged over slap-on-wrist sentence for Datin who severely abused maid",
+              "image": {
+         "@type": "ImageObject",
+         "url": "https://assets.nst.com.my/images/articles/abused-1703_field_image_listing_featured.var_1521263267.jpg",
+         "height": "304",
+         "width": "620"
+       },
+              "datePublished": "2018-03-17T05:07:51Z",
+       "dateModified": "2018-03-17T05:07:51Z",
+                 "author":
+                        {
+                "@type": "Person",
+                "name": "FERNANDO FONG"
+              }
+            ,       "publisher": {
+         "@type": "Organization",
+         "name": "New Straits Times",
+         "logo": {
+           "@type": "ImageObject",
+           "url": "https://assets.nst.com.my/sites/all/themes/custom/nst_v2/logo.png",
+           "width": "703",
+           "height": "64"
+         }
+       },
+       "description": "<p>KUALA LUMPUR: Lawyers have expressed shock that a Datin found guilty of severely abusing her teenage maid has escaped a jail sentence.</p>
+"
+      }
+    </script>
+
+    <!--  chartbeat -->
+    <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+    <!--  chartbeat -->
+
+    </head>
+    <body>
+      <div id="header">
+        <a href="https://www.nst.com.my" title="Home" rel="home"><amp-img width="180" height="29" src="https://assets.nst.com.my/sites/all/themes/custom/nst_v2/logo.png"></amp-img></a>
+      </div>
+      <div id="article-content">
+      <h2 class="node-title">Legal experts outraged over slap-on-wrist sentence for Datin who severely abused maid</h2>
+      <small class="node-published-date">
+        March 17, 2018 @ 1:07PM        <!-- The authors of your article -->
+                <br />By
+                        <a>FERNANDO FONG</a>
+                        </small>
+
+       <!-- Body text for your article -->
+            <div class="article"><p>KUALA LUMPUR: Lawyers have expressed shock that a Datin found guilty of severely abusing her teenage maid has escaped a jail sentence.</p><p>Among them is attorney Ramkarpal Singh, who was quoted by an online news portal as saying that the sessions court may not have meted out the appropriate sentence to Rozita Mohamed Ali, who badly assaulted her Indonesian maid Suyanti Sutrinso, 19.</p><p>The Datin was instead sentenced to a good behaviour bond of RM20,000 for five years.</p><p>"The law no longer provides for a good behaviour bond in cases which involve serious offences, defined in the Penal Code as an offence punishable with imprisonment for a term of 10 years or more,” said Ramkarpal.</p><p>The Bukit Gelugor MP noted that Rozita was charged under Section 326, which falls into the category of ‘serious offence,’ and provides for imprisonment of up to 20 years.</p><p>Rozita was accused of grievously injuring her maid, causing multiple injuries, including to the eyes, hands, feet and internal organs.</p><p>The Datin allegedly used a kitchen knife, clothes hanger, mop handle and umbrella to inflict the injuries.</p><p>The crime allegedly took place at her home in Mutiara Damansara in Dec 2016.</p><p>Ramkarpal added that amendments to the Criminal Procedure Code (CPC) in 2016 expressly exclude the option of binding over a convicted person on a good behaviour bond under Sections 173A and 294 when the person is charged with a serious offence.</p><p>"The said amendments also do not expressly apply retrospectively and as such, were in force and applicable when Rozita was sentenced. Under the circumstances, it is clear that the learned sessions court judge acted out of jurisdiction in imposing the said sentence on Rozita, as Sections 173A and 294 of the CPC no longer allow him to do so," he said.</p><p>Ramkarpal added that the decision should be revised “immediately in the interests of justice” by the High Court, which could do so even without an application by any party.</p><p>Rozita pleaded guilty to this lesser charge before judge Mohammed Mokhzani Mokhtar.</p><p>Earlier, deputy public prosecutor VV Suloshani urged for an appropriate imprisonment sentence on the grounds that the case received widespread coverage by international and local media.</p><p>He added that the incident was also widespread on social media after a video clip was uploaded on Dec 21. The clip shows Suyanti lying severely injured in a drain at Mutiara Damansara, when she was found by a security guard.</p><p>"It tarnished the image of our country in the eyes of the world. It also affected the good relations between Indonesia and Malaysia.</p><p>"The case is also among the nine most tragic domestic maid abuse cases in the country, and only a jail term is appropriate for such a despicable act, which is becoming more rampant," he said.</p><p>Rozita's lawyer, Datuk Rosal Azimin Ahmad, applied for the good behaviour bond on the grounds that his client faced “heavy pressure and stress” after she was charged in court.</p></div>
+
+
+               <amp-carousel  class="carousel2" layout="responsive" height="400" width="500" type="slides">
+                                  <div class="slide">
+              <amp-img height="654" width="900" layout="responsive" src="https://assets.nst.com.my/images/articles/datin_rozita-1702_1521263262.jpg"></amp-img>
+                              <div class="caption">Among them is attorney Ramkarpal Singh, who was quoted by an online news portal as saying that the sessions court may not have meted out the appropriate sentence to Rozita Mohamed Ali, who badly assaulted her Indonesian maid Suyanti Sutrinso, 19. Pic by NSTP/ KHAIRUL AZHAR AHMAD</div>
+                          </div>
+                  </amp-carousel>
+      
+    </div>
+
+    <div id="footer" class="container">
+      <p class="text-center copyright"><small>&copy; 2018. New Straits Times Press (M) Berhad (4485-H). <br>All Rights Reserved.</small></p>
+    </div>
+
+    <!-- Get Article authors & sections -->
+                                            
+                                            
+    <amp-analytics type="googleanalytics" id="analytics1">
+      <script type="application/json">
+      {
+        "vars": {
+          "account": "UA-1357345-6"
+        },
+        "extraUrlParams": {
+          "cd30":"Legal experts outraged over slap-on-wrist sentence for Datin who severely abused maid",
+          "cd16":"crime & courts"
+        },
+        "triggers": {
+          "trackPageview": {
+            "on": "visible",
+            "request": "pageview"
+          }
+        }
+      }
+      </script>
+    </amp-analytics>
+
+    <amp-analytics type="cxense" id="analytics2">
+            <script type="application/json">
+      {
+        "vars": {
+          "siteId": "1139592462590015182"
+        }
+      }
+      </script>
+    </amp-analytics>
+
+    <!--  chartbeat start -->
+    <amp-analytics type="chartbeat" id="analytics3">
+        <script type="application/json">
+            {
+                "vars": {
+                    "uid": "65124",
+                    "domain": "nst.com.my",
+                    "sections": "crime & courts",
+                    "authors": "FERNANDO FONG"
+                }
+            }
+        </script>
+    </amp-analytics>
+    <!--  chartbeat end -->
+
+  </body>
+</html>

@@ -1,0 +1,493 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en-US" class="static detail-blog-post contents boxed-layout fixed-nav  ">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="robots" content="index, follow, archive" />
+    <title>UAWire - Russia launches large-scale military exercises on border with Ukraine</title>
+
+    <link href="/Themes/PJS.Bootstrap/Styles/site-journal.min.css" rel="stylesheet" type="text/css" />
+<link href="/Themes/PJS.Bootstrap/styles/zocial/zocial.css" rel="stylesheet" type="text/css" />
+<link href="/Themes/PJS.Bootstrap/Styles/jquery.social-buttons.css" rel="stylesheet" type="text/css" />
+<link href="/Themes/PJS.Bootstrap/Styles/responsive_bootstrap_modal_popup.css" rel="stylesheet" type="text/css" />
+<link href="/Themes/PJS.Bootstrap/Styles/overwrite.css" rel="stylesheet" type="text/css" />
+<!--[if lt IE 9]>
+<script src="/Core/Shapes/Scripts/html5.js" type="text/javascript"></script>
+<![endif]-->
+            
+                <meta content="Russia launches large-scale military exercises on border with Ukraine" name="ogtitle" property="og:title" />
+
+            
+            <meta content="article" name="ogtype" property="og:type" />
+            <meta content="http://www.uawire.org/russia-launches-large-scale-military-exercises-on-border-with-ukraine" name="ogurl" property="og:url" />
+            <meta content="uawire.org" name="ogsitename" property="og:site_name" />
+            <meta content="http://www.uawire.org/Media/Default/Images/artillery.jpg" name="ogimg" property="og:image" />
+            <meta content="On Monday, March 19, in various areas of Russia, and also in the annexed Crimea, large-scale artillery exercises of the Armed Forces of the Russian Federation began, reported the press service of the Southern Military District of Russia.
+About 8,000 servicemen and nearly 1,400 pieces of military equipment are involved in the maneuvers, among them the Tornado, Grad and Uragan multiple launch&amp;#160;…" name="ogdesc" property="og:description" />
+<meta content="On Monday, March 19, in various areas of Russia, and also in the annexed Crimea, large-scale artillery exercises of the Armed Forces of the&amp;#160;…" name="description" />            <meta content="summary_large_image" name="twitter:card" />
+            <meta content="@uawire" name="twitter:site" />
+            
+                <meta content="Russia launches large-scale military exercises on border with Ukraine" name="twitter:title" />
+
+            
+<meta content="Russia launches large-scale military exercises on border with Ukraine" name="twitter:description" />            <meta content="@uawire" name="twitter:creator" />
+            <meta content="http://www.uawire.org/Media/Default/Images/artillery.jpg" name="twitter:image" />
+            <meta content="uawire.org" name="twitter:domain" />
+            <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+            <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" />
+
+<link href="/Themes/PJS.Bootstrap/Content/wire-cord.ico" rel="shortcut icon" type="image/x-icon" />
+<link href="/Themes/PJS.Bootstrap/Content/apple-touch-icon.png" rel="apple-touch-icon" />
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create','UA-66463206-1','auto');ga('send','pageview');
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-5057839192935846",
+    enable_page_level_ads: true
+  });
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="News" href="/rss?containerid=21" />
+
+
+    <script type="text/javascript">
+        (function (d) { d.className = "dyn" + d.className.substring(6, d.className.length); })(document.documentElement);
+    </script>
+</head>
+
+<body class="theme-PJS.Bootstrap">
+    
+<div class="aside-12" id="layout-wrapper">
+    <div class="navbar-wrapper">
+        <div class="navbar yamm navbar-default navbar-fixed-top">            
+            <div id="layout-navigation" class="group">
+                <div class="navbar-header">
+                    <a class="pull-left" href="#">
+                        <img alt="UAWire" src="/themes/pjs.bootstrap/Content/wire-cord-icon.png" />
+                    </a> 
+                    
+
+
+    <a class="navbar-brand" href="/">UAWire</a>
+
+                    <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#main-menu">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="navbar-collapse collapse" id="main-menu">
+                    <div class="zone zone-navigation">
+<article class="widget-navigation widget-menu-widget widget">
+
+
+<ul class="nav navbar-nav menu menu-main-menu">
+
+
+<li class="first"><a href="/">Home</a>
+</li>
+<li><a href="/Ukraine">Ukraine</a>
+</li>
+<li><a href="/russia">Russia</a>
+</li>
+<li><a href="/world-media">Around the World</a>
+</li>
+<li class="last"><a href="/opinions">Opinions</a>
+</li>
+</ul>
+</article></div>
+
+﻿
+<form action="/Search" class="navbar-form navbar-right" method="get" role="search">    <div class="input-group">
+
+        <input class="form-control" id="q" name="q" placeholder="Search" role="search" type="text" value="" />
+
+        <div class="input-group-btn">
+            <button class="btn btn-default" type="submit"><i class="fa fa-search"></i></button>
+        </div>
+    </div>
+</form>                </div>
+            </div>
+        </div>
+    </div>
+    <div id="layout-featured" class="group">
+        <div class="zone zone-featured">
+<article class="widget-FollowUs widget-featured widget-layout-widget widget">
+
+
+
+
+    
+
+<div class="table">
+
+<div class="row">
+<div class=" col-lg-6 col-lg-offset-3">
+<div><div id="gg2" >
+ 
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- uawire2 -->
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-5057839192935846"
+         data-ad-slot="6089002813"
+         data-ad-format="auto"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>
+</div>
+</div>
+<div class=" col-lg-6">
+<div><div class="divfix">
+    <ul class="list-inline pull-right">
+        <li> Follow Us</li>
+        <li><a class="zocial icon facebook" href="https://www.facebook.com/uawire" target="_blank">Follow us on Facebook</a></li>
+        <li><a class="zocial icon twitter" href="https://twitter.com/uawire" target="_blank">Follow us on Twitter</a></li>
+        <li><a class="zocial icon rss" href="http://www.uawire.org/rss?projection=32" target="_blank">Subscribe to  our rss feed</a></li>
+    </ul>
+</div>
+
+
+</div>
+</div></div>
+</div>
+
+
+</article></div>
+    </div>
+    <div id="layout-before-main" class="group">
+        <div class="zone zone-before-main">
+<article class="hidden-xs widget-SocialPopup widget-before-main widget-layout-widget widget">
+
+
+
+
+    
+
+<div class="table">
+
+<div class="row">
+<div class=" col-lg-12">
+
+<div class="table">
+
+<div class="row">
+<div class=" col-lg-12">
+<div>
+<div id="twitterwidget" class="preloading">
+    <a href="https://twitter.com/uawire" class="twitter-follow-button" data-show-count="true" data-size="large">Follow @uawire</a>
+    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+<div id="rbm_banner_side_lg" class="modal modal_modeless fade rbm_modal rbm_size_banner_box_lg rbm_right rbm_bg_light_black rbm_blue rbm_none_radius rbm_shadow_none rbm_animate rbm_duration_md rbmFadeInDown rbm_easeOutQuint rbm_bd_trnsp" role="dialog">
+    <!-- Modal Dialog-->
+    <div id="modal_dialog" class="modal-dialog modal_dialog_modeless">
+        <!-- Modal content-->
+        <div class="modal-content">
+
+            <!-- Close Button -->
+            <a href="#" class="rbm_btn_x_out_shtr rbm_bnr_close rbm_bnr_cl_btn" data-dismiss="modal">
+                <span class="fa fa-times"></span>
+            </a>
+            <!-- Large Banner Content -->
+            <div class="rbm_bnr_content">
+                <div id="divStay" class="rbm_bnr_txt rbm_bnr_side_lg_txt" style="background-color:ActiveBorder; font-weight: 900; display:none;">
+                    Please stay with us...
+                </div>
+                <div class="rbm_bnr_txt rbm_bnr_side_lg_txt">
+                    Like us on FaceBook
+                </div>
+                <div class="rbm_bnr_txt rbm_bnr_side_lg_txt">
+                    <div class="fb-page" data-href="https://www.facebook.com/uawire/" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/uawire/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/uawire/">UAWire</a></blockquote></div>
+
+                </div>
+                <div class="rbm_bnr_txt rbm_bnr_side_lg_txt">
+                    Follow us on Twitter
+                </div>
+                <div class="rbm_bnr_txt rbm_bnr_side_lg_txt" id="followTwitter">
+                </div> <!-- /.rbm_bnr_content -->
+                <div id="divWithyou" class="rbm_bnr_txt rbm_bnr_side_lg_txt" style="background-color:ActiveBorder; display:none;">
+                    <href id="hrWithYou" class="btn btn-default btn-xs">
+                        I am already with you. Don't show it again.
+                    </href>
+                </div>
+            </div> <!-- /Modal content-->
+        </div> <!-- /Modal Dialog-->
+    </div> <!-- .modal -->
+</div>
+
+
+<div id="fb-root"></div>
+
+<script>
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7&appId=1381825125382443";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+
+</div>
+</div></div>
+</div>
+</div></div>
+</div>
+
+
+</article></div>
+    </div>
+<div id="layout-main-container">
+    <div id="layout-main" class="group">
+            <aside id="aside-first" class="aside-first group visible-lg">
+                <div class="zone zone-aside-first">
+<article class="widget-AddSense widget-aside-first widget-layout-widget widget">
+
+
+
+
+    
+<div><div id="gg" >
+ 
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <!-- uawire1 -->
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-5057839192935846"
+                 data-ad-slot="2525688012"
+                 data-ad-format="auto"></ins>
+            <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script> 
+</div>
+</div>
+
+
+</article>
+<article class="widget-AddSense3 widget-aside-first widget-layout-widget widget">
+
+
+
+
+    
+<div><div id="gg3" >
+ 
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- UAWire3 -->
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-5057839192935846"
+         data-ad-slot="3135536417"
+         data-ad-format="auto"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>
+</div>
+
+
+</article></div>
+            </aside>
+        <div id="layout-content" class="group">
+                                        <div id="content" class="group">
+                    <div class="zone zone-content">
+<article class="blog-post content-item">
+    <header>
+        
+
+
+
+
+<h3>Russia launches large-scale military exercises on border with Ukraine</h3>
+
+
+            <div class="metadata">
+                <div class="meta well well-sm">
+    <i class="icon-calendar"></i>&nbsp;Tuesday, March 20, 2018 9:00:46 AM
+</div>
+<div><span></span></div>
+
+            </div>
+    </header>
+    
+
+<section class="media-library-picker-field media-library-picker-field-featured-image ">
+    
+        <div>
+                    <a href="/russia-launches-large-scale-military-exercises-on-border-with-ukraine">
+                        
+<article class="media-item image">
+    <header>
+        
+    </header>
+    
+
+<a href="">
+    <img class="img-responsive img-responsive-pad20" alt="" src="/Media/Default/_Profiles/4f777d2b/abbfa561/artillery.jpg?v=636209481073548939" />
+</a>
+
+
+
+
+</article>
+                    </a>
+
+</div>
+        </section>
+
+<p>On Monday, March 19, in various areas of Russia, and also in the annexed Crimea, large-scale artillery exercises of the Armed Forces of the Russian Federation began, reported the press service of the Southern Military District of Russia.</p>
+<p>About 8,000 servicemen and nearly 1,400 pieces of military equipment are involved in the maneuvers, among them the Tornado, Grad and Uragan multiple launch rocket systems; Khosta, Msta-S and Akatsiya self-propelled artillery mounts; and self-propelled Khrizantema anti-tank missile systems.</p>
+<p>During the exercises, the Russian military will also work on a &ldquo;combined&rdquo; method of transferring military equipment.</p>
+
+    <p class="tags">
+        <i class="icon-tags">&nbsp;</i>
+<a href="/Tags/Russian%20military%20exercises">Russian military exercises</a>, <a href="/Tags/Ukraine">Ukraine</a>    </p>
+<div>
+
+
+ 
+<div class="social container-fluid well">
+    <div class="row">
+        <div class="col-lg-1 pull-left"><span class="fa fa-share">Share</span></div>
+        <div class="col-lg-11">
+            <div class="social__item">
+                <span class="fa fa-facebook" data-count="..." data-social="fb"></span>
+            </div>
+            <div class="social__item">
+                <span class="fa fa-twitter" data-count="..." data-social="tw"></span>
+            </div>
+        </div>
+        </div>
+
+</div>
+
+ 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5057839192935846"
+     data-ad-slot="4654802411"
+     data-ad-format="autorelaxed"></ins>
+<script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+ 
+
+</div>
+
+<h2>Comments</h2>
+<div id="disqus_thread"></div>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+</article></div>
+                </div>
+                    </div>
+            <aside id="aside-second" class="aside-second">
+                <div class="zone zone-aside-second">
+<article class="widget-AllNews widget-aside-second widget-projection-widget widget">
+    <header>
+            <div class="page-header">
+                <h3>All News</h3>
+            </div>
+        
+    </header>
+<div><span><a href="/rosneft-increases-advance-payment-to-kurdistan-to-2-1-billion">Russia's oil conglomerate Rosneft increases advance payment to Kurdistan to $2.1 billion</a></span></div>
+<hr><div><span><a href="/hungary-is-concerned-about-ukraine-s-intentions-to-restore-the-military-unit-based-in-berehove">Hungary concerned about Ukraine's intentions to restore the military unit in Berehove</a></span></div>
+<hr><div><span><a href="/nato-secretary-general-russia-is-trying-to-destabilize-our-democracy">NATO Secretary General: Russia is trying to destabilize our democracy</a></span></div>
+<hr><div><span><a href="/nato-secretary-general-calls-for-full-disclosure-of-the-novichok-program">NATO Secretary General calls on Russia to disclose the Novichok program </a></span></div>
+<hr><div><span><a href="/klimkin-russia-started-a-war-against-the-civilized-world">Ukrainian Foreign Minister: Russia started a war against the civilized world</a></span></div>
+<hr><div><span><a href="/mogherini-the-eu-expects-big-reforms-in-ukraine">Mogherini: The EU expects big reforms from Ukraine</a></span></div>
+<hr><div><span><a href="/poland-considers-deporting-russian-diplomats-after-attempt-on-the-life-of-skripal">Poland considers deporting Russian diplomats after poisoning of Skripal</a></span></div>
+<hr><div><span><a href="/gazprom-starts-dismantling-turkish-stream">Russia's Gazprom starts dismantling Turkish Stream pipeline</a></span></div>
+<hr><div><span><a href="/macron-speaks-to-putin-about-supporting-the-territorial-integrity-of-ukraine">French President Macron speaks to Putin about supporting the territorial integrity of Ukraine</a></span></div>
+<hr><div><span><a href="/klimkin-calls-for-the-eu-to-impose-sanctions-against-gerhard-schroder">Ukrainian Foreign Minister calls for the EU to impose sanctions against Gerhard Schroder</a></span></div>
+<hr><div><span><a href="/swedish-ministry-for-foreign-affairs-summons-russian-ambassador-over-kremlin-statements-regarding-novichok-poison">Swedish Ministry of Foreign Affairs summons Russian ambassador over Kremlin statements regarding Novichok poison</a></span></div>
+<hr><div><span><a href="/kyiv-hands-eu-list-of-140-people-involved-in-organizing-illegal-elections-in-crimea">Kyiv hands EU list of 140 people involved in organizing Russian presidential elections in Crimea</a></span></div>
+<hr><div><span><a href="/russia-launches-large-scale-military-exercises-on-border-with-ukraine">Russia launches large-scale military exercises on border with Ukraine</a></span></div>
+<hr><div><span><a href="/eu-does-not-recognize-results-of-presidential-election-in-crimea">EU refuses to recognize results of Russian presidential election in Crimea</a></span></div>
+<hr><div><span><a href="/218-children-have-died-in-donbas-since-the-beginning-of-the-armed-conflict">UN: 218 children have died in Donbas since the beginning of the armed conflict</a></span></div>
+<hr><div><span><a href="/czech-biathlete-there-is-no-anti-doping-agency-in-russia-that-would-comply-with-the-wada-code">Czech biathlete: There is no anti-doping agency in Russia that would comply with the WADA Code</a></span></div>
+<hr><div><span><a href="/nato-secretary-general-russia-is-becoming-increasingly-unpredictable-and-aggressive">NATO Secretary General: Russia is becoming increasingly unpredictable and aggressive</a></span></div>
+<hr><div><span><a href="/yavlinsky-said-that-russia-is-heading-into-a-dangerous-abyss">Russian politician Yavlinsky: Russia is heading into a dangerous abyss</a></span></div>
+<hr><div><span><a href="/poroshenko-negotiates-weapons-supply-agreement-while-visiting-kuwait">Ukrainian President negotiates weapons supply agreement while visiting Kuwait</a></span></div>
+<hr><div><span><a href="/ukraine-calls-on-germany-to-ban-mps-visits-to-crimea">Ukraine calls on Germany to ban MPs' visits to Crimea</a></span></div>
+
+</article></div>
+            </aside>
+    </div>
+</div>
+</div>
+    <div id="layout-footer" class="group">
+        <hr />
+        <footer id="footer">
+                            <div id="footer-sig" class="group">
+                    <div class="zone zone-footer">
+<div class="container-fluid">
+    <div class="row footer-offset">
+        <div class="col-lg-2">
+            &copy; 2018 UAWire
+        </div>
+
+        <div class="col-lg-1"> <i class="divider"></i></div>
+        <div class="col-lg-lg-5 pull-left">         
+                <ul class="list-inline">
+                    <li> Follow Us :</li>
+                    <li><a class="zocial icon facebook" href="https://www.facebook.com/uawire" target="_blank">Follow us on Facebook</a></li>
+                    <li><a class="zocial icon twitter" href="https://twitter.com/uawire" target="_blank">Follow us on Twitter</a></li>
+                    <li><a class="zocial icon rss" href="http://www.uawire.org/rss?projection=32" target="_blank">Subscribe to  our rss feed</a></li>
+                </ul>             
+        </div>
+    </div>
+</div>
+
+</div>
+                </div>
+        </footer>
+    </div>
+<div id="toTop">
+    <h1><i class="fa fa-chevron-up"></i></h1>
+</div>
+    <script src="/Themes/PJS.Bootstrap/scripts/jscookie.js" type="text/javascript"></script>
+<script src="/Modules/Orchard.Resources/scripts/jquery.min.js" type="text/javascript"></script>
+<script src="/Themes/PJS.Bootstrap/scripts/CustomSocial.js" type="text/javascript"></script>
+<script src="/Modules/Orchard.Resources/scripts/bootstrap.min.js" type="text/javascript"></script>
+<script src="/Themes/PJS.Bootstrap/scripts/jquery.social-buttons.js" type="text/javascript"></script>
+<script src="/Themes/PJS.Bootstrap/scripts/custom.js" type="text/javascript"></script>
+<script type="text/javascript">
+    $(function () {
+        $('[data-social]').socialButtons();        
+    });
+    //]]>
+</script>
+
+    <script>
+        var disqus_config = function () {
+            this.page.url = 'http://www.uawire.org/russia-launches-large-scale-military-exercises-on-border-with-ukraine'  
+            this.page.identifier = '17053'
+        };
+
+        (function() {  
+            var d = document, s = d.createElement('script');
+            var sn = 'uawire';
+            s.src = '//' + sn + '.disqus.com/embed.js';
+
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+        })();
+    </script>
+
+
+</body>
+</html>

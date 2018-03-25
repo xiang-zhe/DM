@@ -1,0 +1,1998 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"  class=" viewable-ads " style="" lang="en" xml:lang="en" xmlns:og="http://opengraphprotocol.org/schema/">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>No reports of casualties as major fire rages at building complex in north Dublin city</title>
+        <meta name="author" content="Cianan Brennan"/>
+<link rel="amphtml" href="http://www.thejournal.ie/ballymun-fire-3917076-Mar2018/?amp=1">
+        <link href="//b0.thejournal.ie/desktop/i/thejournal/favicon.ico" type="image/x-icon" rel="icon" />
+        <link href="//b0.thejournal.ie/desktop/i/thejournal/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+        <link href="//b0.thejournal.ie/desktop/i/thejournal/apple-touch-icon.png" rel="apple-touch-icon" />
+                    <meta property="al:ios" name="al:ios" />            <meta property="al:ios:url" name="al:ios:url" content="jrnl://article/3917076" />
+            <meta property="al:ios:app_name" name="al:ios:app_name" content="TheJournal.ie" />
+            <meta property="al:ios:app_store_id" name="al:ios:app_store_id" content="409359491" />
+                        <meta property="al:android" name="al:android" />            <meta property="al:android:url" name="al:android:url" content="jrnl://article/3917076?source=fbal" />
+            <meta property="al:android:app_name" name="al:android:app_name" content="TheJournal.ie" />
+            <meta property="al:android:package" name="al:android:package" content="com.distilledmedia.thejournal" />
+            <meta name="apple-itunes-app" content="app-id=409359491, app-argument=http://www.thejournal.ie/ballymun-fire-3917076-Mar2018/">
+<script type="text/javascript">
+    document.documentElement.className+=' js';
+    var ajaxurl = 'http://www.thejournal.ie/ajax.php';
+    var stats_url = 'http://www.thejournal.ie/statsscript.php';
+    var current_url = 'www.thejournal.ie/ballymun-fire-3917076-Mar2018/';
+    var load_time = '2018-03-23 03:06:06';
+    var current_post_id = 3917076;
+    var current_post_permalink = 'http://www.thejournal.ie/ballymun-fire-3917076-Mar2018/';
+    var stats_key = "d40d61a9116f9d9c4c028fbeba19114a";
+    var wp_logged_in = false;
+    var current_title = "No reports of casualties as major fire rages at building complex in north Dublin city";
+
+    window.jrnl_social_connected = false;
+
+    var _sf_startpt=(new Date()).getTime()
+
+    var app_cookie_domain = '.thejournal.ie';
+    var session_domain = "http://www.thejournal.ie";
+    var root_domain = "thejournal.ie";
+</script>
+<script type="text/javascript">
+    document.domain = "thejournal.ie";
+
+    window.on_front = false;
+                window.authenticator = '';
+    window.login_expires = 1679540766;
+    window.users_token = '';
+
+                window.fbAsyncInit = function() {
+                FB.init({appId: "116141121768215", status: true, cookie: true,
+                xfbml: true});
+                FB.Event.subscribe('edge.create', function(response){
+                    // Log like
+                    socialReader.like(response);
+                });
+                                        if(typeof sync_with_server != 'undefined')
+                        {
+                            sync_with_server();
+                        }
+                                    };
+            (function(d){
+                var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+                js = d.createElement('script'); js.id = id; js.async = true;
+                js.src = "//connect.facebook.net/en_US/all.js";
+                d.getElementsByTagName('head')[0].appendChild(js);
+            }(document));
+                window.email_permission = false;
+        window.share_permission = false;
+            var jrnl_social_window = null;
+        function jrnl_social_login(service, submit_comment, callback) {
+            var link = '';
+            if(service == 'twitter')
+            {
+                link = "http://www.thejournal.ie/utils/login/twitter/?";
+                if(submit_comment)
+                {
+                    link = link + "&comment=1";
+                }
+                else if(callback
+                    && callback.length > 0
+                )
+                {
+                    link = link + "?cb=" + callback;
+                }
+            }
+            else if(service == 'facebook')
+            {
+                // Facebook link is a bit messier - need to bounce through popup
+                link = "http://www.thejournal.ie/utils/login/facebook/?url=https%3A%2F%2Fwww.facebook.com%2Fdialog%2Foauth%3Fdisplay%3Dpopup%26client_id%3D116141121768215%26scope%3D" + get_fb_perm_string() + "%26redirect_uri%3Dhttp%3A%2F%2Fwww.thejournal.ie%2Futils%2Flogin%2Ffacebook%2F";
+                // Are we submitting after log-in?
+                if(submit_comment)
+                {
+                    link = link + "?comment=1";
+                }
+                else if(callback
+                    && callback.length > 0
+                )
+                {
+                    link = link + "?cb=" + callback;
+                }
+            }
+
+            if ( jrnl_social_window != null && !jrnl_social_window.closed )
+                jrnl_social_window.close();
+
+            jrnl_social_window = window.open(
+                link,
+                'jrnl_social_window',
+                'status,scrollbars,location,resizable,width=600,height=350'
+            )
+            jrnl_social_window.focus();
+
+            return false;
+        }
+</script>
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '923227664489862');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=923227664489862&ev=PageView&noscript=1"
+/></noscript>
+<script>
+                    fbq('track', 'ViewContent', {
+                      content_category: 'irish'
+                     });
+                </script>
+        <link rel="alternate" type="application/rss+xml" title="TheJournal.ie &raquo; Feed" href="/feed/" />
+
+                    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+            <script>
+                window.jQuery || document.write('<script src="http://b0.thejournal.ie/desktop/js/jquery-1.7.2.min.js"><\/script>')
+            </script>
+        
+
+        <!-- Start dmlpool Tag -->
+        <script src="//pool.distilled.ie/js/lscache.min.js"></script>
+        <script>
+            var _pool = _pool || [];
+            (function(){
+                var s = document.createElement('script');
+                s.type = 'text/javascript'; s.async = true;
+                s.src = '//pool.distilled.ie/js/pool.min.js';
+                var x = document.getElementsByTagName('script')[0];
+                x.parentNode.insertBefore(s, x);
+            })();
+            _pool.push(['cacheBucketLocally', ['_dml']]);
+
+            // viewability js
+            _jrnl_viewability = {"enabled":true};
+            _jrnl_sidebar = {"enabled":true};
+        </script>
+        <!-- End dmlpool Tag -->
+
+
+
+        
+                <script type='text/javascript'>
+                    var is_box_window = false;
+                    var is_box_name = '';
+                </script>
+
+            <script type="text/javascript" src="//b0.thejournal.ie/merge.php?js=~plugins/bower/bower_components~myfeed/selector~underscore.min~json2_jquery.easytabs_jquery.lazyload~init~comments~viewability~sidebar~init.dfp~sponsored/twist~ad_retargeting~email_popup~quiz~inline_adverts~survey~jquery.fancybox-1.3.1~plugins/featherlight.min~plugins/jquery-scrolltofixed-min~auth~jquery.cookie~app-download-prompt-v3~read_next&v=20180224&view_type=desktop"></script>
+
+                            <link rel='shortlink' href='http://jrnl.ie/3917076' />
+                    <link rel="stylesheet" type="text/css" href="//b0.thejournal.ie/merge.php?css=~main~comments~viewability~sidebar~nightmode~myfeed/banner~quiz~inline_adverts~print~sponsored/twist~relatedReads~plugins/featherlight.min&v=20180224&view_type=desktop" />
+                <meta name="description" content="Roads are closed in the area as emergency services deal with the blaze at the Metro Hotel complex in Ballymun." />
+        <meta name="keywords" content="Ballymun, Dublin Fire Brigade, Firefighters, Gardaí, metro hotel" />
+        <meta name="news_keywords" content="Ballymun, Dublin Fire Brigade, Firefighters, Gardaí, metro hotel" />
+<link rel="alternate" href="android-app://com.distilledmedia.thejournal/jrnl_ie/article/3917076" />
+<link rel="canonical" href="http://www.thejournal.ie/ballymun-fire-3917076-Mar2018/" /><link href="" rel="author" /><meta name="fb:app_id" content="116141121768215" />
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="No reports of casualties as major fire rages at building complex in north Dublin city"/>
+<meta property="og:description" content="Roads are closed in the area as emergency services deal with the blaze at the Metro Hotel complex in Ballymun."/>
+<meta property="og:url" content="http://www.thejournal.ie/ballymun-fire-3917076-Mar2018/"/>
+<meta property="og:image" content="http://img2.thejournal.ie/article/3917076/river/?height=400&version=3917238"/>
+<meta property="og:site_name" content="TheJournal.ie"/>
+<meta property="article:author" content="http://www.thejournal.ie/author/cianan-brennan/"/>
+<meta property="article:post_date" content="2018-03-21T22:41:29+0000"/>
+<meta property="article:post_modified" content="2018-03-22T08:16:45+0000"/>
+<meta property="fb:pages" content="137576076262825"/>
+<meta name="twitter:card" content="summary_large_image" >
+<meta name="twitter:image" content="http://img2.thejournal.ie/article/3917076/listing?version=3917238&amp;width=590" >
+<meta name="twitter:title" content="No reports of casualties as major fire rages at building complex in north Dublin city" >
+<meta name="twitter:url" content="http://www.thejournal.ie/ballymun-fire-3917076-Mar2018/" >
+<meta name="twitter:description" content="Roads are closed in the area as emergency services deal with the blaze at the Metro Hotel complex in Ballymun." >
+<meta name="twitter:site" content="@thejournal_ie" >
+
+<meta name="twitter:creator" content="@ciananbrennan" >
+
+<meta name="twitter:app:name:iphone" content="TheJournal.ie" >
+<meta name="twitter:app:name:ipad" content="TheJournal.ie" >
+<meta name="twitter:app:name:googleplay" content="TheJournal.ie" >
+<meta name="twitter:app:id:iphone" content="409359491" >
+<meta name="twitter:app:id:ipad" content="409359491" >
+<meta name="twitter:app:id:googleplay" content="com.distilledmedia.thejournal" >
+
+<meta name="twitter:app:url:iphone" content="jrnl://article/3917076/?app=Twitter&amp;callback=twitter%3A%2F%2F" >
+<meta name="twitter:app:url:ipad" content="jrnl://article/3917076/?app=Twitter&amp;callback=twitter%3A%2F%2F" >
+<meta name="twitter:app:url:googleplay" content="jrnl://article/3917076/?app=twitter" >
+<script>
+    var commentSec = {
+        token : "bef5a6922"
+    }
+</script>
+<input type="hidden" id="js-retargeting" value='[{"key":"irish_audience","bucket_ttl":7776000,"threshold":1,"threshold_window":604800},{"key":"irish_audience","bucket_ttl":7776000,"threshold":1,"threshold_window":604800}]'>
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+
+googletag.defineSlot('/5512429/J_MPU', [["fluid"],[1,1],[300,250],[300,600]], 'div-gpt-ad-1365092406213-0').addService(googletag.pubads());
+googletag.defineSlot('/5512429/J_Riverblock', [[2,1],[630,172]], 'div-gpt-ad-1365092406213-1').addService(googletag.pubads());
+googletag.defineSlot('/5512429/J_Leaderboard', [[1,1],[728,90],[970,250]], 'div-gpt-ad-1365092406213-2').addService(googletag.pubads());
+googletag.pubads().setTargeting('platform', 'desktop');
+googletag.pubads().setTargeting('sitemode', 'default');
+
+googletag.pubads().setTargeting('site', 'thejournal');
+googletag.pubads().setTargeting('publication', 'thejournal');
+googletag.pubads().setTargeting('section', "article");
+googletag.pubads().setTargeting('tags', ["ballymun","dublin-fire-brigade","firefighters","gardai","metro-hotel","irish"]);
+googletag.pubads().setTargeting('targeting-key', ["ballymun","dublin-fire-brigade","firefighters","gardai","metro-hotel"]);
+                googletag.pubads().setTargeting('targetingkey', ["ballymun","dublin-fire-brigade","firefighters","gardai","metro-hotel"]);
+                googletag.pubads().setTargeting('tiling', '6');
+googletag.pubads().setTargeting('pageid', 'id-3917076');
+    
+if ($("#js-retargeting").length > 0)
+{
+    try
+    {
+        var retargeting = new RetargetingClient();
+        retargeting.trackView();
+    }
+    catch (e)
+    {
+        console.error(e.message);
+        console.log(e);
+    }
+}
+
+//googletag.pubads().disableInitialLoad();
+// if we have lscache loaded check for a dirty _dml bucket and use for targeting
+if(lscache && Object.keys)
+{
+    var _dml = Object.keys(lscache.getBucket('_dml')).join(",");
+    googletag.pubads().setTargeting('_dml', _dml);
+}
+
+
+
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+
+});
+
+
+dfpLoadCheck('div-gpt-ad-1365092406213-2');
+
+</script>
+        <!-- IE9 Pinning -->
+        <meta name="application-name" content="TheJournal" />
+        <meta name="msapplication-tooltip" content="TheJournal.ie - Read, Share and Shape the news" />
+        <meta name="msapplication-starturl" content="http://www.thejournal.ie/" />
+        <meta name="msapplication-task" content="name=The 9 at 9;action-uri=http://www.thejournal.ie/9at9;icon-uri=//b0.thejournal.ie/desktop/i/thejournal/favicon.ico" />
+        <meta name="msapplication-task" content="name=The42;action-uri=http://www.the42.ie/;icon-uri=//b0.thejournal.ie/desktop/i/the42/favicon.ico" />
+        <meta name="msapplication-task" content="name=Business Etc;action-uri=http://businessetc.thejournal.ie/;icon-uri=//b0.thejournal.ie/desktop/i/businessetc/favicon.ico" />
+        <meta name="msapplication-task" content="name=DailyEdge.ie;action-uri=http://thedailyedge.thejournal.ie/;icon-uri=//b0.thejournal.ie/desktop/i/thedailyedge/favicon.ico" />
+        <meta name="msapplication-task" content="name=Irish News;action-uri=http://www.thejournal.ie/irish/;icon-uri=//b0.thejournal.ie/desktop/i/thejournal/favicon.ico" />
+        <!-- /IE9 Pinning -->
+
+
+        <script src='https://www.google.com/recaptcha/api.js'></script>
+    </head>
+
+    
+    <!--[if IE 6]><body class="ie ie6 ie-lt8 theme--thejournal"><![endif]-->
+    <!--[if IE 7]><body class="ie ie7 ie-lt8 theme--thejournal"><![endif]-->
+    <!--[if IE 8]><body class="ie ie8 theme--thejournal"><![endif]-->
+    <!--[if gte IE 9]><body class="ie9up theme--thejournal"><![endif]-->
+    <!--[if !IE]><!-->
+    <body class="nie theme--thejournal">
+    <!--<![endif]-->
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+</script>
+<script type="text/javascript">
+ga('create', 'UA-17456403-37', 'auto');
+ga('send', 'pageview');
+</script>
+<div id="myfeed-banner" class=" hidden ">
+    <div class="page-content screen-1 ">
+        <div class="sections-blurb">
+            <div class="title">
+                My News            </div>
+            <div class="subtext">
+                Personalise your news feed by choosing your favourite topics of interest            </div>
+            <div class="buttons">
+                <div class="btn btn-action">
+                    Get Started
+                </div>
+                <div class="btn btn-decline">
+                    No Thanks
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="page-content screen-2 hidden">
+        <div class="sections-blurb">
+            <div class="title">
+                Create your own newsfeed            </div>
+            <div class="subtext">
+                Choose 3 or more topics that you want to see.            </div>
+        </div>
+        <div class="sections-options">
+                            <div
+                    class="section-option "
+                    data-section="irish"
+                    id="myfeed-section-irish"
+                >
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/irish.png" />
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/tick.png" class="section-tick" />
+                    <span>Irish News</span>
+                </div>
+                                <div
+                    class="section-option "
+                    data-section="politics"
+                    id="myfeed-section-politics"
+                >
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/politics.png" />
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/tick.png" class="section-tick" />
+                    <span>Politics</span>
+                </div>
+                                <div
+                    class="section-option "
+                    data-section="international"
+                    id="myfeed-section-international"
+                >
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/international.png" />
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/tick.png" class="section-tick" />
+                    <span>International</span>
+                </div>
+                                <div
+                    class="section-option "
+                    data-section="readme"
+                    id="myfeed-section-readme"
+                >
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/readme.png" />
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/tick.png" class="section-tick" />
+                    <span>Opinion</span>
+                </div>
+                                <div
+                    class="section-option "
+                    data-section="living"
+                    id="myfeed-section-living"
+                >
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/living.png" />
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/tick.png" class="section-tick" />
+                    <span>Living</span>
+                </div>
+                                <div
+                    class="section-option "
+                    data-section="family"
+                    id="myfeed-section-family"
+                >
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/family.png" />
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/tick.png" class="section-tick" />
+                    <span>Family</span>
+                </div>
+                                <div
+                    class="section-option "
+                    data-section="technology"
+                    id="myfeed-section-technology"
+                >
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/technology.png" />
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/tick.png" class="section-tick" />
+                    <span>Technology</span>
+                </div>
+                                <div
+                    class="section-option "
+                    data-section="business"
+                    id="myfeed-section-business"
+                >
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/business.png" />
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/tick.png" class="section-tick" />
+                    <span>Business</span>
+                </div>
+                                <div
+                    class="section-option "
+                    data-section="gaa"
+                    id="myfeed-section-gaa"
+                >
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/gaa.png" />
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/tick.png" class="section-tick" />
+                    <span>GAA</span>
+                </div>
+                                <div
+                    class="section-option "
+                    data-section="soccer"
+                    id="myfeed-section-soccer"
+                >
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/soccer.png" />
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/tick.png" class="section-tick" />
+                    <span>Soccer</span>
+                </div>
+                                <div
+                    class="section-option "
+                    data-section="rugby"
+                    id="myfeed-section-rugby"
+                >
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/rugby.png" />
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/tick.png" class="section-tick" />
+                    <span>Rugby</span>
+                </div>
+                                <div
+                    class="section-option "
+                    data-section="mma"
+                    id="myfeed-section-mma"
+                >
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/mma.png" />
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/tick.png" class="section-tick" />
+                    <span>MMA</span>
+                </div>
+                                <div
+                    class="section-option "
+                    data-section="watercooler"
+                    id="myfeed-section-watercooler"
+                >
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/watercooler.png" />
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/tick.png" class="section-tick" />
+                    <span>Watercooler</span>
+                </div>
+                                <div
+                    class="section-option "
+                    data-section="going-out"
+                    id="myfeed-section-going-out"
+                >
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/going-out.png" />
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/tick.png" class="section-tick" />
+                    <span>Going Out</span>
+                </div>
+                                <div
+                    class="section-option "
+                    data-section="screens"
+                    id="myfeed-section-screens"
+                >
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/screens.png" />
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/tick.png" class="section-tick" />
+                    <span>Screens</span>
+                </div>
+                                <div
+                    class="section-option "
+                    data-section="quiz"
+                    id="myfeed-section-quiz"
+                >
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/quiz.png" />
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/tick.png" class="section-tick" />
+                    <span>Quizzes</span>
+                </div>
+                                <div
+                    class="section-option "
+                    data-section="change-generation"
+                    id="myfeed-section-change-generation"
+                >
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/change-generation.png" />
+                    <img src="//b0.thejournal.ie/desktop/i/myfeed/tick.png" class="section-tick" />
+                    <span>Change Generation</span>
+                </div>
+                            <div class="buttons">
+                <div class="btn btn-action inactive">
+                    Create my newsfeed
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="my-feed-close">
+        <span></span>
+    </div>
+</div>
+<script type="text/javascript">
+    $( document ).ready(function() {
+        // accepts if on feed river
+        myfeedSelector.init(0);
+    });
+</script>
+        <div id="fb-root"></div>
+        <div id="nightmode-switch" class="nightmode-toggle">
+    <img src="//b0.thejournal.ie/desktop/i/nightmode/moon.png" width="40" height="40"/>
+</div>
+<div id="notify-container">
+    <div>
+        <span class="notify-close icon icon16 icon16CloseX">
+            <a title="dismiss this notification">&nbsp;</a>
+        </span>
+        <span class="notify-text">
+            TheJournal.ie uses cookies. By continuing to browse this site you are agreeing to our use of cookies. <a href="/cookies-policy/" rel="external" target="_blank">Click here to find out more »</a>        </span>
+    </div>
+</div>
+
+
+        <div class="masthead content">
+            <ul class="publications">
+                <li class="main">
+        <div>
+            <a href="http://www.thejournal.ie/">
+                <img src="//b0.thejournal.ie/desktop/i/thejournal/logo.png" width="256" height="46" class="color_logo"/>
+                <img src="//b0.thejournal.ie/desktop/i/thejournal/white-logo.png" class="print_hidden" />
+            </a>
+        </div>
+    </li>
+    <li class="businessETC"><a href="http://www.fora.ie">Business ETC</a></li><li class="theScore"><a href="http://www.the42.ie/">The42</a></li><li class="theDailyEdge"><a href="http://www.dailyedge.ie/">The Daily Edge</a></li>                <li class="search">
+                    <form action="http://www.thejournal.ie/submit.php" method="get" class="searchForm" id="searchForm">
+                        <input type="text" name="st" id="search" value=""/>
+                        <label for="search">Search site</label>
+                        <button type="submit" class="icon iconSearch">Search</button>
+                    </form>
+                </li>
+            </ul>
+            <div class="today">
+                <span class="weather">
+                    <a title="Mostly cloudy with occasional rain" href="http://www.thejournal.ie/weather/">
+                        Dublin: 9 &deg;C
+                    </a>
+                    <img style="margin-left:8px" src="//b0.thejournal.ie/desktop/i/weather-icons/xsmall/07.png" width="25" height="25">
+                </span>
+                <span class="date">Friday 23 March, 2018</span>
+                <span class="user-icon" id="user-icons">
+                <a href="/user/" id="user_icon_box"><span id="user_icon_img"></span><span class="user-name" id="user_icon_name"></span></a>                </span>
+            </div>
+        </div>
+        <div class="mainContainer content">
+        <div id="header_leaderboard_container">
+    <center id="header_leaderboard" class="header_leaderboard article_leaderboard">
+        <span class="information">Advertisement</span>
+                    <script>
+                var defaultSpacing = "101";
+                if(window.localStorage) {
+                    var lastBanner = localStorage.getItem('last_masthead_ad_size');
+                    if(lastBanner == 'billboard') {
+                        defaultSpacing = "261";
+                    }
+                    else if(lastBanner == 'none') {
+                        defaultSpacing = "11";
+                    }
+                }
+                document.write('<div id="leaderboard_height_spacer" style="width:1px; float:left; display:inline; height:'+defaultSpacing+'px"></div>');
+            </script>
+            <div style='width: 970px;'><div id='div-gpt-ad-1365092406213-2'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2'); });
+</script>
+</div></div>    </center>
+</div>
+            <div class="container navigation ">
+                <ul class="menu tablecell">
+                                            <li><a href="http://www.thejournal.ie" class="homepage active icon iconHomepage">Homepage</a></li>
+                    <li><a class="" href="http://www.thejournal.ie/irish/">Irish</a></li><li><a class="" href="http://www.thejournal.ie/politics/">Politics</a></li><li><a class="" href="http://www.thejournal.ie/international/">International</a></li><li><a class="" href="http://www.thejournal.ie/voices/">Voices</a></li><li><a class="" href="http://www.thejournal.ie/family/">Family</a></li><li><a class="" href="http://www.thejournal.ie/culture/">Culture</a></li><li><a class="" href="http://www.thejournal.ie/tech/">Tech</a></li><li><a class="" href="http://www.thejournal.ie/business/">Business</a></li><li><a href="/my-feed/" class="">My Feed</a></li>                </ul>
+                                <a href="#feed-popup" class="rss icon iconRss lightboxTrigger" title="Subscribe to RSS feed">RSS</a>
+            </div>
+                        
+<div class="mainContent container">
+
+    <div class="river span-8" itemscope itemtype="http://schema.org/Article" id="scroll-header">
+
+
+<meta itemprop="image" content="http://c2.thejournal.ie/media/2018/03/ballymun-fire-4-752x501.jpg" />
+<div class="sectionSeparator dropdown dropdownTags">
+        <h3>Tags</h3>
+
+        <ul class="tags tablecell">
+                                    <li>
+                            <a class="tag" rel="tag" href="http://www.thejournal.ie/ballymun/news/">Ballymun</a>
+                        </li>
+                                                <li>
+                            <a class="tag" rel="tag" href="http://www.thejournal.ie/dublin-fire-brigade/news/">Dublin Fire Brigade</a>
+                        </li>
+                                                <li>
+                            <a class="tag" rel="tag" href="http://www.thejournal.ie/firefighters/news/">Firefighters</a>
+                        </li>
+                                                <li>
+                            <a class="tag" rel="tag" href="http://www.thejournal.ie/gardai/news/">Gardaí</a>
+                        </li>
+                                                <li>
+                            <a class="tag" rel="tag" href="http://www.thejournal.ie/metro-hotel/news/">metro hotel</a>
+                        </li>
+                                </ul>
+        <a class="dropdownHandle" href="#" title="See other tags"><span class="icon iconDropdownClosed">See other tags</span></a>
+        <div class="dropdownContent">
+            <h3>Tags</h3>
+        </div>
+</div>
+<div class="post postMain  postMainLandscape">
+
+    
+
+    <h1 itemprop="headline">No reports of casualties as major fire rages at building complex in north Dublin city</h1>
+    	<h2 class="main_excerpt" itemprop="description">Roads are closed in the area as emergency services deal with the blaze at the Metro Hotel complex in Ballymun.</h2>
+
+        <div class="infos border">
+            <div class="metadata">
+                <div class="print_hidden">
+                    <span>
+                        By <span class="print-author">Cianan Brennan</span>
+                    </span>
+                    <span class="date">Wednesday 21 Mar 2018, 10:41 PM</span>
+                </div>
+                <span class="date screen_only">
+                                        Wed 10:41 PM                </span>
+                <span class="views">
+                    <span class="red-views icon iconViewVeryPopular"></span>171,023 Views                </span>
+                <a href="http://www.thejournal.ie/ballymun-fire-3917076-Mar2018/#comments" title="Comment on No reports of casualties as major fire rages at building complex in north Dublin city" class="comments-count">
+                    <span class="icon iconCommentVeryPopular"></span> 105 Comments                </a>
+                <div class="meta-link print_hidden">
+                    <span>
+                        http://jrnl.ie/3917076                    </span>
+                </div>
+            </div>
+            <span class="share"><a href="http://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=http%3A%2F%2Fwww.thejournal.ie%2Fballymun-fire-3917076-Mar2018%2F&picture=http%3A%2F%2Fc2.thejournal.ie%2Fmedia%2F2018%2F03%2Fballymun-fire-4-197x197.jpg&name=No+reports+of+casualties+as+major+fire+rages+at+building+complex+in+north+Dublin+city&description=Roads+are+closed+in+the+area+as+emergency+services+deal+with+the+blaze+at+the+Metro+Hotel+complex+in+Ballymun.&message=&redirect_uri=http%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D3917076 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">495</span></a> <a href="http://twitter.com/share?url=http%3A%2F%2Fjrnl.ie%2F3917076&text=No+reports+of+casualties+as+major+fire+rages+at+building+complex+in+north+Dublin+city+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-3917076"><span class="icon iconTwitter"></span> Tweet</a> <a href="http://www.thejournal.ie/ballymun-fire-3917076-Mar2018/#EmailArticle" title="Email this article" class="social share-email lightboxTrigger"><span class="icon iconEmailSend"></span> Email<span class="number">4</span></a></span>        </div>
+        <div class="text" itemprop="articleBody">
+        
+            <!-- Text content -->
+
+            <div id="articleContent">
+
+                <p><span class="journal_embed_container parent_aligncenter" style="" ><span class="journal_caption_container"><span class="journal_caption_container"><img src="http://img2.thejournal.ie/inline/3917237/original/?width=630&version=3917237" alt="dfb5" class="aligncenter inline-image"  /></span><span class="journal_credit">
+    Source: Twitter/Dublin Fire Brigade</span></span></span></p>
+<p><span class="journal_embed_container parent_aligncenter" style="" ><span class="journal_caption_container"><span class="journal_caption_container"><img src="http://img2.thejournal.ie/inline/3917231/original/?width=630&version=3917231" alt="21/3/2018. Metro Hotel Fire Ballymun. Photo: Eamonn Farrell/RollingNews.ie" class="aligncenter inline-image"  /><span class="journal_caption">
+    Dublin Fire Brigade firefighters battling the blaze at the Metro Hotel complex in Ballymun this evening</span>
+</span><span class="journal_credit">
+    Source: Eamonn Farrell/Rollingnews.ie</span></span></span></p>
+<p><span class="journal_embed_container parent_aligncenter" style="" ><span class="journal_caption_container"><span class="journal_caption_container"><img src="http://img2.thejournal.ie/inline/3917123/original/?width=281&version=3917123" alt="5" class="aligncenter inline-image"  /></span><span class="journal_credit">
+    Source: <a href="https://twitter.com/JS_D9" >Twitter</a>/John Sheridan</span></span></span></p>
+<div class="twitter-embed-parent"><img class="tweet-backup" src="http://cdn.thejournal.ie/embeds/twitter/98e7607124f5b18a0bc9b4b2cb7df1e2.png" style="display:none" /><div style="" class="twitter-embed-holder"><blockquote class="twitter-tweet" data-width="500"><p lang="en" dir="ltr">8 fire engines, advanced paramedics &amp; other specialist appliances are now attending the fire in <a href="https://twitter.com/hashtag/Ballymun?src=hash&amp;ref_src=twsrc%5Etfw">#Ballymun</a>. Severe traffic delays, please avoid the area to enable us to access the fireground <a href="https://twitter.com/hashtag/Dublin?src=hash&amp;ref_src=twsrc%5Etfw">#Dublin</a> <a href="https://twitter.com/hashtag/fire?src=hash&amp;ref_src=twsrc%5Etfw">#fire</a> <a href="https://t.co/XLoS7lOD2L">pic.twitter.com/XLoS7lOD2L</a></p>&mdash; Dublin Fire Brigade (@DubFireBrigade) <a href="https://twitter.com/DubFireBrigade/status/976565568680742914?ref_src=twsrc%5Etfw">March 21, 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><span class="journal_credit">
+    Source: <a href="https://twitter.com/DubFireBrigade" >Dublin Fire Brigade</a>/Twitter</span></div>
+<p><strong>Updated 10.41pm</strong></p>
+<p>AT LEAST 12 firefighting vehicles from Dublin Fire Brigade are currently dealing with a fire on the top floors of a building in Ballymun on the northside of Dublin city.</p>
+<p>The building in question is the Metro Hotel complex at Santry Cross. Authorities first became aware of the blaze shortly after 8pm.</p>
+<div class="twitter-embed-parent"><img class="tweet-backup" src="http://cdn.thejournal.ie/embeds/twitter/d87afb67e7ee3cf79515e22a42db6e2f.png" style="display:none" /><div style="" class="twitter-embed-holder"><blockquote class="twitter-tweet" data-width="500"><p lang="en" dir="ltr">More and more specialist fire vehicles arriving inc foam unit <a href="https://twitter.com/hashtag/ballymun?src=hash&amp;ref_src=twsrc%5Etfw">#ballymun</a> <a href="https://t.co/5Mz4dJAXIq">pic.twitter.com/5Mz4dJAXIq</a></p>&mdash; Daragh Brophy (@DaraghBroph) <a href="https://twitter.com/DaraghBroph/status/976577888098058240?ref_src=twsrc%5Etfw">March 21, 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><span class="journal_credit">
+    Source: <a href="https://twitter.com/DaraghBroph" >Daragh Brophy</a>/Twitter</span></div>
+
+<div class="twitter-embed-parent"><img class="tweet-backup" src="http://cdn.thejournal.ie/embeds/twitter/967922a96d797d057ec0077840ffd8bf.png" style="display:none" /><div style="" class="twitter-embed-holder"><blockquote class="twitter-tweet" data-width="500"><p lang="en" dir="ltr">Just rang the Dublin Fire Brigade about the Metro Hotel.  They have a number of units on the way.  Hope to goad everyone is safe.</p>&mdash; Cllr Noeleen Reilly (@NoeleenReilly) <a href="https://twitter.com/NoeleenReilly/status/976560450782617600?ref_src=twsrc%5Etfw">March 21, 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><span class="journal_credit">
+    Source: <a href="https://twitter.com/NoeleenReilly" >Cllr Noeleen Reilly</a>/Twitter</span></div>
+<p>Road closures are in place as emergency services continue to deal with the situation. It’s understood that traffic in the area is currently at a standstill and that drivers should use alternate routes if possible.</p>
+<p>It has now been confirmed by Dublin Fire Brigade that all occupants of the building were successfully evacuated. It’s understood that those evacuated were moved to a nearby hotel.</p>
+<p>At present Dublin Fire Brigade says it has no record of any casualties resulting from the fire.</p>
+<div class="twitter-embed-parent"><img class="tweet-backup" src="" style="display:none" /><div style="" class="twitter-embed-holder"><blockquote class="twitter-tweet" data-width="500"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Ballymun?src=hash&amp;ref_src=twsrc%5Etfw">#Ballymun</a> UPDATE: It is important for us to give out correct and factual information. As of yet we have no reports of any casualties or people unaccounted for. <a href="https://t.co/KMqLGGTGb5">pic.twitter.com/KMqLGGTGb5</a></p>&mdash; Dublin Fire Brigade (@DubFireBrigade) <a href="https://twitter.com/DubFireBrigade/status/976591050360881153?ref_src=twsrc%5Etfw">March 21, 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><span class="journal_credit">
+    Source: <a href="https://twitter.com/DubFireBrigade" >Dublin Fire Brigade</a>/Twitter</span></div>
+<p>“It is the case that everyone is safe,” said local Fine Gael TD Noel Rock. “Some families were affected from the apartments above the hotel, but everyone is safe.”</p>
+<p>The fire has spread across at least five floors at the top of the complex, with the ninth and twelfth floors visibly the worst affected.</p>
+<p>Firefighters wearing specialist breathing apparatus are now inside the building amid ongoing efforts to extinguish the blaze.</p>
+<div class="twitter-embed-parent"><img class="tweet-backup" src="http://cdn.thejournal.ie/embeds/twitter/03a475c71f1ee39a2efeea46d03d6c32.png" style="display:none" /><div style="" class="twitter-embed-holder"><blockquote class="twitter-tweet" data-width="500"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Ballymun?src=hash&amp;ref_src=twsrc%5Etfw">#Ballymun</a> UPDATE: 8 fire engines, 2 aerial appliances, emergency tender, foam tender, command units and senior officers at scene. Firefighters using breathing apparatus inside hotel to search &amp; extinguish <a href="https://twitter.com/hashtag/BallymunFire?src=hash&amp;ref_src=twsrc%5Etfw">#BallymunFire</a> <a href="https://twitter.com/hashtag/Dublin?src=hash&amp;ref_src=twsrc%5Etfw">#Dublin</a> <a href="https://twitter.com/hashtag/fire?src=hash&amp;ref_src=twsrc%5Etfw">#fire</a> <a href="https://t.co/dh8xnFgMRj">pic.twitter.com/dh8xnFgMRj</a></p>&mdash; Dublin Fire Brigade (@DubFireBrigade) <a href="https://twitter.com/DubFireBrigade/status/976586554020978688?ref_src=twsrc%5Etfw">March 21, 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><span class="journal_credit">
+    Source: <a href="https://twitter.com/DubFireBrigade" >Dublin Fire Brigade</a>/Twitter</span></div>
+<p>In the last few minutes firefighters have got a hose through onto the 9th floor. The blaze has been much reduced visibly in the last hour according to witnesses on the ground on the outside.</p>
+<p>It’s understood that the Metro hotel comprises the lower part of the building, with the floors which are visibly on fire containing apartments, though those units are part of the same complex.</p>
+<p>At least 12 units, including several specialist firefighting vehicles have attended the scene, while a mobile command centre has also been set up.</p>
+
+<p>Other emergency service vehicles on scene include ambulances, Garda vehicles, ESB networks units, and county council vehicles.</p>
+<p>A crowd of several hundred people has been drawn to the blaze, which is being kept behind a number of cordons.</p>
+<p>Local councillor Noeleen Reilly, who is nearby, earlier said that the blaze appeared to be across several floors of the complex.</p>
+<p><span class="journal_embed_container parent_aligncenter" style="" ><span class="journal_caption_container"><span class="journal_caption_container"><img src="http://img2.thejournal.ie/inline/3917140/original/?width=281&version=3917140" alt="20180321_213307" class="aligncenter inline-image"  /></span><span class="journal_credit">
+    Source: TheJournal.ie/Daragh Brophy</span></span></span></p>
+<div class="twitter-embed-parent"><img class="tweet-backup" src="http://cdn.thejournal.ie/embeds/twitter/139f160ab548f578c0670197fe8b5634.png" style="display:none" /><div style="" class="twitter-embed-holder"><blockquote class="twitter-tweet" data-width="500"><p lang="en" dir="ltr">The scene at Ballymun moments ago <a href="https://t.co/dxaEyqWmqh">pic.twitter.com/dxaEyqWmqh</a></p>&mdash; Daragh Brophy (@DaraghBroph) <a href="https://twitter.com/DaraghBroph/status/976574992472334336?ref_src=twsrc%5Etfw">March 21, 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><span class="journal_credit">
+    Source: <a href="https://twitter.com/DaraghBroph" >Daragh Brophy</a>/Twitter</span></div>
+<div class="twitter-embed-parent"><img class="tweet-backup" src="http://cdn.thejournal.ie/embeds/twitter/afcf17679fcdf07063f2578d6eae2af5.png" style="display:none" /><div style="" class="twitter-embed-holder"></div><span class="journal_credit">
+    Source: <a href="https://twitter.com/nikkihayes" >Nikki Hayes</a>/Twitter</span></div>
+<div class="twitter-embed-parent"><img class="tweet-backup" src="" style="display:none" /><div style="" class="twitter-embed-holder"><blockquote class="twitter-tweet" data-width="500"><p lang="en" dir="ltr">Dublin Traffic - Diversions in place at Santry Cross, Ballymun Road due to an incident. Fire services are currently dealing with a building on fire, Gardaí are at scene.</p>&mdash; An Garda Síochána (@GardaTraffic) <a href="https://twitter.com/GardaTraffic/status/976559027256741888?ref_src=twsrc%5Etfw">March 21, 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><span class="journal_credit">
+    Source: <a href="https://twitter.com/GardaTraffic" >An Garda Síochána</a>/Twitter</span></div>
+<p>It had been suggested that the building was at one time used to house homeless families in the Dublin area – however it has since emerged that no homeless persons have stayed at the Metro for at least the last 12 months, and that Dublin Regional Homeless Executive’s contract in the area is with a separate hotel.</p>
+<div class="twitter-embed-parent"><img class="tweet-backup" src="http://cdn.thejournal.ie/embeds/twitter/e92d1c002bdc5a338f327a3a40ddcb0e.png" style="display:none" /><div style="" class="twitter-embed-holder"><blockquote class="twitter-tweet" data-width="500"><p lang="en" dir="ltr">Serious Incident in Ballymun Hotel that accommodates homeless families. <a href="https://twitter.com/hashtag/Homeless?src=hash&amp;ref_src=twsrc%5Etfw">#Homeless</a> <a href="https://t.co/C3ZkqEjuWD">pic.twitter.com/C3ZkqEjuWD</a></p>&mdash; Anthony Flynn (@AnthonyICHH) <a href="https://twitter.com/AnthonyICHH/status/976559011943321601?ref_src=twsrc%5Etfw">March 21, 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div><span class="journal_credit">
+    Source: <a href="https://twitter.com/AnthonyICHH" >Anthony Flynn</a>/Twitter</span></div>
+<p><em>With reporting from Daragh Brophy</em></p>
+<h3>Read: <a href="http://www.thejournal.ie/stuart-olding-barrister-closing-statements-3916145-Mar2018/">Belfast rape trial hears that those accused are ‘braggarts, not rapists’</a>
+</h3>
+
+                
+            </div>
+
+            
+
+            <span id="follow_connect_box">
+                            </span>
+            <p class="riverblock" style="clear:both; margin-top:10px;">
+    <center>
+    <div id='div-gpt-ad-1365092406213-1'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-1'); });
+</script>
+</div>    </center>
+</p>
+        </div>
+
+
+        <div class="clearfix">
+            <!-- Short URL -->
+            <div class="shortUrl">
+                <label for="shortUrl">Short URL</label>
+                <input type="text" name="shortURL" id="shortURL" value="http://jrnl.ie/3917076" />
+            </div>
+            <!-- /Short URL -->
+        </div>
+
+        <!-- Sharing -->
+        <ul class="sharingBar tablecell"><li><a target="_blank" class="open-window twitter-tweet jrnl-tweet-3917076" href="http://twitter.com/share?url=http%3A%2F%2Fjrnl.ie%2F3917076&text=No+reports+of+casualties+as+major+fire+rages+at+building+complex+in+north+Dublin+city+%28via+%40thejournal_ie%29&related=@thejournal_ie"><span class="icon iconTwitter"></span>Tweet this</a></li><li><a target="_blank" class="open-window" href="http://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=http%3A%2F%2Fwww.thejournal.ie%2Fballymun-fire-3917076-Mar2018%2F&picture=http%3A%2F%2Fc2.thejournal.ie%2Fmedia%2F2018%2F03%2Fballymun-fire-4-197x197.jpg&name=No+reports+of+casualties+as+major+fire+rages+at+building+complex+in+north+Dublin+city&description=Roads+are+closed+in+the+area+as+emergency+services+deal+with+the+blaze+at+the+Metro+Hotel+complex+in+Ballymun.&message=&redirect_uri=http%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D3917076"><span class="icon iconFacebook"></span>Share on Facebook</a></li><li><a class="lightboxTrigger" href="http://www.thejournal.ie/ballymun-fire-3917076-Mar2018/#EmailArticle" title="Email this article"><span class="icon iconEmail"></span>Email this article</a></li><li><div id="plusoneholder" style="display:block;text-align:center;line-height:40px;border-left: 1px solid white;font-weight: bold;color: #6D7177;">
+<!-- Place this tag where you want the +1 button to render. -->
+<div id="plusoneiconholder" style="margin-right: 0px;float:none;display:inline-block;vertical-align: middle;">
+<div class="g-plusone" data-size="small"></div>
+
+<!-- Place this tag after the last +1 button tag. -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+</div>
+&nbsp;
+</div></li></ul>        <!-- /Sharing -->
+
+
+
+    </div>
+
+                <!-- About the author v2 -->
+        <div class="articleExtraDetails clearfix border">            <div class="author_info">
+                <h4>About the author:</h4>
+                <div class="author_avatar" >
+                                                <a href="http://www.thejournal.ie/author/cianan-brennan/3491/">
+                                <img src="https://f0.thejournal.ie/media/2015/10/Cianan-Brennan2-133x133.jpg" height="70" width="70">                            </a>
+                                        </div>
+                <div class="author_details">
+                    <div class="print_hidden section_lead">About the author</div>
+                    <div class="contact_box auth_named_desc">
+                        <span class="name">
+                            Cianan Brennan                        </span>
+                                            </div>
+                                                <div class="contact_box">
+                                <a href="http://twitter.com/ciananbrennan">
+                                    <span class="icon iconTwitter author_icon"></span>@ciananbrennan                                </a>
+                            </div>
+                                                        <div class="contact_box">
+                                <a href="mailto:cianan@thejournal.ie">
+                                    <span class="icon iconEmailSmall"></span><span class="contact_link">cianan@thejournal.ie</span>
+                                </a>
+                            </div>
+                            </div>                    <div class="contact_box clear_left_contact">
+                        <a rel="author" href="http://www.thejournal.ie/author/cianan-brennan/3491/"><span class="icon iconAuthorMore"></span>See more articles by Cianan Brennan</a>
+                    </div>
+                            </div>
+                        <div class="post_info">
+                <h4>Contribute to this story:</h4>
+                <div class="story_contribution">
+                                            <div class="contact_box">
+                            <a href="#respond"><span class="icon iconCommentBubble"></span>Leave a Comment</a>
+                        </div>
+                                        <div class="contact_box">
+                        <a href="#SubmitNews" class="lightboxTriggerPhotos" title="Send a Photo / Video"><span class="icon iconPhotoTip"></span>Send a Photo&nbsp;/&nbsp;Video</a>
+                    </div>
+                    <div class="contact_box">
+                        <a href="#SubmitNews" class="lightboxTriggerText showTextOnly" title="Send a Tip"><span class="icon iconTipLink"></span>Send a Tip</a>
+                    </div>
+                    <div class="contact_box">
+                        <a class="lightboxTrigger" href="#ReportContent" title="Corrections"><span class="icon iconCorrectionLink"></span>Send a Correction</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /About the author -->
+        
+
+    <input type="hidden" id="js-show-inline-river">
+    <input type="hidden" id="js-supplement-icon" value="//b0.thejournal.ie/desktop/i/magazine/magazine_icon.png">
+    <input type="hidden" id="js-debug-inline-river" value="">
+
+    <div id="inline-river" class="read_next_block in_article clearfix border" style="display: none;"></div>
+
+            <div id="taboola-adverts" class="read_next_block in_article clearfix border" style="display: none; padding-bottom: 15px;">
+
+                                        <div id="taboola-autosized-1r"></div>
+                <script type="text/javascript">
+                window._taboola = window._taboola || [];
+                window._taboola.push({mode: "autosized-1r", container: "taboola-autosized-1r"});
+                </script>
+                    </div>
+        
+<div id="storage_read_next_bottom" class="read_next_block in_article clearfix " >
+    <h3>Read next:</h3>
+</div>
+
+<script type="text/javascript">
+<!--
+    var newest_articles = [{"id":3918121,"title":"Lidl Ireland apologises to mum and son who were told to leave store with autism assistance dog","permalink":"http:\/\/www.thejournal.ie\/autism-assistance-dog-barred-lidl-store-3918121-Mar2018\/","stats":"<span class=\"red-views icon iconViewVeryPopular\"><\/span>12,489 Views","primary_tag":{"slug":"http:\/\/www.thejournal.ie\/discrimination\/news\/","name":"Discrimination"},"image":"<div id=\"read_next_banner\"><a href=\"http:\/\/www.thejournal.ie\/autism-assistance-dog-barred-lidl-store-3918121-Mar2018\/\"><img src=\"http:\/\/c1.thejournal.ie\/media\/2018\/03\/assistance-dog-290x120.jpg\"  id=\"r_n_image\" \/><\/a><\/div>","no_image":""},{"id":3919411,"title":"Two women (50s) killed after being struck by car involved in collision","permalink":"http:\/\/www.thejournal.ie\/galway-women-killed-in-collision-3919411-Mar2018\/","stats":"<span class=\"red-views icon iconViewVeryPopular\"><\/span>18,053 Views","primary_tag":{"slug":"http:\/\/www.thejournal.ie\/ballinasloe\/news\/","name":"Ballinasloe"},"image":"<div id=\"read_next_banner\"><a href=\"http:\/\/www.thejournal.ie\/galway-women-killed-in-collision-3919411-Mar2018\/\"><img src=\"http:\/\/c2.thejournal.ie\/media\/2018\/03\/90386682_90386682-4-290x120.jpg\"  id=\"r_n_image\" \/><\/a><\/div>","no_image":""},{"id":3919396,"title":"Three days after denying an alive man's existence, Romania gives a dead man his driving licence back","permalink":"http:\/\/www.thejournal.ie\/romania-driving-licence-dead-man-3919396-Mar2018\/","stats":"<span class=\"red-views icon iconViewVeryPopular\"><\/span>7,055 Views","primary_tag":{"slug":"http:\/\/www.thejournal.ie\/papers-please\/news\/","name":"Papers Please"},"image":"<div id=\"read_next_banner\"><a href=\"http:\/\/www.thejournal.ie\/romania-driving-licence-dead-man-3919396-Mar2018\/\"><img src=\"http:\/\/c1.thejournal.ie\/media\/2018\/03\/romania-driving-licence-dead-man-2-290x120.jpg\"  id=\"r_n_image\" \/><\/a><\/div>","no_image":""},{"id":3919278,"title":"Competition watchdog to further investigate mooted Irish Times takeover of Irish Examiner","permalink":"http:\/\/www.thejournal.ie\/ccpc-irish-times-irish-examiner-3919278-Mar2018\/","stats":"<span class=\"red-views icon iconViewVeryPopular\"><\/span>4,146 Views","primary_tag":{"slug":"http:\/\/www.thejournal.ie\/ccpc\/news\/","name":"CCPC"},"image":"<div id=\"read_next_banner\"><a href=\"http:\/\/www.thejournal.ie\/ccpc-irish-times-irish-examiner-3919278-Mar2018\/\"><img src=\"http:\/\/c0.thejournal.ie\/media\/2018\/03\/ccpc-irish-times-irish-examiner-2-290x120.jpg\"  id=\"r_n_image\" \/><\/a><\/div>","no_image":""},{"id":3919294,"title":"Researchers solve the mystery of 'alien' skeleton found 15 years ago","permalink":"http:\/\/www.thejournal.ie\/skeleton-alien-mystery-solved-3919294-Mar2018\/","stats":"<span class=\"red-views icon iconViewVeryPopular\"><\/span>16,302 Views","primary_tag":{"slug":"http:\/\/www.thejournal.ie\/myth-busted\/news\/","name":"Myth Busted"},"image":"<div id=\"read_next_banner\"><a href=\"http:\/\/www.thejournal.ie\/skeleton-alien-mystery-solved-3919294-Mar2018\/\"><img src=\"http:\/\/c1.thejournal.ie\/media\/2018\/03\/shutterstock_395215396-290x120.jpg\"  id=\"r_n_image\" \/><\/a><\/div>","no_image":""},{"id":3919296,"title":"Ahead of a \u20ac5 million overhaul, a food hall planned for this Dublin church has got a vital licence","permalink":"http:\/\/www.thejournal.ie\/st-andrews-church-wright-food-court-2-3919296-Mar2018\/","stats":"<span class=\"red-views icon iconViewVeryPopular\"><\/span>15,445 Views","primary_tag":{"slug":"http:\/\/www.thejournal.ie\/loaves-and-fishes\/news\/","name":"Loaves and Fishes"},"image":"<div id=\"read_next_banner\"><a href=\"http:\/\/www.thejournal.ie\/st-andrews-church-wright-food-court-2-3919296-Mar2018\/\"><img src=\"http:\/\/c0.thejournal.ie\/media\/2018\/03\/90350153_90350153-290x120.jpg\"  id=\"r_n_image\" \/><\/a><\/div>","no_image":""},{"id":3919246,"title":"'The first of many' - Trump hits China with tariffs on up to $60 billion of imports","permalink":"http:\/\/www.thejournal.ie\/trump-china-tariffs-3919246-Mar2018\/","stats":"<span class=\"red-views icon iconViewVeryPopular\"><\/span>14,757 Views","primary_tag":{"slug":"http:\/\/www.thejournal.ie\/dont-push-too-far\/news\/","name":"Don't Push too far"},"image":"<div id=\"read_next_banner\"><a href=\"http:\/\/www.thejournal.ie\/trump-china-tariffs-3919246-Mar2018\/\"><img src=\"http:\/\/c0.thejournal.ie\/media\/2018\/03\/president-trump-signs-a-presidential-memorandum-on-sanctioning-china-over-economic-aggression-290x120.jpg\"  id=\"r_n_image\" \/><\/a><\/div>","no_image":""}];
+    var popular_articles = [{"id":3916309,"title":"SCHWEPPES CULTURE MAGAZINE","permalink":"http:\/\/www.thejournal.ie\/river\/schweppes-culture-magazine-2473121-Mar2018\/","stats":"<span class=\"views icon iconView\"><\/span>41 Views","primary_tag":{"slug":"http:\/\/www.thejournal.ie\/news\/","name":null},"image":"<div id=\"read_next_banner\"><a href=\"http:\/\/www.thejournal.ie\/river\/schweppes-culture-magazine-2473121-Mar2018\/\"><img src=\"http:\/\/c0.thejournal.ie\/media\/2018\/03\/6935728389_30a289d0b7_o-2-290x120.jpg\"  id=\"r_n_image\" \/><\/a><\/div>","no_image":""},{"id":3918018,"title":"The 'Metro North' is now the MetroLink - here's what it'll look like","permalink":"http:\/\/www.thejournal.ie\/metro-link-route-3918018-Mar2018\/","stats":"<span class=\"red-views icon iconViewVeryPopular\"><\/span>66,915 Views","primary_tag":{"slug":"http:\/\/www.thejournal.ie\/on-track\/news\/","name":"On track"},"image":"<div id=\"read_next_banner\"><a href=\"http:\/\/www.thejournal.ie\/metro-link-route-3918018-Mar2018\/\"><img src=\"http:\/\/c2.thejournal.ie\/media\/2018\/03\/metrolink-4-290x120.png\"  id=\"r_n_image\" \/><\/a><\/div>","no_image":""},{"id":3915451,"title":"An Irishman in Brexit Britain: 'The atmosphere has changed since the vote'","permalink":"http:\/\/www.thejournal.ie\/readme\/an-irishman-in-brexit-britain-the-amosphere-has-changed-since-the-vote-3915451-Mar2018\/","stats":"<span class=\"red-views icon iconViewVeryPopular\"><\/span>48,064 Views","primary_tag":{"slug":"http:\/\/www.thejournal.ie\/column\/news\/","name":"column"},"image":"<div id=\"read_next_banner\"><a href=\"http:\/\/www.thejournal.ie\/readme\/an-irishman-in-brexit-britain-the-amosphere-has-changed-since-the-vote-3915451-Mar2018\/\"><img src=\"http:\/\/c1.thejournal.ie\/media\/2018\/03\/irish-person-in-brexit-britain-290x120.jpg\"  id=\"r_n_image\" \/><\/a><\/div>","no_image":""},{"id":3917524,"title":"'There needs to be a minimum standard on pitch facilities for an international game'","permalink":"http:\/\/www.the42.ie\/rachael-burford-womens-rugby-pitch-3917524-Mar2018\/","stats":"<span class=\"red-views icon iconViewVeryPopular\"><\/span>43,138 Views","primary_tag":{"slug":"http:\/\/www.thejournal.ie\/mud-bath\/news\/","name":"mud bath"},"image":"<div id=\"read_next_banner\"><a href=\"http:\/\/www.the42.ie\/rachael-burford-womens-rugby-pitch-3917524-Mar2018\/\"><img src=\"http:\/\/c2.thejournal.ie\/media\/2018\/03\/dyw9xr1waaiira2-290x120.jpg\"  id=\"r_n_image\" \/><\/a><\/div>","no_image":""}];
+
+    if( typeof(current_post_id) != 'undefined' && !isNaN(current_post_id))
+    {
+        var current_article_id = current_post_id;
+    }
+    else
+    {
+        var current_article_id = 3917076;
+    }
+
+    jQuery(document).ready(function($){
+        var div_read_next = $('#storage_read_next_bottom');
+        readNext.display_read_next_block(div_read_next);
+    });
+-->
+</script>
+<div class="lightboxes">
+    <div id="EmbedArticle" class="lightbox">
+            <h1 class="form-element border">Embed this post</h1>
+            <p class="">To embed this post, copy the code below on your site</p>
+            <p class="">
+                <label for="embedWide600">600px wide</label>
+                <textarea name="embedWide600" id="embedWide600">&lt;iframe width=&quot;600&quot; height=&quot;460&quot; frameborder=&quot;0&quot; style=&quot;border:0px;&quot; src=&quot;http://www.thejournal.ie/http://www.thejournal.ie/ballymun-fire-3917076-Mar2018/?embedpost=3917076&amp;width=600&amp;height=460&quot; &gt;&lt;/iframe&gt;</textarea>
+            </p>
+            <p class="">
+                <label for="embedWide400">400px wide</label>
+                <textarea name="embedWide400" id="embedWide400">&lt;iframe width=&quot;600&quot; height=&quot;460&quot; frameborder=&quot;0&quot; style=&quot;border:0px;&quot; src=&quot;http://www.thejournal.ie/http://www.thejournal.ie/ballymun-fire-3917076-Mar2018/?embedpost=3917076&amp;width=400&amp;height=460&quot; &gt;&lt;/iframe&gt;</textarea>
+            </p>
+            <p class="">
+                <label for="embedWide300">300px wide</label>
+                <textarea name="embedWide300" id="embedWide300">&lt;iframe width=&quot;600&quot; height=&quot;460&quot; frameborder=&quot;0&quot; style=&quot;border:0px;&quot; src=&quot;http://www.thejournal.ie/http://www.thejournal.ie/ballymun-fire-3917076-Mar2018/?embedpost=3917076&amp;width=300&amp;height=460&quot; &gt;&lt;/iframe&gt;</textarea>
+            </p>
+    </div>
+
+    
+<div id="EmailArticle" class="lightbox emailArticle">
+    <form id="email-popup-form" method="post" >
+        <input type="hidden" name="post_id" value="3917076" />
+        <input type="hidden" name="action" value="post_email_form" />
+        <input type="hidden" name="_csrf_token_645a83a41868941e4692aa31e7235f2" value="6a79ebfb23e8a4a858a21a49570cc0eb7085f2ec">
+        <h1 class="form-element border">Email &ldquo;No reports of casualties as major fire rages at building complex in north Dublin city&rdquo;.</h1>
+        <div class="form-element clearfix">
+            <div class="info-block">
+                <div class="form-element">
+                    <label for="yourEmail">Your Email</label>
+                    <input type="email" class="text" id="yourEmail" name="email-from" />
+                </div>
+            </div>
+            <div class="info-block recipient-info">
+                <div class="form-element">
+                    <label for="yourEmail">Recipient's Email</label>
+                    <input type="email" class="text" id="yourEmail" name="email-to" />
+                </div>
+            </div>
+        </div>
+
+        <div class="clearfix">
+            <button
+                class="buttonSubmit g-recaptcha"
+                data-sitekey="6LcKhBwUAAAAAPpO_djOuuNyHQadPwsgkYCXtCho"
+                data-callback="reCaptchaSubmit">Submit</button>
+            <img src="//b0.thejournal.ie/desktop/i/loading.gif"  width="16" height="16"  class="loading" alt="One moment..." />
+        </div>
+
+    </form>
+</div>
+
+    <div id="AlertAuthor" class="lightbox alertAuthor">
+        <form id="alert-author-popup-form" method="post">
+            <input type="hidden" name="post_id" value="3917076" />
+            <input type="hidden" name="action" value="post_alert_form" />
+            <h1 class="form-element border">Feedback on &ldquo;No reports of casualties as major fire rages at building complex in north Dublin city&rdquo;.</h1>
+
+            <div class="form-element message">
+                <div id="AlertAuthorMessage" class="field">
+                    <label for="AlertAuthorMessage">Your Feedback</label>
+                    <textarea name="message" id="AlertAuthorMessage"></textarea>
+                </div>
+            </div>
+                        <div class="form-element">
+                <label for="yourEmail">Your Email (optional)</label>
+                <input type="email" class="text" id="yourEmail" name="email-from" />
+            </div>
+                        <div class="clearfix">
+                <button class="buttonSubmit" type="submit">Submit</button>
+                <img src=""  width="16" height="16" class="loading" alt="One moment..." />
+            </div>
+        </form>
+    </div>
+    
+    
+    
+    <div id="ReportComment" class="lightbox alertAuthor">
+        <form id="report-comment-popup-form" method="post">
+            <input type="hidden" name="post_id" value="3917076" />
+            
+            <input type="hidden" name="action" value="comment_actions" />
+            
+            <input type="hidden" name="flag_comment" value="" id="report_comment_id" />
+            <h1 class="form-element border">Report a Comment</h1>
+
+            <div class="form-element message">
+                <label for="yourEmail">Please select the reason for reporting this comment.</label>
+                <select name="report_comment_reason" id="report_comment_reason">
+                    <option value="">
+                        Please select your reason for reporting...
+                    </option>
+                    <option value="no_like">
+                        You don't like this comment, or you disagree with this commenter
+                    </option>
+                    <option value="offensive">
+                        It contains offensive language, is hateful or incites violence
+                    </option>
+                    <option value="libel">
+                        It contains a libelous/defamatory statement
+                    </option>
+                    <option value="other">
+                        Some other reason...
+                    </option>
+                </select>
+            </div>
+
+            <div class="form-element message">
+                <div class="field">
+                    <label>Please give full details of the problem with the comment...</label>
+                    <textarea name="message" id="report_comment_details" style="height:100px"></textarea>
+                </div>
+            </div>
+            
+                        <div class="form-element">
+                <label for="yourEmail">Your Email</label>
+                <input type="email" class="text" id="report_comment_email" name="email-from" />
+            </div>
+                        <div class="clearfix">
+                <button class="buttonSubmit" type="submit">Submit</button>
+                <img src="//b0.thejournal.ie/desktop/i/loading.gif"  width="16" height="16" class="loading" alt="One moment..." />
+            </div>
+        </form>
+    </div>
+</div>
+<div id="comments">
+    <h2>COMMENTS (105)    </h2>
+        <div class="policy">
+        This is YOUR comments community. Stay civil, stay constructive, stay on topic. Please familiarise yourself with our comments policy <a href="/comments-policy/" target="_BLANK">here</a> before taking part.
+    </div>
+    <a class="big-button" href="#respond">write a comment</a>
+        <ul class="commentList border">
+    </ul>
+</div>
+    <div id="respond">
+        <h2><span id="respond-title">Leave a comment</span><span id="respond-cancel">cancel</span></h2>
+        <form action="/submit.php" method="post" class="" id="commentform">
+            <input type="hidden" name="redirect" value="http://www.thejournal.ie/ballymun-fire-3917076-Mar2018/">
+            <input type="hidden" name="action" value="new_comment">
+            <input type="hidden" name="auth_service" value="">
+                <div class="login" id="user_login_box">
+        <div id="comment-user-details">
+            <span class="empty-user">
+                <span class="icon-user-circle">
+                    <span class="comment-icon icon-user">
+                    </span>
+                </span>
+                Log in with:            </span>
+            <div id="alt-login-methods">
+                                <p>
+                    <span>
+                        <span class="social-login facebook-login label" id="" onclick="jrnl_social_login('facebook', false, 'false')">
+                            Facebook
+                        </span>
+                    </span>
+                </p>
+                                <p>
+                    <span class="social-login twitter-login label" id="" onclick="jrnl_social_login('twitter', false, 'false')">
+                        Twitter
+                    </span>
+                </p>
+                                <p>
+                    <img id="auth_loading" class="login_loading_throb" src="//b0.thejournal.ie/desktop/i/loading.gif">
+                </p>
+            </div>
+        </div>
+    </div>
+            <div class="login" id="user_details"  style="display: none;">
+                <div id="comment-user-details" >
+    <span class="icon-user-circle">
+        <img src="" id="user_details_img" width="50" height="50" />
+    </span>
+    <div class="user-text">
+        <span class="user-name">
+            <span id="user_details_name"></span>
+        </span>
+        <span class="user-logout">
+            <a href="http://www.thejournal.ie/logout.php?callback=http%253A%252F%252Fwww.thejournal.ie%252Fballymun-fire-3917076-Mar2018%252F">Log out</a>
+        </span>
+        <span class="user-service">
+        Logged in with <span id="user_details_auth"></span>
+        </span>
+    </div>
+</div>
+            </div>
+            <textarea name="comment" id="comment"></textarea>
+            <div id="commentExtraFields">
+                <div id="comment_options">
+                                            <label id="share_comment_cbox_label" for="share_comment_cbox">Share Comment on Facebook or Twitter</label>
+                        <span id="share_comment_cbox_twitter" class="hidden" title="Send Comment to Twitter"></span>
+                        <span id="share_comment_cbox_facebook" class="hidden" title="Share Comment on Facebook"></span>
+                        <input style="width: auto;" type="checkbox" name="share_comment" id="share_comment_cbox" value="1"  checked="checked">
+                        
+                    <div class="subscribe-to-comments-options hidden" id="sub-to-comment">
+                        <p style="clear: both;" class="email_notification_block">
+                            <label for="subscribe">Notify me of followup comments via e-mail</label>
+                            <input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;" >
+                        </p>
+                    </div>
+                </div>
+                <input type="text" name="email" value="" id="comment-email" size="50" style="height:20px">
+            </div>
+            <div class="commentSubmitFields">
+                <img id="commentLoading" class="hidden" src="//b0.thejournal.ie/desktop/i/loading.gif">
+                <button class="comment-submit" type="">
+                    Post Comment
+                </button>
+                <input type="hidden" name="comment_post_ID" value="3917076" id="comment_post_ID">
+                <input type="hidden" name="comment_parent" id="comment_parent" value="0">
+            </div>
+        </form>
+        <span id="comments_js">
+        </span>
+        <div style="clear:both"></div>
+    </div>
+
+</div><div id="scroll-sidebar"><div class="read_next_block sidebar" id="storage_read_next_widget">
+        <h3>Read Next:</h3>
+</div>
+<script type="text/javascript">
+<!--
+    jQuery(document).ready(function($){
+        var widget_read_next = $('#storage_read_next_widget');
+        readNext.display_read_next_sidebar(widget_read_next);
+    });
+-->
+</script>
+<!-- Sidebar -->
+<div class="sidebar span-4 last" id="sidebar-holder">
+<div class="advert adserverad">
+<div id='div-gpt-ad-1365092406213-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-0'); });
+</script>
+</div></div>
+    <div class="widget">
+        <div class="sectionSeparator">
+        <h3>Download our app</h3>
+        </div>
+        <div class="widgetContent" style="height:75px; margin:0px;  padding:0px">
+            <div class="single_app_link" style="margin-top:5px; width:100%">
+
+                <span style="float:left; margin-left: 15px">
+                    <a href="http://itunes.apple.com/ie/app/thejournal-ie/id409359491?mt=8" title="Download the TheJournal.ie for the iPhone, iPad and iPod">
+                        <img src="//b0.thejournal.ie/desktop/i/itunes_icon.png" class="itunes_image" width="134" height="45" />
+                        <!--span class="app_link_text app_link_text_ios">Get our free app for<br/>the iPhone & iPad</span-->
+                    </a>
+                </span>
+                <span style="float:right; margin-right:5px">
+                    <a href="http://play.google.com/store/apps/details?id=com.distilledmedia.thejournal" title="Download the TheJournal.ie for Android">
+                        <img src="//b0.thejournal.ie/desktop/i/android_get_it_on_play_logo_small.png" class="itunes_image" width="129" height="45" />
+                        <!--span class="app_link_text app_link_text_android">Also available in<br/>the Android Market</span-->
+                    </a>
+                </span>
+
+            </div>
+
+            <!--div style="padding:10px 20px 0; clear:both; line-height:1em">
+            <h3>Top Features:</h3>
+            <ul>
+                <li>5x faster loading of articles
+                <li>In-flight/offline reading
+                <li>Swipe between articles & photos
+                <li>Live-scores from rugby and football matches
+            </ul>
+
+            </div-->
+
+        </div>
+    </div>
+
+    
+</div>
+<!-- /Sidebar -->
+</div><script>_pool.push(['add', ['_dml', 'irish']]);_pool.push(['add', ['_dml', 'irish7', 10080]]);_pool.push(['add', ['_dml', 'thejournal']]);_pool.push(['add', ['_dml', 'thejournal7', 10080]]);</script>    <!-- Latest Opinions -->
+    <div class="trendingTags span-12" id="scroll-footer">
+        <div class="sectionSeparator">
+            <h3>Trending Opinions</h3>
+        </div>
+                <div class="footer_lo">
+            <table>
+                <tr>
+                    <td class="footer_lo_avatar">
+                        <a href="http://www.thejournal.ie/author/peter-flanagan/"><img src="https://f2.thejournal.ie/media/2018/03/PeterFlanagan-133x133.jpg" alt="Peter Flanagan" width="60" height="60"  class="footer_lo_avatar" /></a>
+                    </td>
+                    <td class="footer_lo_article">
+                        <a href="http://www.thejournal.ie/readme/an-irishman-in-brexit-britain-the-amosphere-has-changed-since-the-vote-3915451-Mar2018/" class="article">An Irishman in Brexit Britain: 'The atmosphere has changed since the vote'</a><br />
+                        <a href="http://www.thejournal.ie/author/peter-flanagan/" class="author">Peter Flanagan</a>
+                    </td>
+                </tr>
+            </table>
+            <div class="footer_lo footer_lo_2nd_row">
+                <a class="excerpt" href="http://www.thejournal.ie/readme/an-irishman-in-brexit-britain-the-amosphere-has-changed-since-the-vote-3915451-Mar2018/">It’s a subtle thing rather than something drastic, like when a relationship with a partner slowly deteriorates over time, writes Peter Flanagan.</a>
+            </div>
+        </div>
+                <div class="footer_lo">
+            <table>
+                <tr>
+                    <td class="footer_lo_avatar">
+                        <a href="http://www.thejournal.ie/author/peter-gunning/"><img src="https://f3.thejournal.ie/media/2017/10/WIN_20171024_15_07_04_Pro-133x133.jpg" alt="Peter Gunning" width="60" height="60"  class="footer_lo_avatar" /></a>
+                    </td>
+                    <td class="footer_lo_article">
+                        <a href="http://www.thejournal.ie/readme/retirement-for-the-first-time-in-nearly-forty-years-i-could-openly-admit-that-i-did-not-believe-in-god-3904607-Mar2018/" class="article">Retirement: 'For the first time in nearly forty years I could openly admit that I didn't believe in God'</a><br />
+                        <a href="http://www.thejournal.ie/author/peter-gunning/" class="author">Peter Gunning</a>
+                    </td>
+                </tr>
+            </table>
+            <div class="footer_lo footer_lo_2nd_row">
+                <a class="excerpt" href="http://www.thejournal.ie/readme/retirement-for-the-first-time-in-nearly-forty-years-i-could-openly-admit-that-i-did-not-believe-in-god-3904607-Mar2018/">Being an atheist principal and managing a Catholic school was a difficult balance to maintain, writes Peter Gunning.</a>
+            </div>
+        </div>
+                <div class="footer_lo">
+            <table>
+                <tr>
+                    <td class="footer_lo_avatar">
+                        <a href="http://www.thejournal.ie/author/brian-moss/"><img src="https://f2.thejournal.ie/media/2018/03/Profile-Pic-133x133.jpg" alt="Brian Moss" width="60" height="60"  class="footer_lo_avatar" /></a>
+                    </td>
+                    <td class="footer_lo_article">
+                        <a href="http://www.thejournal.ie/readme/the-notion-that-rte-are-the-only-public-service-broadcaster-in-the-state-is-nonsense-3905492-Mar2018/" class="article">'The notion that RTÉ is the only public service broadcaster in the State is nonsense'</a><br />
+                        <a href="http://www.thejournal.ie/author/brian-moss/" class="author">Brian Moss</a>
+                    </td>
+                </tr>
+            </table>
+            <div class="footer_lo footer_lo_2nd_row">
+                <a class="excerpt" href="http://www.thejournal.ie/readme/the-notion-that-rte-are-the-only-public-service-broadcaster-in-the-state-is-nonsense-3905492-Mar2018/">Give local radio the same chance to serve listeners, writes Brian Moss.</a>
+            </div>
+        </div>
+            </div>
+    <!-- /Latest Opinions -->
+    <!-- Most popular today -->
+    <div class="trendingTags span-12" id="">
+        <div class="sectionSeparator">
+			<h3>Most Popular Today</h3>
+		</div>
+                <div class="footer_mp">
+            <a href="http://www.thejournal.ie/">
+                <img src="//b0.thejournal.ie/desktop/i/thejournal-trending.png" alt="TheJournal.ie" id="footer_mp_section_thejournal" />
+            </a>
+                            <table>
+                    <tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="thejournal">
+                                1                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://www.thejournal.ie/metro-link-route-3918018-Mar2018/">The 'Metro North' is now the MetroLink - here's what it'll look like</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsthejournal"></span>
+                                    <span class="footer_thejournal">66,868</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsthejournal"></span>
+                                    <span class="footer_thejournal">135</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                            <table>
+                    <tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="thejournal">
+                                2                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://www.thejournal.ie/readme/an-irishman-in-brexit-britain-the-amosphere-has-changed-since-the-vote-3915451-Mar2018/">An Irishman in Brexit Britain: 'The atmosphere has changed since the vote'</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsthejournal"></span>
+                                    <span class="footer_thejournal">48,051</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsthejournal"></span>
+                                    <span class="footer_thejournal">107</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                            <table>
+                    <tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="thejournal">
+                                3                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://www.thejournal.ie/firefighters-tackle-hotspots-after-dublin-fire-3917314-Mar2018/">'This is not a Grenfell Tower type of fire': Investigations to begin after Dublin block blaze</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsthejournal"></span>
+                                    <span class="footer_thejournal">40,711</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsthejournal"></span>
+                                    <span class="footer_thejournal">38</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                    </div>
+                <div class="footer_mp">
+            <a href="https://fora.ie/">
+                <img src="//b0.thejournal.ie/desktop/i/fora-trending.png" alt="Fora" id="footer_mp_section_businessetc" />
+            </a>
+                            <table>
+                    <tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="businessetc">
+                                1                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="https://fora.ie/irish-tv-post-liquidation-sale-3917626-Mar2018/">After millions in investment, Irish TV's assets were snapped up for less than €200k</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsbusinessetc"></span>
+                                    <span class="footer_businessetc">646</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsbusinessetc"></span>
+                                    <span class="footer_businessetc">0</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                            <table>
+                    <tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="businessetc">
+                                2                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="https://fora.ie/metro-link-route-2-3918295-Mar2018/">Dublin's 'Metro North' is now the MetroLink - here's what we know about the plans</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsbusinessetc"></span>
+                                    <span class="footer_businessetc">462</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsbusinessetc"></span>
+                                    <span class="footer_businessetc">0</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                            <table>
+                    <tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="businessetc">
+                                3                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="https://fora.ie/st-andrews-church-wright-food-court-3918513-Mar2018/">Ahead of a €5m overhaul, a food hall planned for this Dublin church has got a vital licence</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsbusinessetc"></span>
+                                    <span class="footer_businessetc">327</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsbusinessetc"></span>
+                                    <span class="footer_businessetc">0</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                    </div>
+                <div class="footer_mp">
+            <a href="http://www.the42.ie/">
+                <img src="//b0.thejournal.ie/desktop/i/the42-trending.png" alt="The42" id="footer_mp_section_thescore" />
+            </a>
+                            <table>
+                    <tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="thescore">
+                                1                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://www.the42.ie/rachael-burford-womens-rugby-pitch-3917524-Mar2018/">'There needs to be a minimum standard on pitch facilities for an international game'</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsthescore"></span>
+                                    <span class="footer_thescore">43,113</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsthescore"></span>
+                                    <span class="footer_thescore">8</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                            <table>
+                    <tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="thescore">
+                                2                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://www.the42.ie/shane-odonnell-set-to-miss-2019-season-due-to-harvard-studies-3919240-Mar2018/">Clare's Shane O'Donnell set to miss 2019 season due to Harvard studies</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsthescore"></span>
+                                    <span class="footer_thescore">25,592</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsthescore"></span>
+                                    <span class="footer_thescore">20</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                            <table>
+                    <tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="thescore">
+                                3                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://www.the42.ie/joe-schmidt-all-blacks-ireland-2019-3916674-Mar2018/">'He's someone who could potentially come back and coach the All Blacks'</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsthescore"></span>
+                                    <span class="footer_thescore">24,903</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsthescore"></span>
+                                    <span class="footer_thescore">19</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                    </div>
+                <div class="footer_mp">
+            <a href="http://www.dailyedge.ie/">
+                <img src="//b0.thejournal.ie/desktop/i/thedailyedge-trending.png" alt="DailyEdge.ie" id="footer_mp_section_thedailyedge" />
+            </a>
+                            <table>
+                    <tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="thedailyedge">
+                                1                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://www.dailyedge.ie/asos-3-3917484-Mar2018/">ASOS handled printing 17,000 shopping bags with a typo in a pretty unique way </a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsthedailyedge"></span>
+                                    <span class="footer_thedailyedge">11,181</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsthedailyedge"></span>
+                                    <span class="footer_thedailyedge">0</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                            <table>
+                    <tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="thedailyedge">
+                                2                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://www.dailyedge.ie/meghan-markle-prince-harry-wedding-invitations-miss-ms-feminism-modern-3918858-Mar2018/">There's a very interesting feminist detail on Prince Harry and Meghan Markle's wedding invitations </a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsthedailyedge"></span>
+                                    <span class="footer_thedailyedge">7,847</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsthedailyedge"></span>
+                                    <span class="footer_thedailyedge">1</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                            <table>
+                    <tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="thedailyedge">
+                                3                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://www.dailyedge.ie/st-patricks-day-parade-in-lahardane-co-mayo-fox-news-3918196-Mar2018/">A St. Patrick's Day parade in a small Mayo village managed to make it onto Fox News in Ohio this week </a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsthedailyedge"></span>
+                                    <span class="footer_thedailyedge">7,415</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsthedailyedge"></span>
+                                    <span class="footer_thedailyedge">0</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                    </div>
+                </div>
+        <!-- /Most popular today -->
+    <!-- Trending Tags -->
+    <div class="trendingTags span-12">
+        <div class="sectionSeparator">
+            <h3>Trending Tags</h3>
+        </div>
+                            <div class="footer_tn">
+                        <div class="footer_tn_tag">
+                        <div id="arrows" style="float:right;position:relative;right:0px;"><span class="icon iconDoubleUp"></span></div>
+                            <a href="http://www.thejournal.ie/blanchardstown/news/" class="tag_link">BLANCHARDSTOWN</a>
+                        </div>
+                                                    <a href="http://www.thejournal.ie/blanchardstown-neighbourhood-guide-3892309-Mar2018/">
+                                <img 
+                                    src="http://c2.thejournal.ie/media/2018/03/6166191879_c94fe66e9a_b-150x100.jpg"
+                                    alt="Your guide to Blanchardstown: City-in-a-city with hundreds of shops and a movie-star history"
+                                    width="130" height="80" style="width: 130px; height: 80px;"
+                                    class="footer_tn_article_img"
+                                />
+                            </a>
+                                                        <div class="footer_tn_article">
+                                    <a href="http://www.thejournal.ie/blanchardstown-neighbourhood-guide-3892309-Mar2018/">
+                                        Your guide to Blanchardstown: City-in-a-city with hundreds of shops and a movie-star history                                    </a>
+                                </div>
+                                                                <div class="footer_tn_article">
+                                    <a href="http://www.thejournal.ie/blanchardstown-property-prices-3908175-Mar2018/">
+                                        Here's the average price of a home in Blanchardstown in 2018                                    </a>
+                                </div>
+                                                                <div class="footer_tn_article last">
+                                    <a href="http://www.thejournal.ie/radicalisation-in-ireland-3864163-Mar2018/">
+                                        'I want to join ISIS': How big a problem is radicalisation in Ireland?                                    </a>
+                                </div>
+                                                    </div>
+                                        <div class="footer_tn">
+                        <div class="footer_tn_tag">
+                        <div id="arrows" style="float:right;position:relative;right:0px;"><span class="icon iconDoubleUp"></span></div>
+                            <a href="http://www.thejournal.ie/breath-tests/news/" class="tag_link">BREATH TESTS</a>
+                        </div>
+                                                    <a href="http://www.thejournal.ie/policing-authority-breath-test-3713581-Nov2017/">
+                                <img 
+                                    src="http://c0.thejournal.ie/media/2017/11/26102011-launch-campaign-for-new-drink-driving-13-150x100.jpg"
+                                    alt="Commissioner confirms no garda&Atilde;&shy; will be disciplined over breath test scandal"
+                                    width="130" height="80" style="width: 130px; height: 80px;"
+                                    class="footer_tn_article_img"
+                                />
+                            </a>
+                                                        <div class="footer_tn_article">
+                                    <a href="http://www.thejournal.ie/policing-authority-breath-test-3713581-Nov2017/">
+                                        Commissioner confirms no gardaí will be disciplined over breath test scandal                                    </a>
+                                </div>
+                                                                <div class="footer_tn_article">
+                                    <a href="http://www.thejournal.ie/garda-breath-tests-3-3677619-Nov2017/">
+                                        Two investigations later, there's no assurance garda scandals will not happen again                                    </a>
+                                </div>
+                                                                <div class="footer_tn_article last">
+                                    <a href="http://www.thejournal.ie/noel-cunningham-breath-test-report-3676670-Nov2017/">
+                                        Garda Superintendent says new report of 400,000 more falsified breath tests 'could be described as a guesstimate'                                    </a>
+                                </div>
+                                                    </div>
+                                        <div class="footer_tn">
+                        <div class="footer_tn_tag">
+                        <div id="arrows" style="float:right;position:relative;right:0px;"><span class="icon iconUp"></span></div>
+                            <a href="http://www.thejournal.ie/gaa/news/" class="tag_link">GAA</a>
+                        </div>
+                                                    <a href="http://www.dailyedge.ie/christmas-chocolate-quiz-2-61727-Dec2012/">
+                                <img 
+                                    src="http://c0.thejournal.ie/media/2012/12/box-of-chocolates-150x100.jpg"
+                                    alt="The Big Fat Christmas Chocolate Quiz"
+                                    width="130" height="80" style="width: 130px; height: 80px;"
+                                    class="footer_tn_article_img"
+                                />
+                            </a>
+                                                        <div class="footer_tn_article">
+                                    <a href="http://www.dailyedge.ie/christmas-chocolate-quiz-2-61727-Dec2012/">
+                                        The Big Fat Christmas Chocolate Quiz                                    </a>
+                                </div>
+                                                                <div class="footer_tn_article">
+                                    <a href="http://www.thejournal.ie/5-things-you-didnt-know-about-kim-jong-il-29123-Dec2011/">
+                                        5 things you didn’t know about Kim Jong Il                                    </a>
+                                </div>
+                                                                <div class="footer_tn_article last">
+                                    <a href="http://www.the42.ie/the-sunday-papers-the-best-of-the-weeks-sportswriting-72399-Jan2011/">
+                                        The Sunday Papers: the best of the week’s sportswriting                                    </a>
+                                </div>
+                                                    </div>
+                                        <div class="footer_tn">
+                        <div class="footer_tn_tag">
+                        <div id="arrows" style="float:right;position:relative;right:0px;"><span class="icon iconUp"></span></div>
+                            <a href="http://www.thejournal.ie/courts/news/" class="tag_link">COURTS</a>
+                        </div>
+                                                    <a href="http://www.thejournal.ie/sharon-ni-bheolain-harassment-court-case-3919017-Mar2018/">
+                                <img 
+                                    src="http://c1.thejournal.ie/media/2018/03/sharon-ni-bheolain-harassment-court-case-2-150x100.jpg"
+                                    alt="40-year-old man to be sentenced in May for harassment of Sharon N&Atilde;&shy; Bheol&Atilde;&iexcl;in"
+                                    width="130" height="80" style="width: 130px; height: 80px;"
+                                    class="footer_tn_article_img"
+                                />
+                            </a>
+                                                        <div class="footer_tn_article">
+                                    <a href="http://www.thejournal.ie/sharon-ni-bheolain-harassment-court-case-3919017-Mar2018/">
+                                        40-year-old man to be sentenced in May for harassment of Sharon Ní Bheoláin                                    </a>
+                                </div>
+                                                                <div class="footer_tn_article">
+                                    <a href="http://www.thejournal.ie/vincent-ryan-murder-accused-3919102-Mar2018/">
+                                        Man told gardaí he was 'absolutely not guilty' of murder of Vincent Ryan                                    </a>
+                                </div>
+                                                                <div class="footer_tn_article last">
+                                    <a href="http://www.thejournal.ie/matthew-horan-3918695-Mar2018/">
+                                        Man who exploited young girls ordered not to take part in computer programming course                                    </a>
+                                </div>
+                                                    </div>
+                                        <div class="footer_tn">
+                        <div class="footer_tn_tag">
+                        <div id="arrows" style="float:right;position:relative;right:0px;"><span class="icon iconUp"></span></div>
+                            <a href="http://www.thejournal.ie/gardai/news/" class="tag_link">GARDAí</a>
+                        </div>
+                                                    <a href="http://www.thejournal.ie/fire-apartment-waterford-3918224-Mar2018/">
+                                <img 
+                                    src="http://c3.thejournal.ie/media/2018/03/capture-1158-150x100.jpg"
+                                    alt="Investigation launched into fire at apartment block in Waterford"
+                                    width="130" height="80" style="width: 130px; height: 80px;"
+                                    class="footer_tn_article_img"
+                                />
+                            </a>
+                                                        <div class="footer_tn_article">
+                                    <a href="http://www.thejournal.ie/fire-apartment-waterford-3918224-Mar2018/">
+                                        Investigation launched into fire at apartment block in Waterford                                    </a>
+                                </div>
+                                                                <div class="footer_tn_article">
+                                    <a href="http://www.thejournal.ie/ballymun-fire-3917076-Mar2018/">
+                                        No reports of casualties as major fire rages at building complex in north Dublin city                                    </a>
+                                </div>
+                                                                <div class="footer_tn_article last">
+                                    <a href="http://www.thejournal.ie/dublin-fire-brigade-advertising-scam-3916698-Mar2018/">
+                                        Dublin Fire Brigade warns businesses about advertising scam                                     </a>
+                                </div>
+                                                    </div>
+                                        <div class="footer_tn last">
+                        <div class="footer_tn_tag">
+                        <div id="arrows" style="float:right;position:relative;right:0px;"><span class="icon iconUp"></span></div>
+                            <a href="http://www.thejournal.ie/dublin/news/" class="tag_link">DUBLIN</a>
+                        </div>
+                                                    <a href="http://www.thejournal.ie/12th-century-graffiti-art-uncovered-as-part-of-medieval-discovery-in-dublins-coombe-3918137-Mar2018/">
+                                <img 
+                                    src="http://c1.thejournal.ie/media/2018/03/12th-c-slate-with-grafitti-art-150x100.jpg"
+                                    alt="12th Century graffiti art uncovered as part of medieval discovery in Dublin's Coombe"
+                                    width="130" height="80" style="width: 130px; height: 80px;"
+                                    class="footer_tn_article_img"
+                                />
+                            </a>
+                                                        <div class="footer_tn_article">
+                                    <a href="http://www.thejournal.ie/12th-century-graffiti-art-uncovered-as-part-of-medieval-discovery-in-dublins-coombe-3918137-Mar2018/">
+                                        12th Century graffiti art uncovered as part of medieval discovery in Dublin's Coombe                                    </a>
+                                </div>
+                                                                <div class="footer_tn_article">
+                                    <a href="http://www.thejournal.ie/ballymun-hotel-fire-3917748-Mar2018/">
+                                        'We don't have anything else... Everything's gone': Entire homes destroyed in Ballymun fire                                    </a>
+                                </div>
+                                                                <div class="footer_tn_article last">
+                                    <a href="http://www.thejournal.ie/tenants-rent-rises-3916479-Mar2018/">
+                                        'It's infuriating': Tenants frustrated as minister hails 'slowdown' in rent rises                                    </a>
+                                </div>
+                                                    </div>
+                            </div>
+    </div>
+    <!-- /Trending Tags -->
+        <!-- /Main content -->
+        <!-- Footer -->
+        <div class="footer background">
+            <div id="server_identifier">
+                <span title="Rendered at 2018-03-23 03:06:06 Europe/Dublin +0000 DST:0 on 106">
+                                            &#8734;
+                                        </span>
+            </div>
+            <div class="span-2">
+                <h3 class="border">About Us</h3>
+                <ul>
+                    <li><a href="http://www.thejournal.ie/about-us/">About Us</a></li>
+                    <li><a href="http://careers.thejournal.ie/">We're Hiring!</a></li>
+                    <li><a href="http://www.thejournal.ie/contact/">Contact Us</a></li>
+                    <li><a href="http://advertising.thejournal.ie">Advertise With Us</a></li>
+                </ul>
+            </div>
+            <div class="span-2">
+                <h3 class="border">Follow Us</h3>
+                <ul>
+                    <li><a href="http://twitter.com/thejournal_ie">Twitter</a></li>
+                    <li><a href="http://www.facebook.com/thejournal.ie">Facebook</a></li>
+                </ul>
+            </div>
+            <div class="span-2">
+                <h3 class="border">Corrections</h3>
+                <ul>
+                    <li><a class="lightboxTrigger" href="#ReportContent" title="Corrections">Report Content</a></li>
+
+                </ul>
+            </div>
+            <div class="span-2">
+                <h3 class="border">Policies</h3>
+                <ul>
+                    <li><a href="http://www.thejournal.ie/terms/" title="Terms of Use">Terms of Use</a></li>
+                    <li><a href="http://www.thejournal.ie/privacy/" title="Privacy">Privacy</a></li>
+                    <li><a href="http://www.thejournal.ie/cookies-policy/" title="Cookies">Cookies</a></li>
+                    <li><a href="http://www.thejournal.ie/advertising-policy/" title="Advertising">Advertising</a></li>
+                    <li><a href="http://www.thejournal.ie/comments-policy/" title="Comments">Comments</a><!--<span class="icon iconUpdated"></span>--></li>
+                    <li><a href="http://www.thejournal.ie/copyright-policy/" title="Copyright">Copyright</a></li>
+                    <li><a href="http://www.thejournal.ie/competitions-terms-and-conditions/">Competition</a></li>
+                </ul>
+            </div>
+            <div class="copyright span-4 last">
+                <strong>Content copyright &copy; Journal Media Ltd. 2018</strong>
+                Registered in Dublin, registration number: 483623.
+                Registered office: 3rd floor, Latin Hall, Golden Lane, Dublin 8.
+            </div>
+            <div class="legal border span-12">
+            <span class='PCI-footer-logo PCI-logo'></span>
+            <p>
+                <b><i>TheJournal.ie</i></b> is a full participating member of the Press Council of Ireland and supports
+                the Office of the Press Ombudsman.  This scheme in addition to defending the freedom of the
+                press, offers readers a quick, fair and free method of dealing with complaints that they may
+                have in relation to articles that appear on our pages.  To contact the Office of the
+                Press Ombudsman Lo-Call 1890 208 080 or go to
+                <a href='http://www.pressombudsman.ie' target="_blank">www.pressombudsman.ie</a>
+                or <a href='http://www.presscouncil.ie' target="_blank">www.presscouncil.ie</a>
+            </p>
+            <p>Please note that TheJournal.ie uses cookies to improve your experience and to provide services and advertising. For more information on cookies please refer to our <a href="http://www.thejournal.ie/cookies-policy">cookies policy</a>.</p>
+            <p>News images provided by <a href="http://www.pressassociation.com/images.html">Press Association</a> and <a href="http://www.photocallireland.com/">Photocall Ireland</a> unless otherwise stated. Irish sport images provided by <a href="http://www.inpho.ie">Inpho Photography</a> unless otherwise stated. Wire service provided by <a href="http://www.thejournal.ie/terms/?c=1#ap">Associated Press</a>.</p>
+
+            <p>Journal Media does not control and is not responsible for user created content, posts, comments, submissions or preferences. Users are reminded that they are fully responsible for their own created content and their own posts, comments and submissions and fully and effectively warrant and indemnify Journal Media in relation to such content and their ability to make such content, posts, comments and submissions available. Journal Media does not control and is not responsible for the content of external websites.</p>
+
+            <p class="switcher"><a href="http://www.thejournal.ie/ballymun-fire-3917076-Mar2018/?switcher=touch" rel="nofollow">Switch to Mobile Site</a>  <span class="nightmode-toggle">| Night mode</span></p>
+            <p class="distilled">Sites:
+                <a href="http://www.thejournal.ie/">TheJournal.ie</a> |
+                <a href="http://www.the42.ie/">The42.ie</a> |
+                <a href="http://www.dailyedge.ie/">DailyEdge.ie</a> |
+                <a href="http://fora.ie/">Fora.ie</a> |
+                <a href="http://www.boards.ie/">Boards.ie</a> |
+                <a href="http://www.adverts.ie/">Adverts.ie</a> |
+                <a href="http://www.daft.ie/">Daft.ie</a>
+            </p>
+            </div>
+
+        </div>
+
+        <!-- /Footer -->
+
+        </div>
+        <!-- /Main container -->
+
+        <!-- Lightboxes -->
+    <div class="lightboxes">
+
+<div id="SubmitNews" class="submitNews lightbox">
+
+    <form action="http://www.thejournal.ie/ajax.php" method="post" enctype="multipart/form-data" id="SubmitNewsForm">
+        <input type="hidden" name="action" value="tip_post" />
+        <input type="hidden" name="current_post_id" id="current_post_id" value="TheJournal.ie" />
+        <h1 class="form-element border" id="share_tip_title">Blow the whistle or share a story</h1>
+        <div class="form-element form-link border submitImage">
+            <div class="upAddLinks">
+                <a href="#uploadImage">Upload an image</a><!-- |
+                <a href="#addImage">Add image URL</a>--></p>
+            </div>
+            <div class="actionField" id="uploadImage">
+                <label for="uploadImage">Upload an image</label>
+                <input type="file" id="uploadImage" name="image_upload" />
+                <a href="#uploadImage" class="cancel">cancel</a>
+            </div>
+            <div class="actionField" id="addImage">
+                <label for="addImage">Add an image URL</label>
+                <input type="text" id="addImage" name="image_url" />
+                <a href="#addImage" class="cancel">cancel</a>
+            </div>
+        </div>
+        <div class="form-element form-link border submitVideo">
+            <div class="upAddLinks">
+                <a href="#uploadVideo">Upload a video</a> |
+                <a href="#addVideo">Add YouTube video</a>
+            </div>
+            <div class="actionField" id="uploadVideo">
+                <label for="uploadVideo">Upload a video</label>
+                <input type="file" id="uploadVideo" name="video_upload" />
+                <a href="#uploadVideo" class="cancel">cancel</a>
+            </div>
+            <div class="actionField" id="addVideo">
+                <label for="addVideo">YouTube Address (URL):</label>
+                <input type="text" id="addVideo" name="video_url" />
+                <a href="#addVideo" class="cancel">cancel</a>
+            </div>
+        </div>
+        <div class="form-element border yourStory clearfix">
+            <textarea name="story" id="story"></textarea>
+            <label for="email_tip" id="email_tip_label">Your email (optional)</label>
+            <input type="text" name="email_tip" id="email_tip"></input>
+            <button class="buttonSubmit" type="submit">Submit</button>
+            <img src="//b0.thejournal.ie/desktop/i/loading.gif" width="16" height="16" class="loading" alt="One moment..." />
+            <div class="thanks-message" id="tip-ty"></div>
+        </div>
+    </form>
+    <p class="notice">Alternatively, you can email us at: <a href="mailto:tips@thejournal.ie">tips@thejournal.ie</a></p>
+
+</div>
+
+<div id="CommentLogIn" class="lightbox">
+    <h1 class="border">Please log in to comment</h1>
+    <div class="login-buttons clearfix">
+        <div id="alt-login-methods">
+            <p>
+                <span>
+                    <span class="facebook_connect_button label" id="" onclick="jrnl_social_login('facebook', true, false)">
+                        <img src="//b0.thejournal.ie/desktop/i/fb-login.png" width="169" height="22" />
+                    </span>
+                </span>
+            </p>
+            <p>
+                <span class="twitter_connect_button label" id="" onclick="jrnl_social_login('twitter', true, false)">
+                    <img width="151" height="24" border="0" src="//b0.thejournal.ie/desktop/i/tw-login.png">
+                </span>
+            </p>
+            <p>
+            <img id="main_page_login" class="login_loading_throb" src="//b0.thejournal.ie/desktop/i/loading.gif">
+            </p>
+        </div>
+    </div>
+</div>
+
+<div id="TeamLogIn" class="lightbox">
+    <h1 class="border">Please log in with facebook to become a fan</h1>
+    <div class="login-buttons clearfix">
+        <div id="alt-login-methods">
+            <p class="sport-fb-login">
+                <span>
+                    <span class="facebook_connect_button label" id="" onclick="jrnl_social_login('facebook', false, 'liketeam')">
+                        <img src="//b0.thejournal.ie/desktop/i/fb-login.png" width="169" height="22" />
+                    </span>
+                </span>
+            </p>
+            <p>
+            <img id="main_page_login" class="login_loading_throb" src="//b0.thejournal.ie/desktop/i/loading.gif">
+            </p>
+        </div>
+    </div>
+</div>
+
+<div id="SubmitNewsLogIn" class="lightbox">
+    <h1 class="border">Please log in</h1>
+    <div class="login-buttons clearfix">
+        <div id="alt-login-methods">
+            <p>
+                <span>
+                    <span class="facebook_connect_button label" id="" onclick="jrnl_social_login('facebook', false, false)">
+                        <img src="//b0.thejournal.ie/desktop/i/fb-login.png" width="169" height="22" />
+                    </span>
+                </span>
+            </p>
+            <p>
+                <span class="twitter_connect_button label" id="" onclick="jrnl_social_login('twitter', false, false)">
+                    <img width="151" height="24" border="0" src="//b0.thejournal.ie/desktop/i/tw-login.png">
+                </span>
+            </p>
+            <p>
+            <img id="main_page_login" class="login_loading_throb" src="//b0.thejournal.ie/desktop/i/loading.gif">
+            </p>
+        </div>
+    </div>
+</div>
+
+<div id="feed-popup" class="lightbox">
+
+    <h1 class="border">RSS feeds available here:</h1>
+
+    <div class="feedlist border">
+<p class="rss"><a href="/feed/">TheJournal.ie Latest News Feed</a></p><p class="rss"><a href="http://www.thejournal.ie/ballymun-fire-3917076-Mar2018//feed/">No reports of casualties as major fire rages at building complex in north Dublin city Comments</a></p>    </div>
+
+</div>
+<div id="ReportContent" class="lightbox reportContent">
+    <form id="report-content-popup-form" method="post">
+    <input type="hidden" name="current_page" value="http://www.thejournal.ie/ballymun-fire-3917076-Mar2018/" />
+        <input type="hidden" name="action" value="post_report_content_form" />
+        <input type="hidden" name="article-id" value="3917076" />
+        <h1 class="form-element border">Report an error, omission or problem:</h1>
+
+        <div class="form-element message">
+            <div id="AlertAuthorMessage" class="field">
+                <label for="AlertAuthorMessage">Message:</label>
+                <textarea name="message" id="AlertAuthorMessage"></textarea>
+            </div>
+        </div>
+
+        <div class="form-element">
+            <label for="yourEmail">Your Email (optional)</label>
+            <input type="email" class="text" id="yourEmail" name="email-from" />
+        </div>
+
+        <div class="clearfix">
+            <button class="buttonSubmit" type="submit">Submit</button>
+            <img src="//b0.thejournal.ie/desktop/i/loading.gif"  width="16" height="16"  class="loading" alt="One moment..." />
+        </div>
+
+    </form>
+</div>
+<div id="EmailAlert" class="lightbox emailAlert">
+    <form id="create-email-alert-form" method="post">
+    <input type="hidden" name="current_page" value="http://www.thejournal.ie/ballymun-fire-3917076-Mar2018/" />
+        <input type="hidden" name="action" value="post_create_email_alert_form" />
+        <h1 class="form-element border">Create Email Alert</h1>
+        <p>Create an email alert based on the current article</p>
+
+        <div class="form-element">
+            <label for="alertEmailAddress">Email Address</label>
+            <input type="text" class="text" id="alertEmailAddress" name="email-address" />
+        </div>
+
+        <div class="form-element">
+            <input type="radio" class="radio emailAlert" id="alertFrequencyDaily" name="alert-frequency" value="daily" checked="checked" />
+            <label for="alertFrequencyDaily" class="emailAlert">One email every morning</label>
+            <input type="radio" class="radio emailAlert" id="alertFrequencyInstantly" name="alert-frequency" value="instantly" />
+            <label for="alertFrequencyInstantly" class="emailAlert">As soon as new articles come online</label>
+        </div>
+
+        <input type="hidden" name="ip-address" value="49.52.97.192" />
+        <input type="hidden" name="feed-url" value="/topic//feed" />
+        <input type="hidden" name="feed-description" value="Articles related to " />
+
+        <div class="clearfix">
+            <button class="buttonSubmit" type="submit">Submit</button>
+            <img src="//b0.thejournal.ie/desktop/i/loading.gif"  width="16" height="16"  class="loading" alt="One moment..." />
+        </div>
+
+    </form>
+</div>
+
+<div id="Thanks" class="lightbox">
+    <h1 id="thanks-message" style="color:#cc0000"></h1>
+</div>
+</div>
+        <!-- /Lightboxes -->
+
+        <script type="text/javascript">
+            var _ac = 'thejournal.ie';
+            var _sid = '234604';
+            var _un = 'thejournal.ie';
+            var _pa = '76af0b4d8a69839c0d361c0862fd0ed8';
+        </script>
+
+                <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-17456403-1']);
+            _gaq.push(['_setDomainName', 'thejournal.ie']);
+            _gaq.push(['_setAllowLinker', true]);
+            _gaq.push(['_setSiteSpeedSampleRate', 10]);
+
+            
+            _gaq.push(['_setCustomVar',
+               2,
+               'Social Session:',
+               'None',
+                2
+            ]);
+
+
+            function local_storage_support(){
+                try{
+                    return 'localStorage' in window && window['localStorage'] !== null;
+                }catch(e){
+                    return false;
+                }
+            }
+            storage_support = 'No';
+            if(local_storage_support())
+            {
+                storage_support = 'Yes';
+            }
+            _gaq.push(['_setCustomVar',
+                       1,
+                       'Local Storage Support:',
+                       storage_support,
+                       1
+                   ]);
+
+
+           _gaq.push(['_trackPageview']
+               , ['b._setAccount', 'UA-28511705-2']
+               , ['b._trackPageview']
+           );
+
+            (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+
+        
+            <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            window._taboola.push({"article": "auto"});
+            </script>
+            <script type="text/javascript" src="http://cdn.taboolasyndication.com/libtrc/distilledmedia-thejournal/loader.js"></script>
+
+        <img src='/i.php?i=3917076&r=152177436628909&type=article&key=article_3917076&interaction=view' /><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><script type="text/javascript" src="//b0.thejournal.ie/desktop/js/ping.1.js?adType=sale"></script>
+        <script type="text/javascript">
+            jQuery(document).ready(function($){
+                if(window.fkjerbgknfbe == undefined)
+                {
+                    $.get('/internal.php', {
+                        'publication' : 'thejournal',
+                        'state' : true
+                    });
+                }
+                else
+                {
+                    $.get('/internal.php', {
+                        'publication' : 'thejournal'
+                    });
+                }
+            });
+                        if('sessionStorage' in window && window['sessionStorage'] !== null)
+            {
+                var _ga_login_status = sessionStorage.getItem("_ga_login_status");
+
+                if(_ga_login_status == null)
+                {
+                    _ga_login_status = {"facebook":null, "google":null, "googlePlus":null, "twitter":null};
+                    var _ga_login_support = [];
+                    var _ga_login_called = [];
+
+                    function ga__log_login_status(n, b)
+                    {
+                        _ga_login_status[n] = b;
+                        if(b === true) {
+                            _ga_login_support.push(n);
+                        }
+                        _ga_login_called.push(n);
+                        if(_ga_login_called.length == 4)
+                        {
+                            _ga_login_support.sort();
+                            _gaq.push(['_setCustomVar',
+                                       3,
+                                       'Social Session Support:',
+                                       _ga_login_support.join('; '),
+                                       2
+                                   ]);
+                            _gaq.push(['_trackEvent', 'socialSession', 'Detection Complete']); // this is needed to push the custom var to GA
+                            sessionStorage.setItem("_ga_login_status", _ga_login_status);
+                        }
+                    }
+
+                    var _ga_fb_login_status = null;
+                    function ga__check_fb()
+                    {
+                        // this response will be cached if already called
+                        if(typeof FB != 'undefined'
+                            && _ga_fb_login_status == null)
+                        {
+                            FB.getLoginStatus(function(response) {
+                                _ga_fb_login_status = response.status;
+                                if(response.status == 'unknown') {
+                                    ga__log_login_status("facebook", false);
+                                }
+                                else {
+                                    ga__log_login_status("facebook", true);
+                                }
+                            });
+                        }
+                        else
+                        {
+                            setTimeout(ga__check_fb, 250);
+                        }
+                    }
+
+                    ga__check_fb();
+
+                                    }
+            }
+        </script>
+    </body>
+</html>

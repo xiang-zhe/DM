@@ -1,0 +1,933 @@
+<!DOCTYPE html>
+<!--[if lte IE 7]><html class="nojs ie7" lang="en"><![endif]-->
+<!--[if IE 8]><html class="nojs ie8" lang="en"><![endif]-->
+<!--[if (gt IE 8)|!(IE)]><!--><html lang="en" class="nojs" prefix="og: http://ogp.me/ns#"><!--<![endif]-->
+<head>
+    <script src="//cdn.optimizely.com/js/2006990665.js"></script>
+    
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"a1aecb726d","applicationID":"4017795","transactionName":"cVgLFUILXlpdSxhXUkVEFw5fCR1AUVxA","queueTime":2,"applicationTime":318,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Uw4BUVZXGwcAVVZVDgQ="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+<!--public ist standard für newsroom show-->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Family appeals for Finnish woman Tiina Jauhiainen confirmed... - Detained In Dubai</title>
+    <meta name="description" content="41 year old Finnish woman Tiina Johanna Jauhiainen has been reported missing by her family. She was onboard the US registered yacht “Nostromo” that went..." />
+        <meta name="keywords" content="Finland, Finnish Embassy, Tiina Johanna Jauhiainen, Escape from Dubai, missing princess, Ruler of Dubai, #WhereisNotromo?, Søren Søndergaard, Missing Yacht, #FindNostromo" />
+    <meta name="robots" content="index, follow" />
+    <meta property="fb:app_id" content="164521400263620" />
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="qurrMrjtj3v0J+TNg3aP3qHHVFAWCSayDKm+sB5VtTHWFyMLM84UGsk/yvMap3qQ9+3KMDKzM0zjnZFt+fAB+g==" />
+    <meta property="og:site_name" content="Mynewsdesk" />
+<meta property="og:image" content="https://resources.mynewsdesk.com/image/upload/t_open_graph_image/hemmzdia7tnulbnrf5zq.jpg" />
+<meta property="og:url" content="http://www.mynewsdesk.com/uk/stirling-och-partners/pressreleases/family-appeals-for-finnish-woman-tiina-jauhiainen-confirmed-missing-from-same-yacht-as-sheikha-latifa-and-herve-jaubert-familys-urgent-appeal-for-dot-dot-dot-2452260" />
+<meta property="og:description" content="41 year old Finnish woman Tiina Johanna Jauhiainen has been reported missing by her family. She was onboard the US registered yacht “Nostromo” that went..." />
+
+<meta property="og:title" content="Family appeals for Finnish woman Tiina Jauhiainen confirmed missing from same yacht as Sheikha Latifa &amp; Hervé Jaubert. Family’s urgent appeal for help and statement." />
+<meta property="og:type" content="article" />
+<meta name="twitter:card" content="summary_large_image" />
+    <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png?v=1">
+    <link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-touch-icon-72x72-precomposed.png?v=1">
+    <link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-touch-icon-114x114-precomposed.png?v=1">
+    <link rel="apple-touch-icon" sizes="120x120" href="/favicons/apple-touch-icon-120x120-precomposed.png?v=1">
+    <link rel="apple-touch-icon" sizes="144x144" href="/favicons/apple-touch-icon-144x144-precomposed.png?v=1">
+    <link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-touch-icon-152x152-precomposed.png?v=1">
+    <link rel="icon" type="image/png?v=1" sizes="16x16" href="/favicons/favicon-16x16.png?v=1">
+    <link rel="icon" type="image/png?v=1" sizes="24x24" href="/favicons/favicon-24x24.png?v=1">
+    <link rel="icon" type="image/png?v=1" sizes="32x32" href="/favicons/favicon-32x32.png?v=1">
+    <link rel="icon" type="image/png?v=1" sizes="64x64" href="/favicons/favicon-64x64.png?v=1">
+    <link rel="shortcut icon" href="/favicon.ico?v=1">
+    <meta name="msapplication-TileColor" content="#ff4c4c">
+    <meta name="msapplication-TileImage" content="/favicons/apple-touch-icon-144x144-precomposed.png?v=1">
+    <meta name="theme-color" content="#ff4c4c">
+              <meta name="thumbnail" content="https://resources.mynewsdesk.com/image/upload/t_next_gen_article_large_480/hemmzdia7tnulbnrf5zq.jpg">
+
+
+         <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0">
+         
+            <link rel="stylesheet" media="all" href="https://d9qz450atvita.cloudfront.net/assets/newsroom-4ddb562f0acd63abd8d2fca6176969aabb1609822a5a3ac0385e98d162d36a75.css" />
+    <!--[if IE 7]>
+    <link rel="stylesheet" media="all" href="https://d9qz450atvita.cloudfront.net/assets/font-awesome/font-awesome-ie7-64292f3fb258d63f27b34d6f9a648cf3dad8bfc3b37405cd4a600a42cd114a25.css" />
+    <![endif]-->
+
+        <script src="https://d9qz450atvita.cloudfront.net/assets/newsroom-4bf3d0b4bf3790d945d54b94fb88779a406141a8cd4711c56fa70c87f14866ad.js"></script>
+      <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+    <!--[if lt IE 9]>
+        <script src="https://d9qz450atvita.cloudfront.net/assets/html5shiv-c5e8fba20e1a52c6a4531ed4a877b01527a7bd022c81f41469e9bdb0c5a08c2f.js"></script>
+    <![endif]-->
+
+      <script type="text/javascript">
+          var _sf_startpt=(new Date()).getTime();
+          I18n.locale = 'en';
+          var _site = {
+              code: "uk",
+              prefix: "/uk/"
+          };
+          
+      </script>
+      <link rel="stylesheet" media="print" href="https://d9qz450atvita.cloudfront.net/assets/print-e760f1481dec675ac1a1d3885f96d1004aec1f796d5d921e214d6bcae23b17f3.css" />
+      
+            <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['mndTracker._setAccount', 'UA-67918-1']);
+_gaq.push(['mndTracker._setDomainName', 'mynewsdesk.com']);
+_gaq.push(['mndTracker._setCustomVar', 1, 'mnd-newsroom', '87794', 3]);
+_gaq.push(['mndTracker._setCustomVar', 5, 'mnd-item', 'pressrelease_2452260', 3]);
+
+_gaq.push(['mndTracker._trackPageview']);
+_gaq.push(['analyze._setAccount', 'UA-67918-24']);
+_gaq.push(['analyze._setDomainName', 'mynewsdesk.com']);
+_gaq.push(['analyze._setCustomVar', 1, 'mnd-newsroom', '87794', 3]);
+_gaq.push(['analyze._setCustomVar', 5, 'mnd-item', 'pressrelease_2452260', 3]);
+_gaq.push(['analyze._trackPageview']);
+
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = '//stats.g.doubleclick.net/dc.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script>
+
+    <script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        var MNDMetaData = {
+      "sid": "467d5f88bb012d03dcab59ffd74ec0b2",
+      "ip": "49.52.99.149",
+      "url": window.location.href,
+      "referrer": "",
+      "frontendVersion" : "20180320145444"
+    };
+
+ga('create', 'UA-49778234-1', { 'cookieDomain': 'mynewsdesk.com', 'name': 'analyze' });
+ga('analyze.set', 'dimension2', '232');
+ga('analyze.set', 'dimension9', 'United Kingdom');
+MNDMetaData['site'] = '232';
+MNDMetaData['siteName'] = 'United Kingdom';
+ga('analyze.set', 'dimension3', '81460');
+ga('analyze.set', 'dimension10', 'Stirling &amp; Partners');
+ga('analyze.set', 'dimension12', '1501777588');
+MNDMetaData['source'] = '81460';
+MNDMetaData['sourceName'] = 'Stirling &amp; Partners';
+ga('analyze.set', 'dimension4', '87794');
+ga('analyze.set', 'dimension11', 'Detained In Dubai');
+ga('analyze.set', 'dimension13', '1501777588');
+MNDMetaData['newsroom'] = '87794';
+MNDMetaData['newsroomName'] = 'Detained In Dubai';
+ga('analyze.set', 'dimension5', 'Pressrelease_2452260');
+ga('analyze.set', 'dimension14', '1521471060');
+MNDMetaData['material'] = 'Pressrelease_2452260';
+ga('analyze.set', 'dimension7', 'PROFESSIONAL');
+MNDMetaData['customer'] = 'PROFESSIONAL';
+ga('analyze.set', 'dimension6', 'newsroom#view');
+ga('analyze.set', 'contentgroup1', 'Newsroom');
+MNDMetaData['feature'] = 'Newsroom';
+ga('analyze.send', 'pageview');
+    </script>
+
+    <link rel="search" type="application/opensearchdescription+xml" title="Mynewsdesk" href="http://www.mynewsdesk.com/opensearch.xml" />
+
+      <link rel="amphtml" href="https://amp.mynewsdesk.com/uk/stirling-och-partners/pressreleases/family-appeals-for-finnish-woman-tiina-jauhiainen-confirmed-missing-from-same-yacht-as-sheikha-latifa-and-herve-jaubert-familys-urgent-appeal-for-dot-dot-dot-2452260" />
+
+    <link rel="canonical" href="http://www.mynewsdesk.com/uk/stirling-och-partners/pressreleases/family-appeals-for-finnish-woman-tiina-jauhiainen-confirmed-missing-from-same-yacht-as-sheikha-latifa-and-herve-jaubert-familys-urgent-appeal-for-dot-dot-dot-2452260" />
+
+             
+    <link href="https://use.fontawesome.com/releases/v5.0.2/css/all.css" rel="stylesheet">
+</head>
+<body class="app-public namespace-newsroom">
+    <a href="#main-content" accesskey="0" class="main-skip-link">Skip to main content</a>
+    <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TNHWTN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>
+
+window.dataLayer = window.dataLayer || [];
+
+    dataLayer = [{
+        'site': 'uk',
+        'justSignedUp': 'false',
+    }];
+
+
+
+
+    dataLayer.push({
+        'loggedIn': false
+    });
+
+
+    dataLayer.push({
+        'pageType': 'newsroom',
+        'newsroomPageType': 'news'
+    });
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TNHWTN');</script>
+<!-- End Google Tag Manager -->
+
+
+    <div class="wp-navigation hidden-print">
+  <nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container-fluid">
+      <div class="navbar-header">
+    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-menu-collapse" aria-expanded="false">
+        <div class="navbar-toggle-open">Menu</div>
+        <div class="navbar-toggle-close">Close</div>
+    </button>
+    <a class="navbar-brand event-tracking" data-event-category="Navigation header" data-event-action="Logo" data-event-label="" href="https://www.mynewsdesk.com/">
+        <img class="newsroom" src="https://d9qz450atvita.cloudfront.net/assets/logo-34ab5297328e3a5fbc693073e2e704dc3f4c3a6b5c8ab06823e44d8c2961bbba.svg" alt="Logo" />
+</a></div>
+
+      <div class="collapse navbar-collapse" id="main-menu-collapse">
+    <ul class="nav navbar-nav">
+            <li class="hidden-md hidden-lg">
+                <a class="event-tracking" data-event-category="Navigation header" data-event-action="Link - Pressofficer Signup" data-event-label="Free trial" href="https://www.mynewsdesk.com/uk/signup">Free trial</a>
+            </li>
+            <li class="hidden-md hidden-lg">
+                <a class="event-tracking" data-event-category="Navigation header" data-event-action="Link - Login" data-event-label="Log in" href="https://www.mynewsdesk.com/user/signin">Log in</a>
+            </li>
+            <li>
+                <a class="event-tracking" data-event-category="Navigation header" data-event-action="Link - Stories" data-event-label="Search stories" href="https://www.mynewsdesk.com/uk/stories">Search stories</a>
+            </li>
+            <li>
+                <a class="event-tracking" data-event-category="Navigation header" data-event-action="Link - Pricing" data-event-label="Pricing" href="https://www.mynewsdesk.com/uk/pricing">Pricing</a>
+            </li>
+            <li>
+                  <a class="event-tracking" data-event-category="Navigation header" data-event-action="Link - Product" data-event-label="How it works" href="https://www.mynewsdesk.com/uk/tour">How it works</a>
+            </li>
+            <li>
+                    <a class="event-tracking" data-event-category="Navigation header" data-event-action="Link - Pressofficer Signup" data-event-label="Free trial" href="https://www.mynewsdesk.com/uk/signup">Send press release</a>
+            </li>
+            <li class="hidden-md hidden-lg">
+                <a class="event-tracking" data-event-category="Navigation header" data-event-action="Link - About" data-event-label="About us" href="https://www.mynewsdesk.com/uk/about">About us</a>
+            </li>
+        <li class="hidden-md hidden-lg">
+            <a class="event-tracking" data-event-category="Navigation header" data-event-action="Link - Contact" data-event-label="Contact us" href="https://www.mynewsdesk.com/uk/contact">Contact us</a>
+        </li>
+        <li class="hidden-md hidden-lg">
+            <a class="event-tracking" data-event-category="Navigation header" data-event-action="Link - Support" data-event-label="Help &amp; support" href="https://www.mynewsdesk.com/uk/support">Help &amp; support</a>
+        </li>
+    </ul>
+    <ul class="nav navbar-nav navbar-right hidden-xs hidden-sm">
+            <li>
+                <a class="event-tracking" data-event-category="Navigation header" data-event-action="Link - Login" data-event-label="Log in" href="https://www.mynewsdesk.com/user/signin">Log in</a>
+            </li>
+            <li>
+                  <a class="btn-menu event-tracking" data-event-category="Navigation header" data-event-action="Link - Journalist" data-event-label="For journalists" href="https://www.mynewsdesk.com/uk/journalist">Create news alert</a>
+
+            </li>
+    </ul>
+</div>
+
+    </div>
+  </nav>
+</div>
+
+
+    <div>
+            <style>
+        #cookie-consent {
+            background: #454f59;
+            color: #f7f9fa;
+            transition: opacity .3s ease;
+            opacity: 1;
+        }
+        #cookie-consent .wrapper {
+          padding: 10px 40px;
+        }
+        .sb-active #cookie-consent {
+            opacity: 0;
+        }
+        .cookies-unaccepted #main .more,
+        .cookies-unaccepted #main-footer {
+            padding-bottom: 40px;
+        }
+        #cookie-consent-close {
+          font-size: 16px;
+          padding: 5px 10px;
+          background: none;
+        }
+        #cookie-consent-close .accept {
+          color: #f7f9fa;
+        }
+    </style>
+   <div id="cookie-consent" class="text-center">
+      <div class="wrapper">
+        We use cookies to deliver our services and to ensure that we give you the best experience on our website. For details see our  <strong><a href="https://www.mynewsdesk.com/uk/about/terms-and-conditions/cookies?locale=en">cookie policy</a></strong>.
+        <button type="button" id="cookie-consent-close" class="btn btn-link" title="Close">
+          <span class="accept">&times;</span>
+        </button>
+      </div>
+   </div>
+   <script>
+   jQuery(function() {
+      var $cookieInfo = jQuery('#cookie-consent');
+      jQuery('body').addClass('cookies-unaccepted');
+      jQuery('#cookie-consent-close').on('click', function() {
+         Mynewsdesk.cookies.create('cookies_accepted');
+         $cookieInfo.remove();
+         jQuery('.cookies-unaccepted').removeClass('cookies-unaccepted');
+      });
+   });
+   </script>
+
+        
+
+        <div id="content-area" class="clearfix container">
+                <div id="page-content" class="has-pressroom">
+            <div id="newsroom-header" class="newsroom-header">
+        
+<div class="row-fluid">
+    <div class="newsroom-header-content">
+            <div class="newsroom-logotype">
+
+
+                    <a href="/uk/stirling-och-partners" title="Go to Detained In Dubai&#39;s Newsroom">
+        <img alt="Detained In Dubai" class="logotype" src="https://resources.mynewsdesk.com/image/upload/t_next_gen_logo_limit_x2/oizzluojaa0z7iz7vwys.jpg" />
+    <span class="pull-right newsroom-collapse-bars toggle-menu">
+        <i class="icon icon-chevron-down"></i>
+    </span>
+</a>
+
+
+            </div>
+        <div class="newsroom-nav-collapse">
+    <ul class="newsroom-nav-items">
+        <li class="newsroom-nav-item newsroom-nav-item-home">
+            <a href="/uk/stirling-och-partners"><i class='icon icon-home'></i> <span class='visible-medium-inline'> Overview</span></a>
+        </li>
+          <li class="newsroom-nav-item newsroom-nav-item-news active">
+              <a href="/uk/stirling-och-partners/latest_news"><i class='icon icon-star'></i> News</a>
+          </li>
+          <li class="newsroom-nav-item newsroom-nav-item-media">
+              <a href="/uk/stirling-och-partners/latest_media"><i class='icon icon-camera'></i> Images & Videos</a>
+          </li>
+          <li class="newsroom-nav-item newsroom-nav-item-contacts">
+              <a href="/uk/stirling-och-partners/contact_people"><i class='icon icon-user'></i> Contacts</a>
+          </li>
+    </ul>
+
+    <div class="newsroom-header-misc ">
+            
+    <a class="event-tracking ajax-tracking internal-follow-button follow-trigger" rel="nofollow" data-event-category="new-follow-signup" data-event-action="follow-newsroom" data-event-label="follow-header" data-url="/uk/stirling-och-partners/follow_overlay" href="/media/follow_toggle/87794">
+        <span class="button">
+            <span class="follow-icon"><img src="https://d9qz450atvita.cloudfront.net/assets/components/follow-button/mnd-retina-a17f4b4dd359e8d99e8b544cb218597d5fbc6c9cd61efcc00aaabfb51346d8a1.png" alt="Mnd retina" /></span>
+            <span class="content">Follow Detained In Dubai</span>
+        </span>
+</a>
+    </div>
+
+    <form class="newsroom-search Bizible-Exclude" action="/uk/stirling-och-partners/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+  <input type="text" name="query" id="query" placeholder="Search" class="form-control" />
+  <input type="hidden" name="authenticity_token" id="authenticity_token" value="VZyGWBAFHJYFAMFVl8UidXoqis/VxafAe+cAIF/lyNEpYU5hmyaH9zgY72sOFNc7LAAUr/F/sj6U0y/9uEB8Gg==" />
+</form>
+</div>
+
+    </div>
+</div>
+
+</div>
+
+        <div class="main-content" id="main-content">
+            
+
+  <div id="content" class="view-article" role="main">
+    <section>
+      <article>
+        <div class="row-fluid">
+          <div class="span12">
+            <header>
+              
+<h1 class="newsroom-headline fn">Family appeals for Finnish woman Tiina Jauhiainen confirmed missing from same yacht as Sheikha Latifa &amp; Hervé Jaubert. Family’s urgent appeal for help and statement.</h1>
+
+    <h4 class="meta" style="margin-bottom:20px;">
+        <span class="release-type pressrelease">
+            <a href="/uk/stirling-och-partners/pressreleases">Press Release</a>
+        </span>
+          &nbsp; • &nbsp;
+              <span class="material-date">Mar 19, 2018</span>&nbsp<span class="material-time">14:51</span>&nbsp<span class="material-timezone">GMT</span>
+    </h4>
+
+            </header>
+          </div>
+        </div>
+
+        <div class="row-fluid">
+          <div class="span9">
+                <div class="media-wrapper large boxed">
+                  <figure class="web-image">
+                    <div class="img-placeholder" style="padding-bottom: 100.0%;">
+                      <img alt="" data-src="https://resources.mynewsdesk.com/image/upload/c_limit,dpr_auto,f_auto,h_700,q_auto,w_auto/hemmzdia7tnulbnrf5zq.jpg" class="cld-responsive" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />
+                    </div>
+                    <noscript>
+                      <img alt="Family appeals for Finnish woman Tiina Jauhiainen confirmed missing from same yacht as Sheikha Latifa &amp; Hervé Jaubert. Family’s urgent appeal for help and statement." src="https://resources.mynewsdesk.com/image/upload/t_next_gen_article_large_480/hemmzdia7tnulbnrf5zq.jpg">
+                    </noscript>
+                        <figcaption class="caption">Tiina Jauhiainen, missing since 4th of March 2018</figcaption>
+                  </figure>
+                </div>
+
+            <div class="newsroom-article">
+                  <div class='markdown clearfix'><div class='clearfix'><p>41 year old Finnish woman <a href="https://www.facebook.com/tiina.jauhiainen.372" rel="nofollow">Tiina Johanna Jauhiainen</a> has been reported missing by her family.  She was onboard the US registered yacht “Nostromo” that went missing off the coast of Goa, India, with <a href="http://emirateswoman.com/meet-sheikh-mohammeds-daredevil-daughter-whos-new/" rel="nofollow">Sheikha Latifa</a>, daughter of the <a href="https://en.wikipedia.org/wiki/Mohammed_bin_Rashid_Al_Maktoum" rel="nofollow">Ruler of Dubai</a> and French/US national <a href="https://en.wikipedia.org/wiki/Herv%C3%A9_Jaubert" rel="nofollow">Hervé Jaubert</a>, two weeks ago.</p><p>Contact was lost with all three parties on the 4th of March 2018 after an SOS call was made to Detained in Dubai’s founder, Radha Stirling, by Sheikha Latifa who reported gunshots. All three have been officially reported as missing in France, the UK, the USA, India, Finland and the UAE.  </p><p>Tiina was a close friend of Sheikha Latifa Mohammed bin Rashid Al Maktoum of Dubai, known for her skydiving, a sport that Tiina was also passionate about and they had bonded over the years, becoming close confidants.</p><p>Sheikha Latifa had confided in Tiina that she had been imprisoned and abused as a result of a prior escape attempt and, since her release, was working on a plan to flee the country.  Tiina had in turn, told her family of the situation and Latifa’s ideas to leave the country.  The two friends found public figure and French ex secret service agent Hervé Jaubert, who is famous for his book “Escape from Dubai”.</p><p>Tiina’s family contacted by Tiina from the yacht and they maintained communication with her.  The last time Tiina was seen online was a few minutes before the distress call was made from Latifa to Radha.  Latifa told Radha in her SOS call that she was hiding with her friend, that men were outside, that she didn’t know what was happening and that she had “heard gunshots”.  At this time, all communication with Latifa, Hervé and Tiina ceased and it has now been over two weeks without word.</p><p>Detained in Dubai has been assisting authorities and seeking information that may help with the investigation.  Prominent London based Barrister <a href="http://tobycadman.com/" rel="nofollow">Toby Cadman</a> of <a href="http://guernica37.org/" rel="nofollow">Guernica International Justice Chambers</a> has already raised the incident and allegations of Sheikha Latifa at the United Nations, requesting urgent investigation and intervention.</p><p>Radha Stirling said “We have a US flagged yacht that has disappeared, a US/French national, a Finnish national and the daughter of the ruler of Dubai missing after reporting gunfire.  We now have the daughter of the ruler of a country making serious allegations of criminal actions against her father.  The UAE has such strong commercial, trade, media and diplomatic ties, that this incident is likely to have a snowballing effect on the political and economic stability.</p><p>Authorities have remained silent, including the UAE, and it is clear that these people need as much outside help as they can get.  There has been overwhelming worldwide support from the public, and the incident has even been raised in Denmark’s Parliament via <a href="https://en.wikipedia.org/wiki/S%C3%B8ren_S%C3%B8ndergaard" rel="nofollow">Søren Søndergaard</a> and this attention needs to continue.  Latifa, Hervé and Tiina deserve their disappearance to be properly and thoroughly investigated, irrespective of the economic and political importance of the UAE.  I have spoken with Hervé’s family, who only discovered he was missing when the news was published; I have now spoken with Tiina’s family who are equally as distressed.  Tiina’s family have issued a statement and are appealing to the public for any information that could lead to finding their beloved daughter and sister”.</p><p>David Haigh, who is working on this incident, said <em style="background-color: initial;">“the magnitude of what occurred in the Indian ocean two weeks ago on a US registered yacht is getting graver by the day. Radha and I and the team at Detained in Dubai have been working day and night to put together the pieces of what has happened. We have spent this last week speaking with the families and friends of those missing and involved. Offering, advice and comfort in what is a horrific time. It is totally unacceptable that the UAE continue their silence. It is two weeks, six people and a US registered boat that are missing in the most concerning circumstances.  This set against a back drop of Dubai’s own Media office pumping story after story of a different Sheikha Latifa, perhaps in a bid to confuse the world, whilst shadowy diplomatic PR companies brief press behind the scenes that this is not Sheikha Latifa, yet refuse to put that in writing.  We at Detained in Dubai know this is Sheikha Latifa. I have personally known this since I first came across Her Highness at the GFH office in Dubai almost ten years ago. More importantly all the families of the missing and those involved know this is Sheikha Latifa, as do the hundreds of people that met her in Sky Dive Dubai, where she was known as the Sky diving princess. The thousands of her Instagram follows know this. The question why has the UAE stayed silent?”</em></p><ul> <li>Detained in Dubai is in touch with the Finnish Ministry of Foreign Affairs and the Finnish Police.  The Ministry of Foreign Affairs have confirmed that they are seeking any information that may assist their investigation and that the Finnish Embassy in Abu Dhabi is following the case.</li>
+</ul><ul> <li>Detained in Dubai has filed an urgent request for intervention with the Indian Coast Guard and has provided last known coordinates of the yacht called “Nostromo”, registered in Delaware, US.</li>
+</ul><ul> <li>It has been reported to <a href="http://www.escapefromdubai.org" rel="nofollow">Escape from Dubai</a> that UAE authorities have “rounded up at least ten people who were known to be in communication with Tiina, after the duo went missing in late February”.  Detained in Dubai is seeking further information on those who may currently be in CID custody.</li>
+</ul><ul> <li>Escape from Dubai was founded in response to this incident to act as a central information point and is seeking to raise funds to assist with legal and investigative costs.</li>
+</ul><ul> <li>Detained in Dubai is now in contact with all family members of the missing persons.</li>
+</ul><ul> <li>Social media users are using hashtags #FindLatifa #FindHervé #WhereisLatifa? #WhereisHervé? #EscapefromDubai#WhereisNostromo? to source information and raise awareness.  #WhereisTiina? is the new question that needs answering.</li>
+</ul><ul><li><img src="https://lh5.googleusercontent.com/BZVWC0yclRqHeflys7lpaVNnfL6Z1_fnqAuwVMDmzJirrETkw1Qk6k4QJVYDpFg9DASz0JyFACpLYD2fl7ZQAMJAPTiPN56OdR8yDekp3nkArsKZW-FiR_RBvdbS8-oT9-wnO-Vf" width="185" height="185" style="background-color: initial;border-style:none;"></li></ul><p><a href="https://www.instagram.com/wanderingfinn/" rel="nofollow">https://www.instagram.com/wanderingfinn/</a></p><p><a href="https://www.facebook.com/tiina.jauhiainen.372" rel="nofollow">https://www.facebook.com/tiina.jauhiainen.372</a></p><p><strong>Statement of the </strong><strong>Jauhiainen</strong> <b style="background-color: initial;">Family:</b></p><p>My name is Oku Jauhiainen. I am the brother of Tiina Johanna Jauhiainen. Tiina is a Finnish citizen, born on the 18th of August 1976 in Iisalmi, Finland. She is a beloved daughter, an aunt cherished by her nieces and nephews, and a sister much loved by her three siblings. I speak for, and on behalf of, our entire family in this statement.</p><p>Tiina left our small town for the world, first to London in 1997, later settling in Dubai. She had always wanted to see the world, and she cares very little for material wealth or possessions. She believes that wealth was to be found in experiencing the world, meeting people and making friends. She has traveled widely and far, and we greatly admire her bravery and her passion for life. Her visits back home, when she shares her adventures with us, have been the highlights of our years.</p><p>Since 2001, Tiina has lived in Dubai, United Arab Emirates, working mainly in real estate and fitness industries. In mid-2000s Tiina became an avid enthusiast of capoeira, a Brazilian martial art. In 2010 the sport also connected Tiina with Sheikha Latifa Mohammed bin Rashid Al Maktoum of Dubai when Tiina became her instructor and personal trainer. They became close friends, with a particular passion for skydiving.  Sheikha Latifa referred to Tiina as “my angel” and “the only person I can talk to about anything”.</p><p>Our last contact with Tiina was on Saturday 3rd of March.  Next week my sister was worried about her as it was unusual for her to be silent for so long. On Sunday morning 11th of March a trusted and close friend of the family contacted me after becoming aware of the news regarding the distress call of Sheikha Latifa Mohammed bin Rashid Al Maktoum of Dubai from a yacht off the coast of India, near Goa. We knew Tiina and Sheikha Latifa were close friends so we became very worried. Later in the day</p><p>we noticed Tiina’s phone was last online approximately ten minutes before the time given for the distress call in Detained in Dubai’s first press release which mentioned the name ‘Tina’. We became very alarmed. We contacted the police and the Ministry for Foreign Affairs of Finland, and filed a missing persons report. We began gathering evidence of what had happened.  We contacted many people who might know Tiina’s location, and we were contacted by people who were also worried about her.</p><p>Although we had hoped otherwise, after a week of investigation and carefully weighing all the evidence we had gathered, including that provided to us by the Ministry for Foreign Affairs of Finland, there was no doubt in our minds. Tiina was on that yacht with Sheikha Latifa and Hervé Jaubert.</p><p>Like Sheikha Latifa and Hervé Jaubert, we have appointed Detained in Dubai to act on</p><p>behalf of our daughter and our family in this matter. One of the first things we have asked Detained in Dubai to do is to include Tiina’s name in the complaint to the United Nations by Toby Cadman, Barrister of Guernica International Justice Chambers in London.</p><p>We appeal to Sheikh Mohammed bin Rashid Al Maktoum as a father and to the Crown</p><p>prince Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum as a brother, like us, to</p><p>investigate this matter urgently, to contact Detained in Dubai and to make a public statement.</p><p>Our family is devastated that Tiina, her dear friend Sheikha Latifa of Dubai and many others are missing in what appears to be horrific circumstances. This last week has been a living hell, it is every family’s worst nightmare and we appeal to each and every member of the public, wherever they may be, in Dubai, or India or anywhere else, who may have information that could be helpful to please contact <a href="http://www.escapefromdubai.org" rel="nofollow">www.escapefromdubai.org</a> or <a href="http://www.detainedindubai.org" rel="nofollow">www.detainedindubai.org</a>.</p><p>We would like to thank Detained in Dubai and many others, friends and strangers, for their help and support.</p><p>Oku Jauhiainen, on behalf of the Jauhiainen family Monday 19th of March 2018 in Iisalmi, Finland.</p><p><strong>Background Information:</strong></p><p>British NGO Detained in Dubai received a plea for emergency assistance from American/French national Hervé Jaubert, famous for his book “Escape from Dubai”.  Hervé and a young woman who claimed to be a daughter of the ruler of Dubai, Vice President and Prime Minister of the United Arab Emirates, Sheikh Mohammed bin Rashid Al Maktoum, made contact with Detained in Dubai to seek assistance.  They said that they were “escaping” the United Arab Emirates to seek refuge in the United States, following the woman’s claims of “imprisonment, torture and abuse”, the details of which are described in a <a href="https://www.youtube.com/watch?time_continue=3&amp;v=UN7OEFyNUkQ" rel="nofollow">YouTube video </a>that was sent to a US attorney for publication in the event of her disappearance or death.  Their identities have been confirmed by a number of parties.</p><p>Herve advised Detained in Dubai that he was helping the woman “escape Dubai” on board a US registered vessel.  They were approaching India on Sunday the 4th of March 2018 and were within 50 miles as of 11:00 GMT,  with the plan to disembark and fly to the US from Mumbai.  A distress call was made seven hours later from Sheikha Latifa to Radha Stirling, then contact ceased immediately and permanently.</p><p>An American man, an Emirati woman and a third woman, believed to be British, have all been reported as missing.  Since then, a prominent British barrister, <a href="http://33knowledge.com/barristers/harpreet-singh-giani/" rel="nofollow">Harpreet Singh Giani</a> who is also an Indian advocate, has confirmed from his sources within the Indian intelligence community that Sheikha Latifa is alive and that she has been “taken back to Dubai”.  Mr Giani was unable to comment whether there was any military involvement by either country.  We are therefore calling on an investigation into an incident that potentially involves the kidnapping of three parties who are likely to have been in Indian territorial waters.  There have been further reports that an Electronic Warfare Aircraft was in the vicinity, a craft designed to interrupt communication platforms which would have required India’s cooperation.</p><p>Radha Stirling, Detained in Dubai’s CEO, who was instructed to assist by the missing persons, said “We call on relevant international authorities to investigate the disappearance of US National Hervé Jaubert, Emirati National Sheikha Latifa and her British friend.  No questions as to the whereabouts of the missing persons have been answered and no responses provided by the United Arab Emirates government.  We are gravely concerned for the safety of all three parties and thank all of those who have come forth with information.”</p><p>Detained in Dubai was contacted by a woman who identified herself as a Sheikha Latifa Mohammed Al Maktoum the daughter of Sheikh Mohammed bin Rashid Al Maktoum, and a man who identified himself as Jean Pierre Hervé Jaubert, who was known to Detained in Dubai’s CEO, Radha Stirling.  Immediately upon initial contact, Detained in Dubai commenced steps to verify the identity of the parties and the claims made.  British Solicitor David Haigh was able to contact various third parties who confirmed the identity of Sheikha Latifa.  During this process there was regular and lengthy contact between the missing persons and Detained in Dubai. </p><p><strong>Further information:</strong></p><p>On Sunday the 4th of March, Ms Stirling was advised by Hervé at 11:00 GMT that the vessel was within 50 miles of India and that they intended to disembark.  At 18:24 GMT, Ms. Stirling received a distress message, followed by a distress call from the woman who appeared in a panicked and frightened state. She stated "Radha, please help.  There are men outside.  I hear gunshots and I am hiding with my friend (now known to be <a href="https://www.facebook.com/tiina.jauhiainen.372" rel="nofollow">Tiina Jauhiainen</a>)".</p><p>Following the distress call, communication with all of the missing persons ceased.  Having had communication with the missing person previously, and following the distress call, Detained in Dubai alerted the relevant authorities.  Detained in Dubai further sought the assistance of leading human rights Barristers and Queen's Counsel together with the assistance of several leading human rights charities with which Detained in Dubai works. </p><p>Detained in Dubai filed a police report with the Metropolitan police, the UAE Embassy in the UK, the United States State Department and the Coast Guard of India.  The only authority who has responded is the United Kingdom who have forwarded the report to the National Crime Agency and Interpol for investigation.</p><p>Since the incident, parties who had known the missing persons have confirmed their identity and last known location.  Close friends have confirmed that the woman in the video is indeed Sheikha Latifa who explained that there are three Sheikha Latifa’s and that she was the middle one known for skydiving, with the instagram account latifa_1.</p><p>Two US attorneys confirmed that they were aware of the situation and had been contacted by American and French national and Florida resident Hervé Jaubert, a client of theirs, who was also known to them.  They have since prepared a missing persons report.</p><p>The @MailOnline broke the news on Friday and showed part of a video where the woman explains some of the reasons for her escape attempt.  The video was provided to a US attorney by Latifa  for distribution in the event of her death or disappearance.  The video extends for around 40 minutes and makes claims that she was "imprisoned, tortured, beaten and censored” as well as going onto name those involved and setting out various potential crimes.  That video was provided to the authorities and legal advisors.  The full video has since been published on YouTube by a variety of sources. </p><p>Radha Stirling, who was the last party to speak with the missing persons said "We are very concerned for the safety of the missing persons. We have already been inundated with calls and emails and evidence that assist us and the authorities.  We appeal to anyone for any information that could be helpful to please get in touch with us.  We would also like to appeal to anyone that can assist with the search. Lawyers, Human rights organisations, friends, family or even the General public.  </p><p>The missing persons requested our assistance and instructed us to assist them in in the event of their arrest or disappearance, which we are now doing.  We are liaising with authorities, leading human rights lawyers and human rights organisations.</p><p>We are seeking response from US, British, Indian and UAE authorities on this incident.  A US national and his American registered boat have gone missing, as well as Sheikha Latifa, with Indian intelligence suggesting that they are now in the custody of UAE authorities against their will.</p><p>Anyone with information on the missing persons, can please contact: </p><p>Missing Persons Information:  <a href="mailto:latifa@detainedindubai.org" rel="nofollow">latifa@detainedindubai.org</a></p><p>Press Queries:  <a href="mailto:press@detainedindubai.org" rel="nofollow">press@detainedindubai.org</a></p></div>
+<div class='boilerplate'><p>UAE Criminal and Civil Justice Specialists.  Contact us on <a href="mailto:barry@stirlingworldwide.com" rel="nofollow">i</a><a href="mailto:nfo@detainedindubai.org" rel="nofollow">nfo@detainedindubai.org</a></p><p>Detained in Dubai Limited, is registered in England and Wales under company number 11248768 with its registered office at Kemp House, 180 City Road, London EC1 2NX UK</p></div></div>
+
+            </div>
+
+          </div>
+          <div class="span3 sidebar hidden-print">
+            <aside>
+              <div class="section share clearfix">
+    <h3 class="">
+  <span class="translation_missing" title="translation missing: en.layouts.public.share">Share</span>
+</h3>
+<div class="social-media-list ">
+  <div class="facebook social-media-list-item">
+    <a
+      class="social-media-list-item-link"
+      href="http://www.facebook.com/sharer.php?u=https://www.mynewsdesk.com/uk/stirling-och-partners/pressreleases/family-appeals-for-finnish-woman-tiina-jauhiainen-confirmed-missing-from-same-yacht-as-sheikha-latifa-and-herve-jaubert-familys-urgent-appeal-for-dot-dot-dot-2452260&amp;t=Family appeals for Finnish woman Tiina Jauhiainen confirmed... - Detained In Dubai"
+      target="_blank"
+    >
+      <div class="social-media-list-item-icon">
+        <i class="icon icon-facebook fa fa-facebook"></i>
+      </div>
+      <div class="social-media-list-item-label sr-only">
+        Facebook
+      </div>
+    </a>
+  </div>
+  <div class="twitter social-media-list-item">
+    <a
+      class="social-media-list-item-link"
+      href="https://twitter.com/intent/tweet?ref_src=twsrc%5Etfw&amp;text=Family appeals for Finnish woman Tiina Jauhiainen confirmed... - Detained In Dubai&amp;tw_p=tweetbutton&amp;url=https://www.mynewsdesk.com/uk/stirling-och-partners/pressreleases/family-appeals-for-finnish-woman-tiina-jauhiainen-confirmed-missing-from-same-yacht-as-sheikha-latifa-and-herve-jaubert-familys-urgent-appeal-for-dot-dot-dot-2452260&amp;via=mynewsdesk_uk"
+      target="_blank"
+    >
+      <div class="social-media-list-item-icon">
+        <i class="icon icon-twitter fa fa-twitter"></i>
+      </div>
+      <div class="social-media-list-item-label sr-only">
+        Twitter
+      </div>
+    </a>
+  </div>
+  <div class="linkedin social-media-list-item">
+    <a
+      class="social-media-list-item-link"
+      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.mynewsdesk.com/uk/stirling-och-partners/pressreleases/family-appeals-for-finnish-woman-tiina-jauhiainen-confirmed-missing-from-same-yacht-as-sheikha-latifa-and-herve-jaubert-familys-urgent-appeal-for-dot-dot-dot-2452260&amp;title=Family appeals for Finnish woman Tiina Jauhiainen confirmed... - Detained In Dubai"
+      target="_blank"
+    >
+      <div class="social-media-list-item-icon">
+        <i class="icon icon-linkedin fa fa-linkedin fa-linkedin-in"></i>
+      </div>
+      <div class="social-media-list-item-label sr-only">
+        LinkedIn
+      </div>
+    </a>
+  </div>
+</div>
+
+</div>
+
+
+
+            </aside>
+          </div>
+        </div>
+      </article>
+      <div class="newsroom-section hidden-print">
+    <div class="row-fluid">
+
+
+                <div class="span3">
+                    <aside>
+                        <h3><i class="icon-list"></i> Topics:</h3>
+                        <p><a class="clean-tag" href="/uk/stirling-och-partners/subjects/armed-conflicts">Armed conflicts</a><a class="clean-tag" href="/uk/stirling-och-partners/subjects/diplomacy">Diplomacy</a><a class="clean-tag" href="/uk/stirling-och-partners/subjects/human-rights">Human Rights</a><a class="clean-tag" href="/uk/stirling-och-partners/subjects/international-treaties-cooperations">International treaties, Cooperations</a><a class="clean-tag" href="/uk/stirling-och-partners/subjects/legal-affairs">Legal affairs</a><a class="clean-tag" href="/uk/stirling-och-partners/subjects/police-matters">Police matters</a><a class="clean-tag" href="/uk/stirling-och-partners/subjects/security">Security</a><a class="clean-tag" href="/uk/stirling-och-partners/subjects/terrorism">Terrorism</a><a class="clean-tag" href="/uk/stirling-och-partners/subjects/travels">Travels</a></p>
+                    </aside>
+                </div>
+
+                <div class="span3">
+                    <aside>
+                        <h3><i class="icon-map-marker"></i> Regions:</h3>
+                        <p><a class="tag" href="/uk/stirling-och-partners/regions/england">England</a></p>
+                    </aside>
+                </div>
+
+
+                <div class="span3">
+                    <aside>
+                        <h3><i class="icon-tag"></i> Tags:</h3>
+                        <p><a class="tag" title="Herve Jaubert" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/herve-jaubert">Herve Jaubert</a><a class="tag" title="Maritime Security" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/maritime-security">Maritime Security</a><a class="tag" title="Missing Yacht" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/missing-yacht">Missing Yacht</a><a class="tag" title="Piracy" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/piracy">Piracy</a><a class="tag" title="Sheikh Mohammed" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/sheikh-mohammed">Sheikh Mohammed</a><a class="tag" title="Ruler of Dubai" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/ruler-of-dubai">Ruler of Dubai</a><a class="tag" title="detained in dubai" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/detained-in-dubai">detained in dubai</a><a class="tag" title="India" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/india">India</a><a class="tag" title="Goa" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/goa">Goa</a><a class="tag" title="#FindHervé" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/number-findherve">#FindHervé</a><a class="tag" title="#FindLatifa" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/number-findlatifa">#FindLatifa</a><a class="tag" title="#FindNostromo" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/number-findnostromo">#FindNostromo</a><a class="tag" title="#WhereisNotromo?" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/number-whereisnotromo">#WhereisNotromo?</a><a class="tag" title="Nostromo" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/nostromo">Nostromo</a><a class="tag" title="#WhereisTiina?" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/number-whereistiina">#WhereisTiina?</a><a class="tag" title="#FindTiina" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/number-findtiina">#FindTiina</a><a class="tag" title="Tiina Jauhiainen" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/tiina-jauhiainen">Tiina Jauhiainen</a><a class="tag" title="Tiina Johanna Jauhiainen" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/tiina-johanna-jauhiainen">Tiina Johanna Jauhiainen</a><a class="tag" title="Missing Persons" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/missing-persons">Missing Persons</a><a class="tag" title="escapefromdubai" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/escapefromdubai">escapefromdubai</a><a class="tag" title="Escape from Dubai" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/escape-from-dubai">Escape from Dubai</a><a class="tag" title="Iisalmi" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/iisalmi">Iisalmi</a><a class="tag" title="Finnish Police" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/finnish-police">Finnish Police</a><a class="tag" title="Finnish Embassy" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/finnish-embassy">Finnish Embassy</a><a class="tag" title="Indian Coast Guard" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/indian-coast-guard">Indian Coast Guard</a><a class="tag" title="Anti-Piracy" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/anti-piracy">Anti-Piracy</a><a class="tag" title="Finnish" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/finnish">Finnish</a><a class="tag" title="Finland" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/finland">Finland</a><a class="tag" title="Søren Søndergaard" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/soeren-soendergaard">Søren Søndergaard</a><a class="tag" title="Latifa_1" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/latifa-1">Latifa_1</a><a class="tag" title="missing princess" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/missing-princess">missing princess</a><a class="tag" title="Sheikha Latifa" href="https://www.mynewsdesk.com/uk/stirling-och-partners/tag/sheikha-latifa">Sheikha Latifa</a></p>
+                    </aside>
+                </div>
+
+
+    </div>
+</div>
+
+    </section>
+        <div class="newsroom-section">
+        <h2 class="newsroom-section-header">Comments <span id="comments-count">(0)</span></h2>
+        <div id="comments" style="margin-bottom:20px;">
+            <ul id="comments-list" class="unstyled searchResults comments">
+            </ul>
+            <a href="#" id="add-comment" class="btn add-comment"><i class="icon-comment"></i> Add comment</a>
+            <div id="comment-form-wrapper" class="well hide" style="margin-top:10px;">
+                    <div id="comment-form-placeholder">
+                        <h3 class="newsroom-section-header">Comment</h3>
+                        <form id="comment-form" style="margin-bottom:0;" action="/uk/stirling-och-partners/save_comment" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Q4Iuoe5KLH4Drb2kEtk/99BA1eN9E3LwcsdmjuX+09o/f+aYZWm3Hz61k5qLCMq5hmpLg1mpZw6d80lTAltnEQ==" />                            <div class="control-group">
+                                <label for="comment_name" class="required">Name:<strong>*</strong></label>
+                                <input class="span6" type="text" name="comment[name]" id="comment_name" />
+                            </div>
+                            <div class="control-group">
+                                <label for="comment_email" class="required">E-mail:<strong>*</strong></label>
+                                <input class="span6" type="text" name="comment[email]" id="comment_email" />
+                            </div>
+
+
+                            <div class="control-group">
+                                <label for="comment_blog">Website or blog:</label>
+                                <input class="span6" type="text" name="comment[blog]" id="comment_blog" />
+                            </div>
+
+
+
+                            <div class="control-group">
+                                <label for="comment_body" class="required">Comment:<strong>*</strong></label>
+                                <textarea class="span11" rows="4" name="comment[body]" id="comment_body">
+</textarea>
+                            </div>
+
+
+                            <div class="control-group">
+                                <label for="comment_notification" class="checkbox">
+                                    <input name="comment[notification]" type="hidden" value="0" /><input type="checkbox" value="1" name="comment[notification]" id="comment_notification" />Notify me of new comments
+                                </label><br />
+                            </div>
+
+                            <div class="control-group">
+                                <div class="g-recaptcha" data-sitekey="6Lc-ACgTAAAAAJkeFY6LdTfvqOUCsJUM1cMp4KTv"></div>
+          <noscript>
+            <div style="width: 302px; height: 352px;">
+              <div style="width: 302px; height: 352px; position: relative;">
+                <div style="width: 302px; height: 352px; position: absolute;">
+                  <iframe
+                    src="https://www.google.com/recaptcha/api/fallback?k=6Lc-ACgTAAAAAJkeFY6LdTfvqOUCsJUM1cMp4KTv"
+                    frameborder="0" scrolling="no"
+                    style="width: 302px; height:352px; border-style: none;">
+                  </iframe>
+                </div>
+                <div style="width: 250px; height: 80px; position: absolute; border-style: none;
+                  bottom: 21px; left: 25px; margin: 0px; padding: 0px; right: 25px;">
+                  <textarea id="g-recaptcha-response" name="g-recaptcha-response"
+                    class="g-recaptcha-response"
+                    style="width: 250px; height: 80px; border: 1px solid #c1c1c1;
+                    margin: 0px; padding: 0px; resize: none;" value="">
+                  </textarea>
+                </div>
+              </div>
+            </div>
+          </noscript>
+
+                                <input type="hidden" id="comment_recaptcha"></input>
+                            </div>
+
+                            <input type="submit" name="commit" value="Send comment" id="comment-submit" class="btn btn-primary" />
+                            <span id="comment-spinner" style="display:none;">
+                                <img src="https://d9qz450atvita.cloudfront.net/assets/icons/16x16/loading-9ac39567ad6bf141910193fae4f93ee816409e16a450bd819a41eecff81ba82d.gif" alt="Loading" />
+                                &nbsp;Sending comment...
+                            </span>
+
+                            <input value="https://www.mynewsdesk.com/uk/stirling-och-partners/pressreleases/family-appeals-for-finnish-woman-tiina-jauhiainen-confirmed-missing-from-same-yacht-as-sheikha-latifa-and-herve-jaubert-familys-urgent-appeal-for-dot-dot-dot-2452260" type="hidden" name="comment[permalink]" id="comment_permalink" />
+                            <input value="2452260" type="hidden" name="comment[commentable_id]" id="comment_commentable_id" />
+                            <input value="Pressrelease" type="hidden" name="comment[commentable_type]" id="comment_commentable_type" />
+</form>                    </div>
+            </div>
+            <div id="waiting_for_moderation" class="flash success" style="display: none;">
+                <h2>The comment was saved</h2>
+                <p>Prior to publication, it must be approved by Detained In Dubai.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="related-materials hidden-print" id="related">
+        <div class="newsroom-section">
+            <h2 class="newsroom-section-header">
+                <span>Related /</span> Contacts
+            </h2>
+                <div class="row-fluid row-contacts with-articles">
+                        <div class="article vcard m-clearfix even">
+        <div class="span3 m-span4">
+        <div class="media-wrapper">
+            <a href="/uk/stirling-och-partners/contact_people/radha-stirling-ceo-76143" class="material">
+                    <img alt="Radha Stirling" src="https://resources.mynewsdesk.com/image/upload/t_next_gen_span3_fill_faces_4_3/oih1drmrngcvrau2htdt.jpg" />            </a>
+        </div>
+    </div>
+        <div class="span3 m-span8">
+        <div class="header">
+                <h3 class="newsroom-list-header"><a title="Radha Stirling" href="/uk/stirling-och-partners/contact_people/radha-stirling-ceo-76143"><span class="fn">Radha Stirling</span></a></h3>
+        </div>
+        <p>
+                <ul class="unstyled">
+      <li>
+        <span class="release-type press-contact">
+            <a href="/uk/stirling-och-partners/contact_people">Press Contact</a>
+        </span>
+    </li>
+    <li><span class="role">CEO</span></li>
+    
+    <li><i class='icon-envelope'></i> <span class="obfuscated-email" data-url="/decrypt?site=" data-encrypted="lS8xsh/u1fvGxsCkQRrpGULQ3eqDUn/xs80+ESuyjJY=
+">&#114;&#97;&#100;&#104;&#97;&#64;&#100;&#101;&#116;&#97;&#105;&#110;&#101;&#100;&#105;&#110;&#100;&#117;&#98;&#97;&#105;&#46;&#111;&#114;&#103;</span></li>
+    <li class="tel"><i class='icon-phone'></i> <abbr class="type" title="work"><span class="value">+44 2070606900</span></abbr></li>
+    
+</ul>
+
+            <div class="hidden-small with-white-space">
+                
+            </div>
+        </p>
+    </div>
+</div>
+
+                </div>
+        </div>
+        <div id="related-news-types" class="newsroom-section">
+            <h2 class="newsroom-section-header">
+                <span>Related /</span> News
+            </h2>
+                <div class="article news row-fluid s-clearfix">
+        <div class="span3 m-span4">
+        <div class="media-wrapper">
+                <a class="material" href="/uk/stirling-och-partners/pressreleases/detained-in-dubai-calls-indian-government-to-investigate-the-disappearance-of-american-registered-yacht-carrying-dubai-princess-and-american-and-dot-dot-dot-2451737"><img alt="Detained in Dubai calls Indian government to investigate the disappearance of American registered yacht carrying Dubai princess and American and Finnish citizens as possible act of piracy" title="Detained in Dubai calls Indian government to investigate the disappearance of American registered yacht carrying Dubai princess and American and Finnish citizens as possible act of piracy" src="https://resources.mynewsdesk.com/image/upload/t_next_gen_span3_fit_and_crop/uadifkf9j8womgvwv2gr.jpg" /></a>        </div>
+    </div>
+    <div class="text span7 m-span8">
+            <h3 class="newsroom-list-header"><a title="Detained in Dubai calls Indian government to investigate the disappearance of American registered yacht carrying Dubai princess and American and Finnish citizens as possible act of piracy" href="/uk/stirling-och-partners/pressreleases/detained-in-dubai-calls-indian-government-to-investigate-the-disappearance-of-american-registered-yacht-carrying-dubai-princess-and-american-and-dot-dot-dot-2451737">Detained in Dubai calls Indian government to investigate the disappearance of American registered yacht carrying Dubai princess and American and Finnish citizens as possible act of piracy</a></h3>
+        <h4 class="meta">
+            <span class="hidden-small">
+                <span class="release-type pressrelease"><a href="/uk/stirling-och-partners/pressreleases">Press Releases</a></span>
+                &nbsp; • &nbsp;
+            </span>
+            <span class="material-date">Mar 19, 2018</span>&nbsp<span class="material-time">12:51</span>&nbsp<span class="material-timezone">GMT</span>
+        </h4>
+            <p class="hidden-small">
+                Detained in Dubai calls upon the Indian government to investigate the disappearance of American registered yacht carrying Dubai princess and American and Finnish citizens as possible act of piracy, now missing for two weeks without investigation!
+            </p>
+    </div>
+</div>
+
+                <div class="article news row-fluid s-clearfix">
+        <div class="span3 m-span4">
+        <div class="media-wrapper">
+                <a class="material" href="/uk/stirling-och-partners/pressreleases/safety-of-visiting-dubai-under-question-2450488"><img alt="Safety of Visiting Dubai Under Question" title="Safety of Visiting Dubai Under Question" src="https://resources.mynewsdesk.com/image/upload/t_next_gen_span3_fit_and_crop/wodlxa6ddaabbjebs16a.jpg" /></a>        </div>
+    </div>
+    <div class="text span7 m-span8">
+            <h3 class="newsroom-list-header"><a title="Safety of Visiting Dubai Under Question" href="/uk/stirling-och-partners/pressreleases/safety-of-visiting-dubai-under-question-2450488">Safety of Visiting Dubai Under Question</a></h3>
+        <h4 class="meta">
+            <span class="hidden-small">
+                <span class="release-type pressrelease"><a href="/uk/stirling-och-partners/pressreleases">Press Releases</a></span>
+                &nbsp; • &nbsp;
+            </span>
+            <span class="material-date">Mar 16, 2018</span>&nbsp<span class="material-time">13:34</span>&nbsp<span class="material-timezone">GMT</span>
+        </h4>
+            <p class="hidden-small">
+                Middle Eastern travel, investment and expat hotspot Dubai is under scrutiny for ongoing abuse of British citizens, wrongful imprisonments and human rights violations.  Should Brits be putting themselves in jeopardy?
+            </p>
+    </div>
+</div>
+
+                <div class="article news row-fluid s-clearfix">
+        <div class="span3 m-span4">
+        <div class="media-wrapper">
+                <a class="material" href="/uk/stirling-och-partners/pressreleases/tln-lmwss-at-lbrytny-at-gyr-lhkwmy-at-detained-in-dubai-nyb-at-n-mlyh-lshykh-at-ltyf-at-whyrfyh-jwbyr-lshkw~-lmqdm-at-llmm-lmthd-at-llmtlb-at-dot-dot-dot-2448912"><img alt="تعلن المؤسسة البريطانية غير الحكومية &quot;Detained in Dubai&quot;، نيابة عن عملائها الشيخة لطيفة وهيرفيه جوبير، الشكوى المقدمة &quot;للأمم المتحدة&quot; للمطالبة بتدخلهم العاجل والفوري!" title="تعلن المؤسسة البريطانية غير الحكومية &quot;Detained in Dubai&quot;، نيابة عن عملائها الشيخة لطيفة وهيرفيه جوبير، الشكوى المقدمة &quot;للأمم المتحدة&quot; للمطالبة بتدخلهم العاجل والفوري!" src="https://resources.mynewsdesk.com/image/upload/t_next_gen_span3_fit_and_crop/ngufir42jtsakwhi096e.jpg" /></a>        </div>
+    </div>
+    <div class="text span7 m-span8">
+            <h3 class="newsroom-list-header"><a title="تعلن المؤسسة البريطانية غير الحكومية &quot;Detained in Dubai&quot;، نيابة عن عملائها الشيخة لطيفة وهيرفيه جوبير، الشكوى المقدمة &quot;للأمم المتحدة&quot; للمطالبة بتدخلهم العاجل والفوري!" href="/uk/stirling-och-partners/pressreleases/tln-lmwss-at-lbrytny-at-gyr-lhkwmy-at-detained-in-dubai-nyb-at-n-mlyh-lshykh-at-ltyf-at-whyrfyh-jwbyr-lshkw~-lmqdm-at-llmm-lmthd-at-llmtlb-at-dot-dot-dot-2448912">تعلن المؤسسة البريطانية غير الحكومية &quot;Detained in Dubai&quot;، نيابة عن عملائها الشيخة لطيفة وهيرفيه جوبير، الشكوى المقدمة &quot;للأمم المتحدة&quot; للمطالبة بتدخلهم العاجل والفوري!</a></h3>
+        <h4 class="meta">
+            <span class="hidden-small">
+                <span class="release-type pressrelease"><a href="/uk/stirling-och-partners/pressreleases">Press Releases</a></span>
+                &nbsp; • &nbsp;
+            </span>
+            <span class="material-date">Mar 15, 2018</span>&nbsp<span class="material-time">11:26</span>&nbsp<span class="material-timezone">GMT</span>
+        </h4>
+            <p class="hidden-small">
+                
+ويتابع ديفيد هيغ David Haigh، وهو محام بريطاني وأحد شركاء "Stirling's Partners"  حالياً شكواه الخاصة ضد الإمارات المتحدة أمام الأمم
+
+            </p>
+    </div>
+</div>
+
+                <div class="article news row-fluid s-clearfix">
+        <div class="span3 m-span4">
+        <div class="media-wrapper">
+                <a class="material" href="/uk/stirling-och-partners/pressreleases/guernica-international-justice-chambers-press-statement-on-sheikha-latifa-and-herve-jaubert-case-before-the-united-nations-2447817"><img alt="Guernica International Justice Chambers press statement on Sheikha Latifa &amp; Hervé Jaubert case before the United Nations" title="Guernica International Justice Chambers press statement on Sheikha Latifa &amp; Hervé Jaubert case before the United Nations" src="https://resources.mynewsdesk.com/image/upload/t_next_gen_span3_fit_and_crop/tzsru1qrprie5ksillx7.jpg" /></a>        </div>
+    </div>
+    <div class="text span7 m-span8">
+            <h3 class="newsroom-list-header"><a title="Guernica International Justice Chambers press statement on Sheikha Latifa &amp; Hervé Jaubert case before the United Nations" href="/uk/stirling-och-partners/pressreleases/guernica-international-justice-chambers-press-statement-on-sheikha-latifa-and-herve-jaubert-case-before-the-united-nations-2447817">Guernica International Justice Chambers press statement on Sheikha Latifa &amp; Hervé Jaubert case before the United Nations</a></h3>
+        <h4 class="meta">
+            <span class="hidden-small">
+                <span class="release-type pressrelease"><a href="/uk/stirling-och-partners/pressreleases">Press Releases</a></span>
+                &nbsp; • &nbsp;
+            </span>
+            <span class="material-date">Mar 14, 2018</span>&nbsp<span class="material-time">16:57</span>&nbsp<span class="material-timezone">GMT</span>
+        </h4>
+            <p class="hidden-small">
+                Guernica 37 International Justice Chambers in London has been instructed to file an immediate complaint with the UN Special Procedures Branch
+            </p>
+    </div>
+</div>
+
+                <div class="article news row-fluid s-clearfix">
+        <div class="span3 m-span4">
+        <div class="media-wrapper">
+                <a class="material" href="/uk/stirling-och-partners/pressreleases/uk-ngo-detained-in-dubai-on-behalf-of-clients-sheikha-latifa-and-herve-jaubert-announces-un-complaint-requesting-urgent-and-immediate-dot-dot-dot-2447328"><img alt=" UK NGO ‘Detained in Dubai’, on behalf of clients Sheikha Latifa and Herve Jaubert, announces UNITED NATIONS COMPLAINT requesting urgent and immediate intervention." title=" UK NGO ‘Detained in Dubai’, on behalf of clients Sheikha Latifa and Herve Jaubert, announces UNITED NATIONS COMPLAINT requesting urgent and immediate intervention." src="https://resources.mynewsdesk.com/image/upload/t_next_gen_span3_fit_and_crop/ngufir42jtsakwhi096e.jpg" /></a>        </div>
+    </div>
+    <div class="text span7 m-span8">
+            <h3 class="newsroom-list-header"><a title=" UK NGO ‘Detained in Dubai’, on behalf of clients Sheikha Latifa and Herve Jaubert, announces UNITED NATIONS COMPLAINT requesting urgent and immediate intervention." href="/uk/stirling-och-partners/pressreleases/uk-ngo-detained-in-dubai-on-behalf-of-clients-sheikha-latifa-and-herve-jaubert-announces-un-complaint-requesting-urgent-and-immediate-dot-dot-dot-2447328"> UK NGO ‘Detained in Dubai’, on behalf of clients Sheikha Latifa and Herve Jaubert, announces UNITED NATIONS COMPLAINT requesting urgent and immediate intervention.</a></h3>
+        <h4 class="meta">
+            <span class="hidden-small">
+                <span class="release-type pressrelease"><a href="/uk/stirling-och-partners/pressreleases">Press Releases</a></span>
+                &nbsp; • &nbsp;
+            </span>
+            <span class="material-date">Mar 14, 2018</span>&nbsp<span class="material-time">13:30</span>&nbsp<span class="material-timezone">GMT</span>
+        </h4>
+            <p class="hidden-small">
+                Detained in Dubai on behalf of its clients Sheikha Latifa and Hervé Jaubert, has instructed Guernica 37 International Justice Chambers in London to file an immediate and urgent complaint with the UN Special Procedures Branch
+            </p>
+    </div>
+</div>
+
+                <div class="article news row-fluid s-clearfix">
+        <div class="span3 m-span4">
+        <div class="media-wrapper">
+                <a class="material" href="/uk/stirling-och-partners/pressreleases/us-citizen-missing-indian-intelligence-claims-sheikha-latifa-is-alive-and-has-been-taken-back-to-dubai-2444740"><img alt="US citizen missing - INDIAN INTELLIGENCE CLAIMS: “Sheikha Latifa is alive and has been taken back to Dubai”" title="US citizen missing - INDIAN INTELLIGENCE CLAIMS: “Sheikha Latifa is alive and has been taken back to Dubai”" src="https://resources.mynewsdesk.com/image/upload/t_next_gen_span3_fit_and_crop/b5qyaszqevmtdhntlr5e.jpg" /></a>        </div>
+    </div>
+    <div class="text span7 m-span8">
+            <h3 class="newsroom-list-header"><a title="US citizen missing - INDIAN INTELLIGENCE CLAIMS: “Sheikha Latifa is alive and has been taken back to Dubai”" href="/uk/stirling-och-partners/pressreleases/us-citizen-missing-indian-intelligence-claims-sheikha-latifa-is-alive-and-has-been-taken-back-to-dubai-2444740">US citizen missing - INDIAN INTELLIGENCE CLAIMS: “Sheikha Latifa is alive and has been taken back to Dubai”</a></h3>
+        <h4 class="meta">
+            <span class="hidden-small">
+                <span class="release-type pressrelease"><a href="/uk/stirling-och-partners/pressreleases">Press Releases</a></span>
+                &nbsp; • &nbsp;
+            </span>
+            <span class="material-date">Mar 12, 2018</span>&nbsp<span class="material-time">16:49</span>&nbsp<span class="material-timezone">GMT</span>
+        </h4>
+            <p class="hidden-small">
+                American Jean-Pierre Hervé Jaubert missing from US registered vessel off coast of India as attempt to help Dubai Sheikha escape ends with “distress call” &amp; reported gunshots.  Indian intelligence claims “Latifa is alive and has been taken back to Dubai” 3 Missing persons including  Florida resident, author and ex French intelligence agent, Hervé Jaubert - last heard from off the coast of India.
+
+            </p>
+    </div>
+</div>
+
+                <div class="article news row-fluid s-clearfix">
+        <div class="span3 m-span4">
+        <div class="media-wrapper">
+                <a class="material" href="/uk/stirling-och-partners/pressreleases/kshf-lgmwd-n-qs-at-myr-at-dby-lhrb-at-m-wmwtn-at-mryky-at-khr~-tsryb-lfydyw-lkml-lrsl-at-lstgth-at-lyys-at-2443693"><img alt="كشف الغموض عن قصة &quot;أميرة دبي الهاربة&quot; مع ومواطنة أمريكية أخرى – تسريب الفيديو الكامل لرسالة الاستغاثة اليائسة  " title="كشف الغموض عن قصة &quot;أميرة دبي الهاربة&quot; مع ومواطنة أمريكية أخرى – تسريب الفيديو الكامل لرسالة الاستغاثة اليائسة  " src="https://resources.mynewsdesk.com/image/upload/t_next_gen_span3_fit_and_crop/auqyasrinha0erdp5ust.jpg" /></a>        </div>
+    </div>
+    <div class="text span7 m-span8">
+            <h3 class="newsroom-list-header"><a title="كشف الغموض عن قصة &quot;أميرة دبي الهاربة&quot; مع ومواطنة أمريكية أخرى – تسريب الفيديو الكامل لرسالة الاستغاثة اليائسة  " href="/uk/stirling-och-partners/pressreleases/kshf-lgmwd-n-qs-at-myr-at-dby-lhrb-at-m-wmwtn-at-mryky-at-khr~-tsryb-lfydyw-lkml-lrsl-at-lstgth-at-lyys-at-2443693">كشف الغموض عن قصة &quot;أميرة دبي الهاربة&quot; مع ومواطنة أمريكية أخرى – تسريب الفيديو الكامل لرسالة الاستغاثة اليائسة  </a></h3>
+        <h4 class="meta">
+            <span class="hidden-small">
+                <span class="release-type pressrelease"><a href="/uk/stirling-och-partners/pressreleases">Press Releases</a></span>
+                &nbsp; • &nbsp;
+            </span>
+            <span class="material-date">Mar 12, 2018</span>&nbsp<span class="material-time">08:50</span>&nbsp<span class="material-timezone">GMT</span>
+        </h4>
+            <p class="hidden-small">
+                مؤسسة Detained in Dubai البريطانية غير الهادفة للربح، تقوم بعمل محضر بأشخاص مفقودين لكل من ابنة حاكم دبي ومواطن أمريكي، بعد أن تلقت نداء استغاثة!
+            </p>
+    </div>
+</div>
+
+                <div class="article news row-fluid s-clearfix">
+        <div class="span3 m-span4">
+        <div class="media-wrapper">
+                <a class="material" href="/uk/stirling-och-partners/pressreleases/unfolding-mystery-of-runaway-dubai-princess-with-american-national-desperate-video-released-2443209"><img alt="Unfolding mystery of “Runaway Dubai Princess&quot; with American national - Desperate FULL LENGTH video released" title="Unfolding mystery of “Runaway Dubai Princess&quot; with American national - Desperate FULL LENGTH video released" src="https://resources.mynewsdesk.com/image/upload/t_next_gen_span3_fit_and_crop/auqyasrinha0erdp5ust.jpg" /></a>        </div>
+    </div>
+    <div class="text span7 m-span8">
+            <h3 class="newsroom-list-header"><a title="Unfolding mystery of “Runaway Dubai Princess&quot; with American national - Desperate FULL LENGTH video released" href="/uk/stirling-och-partners/pressreleases/unfolding-mystery-of-runaway-dubai-princess-with-american-national-desperate-video-released-2443209">Unfolding mystery of “Runaway Dubai Princess&quot; with American national - Desperate FULL LENGTH video released</a></h3>
+        <h4 class="meta">
+            <span class="hidden-small">
+                <span class="release-type pressrelease"><a href="/uk/stirling-och-partners/pressreleases">Press Releases</a></span>
+                &nbsp; • &nbsp;
+            </span>
+            <span class="material-date">Mar 11, 2018</span>&nbsp<span class="material-time">12:27</span>&nbsp<span class="material-timezone">GMT</span>
+        </h4>
+            <p class="hidden-small">
+                Missing persons report filed for daughter of Dubai’s ruler and American National after distress call was received by British NGO Detained in Dubai.
+            </p>
+    </div>
+</div>
+
+                <div class="article news row-fluid s-clearfix">
+        <div class="span3 m-span4">
+        <div class="media-wrapper">
+                <a class="material" href="/uk/stirling-och-partners/pressreleases/family-says-frenchman-christian-elombo-detained-in-oman-in-connection-with-sheikha-latifas-escape-2453742"><img alt="Family says &quot;Frenchman Christian Elombo detained in Oman in connection with Sheikha Latifa’s escape&quot;" title="Family says &quot;Frenchman Christian Elombo detained in Oman in connection with Sheikha Latifa’s escape&quot;" src="https://resources.mynewsdesk.com/image/upload/t_next_gen_span3_fit_and_crop/qvcgpb9xqq4qtyhesfk3.jpg" /></a>        </div>
+    </div>
+    <div class="text span7 m-span8">
+            <h3 class="newsroom-list-header"><a title="Family says &quot;Frenchman Christian Elombo detained in Oman in connection with Sheikha Latifa’s escape&quot;" href="/uk/stirling-och-partners/pressreleases/family-says-frenchman-christian-elombo-detained-in-oman-in-connection-with-sheikha-latifas-escape-2453742">Family says &quot;Frenchman Christian Elombo detained in Oman in connection with Sheikha Latifa’s escape&quot;</a></h3>
+        <h4 class="meta">
+            <span class="hidden-small">
+                <span class="release-type pressrelease"><a href="/uk/stirling-och-partners/pressreleases">Press Releases</a></span>
+                &nbsp; • &nbsp;
+            </span>
+            <span class="material-date">Mar 20, 2018</span>&nbsp<span class="material-time">15:42</span>&nbsp<span class="material-timezone">GMT</span>
+        </h4>
+            <p class="hidden-small">
+                40 year old fitness centre operator Christian Elombo from Paris, is current detained in Oman’s national security prison following his alleged involvement in the rescue of Sheikha Latifa, daughter of the ruler of Dubai.
+            </p>
+    </div>
+</div>
+
+                <div class="article news row-fluid s-clearfix">
+        <div class="span3 m-span4">
+        <div class="media-wrapper">
+                <a class="material" href="/uk/stirling-och-partners/blog_posts/answers-that-beg-more-questions-on-the-disappearance-of-sheikha-latifa-69945"><img alt="Answers that beg more questions on the disappearance of Sheikha Latifa" title="Answers that beg more questions on the disappearance of Sheikha Latifa" src="https://resources.mynewsdesk.com/image/upload/t_next_gen_span3_fit_and_crop/u8dh3pggio1caubk2g9s.jpg" /></a>        </div>
+    </div>
+    <div class="text span7 m-span8">
+            <h3 class="newsroom-list-header"><a title="Answers that beg more questions on the disappearance of Sheikha Latifa" href="/uk/stirling-och-partners/blog_posts/answers-that-beg-more-questions-on-the-disappearance-of-sheikha-latifa-69945">Answers that beg more questions on the disappearance of Sheikha Latifa</a></h3>
+        <h4 class="meta">
+            <span class="hidden-small">
+                <span class="release-type blogpost"><a href="/uk/stirling-och-partners/blog_posts">Blog posts</a></span>
+                &nbsp; • &nbsp;
+            </span>
+            <span class="material-date">Mar 17, 2018</span>&nbsp<span class="material-time">21:09</span>&nbsp<span class="material-timezone">GMT</span>
+        </h4>
+            <p class="hidden-small">
+                ​Sheikha Latifa Al Maktoum, daughter of Dubai ruler Sheikh Mohamed bin Rashid Al Maktoum (one of three daughters with the same name), disappeared from the UAE, most likely in late February.
+            </p>
+    </div>
+</div>
+
+        </div>
+
+
+
+</div>
+
+  </div>
+
+            
+        </div>
+    </div>
+
+
+
+
+        </div>
+
+        <footer class="wp-footer wp-newsroom-footer hidden-print">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <ul class="list-unstyled text-center">
+                    <li>
+                        <a class="event-tracking" data-event-category="Navigation footer" data-event-action="Link - About" data-event-label="About Mynewsdesk" href="https://www.mynewsdesk.com/uk/about">About Mynewsdesk</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+        
+    </div>
+
+    
+        <div class="modal fade" id="overlay">
+    <div class="modal-body">
+        <h4>Loading page</h4>
+    </div>
+</div>
+
+    <!-- Hotjar Tracking Code for http://www.mynewsdesk.com -->
+        <script>
+          (function(h,o,t,j,a,r){
+              h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+              h._hjSettings={hjid:181931,hjsv:5};
+              a=o.getElementsByTagName('head')[0];
+              r=o.createElement('script');r.async=1;
+              r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+              a.appendChild(r);
+          })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+
+          hj('trigger', 'newsroom_survey');
+          </script>
+
+    <script type="text/javascript">
+        
+        /** CONFIGURATION START **/
+var _sf_async_config={uid:14183,domain:"mynewsdesk.com"};
+
+_sf_async_config.sections = 'pressroom_87794';
+
+_sf_async_config.path = '/uk/stirling-och-partners/pressreleases/family-appeals-for-finnish-woman-tiina-jauhiainen-confirmed-missing-from-same-yacht-as-sheikha-latifa-and-herve-jaubert-familys-urgent-appeal-for-dot-dot-dot-2452260';
+_sf_async_config.useCanonical = true;
+/** CONFIGURATION END **/
+
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+    loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+        (function() {
+    var didInit = false;
+    function initMunchkin() {
+        if (didInit === false) {
+            didInit = true;
+            Munchkin.init('763-HDU-978');
+        }
+    }
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = document.location.protocol + '//munchkin.marketo.net/munchkin.js';
+    s.onreadystatechange = function() {
+        if (this.readyState == 'complete' || this.readyState == 'loaded') {
+            initMunchkin();
+        }
+    };
+    s.onload = initMunchkin;
+    document.getElementsByTagName('head')[0].appendChild(s);
+})();
+
+    </script>
+    
+    
+    
+    
+      <script src="//d3dvvd5arbl3b4.cloudfront.net/mnd-track.min.js"></script>
+<script>
+  mndTrack({
+    host: 'https://mnd-track-backend.herokuapp.com',
+    additional: {
+      pressroom_id: '87794',
+      application_language: 'en',
+        material_id: '2452260',
+        material_type: 'Pressrelease',
+      
+      application_action: 'newsroom#view'
+    }
+  }).start();
+</script>
+
+</body>
+<!-- HOSTNAME: fdc12a3e-e2c2-4c60-9e12-94d0ef5b8427 -->
+</html>

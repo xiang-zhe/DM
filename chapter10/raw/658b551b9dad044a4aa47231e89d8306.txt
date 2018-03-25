@@ -1,0 +1,862 @@
+<!doctype html>
+<html amp>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+	
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Facebook&#8217;s Stock Tumbles Again, Value Drops By More Than $50 Billion" />
+<meta property="og:url" content="http://philadelphia.cbslocal.com/2018/03/20/facebooks-stock-tumbles-again/" />
+<meta property="og:description" content="Facebook&#8217;s stock is sliding for the second day in a row." />
+<meta property="article:published_time" content="2018-03-20T18:55:17+00:00" />
+<meta property="article:modified_time" content="2018-03-20T19:04:47+00:00" />
+<meta property="og:site_name" content="CBS Philly" />
+<meta property="og:image" content="https://cbsphilly.files.wordpress.com/2018/03/lead_s091399327-300.jpg?w=1200" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="900" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@KYWNewsradio" />
+<meta name="twitter:text:title" content="Facebook&#8217;s Stock Tumbles Again, Value Drops By More Than $50 Billion" />
+<meta name="twitter:image:src" content="https://cbsphilly.files.wordpress.com/2018/03/lead_s091399327-300.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@KYWNewsradio" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+	<script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+	<script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+	<script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
+	<script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+	<script async custom-element="amp-audio" src="https://cdn.ampproject.org/v0/amp-audio-0.1.js"></script>
+	<script async custom-element="amp-fit-text" src="https://cdn.ampproject.org/v0/amp-fit-text-0.1.js"></script>
+	<script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
+	<script async custom-element="amp-o2-player" src="https://cdn.ampproject.org/v0/amp-o2-player-0.1.js"></script>
+	<script async custom-element="amp-sticky-ad" src="https://cdn.ampproject.org/v0/amp-sticky-ad-1.0.js"></script>
+	<script async custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js"></script>
+	<script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
+	<script async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900">
+	<title>Facebook&#8217;s Stock Tumbles Again, Value Drops By More Than $50 Billion &#8211; CBS Philly</title>
+	<script src="https://cdn.ampproject.org/v0.js" async></script><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic">	<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+		<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":"http:\/\/philadelphia.cbslocal.com\/2018\/03\/20\/facebooks-stock-tumbles-again\/","publisher":{"@type":"Organization","name":"CBS Philly","logo":{"@type":"ImageObject","url":"http:\/\/0.gravatar.com\/blavatar\/40f9fbf792243f0932e0cab4dbd46d10?s=60&d=https%3A%2F%2Fs2.wp.com%2Fi%2Ffavicons%2Fapple-touch-icon-60x60.png","width":60,"height":60}},"headline":"Facebook&#8217;s Stock Tumbles Again, Value Drops By More Than $50 Billion","datePublished":"2018-03-20T14:55:17+00:00","dateModified":"2018-03-20T15:04:47+00:00","author":{"@type":"Person","name":"tituscbs"},"image":{"@type":"ImageObject","url":"https:\/\/cbsphilly.files.wordpress.com\/2018\/03\/lead_s091399327-300.jpg","width":420,"height":315}}</script>
+	<meta name="generator" content="AMP Plugin v0.6.2" /><link rel="canonical" href="http://philadelphia.cbslocal.com/2018/03/20/facebooks-stock-tumbles-again/" />
+	<style amp-custom>
+	/* Default CSS from plugin's template */
+
+/* Generic WP styling */
+amp-img.alignright { float: right; margin: 0 0 1em 1em; }
+amp-img.alignleft { float: left; margin: 0 1em 1em 0; }
+amp-img.aligncenter { display: block; margin-left: auto; margin-right: auto; }
+.alignright { float: right; }
+.alignleft { float: left; }
+.aligncenter { display: block; margin-left: auto; margin-right: auto; }
+
+.wp-caption.alignleft { margin-right: 1em; }
+.wp-caption.alignright { margin-left: 1em; }
+
+.amp-wp-enforced-sizes {
+	/** Our sizes fallback is 100vw, and we have a padding on the container; the max-width here prevents the element from overflowing. **/
+	max-width: 100%;
+}
+
+.amp-wp-unknown-size img {
+	/** Worst case scenario when we can't figure out dimensions for an image. **/
+	/** Force the image into a box of fixed dimensions and use object-fit to scale. **/
+	object-fit: contain;
+}
+
+/* Template Styles */
+.amp-wp-content, .amp-wp-title-bar div {
+			max-width: 420px;
+	margin: 0 auto;
+	}
+
+.amp-wp-meta {
+	margin-bottom: 16px;
+}
+
+/* Meta */
+ul.amp-wp-meta li {
+	list-style: none;
+	display: inline-block;
+	margin: 0;
+	line-height: 24px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	max-width: 300px;
+}
+
+ul.amp-wp-meta li:before {
+	content: "\2022";
+	margin: 0 8px;
+}
+
+ul.amp-wp-meta li:first-child:before {
+	display: none;
+}
+
+.amp-wp-meta,
+.amp-wp-meta a {
+	color: #4f748e;
+}
+
+.amp-wp-meta .screen-reader-text {
+	/* from twentyfifteen */
+	clip: rect(1px, 1px, 1px, 1px);
+	height: 1px;
+	overflow: hidden;
+	position: absolute;
+	width: 1px;
+}
+
+.amp-wp-byline amp-img {
+	border-radius: 50%;
+	border: 0;
+	background: #f3f6f8;
+	position: relative;
+	top: 6px;
+	margin-right: 6px;
+}
+
+/* Quotes */
+blockquote {
+	padding: 16px;
+	margin: 8px 0 24px 0;
+	border-left: 2px solid #87a6bc;
+	color: #4f748e;
+	background: #e9eff3;
+}
+
+blockquote p:last-child {
+	margin-bottom: 0;
+}
+
+/* Other Elements */
+amp-carousel {
+	background: #000;
+}
+
+amp-iframe,
+amp-youtube,
+amp-instagram,
+amp-vine {
+	background: #f3f6f8;
+}
+
+amp-carousel > amp-img > img {
+	object-fit: contain;
+}
+
+.amp-wp-iframe-placeholder {
+	background: #f3f6f8 url( http://s2.wp.com/wp-content/plugins/amp/assets/images/placeholder-icon.png ) no-repeat center 40%;
+	background-size: 48px 48px;
+	min-height: 48px;
+}
+
+/* Custom CSS */
+
+body {
+	background: #f1f1f1;
+}
+
+amp-ad {
+	margin: 15px;
+}
+
+amp-carousel,
+amp-iframe {
+	margin-bottom: 23px;
+}
+
+amp-embed {
+	margin: 0 15px;
+}
+
+amp-sticky-ad amp-ad {
+	margin: 0;
+}
+
+.amp-sticky-ad-close-button {
+	display: none;
+}
+
+.doubleclick-ad {
+	display: block;
+	margin: 24px auto;
+}
+
+amp-audio audio {
+	background: #333333;
+}
+
+.amp-audio-player .amp-audio-img {
+	width: 100%;
+}
+
+.amp-audio-player .default-img .amp-img-title {
+	position: relative;
+}
+
+.amp-audio-player .amp-img-title {
+	background: rgba(0,0,0,.5);
+	color: white;
+	padding: 4%;
+	position: absolute;
+	top: 0;
+	width: 92%;
+	z-index: 1;
+}
+
+.amp-wp-header {
+	border: none;
+	background: #2457a7;
+	height: 50px;
+}
+
+	
+			.amp-wp-header .amp-logo-wrapper {
+			font-size: 20px;
+			padding: 10px;
+			text-align: center;
+		}
+			.amp-wp-header .amp-logo-wrapper .amp-logo {
+				background-image: url('https://cbsphilly.files.wordpress.com/2016/04/market_philly_logo_nc2.png');
+				background-position: 45%;
+				background-repeat: no-repeat;
+				background-size: contain;
+				display: inline-block;
+				height: 30px;
+				line-height: 25px;
+				margin: 0 auto;
+				text-indent: -9999px;
+				width: 100%;
+			}
+		
+		.amp-wp-header .amp-logo-wrapper .listen-live-headphones {
+		background: url("https://s0.wp.com/wp-content/themes/vip/cbs-local/plugins/modules/theme-manager/images/icons-svg/headphones-white.svg") no-repeat 45px 13px;
+		background-size: 35px;
+		cursor: pointer;
+		display: block;
+		height: 30px;
+		overflow: hidden;
+		padding: 10px;
+		position: absolute;
+		right: 0;
+		text-indent: -500px;
+		top: 0;
+		width: 65px;
+	}
+		.amp-wp-header .amp-logo-wrapper .listen-live-tv {
+		background: url("https://s0.wp.com/wp-content/themes/vip/cbs-local/plugins/modules/theme-manager/images/tv-icon-web.png") no-repeat;
+		display: block;
+		height: 25px;
+		position: relative;
+		top: 3px;
+		width: 35px;
+	}
+
+.amp-wp-content p,
+.amp-wp-content .amp-wp-title,
+.amp-wp-content .amp-wp-meta,
+.amp-wp-content .amp-post-meta {
+	line-height: 25px;
+	margin-bottom: 16px;
+	padding-bottom: 0;
+	padding-left: 15px;
+	padding-right: 15px;
+	text-align: left;
+}
+.amp-wp-content {
+	background: #FFFFFF;
+	font-family: Arial;
+	padding: 0;
+	padding-bottom: 10px;
+}
+	.amp-wp-content amp-carousel {
+		background: white;
+	}
+	.amp-wp-content .amp-adobe-pixel {
+		margin: 0;
+	}
+	.amp-wp-content .amp-wp-title {
+		color: #000000;
+		font-size: 30px;
+		font-weight: bold;
+		line-height: 33px;
+		margin-top: 0;
+	}
+	.amp-wp-content p {
+		color: #333333;
+		font-size: 16px;
+		line-height: 25px;
+		margin-top: 23px;
+	}
+	.amp-wp-content a {
+		color: #2457a7;
+		text-decoration: none;
+	}
+	.amp-wp-content .amp-featured-image {
+		margin-bottom: 0;
+		padding: 0;
+	}
+	.amp-wp-content .no-featured-image {
+		padding-top: 24px;
+	}
+	.amp-wp-content .amp-img.aligncenter {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.amp-wp-content .caption,
+	.amp-wp-content .description,
+	.amp-wp-content .wp-caption-text {
+		color: #888888;
+		font-size: 14px;
+		margin: 0;
+		padding: 7px 15px;
+	}
+	.amp-wp-content p amp-img,
+	.amp-wp-content p amp-carousel  {
+		margin-left: -15px;
+		margin-right: -15px;
+		padding: 15px;
+	}
+	.amp-wp-content p amp-img.alignright,
+	.amp-wp-content p amp-img.alignleft {
+		margin: 0;
+		padding: 0;
+	}
+	.amp-wp-content p amp-img.alignright {
+		margin-left: 8px;
+	}
+	.amp-wp-content p amp-img.alignleft {
+		margin-right: 8px;
+	}
+	.amp-wp-content .figure {
+		margin-bottom: 24px;
+	}
+	.amp-wp-content .amp-post-meta {
+		color: #000000;
+		font-size: 14px;
+	}
+		.amp-wp-content .amp-post-meta .author {
+			font-weight: bold;
+		}
+		.amp-wp-content .amp-post-meta .entry-date {
+			font-style: italic;	
+		}
+	.amp-wp-content .amp-ad-bg {
+		background: #f1f1f1;
+		padding: 10px 0;
+	}
+	.amp-wp-content .latest-posts-shortcode a amp-img {
+		margin: 0 auto;
+	}
+	.amp-wp-content .latest-posts-shortcode a .caption p {
+		text-align: center;
+	}
+	.amp-wp-content .listicle-shortcode {
+		margin: 0 15px;
+	}
+	.amp-wp-content .amp-carousel-button.amp-carousel-button-next,
+	.amp-wp-content .amp-carousel-button.amp-carousel-button-prev {
+		opacity: 1;
+		visibility: visible;
+	}
+	.amp-wp-content .amp-carousel-button.amp-carousel-button-next.amp-disabled,
+	.amp-wp-content .amp-carousel-button.amp-carousel-button-prev.amp-disabled {
+		opacity: 0;
+		visibility: hidden;
+	}
+	.amp-wp-content #power-rankings {
+		font-size: 13px;
+		margin: 15px;
+		text-align: center;
+	}
+		.amp-wp-content #power-rankings tbody tr.underlined td.pr-comment {
+			padding: 20px 0;
+			text-align: left;
+		}
+	.amp-wp-content .teads-ad {
+		display: block;
+		margin: 0 auto;
+	}
+	.amp-wp-content .amp-sharebar {
+		padding:0 10px
+	}
+	.amp-wp-content .full-site-button {
+		background: #eaeaea;
+		height: 40px;
+		line-height: 40px;
+		margin: 0 auto;
+		width: 304px;
+	}
+	.amp-wp-content .full-site-button a {
+		color: #333333;
+		cursor: pointer;
+		display: block;
+		text-align: center;
+	}
+.amp-ad-placeholder {
+	background-color: #eaeaea;
+	height: 300px;
+	width: 100%;
+}
+
+#page-footer .top,
+#page-footer .bottom {
+	background: #2457a7;
+	font-family: Arial;
+}
+	#page-footer .top .logo {
+		width: 100%;
+	}
+		#page-footer .top .logo img {
+			display: block;
+			height: auto;
+			margin: 0 auto;
+			max-width: 90%;
+		}
+	#page-footer .bottom .copyright-wrapper,
+	#page-footer .bottom .right-wrapper {
+		padding: 0 20px;
+	}
+		#page-footer .bottom .copyright-wrapper {
+			font-size: 1.1em;
+			margin-bottom: 15px;
+			text-align: center;
+		}
+		#page-footer .bottom .terms-of-use {
+			font-size: 1.1em;
+			text-align: center;
+		}
+		#page-footer .bottom.nav-final-footer {
+			margin: 0 0 15px;
+			padding: 0;
+			text-align: center;
+		}
+
+#main-menu,
+#listen-live-wrapper {
+	display: none;
+}
+
+#component-stations {
+	background: #032048;
+	border-bottom: 1px solid #cccccc;
+	line-height: 12px;
+	padding: 5px 0;
+	text-align: center;
+	overflow: hidden;
+	width: 100%;
+}
+	#component-stations .stations-wrapper {
+		display: inline-block;
+		margin: 0 auto;
+		overflow: hidden;	
+	}
+	#component-stations a  {
+		display: block;
+		float: left;
+		padding: 0 5px;
+	}
+		#component-stations a .title-wrapper {
+			display: none;
+		}
+.shortcode-clip-player {
+	margin-left: 0;
+}
+	.shortcode-clip-player > amp-iframe {
+		margin: 0 auto;
+	}
+
+/*Footer*/
+#page-footer {
+	background: #0093d0;
+	color: white;
+	font-size: 10px;
+}
+	#page-footer .top,
+	#page-footer .middle {
+		padding: 10px;
+	}
+	#page-footer a {
+		color: white;
+		text-decoration: none;
+	}
+	#page-footer .top,
+	#page-footer .bottom {
+		background: #2457a7;
+		font-family: Arial;
+	}
+#amp-ad-footer {
+	margin-bottom: 35px;
+}
+
+
+/* Footer - Top Row */
+
+#page-footer .top .logo {
+	display: block;
+	margin: 0 auto;
+	width: 143px;
+}
+	#page-footer .top .logo img {
+		display: block;
+		height: auto;
+		margin: 0 auto;
+		max-width: 90%;
+	}
+
+/* Footer - Bottom Row */
+
+#page-footer .bottom {
+	clear: both;
+	overflow: hidden;
+	padding: 10px;
+}
+	#page-footer .bottom .copyright-wrapper .copyright,
+	#page-footer .bottom .copyright-wrapper .powered-by-wordpress {
+		display: block;
+	}
+	#page-footer .bottom .right-wrapper .nav-final-footer li {
+		border-left: 1px solid white;
+		font-size: 1.1em;
+		list-style: none;
+		display: inline;
+		padding: 0 5px;
+	}
+	#page-footer .bottom .right-wrapper .nav-final-footer li:first-child {
+		border-left: none;
+		padding-left: 0;
+	}
+	#page-footer .bottom .right-wrapper .nav-final-footer li:last-child {
+		padding-right: 0;
+	}
+	#page-footer .bottom .copyright-wrapper,
+	#page-footer .bottom .right-wrapper {
+		padding: 0 20px;
+	}
+		#page-footer .bottom .copyright-wrapper {
+			font-size: 1.1em;
+			margin-bottom: 15px;
+			text-align: center;
+		}
+		#page-footer .bottom .terms-of-use {
+			font-size: 1.1em;
+			text-align: center;
+		}
+		#page-footer .bottom .nav-final-footer {
+			margin: 0 0 15px;
+			padding: 0;
+			text-align: center;
+		}
+
+/*****************************
+	Navigation (Sidebar)
+*****************************/
+	.amp-wp-header .hamburger {
+		background: transparent;
+		border: none;
+		left: 5px;
+		position: absolute;
+		top: 3px;
+	}
+		.amp-wp-header .hamburger:before {
+			color: white;
+			content: "\f0c9";
+			cursor: pointer;
+			float: left;
+			font: normal normal 25px/25px FontAwesome;
+			height: 25px;
+			overflow: hidden;
+			padding: 8px;
+			text-align: center;
+			text-indent: 0;
+			width: 25px;
+		}
+	.amp-sidebar-menu {
+		background: white;
+		color: #2457a7;
+		font-family: Lato, Arial, sans-serif;
+		font-size: 13px;
+		margin-top: 51px;
+		width: 50%;
+	}
+		.amp-sidebar-menu amp-accordion {
+			margin-bottom: 20px;
+			padding: 0px 10px 0;
+		}
+		.amp-sidebar-menu amp-accordion ul {
+			padding: 0;
+		}
+			.amp-sidebar-menu amp-accordion ul li {
+				list-style: none;
+				padding: 10px 0;
+				padding-left: 15px
+			}
+			.amp-sidebar-menu amp-accordion ul li a {
+				color: #2457a7;
+				font-weight: 300;
+				text-decoration: none;
+			}
+		.amp-sidebar-menu .sidebar-section .sidebar-title {
+			background: white;
+			border: none;
+			border-bottom: 1px solid #eaeaea;
+			font-weight: 600;
+			padding: 15px 0;
+		}
+			.amp-sidebar-menu .sidebar-section .sidebar-title .main-nav-link,
+			.amp-sidebar-menu .sidebar-section .sidebar-title .listen-live {
+				color: #2457a7;
+				display: block;
+				font-weight: 400;
+				text-decoration: none;
+				text-transform: uppercase;
+			}
+			.amp-sidebar-menu .sidebar-section .sidebar-title .listen-live {
+				color: red;
+			}
+/*****************************
+	Gallery
+*****************************/
+
+#gallery.amp-wp-content .gallery-post-title,
+#gallery.amp-wp-content .gallery-image-title {
+	display: block;
+	font-weight: bold;
+}
+
+#gallery.amp-wp-content .category-list {
+	font-size: 13px;
+}
+
+#gallery.amp-wp-content .image-caption {
+	display: block;
+	font-style: italic;
+}
+
+#gallery.amp-wp-content .amp-wp-title {
+	padding: 15px 0;
+}
+
+#gallery.amp-wp-content .amp-wp-title,
+#gallery.amp-wp-content .category-list,
+#gallery.amp-wp-content amp-fit-text {
+	margin: 5px 10px;
+}
+
+#gallery.amp-wp-content .next-gallery-overlay {
+	background: rgba(0,0,0,.5);
+	padding: 30%;
+	position: absolute;
+	width: 100%;
+	z-index: 1;
+}
+
+#gallery.amp-wp-content .next-gallery-text {
+	display: block;
+	padding: 15px 0;
+	position: absolute;
+	transform: translateY(-50%);
+	text-align: center;
+	width: 100%;
+	z-index: 2;
+}
+
+#gallery.amp-wp-content .next-gallery-text .top-text,
+#gallery.amp-wp-content .next-gallery-text .bottom-text {
+	color: white;
+	display: block;
+}
+
+#gallery.amp-wp-content .next-gallery-text .top-text {
+	font-size: 18px;
+}
+
+#gallery.amp-wp-content .next-gallery-text .bottom-text {
+	font-size: 26px;
+}
+#gallery.amp-wp-content .next-gallery-text,
+#gallery.amp-wp-content .amp-carousel-button.amp-carousel-button-prev,
+#gallery.amp-wp-content .amp-carousel-button.amp-carousel-button-next {
+	top: 35%;
+}
+
+#gallery.amp-wp-content .amp-gallery-carousel {
+	margin-bottom: 0;
+}
+	#gallery.amp-wp-content .amp-gallery-carousel .slide > amp-img > img {
+		object-fit: contain;
+	}
+
+.embed-item .cbs-thumbnail-link .thumbnail-wrapper.no-thumbnail {
+	padding: 0 0 28.1% 0;
+}
+	.embed-item .cbs-thumbnail-link .thumbnail-wrapper.no-thumbnail {
+		background-image: url( https://s0.wp.com/wp-content/themes/vip/cbs-local/includes/images/no-thumbnail.png );
+		background-position: center;
+		max-width: 50%;
+	}
+.embed-item .block-head-wrapper .title {
+	font-size: 1.5em;
+	margin-bottom: 20px;
+}
+	.embed-item .block-head-wrapper .title a:after {
+		content: '\00a0\00a0\f105';
+		font-family: FontAwesome;
+	}
+
+/*****************************
+	Embed List - Catalog type
+*****************************/
+
+	.embed-list {
+		padding: 0 10px
+	}
+		.embed-list .block-content-wrapper.layout-catalog .cbs-thumbnail-link {
+			display: block;
+			margin-bottom: 25px;
+			overflow: hidden;
+			width: 100%;
+		}
+			.embed-list .block-content-wrapper.layout-catalog .cbs-thumbnail-link .thumbnail-wrapper {
+				float: left;
+				margin-bottom: 0;
+				margin-right: 2%;
+				width: 50%;
+			}
+			.embed-list .block-content-wrapper.layout-catalog .cbs-thumbnail-link .title-wrapper .title {
+				color: black;
+				font-size: 14px;
+				font-weight: normal;
+				margin-bottom: 1.4%;
+			}
+			.embed-list .block-content-wrapper.layout-catalog .cbs-thumbnail-link .title-wrapper .description {
+				font-size: 1.4em;
+				max-height: 4.7em;
+				overflow: hidden;
+			}
+		</style>
+</head>
+<body>
+
+	<div id="top" class="amp-wp-header">
+		<button class="hamburger" on="tap:amp-sidebar-nav.toggle"></button>
+		<div class="amp-logo-wrapper">
+			<a class="amp-logo" href="http://philadelphia.cbslocal.com">CBS Philly</a>
+					</div>
+	</div>
+	
+
+	<amp-sidebar id="amp-sidebar-nav" class="amp-sidebar-menu" layout="nodisplay" side="left">
+		<amp-accordion>
+		<section class="sidebar-section"><header class="sidebar-title"><a href="http://philadelphia.cbslocal.com" class="main-nav-link">Home</a></header><div></div></section><section class="sidebar-section"><header class="sidebar-title"><a href="http://philadelphia.cbslocal.com/category/news/" class="main-nav-link">News</a></header><ul><li><a href="http://philadelphia.cbslocal.com/category/news/local/">Local</a></li><li><a href="http://philadelphia.cbslocal.com/category/news/consumer-news/">Consumer</a></li><li><a href="http://philadelphia.cbslocal.com/category/news/business-economy/">Business</a></li><li><a href="http://philadelphia.cbslocal.com/category/politics/">Politics</a></li><li><a href="http://philadelphia.cbslocal.com/category/health">HealthWatch</a></li><li><a href="http://philadelphia.cbslocal.com/category/news/tech/">Tech</a></li><li><a href="http://philadelphia.cbslocal.com/category/news/entertainment/">Entertainment</a></li><li><a href="http://philadelphia.cbslocal.com/category/blogs-2/">Blogs</a></li><li><a href="http://philadelphia.cbslocal.com/autos/">Autos</a></li><li><a href="http://philadelphia.cbslocal.com/category/only-cbs/">Only CBS</a></li></ul></section><section class="sidebar-section"><header class="sidebar-title"><a href="http://philadelphia.cbslocal.com/category/sports/" class="main-nav-link">Sports</a></header><ul><li><a href="http://philadelphia.cbslocal.com/category/sports">Latest</a></li><li><a href="http://philadelphia.cbslocal.com/category/sports/phillies/">Phillies</a></li><li><a href="http://philadelphia.cbslocal.com/category/sports/eagles/">Eagles</a></li><li><a href="http://philadelphia.cbslocal.com/category/sports/flyers/">Flyers</a></li><li><a href="http://philadelphia.cbslocal.com/category/sports/sixers-sports/">Sixers</a></li><li><a href="http://philadelphia.cbslocal.com/category/sports/college-sports">College</a></li><li><a href="http://www.cbssports.com/golf/">PGA</a></li><li><a href="http://philadelphia.cbslocal.com/station/94wip/">94WIP</a></li><li><a href="http://philadelphia.cbslocal.com/2010/11/22/610wip-programming-schedule/">On Air</a></li><li><a href="http://www.sportsline.com/">ODDS</a></li><li><a href="http://philadelphia.cbslocal.com/category/sports">Latest</a></li><li><a href="http://philadelphia.cbslocal.com/category/sports/phillies/">Phillies</a></li><li><a href="http://philadelphia.cbslocal.com/category/sports/eagles/">Eagles</a></li><li><a href="http://philadelphia.cbslocal.com/category/sports/flyers/">Flyers</a></li><li><a href="http://philadelphia.cbslocal.com/category/sports/sixers-sports/">Sixers</a></li><li><a href="http://philadelphia.cbslocal.com/category/sports/college-sports">College</a></li><li><a href="http://www.cbssports.com/golf/">PGA</a></li><li><a href="http://philadelphia.cbslocal.com/station/94wip/">94WIP</a></li><li><a href="http://philadelphia.cbslocal.com/2010/11/22/610wip-programming-schedule/">On Air</a></li><li><a href="http://www.sportsline.com/">ODDS</a></li></ul></section><section class="sidebar-section"><header class="sidebar-title"><a href="http://philadelphia.cbslocal.com/video/" class="main-nav-link">Videos</a></header><ul></ul></section><section class="sidebar-section"><header class="sidebar-title"><a href="http://philadelphia.cbslocal.com/weather/" class="main-nav-link">Weather</a></header><ul><li><a href="http://philadelphia.cbslocal.com/category/weather">Full Forecast</a></li><li><a href="http://philadelphia.cbslocal.com/school-closings-by-name/">School Closings</a></li><li><a href="http://philadelphia.cbslocal.com/category/weather/">News</a></li><li><a href="http://philadelphia.cbslocal.com/video/category/news-weather/">Latest Videos</a></li></ul></section><section class="sidebar-section"><header class="sidebar-title"><a href="http://philadelphia.cbslocal.com/traffic/" class="main-nav-link">Traffic</a></header><div></div></section><section class="sidebar-section"><header class="sidebar-title"><a href="http://philadelphia.cbslocal.com/category/eat-see-play/" class="main-nav-link">E.S.P.</a></header><ul></ul></section><section class="sidebar-section"><header class="sidebar-title"><a href="http://philadelphia.cbslocal.com/category/contests-promotions/" class="main-nav-link">Contests</a></header><ul><li><a href="http://philadelphia.cbslocal.com/2017/10/20/kyw-am-contest-rules/">KYWAM Contest Rules</a></li><li><a href="http://philadelphia.cbslocal.com/2017/10/19/wiprules/">WIPFM Contest Rules</a></li><li><a href="http://philadelphia.cbslocal.com/2017/10/20/talk-radio-1210-wpht-am-contest-rules/">WPHTAM  Contest Rules</a></li></ul></section><section class="sidebar-section"><header class="sidebar-title"><a href="http://philadelphia.cbslocal.com/audio/" class="main-nav-link">Audio</a></header><ul><li><a href="http://player.radio.com/listen/station/kyw-newsradio-1060#.V-1fYFsrJiw">KYW Newsradio 1060</a></li><li><a href="http://player.radio.com/listen/station/sportsradio-94wip#.V-1fjVsrJiw">SportsRadio 94WIP</a></li><li><a href="http://player.radio.com/listen/station/talk-radio-1210-wpht">Talk Radio 1210 WPHT</a></li><li><a href="http://player.radio.com/listen/station/hearphilly">hearPHILLY</a></li><li><a href="http://philadelphia.cbslocal.com/audio/kyw-philly-scene/">KYW Philly Scene</a></li><li><a href="http://philadelphia.cbslocal.com/audio/kyw-sports-pod/">KYW Sports Pod</a></li><li><a href="http://philadelphia.cbslocal.com/audio/kyw-on-your-health/">KYW On Your Health</a></li><li><a href="http://philadelphia.cbslocal.com/show/middays/">DeCamara &amp; Ritchie</a></li><li><a href="http://philadelphia.cbslocal.com/audio/afternoons-on-94wip/">Chris Carlin &amp; Ike Reese</a></li><li><a href="http://philadelphia.cbslocal.com/audio/dom-giordano-program/">The Dom Giordano Program</a></li><li><a href="http://philadelphia.cbslocal.com/audio/rich-zeoli/">Rich Zeoli</a></li></ul></section><section class="sidebar-section"><header class="sidebar-title"><span class="main-nav-link">More</span></header><ul></ul></section>		</amp-accordion>
+	</amp-sidebar>
+
+
+<div id="component-stations" class="header-component"><div class="stations-wrapper"><a href="http://philadelphia.cbslocal.com/station/cbs-3/" title="CBS 3" class="cbs-thumbnail-link" ><div class="thumbnail-wrapper"><span class="balance"><amp-img width="52" height="28" src="https://cbsphilly.files.wordpress.com/2014/12/cbs31.png?w=52&#038;h=28&#038;crop=1"></amp-img></span></div><div class="title-wrapper"><strong class="title">CBS 3</strong></div></a><a href="http://philadelphia.cbslocal.com/station/kyw-newsradio/" title="KYW Newsradio 1060" class="cbs-thumbnail-link" ><div class="thumbnail-wrapper"><span class="balance"><amp-img width="45" height="28" src="https://cbsphilly.files.wordpress.com/2014/06/kyw.png?w=45&#038;h=28&#038;crop=1"></amp-img></span></div><div class="title-wrapper"><strong class="title">KYW Newsradio 1060</strong></div></a><a href="http://philadelphia.cbslocal.com/station/94wip/" title="SportsRadio 94WIP" class="cbs-thumbnail-link" ><div class="thumbnail-wrapper"><span class="balance"><amp-img width="61" height="28" src="https://cbsphilly.files.wordpress.com/2010/08/94wip1.png?w=61&#038;h=28&#038;crop=1"></amp-img></span></div><div class="title-wrapper"><strong class="title">SportsRadio 94WIP</strong></div></a><a href="http://philadelphia.cbslocal.com/station/wpht/" title="Talk Radio 1210 WPHT" class="cbs-thumbnail-link" ><div class="thumbnail-wrapper"><span class="balance"><amp-img width="80" height="28" src="https://cbsphilly.files.wordpress.com/2010/08/1210_wpht1.png?w=80&#038;h=28&#038;crop=1"></amp-img></span></div><div class="title-wrapper"><strong class="title">Talk Radio 1210 WPHT</strong></div></a></div></div>
+<amp-sticky-ad layout="nodisplay"><amp-ad type="doubleclick" width="320" height="50" data-loading-strategy="prefer-viewability-over-views" class="amp-ad sticky-ad" data-slot="/4128/CBS.PHILLY.MOBILE/googleamp/sticky-amp-ad" json='{"targeting":{"tag":["googleamp","sticky-amp-ad","facebooksstocktumblesagainvaluedropsbymorethan50billion","post","article","heardon","news","seenon","talkers","facebook","localtv","markzuckerberg","talkers","news"],"title":"facebooksstocktumblesagainvaluedropsbymorethan50billion"}}'></amp-ad></amp-sticky-ad>
+<div class="amp-wp-content">
+
+	<section class="column-item media-type-anvato  close-btn" id="featured-media"><div class="video-wrapper anvato"><amp-iframe src="https://w3.cdn.anvato.net/player/prod/v3/anvload.html?key=eyJhdXRvcGxheSI6dHJ1ZSwidGl0bGVWaXNpYmxlIjpmYWxzZSwiYWNjZXNzS2V5IjoiYW52YXRvX2Nic2xvY2FsX2FwcF93ZWJfcHJvZF81NDdmM2U0OTI0MWVmMGU1ZDMwYzc5YjJlZmJjYTVkOTJjNjk4ZjY3IiwiYWNjZXNzQ29udHJvbCI6eyJwcmV2aWV3IjpmYWxzZX0sInBsdWdpbnMiOnsiaGVhcnRiZWF0Ijp7ImFjY291bnQiOiJjYnNsb2NhbC1nbG9iYWwtdW5pZmllZCIsInB1Ymxpc2hlcklkIjoiY2JzbG9jYWwiLCJqb2JJZCI6InNjX3ZhIiwibWFya2V0aW5nQ2xvdWRJZCI6IjgyM0JBMDMzNTU2NzQ5N0Y3RjAwMDEwMUBBZG9iZU9yZyIsInRyYWNraW5nU2VydmVyIjoiY2JzZGlnaXRhbG1lZGlhLmhiLm9tdHJkYy5uZXQiLCJjdXN0b21UcmFja2luZ1NlcnZlciI6ImNic2RpZ2l0YWxtZWRpYS5kMS5zYy5vbXRyZGMubmV0IiwiY2hhcHRlclRyYWNraW5nIjpmYWxzZSwidmVyc2lvbiI6IjEuNSJ9LCJjb21zY29yZSI6eyJjbGllbnRJZCI6IjMwMDAwMjMiLCJjMyI6InBoaWxhZGVscGhpYS5jYnNsb2NhbC5jb20ifSwiZGZwIjp7ImNsaWVudFNpZGUiOnsiYWRUYWdVcmwiOiJodHRwOlwvXC9wdWJhZHMuZy5kb3VibGVjbGljay5uZXRcL2dhbXBhZFwvYWRzP3N6PTJ4MiZpdT1cLzQxMjhcL0NCUy5QSElMTFkmY2l1X3N6cyZpbXBsPXMmZ2RmcF9yZXE9MSZlbnY9dnAmb3V0cHV0PXhtbF92YXN0MiZ1bnZpZXdlZF9wb3NpdGlvbl9zdGFydD0xJnVybD1bcmVmZXJyZXJfdXJsXSZkZXNjcmlwdGlvbl91cmw9W2Rlc2NyaXB0aW9uX3VybF0mY29ycmVsYXRvcj1bdGltZXN0YW1wXSIsImtleVZhbHVlcyI6eyJjYXRlZ29yaWVzIjoiW1tDQVRFR09SSUVTXV0iLCJwcm9ncmFtIjoiW1tQUk9HUkFNX05BTUVdXSIsInNpdGVTZWN0aW9uIjoiZmVhdHVyZWQifX19fSwic2hhcmVMaW5rIjoiaHR0cHM6XC9cL3dwLm1lXC9wMTFxbnctNDdmaCIsInAiOiJkZWZhdWx0IiwiaHRtbDUiOnRydWUsIm0iOiJjYnMiLCJ2IjoiMzgyOTg3NiJ9" width="640" height="360" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox" allowfullscreen="" layout="responsive" scrolling="no" frameborder="0"><div placeholder="" class="amp-wp-iframe-placeholder"></div><amp-img src="https://s0.wp.com/wp-content/themes/vip/cbs-local/images/video/no-thumbnail-260x160.png" layout="fill" placeholder></amp-img></amp-iframe></div></section>
+
+		
+	<h1 class="amp-wp-title ">Facebook&#8217;s Stock Tumbles Again, Value Drops By More Than $50 Billion</h1>
+
+	
+	<div class="amp-post-meta">
+				<div class="entry-date">March 20, 2018 2:55 PM</div>
+	</div>
+
+	<div class="amp-ad-bg"><amp-ad height="200" type="yieldmo" data-ymid="69700129"><amp-img placeholder="" class="amp-ad-placeholder" layout="fill" src="#"></amp-img></amp-ad></div><p>By Nathaniel Meyersohn</p><p><em>NEW YORK (CNN)</em> — Facebook’s stock is sliding for the second day in a row.</p><p><a href="http://cbsloc.al/2pueGdk" target="_blank" rel="noopener"><strong>Here’s How To Keep Your Facebook Profile Information Private</strong></a></p><p>Shares of Facebook fell another 5 percent Tuesday on the heels of the company’s worst day in four years. More than $50 billion has been wiped off Facebook’s market value this week.</p><p>Investors punished Facebook after Cambridge Analytica, which had ties to President Trump’s 2016 campaign, reportedly accessed information from about 50 million Facebook users to influence voters.</p><p>The company’s slump has spread to the broader market, dragging down tech and social media companies. The S&amp;P 500’s tech sector lost 2 percent Tuesday, with Twitter’s 9 percent tumble leading the way. Snap Inc. fell 4 percent.</p><p>Facebook has become one of America’s most valuable companies, with a market cap of around $500 billion. Its $50 billion loss in market value this week is larger than the market valuations of Ford, eBay and Delta.</p><p>Lawmakers in both the United States and UK are calling for founder and CEO Mark Zuckerberg to testify about what he know about the compromised data and Facebook’s policies to protect user privacy.</p><amp-ad width="300" height="250" class="doubleclick-ad" type="doubleclick" data-slot="/4128/CBS.PHILLY.MOBILE/googleamp" json="{&quot;targeting&quot;:{&quot;tag&quot;:[&quot;googleamp&quot;,&quot;facebooksstocktumblesagainvaluedropsbymorethan50billion&quot;,&quot;post&quot;,&quot;article&quot;,&quot;heardon&quot;,&quot;news&quot;,&quot;seenon&quot;,&quot;talkers&quot;,&quot;facebook&quot;,&quot;localtv&quot;,&quot;markzuckerberg&quot;,&quot;talkers&quot;,&quot;news&quot;],&quot;title&quot;:&quot;facebooksstocktumblesagainvaluedropsbymorethan50billion&quot;}}"></amp-ad><p>Zuckerberg holds around 400 million shares of Facebook, and he has lost about $7 billion in value since Friday’s market close.</p><p>He still owns $70 billion worth of shares in the company, however, and his job is safe because he controls the majority of Facebook’s shareholder vote.</p><amp-ad width="300" height="1" class="teads-ad" type="doubleclick" layout="responsive" data-slot="/4128/CBS.PHILLY.MOBILE/googleamp" json="{&quot;targeting&quot;:{&quot;tag&quot;:[&quot;googleamp&quot;, &quot;post&quot;], &quot;title&quot;:&quot;facebooksstocktumblesagainvaluedropsbymorethan50billion&quot;}, &quot;useSameDomainRenderingUntilDeprecated&quot;:1}"></amp-ad><p>A drumbeat of negative headlines and the possibility of tighter regulations have caused investors to unload some of their assets in Facebook, said Benjamin Schachter, an analyst at Macquarie Capital, in a research note.</p><p>Facebook makes money by selling advertisements on its platform. If users log off because they’re worried about privacy, or if companies and advertisers slow spending on the site, Facebook’s model could be in jeopardy.</p><p>“Weaker user or ad growth are the most material risks to the stock,” Morgan Stanley analyst Brian Nowak wrote in a note.</p><p>Both analysts expect Zuckerberg to go on offense to tamp down lawmakers’ pressure and restore investors’ confidence.</p><p>“We look for [Facebook] to become more assertive about the mistakes it has made, the unintended actions that have occurred on the platform, and how it intends to fix them,” Nowak said.</p><p>The-CNN-Wire ™ &amp; © 2018 Cable News Network, Inc., a Time Warner Company. All rights reserved.</p>
+	<div class="full-site-button"><a href="http://philadelphia.cbslocal.com/2018/03/20/facebooks-stock-tumbles-again/">Visit Full Site</a></div>
+
+			<amp-embed width=100 height=100 
+		type=taboola 
+		layout=responsive 
+		heights="(min-width:2000px) 280%, (min-width:1677px) 282%, (min-width:1441px) 285%, (min-width:1265px) 288%, (min-width:1083px) 291%, (min-width:954px) 295%, (min-width:826px) 299%, (min-width:730px) 304%, (min-width:635px) 309%, (min-width:567px) 315%, (min-width:527px) 322%, (min-width:476px) 328%, (min-width:452px) 336%, (min-width:416px) 342%, (min-width:381px) 350%, (min-width:372px) 357%, (min-width:363px) 365%, (min-width:340px) 373%, 380%" 
+		data-publisher="cbslocal-network" 
+		data-mode="thumbnails-b" 
+		data-placement="Mobile Below Article Thumbnails AMP BT" 
+		data-target_type="mix" 
+		data-article="auto"> 
+		</amp-embed> 
+
+</div>
+
+<amp-ad id="amp-ad-footer" height="360" type="yieldmo" data-ymid="69700130"><div placeholder><div class="amp-ad-placeholder"></div></div></amp-ad>	<amp-analytics type="googleanalytics" id="page_tracking">
+		<script type="application/json">
+			{
+				"vars": {"account": "UA-17434257-35"},
+				"triggers": {
+					"trackPageview": {
+						"on": "visible",
+						"request": "pageview"
+					}
+				}
+			}
+		</script>
+	</amp-analytics>
+
+	<amp-analytics type="googleanalytics" id="rollup_tracking">
+		<script type="application/json">
+			{
+				"vars": {"account": "UA-2438645-53"},
+				"triggers": {
+					"trackPageview": {
+						"on": "visible",
+						"request": "pageview"
+					}
+				}
+			}
+		</script>
+	</amp-analytics>
+		<amp-pixel src="https://pixel.wp.com/b.gif?rand=RANDOM&#038;host=philadelphia.cbslocal.com&#038;ref=DOCUMENT_REFERRER&#038;amp=1&#038;blog=15116066&#038;v=wpcom&#038;tz=-4&#038;user_id=0&#038;post=981167&#038;subd=cbsphilly"></amp-pixel>
+	<amp-pixel src="https://pixel.wp.com/b.gif?rand=RANDOM&#038;v=wpcom-no-pv&#038;crypt=UE40eW5QN0p8M2Y%2FRE1BNmNJfGhxNCVxUDExYmtib2E%2FSzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1%2BR3NyNTdocExCODFfQnlZTGxWLFVFPVlVSzZxZ0xDdjhiSFpJQUhvamMwWit2eE8tbzNzS1tUOGM1SD9zVT9DMHclSWE9VVctQ0p%2BcDNHODBlekN6JiYvP3wsfEVCVGNsSnlUdjc5PS45PTZfTm12flgrfl90VHwvbmVwZDVkbT9MSkN0bS80X1VVXW9VZ3ZXTiVFaTJtRFU1OVI4SD1LWEJoU3pyfkE9VFM%3D"></amp-pixel>
+	
+
+</div>
+
+
+<footer id="page-footer" class="page-footer-type-menus-vertical">
+			<section class="top"><div class="wrapper">
+								</div></section>
+	
+	
+			<section class="bottom"><div class="wrapper">
+			
+			<div class="copyright-wrapper">
+				<span class="copyright">&copy;2018 CBS Broadcasting Inc. All Rights Reserved.</span>
+									<span class="powered-by-wordpress">Powered by <a href="https://vip.wordpress.com/?utm_source=vip_powered_wpcom&#038;utm_medium=web&#038;utm_campaign=VIP%20Footer%20Credit&#038;utm_term=philadelphia.cbslocal.com" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a></span>
+							</div>
+
+			<div class="right-wrapper">
+									<div class="terms-of-use">By viewing our video content, you are accepting the terms of our <a href="http://policies.cbslocal.com/privacy-june-2015/current.html#video-services" target="_blank" title="Video Services Policy">Video Services Policy</a></div>
+								<ul id="menu-final-footer-menu" class="nav-final-footer"><li id="menu-item-273646" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-273646"><a href="http://policies.cbslocal.com/privacy/current.html">Privacy Policy</a></li>
+<li id="menu-item-273647" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-273647"><a href="http://policies.cbslocal.com/terms-of-use/">Terms of Use</a></li>
+<li id="menu-item-692386" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-692386"><a href="http://policies.cbslocal.com/privacy/current.html#cali-visitors">Your California Privacy Rights</a></li>
+<li id="menu-item-692387" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-692387"><a href="http://policies.cbslocal.com/mobile-app-agreement/">Mobile User Agreement</a></li>
+<li id="menu-item-372715" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-372715"><a href="http://policies.cbslocal.com/privacy/current.html#onlinead">Ad Choices</a></li>
+<li id="menu-item-41310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41310"><a href="http://philadelphia.cbslocal.com/eeo-reports/">EEO Reports</a></li>
+<li id="menu-item-957403" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-957403"><a href="http://policies.cbslocal.com/fcc/philadelphia.television.html">CBS Television Public File</a></li>
+<li id="menu-item-957404" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-957404"><a href="http://policies.cbslocal.com/fcc/philadelphia.radio.html">CBS Radio Public File</a></li>
+</ul>			</div>
+
+						</div></section>
+</footer>
+</div>
+
+
+
+	
+</body>
+</html>
+<!--
+	generated 74 seconds ago
+	generated in 0.136 seconds
+	served from batcache in 0.001 seconds
+	expires in 226 seconds
+-->

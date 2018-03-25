@@ -1,0 +1,2033 @@
+<!DOCTYPE html>
+<html class="site--news" class="no-js" lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQQCWFBQDxADUllWBwcOVw=="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="SBS News">
+  <meta name="msapplication-TileColor" content="#1b2024">
+  <meta name="msapplication-TileImage" content="/news/img/icons/icon-144x144.png">
+  <meta name="theme-color" content="#1b2024">
+  <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
+
+  <title>Xi warns Taiwan will face &#039;punishment&#039; for separatism | SBS News</title>
+  <meta name="description" content="Taiwan is one of China&#039;s most sensitive issues and a potentially dangerous military flashpoint.">
+  <meta name="keywords" content="Taiwan government,China government,Xi Jinping,Donald Trump,Tsai Ing-wen,Reuters - SBS,Asia,East Asia,Greater China,China,Taiwan,War and unrest,Government and politics,Territorial disputes,General news,None,Inform">  
+  <meta property="og:description" content="Taiwan is one of China&#039;s most sensitive issues and a potentially dangerous military flashpoint.">
+  <meta property="og:image" content="https://sl.sbs.com.au/public/image/file/528e01ab-b8c2-43e3-8658-d847d093ad11/crop/16x9">
+  <meta property="og:image:type" content="">
+  <meta property="og:image:width" content="">
+  <meta property="og:image:height" content="">
+  <meta property="og:image:alt" content="Chinese President Xi Jinping (C) delivers a speech during the closing of the first session of the 13th National People&#039;s Congress (NPC) ">
+  <meta property="og:site_name" content="SBS News">
+  <meta property="og:title" content="Xi warns Taiwan will face &#039;punishment&#039; for separatism">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://www.sbs.com.au/news/xi-warns-taiwan-will-face-punishment-for-separatism">
+  <meta property="og:locale" content="en_GB">
+  <meta property="article:publisher" content="https://www.facebook.com/sbsnews">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@SBSNews">
+  <meta name="twitter:title" content="Xi warns Taiwan will face &#039;punishment&#039; for separatism">
+  <meta name="twitter:description" content="Taiwan is one of China&#039;s most sensitive issues and a potentially dangerous military flashpoint.">
+  <meta name="twitter:image" content="https://sl.sbs.com.au/public/image/file/528e01ab-b8c2-43e3-8658-d847d093ad11/crop/16x9">
+  <meta name="twitter:url" content="https://www.sbs.com.au/news/xi-warns-taiwan-will-face-punishment-for-separatism">
+  
+  <meta itemprop="description" content="Taiwan is one of China&#039;s most sensitive issues and a potentially dangerous military flashpoint.">
+  <meta itemprop="image" content="https://sl.sbs.com.au/public/image/file/528e01ab-b8c2-43e3-8658-d847d093ad11/crop/16x9">
+  <meta itemprop="name" content="SBS News">
+
+  <meta itemprop="datePublished" content="2018-03-20T13:58:41+11:00"/>
+  <meta property="fb:pages" content="10153017026003686,1718340018404039,118110394871717,1031979170179611,156543917205,152749149157,1653992468195523,853308881454030,248358785343756,402145919880044,125982670754724,6038270901,240259225410,242485789418468,1735930699952878,108683457751,139727238426,91116257004,100246430019521,368329703192018,194784127232544,173168582700205,168993229831044" />
+    <meta name="cXenseParse:sba-sitename" content="News">
+  <meta name="cXenseParse:sba-alc_language" content="en">
+  <meta name="cXenseParse:sba-pageclass" content="article">
+  <meta name="cXenseParse:sba-articleid" content="2ea85904-772e-4a95-8f8b-ac69eee0f5bb">
+  <meta name="cXenseParse:sba-contenttype" content="Article">
+  <meta name="cXenseParse:sba-articletype" content="Video-Article">
+  <meta name="cXenseParse:sba-newstopic" content="Asia-Pacific">
+  <meta name="cXenseParse:sba-source" content="Reuters - SBS">
+  <meta name="cXenseParse:sba-subject" content="War and unrest">
+  <meta name="cXenseParse:sba-subject" content="Government and politics">
+  <meta name="cXenseParse:sba-subject" content="Territorial disputes">
+  <meta name="cXenseParse:sba-subject" content="General news">
+  <meta name="cXenseParse:sba-geography" content="Asia">
+  <meta name="cXenseParse:sba-geography" content="East Asia">
+  <meta name="cXenseParse:sba-geography" content="Greater China">
+  <meta name="cXenseParse:sba-geography" content="China">
+  <meta name="cXenseParse:sba-geography" content="Taiwan">
+  <meta name="cXenseParse:sba-person" content="Xi Jinping">
+  <meta name="cXenseParse:sba-person" content="Donald Trump">
+  <meta name="cXenseParse:sba-person" content="Tsai Ing-wen">
+  <meta name="cXenseParse:sba-organization" content="taiwan government">
+  <meta name="cXenseParse:sba-organization" content="China government">
+  <meta name="cXenseParse:sba-charter" content="None">
+  <meta name="cXenseParse:sba-theme" content="Inform">
+        <meta name="apple-itunes-app" content="app-id=432849691, app-argument=https://www.sbs.com.au/news/xi-warns-taiwan-will-face-punishment-for-separatism">
+  
+      <script type="application/ld+json">
+{
+	"@context":"https://schema.org",
+	"@type":"Organization",
+	"name":"SBS News",
+	"url":"https://www.sbs.com.au/news",
+	"logo":"https://www.sbs.com.au/news/assets/img/news/logo-colour-square.png",
+	"sameAs": [
+    "https://www.facebook.com/sbsnews",
+    "https://twitter.com/SBSNews"
+  ]
+}
+</script>    <script type="application/ld+json">
+{
+	"@context":"https://schema.org",
+	"@type":"Article",
+	"mainEntityOfPage":"https://www.sbs.com.au/news/xi-warns-taiwan-will-face-punishment-for-separatism",
+	"url":"https://www.sbs.com.au/news/xi-warns-taiwan-will-face-punishment-for-separatism",
+	"dateCreated":"2018-03-20T13:58:41+11:00",
+	"datePublished":"2018-03-20T13:58:41+11:00",
+	"dateModified":"2018-03-20T19:10:34+11:00",
+	"headline":"Xi warns Taiwan will face &#039;punishment&#039; for separatism",
+      "articleSection": "Asia-Pacific",
+  	"image":{
+		"@type":"ImageObject",
+		"width":1280,
+		"height":720,
+		"url":"https://sl.sbs.com.au/public/image/file/528e01ab-b8c2-43e3-8658-d847d093ad11/crop/16x9"
+	},
+	"thumbnailUrl":"https://sl.sbs.com.au/public/image/file/528e01ab-b8c2-43e3-8658-d847d093ad11/crop/16x9_small",
+	"author":
+  		{
+			"@type":"Organization",
+			"name":SBS News,
+			"logo":{
+				"@type":"ImageObject",
+				"url":"https://www.sbs.com.au/news/assets/img/news/logo-colour-square.png"
+			}
+		},
+											"video":{
+			"@type":"VideoObject",
+			"name":"China&#039;s President delivers starkest warning to Taiwan",
+			"description":"china&#039;s president delivers starkest warning to taiwan  world news australia  ",
+			"duration":"PT02M10S",
+			"thumbnailUrl":"http://videocdn.sbs.com.au/u/video/SBS/managed/images/2018/03/20/1190131267967_03200603_image183120_small.jpg",
+			"embedUrl":"https://www.sbs.com.au/news/embeds/video/1190131267967",
+			"uploadDate":"2018-03-20T13:58:41+11:00"
+		},
+							"publisher":{
+		"@type":"Organization",
+		"name":"SBS News",
+		"logo":{
+			"@type":"ImageObject",
+			"url":"https://www.sbs.com.au/news/assets/img/news/logo-colour-square.png"
+		}
+	}
+}
+</script>
+    <link rel="alternate" type="application/rss+xml" href="https://www.sbs.com.au/news/xi-warns-taiwan-will-face-punishment-for-separatism/feed">
+  <link rel="apple-touch-icon" href="/news/img/icons/icon-152x152.png">
+  <link rel="canonical" href="https://www.sbs.com.au/news/xi-warns-taiwan-will-face-punishment-for-separatism">
+  <link rel="manifest" href="/news/manifest.json">
+      <link rel="shortcut icon" href="/news/img/favicon.ico">
+    <style media="screen" type="text/css">
+    @import url(/news/css/app-shell.css);
+    @import url(/news/css/screen.css);
+  </style>
+  <script>
+    window.SBS_SETTINGS = window.SBS_SETTINGS || {
+      app_base_url: 'https://www.sbs.com.au/news',
+      sbs_base_url: 'https://www.sbs.com.au/',
+      site_name: 'news',
+      site_dfp_prefix: '/4117/naca.sbs/',
+      api: 'https://sl.sbs.com.au',
+    };
+  </script>
+
+  <script data-module="data-layer.module">
+  var digitalData = {
+    "events": [],
+    "page": {
+      "pageInfo":{
+    "pageName": "s:news:xi-warns-taiwan-will-face-punishment-for-separatism",
+    "pageID": "2ea85904-772e-4a95-8f8b-ac69eee0f5bb",
+    "language": "undefined",
+    "destinationURL": "https://www.sbs.com.au/news/xi-warns-taiwan-will-face-punishment-for-separatism",
+    "referralURL": "",
+    "originalReferrerURL": "",
+    "previousPageURL": "",
+    "previousPageName": "",
+    "title": "",
+    "siteName": "News",
+    "domain": "www.sbs.com.au",
+    "path": "/news/xi-warns-taiwan-will-face-punishment-for-separatism",
+    "clickSource": "",
+    "campaign": {
+        "trackingCode": "",
+        "campaignType": "",
+        "channelSource": ""
+    }
+},
+      "category":{
+    "primaryCategory": "news",
+    "siteSubSection1": "xi-warns-taiwan-will-face-punishment-for-separatism",
+    "siteSubSection2": "",
+    "siteSubSection3": "",
+    "siteSubSection4": ""
+},
+      "attributes":{
+    "content": {
+        "pageClass": "article",
+        "contentType": "Article",
+        "articleType": "Video-Article",
+        "contentLanguage": "undefined",
+        "articleID": "2ea85904-772e-4a95-8f8b-ac69eee0f5bb",
+        "publishedDate": "2018-03-20T13:58:41+11:00",
+        "updatedDate": "2018-03-20T19:10:34+11:00",
+        "newsTopic": [
+            "Asia-Pacific",
+            "World"
+        ],
+        "title": "Xi warns Taiwan will face 'punishment' for separatism",
+        "author": [],
+        "subject": [
+            "War and unrest",
+            "Government and politics",
+            "Territorial disputes",
+            "General news"
+        ],
+        "charter": "None",
+        "theme": "Inform",
+        "source": [
+            "Reuters - SBS"
+        ],
+        "person": [
+            "Xi Jinping",
+            "Donald Trump",
+            "Tsai Ing-wen"
+        ],
+        "geography": [
+            "Asia",
+            "East Asia",
+            "Greater China",
+            "China",
+            "Taiwan"
+        ],
+        "organisation": [
+            "Taiwan government",
+            "China government"
+        ],
+        "program": [],
+        "recommendable": ""
+    },
+    "nielsen": {
+        "appID": "P8AF4D796-453B-4A09-A6F0-CCB99B8A45A3",
+        "appName": "SBS World News Australia"
+    },
+    "error": {
+        "errorPage": "",
+        "errorMessage": ""
+    }
+}
+    },
+    "user": {
+    "userInfo": {
+        "loggedIn": "",
+        "userID": "",
+        "syncUserID": [],
+        "loggedInVisit": "",
+        "loggedInType": "",
+        "userType": "",
+        "newsletterName": ""
+    },
+    "userSegment": {
+        "cxenseSegmentIDs": [],
+        "adobeSegmentIDs": [],
+        "strategicSegmentIDs": []
+    }
+},
+    "environment": {
+    "browser": {
+        "userAgent": "",
+        "version": ""
+    },
+    "platform": {
+        "deviceType": "",
+        "deviceName": "",
+        "sourceType": "",
+        "osName": ""
+    }
+}
+  };
+
+  //populate page title from <title> tag
+  let pageTitle = (document.getElementsByTagName("title")[0] && document.getElementsByTagName("title")[0].innerHTML) ? document.getElementsByTagName("title")[0].innerHTML : "embed";
+  digitalData.page.pageInfo["title"] = pageTitle;
+
+  let trackingCode = window.location.search.split('cid=').splice(1).join('').split('&')[0];
+  if (trackingCode !== undefined && digitalData.page.pageInfo.campaign !== undefined) {
+    digitalData.page.pageInfo.campaign["trackingCode"] = trackingCode;
+  }
+
+  //populate previousPageURL and previousPageName from sessionStorage when available
+  digitalData.page.pageInfo["previousPageURL"] = sessionStorage.getItem("pageURL") || "";
+  digitalData.page.pageInfo["previousPageName"] = sessionStorage.getItem("pageName") || "";
+
+  // add in the user agent string
+  if (digitalData.environment.browser !== undefined) {
+    digitalData.environment.browser["userAgent"] = navigator.userAgent;
+  } else {
+    digitalData.environment.browser = {};
+    digitalData.environment.browser["userAgent"] = navigator.userAgent;
+  }
+
+  //create the platform object to set the sourceType attribute
+  digitalData.environment.platform = {};
+  digitalData.environment.platform["sourceType"] = "web";
+
+  //save current page URL and name so we can use it in previous page properties if user clicks to another page
+  if (digitalData.page.pageInfo.hasOwnProperty("destinationURL")) {
+    sessionStorage.setItem("pageURL", digitalData.page.pageInfo.destinationURL);
+  }
+  if (digitalData.page.pageInfo.hasOwnProperty("pageName")) {
+    sessionStorage.setItem("pageName", digitalData.page.pageInfo.pageName);
+  }
+
+  //setting the referrer properties
+  if (document.referrer !== "" && document.referrer.indexOf("sbs.com.au") === -1) {
+    digitalData.page.pageInfo["referralURL"] = document.referrer;
+
+    if (sessionStorage.getItem("originalReferrerURL") === null) {
+      //this is the first time user visits our site so we save the referrer as original
+      sessionStorage.setItem("originalReferrerURL", document.referrer);
+    }
+  }
+
+  //populate originalReferrerURL from sessionStorage when available
+  digitalData.page.pageInfo["originalReferrerURL"] = sessionStorage.getItem("originalReferrerURL") || "";
+
+  window.onload = function(){
+    (window.observerService = window.observerService || []).push(["notify", 'pageLoadSuccess']);
+  }
+</script>
+
+  <script src="//nexus.ensighten.com/sbs/News_2-0_prod/Bootstrap.js" async></script>
+
+</head>
+<body>
+
+  <div class="layout layout--article">
+
+    
+  
+<nav class="global-nav global-nav--article" data-module="global-nav.module">
+  <a id="nav-main" aria-hidden="true" tabindex="-1"><!-- no js main nav activation --></a>
+  <a id="nav-search" aria-hidden="true" tabindex="-1"><!-- no js search activation --></a>
+
+  <div class="global-nav__header">
+    <div class="container">
+
+      <a class="sr-only sr-focusable" href="#main">Skip to content</a>
+
+      <div class="row">
+
+        <div class="global-nav__toggles column">
+          <span class="sr-only">Primary Navigation</span>
+          <a class="global-nav__toggle toggle" href="#nav-main" data-type="toggle-nav"><span><span class="sr-only">Show menu</span></span></a>
+          <a class="global-nav__toggle global-nav__toggle--close toggle" href="#"><span><span class="sr-only">Hide menu</span></span></a>
+        </div>
+
+                <div class="global-nav__logo-wrapper column">
+                      
+<div class="global-nav__context-flip-panel flip-panel">
+
+  <div class="global-nav__context-flip-pane flip-pane">
+    <div class="global-nav__logo">
+      <a class="sbs-logo" href="https://www.sbs.com.au/news">
+        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMTUgNzUiPjxwYXRoIGZpbGw9IiNFMTI4MjciIGQ9Ik0zMy41IDQuN3MtOS41IDguMi0xNyAyNS42QzguOSA0Ny42IDkuNCA2MC4yIDkuNCA2MC4yczkuNS04LjIgMTctMjUuNkMzNCAxNy4zIDMzLjUgNC43IDMzLjUgNC43Ii8+PHBhdGggZmlsbD0iI0UxMjgyNyIgZD0iTTIxLjkgOC4ycy03IDYuMS0xMi42IDE4LjlDMy43IDQwIDQgNDkuMyA0IDQ5LjNzNy02LjEgMTIuNi0xOC45YzUuNi0xMi45IDUuMy0yMi4yIDUuMy0yMi4yIi8+PHBhdGggZmlsbD0iI0UxMjgyNyIgZD0iTTEzLjMgMTAuOHMtNS4yIDQuNS05LjQgMTQuMUMtLjIgMzQuNCAwIDQxLjMgMCA0MS4zczUuMi00LjUgOS40LTE0LjFjNC4xLTkuNSAzLjktMTYuNCAzLjktMTYuNE00OS4zIDBzLTEyLjggMTEuMS0yMyAzNC42QzE2LjEgNTggMTYuNyA3NSAxNi43IDc1czEyLjgtMTEuMSAyMy0zNC42QzUwIDE3IDQ5LjMgMCA0OS4zIDBtMjMuMSAyOC42aDcuMWMyLjQgMCAzLjYuOSAzLjYgMy40IDAgMi4yLTEuNiAzLjQtMy42IDMuNGgtNy4xdi02Ljh6bS00LjMgMjEuMWgxMS4zYzYuNCAwIDkuMS0zIDkuMS02LjkgMC0zLjQtMS42LTUuNy00LjYtNi40di0uMWMyLjItMSAzLjUtMi44IDMuNS01LjMgMC00LjEtMi45LTYuMS03LjMtNi4xaC0xMnYyNC44em00LjMtMTEuMkg4MGMyLjYgMCA0LjIgMS40IDQuMiAzLjggMCAyLjUtMS41IDMuOS00LjIgMy45aC03LjZ2LTcuN3ptLTI2LjIgM2MuMSA2LjEgNC43IDguOCAxMC4zIDguOCA0LjkgMCA5LjgtMi4yIDkuOC03LjggMC0yLjYtMS42LTUuMy00LjgtNi4zLTEuMy0uNC02LjctMS44LTcuMS0xLjktMS44LS41LTIuOS0xLjUtMi45LTMuMiAwLTIuNSAyLjUtMy4yIDQuNS0zLjIgMyAwIDUuMSAxLjIgNS4zIDQuNGg0LjNjMC01LjItNC4zLTcuOS05LjUtNy45LTQuNSAwLTkgMi4zLTkgNy4zIDAgMi42IDEuMiA1LjEgNS41IDYuMyAzLjQuOSA1LjYgMS40IDcuNCAyIDEgLjQgMiAxLjEgMiAzcy0xLjQgMy43LTUuMiAzLjdjLTMuNSAwLTYuMy0xLjUtNi4zLTUuM2gtNC4zem00My41IDBjLjEgNi4xIDQuNyA4LjggMTAuMyA4LjggNC45IDAgOS44LTIuMiA5LjgtNy44IDAtMi42LTEuNi01LjMtNC44LTYuMy0xLjMtLjQtNi43LTEuOC03LjEtMS45LTEuOC0uNS0yLjktMS41LTIuOS0zLjIgMC0yLjUgMi41LTMuMiA0LjUtMy4yIDMgMCA1LjEgMS4yIDUuMyA0LjRoNC4zYzAtNS4yLTQuMy03LjktOS41LTcuOS00LjUgMC05IDIuMy05IDcuMyAwIDIuNiAxLjIgNS4xIDUuNSA2LjMgMy40LjkgNS42IDEuNCA3LjQgMiAxIC40IDIgMS4xIDIgM3MtMS40IDMuNy01LjIgMy43Yy0zLjUgMC02LjMtMS41LTYuMy01LjNoLTQuM3oiLz48cGF0aCBmaWxsPSIjNzU3NTdBIiBkPSJNMTE2LjYgMjUuM2g0LjVsMTEgMTcuOGguMVYyNS4zaDQuMXYyNC4yaC00LjVsLTExLjEtMTcuOGgtLjF2MTcuOGgtNG0yMy4zLTI0LjJoMTcuNXYzLjZoLTEzLjJ2Ni40aDEyLjJ2My40aC0xMi4ydjcuMWgxMy40djMuN2gtMTcuN20xOS42LTI0LjJoNC4zbDQuNCAxOC41IDQuOS0xOC41aDQuNGw0LjcgMTguNWguMWw0LjUtMTguNWg0LjNsLTYuNyAyNC4yaC00LjNMMTc1LjMgMzFoLS4xbC01IDE4LjVoLTQuM20yOS41LTguMWMwIDMuNyAyLjggNS4yIDYuMSA1LjIgMy43IDAgNS4xLTEuOCA1LjEtMy43IDAtMS45LTEtMi42LTItMy0xLjctLjYtMy45LTEuMS03LjItMi00LjEtMS4xLTUuNC0zLjYtNS40LTYuMSAwLTQuOSA0LjUtNy4xIDguOS03LjEgNS4xIDAgOS4zIDIuNyA5LjMgNy43SDIwNmMtLjItMy4xLTIuMy00LjMtNS4yLTQuMy0yIDAtNC41LjctNC41IDMuMiAwIDEuNyAxLjIgMi43IDIuOSAzLjEuNC4xIDUuNyAxLjUgNyAxLjkgMy4yIDEgNC43IDMuNyA0LjcgNi4yIDAgNS40LTQuOCA3LjYtOS42IDcuNi01LjUgMC0xMC0yLjctMTAuMS04LjdoNC4yeiIvPjwvc3ZnPg==" width="215" height="75" alt="SBS News">
+      </a>
+    </div>
+  </div>
+
+  <div class="global-nav__context-flip-pane flip-pane">
+    <p class="global-nav__context-title"></p>
+    
+  <div class="sharing sharing--outline sharing--context-social global-nav__context-social" data-module="sharing.module">
+          
+  
+
+  <div class="label sharing__label global-nav__context-social-label sr-only">Share</div>
+    
+    <ul class="sharing__list">
+          <li class="sharing__item">
+                  <button class="button button--clean sharing__link sharing__link--twitter" data-type="sharing-twitter">
+            <span class="sr-only">Share on Twitter</span>
+          </button>
+              </li>
+          <li class="sharing__item">
+                  <button class="button button--clean sharing__link sharing__link--facebook" data-type="sharing-facebook">
+            <span class="sr-only">Share on Facebook</span>
+          </button>
+              </li>
+        </ul>
+  </div>
+  </div>
+</div>
+                  </div>
+
+        <div class="global-nav__utils column">
+          <ul class="global-nav__utils-list">
+                                    <li class="global-nav__util">
+              <a class="global-nav__subscribe-toggle toggle" href="#nav-main" data-type="toggle-nav" data-target="newsletter-signup"><span class="icon--envelope-o icon" aria-hidden="true"></span> Subscribe</a>
+            </li>
+          </ul>
+        </div>
+
+      </div>
+    </div>
+
+    
+
+<div class="global-nav__menu-strip">
+          <div class="menu menu--inline global-nav__menu-strip-section" role="menu">
+            <ul class="menu__list global-nav__menu-strip-section-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item first" role="menuitem">        <a href="/news/"><span>Top Stories</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item" role="menuitem">        <a href="/news/latest"><span>Latest</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item" role="menuitem">        <a href="/news/videos"><span>Videos</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item" role="menuitem">        <a href="/news/topic/australia"><span>Australia</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item" role="menuitem">        <a href="/news/topic/world"><span>World</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+            
+    <li class="menu__list-item global-nav__menu-strip-section-list-item last external-link" role="menuitem">        <a href="//www.sbs.com.au/news/audio" target="_blank"><span>Podcasts</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+
+          <div class="menu menu--inline global-nav__menu-strip-section" role="menu">
+            <ul class="menu__list global-nav__menu-strip-section-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item first" role="menuitem">        <a href="//www.sbs.com.au/news/dateline"><span>Dateline</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item" role="menuitem">        <a href="//www.sbs.com.au/news/insight"><span>Insight</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item" role="menuitem">        <a href="//www.sbs.com.au/news/thefeed"><span>The Feed</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item last" role="menuitem">        <a href="//www.sbs.com.au/news/small-business-secrets"><span>Small Business Secrets</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+
+          <div class="menu menu--inline global-nav__menu-strip-section" role="menu">
+            <ul class="menu__list global-nav__menu-strip-section-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-strip-section-list-item first last" role="menuitem">        <a href="//www.sbs.com.au/"><span>SBS Home</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+</div>
+
+  </div>
+
+  <div class="global-nav__bodies is-inert--nav-hidden">
+
+    
+<div class="global-nav__body global-nav__body--nav">
+  <div class="global-nav__body-wrapper">
+
+    
+    <div class="container">
+      <div class="row">
+
+        <div class="global-nav__column global-nav__column--primary column">
+
+                  <div class="menu global-nav__menu global-nav__menu--news" role="menu">
+            <ul class="menu__list global-nav__menu-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item first" role="menuitem">        <a href="/news/"><span>Top Stories</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/latest"><span>Latest</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/videos"><span>Videos</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/topic/australia"><span>Australia</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/topic/world"><span>World</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+            
+    <li class="menu__list-item global-nav__menu-list-item last external-link" role="menuitem">        <a href="//www.sbs.com.au/news/audio" target="_blank"><span>Podcasts</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+
+                  <div class="menu global-nav__menu global-nav__menu--sbshome" role="menu">
+            <ul class="menu__list global-nav__menu-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item first last" role="menuitem">        <a href="//www.sbs.com.au/"><span>SBS Home</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+
+        </div>
+
+        <div class="global-nav__column global-nav__column--secondary column">
+
+                  <div class="menu global-nav__menu global-nav__menu--programs" role="menu">
+              
+  
+
+  <div class="label label menu__label global-nav__menu-label">News Programs</div>
+            <ul class="menu__list global-nav__menu-list">
+              
+            
+                  
+      
+    <li class="menu__list-item global-nav__menu-list-item first" role="menuitem">        <a href="//www.sbs.com.au/news/dateline" target="_blank"><span>Dateline</span><span></span></a>
+        
+    </li>
+
+    
+            
+                  
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/news/insight" target="_blank"><span>Insight</span><span></span></a>
+        
+    </li>
+
+    
+            
+                  
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/news/thefeed" target="_blank"><span>The Feed</span><span></span></a>
+        
+    </li>
+
+    
+            
+                  
+      
+    <li class="menu__list-item global-nav__menu-list-item last" role="menuitem">        <a href="//www.sbs.com.au/news/small-business-secrets" target="_blank"><span>Small Business Secrets</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+
+                  <div class="menu global-nav__menu global-nav__menu--topics" role="menu">
+              
+  
+
+  <div class="label label menu__label global-nav__menu-label">Topics in News</div>
+            <ul class="menu__list global-nav__menu-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item first" role="menuitem">        <a href="/news/topic/asia-pacific"><span>Asia Pacific</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/topic/north-america"><span>North America</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/topic/south-america"><span>South America</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/topic/africa"><span>Africa</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item" role="menuitem">        <a href="/news/topic/europe"><span>Europe</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-nav__menu-list-item last" role="menuitem">        <a href="/news/topic/middle-east"><span>Middle East</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+
+        </div>
+
+        <div class="global-nav__column global-nav__column--supplementary column">
+          
+  <div class="sharing sharing--menu global-nav__menu global-nav__menu--social">
+          
+  
+
+  <div class="label sharing__label global-nav__menu-label">Follow SBS News</div>
+    
+    <ul class="sharing__list">
+          <li class="sharing__item">
+        
+                    <a href="//twitter.com/SBSNews" class="sharing__link sharing__link--twitter" target="_blank" rel="noopener">
+            <span class="icon--twitter icon" aria-hidden="true"></span><span class="sr-only">Follow us on Twitter</span>
+          </a>
+              </li>
+          <li class="sharing__item">
+        
+                    <a href="//www.facebook.com/sbsnews" class="sharing__link sharing__link--facebook" target="_blank" rel="noopener">
+            <span class="icon--facebook icon" aria-hidden="true"></span><span class="sr-only">Follow us on Facebook</span>
+          </a>
+              </li>
+          <li class="sharing__item">
+        
+                    <a href="/news/feeds" class="sharing__link sharing__link--rss">
+            <span class="icon--rss icon" aria-hidden="true"></span><span class="sr-only">Subscribe to our RSS feed</span>
+          </a>
+              </li>
+        </ul>
+  </div>
+
+          <div class="global-nav__newsletter-signup" id="newsletter-signup">
+            <form class="form form__newsletter-subscribe"
+      data-module="form.module"
+      data-form-validate
+      data-form-multistep
+      data-form-handler='{&quot;subscribeuser.status&quot;:{&quot;true&quot;:&quot;success&quot;,&quot;failed&quot;:&quot;failure&quot;}}'
+      action="https://www.sbs.com.au/api/member/subscribeuser"
+      method="post">
+
+                    <input type="hidden" name="vertical" value="News_Nav">
+            
+  <div class="form__fieldset form__fieldset--step form__fieldset--step-0">
+
+    <p class="form__fieldset-title">News to your inbox</p>
+    <p class="form__fieldset-description">Sign up now for the latest news from Australia and around the world direct to your inbox.</p>
+
+    <div class="form__field-wrap">
+      <div class="form__field form__field--inline">
+        <label class="label label--form sr-only" for="your-email-1766334685">Your Email Address</label>
+                <input class="input input--clean" id="your-email-1766334685" name="email" autocomplete="off" placeholder="Your Email Address" type="email" required data-form-validation>
+        <button onClick=";sbs_s.contextData[''] = '';" class="button button--primary button--next" type="button" name="step-0" value="button">Subscribe</button>
+      </div>
+    </div>
+
+    <div class="form__validation">
+      <span class="form__validation-item" data-form-validation-required>A valid email address is required</span>
+      <span class="form__validation-item" data-form-validation-pattern>Please provide a valid email address</span>
+    </div>
+
+    <p class="form__fieldset-conditions">By subscribing, you agree to SBS’s <a href="//www.sbs.com.au/aboutus/corporate/view/id/114/h/Terms-and-Conditions" target="_blank" rel="noopener">terms of service</a> and <a href="//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement" target="_blank" rel="noopener">privacy policy</a> including receiving email updates from SBS.</p>
+  </div>
+
+  <div class="form__fieldset form__fieldset--step form__fieldset--step-1" aria-hidden="true">
+
+    <p class="form__fieldset-title">Please select the editions you would like to sign up to</p>
+
+    <div class="form__field-wrap">
+          <ul class="form__field-list">
+        <li class="form__field form__field--checkbox">
+          <input class="checkbox" id="edition-morning-1766334685" name="subscription[]" value="PREF_DAILY_NEWS" type="checkbox" checked required data-form-validation>
+          <label class="label label--form" for="edition-morning-1766334685">Morning</label>
+        </li>
+        <li class="form__field form__field--checkbox">
+          <input class="checkbox" id="edition-afternoon-1766334685" name="subscription[]" value="PREF_DAILY_NEWS_PM" type="checkbox" checked required data-form-validation>
+          <label class="label label--form" for="edition-afternoon-1766334685">Afternoon</label>
+        </li>
+      </ul>
+
+      <div class="form__validation">
+        <span class="form__validation-item" data-form-validation-required>Please select at least one edition</span>
+      </div>
+
+      <button class="button button--primary button--next" type="submit" name="step-1" value="submit">Select</button>
+    </div>
+
+
+  </div>
+
+                                                        <div class="form__fieldset form__fieldset--success show-on-success is-hidden" aria-hidden="true">
+          <p class="form__message-title"><span class="icon icon--tick"></span><strong>Thank you for signing up</strong></p>
+          <p class="form__message-body"></p>
+        </div>
+                                                  <div class="form__fieldset form__fieldset--failure show-on-failure is-hidden" aria-hidden="true">
+          <p class="form__message-title"><span class="icon icon--"></span><strong>Sorry, it looks like an error occured</strong></p>
+          <p class="form__message-body">Please refresh the page and try again.</p>
+        </div>
+            </form>
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+  </div>
+</nav>
+
+
+    <main class="main" id="main">
+      
+  <section>
+                                                                          
+
+                                                                                                                  
+  
+<article class="article"
+  data-module="article.module"
+          data-edit="1"
+    data-uuid="2ea85904-772e-4a95-8f8b-ac69eee0f5bb"
+  >
+
+            <header class="article__header">
+      
+    <div class="article__container container">
+      <div class="row">
+        <div class="article__intro column">
+                      <div class="article__topic">
+                        
+                          
+          
+
+  <span class="label article__topic-label"><a href=/news/topic/asia-pacific title="Asia-Pacific"><span></span>Asia-Pacific</a></span>
+                        </div>
+          
+          <div class="text-headline">
+  <h1 class="h1 headline article__headline">Xi warns Taiwan will face &#039;punishment&#039; for separatism</h2>
+</div>
+        </div>
+        <div class="article__media column">
+          
+            
+<div class="hero column article__hero">
+  
+
+  <div class="video-player video-player--hero has-poster"
+    data-video-id="1190131267967"
+    data-fallback-image='style=&quot;background-image:url()&quot; data-bg=&quot;https://sl.sbs.com.au/public/image/file/528e01ab-b8c2-43e3-8658-d847d093ad11/crop/16x9_small&quot; data-bg-767px=&quot;https://sl.sbs.com.au/public/image/file/528e01ab-b8c2-43e3-8658-d847d093ad11/crop/16x9_medium&quot; data-bg-1023px=&quot;https://sl.sbs.com.au/public/image/file/528e01ab-b8c2-43e3-8658-d847d093ad11/crop/16x9&quot;'    data-module="video-player.module">
+
+    <div class="video-player__assets">
+      <video class="video-player__media" id="video-1190131267967" autoplay></video>
+      <div class="adContainer"></div>
+      <div class="adCountdown"></div>
+    </div>
+
+    <div class="video-player__ui-panel">
+      <div class="video-player__info">
+        <div class="trackinfo"></div>
+        <div class="title"></div>
+      </div>
+
+      <div class="video-player__controls">
+        <button class="video-player__button button button--clean" data-type="play-pause-button">
+          <span class="icon">
+            <span class="sr-only">Play</span>
+          </span>
+        </button>
+      </div>
+
+      <div class="video-player__volume-bar" data-type="volume-bar">
+        <span></span>
+        <div class="video-player__volume-track"><span class="video-player__volume-level"></span></div>
+      </div>
+
+      
+      <div class="video-player__seek" data-type="seek-bar">
+        <div class="buffer"></div>
+        <div class="progress"><div class="progress__time"><span class='time'></span><span></span></div></div>
+      </div>
+
+      <div class="loader">
+        <svg viewBox="0 0 50 50" width="50" height="50">
+          <circle class="loader__spinner" cx="25" cy="25" r="21" fill="none"></circle>
+        </svg>
+      </div>
+    </div>
+  </div>
+</div>
+                  </div>
+              </div>
+    </div>
+  </header>
+
+  <div class="article__container container">
+    <div class="row">
+      <div class="article__abstract column">
+        <div class="text-abstract">
+  <p class="text-abstract__content">Taiwan is one of China&#039;s most sensitive issues and a potentially dangerous military flashpoint.
+</p>
+</div>
+      </div>
+    </div>
+    <div class="row">
+      
+<div class="meta article__meta">
+
+    <div class="meta__item article__meta-date">
+    <span class="sr-only">Updated</span> <time itemprop="datePublished" dateTime="2018-03-20T13:58:41+11:00">Updated 19 hours ago</time>
+  </div>
+
+    
+    
+</div>
+    </div>
+    <div class="row">
+      <div class="article__body column">
+        
+
+<div class="dfp" data-slot-id="slot2" data-module="ad.module">
+  <div class="dfp-slot slot2" id="dfp-slot2" data-lazyload-ads></div>
+</div>
+        <div class="text-body"><p>Chinese President Xi Jinping warned self-ruled Taiwan on Tuesday that it will face the "punishment of history" for any attempt at separatism, offering his strongest warning yet to the island claimed by China as its sacred territory.</p><p>Taiwan is one of China's most sensitive issues and a potentially dangerous military flashpoint.</p><p>China's hostility towards Taiwan has risen since the 2016 election of President Tsai Ing-wen from the pro-independence Democratic Progressive Party.</p><p>China suspects Ms Tsai wants to push for formal independence, which would cross a red line for Communist Party leaders in Beijing, though Ms Tsai has said she wants to maintain the status quo and is committed to ensuring peace.</p><p>China has been infuriated by US President Donald Trump's signing into law legislation last week that encourages the United States to send senior officials to Taiwan to meet Taiwanese counterparts and vice versa.</p><p><div class="embed embed--image"><img src="https://sl.sbs.com.au/public/image/file/0590122f-30fa-4526-a822-d03f44bf0b49"  alt="Chinese President Xi Jinping (C, front) delivers his speech during the closing of the first session of the 13th National People&#039;s Congress (NPC)"  title="Chinese President Xi Jinping (C, front) delivers his speech during the closing of the first session of the 13th National People's Congress (NPC)"  /><div class="caption">Chinese President Xi Jinping (C, front) delivers his speech during the closing of the first session of the 13th National People's Congress (NPC)</div><div class="attribution">AAP</div></div></p><p>The United States does not have formal ties with Taiwan but is required by law to help it with self-defence and is the island's primary source of weapons.</p><p>In a speech at the end of China's annual session of parliament, Mr Xi told the 3,000-odd delegates that China would push for the "peaceful reunification of the motherland" and work for more Taiwanese to enjoy the opportunities of China's development.</p><p>"It is a shared aspiration of all Chinese people and in their basic interests to safeguard China's sovereignty and territorial integrity and realise China's complete reunification," Mr Xi said.</p><p><div class="block__container"><div class="label">Related reading</div><div class="preview__list-wrapper"><div class="preview preview--linear"><div class="preview__wrap"><div class="media-image media-image--1-1 preview__image"><img src="https://sl.sbs.com.au/public/image/file/ec558380-6ba5-4cdb-8483-50da870038d7/crop/1x1" alt="Singapore Prime Minister Lee Hsien Loong and Australian Prime Minister Malcolm Turnbull."/></div><div class="preview__content"><h3 class="headline preview__headline"><a href="http://www.sbs.com.au/news/audiotrack/asean-leaders-pledge-co-operation-terrorism-trade-and-south-china-sea" title="ASEAN leaders pledge co-operation on terrorism, trade and South China Sea">ASEAN leaders pledge co-operation on terrorism, trade and South China Sea</a></h3></div></div></div></div></div></p><p>"Any actions and tricks to split China are doomed to failure and will meet with the people's condemnation and the punishment of history," he added, to loud applause.</p><p>China has the will, confidence and ability to defeat any separatist activities, Xi said.</p><p>But Mr Xi also sought to address concerns about ambitious Chinese development projects abroad, saying they "will not pose a threat to any country."</p><p>"Only those who are accustomed to threatening others will see everyone as a threat," he added.</p><p>China is overseeing a massive global trade infrastructure initiative to revive the ancient Silk Road, drawing interest from nations participating in the investment but also criticism from others fearing that it mainly serves Beijing's interests.</p><p>The Chinese leader's plan to build a "world-class" military by mid-century has also raised concerns about how it plans to use its increasingly modern forces amid regional frictions over China's territorial claims in the South China Sea.</p><p><div class="block__container"><div class="label">Related reading</div><div class="preview__list-wrapper"><div class="preview preview--linear"><div class="preview__wrap"><div class="media-image media-image--1-1 preview__image"><img src="https://sl.sbs.com.au/public/image/file/eb7770e3-10aa-4a52-969f-c8bc075b3af6/crop/1x1" alt="This combination of two file photos shows, Taiwan's President Tsai Ing-wen and US president Donald Trump"/></div><div class="preview__content"><h3 class="headline preview__headline"><a href="/news/trump-signs-us-taiwan-travel-bill-china-strongly-dissatisfied" title="Trump signs US-Taiwan travel bill; China 'strongly dissatisfied'">Trump signs US-Taiwan travel bill; China 'strongly dissatisfied'</a></h3></div></div></div></div></div></p><p>Mr Xi used the speech to espouse his vision of realising the "rejuvenation of the Chinese nation" - the "greatest dream" of the world's second-largest economy.</p><p>"The Chinese people have been indomitable and persistent, we have the spirit of fighting the bloody battle against our enemies to the bitter end," he said.</p><p>His speech was also a reminder that the Communist Party, more than ever, reigns over the country's affairs.<br />"History has already proven and will continue to prove that only socialism can save China," he said.</p><p>"The Communist Party is the supreme political leadership of the country and the fundamental guarantee to achieve the great rejuvenation of the Chinese nation."</p><h3>Indefinite rule</h3><p>The two-week session of the National People's Congress handed Mr Xi, 64, a second term and endorsed the Communist Party's decision to lift presidential term limits, clearing the way for him to remain in power indefinitely after his new term ends in 2023.</p><p>His eponymous political philosophy, which was enshrined in the party charter last year, was added to the national constitution and senior government officials had to swear an oath to the document for the first time.</p><p>Some of Mr Xi's key lieutenants were also promoted to top positions. His former anti-corruption czar, Wang Qishan, was elevated to the vice presidency while his top economic adviser, Liu He, became vice premier.</p><p>Mr Wang could use his experience as a trade negotiator to deal with rocky relations with the Trump administration, while Mr Liu is expected to have an influential role in economic policymaking.</p><p>Mr Trump is considering new punitive measures against China over its "theft" of US intellectual property, raising fears of a tit-for-tat trade war.</p><p><div class="block__container"><div class="label">More news</div><div class="preview__list-wrapper"><div class="preview preview--linear"><div class="preview__wrap"><div class="media-image media-image--1-1 preview__image"><img src="https://sl.sbs.com.au/public/image/file/8eff001d-345c-4d31-99d1-20ad41d4c641/crop/1x1" alt="South Korea soldiers jump off an amphibious assault vehicle after hitting the ground during military exercises "/></div><div class="preview__content"><h3 class="headline preview__headline"><a href="/news/south-korea-us-military-drills-to-resume-despite-thaw-with-north" title="South Korea, US military drills to resume despite thaw with North ">South Korea, US military drills to resume despite thaw with North </a></h3></div></div></div></div></div></p><p>"We hope that both parties can maintain reason, not act emotionally, and avoid a trade war," Premier Li Keqiang told a press conference after Xi's speech.</p><p>On the domestic front, the legislature approved the biggest government shake-up in years, merging the banking and insurance regulators to tackle financial risks, and amended the constitution to expand the Communist Party's role in the country's affairs.</p><p>Mr Xi's campaign against corruption within the Communist Party, which punished 1.5 million officials in five years, was expanded as the legislature voted Tuesday to create a national agency that will scrutinise millions of public servants.</p><p>"The Communist Party of China must... resolutely eliminate" corruption, Mr Xi said.</p><p>The government's propaganda machine worked in overdrive to nurture a cult of personality around Xi and stamp out dissenting views during the two-week session.</p><p>The People's Daily, the Communist Party mouthpiece, referred to Mr Xi as the "helmsman" last weekend, an echo of Mao who was known as "the great helmsman".</p><p>The abolition of term limits triggered a rare bout of criticism on social media, prompting censors to block dozens of phrases such as "I disagree" or "emperor" as well as satirical images such as Winnie the Pooh - the cartoon bear that some compare to Mr Xi.</p><p>China has stepped up its crackdown on civil society since Mr Xi took power in 2012, tightening online restrictions and detaining hundreds of activists and lawyers.</p><p><em>Additional reporting: AFP</em></p></div>
+        <footer class="article__footer">
+                      <div class="footnote article__source">Source: Reuters - SBS</div>
+          
+                      
+<div class="list-meta-tags">
+
+      <p class="headline h6 list-topics__title">Topics: </p>
+  
+  <ul class="list-meta-tags__list">
+          <li class="list-meta-tags__list-item"><a class="list-meta-tags__link" href="/news/topic/asia-pacific">Asia-Pacific</a></li>
+          <li class="list-meta-tags__list-item"><a class="list-meta-tags__link" href="/news/topic/world">World</a></li>
+    </ul>
+
+</div>
+                  </footer>
+      </div>
+    </div>
+
+      </div>
+</article>
+
+    
+  </section>
+
+      
+
+
+
+<div class="connect-sbs" name="sbsconnect" data-module="connect-sbs.module">
+
+
+  <p class="connect-sbs__title">Stay up to date with SBS NEWS</p>
+
+  <div class="tabs" data-module="tabs.module">
+    <ul class="tabs__control">
+          <li class="is-active" onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.appdownload';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);">App</li>
+          <li onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.subscribe';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);">Subscribe</li>
+          <li onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.follow.social';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);">Follow</li>
+          <li onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.listen';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);">Listen</li>
+          <li onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.watch';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);">Watch</li>
+        </ul>
+
+          <div class="tab__content tab-1 is-hidden">
+
+                      <div class="connect-sbs__content">
+          <img class="ico" height="49px" src="/news/img/main/modules/sbsconnect/app.svg" />
+          <p class="tab__title">SBS News App</p>
+          <p class="tab__description">Download our free app on the App Store or Google Play for the latest headlines and breaking news alerts.</p>
+          <div class="app-links">
+            <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.app.appStore';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" href="https://itunes.apple.com/app/id432849691"><img src="/news/img/apple_app_btn.png" /></a>
+            <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.app.googlePlay';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" href="https://play.google.com/store/apps/details?id=com.sbs.worldnewsaustralia&hl=en"><img src="/news/img/google_app_btn.png" /></a>
+          </div>
+          <p class="tab__footnote">We love feedback: help us improve by rating the app and sharing your suggestions at <a href="mailto:apps@sbs.com.au" title="apps@sbs.com.au">apps@sbs.com.au</a></p>
+        </div>
+      
+      
+      
+      
+      
+      </div>
+          <div class="tab__content tab-2 is-hidden">
+
+      
+                      <div class="connect-sbs__content">
+          <img class="ico" height="44px" src="/news/img/main/modules/sbsconnect/sub.svg" />
+          <form class="form form__newsletter-subscribe form__newsletter-subscribe--block"
+      data-module="form.module"
+      data-form-validate
+      data-form-multistep
+      data-form-handler='{&quot;subscribeuser.status&quot;:{&quot;true&quot;:&quot;success&quot;,&quot;failed&quot;:&quot;failure&quot;}}'
+      action="https://www.sbs.com.au/api/member/subscribeuser"
+      method="post">
+
+                    <input type="hidden" name="vertical" value="News_HP">
+            
+  <div class="form__fieldset form__fieldset--step form__fieldset--step-0">
+
+    <p class="form__fieldset-title">News to your inbox</p>
+    <p class="form__fieldset-description">Sign up now for the latest news from Australia and around the world direct to your inbox.</p>
+
+    <div class="form__field-wrap">
+      <div class="form__field form__field--inline">
+        <label class="label label--form sr-only" for="your-email-1445718821">Your Email Address</label>
+                <input class="input input--clean" id="your-email-1445718821" name="email" autocomplete="off" placeholder="Your Email Address" type="email" required data-form-validation data-event="marketing-module.news.subscribe.email">
+        <button onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.subscribe.click';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" class="button button--primary button--next" type="button" name="step-0" value="button">Subscribe</button>
+      </div>
+    </div>
+
+    <div class="form__validation">
+      <span class="form__validation-item" data-form-validation-required>A valid email address is required</span>
+      <span class="form__validation-item" data-form-validation-pattern>Please provide a valid email address</span>
+    </div>
+
+    <p class="form__fieldset-conditions">By subscribing, you agree to SBS’s <a href="//www.sbs.com.au/aboutus/corporate/view/id/114/h/Terms-and-Conditions" target="_blank" rel="noopener">terms of service</a> and <a href="//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement" target="_blank" rel="noopener">privacy policy</a> including receiving email updates from SBS.</p>
+  </div>
+
+  <div class="form__fieldset form__fieldset--step form__fieldset--step-1" aria-hidden="true">
+
+    <p class="form__fieldset-title">Please select the editions you would like to sign up to</p>
+
+    <div class="form__field-wrap">
+          <ul class="form__field-list" data-event="marketing-module.news.newsletter.select">
+        <li class="form__field form__field--checkbox">
+          <input class="checkbox" id="edition-morning-1445718821" name="subscription[]" value="PREF_DAILY_NEWS" type="checkbox" checked required data-form-validation>
+          <label class="label label--form" for="edition-morning-1445718821">Morning</label>
+        </li>
+        <li class="form__field form__field--checkbox">
+          <input class="checkbox" id="edition-afternoon-1445718821" name="subscription[]" value="PREF_DAILY_NEWS_PM" type="checkbox" checked required data-form-validation>
+          <label class="label label--form" for="edition-afternoon-1445718821">Afternoon</label>
+        </li>
+      </ul>
+
+      <div class="form__validation">
+        <span class="form__validation-item" data-form-validation-required>Please select at least one edition</span>
+      </div>
+
+      <button class="button button--primary button--next" type="submit" name="step-1" value="submit">Select</button>
+    </div>
+
+
+  </div>
+
+                                                        <div class="form__fieldset form__fieldset--success show-on-success is-hidden" data-event="marketing-module.news.subscribe.success" aria-hidden="true">
+          <p class="form__message-title"><span class="icon icon--tick"></span><strong>Thank you for signing up</strong></p>
+          <p class="form__message-body"></p>
+        </div>
+                                                  <div class="form__fieldset form__fieldset--failure show-on-failure is-hidden" aria-hidden="true">
+          <p class="form__message-title"><span class="icon icon--"></span><strong>Sorry, it looks like an error occured</strong></p>
+          <p class="form__message-body">Please refresh the page and try again.</p>
+        </div>
+            </form>
+        </div>
+      
+      
+      
+      
+      </div>
+          <div class="tab__content tab-3 is-hidden">
+
+      
+      
+                      <div class="connect-sbs__content">
+          <img class="ico" height="44px" src="/news/img/main/modules/sbsconnect/social.svg" />
+          <p class="tab__title">SBS News on social</p>
+          <p class="tab__description">Follow SBS News to join in the conversation and never miss the latest live updates.</p>
+          
+  <div class="sharing sharing--menu connect-sbs__menu connect-sbs__menu--social">
+    
+    <ul class="sharing__list">
+          <li class="sharing__item">
+        
+                    <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.follow.social.twitter';sbs_s.tl(this,&#039;e&#039;,&#039;Marketing-Module&#039;);" href="//twitter.com/SBSNews" class="sharing__link sharing__link--twitter" target="_blank" rel="noopener">
+            <span class="icon--twitter icon" aria-hidden="true"></span><span class="sr-only">Follow us on Twitter</span>
+          </a>
+              </li>
+          <li class="sharing__item">
+        
+                    <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.follow.social.facebook';sbs_s.tl(this,&#039;e&#039;,&#039;Marketing-Module&#039;);" href="//www.facebook.com/sbsnews" class="sharing__link sharing__link--facebook" target="_blank" rel="noopener">
+            <span class="icon--facebook icon" aria-hidden="true"></span><span class="sr-only">Follow us on Facebook</span>
+          </a>
+              </li>
+          <li class="sharing__item">
+        
+                    <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.follow.social.rss';sbs_s.tl(this,&#039;e&#039;,&#039;Marketing-Module&#039;);" href="/news/feeds" class="sharing__link sharing__link--rss" target="_blank" rel="noopener">
+            <span class="icon--rss icon" aria-hidden="true"></span><span class="sr-only">Subscribe to our RSS feed</span>
+          </a>
+              </li>
+        </ul>
+  </div>
+        </div>
+      
+      
+      
+      </div>
+          <div class="tab__content tab-4 is-hidden">
+
+      
+      
+      
+                      <div class="connect-sbs__content">
+          <img class="ico" height="56px" src="/news/img/main/modules/sbsconnect/listen.svg" />
+          <p class="tab__title">Latest News podcasts</p>
+                    <p class="tab__description">Ask <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.listen.alexa';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" href="https://www.sbs.com.au/news/sbs-news-bulletins-to-be-available-via-amazon-alexa" title="Amazon Alexa">Amazon Alexa</a> for the latest SBS News or listen to <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.listen.sbsRadio';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" href="https://www.sbs.com.au/radio/article/2015/03/07/download-sbs-radios-free-mobile-app" title="SBS Radio">SBS Radio</a>.</p>
+        </div>
+      
+      
+      </div>
+          <div class="tab__content tab-5 is-hidden">
+
+      
+      
+      
+      
+                      <div class="connect-sbs__content">
+          <img class="ico" height="44px" src="/news/img/main/modules/sbsconnect/watch.svg" />
+          <p class="tab__title">Daily Bulletin</p>
+          <p class="tab__description">Watch SBS World News live daily at 6:30pm on TV and <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.watch.ourApp';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" class="custom_action" href="#" title="our app">on our app</a>. Catch up on <a onClick="sbs_s.linkTrackVars=&#039;None&#039;;sbs_s.linkTrackVars=&#039;contextData.marketing-module&#039;;sbs_s.contextData['marketing-module'] = 'marketing-module.news.watch.od';sbs_s.tl(true,&#039;o&#039;,&#039;Marketing-Module&#039;);" href="https://www.sbs.com.au/ondemand/program/sbs-world-news" title="SBS On Demand">SBS On Demand</a>.</p>
+        </div>
+      
+      </div>
+      </div>
+</div>
+  
+                                                              
+
+  
+                      
+
+  
+      
+  
+      <div class="block block--feature" data-module="block.module" data-edit="1" data-slug="collection-home-top-stories">
+        <h2 class="block__title">Top Stories</h2>
+        <div class="block__container feature" data-count="5">
+                              
+          
+                        
+
+                                                        
+  
+
+                                          
+
+  
+<div class="preview preview--feature video">
+    <div class="preview__wrap">
+                
+
+  
+
+
+
+            
+    
+  
+  
+        
+    
+    
+
+<div class="media-image media-image--16-9 preview__image">
+
+  <span class="content-icon"></span>
+  
+  <a href="/news/cambridge-analytica-suspends-ceo-as-facebook-faces-growing-outrage-over-data-misuse" title="Cambridge Analytica suspends CEO as Facebook faces growing outrage over data misuse ">          <picture data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/44668528-0ac5-4e00-9b1c-b3a8f788c3e6/crop/16x9_large", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/44668528-0ac5-4e00-9b1c-b3a8f788c3e6/crop/16x9_medium", "alt": "Alexander Nix, CEO of the London-based political consulting firm &#039;Cambridge Analytica&#039; leaves his offices through the back door in London, Britain, 20 March 2018." }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/44668528-0ac5-4e00-9b1c-b3a8f788c3e6/crop/16x9_large" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/44668528-0ac5-4e00-9b1c-b3a8f788c3e6/crop/16x9_medium" alt="Alexander Nix, CEO of the London-based political consulting firm &#039;Cambridge Analytica&#039; leaves his offices through the back door in London, Britain, 20 March 2018.">
+        </noscript>
+      </picture>
+        </a>  
+</div>
+
+
+    
+    <div class="preview__content">
+
+              <div class="preview__label">
+          
+          
+  
+
+  <span class="label date__string">1 hour ago</span>
+
+                      
+          
+
+  <span class="label topic__string"><a href=/news/topic/europe title="Europe"><span></span>Europe</a></span>
+                  </div>
+      
+      <h3 class="headline preview__headline"><a href="/news/cambridge-analytica-suspends-ceo-as-facebook-faces-growing-outrage-over-data-misuse">Cambridge Analytica suspends CEO as Facebook faces growing outrage over data misuse </a></h3>
+
+      
+      
+      
+      
+    </div>
+  </div>
+</div>
+
+                                                    
+          
+                        
+
+
+
+
+                                          
+
+  
+<div class="preview preview--linear">
+    <div class="preview__wrap">
+                
+
+
+
+
+
+            
+    
+  
+  
+        
+    
+              
+
+<div class="media-image media-image--p-1-1-m-16-9-d-16-9 preview__image">
+
+  <span class="content-icon"></span>
+  
+  <a href="/news/north-korea-denies-sanctions-prompted-peace-push" title="North Korea denies sanctions prompted peace push">          <picture data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/12a04362-e476-4713-a522-b557d4f58886/crop/16x9_large", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/12a04362-e476-4713-a522-b557d4f58886/crop/16x9_medium", "media": "(min-width: 767px)" },
+                { "srcset": "https://sl.sbs.com.au/public/image/file/12a04362-e476-4713-a522-b557d4f58886/crop/1x1_small", "alt": "President Donald Trump (left) and North Korea&#039;s leader Kim Jong Un." }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/12a04362-e476-4713-a522-b557d4f58886/crop/16x9_large" media="(min-width: 1023px)">
+                              <source srcset="https://sl.sbs.com.au/public/image/file/12a04362-e476-4713-a522-b557d4f58886/crop/16x9_medium" media="(min-width: 767px)">
+          
+          <img srcset="https://sl.sbs.com.au/public/image/file/12a04362-e476-4713-a522-b557d4f58886/crop/1x1_small" alt="President Donald Trump (left) and North Korea&#039;s leader Kim Jong Un.">
+        </noscript>
+      </picture>
+        </a>  
+</div>
+
+
+    
+    <div class="preview__content">
+
+              <div class="preview__label">
+          
+          
+  
+
+  <span class="label date__string">39 mins ago</span>
+
+                      
+          
+
+  <span class="label topic__string"><a href=/news/topic/us-politics title="US Politics"><span></span>US Politics</a></span>
+                  </div>
+      
+      <h3 class="headline preview__headline"><a href="/news/north-korea-denies-sanctions-prompted-peace-push">North Korea denies sanctions prompted peace push</a></h3>
+
+      
+      
+      
+      
+    </div>
+  </div>
+</div>
+
+                                                    
+                      <div class="preview__list-wrapper">
+          
+                        
+
+
+
+
+                                                      
+
+  
+<div class="preview preview--linear">
+    <div class="preview__wrap">
+                
+
+
+
+
+
+            
+                        
+        
+        
+  
+    
+    
+
+<div class="media-image media-image--1-1 preview__image">
+
+  <span class="content-icon"></span>
+  
+  <a href="/news/public-smiles-private-problems-as-saudi-prince-visits-white-house" title="Public smiles, private problems as Saudi prince visits White House">          <picture data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/27c4066d-ab8c-434f-81db-656743fee42f/crop/1x1_small", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/27c4066d-ab8c-434f-81db-656743fee42f/crop/1x1_small", "alt": "President Donald Trump shows a chart highlighting arms sales to Saudi Arabia during a meeting with Saudi Crown Prince Mohammed bin Salman." }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/27c4066d-ab8c-434f-81db-656743fee42f/crop/1x1_small" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/27c4066d-ab8c-434f-81db-656743fee42f/crop/1x1_small" alt="President Donald Trump shows a chart highlighting arms sales to Saudi Arabia during a meeting with Saudi Crown Prince Mohammed bin Salman.">
+        </noscript>
+      </picture>
+        </a>  
+</div>
+
+
+    
+    <div class="preview__content">
+
+              <div class="preview__label">
+          
+          
+  
+
+  <span class="label date__string">5 mins ago</span>
+
+                  </div>
+      
+      <h3 class="headline preview__headline"><a href="/news/public-smiles-private-problems-as-saudi-prince-visits-white-house">Public smiles, private problems as Saudi prince visits White House</a></h3>
+
+      
+      
+      
+      
+    </div>
+  </div>
+</div>
+
+                                                    
+          
+                        
+
+
+
+
+                                                                  
+
+  
+<div class="preview preview--linear">
+    <div class="preview__wrap">
+                
+
+
+
+
+
+            
+                        
+        
+        
+  
+    
+    
+
+<div class="media-image media-image--1-1 preview__image">
+
+  <span class="content-icon"></span>
+  
+  <a href="/news/victoria-labor-mps-misused-338-000-for-campaign-staff-report-states" title="Victoria Labor MPs misused $338,000 for campaign staff, report states">          <picture data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/50b7b9e7-449c-459f-8a41-772dbef96666/crop/1x1_small", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/50b7b9e7-449c-459f-8a41-772dbef96666/crop/1x1_small", "alt": "A file image of a person outside Parliament House in Melbourne" }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/50b7b9e7-449c-459f-8a41-772dbef96666/crop/1x1_small" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/50b7b9e7-449c-459f-8a41-772dbef96666/crop/1x1_small" alt="A file image of a person outside Parliament House in Melbourne">
+        </noscript>
+      </picture>
+        </a>  
+</div>
+
+
+    
+    <div class="preview__content">
+
+              <div class="preview__label">
+          
+          
+  
+
+  <span class="label date__string">2 hours ago</span>
+
+                      
+          
+
+  <span class="label topic__string"><a href=/news/topic/australia title="Australia"><span></span>Australia</a></span>
+                  </div>
+      
+      <h3 class="headline preview__headline"><a href="/news/victoria-labor-mps-misused-338-000-for-campaign-staff-report-states">Victoria Labor MPs misused $338,000 for campaign staff, report states</a></h3>
+
+      
+      
+      
+      
+    </div>
+  </div>
+</div>
+
+                                                    
+          
+                        
+
+
+
+
+                              
+
+  
+<div class="preview preview--linear">
+    <div class="preview__wrap">
+                
+
+
+
+
+
+            
+                        
+        
+        
+  
+    
+    
+
+<div class="media-image media-image--1-1 preview__image">
+
+  <span class="content-icon"></span>
+  
+  <a href="/news/stormy-daniels-passed-polygraph-test-on-trump-affair" title="Stormy Daniels passed polygraph test on Trump affair">          <picture data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/0faafc47-e94f-42e9-90e6-2112247eabe7/crop/1x1_small", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/0faafc47-e94f-42e9-90e6-2112247eabe7/crop/1x1_small", "alt": "In this Feb. 10, 2008 file photo, adult film star Stormy Daniels arrives at the 50th Annual Grammy Awards in Los Angeles. CBS News President David Rhodes says that a &#039;60 Minutes&#039; interview with Daniels needs more journalistic work." }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/0faafc47-e94f-42e9-90e6-2112247eabe7/crop/1x1_small" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/0faafc47-e94f-42e9-90e6-2112247eabe7/crop/1x1_small" alt="In this Feb. 10, 2008 file photo, adult film star Stormy Daniels arrives at the 50th Annual Grammy Awards in Los Angeles. CBS News President David Rhodes says that a &quot;60 Minutes&quot; interview with Daniels needs more journalistic work.">
+        </noscript>
+      </picture>
+        </a>  
+</div>
+
+
+    
+    <div class="preview__content">
+
+              <div class="preview__label">
+          
+          
+  
+
+  <span class="label date__string">49 mins ago</span>
+
+                      
+          
+
+  <span class="label topic__string"><a href=/news/topic/us-politics title="US Politics"><span></span>US Politics</a></span>
+                  </div>
+      
+      <h3 class="headline preview__headline"><a href="/news/stormy-daniels-passed-polygraph-test-on-trump-affair">Stormy Daniels passed polygraph test on Trump affair</a></h3>
+
+      
+      
+      
+      
+    </div>
+  </div>
+</div>
+
+                                </div>
+                                                                                              
+    </div>
+
+    
+  </div>
+
+                                                                
+
+  
+                      
+
+  
+                
+  
+      <div class="block" data-module="block.module" data-slug="collection-home-top-stories">
+        <div class="block__container" data-count="4">
+                                                                                                    
+          
+                        
+
+
+
+
+                              
+
+  
+<div class="preview preview--linear">
+    <div class="preview__wrap">
+                
+
+
+
+
+
+            
+              
+  
+  
+  
+    
+    
+
+<div class="media-image media-image--m-1-1-d-16-9 preview__image">
+
+  <span class="content-icon"></span>
+  
+  <a href="/news/james-packer-resigns-from-crown-resorts-citing-mental-health-issues" title="James Packer resigns from Crown Resorts citing &#039;mental health issues&#039;">          <picture data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/a51c2419-1c6a-4cff-9835-6763149f9c90/crop/16x9_medium", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/a51c2419-1c6a-4cff-9835-6763149f9c90/crop/1x1_small", "alt": "James Packer and Crown Resorts executive chairman John Alexander (right) " }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/a51c2419-1c6a-4cff-9835-6763149f9c90/crop/16x9_medium" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/a51c2419-1c6a-4cff-9835-6763149f9c90/crop/1x1_small" alt="James Packer and Crown Resorts executive chairman John Alexander (right) ">
+        </noscript>
+      </picture>
+        </a>  
+</div>
+
+
+    
+    <div class="preview__content">
+
+              <div class="preview__label">
+          
+          
+  
+
+  <span class="label date__string">1 hour ago</span>
+
+                      
+          
+
+  <span class="label topic__string"><a href=/news/topic/australia title="Australia"><span></span>Australia</a></span>
+                  </div>
+      
+      <h3 class="headline preview__headline"><a href="/news/james-packer-resigns-from-crown-resorts-citing-mental-health-issues">James Packer resigns from Crown Resorts citing &#039;mental health issues&#039;</a></h3>
+
+      
+      
+      
+      
+    </div>
+  </div>
+</div>
+
+                                                    
+          
+                        
+
+                                                                          
+  
+
+                                                            
+
+  
+<div class="preview preview--linear video">
+    <div class="preview__wrap">
+                
+
+
+
+
+
+            
+              
+  
+  
+  
+    
+    
+
+<div class="media-image media-image--m-1-1-d-16-9 preview__image">
+
+  <span class="content-icon"></span>
+  
+  <a href="/news/disregard-for-human-life-police-officer-charged-over-justine-damond-killing" title="&#039;Disregard for human life&#039;: Police officer charged over Justine Damond killing ">          <picture data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/7ffc72e6-b8f3-4b84-8bde-e597cbcf4f44/crop/16x9_medium", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/7ffc72e6-b8f3-4b84-8bde-e597cbcf4f44/crop/1x1_small", "alt": "File image of Justine Damond" }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/7ffc72e6-b8f3-4b84-8bde-e597cbcf4f44/crop/16x9_medium" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/7ffc72e6-b8f3-4b84-8bde-e597cbcf4f44/crop/1x1_small" alt="File image of Justine Damond">
+        </noscript>
+      </picture>
+        </a>  
+</div>
+
+
+    
+    <div class="preview__content">
+
+              <div class="preview__label">
+          
+          
+  
+
+  <span class="label date__string">4 hours ago</span>
+
+                      
+          
+
+  <span class="label topic__string"><a href=/news/topic/north-america title="North America"><span></span>North America</a></span>
+                  </div>
+      
+      <h3 class="headline preview__headline"><a href="/news/disregard-for-human-life-police-officer-charged-over-justine-damond-killing">&#039;Disregard for human life&#039;: Police officer charged over Justine Damond killing </a></h3>
+
+      
+      
+      
+      
+    </div>
+  </div>
+</div>
+
+                                                    
+          
+                        
+
+
+
+
+                                                                                    
+
+  
+<div class="preview preview--linear">
+    <div class="preview__wrap">
+                
+
+
+
+
+
+            
+              
+  
+  
+  
+    
+    
+
+<div class="media-image media-image--m-1-1-d-16-9 preview__image">
+
+  <span class="content-icon"></span>
+  
+  <a href="/news/greece-puts-forward-five-alternative-names-for-macedonia" title="Greece puts forward five alternative names for Macedonia ">          <picture data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/8b818478-1f23-49f0-b626-1396ec5d86ec/crop/16x9_medium", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/8b818478-1f23-49f0-b626-1396ec5d86ec/crop/1x1_small", "alt": "People wave the old national flag, top and the present national flags as they take part in a protest against the change of the country&#039;s constitutional name" }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/8b818478-1f23-49f0-b626-1396ec5d86ec/crop/16x9_medium" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/8b818478-1f23-49f0-b626-1396ec5d86ec/crop/1x1_small" alt="People wave the old national flag, top and the present national flags as they take part in a protest against the change of the country&#039;s constitutional name">
+        </noscript>
+      </picture>
+        </a>  
+</div>
+
+
+    
+    <div class="preview__content">
+
+              <div class="preview__label">
+          
+          
+  
+
+  <span class="label date__string">4 hours ago</span>
+
+                      
+          
+
+  <span class="label topic__string"><a href=/news/topic/europe title="Europe"><span></span>Europe</a></span>
+                  </div>
+      
+      <h3 class="headline preview__headline"><a href="/news/greece-puts-forward-five-alternative-names-for-macedonia">Greece puts forward five alternative names for Macedonia </a></h3>
+
+      
+      
+      
+      
+    </div>
+  </div>
+</div>
+
+                                                    
+          
+                        
+
+
+
+
+                                          
+
+  
+<div class="preview preview--linear">
+    <div class="preview__wrap">
+                
+
+
+
+
+
+            
+              
+  
+  
+  
+    
+    
+
+<div class="media-image media-image--m-1-1-d-16-9 preview__image">
+
+  <span class="content-icon"></span>
+  
+  <a href="/news/nearly-half-of-abortions-worldwide-unsafe-study-finds" title="Nearly half of abortions worldwide unsafe, study finds">          <picture data-lazyload='[{ "srcset": "https://sl.sbs.com.au/public/image/file/7ce28152-9575-4766-b48f-387a98d38ec4/crop/16x9_medium", "media": "(min-width: 1023px)" },
+                        { "srcset": "https://sl.sbs.com.au/public/image/file/7ce28152-9575-4766-b48f-387a98d38ec4/crop/1x1_small", "alt": "A medical doctor wears a stethoscope." }]'>
+        <noscript>
+          <source srcset="https://sl.sbs.com.au/public/image/file/7ce28152-9575-4766-b48f-387a98d38ec4/crop/16x9_medium" media="(min-width: 1023px)">
+                    
+          <img srcset="https://sl.sbs.com.au/public/image/file/7ce28152-9575-4766-b48f-387a98d38ec4/crop/1x1_small" alt="A medical doctor wears a stethoscope.">
+        </noscript>
+      </picture>
+        </a>  
+</div>
+
+
+    
+    <div class="preview__content">
+
+              <div class="preview__label">
+          
+          
+  
+
+  <span class="label date__string">57 mins ago</span>
+
+                      
+          
+
+  <span class="label topic__string"><a href=/news/topic/north-america title="North America"><span></span>North America</a></span>
+                  </div>
+      
+      <h3 class="headline preview__headline"><a href="/news/nearly-half-of-abortions-worldwide-unsafe-study-finds">Nearly half of abortions worldwide unsafe, study finds</a></h3>
+
+      
+      
+      
+      
+    </div>
+  </div>
+</div>
+
+                                                
+    </div>
+
+          <div class="block__cta">
+        <a href="/news/latest" title="View More">View More</a>
+      </div>
+    
+  </div>
+
+    
+                                                                              
+  
+  
+  
+    
+
+    </main>
+
+    
+  
+<footer class="global-footer">
+  <div class="container">
+    <div class="row">
+      <div class="global-footer__column global-footer__column--explore column">
+                <div class="menu global-footer__menu global-footer__menu--explore-sbs" role="menu">
+              
+  
+
+  <div class="label label menu__label global-footer__menu-label">Explore SBS</div>
+            <ul class="menu__list global-footer__menu-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item first" role="menuitem">        <a href="//www.sbs.com.au"><span>SBS Home</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/ondemand"><span>On Demand</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/guide"><span>Guide</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/programs"><span>All Programs</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/radio"><span>Radio</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/nitv"><span>NITV</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//theworldgame.sbs.com.au"><span>Football</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/cyclingcentral"><span>Cycling</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/movies"><span>Movies</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/food"><span>Food</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/topics/life"><span>Life</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item last" role="menuitem">        <a href="//www.sbs.com.au/topics/sexuality"><span>Sexuality</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+      </div>
+      <div class="global-footer__column global-footer__column--contact column">
+        
+  
+
+  <div class="label global-footer__menu-label">Contact SBS</div>
+        <ul class="list list--clean">
+          <li class="list__item list__item--phone"><span class="icon icon--phone"></span> 1800 500 727 (toll free)</li>
+          <li class="list__item list__item--email"><span class="icon icon--envelope"></span> <a href="mailto:comments@sbs.com.au">comments@sbs.com.au</a></li>
+          <li class="list__item list__item--mail"><span class="icon icon--send"></span> Locked Bag 028, Crows Nest NSW 1585</li>
+        </ul>
+      </div>
+      <div class="global-footer__column global-footer__column--follow column">
+        
+  <div class="sharing sharing--menu global-footer__menu global-footer__menu--follow-sbs">
+          
+  
+
+  <div class="label sharing__label global-footer__menu-label">Follow SBS</div>
+    
+    <ul class="sharing__list">
+          <li class="sharing__item">
+        
+                    <a href="//twitter.com/SBS" class="sharing__link sharing__link--twitter" target="_blank" rel="noopener">
+            <span class="icon--twitter icon" aria-hidden="true"></span><span class="sr-only">Follow SBS on Twitter</span>
+          </a>
+              </li>
+          <li class="sharing__item">
+        
+                    <a href="//www.facebook.com/SBSAustralia/" class="sharing__link sharing__link--facebook" target="_blank" rel="noopener">
+            <span class="icon--facebook icon" aria-hidden="true"></span><span class="sr-only">Follow SBS on Facebook</span>
+          </a>
+              </li>
+        </ul>
+  </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="global-footer__column global-footer__column--legal column">
+                <div class="menu global-footer__menu global-footer__menu--information" role="menu">
+              
+  
+
+  <div class="label label menu__label global-footer__menu-label">Information</div>
+            <ul class="menu__list global-footer__menu-list">
+              
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item first" role="menuitem">        <a href="//www.sbs.com.au/aboutus/corporate/view/id/105/h/Copyright"><span>Copyright</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/aboutus/corporate/view/id/114/h/Terms-and-Conditions"><span>Terms &amp; Conditions</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement"><span>Privacy</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/aboutus/corporate/view/id/104/h/Disclaimer"><span>Disclaimer</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/preferences"><span>Your online preferences</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/sales/"><span>Sales &amp; Advertising</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/aboutus/complaints"><span>Complaints</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/aboutus/faqs"><span>FAQs</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item" role="menuitem">        <a href="//www.sbs.com.au/careers"><span>Careers</span><span></span></a>
+        
+    </li>
+
+    
+            
+            
+      
+    <li class="menu__list-item global-footer__menu-list-item last" role="menuitem">        <a href="//www.sbs.com.au/aboutus/our-story/"><span>Our Story</span><span></span></a>
+        
+    </li>
+
+
+      </ul>
+    </div>
+
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+  </div>
+
+  <div class="loader" id="loader">
+  <svg viewBox="0 0 32 32" width="32" height="32">
+    <circle class="loader__spinner" cx="16" cy="16" r="14" fill="none"></circle>
+  </svg>
+</div>
+
+  <script src="/news/js/main.js" async></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"db4a438329","applicationID":"36840691","transactionName":"ZwQHMkBYWxdXV00NDF5OJAVGUFoKGVZVCwBbPgcUV1heDVhTZgoGRxI=","queueTime":0,"applicationTime":421,"atts":"S0MERAhCSBk=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

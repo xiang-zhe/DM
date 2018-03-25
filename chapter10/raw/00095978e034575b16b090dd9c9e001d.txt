@@ -1,0 +1,699 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <link rel="shortcut icon" href="/sites/all/themes/sun/favicon.ico" type="image/x-icon" />
+<meta name="description" content="OSLO: Norway's right-wing government could resign this week if the justice minister loses a no-confidence vote after she triggered outrage among survivors of a 2011 gun massacre, media reported Sunday." />
+<link rel="canonical" href="http://www.thesundaily.my/news/2018/03/18/norway-govt-may-fall-ministers-no-confidence-vote" />
+<meta name="revisit-after" content="1 day" />
+  <title>Norway govt may fall on minister&#039;s no-confidence vote </title>
+  <meta name="msvalidate.01" content="7C307CAA7A2D594D42A1AA67ED4D9C03" />
+  <meta name="google-site-verification" content="yRAd2G6PJJOLv4ssdl4aKMCWPl9LBzzpcLO5dxpm40s" />
+  <meta property="og:title" content="Norway govt may fall on minister&#039;s no-confidence vote" />
+  <!--<meta property="og:type" content="article" />-->
+  <meta property="og:url" content="http://www.thesundaily.my/news/2018/03/18/norway-govt-may-fall-ministers-no-confidence-vote" />
+  <meta property="og:image" content="http://www.thesundaily.my/sites/default/files/thesun/Catalogue/NORWAY-POLIT_c2651751_18318_88.jpg" />
+  <meta property="fb:pages" content="418407024929742">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@theSundaily">
+  <meta name="twitter:title" content="Norway govt may fall on minister&#039;s no-confidence vote">
+  <meta name="twitter:image" content="http://www.thesundaily.my/sites/default/files/thesun/Catalogue/NORWAY-POLIT_c2651751_18318_88.jpg">
+    <meta name="twitter:description" content="OSLO: Norway's right-wing government could resign this week if the justice minister loses a no-confidence vote after she triggered outrage among survivors of a">
+    <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_4e4d19f0b4c421fbe118276ab18cd1a0.css" />
+  <!--[if lte IE 8]><style type="text/css">body{behavior:url(/sites/all/themes/sun/js/csshover3.htc);}</style><![endif]-->
+  <script type="text/javascript" src="/sites/default/files/js/js_023b63570e9cc2e8116dc329e82bb70d.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "block_edit": { "hover_links": 1 }, "nid": "533673", "quicktabs": { "qt_today_popular_most_shared": { "tabs": [ 0, 0 ] } } });
+//--><!]]>
+</script>
+  <script type="text/javascript">var switchTo5x=true;</script>
+  <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js?publisher=8e6f0149-cbfc-4e39-bf0b-a95d1331ac67"></script>
+  <script type="text/javascript">stLight.options({publisher:'8e6f0149-cbfc-4e39-bf0b-a95d1331ac67'});</script>
+
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-23981916-1']);
+    _gaq.push(['_setDomainName', 'thesundaily.my']);
+    _gaq.push(['_setAllowHash', false]);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+  <script>
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId      : '1830612597257015',
+        cookie     : true,
+        xfbml      : true,
+        version    : 'v2.8'
+      });
+      FB.AppEvents.logPageView();  
+    };
+   
+    (function(d, s, id){
+       var js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) {return;}
+       js = d.createElement(s); js.id = id;
+       js.src = "//connect.facebook.net/en_US/sdk.js";
+       fjs.parentNode.insertBefore(js, fjs);
+     }(document, 'script', 'facebook-jssdk'));
+  </script>
+
+  <!-- Begin comScore Tag -->
+  <script>
+   var _comscore = _comscore || [];
+   _comscore.push({ c1: "2", c2: "18518498" });
+   (function() {
+     var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+     s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+     el.parentNode.insertBefore(s, el);
+   })();
+  </script>
+  <noscript>
+   <img src="http://b.scorecardresearch.com/p?c1=2&c2=18518498&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({article:'auto'});
+    !function (e, f, u) {
+      e.async = 1;
+      e.src = u;
+      f.parentNode.insertBefore(e, f);
+    }(document.createElement('script'),
+    document.getElementsByTagName('script')[0],
+    '//cdn.taboola.com/libtrc/thesundaily/loader.js');
+  </script>
+
+  <script type="text/javascript" src="http://cdn.innity.net/admanager.js"></script>
+</head>
+<body class="not-front-page not-logged-in not-admin page-node-533673 node-type-article ltr sidebar-right">
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WWT74N"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-WWT74N');</script>
+  <!-- End Google Tag Manager -->
+  <div id="outer-wrapper" class="container-12">
+    <div id="pre-head">
+      <div class="container-12">
+        <div class="grid-12">
+          <div id="secondary">
+            <div class="skele-reset">
+              <ul id="secondary-links" class="menu"><li class="menu-2062 first"><a href="/" title="">Home</a></li>
+<li class="menu-5414"><a href="/about-us" title="About theSundaily">Contact Us</a></li>
+<li class="menu-2067"><a href="/rss">RSS</a></li>
+<li class="menu-18414"><a href="/archive">Archive</a></li>
+<li class="menu-7745"><a href="/advertise-thesun" title="Advertise with theSun">Advertise with Us</a></li>
+<li class="menu-25873 last"><a href="http://www.thesundaily.my/private-policy" title="Private Policy">Private Policy</a></li>
+</ul>            </div>
+          </div>
+  
+          
+          
+          <div id="social-share-panel">
+            <a href="#" class="link" id="icon-followus">Follow Us</a>
+            <div id="social-share-items">
+              <ul>
+                                <li id="icon-fb"><a href="https://www.facebook.com/pages/Thesundaily/418407024929742" target="_blank">Facebook</a></li>
+                <li id="icon-twitter"><a href="https://twitter.com/theSundaily" target="_blank">Twitter</a></li>
+                <li id="icon-instagram"><a href="https://instagram.com/thesundaily" target="_blank">Instagram</a></li>
+                <li id="icon-email-alert"><a href="/email-alerts" target="_blank">Email Alerts</a></li>
+                <li id="icon-sms-alert"><a href="/thesun-smsalert" target="_blank">SMS Alerts</a></li>
+                <li id="icon-rss"><a href="/rss" target="_blank">RSS</a></li>
+              </ul>
+            </div>
+          </div>
+  
+          <div id="search-box">
+            <form action="/news/2018/03/18/norway-govt-may-fall-ministers-no-confidence-vote"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-8ahJ9YsYhNu-VkQAJcBUM1S-ODxBr1-KWl9JSQEtbz4" value="form-8ahJ9YsYhNu-VkQAJcBUM1S-ODxBr1-KWl9JSQEtbz4"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+          </div>
+          
+          <div id="date-time-clock">
+            Wed, Mar 21, 2018          </div>
+        </div>
+        <div class="clear"></div>
+      </div>
+    </div>
+  
+    <div id="header">
+      <div class="container-12">
+        <div id="logo" class="grid-4">
+                      <a href="http://www.thesundaily.my/node" title="Home" rel="home">
+              <img src="/sites/default/files/sun_logo.png" alt="Home" />
+            </a>
+                  </div>
+  
+                  <div id="header-region" class="grid-8">
+            <div id="block-ad-130" class="block block-ad block-1 block-first block-last clearfix">
+  
+  <div class="block-content content">
+    
+<div class="advertisement group-tids-130" id="group-id-tids-130"><script type='text/javascript' src='http://www.thesundaily.my/sites/all/modules/ad/serve.php?q=1&amp;c=file&amp;f=15&amp;p=sites%2Fdefault%2Ffiles&amp;t=130&amp;u=node%2F533673&amp;l=news%2F2018%2F03%2F18%2Fnorway-govt-may-fall-ministers-no-confidence-vote'></script></div>
+  </div>
+</div>
+          </div>
+          
+        <div class="clear"></div>
+      </div>
+    </div>
+  
+          <div id="primary">
+        <div class="container-12">
+          <div class="grid-12">
+            <div class="skele-reset">
+              <ul class="menu"><li class="leaf first"><a href="/news/local">Local</a></li>
+<li class="leaf"><a href="/news/world">World</a></li>
+<li class="leaf"><a href="/news/business">Business</a></li>
+<li class="leaf"><a href="/news/sports">Sports</a></li>
+<li class="expanded"><a href="/news/lifestyle">Style/Life</a><ul class="menu"><li class="leaf first"><a href="/news/style">Style</a></li>
+<li class="leaf"><a href="/news/lifestyle/entertainment">Showbiz</a></li>
+<li class="leaf"><a href="/news/lifestyle/reviews">Reviews</a></li>
+<li class="leaf"><a href="/news/lifestyle/health">Health</a></li>
+<li class="leaf"><a href="/news/lifestyle/food">Food</a></li>
+<li class="leaf"><a href="/news/lifestyle/parenting">Parenting</a></li>
+<li class="leaf"><a href="/news/lifestyle/tech">Tech</a></li>
+<li class="leaf"><a href="/news/lifestyle/travel">Travel</a></li>
+<li class="leaf"><a href="/news/lifestyle/next-gen">Next Gen</a></li>
+<li class="leaf last"><a href="/news/going-viral-main">Going Viral: Is It True?</a></li>
+</ul></li>
+<li class="expanded"><a href="/news/columns">Opinion</a><ul class="menu"><li class="expanded first"><a href="/news/columns/archive">Archive</a><ul class="menu"><li class="leaf first"><a href="/news/columns/balan-ced-views">Balan-ced Views</a></li>
+<li class="leaf"><a href="/news/columns/just-johor">Just Johor</a></li>
+<li class="leaf"><a href="/news/columns/lets-get-real">Let&#039;s Get Real</a></li>
+<li class="leaf"><a href="/news/columns/this-n-that">This N That</a></li>
+<li class="leaf last"><a href="/news/columns/on-my-mark">On My Mark</a></li>
+</ul></li>
+<li class="leaf"><a href="/news/columns/beyond-the-wall">Beyond The Wall</a></li>
+<li class="leaf"><a href="/news/columns/citizen-nades">Citizen Nades</a></li>
+<li class="leaf"><a href="/news/columns/down2earth">Down2Earth</a></li>
+<li class="leaf"><a href="/news/columns/cr-talk">CR Talk</a></li>
+<li class="leaf"><a href="/news/columns/egalitaria">Egalitaria</a></li>
+<li class="leaf"><a href="/news/columns/freespace">Freespace</a></li>
+<li class="leaf"><a href="/news/columns/inside-write">Inside Write</a></li>
+<li class="leaf"><a href="/news/columns/know-your-rights">Know Your Rights</a></li>
+<li class="leaf"><a href="/news/columns/lawspeak">Law Speak</a></li>
+<li class="leaf"><a href="/news/letters">Letters</a></li>
+<li class="leaf"><a href="/news/columns/local-counsel">Local Counsel</a></li>
+<li class="leaf"><a href="/news/columns/just-different">Just Different</a></li>
+<li class="leaf"><a href="/news/columns/making-sens">Making Sens</a></li>
+<li class="leaf"><a href="/news/columns/myview">My View</a></li>
+<li class="leaf"><a href="/news/columns/off-the-cuff">Off The Cuff</a></li>
+<li class="leaf"><a href="/news/columns/onpointe">OnPointe</a></li>
+<li class="leaf"><a href="/news/columns/on-the-other-hand">On The Other Hand</a></li>
+<li class="leaf"><a href="/news/columns/policy-matters">Policy Matters</a></li>
+<li class="leaf"><a href="/news/columns/a-to-z">The A to Z of English</a></li>
+<li class="leaf"><a href="/news/columns/thesun-says">TheSun Says</a></li>
+<li class="leaf"><a href="/news/columns/wildlife-matters">Wildlife Matters</a></li>
+<li class="leaf last"><a href="/news/columns/others">Others</a></li>
+</ul></li>
+<li class="expanded"><a href="/news/media-marketing/property">Property</a><ul class="menu"><li class="leaf first last"><a href="http://www.thesundaily.my/property-features-archive">Property Archive</a></li>
+</ul></li>
+<li class="expanded"><a href="/news/education">Education</a><ul class="menu"><li class="leaf first"><a href="/news/education/education">Education</a></li>
+<li class="leaf last"><a href="/news/education/postgrade">Post Grad</a></li>
+</ul></li>
+<li class="leaf"><a href="/news/media-marketing">Media &amp; Marketing</a></li>
+<li class="expanded last"><a href="/photo-gallery" title="Photo Gallery">Photos</a><ul class="menu"><li class="leaf first"><a href="/photo-gallery" title="">Photo Gallery</a></li>
+<li class="leaf last"><a href="/photo-gallery/wall" target="_blank">Photo Wall</a></li>
+</ul></li>
+</ul>            </div>
+          </div>
+          <div class="clear"></div>
+        </div>
+      </div>
+      
+    <div id="main-wrapper">
+      <div class="container-12">
+                
+                
+        <div id="featured-wrapper">
+                      <div id="featured-left-short-right-long">
+                  
+                              <div id="featured-right-long" class="grid-12">
+                  <div id="block-ad-163" class="block block-ad block-1 block-first block-last remove-border clearfix">
+  
+  <div class="block-content content">
+    
+<div class="advertisement group-tids-163" id="group-id-tids-163"><script type='text/javascript' src='http://www.thesundaily.my/sites/all/modules/ad/serve.php?q=1&amp;c=file&amp;f=15&amp;p=sites%2Fdefault%2Ffiles&amp;t=163&amp;u=node%2F533673&amp;l=news%2F2018%2F03%2F18%2Fnorway-govt-may-fall-ministers-no-confidence-vote'></script></div>
+  </div>
+</div>
+                </div>
+                  
+              <div class="clear"></div>
+            </div>
+              
+                      <div id="featured">
+                  
+                              <div id="featured-right" class="grid-12">
+                  <div id="block-ad-213" class="block block-ad block-1 block-first block-last clearfix">
+  
+  <div class="block-content content">
+    
+<div class="advertisement group-tids-213" id="group-id-tids-213"><script type='text/javascript' src='http://www.thesundaily.my/sites/all/modules/ad/serve.php?q=1&amp;c=file&amp;f=15&amp;p=sites%2Fdefault%2Ffiles&amp;t=213&amp;u=node%2F533673&amp;l=news%2F2018%2F03%2F18%2Fnorway-govt-may-fall-ministers-no-confidence-vote'></script></div>
+  </div>
+</div>
+                </div>
+                  
+              <div class="clear"></div>
+            </div>
+                    
+                  </div>
+  
+        <div id="main-and-sidebar-right">
+          <div id="main" class="grid-8">
+                                        
+                            
+              <div id="content">
+                <h1 class="title" id="page-title">Norway govt may fall on minister&#039;s no-confidence vote</h1>                                
+                
+                <div id="content-content">
+                  <div id="node-533673" class="node node-1 -page node-article node-article-page node-page clearfix">
+
+  
+  <div class="node-header-wrapper">
+    <div class="submitted">
+      Posted on 18 March 2018 - 09:38pm          </div>
+
+    <div class="social-sharing-tools">
+      <div class="sharethis">
+        <span class="st_email_custom"></span>
+        <span class="st_googleplus_custom"></span>
+        <span class="st_twitter_custom" st_title="Norway govt may fall on minister&#039;s no-confidence vote"></span>
+        <span class="st_facebook_custom" st_title="Norway govt may fall on minister&#039;s no-confidence vote"></span>
+        <span class="st_sharethis_custom"></span>
+        <div class="clear"></div>
+      </div>
+
+      <div class="print-html">
+        <a href="/print/533673" target="_blank" alt="Print this article" title="Print this article">Print</a>
+      </div>
+
+          </div>
+
+    <div class="clear"></div>
+  </div>
+
+  <div class="content">
+          
+                    
+                          <div style="text-align:center;" class="slideshow-large-single">
+              <a href="/sites/default/files/thesun/Catalogue/NORWAY-POLIT_c2651751_18318_88.jpg" class="box" title="Picture taken on March 15, 2018 shows Norwegian Minister of Justice and Public Security Sylvi Listhaug speaking to the media at the Norwegian Parliament in Oslo, Norway. — AFP"><img src="http://www.thesundaily.my/sites/default/files/imagecache/article/thesun/Catalogue/NORWAY-POLIT_c2651751_18318_88.jpg" alt="" title="Picture taken on March 15, 2018 shows Norwegian Minister of Justice and Public Security Sylvi Listhaug speaking to the media at the Norwegian Parliament in Oslo, Norway. — AFP" width="350" height="242" class="imagecache imagecache-article"/></a>                      </div>
+                
+                
+                
+        <p><strong>OSLO:</strong> Norway's right-wing government could resign this week if the justice minister loses a no-confidence vote after she triggered outrage among survivors of a 2011 gun massacre, media reported Sunday.</p>
+<p>In a Facebook post on March 9, Sylvi Listhaug, a member of the populist and anti-immigration Progress Party (FrP), had accused the opposition Labour Party of considering "the rights of terrorists (to be) more important than the security of the nation".</p>
+<p>The post, which contained a photo showing Al-Shabab militants, sparked uproar because Labour members had been targeted in 2011 in the worst attack on Norwegian soil since the end of WWII.</p>
+<p>On July 22 that year, right-wing extremist Anders Behring Breivik, who once was a member of the FrP, killed 77 people in twin attacks: one targeting then Labour prime minister Jens Stoltenberg's office in Oslo and another against a Labour youth camp on the island of Utoya.</p>
+<p>Parliament is likely to go ahead with the no-confidence vote in Listhaug on Tuesday.</p>
+<p>Any vote could put Norway's minority administration in a bind because its centrists, who have always been critical of Listhaug, would be forced to pick a side.</p>
+<p>Much may rest on the Christian Democratic Party — which is not part of the government but largely supports its motions despite frequent disputes with Listhaug.</p>
+<p>Public radio and the daily <em>Verdens Gang</em> on Sunday reported that Conservative Prime Minister Erna Solberg would step down were Listhaug to lose the confidence vote.</p>
+<p>"The prime minister will comment on the issue in parliament," her office said. — <em>AFP</em></p>
+
+                    
+      <div class="clear"></div>
+      
+      
+              <div id="section-related-articles" class="block node-field-item node-field-item">
+          <h2 class="block-subject">Related articles</h2>
+          <div class="block-content content">
+            <div class="item-list">
+              <ul>
+                                <li class="first"><a href="/news/2018/03/20/norway-justice-minister-resigns-averting-government-crisis">Norway justice minister resigns, averting government crisis</a></li>
+<li><a href="/news/2018/03/20/norway-politician-who-hit-asylum-seeker-becomes-justice-minister">Norway politician who hit asylum seeker becomes justice minister</a></li>
+<li><a href="/news/2017/09/07/worlds-happiest-country-norway-mulls-change-course">World&#039;s happiest country, Norway, mulls change of course</a></li>
+<li><a href="/news/2017/09/12/bittersweet-election-victory-norway-pm">Bittersweet election victory for Norway PM</a></li>
+<li class="last"><a href="/news/2017/09/12/norways-right-wing-government-wins-re-election-fought-oil-tax">Norway&#039;s right-wing government wins re-election fought on oil, tax</a></li>
+              </ul>
+            </div>
+          </div>
+
+        </div>
+            
+            </div>
+
+      
+<div class="advertisement group-tids-106" id="group-id-tids-106"><script type='text/javascript' src='http://www.thesundaily.my/sites/all/modules/ad/serve.php?q=1&amp;c=file&amp;f=15&amp;p=sites%2Fdefault%2Ffiles&amp;t=106&amp;u=node%2F533673&amp;l=news%2F2018%2F03%2F18%2Fnorway-govt-may-fall-ministers-no-confidence-vote'></script></div>
+  
+      
+  </div>
+                </div>
+              </div>
+              
+                          <div id="content-bottom">
+                <div id="block-block-43" class="block block-block block-1 block-first block-last clearfix">
+  
+  <div class="block-content content">
+    <div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-a',
+    container: 'taboola-below-article-thumbnails',
+    placement: 'Below Article Thumbnails',
+    target_type: 'mix'
+  });
+</script>  </div>
+</div>
+              </div>
+                      </div>
+                      <div id="sidebar-right" class="grid-4">
+              <div id="block-block-27" class="block block-block block-1 block-first remove-border text-center clearfix">
+  
+  <div class="block-content content">
+    <table style="height: 179px; width: 300px; background-color: #cccccc;" border="0" align="right">
+<tbody>
+<tr>
+<td style="text-align: center;">
+<p><a href="http://thesun-epaper.com/wed/21032018/index.html" target="_blank"><img src="/sites/default/files/epaper/Epaper_Small.gif" width="230" height="12" /></a><br /><a href="http://thesun-epaper.com/wed/21032018/index.html" target="_blank"><img src="/sites/default/files/theSun2018032101_jkt_2.jpg" width="100" height="134" /></a>&nbsp;&nbsp; <a href="http://thesun-epaper.com/GearUp/16032018/index.html" target="_blank"><img src="/sites/default/files/theSun2018031615_gu.jpg" width="100" height="134" /></a></p>
+<p style="text-align: left;"><strong><span style="color: #ff0000;">EXCLUSIVE STORIES</span></strong></p>
+<ul>
+<li style="text-align: left;"><a href="http://thesun-epaper.com/wed/21032018/default.html#3/z" target="_blank"><span style="color: #ff0000;">No force, please</span></a><a href="http://thesun-epaper.com/fri/26012018/default.html#3/z" target="_blank"><span style="color: #ff0000;"> </span></a></li>
+<li style="text-align: left;"><a href="http://thesun-epaper.com/wed/21032018/default.html#4/z" target="_blank"><span style="color: #ff0000;">MB laughs off viral video</span></a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+  </div>
+</div>
+<div id="block-ad-107" class="block block-ad block-2 remove-border clearfix">
+  
+  <div class="block-content content">
+    
+<div class="advertisement group-tids-107" id="group-id-tids-107"><script type='text/javascript' src='http://www.thesundaily.my/sites/all/modules/ad/serve.php?q=1&amp;c=file&amp;f=15&amp;p=sites%2Fdefault%2Ffiles&amp;t=107&amp;u=node%2F533673&amp;l=news%2F2018%2F03%2F18%2Fnorway-govt-may-fall-ministers-no-confidence-vote'></script></div>
+  </div>
+</div>
+<div id="block-quicktabs-today_popular_most_shared" class="block block-quicktabs block-3 clearfix">
+      <h2 class="block-subject">Today's Popular and Most Shared</h2>
+  
+  <div class="block-content content">
+    <div id="quicktabs-today_popular_most_shared" class="quicktabs_wrapper quicktabs-style-nostyle"><ul class="quicktabs_tabs quicktabs-style-nostyle"><li class="qtab-0 active first"><a href="/news/2018/03/18/norway-govt-may-fall-ministers-no-confidence-vote?quicktabs_today_popular_most_shared=0#quicktabs-today_popular_most_shared" id="quicktabs-tab-today_popular_most_shared-0" class="qt_tab active">Most Viewed</a></li><li class="qtab-1 last"><a href="/news/2018/03/18/norway-govt-may-fall-ministers-no-confidence-vote?quicktabs_today_popular_most_shared=1#quicktabs-today_popular_most_shared" id="quicktabs-tab-today_popular_most_shared-1" class="qt_tab active">Most Shared</a></li></ul><div id="quicktabs_container_today_popular_most_shared" class="quicktabs_main quicktabs-style-nostyle"><div id="quicktabs_tabpage_today_popular_most_shared_0" class="quicktabs_tabpage"><div class="view view-popular view-id-popular view-display-id-block_1 view-dom-id-02cfa6c59318ee68ad22dc3905592a53">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/news/2018/03/21/pak-mie-shelter-given-3-months-vacate-premises-mbas">Pak Mie Shelter given 3 months to vacate premises by MBAS</a></span>  </span></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/news/2018/03/20/it-was-joke-meant-inspire-confidence-says-negri-mb">It was a joke meant to inspire confidence, says Negri MB</a></span>  </span></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/news/2018/03/21/flash-floods-wreak-havoc-kuala-lumpur">Flash floods wreak havoc in Kuala Lumpur</a></span>  </span></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/news/2018/03/20/pervert-sexually-harasses-yuna-instagram">Pervert sexually harasses Yuna on Instagram</a></span>  </span></li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/news/2018/03/20/un-slams-rights-abuses-against-hundreds-thousands-turkey">UN slams rights abuses against &#039;hundreds of thousands&#039; in Turkey</a></span>  </span></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></div><div id="quicktabs_tabpage_today_popular_most_shared_1" class="quicktabs_tabpage quicktabs-hide"><div id="block-thesun_sharethis-thesun_sharethis" class="block block-thesun_sharethis block-1 block-first clearfix">
+  
+  <div class="block-content content">
+    <div class="view"><div class="views-field-title"><div class="item-list"><ul><li class="first"><a href="/news/2018/03/21/datin-maid-assault-case-bailor-fail-show-court">Datin in maid assault case, bailor fail to show up for court</a></li>
+<li><a href="/news/2018/03/21/crime-does-pay">Crime does pay</a></li>
+<li><a href="/news/2018/03/21/book-review-they-both-die-end">Book review: They Both Die at the End</a></li>
+<li><a href="/news/2018/03/21/book-review-waiting-monsieur-bellivier">Book review: Waiting For Monsieur Bellivier</a></li>
+<li class="last"><a href="/news/2018/03/08/movie-review-death-wish">Movie review: Death Wish</a></li>
+</ul></div></div></div>  </div>
+</div>
+</div></div></div>  </div>
+</div>
+<div id="block-block-51" class="block block-block block-4 remove-border clearfix">
+  
+  <div class="block-content content">
+    <!-- Zone Tag : THESUNDAILY.MY bottom ad -->
+<script type="text/javascript">
+new innity_adZone("1f9b616faddedc02339603f3b37d196c", "65042", {"origin": "MY", "width": "300", "height": "250"});
+</script>  </div>
+</div>
+<div id="block-block-49" class="block block-block block-5 remove-border text-center clearfix">
+  
+  <div class="block-content content">
+    <div class="sentifi-widget" data-wid="728">
+  <a href="https://sentifi.com">sentifi.com</a>
+<h3>thesundaily_my Sentifi Top 10 talked about stocks</h3>
+</div>
+<script type="text/javascript" async src="https://cdn-pub.sentifi.com/custo/widgets.js"></script>  </div>
+</div>
+<div id="block-views-column-block_3" class="block block-views block-6 clearfix">
+      <h2 class="block-subject">Opinion</h2>
+  
+  <div class="block-content content">
+    <div class="view view-column view-id-column view-display-id-block_3 view-dom-id-40683350c889a9f717cb5fefd2114b33">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-image-fid">        <span class="field-content">  
+  <div class="columnist-thumbnail"><a href="/news/columns/my-view"><img src="http://www.thesundaily.my/sites/default/files/term_fields/my view_widget.jpg" /></a></div>
+</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/2018/03/21/multiversity-called-cap">A multiversity called CAP</a></span>  </div>  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/news/columns/my-view">My View</a></span>  </div>  
+  <div class="views-field views-field-teaser">        <span class="field-content"><a href="/news/2018/03/21/multiversity-called-cap">IN 1969 the second Malaysian university was established in the north known as Universiti...</a></span>  </div><div class="clear"></div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-image-fid">        <span class="field-content">  
+  <div class="columnist-thumbnail"><a href="/news/columns/others"><img src="http://www.thesundaily.my/sites/default/files/term_fields/Comment&Analysis.jpg" /></a></div>
+</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/2018/03/20/republicans-fear-%E2%80%98blue-wave%E2%80%99-november">Republicans fear ‘blue wave’ in November</a></span>  </div>  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/news/columns/others">Others</a></span>  </div>  
+  <div class="views-field views-field-teaser">        <span class="field-content"><a href="/news/2018/03/20/republicans-fear-%E2%80%98blue-wave%E2%80%99-november">THE March 13 special election in Pennsylvania confirmed what many analysts had suspected...</a></span>  </div><div class="clear"></div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-image-fid">        <span class="field-content">  
+  <div class="columnist-thumbnail"><a href="/news/columns/just-different"><img src="http://www.thesundaily.my/sites/default/files/term_fields/Bavani krishna iyer colomist 84x84.jpg" /></a></div>
+</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/2018/03/20/when-beast-man-springs-forth">When the beast in man springs forth</a></span>  </div>  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/news/columns/just-different">Just Different</a></span>  </div>  
+  <div class="views-field views-field-teaser">        <span class="field-content"><a href="/news/2018/03/20/when-beast-man-springs-forth">VERY disturbing, not so much the vicious attack but the public apathy which was staring...</a></span>  </div><div class="clear"></div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-image-fid">        <span class="field-content">  
+  <div class="columnist-thumbnail"><a href="/news/columns/inside-write"><img src="http://www.thesundaily.my/sites/default/files/term_fields/InsideWrite.jpg" /></a></div>
+</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/2018/03/19/no-man-island-jose">No man is an island, Jose</a></span>  </div>  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/news/columns/inside-write">Inside Write</a></span>  </div>  
+  <div class="views-field views-field-teaser">        <span class="field-content"><a href="/news/2018/03/19/no-man-island-jose">MICKEY MOUSE Cup? Not this season. Seldom, in recent times, can the much-maligned FA Cup...</a></span>  </div><div class="clear"></div></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field views-field-image-fid">        <span class="field-content">  
+  <div class="columnist-thumbnail"><a href="/news/columns/law-speak"><img src="http://www.thesundaily.my/sites/default/files/term_fields/law speak_opinion.jpg" /></a></div>
+</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/2018/03/19/cj%E2%80%99s-appointment-challenged">CJ’s appointment challenged</a></span>  </div>  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/news/columns/law-speak">Law Speak</a></span>  </div>  
+  <div class="views-field views-field-teaser">        <span class="field-content"><a href="/news/2018/03/19/cj%E2%80%99s-appointment-challenged">LAST week a larger than normal number of Federal Court judges (seven) heard a case...</a></span>  </div><div class="clear"></div></li>
+          <li class="views-row views-row-6 views-row-even views-row-last">  
+  <div class="views-field views-field-image-fid">        <span class="field-content">  
+  <div class="columnist-thumbnail"><a href="/news/columns/on-the-other-hand"><img src="http://www.thesundaily.my/sites/default/files/term_fields/Ontheotherhand-Widget_0.jpg" /></a></div>
+</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/2018/03/19/why-settle-study-loans">Why settle study loans</a></span>  </div>  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/news/columns/on-the-other-hand">On The Other Hand</a></span>  </div>  
+  <div class="views-field views-field-teaser">        <span class="field-content"><a href="/news/2018/03/19/why-settle-study-loans">BEFORE we talk about the National Higher Education Fund Corp (PTPTN), let&#039;s understand...</a></span>  </div><div class="clear"></div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-block-12" class="block block-block block-7 remove-border text-center clearfix">
+      <h2 class="block-subject">Football Fixtures &amp; Results</h2>
+  
+  <div class="block-content content">
+    <object width="300" height="130" data="http://thesun-dpa.s3.amazonaws.com/thesun-soccer-leagues/html/premier-league-widget-SAScoreboard.html#/live-e855178"></object><object width="300" height="130" data="http://thesun-dpa.s3.amazonaws.com/thesun-soccer-leagues/html/primera-division-widget-SAScoreboard.html"></object>  </div>
+</div>
+<div id="block-block-33" class="block block-block block-8 remove-border clearfix">
+  
+  <div class="block-content content">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Google Top Medium Right Ad -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6999968698827395"
+     data-ad-slot="9935330980"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>  </div>
+</div>
+<div id="block-block-24" class="block block-block block-9 remove-border text-center clearfix">
+  
+  <div class="block-content content">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Google Medium Right Ad 300x50 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:50px"
+     data-ad-client="ca-pub-6999968698827395"
+     data-ad-slot="1986132588"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>  </div>
+</div>
+<div id="block-ad-210" class="block block-ad block-10 remove-border text-center clearfix">
+  
+  <div class="block-content content">
+    
+<div class="advertisement group-tids-210" id="group-id-tids-210"><script type='text/javascript' src='http://www.thesundaily.my/sites/all/modules/ad/serve.php?q=1&amp;c=file&amp;f=15&amp;p=sites%2Fdefault%2Ffiles&amp;t=210&amp;u=node%2F533673&amp;l=news%2F2018%2F03%2F18%2Fnorway-govt-may-fall-ministers-no-confidence-vote'></script></div>
+  </div>
+</div>
+<div id="block-block-42" class="block block-block block-11 block-last remove-border text-center clearfix">
+  
+  <div class="block-content content">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Skyscraper Ad -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-6999968698827395"
+     data-ad-slot="3502211389"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>  </div>
+</div>
+            </div>
+            
+          <div class="clear"></div>
+        </div>
+  
+              </div>
+    </div>
+  
+          <div id="footer">
+        <div class="container-12">
+                      <div id="footer-region" class="grid-12">
+              <div id="block-menu-primary-links" class="block block-menu block-1 block-first clearfix">
+      <h2 class="block-subject">Primary links</h2>
+  
+  <div class="block-content content">
+    <ul class="menu"><li class="leaf first"><a href="/news/local">Local</a></li>
+<li class="leaf"><a href="/news/world">World</a></li>
+<li class="leaf"><a href="/news/business">Business</a></li>
+<li class="leaf"><a href="/news/sports">Sports</a></li>
+<li class="expanded"><a href="/news/lifestyle">Style/Life</a><ul class="menu"><li class="leaf first"><a href="/news/style">Style</a></li>
+<li class="leaf"><a href="/news/lifestyle/entertainment">Showbiz</a></li>
+<li class="leaf"><a href="/news/lifestyle/reviews">Reviews</a></li>
+<li class="leaf"><a href="/news/lifestyle/health">Health</a></li>
+<li class="leaf"><a href="/news/lifestyle/food">Food</a></li>
+<li class="leaf"><a href="/news/lifestyle/parenting">Parenting</a></li>
+<li class="leaf"><a href="/news/lifestyle/tech">Tech</a></li>
+<li class="leaf"><a href="/news/lifestyle/travel">Travel</a></li>
+<li class="leaf"><a href="/news/lifestyle/next-gen">Next Gen</a></li>
+<li class="leaf last"><a href="/news/going-viral-main">Going Viral: Is It True?</a></li>
+</ul></li>
+<li class="expanded"><a href="/news/columns">Opinion</a><ul class="menu"><li class="expanded first"><a href="/news/columns/archive">Archive</a><ul class="menu"><li class="leaf first"><a href="/news/columns/balan-ced-views">Balan-ced Views</a></li>
+<li class="leaf"><a href="/news/columns/just-johor">Just Johor</a></li>
+<li class="leaf"><a href="/news/columns/lets-get-real">Let&#039;s Get Real</a></li>
+<li class="leaf"><a href="/news/columns/this-n-that">This N That</a></li>
+<li class="leaf last"><a href="/news/columns/on-my-mark">On My Mark</a></li>
+</ul></li>
+<li class="leaf"><a href="/news/columns/beyond-the-wall">Beyond The Wall</a></li>
+<li class="leaf"><a href="/news/columns/citizen-nades">Citizen Nades</a></li>
+<li class="leaf"><a href="/news/columns/down2earth">Down2Earth</a></li>
+<li class="leaf"><a href="/news/columns/cr-talk">CR Talk</a></li>
+<li class="leaf"><a href="/news/columns/egalitaria">Egalitaria</a></li>
+<li class="leaf"><a href="/news/columns/freespace">Freespace</a></li>
+<li class="leaf"><a href="/news/columns/inside-write">Inside Write</a></li>
+<li class="leaf"><a href="/news/columns/know-your-rights">Know Your Rights</a></li>
+<li class="leaf"><a href="/news/columns/lawspeak">Law Speak</a></li>
+<li class="leaf"><a href="/news/letters">Letters</a></li>
+<li class="leaf"><a href="/news/columns/local-counsel">Local Counsel</a></li>
+<li class="leaf"><a href="/news/columns/just-different">Just Different</a></li>
+<li class="leaf"><a href="/news/columns/making-sens">Making Sens</a></li>
+<li class="leaf"><a href="/news/columns/myview">My View</a></li>
+<li class="leaf"><a href="/news/columns/off-the-cuff">Off The Cuff</a></li>
+<li class="leaf"><a href="/news/columns/onpointe">OnPointe</a></li>
+<li class="leaf"><a href="/news/columns/on-the-other-hand">On The Other Hand</a></li>
+<li class="leaf"><a href="/news/columns/policy-matters">Policy Matters</a></li>
+<li class="leaf"><a href="/news/columns/a-to-z">The A to Z of English</a></li>
+<li class="leaf"><a href="/news/columns/thesun-says">TheSun Says</a></li>
+<li class="leaf"><a href="/news/columns/wildlife-matters">Wildlife Matters</a></li>
+<li class="leaf last"><a href="/news/columns/others">Others</a></li>
+</ul></li>
+<li class="expanded"><a href="/news/media-marketing/property">Property</a><ul class="menu"><li class="leaf first last"><a href="http://www.thesundaily.my/property-features-archive">Property Archive</a></li>
+</ul></li>
+<li class="expanded"><a href="/news/education">Education</a><ul class="menu"><li class="leaf first"><a href="/news/education/education">Education</a></li>
+<li class="leaf last"><a href="/news/education/postgrade">Post Grad</a></li>
+</ul></li>
+<li class="leaf"><a href="/news/media-marketing">Media &amp; Marketing</a></li>
+<li class="expanded last"><a href="/photo-gallery" title="Photo Gallery">Photos</a><ul class="menu"><li class="leaf first"><a href="/photo-gallery" title="">Photo Gallery</a></li>
+<li class="leaf last"><a href="/photo-gallery/wall" target="_blank">Photo Wall</a></li>
+</ul></li>
+</ul>  </div>
+</div>
+<div id="block-menu-secondary-links" class="block block-menu block-2 block-last clearfix">
+      <h2 class="block-subject">Secondary links</h2>
+  
+  <div class="block-content content">
+    <ul class="menu"><li class="leaf first"><a href="/" title="">Home</a></li>
+<li class="leaf"><a href="/about-us" title="About theSundaily">Contact Us</a></li>
+<li class="leaf"><a href="/rss">RSS</a></li>
+<li class="leaf"><a href="/archive">Archive</a></li>
+<li class="leaf"><a href="/advertise-thesun" title="Advertise with theSun">Advertise with Us</a></li>
+<li class="leaf last"><a href="http://www.thesundaily.my/private-policy" title="Private Policy">Private Policy</a></li>
+</ul>  </div>
+</div>
+            </div>
+            
+                      <div id="footer-message" class="grid-12">
+              Copyright &copy; 2018 Sun Media Corporation Sdn. Bhd. All rights reserved.            </div>
+            
+          <div class="clear"></div>
+        </div>
+      </div>
+      
+      </div>
+
+      <div id="ad-placeholders">
+      <div id="block-block-4" class="block block-block block-1 block-first block-last clearfix">
+  
+  <div class="block-content content">
+    <script type="text/javascript">
+        $(document).ready(function() {
+          $('body').prepend('<div id="ad-skin"><a href=\"http://www.thesundaily.my/ad/redirect/533571\" id=\"ad-skin-link\" target=\"_blank\"></a></div>');
+          $('#ad-skin-link').css({
+            'background':'url(\'/sites/default/files/USS1.gif\') no-repeat center top',
+            'display':'block',
+            'height':'100%',
+            'width':'100%',
+            'position':'fixed',
+            'left':'0',
+            'top':'0',
+            'z-index':'0'
+          });
+        });
+      </script>  </div>
+</div>
+    </div>
+  
+  
+  <script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+  </script>
+
+  <!-- Maintained by Gix Solutions (http://gix.my) -->
+</body>
+</html>

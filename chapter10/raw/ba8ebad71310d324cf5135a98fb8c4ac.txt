@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+  <!--[if IEMobile 7]><html class="no-js ie iem7" lang="en" dir="ltr"><![endif]-->
+  <!--[if lte IE 6]><html class="no-js ie lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+  <!--[if (IE 7)&(!IEMobile)]><html class="no-js ie lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+  <!--[if IE 8]><html class="no-js ie lt-ie9" lang="en" dir="ltr"><![endif]-->
+  <!--[if (gte IE 9)|(gt IEMobile 7)]><html class="no-js ie" lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><![endif]-->
+  <!--[if !IE]><!--><html class="no-js" lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+<head>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#ffffff">
+<meta name="theme-color" content="#ffffff">
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="https://morningstaronline.co.uk/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<link rel="apple-touch-icon-precomposed" href="https://morningstaronline.co.uk/sites/all/themes/custom/morningstar_online/apple-touch-icon-precomposed-72x72.png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="https://morningstaronline.co.uk/sites/all/themes/custom/morningstar_online/apple-touch-icon-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" href="https://morningstaronline.co.uk/sites/all/themes/custom/morningstar_online/apple-touch-icon-precomposed-114x114.png" sizes="114x114" />
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+<link rel="apple-touch-icon-precomposed" href="https://morningstaronline.co.uk/sites/all/themes/custom/morningstar_online/apple-touch-icon-precomposed-144x144.png" sizes="144x144" />
+<meta name="keywords" content="Iraq, Mosul, Isis, Middle East" />
+<meta name="viewport" content="width=device-width" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="image_src" href="https://morningstaronline.co.uk/sites/default/files/AP_18066631712566.jpg" />
+<link rel="canonical" href="https://morningstaronline.co.uk/article/iraq%20arrests%2019%2C000%20people%20accused%20of%20isis%20links%20and%20condemns%203%2C000%20to%20death" />
+<link rel="shortlink" href="https://morningstaronline.co.uk/node/48341" />
+<meta property="og:site_name" content="Morning Star" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Iraq arrests 19,000 people accused of Isis links and condemns 3,000 to death" />
+<meta property="og:url" content="https://morningstaronline.co.uk/article/iraq%20arrests%2019%2C000%20people%20accused%20of%20isis%20links%20and%20condemns%203%2C000%20to%20death" />
+<meta property="og:updated_time" content="2018-03-21T17:41:35+00:00" />
+<meta property="og:image" content="https://morningstaronline.co.uk/sites/default/files/AP_18066631712566.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://morningstaronline.co.uk/article/iraq%20arrests%2019%2C000%20people%20accused%20of%20isis%20links%20and%20condemns%203%2C000%20to%20death" />
+<meta name="twitter:title" content="Iraq arrests 19,000 people accused of Isis links and condemns 3,000 to death" />
+<meta name="twitter:image" content="https://morningstaronline.co.uk/sites/default/files/AP_18066631712566.jpg" />
+<meta property="article:published_time" content="2018-03-21T16:39:04+00:00" />
+<meta property="article:modified_time" content="2018-03-21T17:41:35+00:00" />
+  <title>Middle East Iraq arrests 19,000 people accused of Isis links and condemns 3,000 to death | Morning Star</title>
+  <link type="text/css" rel="stylesheet" href="https://morningstaronline.co.uk/sites/default/files/css/css_ntAxQjrPfR8aE__bwUKA9XjTIXJKlPkTVlgb1i183qc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://morningstaronline.co.uk/sites/default/files/css/css_Nn_uES6DEYiuvmDOMZTiNxkDKiDRos9yQ8Au6nqljHY.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://morningstaronline.co.uk/sites/default/files/css/css_Wpvake0RAnzjhyvlmJTEtJEWj6V8zU-hNgkQI5CDmwE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://morningstaronline.co.uk/sites/default/files/css/css_btEyqLxNSQM-OVBBfXrAWG2FyvGK9lY65-iac7Iv58Y.css" media="all" />
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")</script>
+<script src="https://morningstaronline.co.uk/sites/default/files/js/js_N2xI9_wC2FxNNq4iEVhHncw4Cxdj-XXFFW7lteyhtM4.js"></script>
+<script src="https://morningstaronline.co.uk/sites/default/files/js/js_H7q2xORKmR9AN8Qx5spKEIBp7R_wG2apAswJoCUZY7I.js"></script>
+<script src="https://morningstaronline.co.uk/sites/default/files/js/js_Y9yKx2OUtJnmRHB1CS8aYbteUomcXpDxv6eEot-Bg_o.js"></script>
+<script src="https://morningstaronline.co.uk/sites/default/files/js/js_Z9P0lQN2K9izckKF0BCwZ7k6QKWG6DiV8U_xIHZ66Hk.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"facetapi":{"view_args":{"byline:block_1":["48341","48341","48341","48341","48341","48341","48341","48341","48341","48341","48341","48341"],"media_slideshow_on_node:block_2":["48341","48341","48341","48341","48341","48341","48341","48341","48341","48341","48341"],"others_liked:attachment_1":["48341","48341","48341","48341","48341","48341","48341","48341","48341","48341"],"others_liked:block_1":["48341","48341","48341","48341","48341","48341","48341","48341","48341"],"frontpage_views:panel_pane_17":[],"frontpage_views:panel_pane_18":[],"frontpage_views:panel_pane_19":[],"frontpage_views:panel_pane_4":[],"others_liked:panel_pane_1":[],"editorial_in_menu:block":[],"editorial_in_menu:block-1":[],"top_promotions:block_1":[]},"exposed_input":{"byline:block_1":[],"media_slideshow_on_node:block_2":[],"others_liked:attachment_1":[],"others_liked:block_1":[],"frontpage_views:panel_pane_17":[],"frontpage_views:panel_pane_18":[],"frontpage_views:panel_pane_19":[],"frontpage_views:panel_pane_4":[],"others_liked:panel_pane_1":[],"editorial_in_menu:block":[],"editorial_in_menu:block-1":[],"top_promotions:block_1":[]},"view_path":{"byline:block_1":null,"media_slideshow_on_node:block_2":null,"others_liked:attachment_1":null,"others_liked:block_1":null,"frontpage_views:panel_pane_17":null,"frontpage_views:panel_pane_18":null,"frontpage_views:panel_pane_19":null,"frontpage_views:panel_pane_4":null,"others_liked:panel_pane_1":null,"editorial_in_menu:block":null,"editorial_in_menu:block-1":null,"top_promotions:block_1":null},"view_dom_id":{"byline:block_1":"8afa0c04bbdc07396bdabaacf3435694","media_slideshow_on_node:block_2":"00b1e8c107d40b1b00fd201ae91ecb49","others_liked:attachment_1":"9caad181b351d686e63c603f0dc93db5","others_liked:block_1":"9caad181b351d686e63c603f0dc93db5","frontpage_views:panel_pane_17":"550d0d2086f8dacd3d5bc8ac3acee3d5","frontpage_views:panel_pane_18":"6e056df6dbb4b9129f126027bee8aac3","frontpage_views:panel_pane_19":"171fcbf272590dc14311a8e538a91786","frontpage_views:panel_pane_4":"2b9d26a77b00740e1cbd36b24224b38d","others_liked:panel_pane_1":"82b150cbc946089f484af7adb1d1f2ba","editorial_in_menu:block":"f9e32d6a4bf0c133c87818fc46ac96c1","editorial_in_menu:block-1":"0c7a9d1196007fcad021a3bcc8a5952c","top_promotions:block_1":"12d3d42cdfacb7a5897db28694b89dac"}},"owlcarousel":{"owl-carousel-block-25":{"settings":{"items":1,"margin":0,"loop":true,"center":false,"mouseDrag":true,"touchDrag":true,"pullDrag":true,"freeDrag":false,"stagePadding":0,"merge":false,"mergeFit":true,"autoWidth":false,"startPosition":0,"urlHashListner":false,"nav":true,"navRewind":false,"navText":["",""],"slideBy":1,"dots":false,"dotsEach":false,"dotsData":false,"lazyLoad":true,"lazyContent":true,"autoplay":false,"autoplayTimeout":5000,"autoplayHoverPause":false,"smartSpeed":250,"fluidSpeed":250,"autoplaySpeed":false,"navSpeed":500,"dotsSpeed":false,"dragEndSpeed":false,"callbacks":false,"responsiveRefreshRate":200,"responsiveClass":false,"video":false,"videoHeight":false,"videoWidth":false,"animateOut":false,"animateIn":false,"fallbackEasing":"swing","info":false,"nestedItemSelector":false,"itemElement":"div","stageElement":"div","navContainer":false,"dotsContainer":false,"responsive":[]},"views":{"ajax_pagination":null}}},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_scrolling_confirmation":0,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EBy clicking any link on this page you are giving your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EOK, I agree\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003ENo, give me more info\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\n\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003EHide\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003EMore info\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":1,"popup_height":"auto","popup_width":0,"popup_delay":1000,"popup_link":"\/page\/privacy-policy","popup_link_new_window":1,"popup_position":null,"popup_language":"en","better_support_for_screen_readers":0,"reload_page":0,"domain":"","popup_eu_only_js":0,"cookie_lifetime":"100","disagree_do_not_show_popup":0},"responsive_menus":[{"selectors":["#nav ul.menu"],"trigger_txt":"\u003Cdiv id=\u0022nav-icon\u0022\u003E\r\n  \u003Cspan\u003E\u003C\/span\u003E\r\n  \u003Cspan\u003E\u003C\/span\u003E\r\n  \u003Cspan\u003E\u003C\/span\u003E\r\n  \u003Cspan\u003E\u003C\/span\u003E\r\n\u003C\/div\u003E","side":"left","speed":"200","media_size":"5000","displace":"0","onOpen":"","onClose":"","responsive_menus_style":"sidr"}],"urlIsAjaxTrusted":{"\/article\/iraq%20arrests%2019%2C000%20people%20accused%20of%20isis%20links%20and%20condemns%203%2C000%20to%20death":true,"\/article\/iraq%20arrests%2019%2C000%20people%20accused%20of%20isis%20links%20and%20condemns%203%2C000%20to%20death?destination=node\/48341":true}});</script>
+  <script src="https://use.typekit.net/nsh3nks.js"></script>
+  <script type="text/javascript">try{Typekit.load({active:function(){main()}});}catch(e){}</script>
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,700" rel="stylesheet">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-104426970-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-8487906312964002",
+    enable_page_level_ads: true
+  });
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-48341 node-type-article   section-article">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+    <header id="header">
+	<div class="branding" id="branding">
+		<div class="branding-inner"><div class="panel-pane pane-page-logo">
+            <a href="/" rel="home" id="logo" title="Home"><img src="https://morningstaronline.co.uk/sites/all/themes/custom/morningstar_online/logo.svg" alt="Home" /></a>    </div>
+<div class="panel-pane pane-custom pane-2 search">
+            <p><button id="search-top"><img src="/sites/all/themes/custom/morningstar_online/images/search.svg" /></button></p>
+    </div>
+<div class="panel-pane pane-block pane-system-user-menu user-menu">
+            <ul class="menu"><li class="first last leaf modal"><a href="/user/login?current=node/48341">Log in</a></li>
+</ul>    </div>
+<div class="panel-pane pane-block pane-menu-menu-cta">
+            <ul class="menu"><li class="first leaf"><a href="/subscribe">Subscribe</a></li>
+<li class="leaf"><a href="/page/support-us">Support Us</a></li>
+<li class="last leaf"><a href="https://shop.morningstaronline.co.uk/">Shop</a></li>
+</ul>    </div>
+			<nav id="nav"><ul class="menu"><li class="first leaf"><a href="/categories/britain" title="Britain">Britain</a></li>
+<li class="leaf"><a href="/categories/world" title="World">World</a></li>
+<li class="leaf"><a href="/categories/features" title="Features">Features</a></li>
+<li class="leaf"><a href="/categories/editorial" title="Editorial">Editorial</a></li>
+<li class="leaf"><a href="/categories/arts" title="Culture">Culture</a></li>
+<li class="leaf"><a href="/categories/sport" title="Sport">Sport</a></li>
+<li class="leaf"><div class="menu-attach-block-wrapper">
+	<div id="block-views-editorial-in-menu-block--2" class="block block--views block--views-editorial-in-menu-block--2">
+        <h2 class="block__title">LATEST EDITORIAL</h2>
+      <div class="block__content">
+      
+          <a href="/article/french-workers-know-the-eu-is-no-friend-of-theirs" class="menu-editorial"> French workers know the EU is no friend of theirs</a>    </div>
+</div>
+</div>
+</li>
+<li class="last leaf" id="backtotop"><span class="nolink">BACK TO TOP</span></li>
+</ul></nav>
+		</div>
+	</div>
+	<div id="search"><div class="panel-pane pane-block pane-search-api-page-search-results">
+            <form class="search-api-page-search-form-search-results" action="/article/iraq%20arrests%2019%2C000%20people%20accused%20of%20isis%20links%20and%20condemns%203%2C000%20to%20death" method="post" id="search-api-page-search-form-search-results" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-keys-1">
+  <label class="element-invisible" for="edit-keys-1">Enter your keywords </label>
+ <input placeholder="Enter your keywords" type="text" id="edit-keys-1" name="keys_1" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<input type="hidden" name="id" value="1" />
+<input type="submit" id="edit-submit-1" name="op" value="Search" class="form-submit" /><input type="hidden" name="form_build_id" value="form-ZOz76ldHAP-k0LHtgT0goIPEEZXlfQJHopDQSwVmp4E" />
+<input type="hidden" name="form_id" value="search_api_page_search_form_search_results" />
+</div></form>    </div>
+<div class="clearfix"></div></div>
+	</header>
+<div class="contents"><div id="node-content">
+	<article about="/article/iraq%20arrests%2019%2C000%20people%20accused%20of%20isis%20links%20and%20condemns%203%2C000%20to%20death" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--full node--article--full">
+<div class="pre-headline">
+	<div class="byline">
+              
+          <div class="author"><a href="/author/67"> Morning Star</a></div><time><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-03-22T00:00:00+00:00">Thursday, March 22, 2018</span></time>    	</div>
+	<div class="addthis_inline_share_toolbox desktop"></div>
+	<div class="clearfix"></div>
+</div>
+<h1 class="article-headline"><span class="trumpet">Middle East </span>Iraq arrests 19,000 people accused of Isis links and condemns 3,000 to death</h1>
+<h2></h2>
+<div class="view view-media-slideshow-on-node view-id-media_slideshow_on_node view-display-id-block_2 view-dom-id-00b1e8c107d40b1b00fd201ae91ecb49">
+        
+  
+  
+      <div class="view-content">
+      <div id="owl-carousel-block-25" class="owl-carousel owl-theme disabled"><div class="item-0 item-odd">  
+          
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/article_full/public/AP_18066631712566.jpg?itok=tUuB1htf&amp;c=cfb47a812e0031dc919afc3abf22da77" alt="" />	<figcaption>
+		<div class="credit-logo"><img src="/sites/all/themes/custom/morningstar_online/images/logo_mark_neg.svg"/></div>
+		<div class="caption">
+  A body lies among the ruins of building in Mosul's Old City, Iraq. Dozens of bodies of alleged Isis fighters continue to litter the city some eight months after Iraq declared victory over the extremists there<span class="credits"></span></div>
+		<div class="clearfix"></div>
+	</figcaption>  </div></div>    </div>
+  
+  
+  
+  
+  
+  
+</div><div class="article-content aside">
+	
+  <div class="field--body">
+    <p>IRAQ has arrested at least 19,000 people accused of links to Islamic State (Isis) or other terrorist offences and has condemned more than 3,000 of them to death, the Associated Press (AP) reported today.</p>
+<p>The New York-based news agency based its figures partially on analysis of a spreadsheet listing all 27,849 people imprisoned in Iraq in late January.</p>
+<p>Thousands more are believed to be held by other bodies including the federal police, military intelligence and Kurdish forces.</p>
+<p>The mass incarceration and speed of guilty verdicts raise concerns over potential miscarriages of justice and worries that jailed militants are recruiting within the general prison population to build new extremist networks, AP said.</p>
+<p>According to its analysis, 8,861 of the prisoners listed were convicted of terrorism-related charges since the beginning of 2013 and were overwhelmingly linked to Isis.</p>
+<p>Another 11,000 people are now detained by the Interior Ministry intelligence branch, undergoing interrogation or awaiting trial.</p>
+<p>“There’s been great overcrowding … Iraq needs a large number of investigators and judges to resolve this issue,” Fadhel al-Gharwari, a member of Iraq’s parliament-appointed human rights commission, told AP.</p>
+<p>He said that many legal proceedings have been delayed because the country lacks the resources to respond to the rise in jailings.</p>
+<p>Large numbers of Iraqis were detained during the 2000s when US occupation forces and Iraqi governments were battling Sunni militants, including al-Qaida, and Shi’ite militias.</p>
+<p>In 2007, at the height of the fighting, the US military held 25,000 detainees. About 6,000 people arrested on terror charges before 2013 are still serving those sentences.</p>
+<p>Prime Minister Haider al-Abadi, who is a candidate to retain his position in elections set for May, has repeatedly demanded accelerated death sentences for those convicted of terrorism.</p>
+<p>Since 2013, 3,130 prisoners have been sentenced to death on terrorism charges and about 250 executions of convicted Isis members have been carried out, 100 of them in the past year, indicating an accelerating pace of hangings.</p>
+<p>The UN has warned that fast-tracking executions puts innocent people at greater risk of being convicted, “resulting in gross, irreversible miscarriages of justice.”</p>
+  </div>
+	<aside class="right">
+													<div class="infobox related"><h3 class="info-title">Others liked</h3>  	<article about="/article/female-trade-union-official-bullied-own-picket-line-international-womens-day" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--related node--article--related"><a href="/article/female-trade-union-official-bullied-own-picket-line-international-womens-day">
+
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/teaser_x-small/public/11picturehouse_0.jpg?itok=yQYLdupo&amp;c=933f7cb0d7aa4de148491e62646c324d" alt="" /><time>Tuesday 20th Mar 2018</time>
+<div class="title">Female trade union official ‘bullied off own union’s picket line on International Women’s Day’</div>
+</a></article>
+<div class="clearfix"></div>    	<article about="/article/why-luke-akehurst-wrong-sneer-communists" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--related-no-image node--article--related-no-image"><a href="/article/why-luke-akehurst-wrong-sneer-communists">
+<time>Thursday 22nd Mar 2018</time>
+<div class="title">Why Luke Akehurst is wrong to sneer at communists</div>
+</a>
+</article>
+<div class="clearfix"></div>	<article about="/article/salisbury-skripal-and-novichok-local-view" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--related-no-image node--article--related-no-image"><a href="/article/salisbury-skripal-and-novichok-local-view">
+<time>Tuesday 20th Mar 2018</time>
+<div class="title">Salisbury, Skripal and novichok — a local view</div>
+</a>
+</article>
+<div class="clearfix"></div>	<article about="/article/university-of-london-seals-protesting-students-into-a-room" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--related-no-image node--article--related-no-image"><a href="/article/university-of-london-seals-protesting-students-into-a-room">
+<time>Wednesday 21st Mar 2018</time>
+<div class="title">
+  <span class="field--trumpet">
+    Student Occupation   </span>
+ University of London seals protesting students into a room</div>
+</a>
+</article>
+<div class="clearfix"></div>	<article about="/article/whether-newsnight-photoshopped-corbyns-hat-or-not-is-not-the-point" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--related-no-image node--article--related-no-image"><a href="/article/whether-newsnight-photoshopped-corbyns-hat-or-not-is-not-the-point">
+<time>Wednesday 21st Mar 2018</time>
+<div class="title">
+  <span class="field--trumpet">
+    The Media   </span>
+ Whether Newsnight photoshopped Corbyn&#039;s hat or not is not the point </div>
+</a>
+</article>
+<div class="clearfix"></div></div>			</aside>
+	<div class="addthis_inline_share_toolbox mobile"></div>
+<div id="cta-wrapper">
+	<div class="cta">
+		<a href="/page/support-us">
+			<div class="cta-head">Join the 501 Club</div>
+			<div class="left"><p><strong>You can’t buy a revolution, but you can help the only daily paper in
+			Britain that’s fighting for one by joining the 501 club.</strong></p>
+			<p>Just £5 a month gives you the opportunity to win one of 17 prizes, from
+			£25 to the £501 jackpot.</p></div>
+
+			<div class="right"><p>By becoming a 501 Club member you are helping the Morning Star cover its
+			printing, distribution and staff costs — help keep our paper thriving by
+			joining!</p></div>
+			<div class="act-now">Join here »</div>
+			<div class="clearfix"></div>
+		</a>
+	</div>
+
+	<div class="cta">
+		<a href="/page/support-us">
+			<div class="cta-head">Buy Shares</div>
+			<div class="left"><p><strong>You can’t buy a revolution, but you can help the only daily paper in
+			Britain that’s fighting for one by become a member of the People’s
+			Printing Press Society.</strong></p>
+			<p>The Morning Star is a readers’ co-operative, which means you can become
+			an owner of the paper too by buying shares in the society.</p></div>
+			<div class="right"><p>Shares are £1 each — though unlike capitalist firms, each shareholder
+			has an equal say. Money from shares contributes directly to keep our
+			paper thriving.</p>
+			<p>Some union branches have taken out shares of over £500 and individuals
+			over £100.</p></div>
+			<div class="act-now">Buy here »</div>
+			<div class="clearfix"></div>
+		</a>
+	</div>
+	<div class="cta">
+		<a href="/page/support-us">
+			<div class="cta-head">Donate to the Fighting Fund</div>
+
+			<div class="left"><p><strong>You can’t buy a revolution, but you can help the only daily paper in
+			Britain that’s fighting for one by donating to the Fighting Fund.</strong></p>
+
+			<p>The Morning Star is unique, as a lone socialist voice in a sea of
+			corporate media. We offer a platform for those who would otherwise never
+			be listened to, coverage of stories that would otherwise be buried.</p></div>
+
+			<div class="right"><p>The rich don’t like us, and they don’t advertise with us, so we rely on
+			you, our readers and friends. With a regular donation to our monthly
+			Fighting Fund, we can continue to thumb our noses at the fat cats and
+			tell truth to power.</p>
+
+			<p>Donate today and make a regular contribution.</p></div>
+			<div class="act-now">Donate here »</div>
+			<div class="clearfix"></div>
+		</a>
+	</div>
+</div>
+</div>
+</article>
+<script>
+var elems = jQuery("#cta-wrapper .cta");
+if (elems.length) {
+  var keep = Math.floor(Math.random() * elems.length);
+  for (var i = 0; i < elems.length; ++i) {
+    if (i !== keep) {
+      jQuery(elems[i]).hide();
+    }
+  }
+}
+</script>
+<div class="clearfix"></div></div>
+<div class="clearfix"></div>
+<section id="from-front" class="row article">
+	<div class="left"><div class="panel-pane pane-views-panes pane-frontpage-views-panel-pane-17 small">
+                  <article about="/article/corbyn-tells-may-britain-s-had-enough" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-small node--article--teaser-small">
+	<a href="/article/corbyn-tells-may-britain-s-had-enough">
+		
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/teaser_x-small/public/PA-35640761.jpg?itok=28WuwE6g&amp;c=e9b6dc05721bbc496e1fde8317f825a1" alt="" />		<header>
+			<h1>Corbyn tells May: ‘Britain&#039;s had enough’</h1>
+							<h2>
+  Labour launches local elections campaign with attack on damaging Tory austerity </h2>
+					</header>
+	</a>
+	<div class="related"></div>
+
+	</article>
+<div class="clearfix"></div>    </div>
+<div class="panel-pane pane-views-panes pane-frontpage-views-panel-pane-18 x-small">
+                  <article about="/article/french-workers-know-the-eu-is-no-friend-of-theirs" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-x-small node--article--teaser-x-small"><a href="/article/french-workers-know-the-eu-is-no-friend-of-theirs">
+
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/teaser_x-small/public/AP_18081570870283.jpg?itok=hn-3Rkyh&amp;c=163e53279927e2cea93fe35d076cb9c4" alt="" /><header>
+<div class="category"><span class="cat">
+  Editorial | </span><time>Thursday 22nd Mar 2018</time></div>
+<h1>French workers know the EU is no friend of theirs</h1>
+</header>
+</a>
+<div class="clearfix"></div></article>    <article about="/article/tory-housing-secretary-admits-most-grenfell-fire-victims-are-still-homeless" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-x-small node--article--teaser-x-small"><a href="/article/tory-housing-secretary-admits-most-grenfell-fire-victims-are-still-homeless">
+
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/teaser_x-small/public/PA-35531783_0.jpg?itok=rrPxwYqh&amp;c=84586e1d04f5fa25db85da565d63b947" alt="" /><header>
+<div class="category"><span class="cat">
+  Britain | </span><time>Thursday 22nd Mar 2018</time></div>
+<h1>
+  <span class="field--trumpet">
+    Housing   </span>
+ Tory housing secretary admits most Grenfell fire victims are still homeless </h1>
+</header>
+</a>
+<div class="clearfix"></div></article>    <article about="/article/public-sector%20workers%20stage%20walk%20out%20against%20macron%27s%20deregulation%20drive" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-x-small node--article--teaser-x-small"><a href="/article/public-sector%20workers%20stage%20walk%20out%20against%20macron%27s%20deregulation%20drive">
+
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/teaser_x-small/public/AP_18081517448724.jpg?itok=Ost1KrPf&amp;c=e9b6dc05721bbc496e1fde8317f825a1" alt="" /><header>
+<div class="category"><span class="cat">
+  World | </span><time>Thursday 22nd Mar 2018</time></div>
+<h1>
+  <span class="field--trumpet">
+    France  </span>
+ Public-sector workers stage walk out against Macron&#039;s deregulation drive </h1>
+</header>
+</a>
+<div class="clearfix"></div></article>    </div>
+<div class="panel-pane pane-views-panes pane-frontpage-views-panel-pane-19 small small-right">
+                  <article about="/article/climate-carbon-emissions-at-record-high" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-small-narrow node--article--teaser-small-narrow"><a href="/article/climate-carbon-emissions-at-record-high">
+
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/teaser_x-small/public/AP_18073392401413.jpg?itok=V6ccb6Fy&amp;c=0a3dd9dfa33d53f6284faecdc47b728d" alt="" /><header>
+<h1>Carbon emissions at record high</h1>
+	<h2><div class="category">
+  World</div>
+  <div class="field--body">
+    <p>CARBON dioxide emissions hit a record high of 32.5 billion tonnes last year, with the 1.4 per cent increase ending a three-year plateau, the Intern</p>  </div>
+</h2>
+</header>
+</a></article>
+<div class="clearfix"></div>    </div>
+</div>
+	<div class="right"><div class="panel-pane pane-views-panes pane-frontpage-views-panel-pane-4 fp-list">
+          <h2 class="pane-title">Latest stories</h2>
+              <article about="/article/parents-successfully-halt-academisation-of-east-london-primary-school" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-list node--article--teaser-list"><a href="/article/parents-successfully-halt-academisation-of-east-london-primary-school">
+<time>Thursday 22nd Mar 2018</time>
+<h1>Parents successfully halt academisation of east London primary school </h1>
+</a>
+</article>    <article about="/article/police%20insist%20kim%20jong%20nam%20murder%20trial%20can%20go%20ahead%20despite%20absence%20of%20north%20korean%20suspects" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-list node--article--teaser-list"><a href="/article/police%20insist%20kim%20jong%20nam%20murder%20trial%20can%20go%20ahead%20despite%20absence%20of%20north%20korean%20suspects">
+<time>Thursday 22nd Mar 2018</time>
+<h1>Police insist Kim Jong Nam murder trial can go ahead despite absence of North Korean suspects</h1>
+</a>
+</article>    <article about="/article/homeless-households-in-temporary-accommodation-have-soared-since-2010" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-list node--article--teaser-list"><a href="/article/homeless-households-in-temporary-accommodation-have-soared-since-2010">
+<time>Thursday 22nd Mar 2018</time>
+<h1>Homeless households in temporary accommodation have soared since 2010</h1>
+</a>
+</article>    <article about="/article/united-drag-themselves-21st-century-womens-side-says-crouch" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-list node--article--teaser-list"><a href="/article/united-drag-themselves-21st-century-womens-side-says-crouch">
+<time>Thursday 22nd Mar 2018</time>
+<h1>United ‘drag themselves into the 21st century’ with women&#039;s side, says Crouch</h1>
+</a>
+</article>    <article about="/article/liverpool%20uni%20bosses%20plan%20massive%20jobs%20cut%20to%20%E2%80%98accelerate%20improvements%20for%20students%E2%80%99" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-list node--article--teaser-list"><a href="/article/liverpool%20uni%20bosses%20plan%20massive%20jobs%20cut%20to%20%E2%80%98accelerate%20improvements%20for%20students%E2%80%99">
+<time>Thursday 22nd Mar 2018</time>
+<h1>Liverpool uni bosses plan massive jobs cut to ‘accelerate improvements for students’</h1>
+</a>
+</article>    <article about="/article/total-collapse-england-fall-58" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-list node--article--teaser-list"><a href="/article/total-collapse-england-fall-58">
+<time>Thursday 22nd Mar 2018</time>
+<h1>Total collapse as England fall for 58</h1>
+</a>
+</article>    <article about="/article/government%20called%20on%20to%20end%20inhumane%20chemical%20weapons%20tests%20on%20animals" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-list node--article--teaser-list"><a href="/article/government%20called%20on%20to%20end%20inhumane%20chemical%20weapons%20tests%20on%20animals">
+<time>Thursday 22nd Mar 2018</time>
+<h1>Government called on to end inhumane chemical weapons tests on animals </h1>
+</a>
+</article>    </div>
+</div>
+</section>
+<div class="clearfix"></div>
+<section id="most-read" class="row article">
+	<div class="panel-pane pane-views-panes pane-others-liked-panel-pane-1">
+          <h2 class="pane-title">Others liked</h2>
+          	<article about="/article/female-trade-union-official-bullied-own-picket-line-international-womens-day" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-x-small node--article--teaser-x-small"><a href="/article/female-trade-union-official-bullied-own-picket-line-international-womens-day">
+
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/teaser_x-small/public/11picturehouse_0.jpg?itok=yQYLdupo&amp;c=933f7cb0d7aa4de148491e62646c324d" alt="" /><header>
+<div class="category"><span class="cat">
+  Britain | </span><time>Tuesday 20th Mar 2018</time></div>
+<h1>Female trade union official ‘bullied off own union’s picket line on International Women’s Day’</h1>
+</header>
+</a>
+<div class="clearfix"></div></article>	<article about="/article/why-luke-akehurst-wrong-sneer-communists" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-x-small node--article--teaser-x-small"><a href="/article/why-luke-akehurst-wrong-sneer-communists">
+
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/teaser_x-small/public/PA-1039467.jpg?itok=We--EbrY&amp;c=ab2d2fe7f3dcf294cea0b87fdcbc67f0" alt="" /><header>
+<div class="category"><span class="cat">
+  Features | </span><time>Wednesday 21st Mar 2018</time></div>
+<h1>Why Luke Akehurst is wrong to sneer at communists</h1>
+</header>
+</a>
+<div class="clearfix"></div></article>	<article about="/article/salisbury-skripal-and-novichok-local-view" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-x-small node--article--teaser-x-small"><a href="/article/salisbury-skripal-and-novichok-local-view">
+
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/teaser_x-small/public/PA-35508659%20%281%29.jpg?itok=CtDGUmtX&amp;c=f5bab86f0b02074ee07e097559ca5f7e" alt="" /><header>
+<div class="category"><span class="cat">
+  Features | </span><time>Monday 19th Mar 2018</time></div>
+<h1>Salisbury, Skripal and novichok — a local view</h1>
+</header>
+</a>
+<div class="clearfix"></div></article>	<article about="/article/university-of-london-seals-protesting-students-into-a-room" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node--teaser-x-small node--article--teaser-x-small"><a href="/article/university-of-london-seals-protesting-students-into-a-room">
+
+      <img typeof="foaf:Image" src="https://morningstaronline.co.uk/sites/default/files/styles/teaser_x-small/public/Screen%20Shot%202018-03-21%20at%2018.25.44.png?itok=ADDrZeUX&amp;c=a44292c10bb72ca5067c920eadcfc4fd" alt="" /><header>
+<div class="category"><span class="cat">
+  Britain | </span><time>Wednesday 21st Mar 2018</time></div>
+<h1>
+  <span class="field--trumpet">
+    Student Occupation   </span>
+ University of London seals protesting students into a room</h1>
+</header>
+</a>
+<div class="clearfix"></div></article>    </div>
+</section>
+<div class="clearfix"></div>
+<section class="row regular seventh">
+	<div class="left">
+		<div class="panel-pane pane-node">
+            <div class="ff-wrapper">
+	<div class="ff-left">
+		<img src="/sites/all/themes/custom/morningstar_online/logo.svg" />
+		
+  <h3>OWNED BY OUR READERS</h3>
+<p>We're a reader-owned co-operative, which means you can become part of the paper too by buying shares in the People’s Press Printing Society.</p>
+		<a href="/page/support-us" class="ff-donate">Become a supporter</a>
+	</div>
+	<div class="ff-right">
+		<div class="ff-header">
+			<img src="/sites/all/themes/custom/morningstar_online/images/ff-logo.png" />
+			<h3>Fighting fund</h3>
+		</div>
+		<div class="raised"><span>You've Raised:</span><span class="digit yellow">£
+  12,031</span></div>
+		<div class="needed"><span>We need:</span><span class="digit">£
+  5,969</span></div>
+		<div class="remaining">
+  9 Days remaining</div>
+		<a href="/page/support-us" class="ff-donate">Donate today</a>
+	</div>
+</div>
+    </div>
+	</div>
+	<div class="right">
+		<div class="panel-pane pane-custom pane-1">
+            <div class="twitter"><a class="twitter-timeline" data-height="509" data-chrome="nofooter" data-link-color="#ca422c" href="https://twitter.com/m_star_online">Tweets by Morning Star</a> 
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+    </div>
+	</div>
+	<div class="clearfix"></div>
+</section>
+<div class="clearfix"></div></div>
+<div class="clearfix"></div>
+<footer id="footer">
+	<div class="first"><div class="panel-pane pane-block pane-system-main-menu">
+            <ul class="menu"><li class="first leaf"><a href="/categories/britain" title="Britain">Britain</a></li>
+<li class="leaf"><a href="/categories/world" title="World">World</a></li>
+<li class="leaf"><a href="/categories/features" title="Features">Features</a></li>
+<li class="leaf"><a href="/categories/editorial" title="Editorial">Editorial</a></li>
+<li class="leaf"><a href="/categories/arts" title="Culture">Culture</a></li>
+<li class="leaf"><a href="/categories/sport" title="Sport">Sport</a></li>
+<li class="leaf"><div class="menu-attach-block-wrapper">
+	<div id="block-views-editorial-in-menu-block" class="block block--views block--views-editorial-in-menu-block">
+        <h2 class="block__title">LATEST EDITORIAL</h2>
+      <div class="block__content">
+      
+          <a href="/article/french-workers-know-the-eu-is-no-friend-of-theirs" class="menu-editorial"> French workers know the EU is no friend of theirs</a>    </div>
+</div>
+</div>
+</li>
+<li class="last leaf" id="backtotop"><span class="nolink">BACK TO TOP</span></li>
+</ul>    </div>
+</div>
+	<div class="second"><div class="inner"><div class="panel-pane pane-custom pane-3 ppps-support">
+            <table><tr><td><img src="/sites/all/themes/custom/morningstar_online/images/logo_mark.svg" /></td>
+<td>
+<h3>Owned by Our Readers</h3>
+<p> We're a reader-owned co-operative, which means you can become part of the paper too by buying shares in the People’s Press Printing Society.</p></td>
+<td><a href="#" class="support">BECOME A SUPPORTER</a></td>
+</tr></table>    </div>
+<div class="panel-pane pane-block pane-menu-menu-terms-and-conditions">
+            <ul class="menu"><li class="first leaf"><a href="/page/privacy-policy">Privacy policy</a></li>
+<li class="leaf"><a href="/page/returns-policy">Returns policy</a></li>
+<li class="last leaf"><a href="/page/terms-use">Terms of use</a></li>
+</ul>    </div>
+</div></div>
+	<div class="third"></div>
+	<div class="fourth"></div>
+</footer>  <script src="https://morningstaronline.co.uk/sites/default/files/js/js_xP6nhYqI4mUV2mtfn6g5CLZxc3FtIIjGBp6vKXz-wYA.js"></script>
+<script>jQuery.post(Drupal.settings.basePath + 'jstats.php', {"path":"node\/48341","nid":"48341"});</script>
+<script src="https://morningstaronline.co.uk/sites/default/files/js/js_huA0j38fOAiYCkbRqv1_rK36yGsztevwTMGvvZguXn8.js"></script>
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-58ac43298dec22f7"></script>
+  <script src="/sites/all/themes/custom/morningstar_online/js/js_cookie.js"></script>
+  <div class="query"></div>
+  <!--<div id="newsletter-pop"><div class="inner"><div class="text"><h3>Sign up for our newsletter</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div><div class="cta"><a href="#">Subscribe now</a></div><button id="nl-close">x</button></div></div>
+  <script>
+    jQuery(document).ready(function() {
+      if (Cookies.get('newsletter') == 'dismissed') {
+        jQuery('#newsletter-pop').hide();
+      }
+
+      jQuery('#nl-close').click(function() {
+          jQuery('#newsletter-pop').hide();
+          Cookies.set('newsletter', 'dismissed', {expires: 7 });
+          return false;
+      });
+
+      if (jQuery('#sliding-popup').length) {
+          jQuery("#newsletter-pop").css({'bottom':(jQuery("#sliding-popup").height()+'px')});
+      } else {
+        jQuery("#newsletter-pop").addClass('noeu');
+      }
+
+      jQuery(window).scroll(function () {
+         if (jQuery(window).scrollTop() >= jQuery(document).height() - jQuery(window).height() - 300) {
+            jQuery('#newsletter-pop').addClass('bottom');
+         } else {
+            jQuery('#newsletter-pop').removeClass('bottom');
+         }
+      });
+      jQuery('#sliding-popup .agree-button').click(function() {
+        jQuery("#newsletter-pop").css('bottom', '0');
+        jQuery("#newsletter-pop").addClass('noeu');
+      })
+    });
+  </script>-->
+  <script src="/sites/all/themes/custom/morningstar_online/js/custom.js"></script>
+</body>
+</html>

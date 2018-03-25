@@ -1,0 +1,339 @@
+<!doctype html>
+<!--[if IE 8]><html class="no-js ie8" lang="en-GB" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-GB" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+
+	<script>
+		document.documentElement.classList.add('js');
+	</script>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="theme-color" content="#3D125A">
+	<link rel="icon" sizes="1024x1024" href="https://www.channel4.com/news/wp-content/themes/channel-4-news/img/icon.png">
+	<link rel="apple-touch-icon" href="https://www.channel4.com/news/wp-content/themes/channel-4-news/img/icon.png">
+	<link rel="manifest" href="https://www.channel4.com/news/manifest.json">
+
+	<title>Exposed: Undercover secrets of Trump’s data firm &#8211; Channel 4 News</title>
+<link rel='stylesheet' id='channel-4-news-css'  href='https://www.channel4.com/news/wp-content/themes/channel-4-news/css/style.min.css?ver=1.4.0' media='all' />
+<script>var dataLayer = dataLayer || [];dataLayer.push({"page_type":"News article","publish_date":"2018-03-20"});(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl+ '&gtm_auth=gVj0dkLoQjBVyoP0rQtG3Q&gtm_preview=env-2&gtm_cookies_win=x';f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-55GBHSC');</script>
+<meta name="twitter:site" content="@Channel4News">
+<meta name="twitter:domain" content="channel4.com">
+<meta property="og:site_name" content="Channel 4 News" />
+<link rel="canonical" href="https://www.channel4.com/news/exposed-undercover-secrets-of-donald-trump-data-firm-cambridge-analytica" />
+<meta property="og:title" content="Exposed: Undercover secrets of Trump’s data firm" />
+<meta name="description" content="An investigation by Channel 4 News has revealed how Cambridge Analytica claims it ran ‘all’ of President Trump’s digital campaign - and may have broken election law. As the report went on air, the firm announced it has suspended chief executive Alexander Nix, pending a full investigation.
+" />
+<meta name="twitter:description" content="An investigation by Channel 4 News has revealed how Cambridge Analytica claims it ran ‘all’ of President Trump’s digital campaign - and may have broken election law. As the report went on air, the firm announced it has suspended chief executive Alexander Nix, pending a full investigation.
+" />
+<meta name="news_keywords" content="Cambridge Analytica, Donald Trump, Facebook, Hillary Clinton, US Election 2016"/>
+<meta name="publishDate" content="2018-03-20"/>
+<meta property="og:type" content="article" />
+<meta property="article:publisher" content="https://facebook.com/Channel4News" />
+<meta name="twitter:card" content="summary_large_image">
+<meta property="og:image" content="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/CA-USA-thumbnail-1920x1080.png"/>
+<meta property="og:image:width" content="1920"/>
+<meta property="og:image:height" content="1080"/>
+<meta name="twitter:image:src" content="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/CA-USA-thumbnail-1920x1080.png">
+
+</head>
+
+<body class="single c4news">
+
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-55GBHSC&gtm_auth=gVj0dkLoQjBVyoP0rQtG3Q&gtm_preview=env-2&gtm_cookies_win=x"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<div id="skipLinks">
+		<ul>
+			<li><a href="#site-body">Skip to main news content</a></li>
+			<li><a href="#search-field">Skip to news search</a></li>
+			<li><a href="#navContainer">Skip to news navigation</a></li>
+			<li><a href="#network-header">Skip to All 4 navigation</a></li>
+		</ul>
+	</div>
+
+	<div id="network-header">
+		<div class="inner">
+			<div id="globalnav-header"></div>
+		</div>
+	</div>
+
+	<div id="site-wrapper">
+
+		<header id="site-masthead" class="receptacle site-masthead">
+			<div class="inner">
+				<div class="section">
+										<a class="site-brand" href="https://www.channel4.com/news/">
+						<svg width="622" height="191" viewBox="0 0 622 191" version="1.1" preserveAspectRatio="xMinYMin meet">
+							<title>Channel 4 News</title>
+					    <g>
+			            <path class="keyline" d="M612,0 L10,0 L0,0 L0,191 L622,191 L622,0 L612,0 L612,0 Z M10,10 L180,10 L180,180 L10,180 L10,10 L10,10 Z M612,180 L191,180 L191,10 L612,10 L612,180 L612,180 Z"></path>
+			            <path class="text" d="M312,48 L312,142 L299,142 L250,71 L250,142 L236,142 L236,48 L249,48 L298,118 L298,48 L312,48 L312,48 Z M397,112 L345,112 C346.630154,122.26506 353.31017,130.585601 366,131 C374.152381,130.585601 381.101121,127.81407 386,121 L395,128 C389.65118,137.719618 379.230075,143 366,143 C343.82559,143 331,127.021071 331,108 C331,88.5854032 344.091307,73 364,73 C384.974568,73 397,88.5854032 397,106 C397,108.662154 396.86664,110.245178 397,112 L397,112 Z M382,102 C381.337153,92.5695104 374.574322,85 364,85 C352.95715,85 346.592425,92.0362357 345,102 L382,102 L382,102 L382,102 Z M502,75 L481,142 L467,142 L454,95 L440,142 L427,142 L405,75 L420,75 L434,126 L448,75 L460,75 L474,126 L488,75 L502,75 L502,75 Z M512,129 L520,121 C525.999752,128.28421 534.189652,130.934843 542,131 C548.321243,130.934843 554.13407,128.28421 554,123 C554.13407,119.139326 551.358505,116.752363 544,115 L534,113 C522.43216,109.990462 514.507921,104.420551 515,93 C514.507921,81.0882123 525.075886,73 540,73 C552.017701,73 561.26529,76.8475971 567,84 L559,92 C554.263927,87.7197703 547.922751,84.9318295 540,85 C532.999133,84.9318295 528.375834,87.9834406 528,93 C528.375834,96.864654 530.621068,98.8546189 538,101 L550,103 C561.790664,106.14585 568,111.980427 568,122 C568,135.576436 556.641,143 542,143 C530.886729,143 518.603862,139.02405 512,129 L512,129 Z M64,101 L84,77 L84,61 L51,101 L64,101 L64,101 Z M101,101 L101,42 L91,54 L91,101 L101,101 L101,101 Z M107,49 L116,38 L108,32 L107,33 L107,49 L107,49 Z M100,108 L47,108 L47,117 L100,117 L100,108 L100,108 Z M117,142 L117,47 L107,59 L107,142 L117,142 L117,142 Z M142,108 L124,108 L124,117 L142,117 L142,108 L142,108 Z M101,124 L91,124 L91,159 L101,159 L101,124 L101,124 Z M133,149 L107,149 L107,159 L133,159 L133,149 L133,149 Z M84,149 L75,149 L75,159 L84,159 L84,149 L84,149 Z"></path>
+			        </g>
+						</svg>
+					</a>
+
+					
+					
+						<dl class="tv-times">
+						<dt>Next on TV</dt>
+						<dd>
+													Tonight 7.00pm												</dd>
+						</dl>
+						
+					<a href="#" id="mobile-explore" title="expand menu">
+						<svg class="icon" width="48" height="48" viewBox="0 0 48 48" ><path d="M33.57 19.021l2.93 2.93-12.5 12.5-12.5-12.5 2.93-2.93 9.57 9.57z" /></svg>						Menu
+					</a>
+
+					<ul class="block-nav">
+												<li class="weather">
+							<a href="https://www.channel4.com/weather">
+								<svg class="icon" width="48" height="48" viewBox="0 0 48 48" ><g transform="translate(8 8)"><ellipse cx="16.25" cy="16.5" rx="7" ry="7"/><rect x="15.25" width="2" height="7" rx="1"/><rect transform="rotate(90 28.75 16.5)" x="27.75" y="13" width="2" height="7" rx="1"/><rect transform="rotate(90 4 16.5)" x="3" y="13" width="2" height="7" rx="1"/><rect x="15.25" y="26" width="2" height="7" rx="1"/><rect transform="rotate(45 25 7.5)" x="24" y="4" width="2" height="7" rx="1"/><rect transform="rotate(135 25 25.5)" x="24" y="22" width="2" height="7" rx="1"/><rect transform="rotate(135 7 7.5)" x="6" y="4" width="2" height="7" rx="1"/><rect transform="rotate(45 7 25.5)" x="6" y="22" width="2" height="7" rx="1"/></g></svg>								<span>Weather</span>
+								<p>The forecast for the next 5 days</p>
+							</a>
+						</li>
+												<li class="catchup">
+							<a href="https://www.channel4.com/news/catch-up">
+								<svg class="icon" width="48" height="48" viewBox="0 0 48 48" ><path d="M30.969 23.367l-11.354 6.477v-13.031l11.354 6.553zm8.154 9.754v-19.508h-29.262v19.508h29.262zm0-22.785c.864 0 1.626.318 2.286.953.66.635.991 1.41.991 2.324l-.076 19.508c0 .889-.311 1.645-.933 2.267-.622.622-1.378.933-2.267.933h-8.154v3.277h-12.955v-3.277h-8.154c-.914 0-1.689-.311-2.324-.933-.635-.622-.953-1.378-.953-2.267v-19.508c0-.914.318-1.689.953-2.324.635-.635 1.41-.953 2.324-.953h29.262z" /></svg>								<span>Programmes</span>
+								<p>Catch up on TV&nbsp;bulletins</p>
+							</a>
+						</li>
+						<li class="snowmail">
+							<a href="https://www.channel4.com/news/snowmail">
+								<svg class="icon" width="48" height="48" viewBox="0 0 48 48" ><path d="M24.429 22.469l13.03-8.153h-26.059m26.059 19.506v-16.23l-13.03 8.077-13.03-8.077v16.23h26.059zm0-22.783c.864 0 1.613.33 2.248.991.635.66.952 1.422.952 2.286v19.506c0 .889-.311 1.657-.933 2.305-.622.648-1.378.971-2.267.971h-26.059c-.864 0-1.613-.324-2.248-.971-.635-.648-.952-1.416-.952-2.305v-19.506c0-.864.311-1.626.933-2.286.622-.66 1.378-.991 2.267-.991" /></svg>								<span>Snowmail</span>
+								<p>Delivered daily to your inbox</p>
+							</a>
+						</li>
+					</ul>
+
+					<div class="search-nav">
+						<svg class="icon" width="48" height="48" viewBox="0 0 30 30" ><path d="M10.859 18.68c2.057 0 3.822-.729 5.293-2.188 1.471-1.458 2.207-3.229 2.207-5.313 0-2.057-.729-3.822-2.188-5.293-1.458-1.471-3.229-2.207-5.313-2.207-2.057 0-3.822.736-5.293 2.207-1.471 1.471-2.207 3.236-2.207 5.293 0 2.083.729 3.854 2.188 5.313 1.458 1.458 3.229 2.188 5.313 2.188zm10 0l8.281 8.281-2.5 2.5-8.281-8.281v-1.328l-.469-.469c-.938.833-2.012 1.471-3.223 1.914-1.211.443-2.48.664-3.809.664-1.51 0-2.923-.28-4.238-.84-1.315-.56-2.461-1.322-3.438-2.285-.977-.964-1.751-2.103-2.324-3.418s-.859-2.728-.859-4.238c0-1.484.286-2.891.859-4.219.573-1.328 1.348-2.48 2.324-3.457.977-.977 2.122-1.751 3.438-2.324 1.315-.573 2.728-.859 4.238-.859 1.51 0 2.917.286 4.219.859 1.302.573 2.441 1.348 3.418 2.324.977.977 1.745 2.129 2.305 3.457.56 1.328.84 2.734.84 4.219 0 1.328-.221 2.598-.664 3.809-.443 1.211-1.081 2.285-1.914 3.223l.469.469h1.328z" /></svg>						<form id="searchform" method="get" action="https://www.channel4.com/news/">
+							<input type="search" name="s" id="search-field" class="search" placeholder="Search Channel 4 News" spellcheck="false" aria-label="Search Channel 4 News">
+						</form>
+					</div>
+
+				</div>
+
+
+			</div>
+
+		<div class="category-navigation">
+			<ul>
+				<li class="menu-item current-post-ancestor current-menu-parent current-post-parent"><a title="UK news" href="https://www.channel4.com/news/uk">UK</a></li>
+<li class="menu-item current-post-ancestor current-menu-parent current-post-parent"><a title="World news" href="https://www.channel4.com/news/world">World</a></li>
+<li class="menu-item current-post-ancestor current-menu-parent current-post-parent"><a title="Politics news" href="https://www.channel4.com/news/politics">Politics</a></li>
+<li class="menu-item"><a title="Business news" href="https://www.channel4.com/news/business">Business</a></li>
+<li class="menu-item"><a title="Science news" href="https://www.channel4.com/news/science">Science</a></li>
+<li class="menu-item"><a href="https://www.channel4.com/news/culture">Culture</a></li>
+<li class="menu-item current-post-ancestor current-menu-parent current-post-parent"><a title="Tech news" href="https://www.channel4.com/news/technology">Tech</a></li>
+<li class="menu-item"><a href="https://www.channel4.com/news/factcheck">FactCheck</a></li>
+<li class="menu-item"><a title="News team" href="https://www.channel4.com/news/team">Team</a></li>
+				<li class="search">
+					<a class="item" href="/search" id="search-toggle" aria-label="Search Channel 4 News">
+						<svg class="icon" width="48" height="48" viewBox="0 0 30 30" ><path d="M10.859 18.68c2.057 0 3.822-.729 5.293-2.188 1.471-1.458 2.207-3.229 2.207-5.313 0-2.057-.729-3.822-2.188-5.293-1.458-1.471-3.229-2.207-5.313-2.207-2.057 0-3.822.736-5.293 2.207-1.471 1.471-2.207 3.236-2.207 5.293 0 2.083.729 3.854 2.188 5.313 1.458 1.458 3.229 2.188 5.313 2.188zm10 0l8.281 8.281-2.5 2.5-8.281-8.281v-1.328l-.469-.469c-.938.833-2.012 1.471-3.223 1.914-1.211.443-2.48.664-3.809.664-1.51 0-2.923-.28-4.238-.84-1.315-.56-2.461-1.322-3.438-2.285-.977-.964-1.751-2.103-2.324-3.418s-.859-2.728-.859-4.238c0-1.484.286-2.891.859-4.219.573-1.328 1.348-2.48 2.324-3.457.977-.977 2.122-1.751 3.438-2.324 1.315-.573 2.728-.859 4.238-.859 1.51 0 2.917.286 4.219.859 1.302.573 2.441 1.348 3.418 2.324.977.977 1.745 2.129 2.305 3.457.56 1.328.84 2.734.84 4.219 0 1.328-.221 2.598-.664 3.809-.443 1.211-1.081 2.285-1.914 3.223l.469.469h1.328z" /></svg>					</a>
+				</li>
+			</ul>
+		</div>
+	</header>
+
+
+ <div id="site-body" class="receptacle body layout-wrapper layout-article">
+   <div class="inner">
+     <div class="section has-sidebar">
+
+       		<div class="primary">
+            						
+						<div class="article">
+
+	            						  <div class="article-header">
+							<div class="meta">
+							  <span class="meta-item pubDateTime" data-time="20 Mar 2018">
+								20 Mar 2018							  </span>
+							</div>
+
+							<h1>Exposed: Undercover secrets of Trump’s data firm</h1>
+
+							
+							
+													  <p class="synopsis">An investigation by Channel 4 News has revealed how Cambridge Analytica claims it ran ‘all’ of President Trump’s digital campaign &#8211; and may have broken election law. As the report went on air, the firm announced it has suspended chief executive Alexander Nix, pending a full investigation.
+</p>
+						  
+						  </div>
+
+							<ul class="social-buttons">
+	<li>
+		<a class="social-button fb pop" href="https://www.facebook.com/dialog/share?app_id=639210659540393&#038;display=popup&#038;href=https%3A%2F%2Fwww.channel4.com%2Fnews%2Fexposed-undercover-secrets-of-donald-trump-data-firm-cambridge-analytica&#038;redirect_uri=https://www.channel4.com/news/?p=276004">
+			<svg class="icon" width="15" height="28" viewBox="0 0 15 28" aria-labelledby="i-5ab1ce4841f3d"><title id="i-5ab1ce4841f3d">Share on Facebook</title><path d="M14.397 5.269h-2.515c-.913 0-1.528.186-1.844.559-.317.391-.475.969-.475 1.732v3.018h4.666l-.615 4.722h-4.052v12.127h-4.89v-12.127h-4.08v-4.722h4.08v-3.465c0-1.993.55-3.53 1.649-4.611 1.118-1.099 2.599-1.649 4.443-1.649 1.565 0 2.776.065 3.633.196v4.219z" /></svg>		</a>	
+	</li>
+	<li>
+		<a class="social-button tw" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.channel4.com%2Fnews%2Fexposed-undercover-secrets-of-donald-trump-data-firm-cambridge-analytica&#038;text=Exposed%3A+Undercover+secrets+of+Trump%E2%80%99s+data+firm&#038;via=Channel4News&#038;related=Channel4News">
+			<svg class="icon" width="29" height="24" viewBox="0 0 29 24" aria-labelledby="i-5ab1ce4842052"><title id="i-5ab1ce4842052">Share on Twitter</title><path d="M26.031 6.563c.021.167.031.417.031.75 0 1.542-.229 3.083-.688 4.625-.458 1.542-1.146 3.021-2.063 4.438-.917 1.417-2.01 2.667-3.281 3.75-1.292 1.104-2.833 1.979-4.625 2.625-1.792.646-3.708.969-5.75.969-3.229 0-6.187-.865-8.875-2.594.417.042.885.063 1.406.063 2.667 0 5.052-.823 7.156-2.469-1.25-.021-2.375-.396-3.375-1.125-.979-.75-1.656-1.708-2.031-2.875.396.063.76.094 1.094.094.521 0 1.031-.062 1.531-.188-1.333-.271-2.437-.937-3.313-2-.875-1.042-1.313-2.26-1.313-3.656.813.375 1.677.615 2.594.656-.792-.521-1.417-1.208-1.875-2.063-.458-.833-.688-1.75-.688-2.75 0-1.042.26-2.01.781-2.906 1.438 1.771 3.187 3.187 5.25 4.25 2.063 1.083 4.281 1.677 6.656 1.781-.104-.438-.156-.875-.156-1.313 0-1.604.562-2.969 1.688-4.094 1.125-1.125 2.49-1.688 4.094-1.688 1.667 0 3.062.615 4.188 1.844 1.313-.25 2.542-.719 3.688-1.406-.458 1.375-1.312 2.437-2.563 3.188 1.125-.125 2.24-.427 3.344-.906-.813 1.167-1.781 2.167-2.906 3z" /></svg>		</a>	
+	</li>
+</ul>
+
+						  <div class="article-main">
+							<iframe width="970" height="546" src="https://www.youtube.com/embed/cy-9iciNF1A?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p>An undercover investigation by Channel 4 News has revealed how Cambridge Analytica claims it ran key parts of the presidential campaign for Donald Trump.</p>
+<p>The British data company was secretly filmed discussing coordination between Trump’s campaign and outside groups – an activity which is potentially illegal.</p>
+<p>Executives claimed they &#8220;ran all the digital campaign, the television campaign and our data informed all the strategy&#8221; for President Trump.</p>
+<p>In the third part of a Channel 4 News investigation into Cambridge Analytica, bosses also talked about:</p>
+<ul>
+<li>The full scale of their pivotal work in Trump’s election win</li>
+<li>How they avoid Congressional investigations into their foreign clients</li>
+<li>Setting up proxy organisations to feed untraceable messages onto social media</li>
+<li>Using a secret email system where messages self-destruct and leave no trace</li>
+<li>Cambridge Analytica’s involvement in the &#8220;Defeat Crooked Hilary&#8221; brand of attack ads</li>
+</ul>
+<p>In a series of meetings filmed at London hotels over four months, between November 2017 and January 2018 an undercover reporter for Channel 4 News posed as a fixer for a wealthy client hoping to get candidates elected in Sri Lanka.</p>
+<p>UPDATE: Cambridge Analytica have announced they have suspended chief executive Alexander Nix pending a full investigation. They said: &#8220;In the view of the board Mr Nix&#8217;s recent comments secretly recorded by Channel 4 News do not represent the values or operations of the firm.&#8221;</p>
+<h2>&#8216;We ran all the digital campaign&#8217;</h2>
+<p>The company says their work with data and research allowed Mr Trump to win with a narrow margin of “40,000 votes” in three states providing victory in the electoral college system, despite losing the popular vote by more than 3 million votes.</p>
+<p>The election was plagued by allegations of fake news and smears on social media, along with the alleged attempt by Russia to influence the outcome.</p>
+<p>Mr Nix boasted about Cambridge Analytica’s work for Trump, saying: &#8220;We did all the research, all the data, all the analytics, all the targeting, we ran all the digital campaign, the television campaign and our data informed all the strategy.&#8221;</p>
+<p>Separately, Mr Turnbull described how the company could create proxy organisations to discreetly feed negative material about opposition candidates on to the Internet and social media.</p>
+<p>He said: &#8220;Sometimes you can use proxy organisations who are already there. You feed them. They are civil society organisations.. Charities or activist groups, and we use them – feed them the material and they do the work…</p>
+<p>&#8220;We just put information into the bloodstream to the internet and then watch it grow, give it a little push every now and again over time to watch it take shape. And so this stuff infiltrates the online community and expands but with no branding – so it’s unattributable, untrackable.&#8221;</p>
+<p>Cambridge Analytica’s senior executives were also filmed discussing a twin-track strategy to campaigning, putting out positive messages through the official Donald J Trump for President campaign, while negative material was pushed out through outside organisations.</p>
+<p>Cambridge Analytica’s chief data scientist Dr Tayler said: &#8220;As part of it, sometimes you have to separate it from the political campaign itself. So in America you know there  are independent expenditure groups running behind the campaign… Super pacs. Political action committees.</p>
+<p>&#8220;So, campaigns are normally subject to limits about how much money they can raise.  Whereas outside groups can raise an unlimited amount. So the campaign will use their finite resources for things like persuasion and mobilisation and then they leave the ‘air war’ they call it, like the negative attack ads to other affiliated groups.&#8221;</p>
+<p>In a different meeting, Mr Turnbull described how the company created the &#8220;Defeat Crooked Hilary&#8221; brand of attack ads, that were funded by the Make America Number 1 super-PAC and watched more than 30 million times during the campaign.</p>
+<p>Coordination between an official election campaign and any outside groups is illegal under US election law. Cambridge Analytica deny wrongdoing, insisting a strict firewall separated out their activity and that they were transparent about their work on political campaigns and PACs.</p>
+<h2>&#8216;No paper trail&#8217;</h2>
+<p>In one exchange Alexander Nix revealed the company used a secret self-destructing email system that leaves no trace. He said: &#8220;No-one knows we have it, and secondly we set our… emails with a self-destruct timer… So you send them and after they’ve been read, two hours later, they disappear. There’s no evidence, there’s no paper trail, there’s nothing.&#8221;</p>
+<p>Mr Nix also belittled representatives on the House Intelligence Committee to whom he gave evidence in 2017. He claims Republican members asked just three questions. &#8220;After five minutes – done.&#8221;</p>
+<p>&#8220;They’re politicians, they’re not technical. They don’t understand how it works,&#8221; he said.</p>
+<p>Mr Nix further claimed that Democrats on the Committee are motivated by &#8220;sour grapes&#8221;.</p>
+<p>He said: &#8220;They don’t understand because the candidate never, is never involved. He’s told what to do by the campaign team.&#8221;</p>
+<p>&#8220;So the candidate is the puppet?,&#8221; the undercover reporter asked.</p>
+<p>&#8220;Always,&#8221; replied Mr Nix.</p>
+<p>He added that his firm could avoid any US investigation into its foreign clients. &#8220;I’m absolutely convinced that they have no jurisdiction…,&#8221; he said. &#8220;We’ll say none of your business.&#8221;</p>
+<p>The meetings involved Mr Nix, along with Mark Turnbull, Managing Director Political Global, and Dr Alex Tayler, the company’s chief data scientist.</p>
+<h2>&#8216;Very disturbing&#8217;</h2>
+<p>Defeated presidential candidate Hillary Clinton has told Channel 4 News how she faced a &#8220;massive propaganda effort&#8221; during the election &#8211; and questioned if Cambridge Analytica helped the Russians in their alleged attempt to influence the election outcome.</p>
+<p>In an exclusive interview filmed in October 2017 to promote her book, she said: &#8220;There was a new kind of campaign that was being run on the other side &#8211; that nobody had ever faced before. Because it wasn’t just all about me. It was about how to suppress voters who were inclined to vote for me.</p>
+<p>&#8220;When you have a massive propaganda effort to prevent people from thinking straight, because they’re being flooded with false information and you have people who are searching.. trying to make sense of it. But every search engine, every site they go into is repeating these fabrications. Then yes It affected the thought processes of voters.&#8221;</p>
+<p>The former candidate also questioned whether Cambridge Analytica were involved in the Russia’s alleged attempt to influence the election, calling the possibility &#8220;very disturbing&#8221;.</p>
+<p>Cambridge Analytica strongly deny any involvement and say any such allegation is false.</p>
+<p>Clinton said: &#8220;So you’ve got CA, you’ve got the Republican National Committee which of course has always done data collection and analysis and you’ve got the Russians. And the real question is how did the Russians know how to target their messages so precisely to undecided voters in Wisconsin or Michigan or Pennsylvania – that is really the nub of the question.</p>
+<p>&#8220;So if they were getting advice from say Cambridge Analytica or someone else about OK here are the 12 voters in this town in Wisconsin – that’s whose Facebook pages you need to be on to send these messages that indeed would be very disturbing.&#8221;</p>
+<h2>&#8216;Absurd&#8217; allegations</h2>
+<p>Tonight, a Cambridge Analytica spokesman said: &#8220;CA has never claimed it won the election for President Trump. This is patently absurd. We are proud of the work we did on that campaign, and have spoken in many public forums about what we consider to be our contribution to the campaign.&#8221;</p>
+<p>On campaign finance violations, the firm said: &#8220;Cambridge Analytica has been completely transparent about our simultaneous work on both political campaigns and political action committees (including publicly declaring our work on both with FEC filings). We have strict firewall practises to ensure no coordination between regulated groups, including the teams working on non-coordinated campaigns being physically separated, using different servers and being banned from communicating with each other.&#8221;</p>
+<p>On Russia investigation: &#8220;As one of the companies that played a prominent role in the 2016 election campaign, Cambridge Analytica is committed to supporting and assisting the House Intelligence Committee investigation into Russian interference in the election in any way that we can. CA is not under investigation, and there is no suggestion of any wrongdoing by the company. They deny any involvement in the alleged Russian attempts and say such an allegation is entirely false.&#8221;</p>
+<p>And on ProtonMail, Cambridge Analytica said: &#8220;It’s common practice to use encrypted communications. We take information security with the utmost seriousness, and for high profile clients using maintain stream email providers simply doesn’t provide a suitable level of security.&#8221;</p>
+						  </div>
+
+							<ul class="social-buttons">
+	<li>
+		<a class="social-button fb pop" href="https://www.facebook.com/dialog/share?app_id=639210659540393&#038;display=popup&#038;href=https%3A%2F%2Fwww.channel4.com%2Fnews%2Fexposed-undercover-secrets-of-donald-trump-data-firm-cambridge-analytica&#038;redirect_uri=https://www.channel4.com/news/?p=276004">
+			<svg class="icon" width="15" height="28" viewBox="0 0 15 28" aria-labelledby="i-5ab1ce48428ad"><title id="i-5ab1ce48428ad">Share on Facebook</title><path d="M14.397 5.269h-2.515c-.913 0-1.528.186-1.844.559-.317.391-.475.969-.475 1.732v3.018h4.666l-.615 4.722h-4.052v12.127h-4.89v-12.127h-4.08v-4.722h4.08v-3.465c0-1.993.55-3.53 1.649-4.611 1.118-1.099 2.599-1.649 4.443-1.649 1.565 0 2.776.065 3.633.196v4.219z" /></svg>		</a>	
+	</li>
+	<li>
+		<a class="social-button tw" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.channel4.com%2Fnews%2Fexposed-undercover-secrets-of-donald-trump-data-firm-cambridge-analytica&#038;text=Exposed%3A+Undercover+secrets+of+Trump%E2%80%99s+data+firm&#038;via=Channel4News&#038;related=Channel4News">
+			<svg class="icon" width="29" height="24" viewBox="0 0 29 24" aria-labelledby="i-5ab1ce4842a1c"><title id="i-5ab1ce4842a1c">Share on Twitter</title><path d="M26.031 6.563c.021.167.031.417.031.75 0 1.542-.229 3.083-.688 4.625-.458 1.542-1.146 3.021-2.063 4.438-.917 1.417-2.01 2.667-3.281 3.75-1.292 1.104-2.833 1.979-4.625 2.625-1.792.646-3.708.969-5.75.969-3.229 0-6.187-.865-8.875-2.594.417.042.885.063 1.406.063 2.667 0 5.052-.823 7.156-2.469-1.25-.021-2.375-.396-3.375-1.125-.979-.75-1.656-1.708-2.031-2.875.396.063.76.094 1.094.094.521 0 1.031-.062 1.531-.188-1.333-.271-2.437-.937-3.313-2-.875-1.042-1.313-2.26-1.313-3.656.813.375 1.677.615 2.594.656-.792-.521-1.417-1.208-1.875-2.063-.458-.833-.688-1.75-.688-2.75 0-1.042.26-2.01.781-2.906 1.438 1.771 3.187 3.187 5.25 4.25 2.063 1.083 4.281 1.677 6.656 1.781-.104-.438-.156-.875-.156-1.313 0-1.604.562-2.969 1.688-4.094 1.125-1.125 2.49-1.688 4.094-1.688 1.667 0 3.062.615 4.188 1.844 1.313-.25 2.542-.719 3.688-1.406-.458 1.375-1.312 2.437-2.563 3.188 1.125-.125 2.24-.427 3.344-.906-.813 1.167-1.781 2.167-2.906 3z" /></svg>		</a>	
+	</li>
+</ul>														<div class="tag-list">
+	<h2 class="heading">Topics</h2>
+	<a href="https://www.channel4.com/news/politics" rel="tag">Politics</a>,<a href="https://www.channel4.com/news/technology" rel="tag">Technology</a>,<a href="https://www.channel4.com/news/uk" rel="tag">UK</a>,<a href="https://www.channel4.com/news/world/united-states" rel="tag">United States</a>,<a href="https://www.channel4.com/news/world" rel="tag">World</a>,
+	<a href="https://www.channel4.com/news/topic/cambridge-analytica" rel="tag">Cambridge Analytica</a>, <a href="https://www.channel4.com/news/topic/donald-trump" rel="tag">Donald Trump</a>, <a href="https://www.channel4.com/news/topic/facebook" rel="tag">Facebook</a>, <a href="https://www.channel4.com/news/topic/hillary-clinton" rel="tag">Hillary Clinton</a>, <a href="https://www.channel4.com/news/topic/us-election-2016" rel="tag">US Election 2016</a></div>
+						</div>
+						
+											  </div>
+
+          					 <div class="secondary">
+					   <ul>
+							<li class="widget-latest-articles">
+	<h2 class="heading">Latest news</h2>
+	<div class="componentRow">
+		<ul>
+
+			
+										<li class="article">
+				<a href="https://www.channel4.com/news/warrington-bombing-survivor-on-the-day-that-changed-her-life-forever-%e3%80%80">
+					<div class="image playable">
+						<div class="aspectratio-16-9"><img src="https://www.channel4.com/news/wp-content/plugins/lazy-load/images/1x1.trans.gif" class="attachment-c4-listing size-c4-listing" alt data-lazy-src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_WARRINGTON_PAB_2003_TempThumbnail1920x1080-300x169.jpg" data-lazy-srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_WARRINGTON_PAB_2003_TempThumbnail1920x1080-300x169.jpg 300w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_WARRINGTON_PAB_2003_TempThumbnail1920x1080-1000x563.jpg 1000w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_WARRINGTON_PAB_2003_TempThumbnail1920x1080-600x338.jpg 600w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_WARRINGTON_PAB_2003_TempThumbnail1920x1080-500x281.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_WARRINGTON_PAB_2003_TempThumbnail1920x1080-150x84.jpg 150w" data-lazy-sizes="(max-width: 300px) 100vw, 300px"><noscript><img src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_WARRINGTON_PAB_2003_TempThumbnail1920x1080-300x169.jpg" class="attachment-c4-listing size-c4-listing" alt="" srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_WARRINGTON_PAB_2003_TempThumbnail1920x1080-300x169.jpg 300w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_WARRINGTON_PAB_2003_TempThumbnail1920x1080-1000x563.jpg 1000w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_WARRINGTON_PAB_2003_TempThumbnail1920x1080-600x338.jpg 600w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_WARRINGTON_PAB_2003_TempThumbnail1920x1080-500x281.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_WARRINGTON_PAB_2003_TempThumbnail1920x1080-150x84.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></div>													<span class="duration">3 mins</span>
+											</div>
+					Warrington bombing survivor on the day that changed her life forever 　				</a>
+			</li>
+
+										<li class="article">
+				<a href="https://www.channel4.com/news/us-presidential-candidate-evan-mcmullin-on-cambridge-analytica-usa-this-is-part-of-learning-curve-entire-country-needs-to-climb-to-defend-democratic-process-%e3%80%80">
+					<div class="image playable">
+						<div class="aspectratio-16-9"><img src="https://www.channel4.com/news/wp-content/plugins/lazy-load/images/1x1.trans.gif" class="attachment-c4-listing size-c4-listing" alt data-lazy-src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_PAB_MCMULLAN_2003_TempThumbnail1920x1080-300x169.jpg" data-lazy-srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_PAB_MCMULLAN_2003_TempThumbnail1920x1080-300x169.jpg 300w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_PAB_MCMULLAN_2003_TempThumbnail1920x1080-1000x563.jpg 1000w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_PAB_MCMULLAN_2003_TempThumbnail1920x1080-600x338.jpg 600w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_PAB_MCMULLAN_2003_TempThumbnail1920x1080-500x281.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_PAB_MCMULLAN_2003_TempThumbnail1920x1080-150x84.jpg 150w" data-lazy-sizes="(max-width: 300px) 100vw, 300px"><noscript><img src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_PAB_MCMULLAN_2003_TempThumbnail1920x1080-300x169.jpg" class="attachment-c4-listing size-c4-listing" alt="" srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_PAB_MCMULLAN_2003_TempThumbnail1920x1080-300x169.jpg 300w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_PAB_MCMULLAN_2003_TempThumbnail1920x1080-1000x563.jpg 1000w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_PAB_MCMULLAN_2003_TempThumbnail1920x1080-600x338.jpg 600w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_PAB_MCMULLAN_2003_TempThumbnail1920x1080-500x281.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_PAB_MCMULLAN_2003_TempThumbnail1920x1080-150x84.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></div>													<span class="duration">3 mins</span>
+											</div>
+					US Presidential candidate Evan McMullin on Cambridge Analytica USA: &#8216;This is part of learning curve entire country needs to climb to defend democratic process&#8217; 　				</a>
+			</li>
+
+										<li class="article">
+				<a href="https://www.channel4.com/news/legislators-demand-answers-from-facebooks-zuckerberg">
+					<div class="image playable">
+						<div class="aspectratio-16-9"><img src="https://www.channel4.com/news/wp-content/plugins/lazy-load/images/1x1.trans.gif" class="attachment-c4-listing size-c4-listing" alt data-lazy-src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_KENNEY_PAB_2003_TempThumbnail1920x1080-300x169.jpg" data-lazy-srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_KENNEY_PAB_2003_TempThumbnail1920x1080-300x169.jpg 300w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_KENNEY_PAB_2003_TempThumbnail1920x1080-1000x563.jpg 1000w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_KENNEY_PAB_2003_TempThumbnail1920x1080-600x338.jpg 600w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_KENNEY_PAB_2003_TempThumbnail1920x1080-500x281.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_KENNEY_PAB_2003_TempThumbnail1920x1080-150x84.jpg 150w" data-lazy-sizes="(max-width: 300px) 100vw, 300px"><noscript><img src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_KENNEY_PAB_2003_TempThumbnail1920x1080-300x169.jpg" class="attachment-c4-listing size-c4-listing" alt="" srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_KENNEY_PAB_2003_TempThumbnail1920x1080-300x169.jpg 300w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_KENNEY_PAB_2003_TempThumbnail1920x1080-1000x563.jpg 1000w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_KENNEY_PAB_2003_TempThumbnail1920x1080-600x338.jpg 600w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_KENNEY_PAB_2003_TempThumbnail1920x1080-500x281.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_KENNEY_PAB_2003_TempThumbnail1920x1080-150x84.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></div>													<span class="duration">3 mins</span>
+											</div>
+					Legislators demand answers from Facebook&#8217;s Zuckerberg				</a>
+			</li>
+
+										<li class="article">
+				<a href="https://www.channel4.com/news/russian-diplomats-expelled-from-uk">
+					<div class="image playable">
+						<div class="aspectratio-16-9"><img src="https://www.channel4.com/news/wp-content/plugins/lazy-load/images/1x1.trans.gif" class="attachment-c4-listing size-c4-listing" alt data-lazy-src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_RUSSIA_PAB_2003_TempThumbnail1920x1080-300x169.jpg" data-lazy-srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_RUSSIA_PAB_2003_TempThumbnail1920x1080-300x169.jpg 300w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_RUSSIA_PAB_2003_TempThumbnail1920x1080-1000x563.jpg 1000w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_RUSSIA_PAB_2003_TempThumbnail1920x1080-600x338.jpg 600w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_RUSSIA_PAB_2003_TempThumbnail1920x1080-500x281.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_RUSSIA_PAB_2003_TempThumbnail1920x1080-150x84.jpg 150w" data-lazy-sizes="(max-width: 300px) 100vw, 300px"><noscript><img src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_RUSSIA_PAB_2003_TempThumbnail1920x1080-300x169.jpg" class="attachment-c4-listing size-c4-listing" alt="" srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_RUSSIA_PAB_2003_TempThumbnail1920x1080-300x169.jpg 300w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_RUSSIA_PAB_2003_TempThumbnail1920x1080-1000x563.jpg 1000w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_RUSSIA_PAB_2003_TempThumbnail1920x1080-600x338.jpg 600w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_RUSSIA_PAB_2003_TempThumbnail1920x1080-500x281.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_RUSSIA_PAB_2003_TempThumbnail1920x1080-150x84.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></div>													<span class="duration">3 mins</span>
+											</div>
+					Russian diplomats expelled from UK				</a>
+			</li>
+
+										<li class="article">
+				<a href="https://www.channel4.com/news/sir-tim-berners-lee-on-cambridge-analytica-usa-we-need-to-rethink-our-attitude-to-web">
+					<div class="image playable">
+						<div class="aspectratio-16-9"><img src="https://www.channel4.com/news/wp-content/plugins/lazy-load/images/1x1.trans.gif" class="attachment-c4-listing size-c4-listing" alt data-lazy-src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_LEE_PAB_2003_TempThumbnail1920x1080-300x169.jpg" data-lazy-srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_LEE_PAB_2003_TempThumbnail1920x1080-300x169.jpg 300w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_LEE_PAB_2003_TempThumbnail1920x1080-1000x563.jpg 1000w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_LEE_PAB_2003_TempThumbnail1920x1080-600x338.jpg 600w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_LEE_PAB_2003_TempThumbnail1920x1080-500x281.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_LEE_PAB_2003_TempThumbnail1920x1080-150x84.jpg 150w" data-lazy-sizes="(max-width: 300px) 100vw, 300px"><noscript><img src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_LEE_PAB_2003_TempThumbnail1920x1080-300x169.jpg" class="attachment-c4-listing size-c4-listing" alt="" srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_LEE_PAB_2003_TempThumbnail1920x1080-300x169.jpg 300w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_LEE_PAB_2003_TempThumbnail1920x1080-1000x563.jpg 1000w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_LEE_PAB_2003_TempThumbnail1920x1080-600x338.jpg 600w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_LEE_PAB_2003_TempThumbnail1920x1080-500x281.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2018/03/4ON_LEE_PAB_2003_TempThumbnail1920x1080-150x84.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></div>													<span class="duration">3 mins</span>
+											</div>
+					Sir Tim Berners Lee on Cambridge Analytica USA: &#8216;We need to rethink our attitude to web&#8217;				</a>
+			</li>
+
+			
+		</ul>
+	</div>
+</li>
+					   </ul>
+					 </div>
+          	   </div>
+	 </div>
+	</div>
+</div>
+
+	<footer class="receptacle site-footer">
+	  <div class="inner">
+
+			<div id="secondary-nav" class="section">
+				<ul class="nav">
+				<li class="standlist menu-about"><ul class="items"><li class="menu-item"><a href="https://www.channel4.com/news/about">About Channel 4 News</a></li>
+<li class="menu-item"><a href="https://www.channel4.com/news/frequently-asked-questions">FAQs</a></li>
+<li class="menu-item"><a href="https://www.channel4.com/news/contact-us">Contact us</a></li>
+</ul></li>				<li class="standlist menu-elsewhere"><ul class="items"><li class="facebook menu-item"><a href="http://facebook.com/Channel4News"><svg class="icon" width="18" height="18" viewBox="0 0 15 28" ><path d="M14.397 5.269h-2.515c-.913 0-1.528.186-1.844.559-.317.391-.475.969-.475 1.732v3.018h4.666l-.615 4.722h-4.052v12.127h-4.89v-12.127h-4.08v-4.722h4.08v-3.465c0-1.993.55-3.53 1.649-4.611 1.118-1.099 2.599-1.649 4.443-1.649 1.565 0 2.776.065 3.633.196v4.219z" /></svg>Facebook</a></li>
+<li class="twitter menu-item"><a href="http://twitter.com/Channel4News"><svg class="icon" width="18" height="18" viewBox="0 0 29 24" ><path d="M26.031 6.563c.021.167.031.417.031.75 0 1.542-.229 3.083-.688 4.625-.458 1.542-1.146 3.021-2.063 4.438-.917 1.417-2.01 2.667-3.281 3.75-1.292 1.104-2.833 1.979-4.625 2.625-1.792.646-3.708.969-5.75.969-3.229 0-6.187-.865-8.875-2.594.417.042.885.063 1.406.063 2.667 0 5.052-.823 7.156-2.469-1.25-.021-2.375-.396-3.375-1.125-.979-.75-1.656-1.708-2.031-2.875.396.063.76.094 1.094.094.521 0 1.031-.062 1.531-.188-1.333-.271-2.437-.937-3.313-2-.875-1.042-1.313-2.26-1.313-3.656.813.375 1.677.615 2.594.656-.792-.521-1.417-1.208-1.875-2.063-.458-.833-.688-1.75-.688-2.75 0-1.042.26-2.01.781-2.906 1.438 1.771 3.187 3.187 5.25 4.25 2.063 1.083 4.281 1.677 6.656 1.781-.104-.438-.156-.875-.156-1.313 0-1.604.562-2.969 1.688-4.094 1.125-1.125 2.49-1.688 4.094-1.688 1.667 0 3.062.615 4.188 1.844 1.313-.25 2.542-.719 3.688-1.406-.458 1.375-1.312 2.437-2.563 3.188 1.125-.125 2.24-.427 3.344-.906-.813 1.167-1.781 2.167-2.906 3z" /></svg>Twitter</a></li>
+<li class="youtube menu-item"><a href="http://youtube.com/Channel4News"><svg class="icon" width="18" height="18" viewBox="0 0 34 24" ><path d="M33.105 5.529s-.327-2.303-1.329-3.317c-1.271-1.331-2.695-1.337-3.348-1.415-4.676-.338-11.691-.338-11.691-.338h-.014s-7.015 0-11.691.338c-.654.078-2.077.084-3.348 1.416-1.002 1.014-1.328 3.317-1.328 3.317s-.334 2.704-.334 5.408v2.535c0 2.703.334 5.408.334 5.408s.327 2.303 1.328 3.317c1.271 1.331 2.941 1.289 3.685 1.428 2.673.256 11.362.336 11.362.336s7.022-.01 11.698-.348c.654-.078 2.077-.084 3.348-1.416 1.002-1.014 1.329-3.317 1.329-3.317s.334-2.704.334-5.408v-2.535c0-2.704-.334-5.408-.334-5.408zm-19.825 11.016v-9.389l9.029 4.711-9.029 4.678z" /></svg>YouTube</a></li>
+<li class="instagram menu-item"><a href="http://instagram.com/channel4news"><svg class="icon" width="18" height="18" viewBox="0 0 28 28" ><g><path d="M14 2.523c3.738 0 4.181.014 5.657.082 1.365.062 2.106.29 2.6.482.653.254 1.12.557 1.61 1.047.49.49.793.956 1.047 1.61.192.493.42 1.235.482 2.6.067 1.476.082 1.919.082 5.657s-.014 4.181-.082 5.657c-.062 1.365-.29 2.106-.482 2.6-.254.653-.557 1.12-1.047 1.61-.49.49-.956.793-1.61 1.047-.493.192-1.235.42-2.6.482-1.476.067-1.919.082-5.657.082s-4.181-.014-5.657-.082c-1.365-.062-2.106-.29-2.6-.482-.653-.254-1.12-.557-1.61-1.047-.49-.49-.793-.956-1.047-1.61-.192-.493-.42-1.235-.482-2.6-.067-1.476-.082-1.919-.082-5.657s.014-4.181.082-5.657c.062-1.365.29-2.106.482-2.6.254-.653.557-1.12 1.047-1.61.49-.49.956-.793 1.61-1.047.493-.192 1.235-.42 2.6-.482 1.476-.067 1.919-.082 5.657-.082m0-2.523c-3.802 0-4.279.016-5.772.084-1.49.068-2.508.305-3.398.651-.921.358-1.701.836-2.48 1.615-.778.778-1.257 1.559-1.615 2.48-.346.891-.583 1.908-.651 3.398-.068 1.493-.084 1.97-.084 5.772 0 3.802.016 4.279.084 5.772.068 1.49.305 2.508.651 3.398.358.921.836 1.701 1.615 2.48.778.778 1.559 1.257 2.48 1.615.891.346 1.908.583 3.398.651 1.493.068 1.97.084 5.772.084 3.802 0 4.279-.016 5.772-.084 1.49-.068 2.508-.305 3.398-.651.921-.358 1.701-.836 2.48-1.615.778-.778 1.257-1.559 1.615-2.48.346-.891.583-1.908.651-3.398.068-1.493.084-1.97.084-5.772 0-3.802-.016-4.279-.084-5.772-.068-1.49-.305-2.508-.651-3.398-.358-.921-.836-1.701-1.615-2.48-.778-.778-1.559-1.257-2.48-1.615-.891-.346-1.908-.583-3.398-.651-1.493-.068-1.97-.084-5.772-.084"/><path d="M14 7c-3.866 0-7 3.134-7 7s3.134 7 7 7 7-3.134 7-7-3.134-7-7-7zm0 11.544c-2.509 0-4.544-2.034-4.544-4.544 0-2.509 2.034-4.544 4.544-4.544 2.509 0 4.544 2.034 4.544 4.544 0 2.509-2.034 4.544-4.544 4.544z"/><path d="M23 6.5c0 .828-.672 1.5-1.5 1.5s-1.5-.672-1.5-1.5.672-1.5 1.5-1.5 1.5.672 1.5 1.5"/></g></svg>Instagram</a></li>
+</ul></li>				</ul>
+			</div>
+
+		</div>
+	</footer>
+
+	<div id="network-footer" class="receptacle">
+		<div id="globalnav-footer"></div>
+	</div>
+
+	<link rel='stylesheet' id='channel-4-fonts-css'  href='//fonts.channel4.com/stylesheet?c4.chadwick.regular&#038;c4.chadwick.medium' media='all' />
+<script async="async" src='https://www.channel4.com/news/wp-content/themes/channel-4-news/js/scripts.min.js?ver=1.4.0'></script>
+<script src='//all4nav.channel4.com/v1/js/loader.js?header=globalnav-header&#038;footer=globalnav-footer&#038;responsive=yes'></script>
+<script src='//static.channel4.com/all4-s-code/latest/s_code.js'></script>
+<script>
+if(window.location.href.indexOf('fb_xd_fragment') === -1) { var s_code=s.t(); }
+</script>
+<script src='https://www.channel4.com/news/wp-content/themes/channel-4-news/js/jquery-3.1.1.min.js?ver=3.1.1'></script>
+<script src='https://www.channel4.com/news/wp-content/plugins/lazy-load/js/jquery.sonar.min.js?ver=0.7'></script>
+<script src='https://www.channel4.com/news/wp-content/plugins/lazy-load/js/lazy-load.js?ver=0.7'></script>
+
+</body>
+</html>

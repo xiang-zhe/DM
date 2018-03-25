@@ -1,0 +1,213 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="viewport" content="initial-scale=1, maximum-scale=1"><script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script><meta name="viewport" id="viewport" content="width=device-width; initial-scale=1.0; minimum-scale=1.0; maximum-scale=1.0; user-scalable=no;"></meta><base href="https://m.businesstoday.in/"/><title>Air India to make history with Delhi-Tel Aviv flight today, ending 70-year overfly ban by Saudi Arabia</title><meta property="og:title" content="Air India to make history with Delhi-Tel Aviv flight today, ending 70-year overfly ban by Saudi Arabia"/><meta property="og:description" content="The first Air India direct flight from New Delhi to Tel Aviv will take off today at 6.10 pm."/><meta property="og:image" content="https://smedia2.intoday.in/btmt/images/stories/airindia_505_032218121838.jpg"/><meta name="description" content="The first Air India direct flight from New Delhi to Tel Aviv will take off today at 6.10 pm."/><meta name="keywords" content="Air India,Air India flights,Air India flight to Tel Aviv,New Delhi to Tel Aviv flight,New Delhi to Tel Aviv Air India flight,Delhi to Tel Aviv flight price,Delhi to Tel Aviv flight booking,India to Israel flight,Saudi airspace,International Air Transport "/><link rel="shortcut icon" href="https://smedia2.intoday.in/businesstoday_wap/resources/images/favicon.ico"/><script>function loadjscssfile(filename, filetype){
+    if (filetype=="js"){ //if filename is a external JavaScript file
+        var fileref=document.createElement('script')
+fileref.async = false;
+        fileref.setAttribute("type","text/javascript")
+        fileref.setAttribute("src", filename)
+    }
+    else if (filetype=="css"){ //if filename is an external CSS file
+    var fileref=document.createElement("link")
+        fileref.setAttribute("rel", "stylesheet prefetch")
+        fileref.setAttribute("type", "text/css")
+        fileref.setAttribute("href", filename)   
+    }
+if (typeof fileref!="undefined") {
+var h = document.getElementsByTagName('head')[0]; 
+if(filetype=="css")
+h.parentNode.insertBefore(fileref, h);
+else
+document.getElementsByTagName("head")[0].appendChild(fileref);
+}
+
+}</script><script>
+loadjscssfile("https://smedia2.intoday.in/businesstoday_wap/1.0.2/resources/css/swiper.min.css", "css");
+loadjscssfile("https://smedia2.intoday.in/businesstoday_wap/1.0.2/resources/css/bt-mobile-ssl.css", "css");
+</script><style>
+.bt_full_story ul{list-style-type:disc;padding-left:30px}
+.bt_full_story ul li{font-size:14px; text-align:left}
+.bt_socials ul li{ position: relative}
+li.whatsAppIframe iframe {height: 30px;position: absolute;left: 0px; top: 6px; width: 100% ; opacity: 0;}
+</style><link rel="canonical" href="https://www.businesstoday.in/sectors/aviation/air-india-make-history-delhi-tel-aviv-flight-today-ending-70-year-overfly-ban-saudi-arabia/story/273134.html"/><script type="text/javascript">
+	function canonicalUrlRedirection() {
+		var canonicalUrl = "";
+		var links = document.getElementsByTagName("link");      
+		for (var i = 0; i < links.length; i ++) { if (links[i].getAttribute("rel") == "canonical") { canonicalUrl = links[i].getAttribute("href"); break; } }
+		if (canonicalUrl != "") { window.location.href = canonicalUrl; }
+	}
+	var mobile = (/iphone|vnd.wap.xhtml+xml|sony|symbian|S60|SymbOS|nokia|samsung|mobile|windows ce|epoc|opera mini|nitro|j2me|midp-|cldc-|netfront|mot|up.browser|up.link|audiovox|blackberry|ericsson|panasonic|philips|sanyo|sharp|sie-|portalmmm|blazer|avantgo|danger|palm|series60|palmsource|pocketpc|smartphone|rover|ipaq|au-mic|alcatel|ericy|vodafone|wap1|wap2|teleca|playstation|lge|lg-|android|htc|dream|webos|bolt|nintendo|palm/i.test(navigator.userAgent.toLowerCase()));
+	if (!mobile) {   canonicalUrlRedirection();  }
+	</script><script type="text/javascript">(function() { var po = document.createElement("script"); po.type = "text/javascript"; po.async = true; po.src = "https://apis.google.com/js/plusone.js?publisherid=117119850068103661951"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s); })();</script><script type="text/javascript">window._taboola = window._taboola || []; _taboola.push({article:'auto'}); !function (e, f, u) { e.async = 1; e.src = u; f.parentNode.insertBefore(e, f); }(document.createElement('script'), document.getElementsByTagName('script')[0], 'https://cdn.taboola.com/libtrc/indiatoday-network/loader.js');</script><script>
+var $ImpulseID ="IMPL-ITDG-BUSINESSTODAY-WAP-ARTICLE";
+(function() {
+var _Impulser = document.createElement('script'); _Impulser.type = 'text/javascript';
+_Impulser.async = true;
+_Impulser.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'impulse.forkcdn.com/impulse3/config/impulse.js';
+var _scripter = document.getElementsByTagName('script')[0];
+_scripter.parentNode.insertBefore(_Impulser, _scripter);
+})();
+</script><script async>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-7530357-15', 'auto');
+  ga('send', 'pageview');
+</script><script async> 
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "8549097" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><noscript><img rel="prefetch" src="https://b.scorecardresearch.com/p?c1=2&c2=8549097&cv=2.0&cj=1"/></noscript><script type="text/javascript">
+	var PWT={};
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	PWT.jsLoaded = function(){
+(function() {
+	var gads = document.createElement('script');
+	var useSSL = 'https:' == document.location.protocol;
+	gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+	var node = document.getElementsByTagName('script')[0];
+	node.parentNode.insertBefore(gads, node);
+})();
+};
+(function() {
+	var purl = window.location.href;
+	var url = '//ads.pubmatic.com/AdServer/js/pwt/156066/553';
+	var profileVersionId = '';
+	if(purl.indexOf('pwtv=')>0){
+		var regexp = /pwtv=(.*?)(&|$)/g;
+		var matches = regexp.exec(purl);
+		if(matches.length >= 2 && matches[1].length > 0){
+			profileVersionId = '/'+matches[1];
+		}
+	}
+	var wtads = document.createElement('script');
+	wtads.async = true;
+	wtads.type = 'text/javascript';
+	wtads.src = url+profileVersionId+'/pwt.js';
+	var node = document.getElementsByTagName('script')[0];
+	node.parentNode.insertBefore(wtads, node);
+})();
+</script><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script><script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/1007232/BT_ROS_MobileMasthead_300x250_ATF', [300, 250], 'div-gpt-ad-1506670590035-0').addService(googletag.pubads());
+    googletag.defineSlot('/1007232/BT_ROS_Mobile_300x250_MTF', [300, 250], 'div-gpt-ad-1506670590035-1').addService(googletag.pubads());
+    googletag.defineSlot('/1007232/BT_ROS_Mobile_300x250_BTF', [300, 250], 'div-gpt-ad-1506670590035-2').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    	
+		googletag.pubads().setTargeting('category', ['SECTORS','Aviation','story']);	
+	
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script><script type="text/javascript">
+ var zmt_mtag;
+function zd_get_placements(){
+ zmt_mtag = zmt_get_tag(821,"101487");
+ p101487_1 = zmt_mtag.zmt_get_placement("zt_101487_1", "101487", "1" , "2242" , "83" , "9" ,"1", "1");
+ zmt_mtag.zmt_set_async();
+ zmt_mtag.zmt_load(zmt_mtag); 
+} 
+</script><script type="text/javascript" src="https://saxp.zedo.com/sclient/tt3/fmos.js" async></script></head><body><script>
+function validatesearch(modsearch) {
+var srchtextvalue = document.getElementById(modsearch);
+if(srchtextvalue.value=='') { alert('Please enter text to search.'); return false;  }
+if(srchtextvalue.value!='') { if(srchtextvalue.value!='') { var x=srchtextvalue.value; var y = ''; var iChars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 "; for (var i = 0; i < x.length; i++) { if (!(iChars.indexOf(x.charAt(i)) != -1)) { } else { y += x.charAt(i); } } srchtextvalue.value = y.trim(); } } return true; }
+</script><style>
+.businesstoday_header .bt_top_section { background:#fff;}
+.businesstoday_header .bt_top_section .hamburger {    margin-right: 10px;     margin-top: -5px;}
+.businesstoday_header .bt_top_section .bar1, .businesstoday_header .bt_top_section .bar2, .businesstoday_header .bt_top_section .bar3 { height:2px; margin: 8px 0; background-color: #000;}
+.businesstoday_header .bt_top_section .change .bar1 {-webkit-transform: rotate(-45deg) translate(-7px, 7px);    transform: rotate(-45deg) translate(-7px, 7px);}
+.businesstoday_header .bt_top_section .change .bar3 {-webkit-transform: rotate(45deg) translate(-7px, -7px);
+    transform: rotate(45deg) translate(-7px, -7px);}
+</style><div class="businesstoday_header"><div class="bt_top_section"><div class="logo-bt"><a href="https://m.businesstoday.in/" title=""><img src="https://smedia2.intoday.in/businesstoday_wap/resources/images/mobile-logo-updated.png" alt="Business Today"/></a></div><div class="hamburger"><div class="bar1"></div><div class="bar2"></div><div class="bar3"></div></div></div><div class="bt-dropdown_nav_container"><div class="bt-top_search_container"><form action="search.jsp" method="get" name="search" onSubmit="return validatesearch('search');"><input type="text" maxlength="40" placeholder="Enter search keyword" value="" class="bt-search_text" id="search" name="searchword"><button type="submit" class="bt-btn_search" onclick="return validatesearch('search');"></button></form></div><div class="bt-top_social_container"><ul><li><a href="https://www.facebook.com/BusinessToday"><img src="https://smedia2.intoday.in/indiatoday_wap/resources/css/images/img/facebook.jpg" alt=""></a></li><li><a href="https://www.twitter.com/BT_India"><img src="https://smedia2.intoday.in/indiatoday_wap/resources/css/images/img/twitter.jpg" alt=""></a></li><li><a href="https://plus.google.com/+businesstoday"><img src="https://smedia2.intoday.in/indiatoday_wap/resources/css/images/img/gplus.jpg" alt=""></a></li><li><a href="javascript:void(0)" class="cmtbt"><img src="https://smedia2.intoday.in/indiatoday_wap/resources/css/images/img/message.jpg" alt=""></a></li></div><div class="bt-top_cont"><ul class="bt-topdown"><li><a href="/category/economy-and-politics/1/67.html" title="Economy">Economy &raquo;</a></li><li><a href="/section/110/1/technology.html" title="Tech">Tech &raquo;</a></li><li><a href="/category/corporate/1/10.html" title="Corporate">Corporate &raquo;</a></li><li><a href="/section/102/1/opinion.html" title="Opinion">Opinion &raquo;</a></li><li><a href="/section/111/1/markets.html" title="Markets">Markets &raquo;</a></li><li><a href="/galleries" title="Photos">Photos &raquo;</a></li><li><a href="https://www.businesstoday.in/money" title="Money">Money &raquo;</a></li><li><a href="/videos/" title="Videos">Videos &raquo;</a></li><li><a href="/section/101/1/sectors.html" title="Industry">Industry &raquo;</a></li><li><a href="/section/125/1/from-the-mag.html" title="Magazine">Magazine &raquo;</a></li></ul><div class="clearfix"></div></div></div></div><div class="businesstoday_navigation"><div class="bt_nav_section"><div class="swiper-container"><div class="swiper-wrapper"><div class="swiper-slide"><a href="https://m.businesstoday.in/" title="Home">Home</a></div><div class="swiper-slide"><a href="/category/economy-and-politics/1/67.html" title="Economy">Economy</a></div><div class="swiper-slide"><a href="/section/110/1/technology.html" title="Tech">Tech</a></div><div class="swiper-slide"><a href="/category/corporate/1/10.html" title="Corporate">Corporate</a></div><div class="swiper-slide"><a href="/section/102/1/opinion.html" title="Opinion">Opinion</a></div><div class="swiper-slide"><a href="/section/111/1/markets.html" title="Markets">Markets</a></div><div class="swiper-slide"><a href="/galleries" title="Photos">Photos</a></div><div class="swiper-slide"><a href="https://www.businesstoday.in/money" title="Money">Money</a></div><div class="swiper-slide"><a href="/videos/" title="Videos">Videos</a></div><div class="swiper-slide"><a href="/section/101/1/sectors.html" title="Industry">Industry</a></div><div class="swiper-slide"><a href="/section/125/1/from-the-mag.html" title="Magazine">Magazine</a></div></div></div></div></div><div id="zt_101487_1" style="display:show"><script id="zt_101487_1" language="javascript"> 
+
+if(typeof zmt_mtag !='undefined' && typeof zmt_mtag.zmt_render_placement !='undefined')
+{
+     zmt_mtag.zmt_render_placement(p101487_1);
+}
+ </script></div><div align="center"><div id='div-gpt-ad-1506670590035-0' style='height:250px; width:300px;margin:0 auto 10px auto'><script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1506670590035-0'); });
+</script></div></div><div class="businesstoday_wap_wrapper"><div class="bt_wrapper_container"><div class="bt_story_container"><div class="bt_breadcrumb"><a href="/">Home</a><a href="/section/101/1/sectors.html">SECTORS</a><a href="/category/aviation/1/12.html">Aviation</a> Story </div><script async type="text/javascript" src="https://smedia2.intoday.in/indiatoday_wap/resources/js/whatsapp-button.js"></script><div class="bt_header"><div class="heading_bt">Air India to make history with Delhi-Tel Aviv flight today, ending 70-year overfly ban by Saudi Arabia </div><div class="bt_byline"> BusinessToday.In | New Delhi, Thursday, March 22, 2018 | 12:18 IST </div><div class="bt_kicker_hd">The first Air India direct flight from New Delhi to Tel Aviv will take off today at 6.10 pm.</div><style>
+.bt_socials ul{ display: table}
+.bt_socials ul li{ float: none; display: table-cell}
+
+.bt_socials .sprite.youtube{
+    background: url(https://smedia2.intoday.in/indiatoday_wap/resources/images/IT_social_sprites.png) no-repeat; height: 35px;
+    width: 35px; display: inline-block; margin:0 auto
+}
+.bt_socials .sprite.youtube {
+    background-position: -223px 0;
+}
+
+li span.linked_icon{
+    height: 30px;
+    position: absolute;
+    left: 0px;
+    top: 6px;
+    width: 100%;
+    opacity: 0;
+}
+
+</style><div class="bt_socials"><ul><li><a href="https://facebook.com/sharer.php?u=https://m.businesstoday.in/story/air-india-make-history-delhi-tel-aviv-flight-today-ending-70-year-overfly-ban-saudi-arabia/1/273134.html"><img src="https://smedia2.intoday.in/indiatoday_wap/resources/css/images/img/facebook.jpg" alt=""></a></li><li><a href="https://twitter.com/intent/tweet?url=https://m.businesstoday.in/story/air-india-make-history-delhi-tel-aviv-flight-today-ending-70-year-overfly-ban-saudi-arabia/1/273134.html&amp;text=Air India to make history with Delhi-Tel Aviv flight today, ending 70-year overfly ban by Saudi Arabia&amp;via=indiatoday" target="_blank"><img src="https://smedia2.intoday.in/indiatoday_wap/resources/css/images/img/twitter.jpg" alt=""></a></li><li><span class="linked_icon"><script src="//platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script><script type="IN/Share" data-counter="right"></script></span><img src="https://smedia2.intoday.in/businesstoday_wap/resources/images/in_icon.png" alt=""></li><li class="share_bar"><a href="https://www.youtube.com/channel/UC2ozzcjJsD0Q1DglEytSZrQ?sub_confirmation=1" target="_blank"><i class="sprite youtube"></i></a></li><li><a href="https://plus.google.com/share?url=https://m.businesstoday.in/story/air-india-make-history-delhi-tel-aviv-flight-today-ending-70-year-overfly-ban-saudi-arabia/1/273134.html" data-value-share="Google"><img src="https://smedia2.intoday.in/indiatoday_wap/resources/css/images/img/gplus.jpg" alt=""></a></li><li class="whatsAppIframe"><a href="whatsapp://send" data-text="Air India to make history with Delhi-Tel Aviv flight today, ending 70-year overfly ban by Saudi Arabia" data-href="https://m.businesstoday.in/story/air-india-make-history-delhi-tel-aviv-flight-today-ending-70-year-overfly-ban-saudi-arabia/1/273134.html" class="wa_btn wa_btn_s" style="display:none">Share</a><img class="whatsIMG" src="https://smedia2.intoday.in/indiatoday_wap/resources/css/images/img/whatsapp.jpg" alt=""></li><li><a href="javascript:void(0)" id="cmt_h"><img src="https://smedia2.intoday.in/indiatoday_wap/resources/css/images/img/message.jpg" alt=""></a></li></ul></div></div><div class="bt_main_image"><img class="main_story_image" rel="prefetch" src="https://smedia2.intoday.in/btmt/images/stories/airindia_505_032218121838.jpg" border="0" align="middle" alt="Air India to make history with Delhi-Tel Aviv flight today, ending 70-year overfly ban by Saudi Arabia" title="Air India to make history with Delhi-Tel Aviv flight today, ending 70-year overfly ban by Saudi Arabia" class="_ActiveImpulseImg"></div><div class="bt_story_cont_main"><div class="bt_story_cont"><div class="bt_full_story storytext storycontent"><p>Even as the evaluating committee is in process of finalising bidding norms for the sale of the beleaguered Air India, the airline has managed to make history once again. The first Air India direct flight from New Delhi to Tel Aviv will take off today at 6.10 pm. Significantly, this will be the first time that Saudi Arabia allows an Israel-bound flight to enter its airspace, thus ending a seven decade old ban.</p><p>Many Arab and Islamic nations do not recognise Israel and, therefore, disallow airlines from using their airspace for flight services to and from the latter. Riyadh lifting the airspace ban reflects what appears to be thawing ties between Israel and the kingdom. Both countries are US allies with a shared concern over growing Iranian influence in the region, especially after the 2015 nuclear accord, which both governments strongly opposed.</p><p>"The response has been good so far and the inaugural flight has sold 50 per cent seats. The return flight has seen much better bookings with 80 per cent of the seats booked," claimed an Air India official. The return flight is scheduled for March 25, when the summer schedule comes into operation. With this the national carrier kicks off a thrice-a-week service between the two cities. It will be operating its 256-seater Boeing 787 Dreamliner on the route - with flights scheduled every Tuesday, Thursday and Sunday - and the introductory return fares start at Rs 35,500.</p><p>The Israeli Foreign Ministry reportedly said in a statement that Israel considers the new route important. He further noted that Prime Minister Benjamin Netanyahu raised the matter of the route with his counterpart, Narendra Modi, when the two met in Israel last July and again in India two months back. The ministry added that the route would lower fares along with boosting investment and tourism from India.</p><p>The unprecedented clearance to fly over Saudi airspace is a big deal also because it opens up a shorter route between the two countries. The Air India flight will fly over Oman, Saudi Arabia and Jordan to reach Israel, covering the distance in a little over 7 hours.&nbsp; That's more than 2 hours less than the only alternative flight available currently - El Al's four weekly flights from Tel Aviv to Mumbai. Due to the airspace restrictions, Israel's flag carrier is forced to take a more circuitous route over the Red Sea and the Gulf of Aden, which makes for a longer flight. No wonder Air India's Chairman and Managing Director Pradeep Kharola anticipates traveller interest in the new service even from countries further to the east of India, such as Australia.</p><p>Recognising that El Al would now be at disadvantage, both in terms of cost and travel time, its CEO Gonen Usishkin reportedly penned a letter to the International Air Transport Association earlier this month seeking "equal overfly rights" to ensure a fair competition. "I am approaching you and kindly requesting IATA to intervene and to represent aviation industry's interest by advocating equal overfly rights for all carriers over the Kingdom of Saudi Arabia and opposing any form of discrimination," he wrote in the letter, seen by Reuters, adding that he has also approached Netanyahu. Any such move, however, would mark a dramatic diplomatic shift between the Arab nation and what may soon come to be known as "the nation-state of the Jewish people" if Israel passes its controversial nation-state bill. So Air India is likely to retain its edge on this route for some time to come.</p><p><i>(With agency inputs)</i></p></div></div></div></div></div><div class="story_ads_widget"><div class="getdetail">Get latest news &amp; live updates on the go on your phone with our <a href="http://m.indiatoday.in/missedcallbt.jsp"> News App</a>. Download <a href="http://m.indiatoday.in/missedcallbt.jsp">The Business Today news app</a> on your device</div><div class="addcomment_area" id="someID"><a href="#"><strong>Add Comment</strong><em> + </em></a></div><div class="next_prv_h"><div class="outer_area"><div class="nxtprev_story"><a href="/story/indigo-qatar-airways-likely-to-make-joint-bid-for-air-india/1/273081.html" class="snext_arrow" id="next_11"></a><h2><a href="/story/indigo-qatar-airways-likely-to-make-joint-bid-for-air-india/1/273081.html">Next Story</a></h2><ul class="nxtpreslider"><li><a href="/story/indigo-qatar-airways-likely-to-make-joint-bid-for-air-india/1/273081.html">IndiGo, Qatar Airways likely to make joint bid for debt-stressed Air India: Report</a></li></ul></div><div class="clear"></div></div></div><div id='taboola-mobile-below-article-thumbs'></div><script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({mode:'thumbs-mobile-2r', container:'taboola-mobile-below-article-thumbs', placement:'mobile-below-article-thumbs' });
+</script><script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({flush:true});
+</script><div id="taboola-below-article-thumbnails"></div><script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'organic-thumbnails-c',
+    container: 'taboola-below-article-thumbnails',
+    placement: 'Below Article Thumbnails',
+    target_type: 'mix'
+  });
+</script><div style="width:300px; margin:0 auto; text-align:center;"><div id='div-gpt-ad-1506670590035-1' style='height:250px; width:300px;'><script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1506670590035-1'); });
+</script></div></div><div style="height:5px;"></div><div itemtype="https://schema.org/NewsArticle" itemscope=""><meta content="Air India to make history with Delhi-Tel Aviv flight today, ending 70-year overfly ban by Saudi Arabia" itemprop="mainEntityOfPage"><meta content="Air India to make history with Delhi-Tel Aviv flight today, ending 70-year overfly ban by Saudi Arabia" itemprop="name"><div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://smedia2.intoday.in/btmt/images/stories/airindia_505_032218121838.jpg"><meta itemprop="width" content="325"><meta itemprop="height" content="170"></div><meta content="The first Air India direct flight from New Delhi to Tel Aviv will take off today at 6.10 pm." itemprop="description"><meta content="/story/air-india-make-history-delhi-tel-aviv-flight-today-ending-70-year-overfly-ban-saudi-arabia/1/273134.html" itemprop="url"><meta content="Air India,Air India flights,Air India flight to Tel Aviv,New Delhi to Tel Aviv flight,New Delhi to Tel Aviv Air India flight,Delhi to Tel Aviv flight price,Delhi to Tel Aviv flight booking,India to Israel flight,Saudi airspace,International Air Transport " itemprop="keywords"><meta content="2018-03-22T12:18+5.30" itemprop="datePublished"><meta content="2018-03-22T12:18+5.30" itemprop="dateModified"><meta content="en_US" itemprop="inLanguage"><meta content="Living Media India Limited" itemprop="copyrightHolder"><meta content="2016" itemprop="copyrightYear"><meta content="Living Media India Limited" itemprop="sourceOrganization"><meta content="Living Media India Limited" itemprop="provider"><meta content="Air India to make history with Delhi-Tel Aviv flight today, ending 70-year overfly ban by Saudi Arabia" itemprop="headline"><meta content="SECTORS" itemprop="articleSection"><meta content="BusinessToday.In" itemprop="author"><div itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><meta content="Business Today" itemprop="name"><div itemprop="logo" content="https://smedia2.intoday.in/businesstoday_wap/resources/css/images/logo-btoday.png" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://smedia2.intoday.in/businesstoday_wap/resources/css/images/logo-btoday.png"></div></div></div><div itemtype="https://schema.org/DataFeedItem" itemscope=""><meta content="2018-03-22T12:18+5.30" itemprop="dateModified"></div><div class="vuukle"><div id='vuukle-emote'></div><div id='vuukle-comments'></div><div class='vuukle-powerbar'></div><script type="text/javascript">
+var VUUKLE_CONFIG = {
+apiKey: "dc34b5cc-453d-468a-96ae-075a66cd9eb7",
+articleId: "story_273134", 
+title : "Air India to make history with Delhi-Tel Aviv flight today, ending 70-year overfly ban by Saudi Arabia", 
+tags : ", story"
+};
+(function () {
+var d = document,
+s = d.createElement('script');
+s.src = 'https://cdn.vuukle.com/platform.js';
+(d.head || d.body).appendChild(s);
+})();
+</script></div><div class="bt_more_section"> More from <a href="/section/101/1/sectors.html" class="storynormaltxt"><strong>SECTORS</strong></a></div><div class="bt-bottom-add-cont"><div id='div-gpt-ad-1506670590035-2' style='height:250px; width:300px;'><script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1506670590035-2'); });
+</script></div></div></div></div></div><script src="//a.teads.tv/page/64853/tag" async="true"></script><div class="businesstoday_footer"><div class="bt-footer"><ul class="bt-foot"><li><a href="/category/economy-and-politics/1/67.html" title="">Economy &raquo;</a></li><li><a href="/section/110/1/technology.html" title="">Tech &raquo;</a></li><li><a href="/category/corporate/1/10.html" title="">Corporate &raquo;</a></li><li><a href="/section/102/1/opinion.html" title="">Opinion &raquo;</a></li><li><a href="/section/111/1/markets.html" title="">Markets &raquo;</a></li><li><a href="/galleries" title="">Photos &raquo;</a></li><li><a href="https://www.businesstoday.in/money" title="">Money &raquo;</a></li><li><a href="/videos/" title="">Videos &raquo;</a></li><li><a href="/section/101/1/sectors.html" title="">Industry &raquo;</a></li><li><a href="/section/125/1/from-the-mag.html" title="">Magazine &raquo;</a></li></ul></div><div class="bt-copyright"><p>Copyright &copy; 2018 Living Media India Limited.</p></div></div><script src="https://smedia2.intoday.in/businesstoday_wap/1.0.0/resources/js/jquery.min.js"></script><script src="https://smedia2.intoday.in/businesstoday_wap/1.0.0/resources/js/jquery.lazyload.min.js?v=4"></script><script src="https://smedia2.intoday.in/businesstoday_wap/1.0.0/resources/js/swiper.min.js"></script><script src="https://smedia2.intoday.in/businesstoday_wap/1.0.0/resources/js/bt-mobile.js"></script><script type='text/javascript'>
+    var _sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 60355;
+    _sf_async_config.domain = 'businesstoday.in';
+    _sf_async_config.useCanonical = true;
+	_sf_async_config.sections = 'SECTORS';
+	_sf_async_config.authors = 'BusinessToday.In';
+	_sf_async_config.title = 'Air India to make history with Delhi-Tel Aviv flight today, ending 70-year overfly ban by Saudi Arabia';
+	
+    /** CONFIGURATION END **/
+    window._sf_endpt=(new Date()).getTime();
+	(function() {
+	       var s = document.createElement("script"),
+	       el = document.getElementsByTagName("script")[0];
+	       s.async = true;
+	       s.src = (document.location.protocol == "https:" ? "https://": "http://") + "static.chartbeat.com/js/chartbeat.js";
+	       el.parentNode.insertBefore(s, el);
+	})();
+</script><script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0022/4822.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script></body></html>

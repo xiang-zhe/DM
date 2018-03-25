@@ -1,0 +1,1783 @@
+
+<!DOCTYPE html>
+<html lang="en-gb" dir="ltr"
+	  class='com_content view-article itemid-112 j34 mm-hover'>
+
+<head>
+<script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+	  <base href="https://ahtribune.com/religion/2189-rights-activists-saudi-arabia-religious-persecution.html" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="Baqee, al Kalbani, Salafism, Takfir, Takfirism, Sheikh Adel al-Kalbani, Al Baqee Organization, Al Saud" />
+  <meta name="description" content="American Herald Tribune is a genuinely independent online media outlet.  AHTribune is dedicated to strengthening and supporting independent journalism, and to improving the public's access to independent information sources." />
+  <title>Rights Activists Take to The UN Human Rights Council to End Saudi Arabia's Religious Persecution - American Herald Tribune</title>
+  <link href="/templates/t3_bs3_blank/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/t3-assets/css/css-bd327.css?t=141" type="text/css" />
+  <link rel="stylesheet" href="/t3-assets/css/css-937ac.css?t=141" type="text/css" />
+  <link rel="stylesheet" href="/t3-assets/css/css-436fa.css?t=321" type="text/css" />
+  <style type="text/css">
+	#accordion_menu_125 {
+		background: #ffffff;
+	}
+	#accordion_menu_125 a {
+		color: #404040;
+	}
+	#accordion_menu_125 .item-wrapper:hover a,
+	#accordion_menu_125 li.current > .item-wrapper a {
+		color: #000000;
+	}
+	#accordion_menu_125 li.open,
+	#accordion_menu_125 li:hover {
+		background: #f5f5f5;
+	}
+  </style>
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js" type="text/javascript"></script>
+  <script src="/plugins/system/t3/base-bs3/js/jquery.tap.min.js" type="text/javascript"></script>
+  <script src="/plugins/system/t3/base-bs3/js/off-canvas.js" type="text/javascript"></script>
+  <script src="/plugins/system/t3/base-bs3/js/script.js" type="text/javascript"></script>
+  <script src="/plugins/system/t3/base-bs3/js/menu.js" type="text/javascript"></script>
+  <script src="/plugins/system/t3/base-bs3/js/nav-collapse.js" type="text/javascript"></script>
+  <script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(document).ready(function(){
+	jQuery('.hasTooltip').tooltip({"html": true,"container": "body"});
+});
+  </script>
+  <meta property='og:url' content='https://ahtribune.com/religion/2189-rights-activists-saudi-arabia-religious-persecution.html'>
+  <meta property='og:type' content='article'>
+  <meta property='og:title' content='Rights Activists Take to The UN Human Rights Council to End Saudi Arabia&#39;s Religious Persecution'>
+  <meta property='og:description' content=' 
+While public opinion has grown rather dismissive of the Islamic World on account Islam has been labelled a vengeful and irrationally reactionary faith, it would serve the majority to finally admit that if indeed Islam has been wielded as a weap...'>
+  <meta property='og:image' content='https://ahtribune.com/images/Salman_c61ef.jpg'>
+
+	
+<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/stylesheet">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="apple-mobile-web-app-capable" content="YES"/>
+<!-- //META FOR IOS & HANDHELD -->
+
+
+
+
+<!-- Le HTML5 shim and media query for IE8 support -->
+<!--[if lt IE 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<script type="text/javascript" src="/plugins/system/t3/base-bs3/js/respond.min.js"></script>
+<![endif]-->
+
+<!-- You can add Google Analytics here or use T3 Injection feature -->
+</head>
+
+<body>
+
+<div class="t3-wrapper"> <!-- Need this wrapper for off-canvas menu. Remove if you don't use of-canvas -->
+
+  					<!-- HEAD ADVERTISE -->
+					<div class="head-advertise">
+						
+
+<div class="custom"  >
+	<div style="display: table; margin: 10px auto;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Leaderboard -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-2501531673030811"
+     data-ad-slot="3741938083"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div></div>
+
+					</div>
+					<!-- //HEAD ADVERTISE -->
+<!-- HEADER -->
+<header id="t3-header" class="container t3-header">
+	<div class="row">
+		<!-- LOGO -->
+		<div class="col-xs-12 col-sm-12 logo">
+			<div class="logo-image">
+				<a href="/" title="American Herald Tribune">
+											<img class="logo-img" src="/images/brand/dark-logo.png" alt="American Herald Tribune" />
+															<span>American Herald Tribune</span>
+				</a>
+				<small class="site-slogan"></small>
+			</div>
+		</div>
+		<!-- //LOGO -->
+
+					<div class="col-xs-12 col-sm-2 header-search">
+									<!-- HEAD SEARCH -->
+					<div class="head-search ">
+						
+
+<div class="custom"  >
+	<div class="social"><a href="https://facebook.com/AHTribune" target="_blank" class="social"><em class="fa fa-facebook"></em></a> <a href="https://twitter.com/AhTribune" target="_blank" class="social"><em class="fa fa-twitter"></em></a> <a href="#" class="social"><em class="fa fa-youtube-play"></em></a> <a href="#" class="social" data-toggle="modal" data-target="#search-modal"><em class="fa fa-search"></em></a></div>
+<!-- Modal -->
+<div id="search-modal" class="modal fade" tabindex="-1">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button>
+<h4 id="search-modal" class="modal-title">Search</h4>
+</div>
+<div class="modal-body">﻿<div class="search">
+	<form action="/search.html" method="get" class="form-inline form-search">
+		<label for="mod-search-searchword" class="element-invisible">Search ...</label> <input name="keyword" id="mod-search-searchword" maxlength="200"  class="form-control search-query" type="search" size="0" placeholder="Search ..." />
+	</form>
+</div></div>
+</div>
+</div>
+</div></div>
+
+					</div>
+					<!-- //HEAD SEARCH -->
+				
+							</div>
+		
+	</div>
+</header>
+<!-- //HEADER -->
+
+  
+<!-- MAIN NAVIGATION -->
+<nav id="t3-mainnav" class="wrap navbar navbar-default t3-mainnav">
+	<div class="container">
+
+		<!-- Brand and toggle get grouped for better mobile display -->
+		<div class="navbar-header">
+		
+											<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".t3-navbar-collapse">
+					<i class="fa fa-bars"></i>
+				</button>
+			
+							
+<button class="btn btn-primary off-canvas-toggle " type="button" data-pos="left" data-nav="#t3-off-canvas" data-effect="off-canvas-effect-4">
+  <i class="fa fa-bars"></i>
+</button>
+
+<!-- OFF-CANVAS SIDEBAR -->
+<div id="t3-off-canvas" class="t3-off-canvas ">
+
+  <div class="t3-off-canvas-header">
+    <h2 class="t3-off-canvas-header-title">Sidebar</h2>
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+  </div>
+
+  <div class="t3-off-canvas-body">
+    <div class="t3-module module " id="Mod125"><div class="module-inner"><div class="module-ct">
+<script type="text/javascript">
+var onProcess = false;
+jQuery(document).ready(function($){
+	var acMenu = $("#accordion_menu_125");
+	acMenu.find("a").click(function(){
+		if ($(this).attr("target") == '_blank') {
+			window.open($(this).attr("href"));
+		} else {
+			location = $(this).attr("href");
+		}
+		return false;
+	});
+
+	try{
+		var current = $("#accordion_menu_125 li.opened");
+		var root = current.parents('.accordion-menu'), lis = current.parents('li');
+		$('li', root).filter(lis).addClass('opened');
+	} catch(e){
+		console.log(e.message);
+	}
+	$("#accordion_menu_125 li.opened > .ul-wrapper").css("display","block");
+	$("#accordion_menu_125 li.opened > .item-wrapper .menu-button img").attr("src", "/modules/mod_cinch_menu/tmpl/images/minus.png");
+
+	acMenu.find(".item-wrapper").click(function(){
+		var li = $(this).parent('li');
+		if(li.hasClass("opened")){
+			// Close this item and once slideUp is complete, ensure children are also closed
+			li.children(".ul-wrapper").slideUp(200, function() {
+				li.find(".item-wrapper > .menu-button > img").attr("src", "/modules/mod_cinch_menu/tmpl/images/plus.png");
+				li.find("li.opened").removeClass("opened");
+				li.find(".ul-wrapper").css("display","none");
+				li.removeClass("opened");
+			});
+		}else{
+			// Close all siblings (and their children) and open this one
+			var openedLi = li.parent().children("li.opened");
+			openedLi.children(".ul-wrapper").slideUp(200, function() {
+				openedLi.find(".item-wrapper > .menu-button > img").attr("src", "/modules/mod_cinch_menu/tmpl/images/plus.png");
+				openedLi.find("li.opened").removeClass("opened");
+				openedLi.find(".ul-wrapper").css("display","none");
+				openedLi.removeClass("opened");
+			});
+			var ul = li.children(".ul-wrapper");
+			if(ul.length != 0){
+				li.addClass("opened");
+				li.children(".item-wrapper").children(".menu-button").children("img").attr("src", "/modules/mod_cinch_menu/tmpl/images/minus.png");
+				ul.slideDown(200);
+			}
+		}
+		return false;
+	});
+});
+</script>	<ul class='accordion-menu text-left button-right' id='accordion_menu_125'>
+	<li class='first'>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/economy.html'>Economy</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'><img class='menuicon' alt='' src='/modules/mod_cinch_menu/tmpl/images/plus.png'/></div>
+			<div class='menu-link'><a href='/videos.html'>Videos</a></div>
+		</div>
+	<div class='ul-wrapper'><ul>
+	<li class='first'>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/videos/human-rights.html'>Human Rights</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/videos/religion.html'>Religion</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/videos/youth.html'>Youth</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/videos/history.html'>History</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/videos/politics.html'>Politics</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/videos/miscellaneous.html'>Miscellaneous</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/videos/economy.html'>Economy</a></div>
+		</div>
+	</li>
+	<li class='last'>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/videos/ffwn.html'>False Flag Weekly News</a></div>
+		</div>
+		</li>
+	</ul></div></li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/imagery.html'>Imagery</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'><img class='menuicon' alt='' src='/modules/mod_cinch_menu/tmpl/images/plus.png'/></div>
+			<div class='menu-link'><a href='/us.html'>U.S.</a></div>
+		</div>
+	<div class='ul-wrapper'><ul>
+	<li class='first'>
+		<div class='item-wrapper'>
+			<div class='menu-button'><img class='menuicon' alt='' src='/modules/mod_cinch_menu/tmpl/images/plus.png'/></div>
+			<div class='menu-link'><a href='/us/2016-election.html'>2016 Election</a></div>
+		</div>
+	<div class='ul-wrapper'><ul>
+	<li class='first last'>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/us/2016-election/sanders-for-president.html'>Sanders for President</a></div>
+		</div>
+		</li>
+	</ul></div></li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/us/orlando-shooting.html'>Orlando Shooting</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/us/black-america.html'>Black America</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/us/fake-news.html'>Fake News</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/us/maga.html'>MAGA</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/us/vault-7.html'>Vault 7</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/us/trump-at-war.html'>Trump at War</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/us/anglo-america.html'>Anglo-America</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/us/2020-election.html'>2020 Election</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/us/israelgate.html'>#IsraelGate</a></div>
+		</div>
+	</li>
+	<li class='last'>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/us/metoo.html'>#MeToo</a></div>
+		</div>
+		</li>
+	</ul></div></li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'><img class='menuicon' alt='' src='/modules/mod_cinch_menu/tmpl/images/plus.png'/></div>
+			<div class='menu-link'><a href='/world.html'>World</a></div>
+		</div>
+	<div class='ul-wrapper'><ul>
+	<li class='first'>
+		<div class='item-wrapper'>
+			<div class='menu-button'><img class='menuicon' alt='' src='/modules/mod_cinch_menu/tmpl/images/plus.png'/></div>
+			<div class='menu-link'><a href='/world/africa.html'>Africa</a></div>
+		</div>
+	<div class='ul-wrapper'><ul>
+	<li class='first last'>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/world/africa/nigeria-massacre.html'>Nigeria Massacre</a></div>
+		</div>
+		</li>
+	</ul></div></li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'><img class='menuicon' alt='' src='/modules/mod_cinch_menu/tmpl/images/plus.png'/></div>
+			<div class='menu-link'><a href='/world/americas.html'>Americas</a></div>
+		</div>
+	<div class='ul-wrapper'><ul>
+	<li class='first'>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/world/americas/2015-canadian-election.html'>2015 Canadian Election</a></div>
+		</div>
+	</li>
+	<li class='last'>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/world/americas/academic-freedom.html'>Academic Freedom</a></div>
+		</div>
+		</li>
+	</ul></div></li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'><img class='menuicon' alt='' src='/modules/mod_cinch_menu/tmpl/images/plus.png'/></div>
+			<div class='menu-link'><a href='/world/asia-pacific.html'>Asia & Pacific</a></div>
+		</div>
+	<div class='ul-wrapper'><ul>
+	<li class='first last'>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/world/asia-pacific/rohingya-genocide.html'>Rohingya Crisis</a></div>
+		</div>
+		</li>
+	</ul></div></li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'><img class='menuicon' alt='' src='/modules/mod_cinch_menu/tmpl/images/plus.png'/></div>
+			<div class='menu-link'><a href='/world/europe.html'>Europe</a></div>
+		</div>
+	<div class='ul-wrapper'><ul>
+	<li class='first'>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/world/europe/paris-attacks.html'>Paris Attacks</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/world/europe/galloway-4-london.html'>Galloway 4 London</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/world/europe/brexit.html'>Brexit</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/world/europe/french-election.html'>French Election</a></div>
+		</div>
+	</li>
+	<li class='last'>
+		<div class='item-wrapper'>
+			<div class='menu-button'><img class='menuicon' alt='' src='/modules/mod_cinch_menu/tmpl/images/plus.png'/></div>
+			<div class='menu-link'><a href='/world/europe/uk.html'>UK</a></div>
+		</div>
+	<div class='ul-wrapper'><ul>
+	<li class='first last'>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/world/europe/uk/skirpal.html'>Skirpal</a></div>
+		</div>
+		</li>
+	</ul></div></li>
+	</ul></div></li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'><img class='menuicon' alt='' src='/modules/mod_cinch_menu/tmpl/images/plus.png'/></div>
+			<div class='menu-link'><a href='/world/north-africa-south-west-asia.html'>North Africa & South West Asia</a></div>
+		</div>
+	<div class='ul-wrapper'><ul>
+	<li class='first'>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/world/north-africa-south-west-asia/third-intifada.html'>Third Intifada</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/world/north-africa-south-west-asia/refugee-crisis.html'>Refugee Crisis</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/world/north-africa-south-west-asia/syria-crisis.html'>Syria Crisis</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/world/north-africa-south-west-asia/war-on-yemen.html'>War on Yemen</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/world/north-africa-south-west-asia/islamic-revolution.html'>Islamic Revolution</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/world/north-africa-south-west-asia/saudi-uprising.html'>Saudi Uprising</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/world/north-africa-south-west-asia/bahrain-uprising.html'>Bahrain Uprising</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/world/north-africa-south-west-asia/saudi-qatar-rift.html'>Saudi-Qatar Rift</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/world/north-africa-south-west-asia/quds-day.html'>Quds Day</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/world/north-africa-south-west-asia/palestine.html'>Palestine</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/world/north-africa-south-west-asia/lebanon.html'>Lebanon</a></div>
+		</div>
+	</li>
+	<li class='last'>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/world/north-africa-south-west-asia/iran.html'>Iran</a></div>
+		</div>
+		</li>
+	</ul></div></li>
+	<li class='last'>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/world/unga.html'>UNGA</a></div>
+		</div>
+		</li>
+	</ul></div></li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'><img class='menuicon' alt='' src='/modules/mod_cinch_menu/tmpl/images/plus.png'/></div>
+			<div class='menu-link'><a href='/opinion.html'>Opinion</a></div>
+		</div>
+	<div class='ul-wrapper'><ul>
+	<li class='first'>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/opinion/columnists.html'>Columnists</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/opinion/contributors.html'>Contributors</a></div>
+		</div>
+	</li>
+	<li class='last'>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/opinion/editorials.html'>Editorials</a></div>
+		</div>
+		</li>
+	</ul></div></li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/in-depth.html'>In Depth</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/politics.html'>Politics</a></div>
+		</div>
+	</li>
+	<li class='current opened'>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/religion.html'>Religion</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/history.html'>History</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/youth.html'>Youth</a></div>
+		</div>
+	</li>
+	<li class='last'>
+		<div class='item-wrapper'>
+			<div class='menu-button'><img class='menuicon' alt='' src='/modules/mod_cinch_menu/tmpl/images/plus.png'/></div>
+			<div class='menu-link'><a href='/human-rights.html'>Human Rights</a></div>
+		</div>
+	<div class='ul-wrapper'><ul>
+	<li class='first last'>
+		<div class='item-wrapper'>
+			<div class='menu-button'></div>
+			<div class='menu-link'><a href='/human-rights/american-human-rights.html'>American Human Rights</a></div>
+		</div>
+	</li></ul>
+	</li></ul>
+	</li></ul>
+</div></div></div>
+  </div>
+
+</div>
+<!-- //OFF-CANVAS SIDEBAR -->
+			
+		</div>
+
+					<div class="t3-navbar-collapse navbar-collapse collapse"></div>
+		
+		<div class="t3-navbar navbar-collapse collapse">
+			<div  class="t3-megamenu animate fading"  data-duration="400" data-responsive="true">
+<ul class="nav navbar-nav level0">
+<li class="display-none" data-id="128" data-level="1" data-class="display-none">
+<a class="" href="/economy.html"   data-target="#">Economy </a>
+
+</li>
+<li class="dropdown mega display-none" data-id="130" data-level="1" data-class="display-none">
+<a class=" dropdown-toggle" href="/videos.html"   data-target="#" data-toggle="dropdown">Videos <em class="caret"></em></a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul class="mega-nav level1">
+<li  data-id="160" data-level="2">
+<a class="" href="/videos/human-rights.html"   data-target="#">Human Rights </a>
+
+</li>
+<li  data-id="161" data-level="2">
+<a class="" href="/videos/religion.html"   data-target="#">Religion </a>
+
+</li>
+<li  data-id="162" data-level="2">
+<a class="" href="/videos/youth.html"   data-target="#">Youth </a>
+
+</li>
+<li  data-id="163" data-level="2">
+<a class="" href="/videos/history.html"   data-target="#">History </a>
+
+</li>
+<li  data-id="164" data-level="2">
+<a class="" href="/videos/politics.html"   data-target="#">Politics </a>
+
+</li>
+<li  data-id="165" data-level="2">
+<a class="" href="/videos/miscellaneous.html"   data-target="#">Miscellaneous </a>
+
+</li>
+<li  data-id="166" data-level="2">
+<a class="" href="/videos/economy.html"   data-target="#">Economy </a>
+
+</li>
+<li  data-id="180" data-level="2">
+<a class="" href="/videos/ffwn.html"   data-target="#">False Flag Weekly News </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li class="display-none" data-id="131" data-level="1" data-class="display-none">
+<a class="" href="/imagery.html"   data-target="#">Imagery </a>
+
+</li>
+<li class="display-none" data-id="101" data-level="1" data-class="display-none">
+<a class="" href="/"   data-target="#">Home </a>
+
+</li>
+<li  data-id="108" data-level="1" data-hidesub="1">
+<a class="" href="/us.html"   data-target="#">U.S. </a>
+
+</li>
+<li  data-id="107" data-level="1" data-hidesub="1">
+<a class="" href="/world.html"   data-target="#">World </a>
+
+</li>
+<li  data-id="110" data-level="1" data-hidesub="1">
+<a class="" href="/opinion.html"   data-target="#">Opinion </a>
+
+</li>
+<li  data-id="111" data-level="1">
+<a class="" href="/in-depth.html"   data-target="#">In Depth </a>
+
+</li>
+<li  data-id="109" data-level="1">
+<a class="" href="/politics.html"   data-target="#">Politics </a>
+
+</li>
+<li class="current active" data-id="112" data-level="1">
+<a class="" href="/religion.html"   data-target="#">Religion </a>
+
+</li>
+<li  data-id="113" data-level="1">
+<a class="" href="/history.html"   data-target="#">History </a>
+
+</li>
+<li  data-id="114" data-level="1">
+<a class="" href="/youth.html"   data-target="#">Youth </a>
+
+</li>
+<li class="dropdown mega" data-id="129" data-level="1">
+<a class=" dropdown-toggle" href="/human-rights.html"   data-target="#" data-toggle="dropdown">Human Rights <em class="caret"></em></a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul class="mega-nav level1">
+<li  data-id="198" data-level="2">
+<a class="" href="/human-rights/american-human-rights.html"   data-target="#">American Human Rights </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li class="all-menu off-canvas-toggle" data-id="116" data-level="1" data-class="all-menu off-canvas-toggle">
+<a class="" href="#"   data-target="#">All</a>
+
+</li>
+</ul>
+</div>
+
+		</div>
+
+	</div>
+</nav>
+<!-- //MAIN NAVIGATION -->
+
+  
+	<!-- SPOTLIGHT TREND -->
+	<div class="container t3-sl t3-sl-1">
+			<!-- SPOTLIGHT -->
+	<div class="t3-spotlight t3-spotlight-trend  row">
+					<div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12">
+								<div class="t3-module module " id="Mod89"><div class="module-inner"><div class="module-ct">
+<div class="container trend_categories">
+  <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12 trend-title">
+    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+		<span class="trend-icon">
+			<svg xml:space="preserve" enable-background="new 58 463 882 630" viewBox="58 463 882 630" y="0px" x="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1"><g><circle r="95.8" cy="918.8" cx="611.8"></circle><circle r="95.8" cy="695.1" cx="388.2"></circle><circle r="95.8" cy="982.7" cx="164.5"></circle><circle r="95.8" cy="567.3" cx="835.5"></circle><g><polygon points="175.1,994 153.9,977.8 386.8,674.9 609.5,897.5 824.2,560.1 846.8,574.5 614.2,940.1 389.5,715.4"></polygon></g></g></svg>		
+		</span>
+    </div>
+    <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
+      <span class="font-size-18 font-weight-600">TRENDING TOPICS</span>
+    </div>
+  </div>
+
+  <div class="col-lg-10 col-md-10 col-sm-12 col-xs-12">
+	
+		
+	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 parallelogram padding-0"><div class="inner">
+	<a href="/world/europe/uk/skirpal.html">	<img src='/../cache/thumbs/d4a30943cd33f7e82680a12ed008084f.jpg' alt='Skirpal' /></a>
+		<a href="/world/europe/uk/skirpal.html">		<div class="trending-category-title">
+			Skirpal		</div>
+		</a>	
+		<div class="triangle triangle-right"></div><div class="triangle triangle-left"></div>
+	</div></div>
+	
+		
+	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 parallelogram padding-0"><div class="inner">
+	<a href="/us/israelgate.html">	<img src='/../cache/thumbs/bbd4411bbb2c2e331915e02cd239cb8d.jpg' alt='#IsraelGate' /></a>
+		<a href="/us/israelgate.html">		<div class="trending-category-title">
+			#IsraelGate		</div>
+		</a>	
+		<div class="triangle triangle-right"></div><div class="triangle triangle-left"></div>
+	</div></div>
+	
+		
+	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 parallelogram padding-0"><div class="inner">
+	<a href="/us/maga.html">	<img src='/../cache/thumbs/4f1beba4e202d9e56f7b892fe7fc40ca.jpg' alt='MAGA' /></a>
+		<a href="/us/maga.html">		<div class="trending-category-title">
+			MAGA		</div>
+		</a>	
+		<div class="triangle triangle-right"></div><div class="triangle triangle-left"></div>
+	</div></div>
+	
+		
+	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 parallelogram padding-0"><div class="inner">
+	<a href="/world/north-africa-south-west-asia/syria-crisis.html">	<img src='/../cache/thumbs/be205820138061a42e7ce767621bf3f6.jpg' alt='Syria Crisis' /></a>
+		<a href="/world/north-africa-south-west-asia/syria-crisis.html">		<div class="trending-category-title">
+			Syria Crisis		</div>
+		</a>	
+		<div class="triangle triangle-right"></div><div class="triangle triangle-left"></div>
+	</div></div>
+	  </div>
+</div></div></div></div><div class="t3-module module " id="Mod110"><div class="module-inner"><div class="module-ct">
+<ol class="breadcrumb ">
+	<li class="active"><span class="hasTooltip"></span></li><li><a href="/religion.html" class="pathway">Religion</a></li></ol>
+</div></div></div>
+							</div>
+			</div>
+<!-- SPOTLIGHT -->	</div>
+	<!-- //SPOTLIGHT TREND -->
+
+
+
+
+
+
+
+
+
+
+  
+<div id="t3-mainbody" class="container t3-mainbody">
+	<div class="row">
+
+		<!-- MAIN CONTENT -->
+		<div id="t3-content" class="t3-content col-xs-12 col-sm-9">
+						
+<div class="item-page border-right-grey padding-right-20" itemscope itemtype="http://schema.org/Article">
+	<meta itemprop="inLanguage" content="en-GB" />
+	
+
+		
+		
+
+	<div class="page-header">
+	
+		
+		<div class="container-fluid font-family-oswald font-weight-300 padding-bottom-15 font-size-16">
+			<div class="article-date uppercase col-sm-6 col-xs-6">March 20 ,2018</div>
+			<div class="article-author uppercase col-sm-6 col-xs-6">
+			
+						<span class="">BY <a href="/author.html?id=899">Catherine Shakdam</a></span> 
+			
+			<span>
+						</span> 
+			
+			<span>
+							<a class = "grey padding-left-5" href="https://twitter.com/ShakdamC" target="_blank"><i class="fa fa-twitter"></i></a>
+						</span> 
+
+			<span>
+						</span> 
+			
+			</div>         
+		</div>
+	
+		<h1 itemprop="name">
+							Rights Activists Take to The UN Human Rights Council to End Saudi Arabia's Religious Persecution					</h1>
+	
+	
+							</div>
+										
+	
+		
+								<div class="article-inner" itemprop="articleBody">
+		<div class='article-share-box font-family-oswald uppercase'><p class='text-align-center'>37 Shares</p><ul><li><a class='article-social facebook' href='http://facebook.com/share.php?u=https://ahtribune.com/religion/2189-rights-activists-saudi-arabia-religious-persecution.html&title=Rights Activists Take to The UN Human Rights Council to End Saudi Arabia&#039;s Religious Persecution' target='_blank'><i class='fa fa-facebook'></i></a><span>37</span></li><li><a class='article-social twitter' href='http://twitter.com/intent/tweet?status=Rights Activists Take to The UN Human Rights Council to End Saudi Arabia&#039;s Religious Persecution+https://ahtribune.com/religion/2189-rights-activists-saudi-arabia-religious-persecution.html' target='_blank'><i class='fa fa-twitter'></i></a><span></span></li><li><a class='article-social reddit' href='http://reddit.com/submit?url=https://ahtribune.com/religion/2189-rights-activists-saudi-arabia-religious-persecution.html&title=Rights Activists Take to The UN Human Rights Council to End Saudi Arabia&#039;s Religious Persecution' target='_blank'><i class='fa fa-reddit'></i></a><span>0</span></li><li><a class='article-social linkedin' href='http://linkedin.com/shareArticle?mini=true&url=https://ahtribune.com/religion/2189-rights-activists-saudi-arabia-religious-persecution.html&title=Rights Activists Take to The UN Human Rights Council to End Saudi Arabia&#039;s Religious Persecution' target='_blank'><i class='fa fa-linkedin'></i></a><span>0</span></li><li><a class='article-social googleplus' href='https://plus.google.com/share?url=https://ahtribune.com/religion/2189-rights-activists-saudi-arabia-religious-persecution.html' target='_blank'><i class='fa fa-google-plus'></i></a><span>0</span></li><li><a class='article-social email' href='http://ahtribune.com/component/mailto/?tmpl=component&template=t3_bs3_blank&link=https://ahtribune.com/religion/2189-rights-activists-saudi-arabia-religious-persecution.html' target='_blank'><i class='fa fa-envelope'></i></a></li><li><a class='article-social print' href='https://ahtribune.com/religion/2189-rights-activists-saudi-arabia-religious-persecution.html?tmpl=component&print=1&layout=default' target='_blank'><i class='fa fa-print'></i></a></li></ul></div><p style="text-align: center;"> <img src="/images/Salman_c61ef.jpg" alt="Salman c61ef" /></p>
+<p>While public opinion has grown rather dismissive of the Islamic World on account Islam has been labelled a vengeful and irrationally reactionary faith, it would serve the majority to finally admit that if indeed Islam has been wielded as a weapon of war, it has been so, on account a certain elite has sat, controlled and one may even add, hijacked Islam’s holiest of sanctuaries: Mecca, and thus risen itself as owner of a faith shared by over a billion people.</p>
+<p>If Islam today inspires fear and hatred it is most certainly because it was molded to the image of its self-proclaimed guardians: the powerful Al Saud clan, who, since the fall of the Ottoman Empire bestowed upon themselves the coveted title of Custodians of the Two Holy Mosques. Such title, however empty of legitimacy, has essentially asserted Al Saud’s authority as a religious compass.</p>
+<p>Those who resisted such infringement onto their religious rights - in Islam there can be no compulsion, have learnt, through much blood and violence, that Al Saud’s interpretation of Islam is that in fact of sectarianism and feudalism.</p>
+<p>Under the rule of the Bedouins, just as it has been so since the dawn of time, the only allegiance to be had is that dictated by the king … God and religion are but subservient tools to his ambitions.</p>
+<div class='article_advertise'><script type="text/javascript">
+/* VRTZ JS   728 x 90 pagead  DO NOT MODIFY  */
+document.write('<s'+'cript src="//banner.vrtzads.com/scripts/pageads.js?vzId=VZR536034VF36H1C&vzR='+Math.floor(Math.random()*100*(new Date().getTime()/1000))+'"></s'+'cript>');
+</script></div><p>A reactionary theocracy sold to Salafism - an extreme and devolute interpretation of Islam rooted around the concept of Takfir, an ideology which calls for the death of all apostates (in the case of Saudi Arabia anyone offering a whisper of rebuttal) the kingdom has justified its <a href="https://www.hrw.org/news/2017/08/24/anti-shia-bias-driving-saudi-arabia-unrest">persecution </a>of religious minorities on the basis of its own absolutism.</p>
+<div class='article-related-inner'><div class="moduletable">
+							<h3>MORE...</h3>
+						<ul class="relateditems">
+<li>
+	<a href="/religion/1498-belgian-saudi-wahhabism.html">
+				Belgium Alarm over Spread of Saudi-backed Wahhabism</a>
+</li>
+<li>
+	<a href="/opinion/1120-bread-and-circuses.html">
+				The awful truth behind the bread and circuses</a>
+</li>
+<li>
+	<a href="/religion/692-america-catches-up-with-wahhabism.html">
+				America finally catches up with Wahhabism’ genocidal agenda</a>
+</li>
+<li>
+	<a href="/religion/460-al-kalbani-isil-follows-saudi.html">
+				Al-Kalbani: ISIL follows Saudi brand of Islam; Wahhabi Salafism </a>
+</li>
+</ul>
+
+<style>
+.article-related-inner { width: 250px; float: left; margin: 5px 15px 5px 0; background: #D2D3D5; text-transform: uppercase; }
+</style>		</div></div><p>Under the rule of Saudi Arabia’s Salafi clergy, those standing in contradiction to Salafism rigid belief system, ought to be laid waste to in whichever way befitting the occasion: torture, flogging, beheading, crucifixion … sometimes both.</p>
+<p>Clerics have had no qualms aligning their dogma to that of Terror - squarely landing Salafism and Wahhabism within the realm of the abominable and the terrible.</p>
+<p>In 2016 footage translated by British think tank Integrity UK showed leading cleric, <a href="/religion/460-al-kalbani-isil-follows-saudi.html" target="_blank">Sheikh Adel al-Kalbani</a> speaking to the Dubai-based<a href="https://www.youtube.com/watch?v=GWORE6OBfhc"> channel MBC </a>about what he believes are the roots of Daesh/ISIS.</p>
+<blockquote>
+<p>“We follow the same thought [as Daesh] but apply it in a refined way,” he said. “They draw their ideas from what is written in our own books, from our own principles.”</p>
+</blockquote>
+<p>The cleric said that “<em>we do not criticise the thought on which it (Daeah) is based</em>.”</p>
+<p>What left is there to say as far as the nature of Al Saud’s fronted ‘faith’ goes?</p>
+<p>Evidently quite a lot since the kingdom has been rationalised as a flag bearer for the Islamic World - a worthy ally to western liberal democracies, and a friend to those who cherish secularism over the distasteful diktat of theocratism. I suppose the irony of such a paradox would be amusing if not dreadfully terrifying.</p>
+<p>The kingdom as it were, is not just in the business of spreading dogmatism outside its borders so that more communities could be brought under its ruling house: Al Saud. The kingdom ambitions to redact the religious history of Islam by persecuting its many communities so that only one will endure: that endorsed by Al Saud.</p>
+<p>In September 2016 the Al Baqee Organization told the <em><a href="https://www.huffingtonpost.com/entry/oppression-in-the-hijaz-how-al-saud-stole-islams_us_57d7003ce4b0f831f7072577">Huffington Post</a></em>: “<em>Ninety-eight percent of Islamic heritage has been destroyed at the hands of Wahhabism. No longer will we tolerate this cultural genocide. No more will we permit the peaceful message of Islam to be hijacked, and our history annihilated at the hands of Wahhabi terrorists.</em>”</p>
+<p>Not all people are ready to keep mum before Al Saud’s terrorism. And while I grant you such people sit a minority before the tentacular monster that is the Saudi lobby, their voices will hopefully carry loud enough, and convincingly enough for reason to finally win over insanity.</p>
+<p>“<em>Saudi Arabia’s reign of sectarian-based terror over religious minorities during the Hajj must stop, and if not, at the very least acknowledge as a clear violation of international law</em>” - such has been the motto of the Al Baqee Organization as, over a year ago, it decided to file an official complaint before the United Nations.</p>
+<p>On March 16, the <a href="http://baqee.org/">Al Baqee Organization</a>  registered a Universal Periodic Review (UPR) at  the United Nations, under the auspices of the Human Rights Council, to denounce Saudi Arabia’s violence, and demand that protection be granted to pilgrims - whichever their religious inclination might be.</p>
+<blockquote>
+<p>“Religious freedom is a basic human right that should suffer no limitation. While Mecca happens to be under the territorial jurisdiction of the Kingdom of Saudi Arabia, we believe that the holy nature of Mecca and the Hajj pilgrimage, should not be ceded to a clergy whose understanding of the Scriptures is rooted in violence, sectarianism, and fanaticism,” reads the press release.</p>
+</blockquote>
+<p>The Universal Periodic Review (UPR) is a unique process which involves a review of the human rights records of all UN Member States. The UPR is a State-driven process, under the auspices of the Human Rights Council, which provides the opportunity for each State to declare what actions they have taken to improve the human rights situations in their countries and to fulfil their human rights obligations.</p>
+<p>As one of the main features of the Council, the UPR is designed to ensure equal treatment for every country when their human rights situations are assessed. The ultimate aim of this mechanism is to improve the human rights situation in all countries and address human rights violations wherever they occur. Currently, no other universal mechanism of this kind exists.</p>
+<p>Speaking on its efforts to call on the international community to address Saudi Arabia’s sectarian ‘culture’, the Al Baqee Organization notes: “<em>This submission highlights the destruction of Islamic heritage and sacred sites by the Kingdom of Saudi Arabia and the <a href="https://www.huffingtonpost.com/entry/sectarian-exclusionism-saudi-arabias-unspoken-crusade_us_59469546e4b0940f84fe2f8b">systematic abuse of Muslim pilgrims</a> wishing to visit those sites</em>.”</p>
+<p>And:</p>
+<blockquote>
+<p>“Al Baqee calls on the Kingdom of Saudi Arabia to reform its current domestic law and policy in order to comply with its international legal obligations to preserve religious and cultural heritage sites and to respect the rights of religious minorities who wish to visit and perform religious service at those sites.”</p>
+</blockquote>
+<p>For decades pilgrims have been physically assaulted, verbally harassed - men, women, and children have been brutalized, tortured and intimidated on account their school of thoughts differ from that of the Saudi regime.</p>
+<p>But activists are not stopping there, quite the opposite in fact. A global campaign against religious persecution will kick off on the back of the Al Baqee’s efforts to raise awareness to sectarian-based intolerance, and the need to protect all religious communities, on the basis that freedom of religion is an inherent and inalienable natural right</p>
+<p>Let’s hope that this time such efforts will be granted the attention they deserve.</p> 	</div>
+
+	
+					
+	<div class="tags">
+																	<span class="tag-94 tag-list0" itemprop="keywords">
+					<a href="/component/tags/tag/94-wahhabism.html" class="label label-info">
+						Wahhabism					</a>
+				</span>
+						</div>
+
+<br />
+<div id="ld-2321-1575"></div><script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:9657965921898342,size:[0, 0],id:"ld-2321-1575"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdome.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+<img class="authorbox-separator" src="/images/brand/authorbox-serarator.jpg"></img><p class="font-size-18 font-family-oswald font-weight-300 padding-5-20 margin-0">WRITER</p>
+	<div class="container padding-20 article-author-box background-grey">
+		<div class="col-sm-3 padding-0">
+			<a href="/author.html?id=899"><img src="https://ahtribune.com/images/profile/15cf6a43251126df34e625d1fa698488a8794de1.jpg" alt="" /></a>
+		</div>
+		<div class="col-sm-9">
+			<a class="authorbox-name uppercase font-family-oswald font-size-20" href="/author.html?id=899">Catherine Shakdam</a>
+			<p class="authorbox-bio font-size-16 margin-0">Catherine Shakdam is a political analyst, writer and commentator for the Middle East with a special focus on radical movements and Yemen. The Director of Programs at the Shafaqna Institute for Middle Eastern Studies, Catherine is also the co-founder of Veritas Consulting. She authored Arabia&rsquo;s Rising - Under The Banner Of The First Imam.</p>
+		</div>
+	</div>	
+	<div class="author-box-more">
+		<a href="/author.html?id=899">View All Posts</a>
+	</div><div class="row margin-0 relateditems">
+<h3 class="module-title module-title-border margin-40-0">
+    <span class="font-size-18">Recommended For You</span>
+</h3>
+
+<div class="col-xs-12 col-sm-6 col-md-3">
+	<a href="/us/1947-new-haven-saudi-arabia.html">
+	<img src='/../cache/thumbs/a3262c85a6cb021bf2104416761d7879.jpg' alt='Dirty Ties: The University of New Haven and Saudi Arabia' /></a>
+	<div class="equal-1"><h5 class="text-align-center"><a  href="/us/1947-new-haven-saudi-arabia.html" class="font-weight-600">Dirty Ties: The University of New Haven and Saudi Arabia</a></h5></div><hr />
+	<div class="equal-2"><p>
+It’s a relationship of dirty toxicity, but these abound when universities establish ties with regimes and certain entities.  These migh...</p></div>
+
+			<a class="authorbox-name uppercase font-family-oswald font-size-14 display-block text-align-center margin-20-0" href="/author.html?id=949">By Binoy Kampmark</a>
+	</div>
+<div class="col-xs-12 col-sm-6 col-md-3">
+	<a href="/world/asia-pacific/rohingya-genocide/1928-ethnic-cleansing-in-myanmar.html">
+	<img src='/../cache/thumbs/8b42cec1241e88bcacf6ac45d6f69f3d.jpg' alt='Who Is Responsible for Ethnic Cleansing in Myanmar?' /></a>
+	<div class="equal-1"><h5 class="text-align-center"><a  href="/world/asia-pacific/rohingya-genocide/1928-ethnic-cleansing-in-myanmar.html" class="font-weight-600">Who Is Responsible for Ethnic Cleansing in Myanmar?</a></h5></div><hr />
+	<div class="equal-2"><p> 
+On the 15th of September the dead bodies of a family were discovered by Burmese security forces In Mayu Mountain Rakhine state.The fami...</p></div>
+
+			<a class="authorbox-name uppercase font-family-oswald font-size-14 display-block text-align-center margin-20-0" href="/author.html?id=933">By Gearóid Ó Colmáin</a>
+	</div>
+<div class="col-xs-12 col-sm-6 col-md-3">
+	<a href="/politics/1741-can-there-ever-be-certainty-in-saudi-arabia.html">
+	<img src='/../cache/thumbs/50a42ac36b727ba053c8932deea397af.jpg' alt='Can There Ever be Certainty in Saudi Arabia?' /></a>
+	<div class="equal-1"><h5 class="text-align-center"><a  href="/politics/1741-can-there-ever-be-certainty-in-saudi-arabia.html" class="font-weight-600">Can There Ever be Certainty in Saudi Arabia?</a></h5></div><hr />
+	<div class="equal-2"><p>
+The meteoric rise of Prince Mohammed bin Salman marks an ascendancy unparalleled in Saudi Arabia's modern history but will this soft coup ...</p></div>
+
+			<a class="authorbox-name uppercase font-family-oswald font-size-14 display-block text-align-center margin-20-0" href="/author.html?id=927">By Saurav Dutt</a>
+	</div>
+<div class="col-xs-12 col-sm-6 col-md-3">
+	<a href="/world/north-africa-south-west-asia/1737-coup-in-saudi-arabia.html">
+	<img src='/../cache/thumbs/79ca398fd2fb4cb148afe5529290b44a.jpg' alt='The Millennial’s Palace Coup in Saudi Arabia: How Dangerous?' /></a>
+	<div class="equal-1"><h5 class="text-align-center"><a  href="/world/north-africa-south-west-asia/1737-coup-in-saudi-arabia.html" class="font-weight-600">The Millennial’s Palace Coup in Saudi Arabia: How Dangerous?</a></h5></div><hr />
+	<div class="equal-2"><p>
+The epic battle in the Trump White House between Jared Kushner, the Orthodox Jewish son-in-law, and Steve Bannon, the alt-NeoNazi White Ho...</p></div>
+
+			<a class="authorbox-name uppercase font-family-oswald font-size-14 display-block text-align-center margin-20-0" href="/author.html?id=938">By Juan Cole</a>
+	</div>
+</div><hr />
+
+<script>
+!function(t){t.fn.equalHeights=function(e){var a=0,i=t(this),n=function(){var e=t(this).innerHeight();e>a&&(a=e)};if(e=e||{},i.each(n),!e.wait)return i.css("min-height",a);var h=setInterval(function(){return a>0?(clearInterval(h),i.css("min-height",a)):void i.each(n)},100)},t("[data-equal]").each(function(){var e=t(this),a=e.data("equal");e.find(a).equalHeights()})}(jQuery);
+$('.equal-1').equalHeights();
+$('.equal-2').equalHeights();
+</script><script>
+
+</script>
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'americanheraldtribune';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+	
+	</div>
+		</div>
+		<!-- //MAIN CONTENT -->
+
+		<!-- SIDEBAR RIGHT -->
+		<div class="t3-sidebar t3-sidebar-right col-xs-12 col-sm-3  ">
+			<script type="text/javascript">
+/* VRTZ JS   300 x 250 pagead  DO NOT MODIFY  */
+document.write('<s'+'cript src="//banner.vrtzads.com/scripts/pageads.js?vzId=VZG163861V0B1BDB&vzR='+Math.floor(Math.random()*100*(new Date().getTime()/1000))+'"></s'+'cript>');
+</script><div class="t3-module module " id="Mod134"><div class="module-inner"><div class="module-ct">
+
+<div class="custom"  >
+	<div style="display: table; margin: 0px auto 17px;">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="86T6LKJE56J9U">
+<input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div></div>
+</div></div></div><div id="A8cpinpT5uYJHSMKKeOaKEIplNukMAJOD9ZTfXP4"></div>
+
+<script src="https://s.newsmaxfeednetwork.com/static/js/connectV5.js"></script>
+<script type="text/javascript">
+    NM.init({
+        widgetId: "A8cpinpT5uYJHSMKKeOaKEIplNukMAJOD9ZTfXP4",
+         template: "NM19"
+    });
+
+</script><div class="t3-module module " id="Mod117"><div class="module-inner"><div class="module-ct">
+
+<div class="custom"  >
+	<ul class="nav nav-tabs atricle-tab">
+<li class="active"><a href="#trending" data-toggle="tab">POPULAR</a></li>
+<li><a href="#latest" data-toggle="tab">LATEST</a></li>
+</ul>
+<div class="tab-content">
+<div id="trending" class="tab-pane fade in active"><div id="btcontentslider114" style="width:auto" class="bt-cs">
+			<div class="slides_containers" style="width:auto;">
+
+			<div class="slides" style="width:auto">
+					<div class="bt-row bt-row-first"  style="width:100%" >
+				<div class="bt-inner">
+								
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="All The Shit That’s Fit to Print against Syria and Russia" href="/world/north-africa-south-west-asia/syria-crisis/2182-skirpal-east-ghouta.html">
+						<img  src="https://ahtribune.com/cache/thumbs/582ab3fdc5b480e317085d08736f0791-Hill_Rom_0912a.jpg" alt="All The Shit That’s Fit to Print against Syria and Russia"  style="width:300px;" title="All The Shit That’s Fit to Print against Syria and Russia" />
+					</a>
+					</div>
+										
+										<a class="bt-title font-size-16 font-weight-400 padding-5-0 display-block" target="_parent"
+						title="All The Shit That’s Fit to Print against Syria and Russia"
+						href="/world/north-africa-south-west-asia/syria-crisis/2182-skirpal-east-ghouta.html"> All The Shit That’s Fit to Print against Syria and Russia </a>
+															
+										<div class="bt-extra uppercase font-family-oswald margin-bottom-30 padding-5-0">
+					
+												<span class="bt-author">By <a href="/author.html?id=1016" >Jeremy Salt</a>						</span>
+						<span> | </span><span class="red">704 Shares</span>						
+																	</div>
+					
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+						<div class="bt-row "  style="width:100%" >
+				<div class="bt-inner">
+								
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Good Wishes for Nowruz" href="/world/north-africa-south-west-asia/iran/2185-netanyahu-nowruz.html">
+						<img  src="https://ahtribune.com/cache/thumbs/bbe3a39a64719ab5f08bf95a192fc3c7-Netanyahu_with_Iranian_carpet_6a69f.jpg" alt="Good Wishes for Nowruz"  style="width:300px;" title="Good Wishes for Nowruz" />
+					</a>
+					</div>
+										
+										<a class="bt-title font-size-16 font-weight-400 padding-5-0 display-block" target="_parent"
+						title="Good Wishes for Nowruz"
+						href="/world/north-africa-south-west-asia/iran/2185-netanyahu-nowruz.html"> Good Wishes for Nowruz </a>
+															
+										<div class="bt-extra uppercase font-family-oswald margin-bottom-30 padding-5-0">
+					
+												<span class="bt-author">By <a href="/author.html?id=890" >Miko Peled</a>						</span>
+						<span> | </span><span class="red">410 Shares</span>						
+																	</div>
+					
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+						<div class="bt-row "  style="width:100%" >
+				<div class="bt-inner">
+								
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="The Last Days of East Ghouta" href="/world/north-africa-south-west-asia/syria-crisis/2181-last-days-of-east-ghouta.html">
+						<img  src="https://ahtribune.com/cache/thumbs/a78329a1a646cb823499ed64f6d1c803-Shifouniyeh__Misraba_24282.jpg" alt="The Last Days of East Ghouta"  style="width:300px;" title="The Last Days of East Ghouta" />
+					</a>
+					</div>
+										
+										<a class="bt-title font-size-16 font-weight-400 padding-5-0 display-block" target="_parent"
+						title="The Last Days of East Ghouta"
+						href="/world/north-africa-south-west-asia/syria-crisis/2181-last-days-of-east-ghouta.html"> The Last Days of East Ghouta </a>
+															
+										<div class="bt-extra uppercase font-family-oswald margin-bottom-30 padding-5-0">
+					
+												<span class="bt-author">By <a href="/author.html?id=929" >Steven Sahiounie</a>						</span>
+						<span> | </span><span class="red">367 Shares</span>						
+																	</div>
+					
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+						<div class="bt-row "  style="width:100%" >
+				<div class="bt-inner">
+								
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Colonialism by another Name" href="/economy/2184-colonialism-another-name.html">
+						<img  src="https://ahtribune.com/cache/thumbs/596972f1f4ed38f0a7872bf760907598-IMF_Colonialism_46b49.jpeg" alt="Colonialism by another Name"  style="width:300px;" title="Colonialism by another Name" />
+					</a>
+					</div>
+										
+										<a class="bt-title font-size-16 font-weight-400 padding-5-0 display-block" target="_parent"
+						title="Colonialism by another Name"
+						href="/economy/2184-colonialism-another-name.html"> Colonialism by another Name </a>
+															
+										<div class="bt-extra uppercase font-family-oswald margin-bottom-30 padding-5-0">
+					
+												<span class="bt-author">By <a href="/author.html?id=941" >Jason Hirthler</a>						</span>
+						<span> | </span><span class="red">210 Shares</span>						
+																	</div>
+					
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+						<div class="bt-row "  style="width:100%" >
+				<div class="bt-inner">
+								
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Standing up for Russia" href="/world/europe/uk/skirpal/2183-standing-up-russia.html">
+						<img  src="https://ahtribune.com/cache/thumbs/06c644faf0f7a2fb82a1f2b3197a4c67-Russia-flagpole_692c9.jpg" alt="Standing up for Russia"  style="width:300px;" title="Standing up for Russia" />
+					</a>
+					</div>
+										
+										<a class="bt-title font-size-16 font-weight-400 padding-5-0 display-block" target="_parent"
+						title="Standing up for Russia"
+						href="/world/europe/uk/skirpal/2183-standing-up-russia.html"> Standing up for Russia </a>
+															
+										<div class="bt-extra uppercase font-family-oswald margin-bottom-30 padding-5-0">
+					
+												<span class="bt-author">By <a href="/author.html?id=922" >David Macilwain</a>						</span>
+						<span> | </span><span class="red">92 Shares</span>						
+																	</div>
+					
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+						<div class="bt-row "  style="width:100%" >
+				<div class="bt-inner">
+								
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Pat Finucane and Rosemary Nelson – Britain’s Record of Conducting State Sponsored Assassinations" href="/world/europe/uk/skirpal/2180-pat-finucane-rosemary-nelson.html">
+						<img  src="https://ahtribune.com/cache/thumbs/0c27fd198b021b19833598aad790a43f-Pat_Finucane_8637e.jpg" alt="Pat Finucane and Rosemary Nelson – Britain’s Record of Conducting State Sponsored Assassinations"  style="width:300px;" title="Pat Finucane and Rosemary Nelson – Britain’s Record of Conducting State Sponsored Assassinations" />
+					</a>
+					</div>
+										
+										<a class="bt-title font-size-16 font-weight-400 padding-5-0 display-block" target="_parent"
+						title="Pat Finucane and Rosemary Nelson – Britain’s Record of Conducting State Sponsored Assassinations"
+						href="/world/europe/uk/skirpal/2180-pat-finucane-rosemary-nelson.html"> Pat Finucane and Rosemary Nelson – Britain’s Record of Conducting State Sponsored Assassinations </a>
+															
+										<div class="bt-extra uppercase font-family-oswald margin-bottom-30 padding-5-0">
+					
+												<span class="bt-author">By <a href="/author.html?id=1022" >Gavin O'Reilly</a>						</span>
+						<span> | </span><span class="red">87 Shares</span>						
+																	</div>
+					
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+						<div class="bt-row "  style="width:100%" >
+				<div class="bt-inner">
+								
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Palestine: The Camps and the Colonies" href="/world/north-africa-south-west-asia/palestine/2187-camps-colonies.html">
+						<img  src="https://ahtribune.com/cache/thumbs/b835321f25229f94d99a15225604fff0-camps-colonies-3_e8c74.JPG" alt="Palestine: The Camps and the Colonies"  style="width:300px;" title="Palestine: The Camps and the Colonies" />
+					</a>
+					</div>
+										
+										<a class="bt-title font-size-16 font-weight-400 padding-5-0 display-block" target="_parent"
+						title="Palestine: The Camps and the Colonies"
+						href="/world/north-africa-south-west-asia/palestine/2187-camps-colonies.html"> Palestine: The Camps and the Colonies </a>
+															
+										<div class="bt-extra uppercase font-family-oswald margin-bottom-30 padding-5-0">
+					
+												<span class="bt-author">By <a href="/author.html?id=970" >Tim Anderson</a>						</span>
+						<span> | </span><span class="red">79 Shares</span>						
+																	</div>
+					
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+						<div class="bt-row "  style="width:100%" >
+				<div class="bt-inner">
+								
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="The Blood of Gaza Will Be on the Hands of Mahmoud Abbas in Israel’s Next Attack" href="/world/north-africa-south-west-asia/palestine/2188-mahmoud-abbas.html">
+						<img  src="https://ahtribune.com/cache/thumbs/51c0c334fd37439ef066b725af3aba85-Mahmoud_Abbas_2_36507.jpg" alt="The Blood of Gaza Will Be on the Hands of Mahmoud Abbas in Israel’s Next Attack"  style="width:300px;" title="The Blood of Gaza Will Be on the Hands of Mahmoud Abbas in Israel’s Next Attack" />
+					</a>
+					</div>
+										
+										<a class="bt-title font-size-16 font-weight-400 padding-5-0 display-block" target="_parent"
+						title="The Blood of Gaza Will Be on the Hands of Mahmoud Abbas in Israel’s Next Attack"
+						href="/world/north-africa-south-west-asia/palestine/2188-mahmoud-abbas.html"> The Blood of Gaza Will Be on the Hands of Mahmoud Abbas in Israel’s... </a>
+															
+										<div class="bt-extra uppercase font-family-oswald margin-bottom-30 padding-5-0">
+					
+												<span class="bt-author">By <a href="/author.html?id=1006" >Robert Inlakesh</a>						</span>
+						<span> | </span><span class="red">192 Shares</span>						
+																	</div>
+					
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+						<div class="bt-row "  style="width:100%" >
+				<div class="bt-inner">
+								
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Dr. Edward Martin: The 1 Percent of the World’s Wealthiest Elites Want a “New Underclass”" href="/us/2186-edward-martin.html">
+						<img  src="https://ahtribune.com/cache/thumbs/6c8975486316bd17e7804d8ff48f10a6-Occupy_Wall_Street_ff2c1.jpg" alt="Dr. Edward Martin: The 1 Percent of the World’s Wealthiest Elites Want a “New Underclass”"  style="width:300px;" title="Dr. Edward Martin: The 1 Percent of the World’s Wealthiest Elites Want a “New Underclass”" />
+					</a>
+					</div>
+										
+										<a class="bt-title font-size-16 font-weight-400 padding-5-0 display-block" target="_parent"
+						title="Dr. Edward Martin: The 1 Percent of the World’s Wealthiest Elites Want a “New Underclass”"
+						href="/us/2186-edward-martin.html"> Dr. Edward Martin: The 1 Percent of the World’s Wealthiest Elites Want a “New... </a>
+															
+										<div class="bt-extra uppercase font-family-oswald margin-bottom-30 padding-5-0">
+					
+												<span class="bt-author">By <a href="/author.html?id=925" >Mohsen Abdelmoumen</a>						</span>
+						<span> | </span><span class="red">50 Shares</span>						
+																	</div>
+					
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+						<div class="bt-row bt-row-last"  style="width:100%" >
+				<div class="bt-inner">
+								
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Rights Activists Take to The UN Human Rights Council to End Saudi Arabia's Religious Persecution" href="/religion/2189-rights-activists-saudi-arabia-religious-persecution.html">
+						<img  src="https://ahtribune.com/cache/thumbs/be6329d857d808f004210d16f80ea46f-Salman_c61ef.jpg" alt="Rights Activists Take to The UN Human Rights Council to End Saudi Arabia's Religious Persecution"  style="width:300px;" title="Rights Activists Take to The UN Human Rights Council to End Saudi Arabia's Religious Persecution" />
+					</a>
+					</div>
+										
+										<a class="bt-title font-size-16 font-weight-400 padding-5-0 display-block" target="_parent"
+						title="Rights Activists Take to The UN Human Rights Council to End Saudi Arabia's Religious Persecution"
+						href="/religion/2189-rights-activists-saudi-arabia-religious-persecution.html"> Rights Activists Take to The UN Human Rights Council to End Saudi Arabia's Religious... </a>
+															
+										<div class="bt-extra uppercase font-family-oswald margin-bottom-30 padding-5-0">
+					
+												<span class="bt-author">By <a href="/author.html?id=899" >Catherine Shakdam</a>						</span>
+						<span> | </span><span class="red">37 Shares</span>						
+																	</div>
+					
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+						<div style="clear: both;"></div>
+
+		</div>
+		<!--end bt-main-item page	-->
+			</div>
+</div>
+<!--end bt-container -->
+<div style="clear: both;"></div></div>
+<div id="latest" class="tab-pane fade"><div id="btcontentslider116" style="width:auto" class="bt-cs">
+			<div class="slides_containers" style="width:auto;">
+
+			<div class="slides" style="width:auto">
+					<div class="bt-row bt-row-first"  style="width:100%" >
+				<div class="bt-inner">
+								
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Rights Activists Take to The UN Human Rights Council to End Saudi Arabia's Religious Persecution" href="/religion/2189-rights-activists-saudi-arabia-religious-persecution.html">
+						<img  src="https://ahtribune.com/cache/thumbs/be6329d857d808f004210d16f80ea46f-Salman_c61ef.jpg" alt="Rights Activists Take to The UN Human Rights Council to End Saudi Arabia's Religious Persecution"  style="width:300px;" title="Rights Activists Take to The UN Human Rights Council to End Saudi Arabia's Religious Persecution" />
+					</a>
+					</div>
+										
+										<a class="bt-title font-size-16 font-weight-400 padding-5-0 display-block" target="_parent"
+						title="Rights Activists Take to The UN Human Rights Council to End Saudi Arabia's Religious Persecution"
+						href="/religion/2189-rights-activists-saudi-arabia-religious-persecution.html"> Rights Activists Take to The UN Human Rights Council to End Saudi Arabia's Religious... </a>
+															
+										<div class="bt-extra uppercase font-family-oswald margin-bottom-30 padding-5-0">
+					
+												<span class="bt-author">By <a href="/author.html?id=899" >Catherine Shakdam</a>						</span>
+						<span> | </span><span class="red">37 Shares</span>						
+																	</div>
+					
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+						<div class="bt-row "  style="width:100%" >
+				<div class="bt-inner">
+								
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="The Blood of Gaza Will Be on the Hands of Mahmoud Abbas in Israel’s Next Attack" href="/world/north-africa-south-west-asia/palestine/2188-mahmoud-abbas.html">
+						<img  src="https://ahtribune.com/cache/thumbs/51c0c334fd37439ef066b725af3aba85-Mahmoud_Abbas_2_36507.jpg" alt="The Blood of Gaza Will Be on the Hands of Mahmoud Abbas in Israel’s Next Attack"  style="width:300px;" title="The Blood of Gaza Will Be on the Hands of Mahmoud Abbas in Israel’s Next Attack" />
+					</a>
+					</div>
+										
+										<a class="bt-title font-size-16 font-weight-400 padding-5-0 display-block" target="_parent"
+						title="The Blood of Gaza Will Be on the Hands of Mahmoud Abbas in Israel’s Next Attack"
+						href="/world/north-africa-south-west-asia/palestine/2188-mahmoud-abbas.html"> The Blood of Gaza Will Be on the Hands of Mahmoud Abbas in Israel’s... </a>
+															
+										<div class="bt-extra uppercase font-family-oswald margin-bottom-30 padding-5-0">
+					
+												<span class="bt-author">By <a href="/author.html?id=1006" >Robert Inlakesh</a>						</span>
+						<span> | </span><span class="red">192 Shares</span>						
+																	</div>
+					
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+						<div class="bt-row "  style="width:100%" >
+				<div class="bt-inner">
+								
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Palestine: The Camps and the Colonies" href="/world/north-africa-south-west-asia/palestine/2187-camps-colonies.html">
+						<img  src="https://ahtribune.com/cache/thumbs/b835321f25229f94d99a15225604fff0-camps-colonies-3_e8c74.JPG" alt="Palestine: The Camps and the Colonies"  style="width:300px;" title="Palestine: The Camps and the Colonies" />
+					</a>
+					</div>
+										
+										<a class="bt-title font-size-16 font-weight-400 padding-5-0 display-block" target="_parent"
+						title="Palestine: The Camps and the Colonies"
+						href="/world/north-africa-south-west-asia/palestine/2187-camps-colonies.html"> Palestine: The Camps and the Colonies </a>
+															
+										<div class="bt-extra uppercase font-family-oswald margin-bottom-30 padding-5-0">
+					
+												<span class="bt-author">By <a href="/author.html?id=970" >Tim Anderson</a>						</span>
+						<span> | </span><span class="red">79 Shares</span>						
+																	</div>
+					
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+						<div class="bt-row "  style="width:100%" >
+				<div class="bt-inner">
+								
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Dr. Edward Martin: The 1 Percent of the World’s Wealthiest Elites Want a “New Underclass”" href="/us/2186-edward-martin.html">
+						<img  src="https://ahtribune.com/cache/thumbs/6c8975486316bd17e7804d8ff48f10a6-Occupy_Wall_Street_ff2c1.jpg" alt="Dr. Edward Martin: The 1 Percent of the World’s Wealthiest Elites Want a “New Underclass”"  style="width:300px;" title="Dr. Edward Martin: The 1 Percent of the World’s Wealthiest Elites Want a “New Underclass”" />
+					</a>
+					</div>
+										
+										<a class="bt-title font-size-16 font-weight-400 padding-5-0 display-block" target="_parent"
+						title="Dr. Edward Martin: The 1 Percent of the World’s Wealthiest Elites Want a “New Underclass”"
+						href="/us/2186-edward-martin.html"> Dr. Edward Martin: The 1 Percent of the World’s Wealthiest Elites Want a “New... </a>
+															
+										<div class="bt-extra uppercase font-family-oswald margin-bottom-30 padding-5-0">
+					
+												<span class="bt-author">By <a href="/author.html?id=925" >Mohsen Abdelmoumen</a>						</span>
+						<span> | </span><span class="red">50 Shares</span>						
+																	</div>
+					
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+						<div class="bt-row "  style="width:100%" >
+				<div class="bt-inner">
+								
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Good Wishes for Nowruz" href="/world/north-africa-south-west-asia/iran/2185-netanyahu-nowruz.html">
+						<img  src="https://ahtribune.com/cache/thumbs/bbe3a39a64719ab5f08bf95a192fc3c7-Netanyahu_with_Iranian_carpet_6a69f.jpg" alt="Good Wishes for Nowruz"  style="width:300px;" title="Good Wishes for Nowruz" />
+					</a>
+					</div>
+										
+										<a class="bt-title font-size-16 font-weight-400 padding-5-0 display-block" target="_parent"
+						title="Good Wishes for Nowruz"
+						href="/world/north-africa-south-west-asia/iran/2185-netanyahu-nowruz.html"> Good Wishes for Nowruz </a>
+															
+										<div class="bt-extra uppercase font-family-oswald margin-bottom-30 padding-5-0">
+					
+												<span class="bt-author">By <a href="/author.html?id=890" >Miko Peled</a>						</span>
+						<span> | </span><span class="red">410 Shares</span>						
+																	</div>
+					
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+						<div class="bt-row "  style="width:100%" >
+				<div class="bt-inner">
+								
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Colonialism by another Name" href="/economy/2184-colonialism-another-name.html">
+						<img  src="https://ahtribune.com/cache/thumbs/596972f1f4ed38f0a7872bf760907598-IMF_Colonialism_46b49.jpeg" alt="Colonialism by another Name"  style="width:300px;" title="Colonialism by another Name" />
+					</a>
+					</div>
+										
+										<a class="bt-title font-size-16 font-weight-400 padding-5-0 display-block" target="_parent"
+						title="Colonialism by another Name"
+						href="/economy/2184-colonialism-another-name.html"> Colonialism by another Name </a>
+															
+										<div class="bt-extra uppercase font-family-oswald margin-bottom-30 padding-5-0">
+					
+												<span class="bt-author">By <a href="/author.html?id=941" >Jason Hirthler</a>						</span>
+						<span> | </span><span class="red">210 Shares</span>						
+																	</div>
+					
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+						<div class="bt-row "  style="width:100%" >
+				<div class="bt-inner">
+								
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Standing up for Russia" href="/world/europe/uk/skirpal/2183-standing-up-russia.html">
+						<img  src="https://ahtribune.com/cache/thumbs/06c644faf0f7a2fb82a1f2b3197a4c67-Russia-flagpole_692c9.jpg" alt="Standing up for Russia"  style="width:300px;" title="Standing up for Russia" />
+					</a>
+					</div>
+										
+										<a class="bt-title font-size-16 font-weight-400 padding-5-0 display-block" target="_parent"
+						title="Standing up for Russia"
+						href="/world/europe/uk/skirpal/2183-standing-up-russia.html"> Standing up for Russia </a>
+															
+										<div class="bt-extra uppercase font-family-oswald margin-bottom-30 padding-5-0">
+					
+												<span class="bt-author">By <a href="/author.html?id=922" >David Macilwain</a>						</span>
+						<span> | </span><span class="red">92 Shares</span>						
+																	</div>
+					
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+						<div class="bt-row "  style="width:100%" >
+				<div class="bt-inner">
+								
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="All The Shit That’s Fit to Print against Syria and Russia" href="/world/north-africa-south-west-asia/syria-crisis/2182-skirpal-east-ghouta.html">
+						<img  src="https://ahtribune.com/cache/thumbs/582ab3fdc5b480e317085d08736f0791-Hill_Rom_0912a.jpg" alt="All The Shit That’s Fit to Print against Syria and Russia"  style="width:300px;" title="All The Shit That’s Fit to Print against Syria and Russia" />
+					</a>
+					</div>
+										
+										<a class="bt-title font-size-16 font-weight-400 padding-5-0 display-block" target="_parent"
+						title="All The Shit That’s Fit to Print against Syria and Russia"
+						href="/world/north-africa-south-west-asia/syria-crisis/2182-skirpal-east-ghouta.html"> All The Shit That’s Fit to Print against Syria and Russia </a>
+															
+										<div class="bt-extra uppercase font-family-oswald margin-bottom-30 padding-5-0">
+					
+												<span class="bt-author">By <a href="/author.html?id=1016" >Jeremy Salt</a>						</span>
+						<span> | </span><span class="red">704 Shares</span>						
+																	</div>
+					
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+						<div class="bt-row "  style="width:100%" >
+				<div class="bt-inner">
+								
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="The Last Days of East Ghouta" href="/world/north-africa-south-west-asia/syria-crisis/2181-last-days-of-east-ghouta.html">
+						<img  src="https://ahtribune.com/cache/thumbs/a78329a1a646cb823499ed64f6d1c803-Shifouniyeh__Misraba_24282.jpg" alt="The Last Days of East Ghouta"  style="width:300px;" title="The Last Days of East Ghouta" />
+					</a>
+					</div>
+										
+										<a class="bt-title font-size-16 font-weight-400 padding-5-0 display-block" target="_parent"
+						title="The Last Days of East Ghouta"
+						href="/world/north-africa-south-west-asia/syria-crisis/2181-last-days-of-east-ghouta.html"> The Last Days of East Ghouta </a>
+															
+										<div class="bt-extra uppercase font-family-oswald margin-bottom-30 padding-5-0">
+					
+												<span class="bt-author">By <a href="/author.html?id=929" >Steven Sahiounie</a>						</span>
+						<span> | </span><span class="red">367 Shares</span>						
+																	</div>
+					
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+						<div class="bt-row bt-row-last"  style="width:100%" >
+				<div class="bt-inner">
+								
+										<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Pat Finucane and Rosemary Nelson – Britain’s Record of Conducting State Sponsored Assassinations" href="/world/europe/uk/skirpal/2180-pat-finucane-rosemary-nelson.html">
+						<img  src="https://ahtribune.com/cache/thumbs/0c27fd198b021b19833598aad790a43f-Pat_Finucane_8637e.jpg" alt="Pat Finucane and Rosemary Nelson – Britain’s Record of Conducting State Sponsored Assassinations"  style="width:300px;" title="Pat Finucane and Rosemary Nelson – Britain’s Record of Conducting State Sponsored Assassinations" />
+					</a>
+					</div>
+										
+										<a class="bt-title font-size-16 font-weight-400 padding-5-0 display-block" target="_parent"
+						title="Pat Finucane and Rosemary Nelson – Britain’s Record of Conducting State Sponsored Assassinations"
+						href="/world/europe/uk/skirpal/2180-pat-finucane-rosemary-nelson.html"> Pat Finucane and Rosemary Nelson – Britain’s Record of Conducting State Sponsored Assassinations </a>
+															
+										<div class="bt-extra uppercase font-family-oswald margin-bottom-30 padding-5-0">
+					
+												<span class="bt-author">By <a href="/author.html?id=1022" >Gavin O'Reilly</a>						</span>
+						<span> | </span><span class="red">87 Shares</span>						
+																	</div>
+					
+					
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+						<div style="clear: both;"></div>
+
+		</div>
+		<!--end bt-main-item page	-->
+			</div>
+</div>
+<!--end bt-container -->
+<div style="clear: both;"></div></div>
+</div></div>
+</div></div></div><div class="t3-module module " id="Mod132"><div class="module-inner"><div class="module-ct">
+
+<div class="custom"  >
+	<div style="display: block; max-width: 100%; margin: 15px 0;">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="text/javascript"></script>
+<!-- Large Skyscraper --> <ins class="adsbygoogle" style="display: inline-block; width: 260px; height: 600px;" data-ad-client="ca-pub-2501531673030811" data-ad-slot="9648870882"></ins>
+<script type="text/javascript">(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<div id="contentad393565"></div>
+<script type="text/javascript">
+    (function(d) {
+        var params =
+        {
+            id: "97d20124-a1cb-4795-a66e-5c0d6f367710",
+            d:  "YWh0cmlidW5lLmNvbQ==",
+            wid: "393565",
+            cb: (new Date()).getTime()
+        };
+        var qs = Object.keys(params).reduce(function(a,k){a.push(k+'='+encodeURIComponent(params[k]));return a},[]).join(String.fromCharCode(38));
+        var s = d.createElement('script');s.type='text/javascript';s.async=true;
+        var p = 'https:' == document.location.protocol ? 'https' : 'http';
+        s.src = p + "://api.content-ad.net/Scripts/widget2.aspx?" + qs;
+        d.getElementById("contentad393565").appendChild(s);
+    })(document);
+</script></div>
+</div></div></div>
+		</div>
+		<!-- //SIDEBAR RIGHT -->
+
+	</div>
+</div> 
+  
+
+  
+
+  
+<!-- FOOTER -->
+<footer id="t3-footer" class="wrap t3-footer">
+
+	
+	<section class="t3-copyright">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 copyright ">
+					
+
+<div class="custom"  >
+	<div class="container-fluid padding-0">
+<div class="row padding-0">
+<div class="col-sm-6"><img src="/images/brand/white-logo.png" alt="American Herald Tribune" class="footer-logo-img" /></div>
+<div class="col-sm-6 footer-search">﻿<div class="search">
+	<form action="/search.html" method="get" class="form-inline form-search">
+		<label for="mod-search-searchword" class="element-invisible">Search ...</label> <input name="keyword" id="mod-search-searchword" maxlength="200"  class="form-control search-query" type="search" size="0" placeholder="Search ..." /> <button class="button btn btn-primary" onclick="this.form.searchword.focus();"></button>
+	</form>
+</div></div>
+</div>
+<div class="row padding-0">
+<div class="col-sm-4">
+<ul>
+<li><a href="/us.html">U.S.</a></li>
+<li><a href="/world/africa.html">Africa</a></li>
+<li><a href="/world/americas.html">Americas</a></li>
+<li><a href="/world/asia-pacific.html">Asia &amp; Pacific</a></li>
+<li><a href="/world/europe.html">Europe</a></li>
+<li><a href="/world/north-africa-south-west-asia.html">North Africa &amp; South West Asia</a></li>
+</ul>
+</div>
+<div class="col-sm-4">
+<ul>
+<li><a href="/economy.html">Economy</a></li>
+<li><a href="/history.html">History</a></li>
+<li><a href="/human-rights.html">Human Rights</a></li>
+<li><a href="/politics.html">Politics</a></li>
+<li><a href="/religion.html">Religion</a></li>
+<li><a href="/youth.html">Youth</a></li>
+</ul>
+</div>
+<div class="col-sm-4">
+<ul>
+<li><a href="/in-depth.html">In Depth</a></li>
+<li><a href="/imagery.html">Imagery</a></li>
+<li><a href="/opinion.html">Opinion</a></li>
+<li><a href="/videos.html">Videos</a></li>
+</ul>
+</div>
+</div>
+<div class="col-sm-8 col-xs-12">
+<p><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license"><img src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" alt="Creative Commons License" style="border-width: 0;" /></a><br /><span>American Herald Tribune</span> is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license" class="white">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a></p>
+</div>
+<div class="col-sm-2 col-xs-12 padding-30-0"><a href="/about.html">About AHT | Privacy Policy</a><a href="/contact.html"> | Contact us</a></div>
+<div class="col-sm-2 col-xs-12">
+<div class="social padding-20"><a href="https://facebook.com/AHTribune" target="_blank" class="social"><em class="fa fa-facebook"></em></a> <a href="https://twitter.com/AhTribune" target="_blank" class="social"><em class="fa fa-twitter"></em></a> <a href="#" class="social"><em class="fa fa-youtube-play"></em></a></div>
+</div>
+</div></div>
+
+
+				</div>
+			</div>
+		</div>
+	</section>
+
+</footer>
+<!-- //FOOTER -->
+</div>
+
+<script>
+jQuery('.article-inner img').addClass(
+    function(){
+        var floated = jQuery(this).css('float');
+        return floated ? 'article-img-' + floated : '';
+    });
+</script>
+<script>
+$(document).ready(function(){
+$('.all-menu').attr('data-effect', 'off-canvas-effect-4');
+$('.all-menu').attr('data-nav', '#t3-off-canvas');
+$('.all-menu').attr('data-pos', 'left');
+}); 
+</script>
+
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'americanheraldtribune';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-69347680-1', 'auto');
+  ga('send', 'pageview');
+</script>
+</body>
+
+</html>

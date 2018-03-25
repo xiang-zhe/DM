@@ -1,0 +1,2901 @@
+<!DOCTYPE html>
+  <!--[if lt IE 7]>      <html lang="en-AU" class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+  <!--[if IE 7]>         <html lang="en-AU" class="lt-ie9 lt-ie8"> <![endif]-->
+  <!--[if IE 8]>         <html lang="en-AU" class="lt-ie9"> <![endif]-->
+  <!--[if gt IE 8]><!--> <html lang="en-AU"> <!--<![endif]-->
+<head>
+  <title>Ahed Tamimi, Palestinian teenager who slapped Israeli soldier, jailed for 8 months - ABC News (Australian Broadcasting Corporation)</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/>
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/>
+<link rel="schema.iptc" href="urn:newsml:iptc.org:20031010:topicset.iptc-genre:8"/>
+<link rel="amphtml" href="http://amp.abc.net.au/article/9574716"/>
+<link rel="canonical" data-abc-platform="standard" href="http://www.abc.net.au/news/2018-03-22/ahed-tamimi-palestinian-teen-who-slapped-israeli-soldier-jailed/9574716"/>
+<meta name="title" content="Palestinian girl jailed for 8 months for slapping Israeli soldier"/>
+                <meta name="description" content="Ahed Tamimi, who at 16 was dubbed the Rosa Parks of Palestine and changed the face of Palestinian resistance in the West Bank after being filmed slapping an Israeli soldier, accepts a plea deal which will see her serve eight months in prison."/>
+                <meta name="keywords" content="ahed tamimi, israel, west bank, palestine, protest, slap"/>
+                <meta name="ICBM" content="31.5,34.75"/>
+                <meta name="geo.position" content="31.5;34.75"/>
+                <meta name="ContentId" content="9574716"/>
+                <meta name="ABC.site" content="ABC News"/>
+                <meta name="ABC.editorialGenre" content="News &amp; Current Affairs"/>
+                <meta name="ABC.tags" content="unrest-conflict-and-war;government-and-politics;territorial-disputes;activism-and-lobbying;law-crime-and-justice;courts-and-trials"/>
+                <meta name="ABC_WCMS_sitesearch_include" content="true"/>
+                <meta name="twitter:card" content="summary"/>
+                <meta name="ABC.productionUnit" content="National news desk"/>
+                <meta name="ABC.ContentType" content="CMArticle"/>
+                <meta name="DC.Publisher.CorporateName" content="Australian Broadcasting Corporation"/>
+                <meta name="DC.rights" scheme="DCTERMS.URI" content="http://www.abc.net.au/conditions.htm#UseOfContent"/>
+        <meta name="DC.rightsHolder" content="Reuters"/>
+                <meta name="DC.type" content="Text"/>
+                <meta name="DC.type" scheme="iptc-genre" content="Current"/>
+        <meta name="DC.title" content="Palestinian girl jailed for 8 months for slapping Israeli soldier"/>
+                <meta name="DC.creator.CorporateName" content="Australian Broadcasting Corporation"/>
+                <meta name="DC.date" scheme="DCTERMS.W3CDTF" content="2018-03-22T06:52:37+1100"/>
+        <meta name="DC.format" scheme="DCTERMS.IMT" content="text/html"/>
+        <meta name="DC.identifier" scheme="DCTERMS.URI" content="http://www.abc.net.au/news/2018-03-22/ahed-tamimi-palestinian-teen-who-slapped-israeli-soldier-jailed/9574716"/>
+          <meta name="DC.language" scheme="DCTERMS.RFC3066" content="en-AU"/>
+        <meta name="DC.subject" scheme="ABCTERMS.subject" content="Unrest, Conflict and War;Government and Politics;Government and Politics:Territorial Disputes;Government and Politics:Activism and Lobbying;Law, Crime and Justice;Law, Crime and Justice:Courts and Trials"/>
+        <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2018-03-22T06:52:37+1100"/>
+        <meta name="DCTERMS.modified" scheme="DCTERMS.W3CDTF" content="2018-03-22T22:12:54+1100"/>
+        <meta name="DCTERMS.spatial" content="Israel;Palestinian Territory, Occupied"/>
+                <meta name="DCTERMS.spatial" scheme="DCTERMS.DCMIPoint" content="east=34.75;north=31.5"/>
+        <meta property="og:title" content="Palestinian girl jailed for 8 months for slapping Israeli soldier"/>
+                <meta property="og:description" content="Ahed Tamimi, who at 16 was dubbed the Rosa Parks of Palestine&#039; after being filmed slapping an Israeli soldier, is sentenced to eight months in prison."/>
+                <meta property="og:url" content="http://www.abc.net.au/news/2018-03-22/ahed-tamimi-palestinian-teen-who-slapped-israeli-soldier-jailed/9574716"/>
+                <meta property="og:image" content="http://www.abc.net.au/news/image/9338092-16x9-700x394.jpg"/>
+                <meta property="og:image:type" content="image/jpeg"/>
+                <meta property="og:image:width" content="700"/>
+                <meta property="og:image:height" content="394"/>
+                <meta name="twitter:image" content="http://www.abc.net.au/news/image/9338092-16x9-700x394.jpg"/>
+                <meta property="og:type" content="Article"/>
+                <meta property="og:updated_time" content="2018-03-22T22:12:54+1100"/>
+                <meta property="article:published_time" content="2018-03-22T06:52:37+1100"/>
+                <meta property="article:modified_time" content="2018-03-22T22:12:54+1100"/>
+                <meta property="article:publisher" content="https://www.facebook.com/abcnews.au"/>
+                <meta property="article:tag" content="ahed tamimi"/>
+                <meta property="article:tag" content="israel"/>
+                <meta property="article:tag" content="west bank"/>
+                <meta property="article:tag" content="palestine"/>
+                <meta property="article:tag" content="protest"/>
+                <meta property="article:tag" content="slap"/>
+                <meta property="article:tag" content="Israel"/>
+                <meta property="article:tag" content="Palestinian Territory, Occupied"/>
+                <meta property="article:tag" content="Unrest, Conflict and War"/>
+                <meta property="article:tag" content="Government and Politics"/>
+                <meta property="article:tag" content="Territorial Disputes"/>
+                <meta property="article:tag" content="Activism and Lobbying"/>
+                <meta property="article:tag" content="Law, Crime and Justice"/>
+                <meta property="article:tag" content="Courts and Trials"/>
+                <meta property="og:site_name" content="ABC News"/>
+                <meta name="twitter:site" content="@ABCNews"/>
+                <meta name="apple-mobile-web-app-title" content="ABC News"/>
+                <meta property="fb:pages" content="72924719987"/>
+                <link rel="alternate" data-abc-platform="mobile" media="only screen and (max-width: 640px)" href="http://mobile.abc.net.au/news/2018-03-22/ahed-tamimi-palestinian-teen-who-slapped-israeli-soldier-jailed/9574716"/>
+  <link media="all" rel="stylesheet" type="text/css"
+                                                                              href="https://res.abc.net.au/bundles/2.2.0/styles/abc.bundle.2.2.0.min.css"/>
+    <link rel="stylesheet" type="text/css"
+                                                                              href="http://www.abc.net.au/res/sites/news-projects/news-core/1.3.3/desktop.css"/>
+    <link rel="alternate" type="application/rss+xml" title="Just In" href="/news/feed/51120/rss.xml">
+  <link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://www.abc.net.au/cm/cb/8413652/News+iOS+76x76+2017/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://www.abc.net.au/cm/cb/4355924/News+iOS+120x120/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://www.abc.net.au/cm/cb/8413660/News+iOS+152x152+2017/data.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://www.abc.net.au/cm/cb/8413674/News+iOS+180x180+2017/data.png"/>
+    <script type="text/javascript" src="/news/ajax/45902/managed.js"></script>
+<script type="text/javascript" src="http://www.abc.net.au/res/libraries/jquery/jquery-1.11.3.min.js"></script>
+        <script type="text/javascript" src="http://www.abc.net.au/res/libraries/location/abc.location-1.latest.min.js"></script>
+        <script type="text/javascript" src="http://www.abc.net.au/res/bundles/platforms/abc.bundle.platforms-1.0.min.js"></script>
+        <script type="text/javascript" src="http://www.abc.net.au/res/sites/news-projects/news-core/1.3.2/desktop.js"></script>
+        <script type="text/javascript" src="/cm/code/8724582/abc.news.config-2018-03-20.js" async></script>
+        </head>
+<body class="platform-standard news story_page">
+<!-- Start ABC Bundle Header 2.2.0 (customised) -->
+<!--noindex-->
+<nav id="abcHeader" class="global" aria-label="ABC Network Navigation" data-resourcebase="https://res.abc.net.au/bundles/2.2.0/" data-scriptsbase="https://res.abc.net.au/bundles/2.2.0/scripts/" data-version="2.2.0">
+ <a class="abcLink home" href="http://www.abc.net.au/" data-mobile="http://mobile.abc.net.au/"><img src="https://res.abc.net.au/bundles/2.2.0/images/logo-abc@2x.png" width="65" height="16" alt="" />ABC Home</a>
+ <div class="sites">
+  <a class="controller" href="javascript:;" aria-controls="abcNavSites"><img src="https://res.abc.net.au/bundles/2.2.0/images/icon-menu-grey@1x.gif" 
+   data-src="images/icon-menu-grey@1x.gif" data-hover="images/icon-menu-blue@1x.gif" class="icon" alt="" /><span class='text'><span>Open</span> Sites <span>menu</span></span></a>
+  <div id="abcNavSites" class="menu" role="menu" aria-expanded="false">
+   <ul>
+    <li class='odd'><a class="abcLink" role="menuitem" href="http://www.abc.net.au/" data-mobile="http://mobile.abc.net.au/">ABC Home</a></li>
+    <li><a class="abcLink" role="menuitem" href="http://www.abc.net.au/news/" data-mobile="http://mobile.abc.net.au/news/">News</a></li>
+    <li class='odd'><a class="abcLink" role="menuitem" href="http://www.abc.net.au/iview/" data-mobile="http://www.abc.net.au/iview/">iview</a></li>
+    <li><a class="abcLink" role="menuitem" href="http://www.abc.net.au/tv/" data-mobile="http://www.abc.net.au/tv/">TV</a></li>
+    <li class='odd'><a class="abcLink" role="menuitem" href="http://www.abc.net.au/radio/" data-mobile="http://www.abc.net.au/radio/">Radio</a></li>
+    <li><a class="abcLink" role="menuitem" href="http://www.abc.net.au/children/" data-mobile="http://mobile.abc.net.au/children/">Kids</a></li>
+    <li class='odd'><a class="abcLink" role="menuitem" href="https://shop.abc.net.au/" data-mobile="https://shop.abc.net.au/">Shop</a></li>
+    <li><a class="abcLink more" role="menuitem" href="http://www.abc.net.au/more/" data-mobile="http://www.abc.net.au/more/">More</a></li>
+   </ul>
+  </div>
+ </div>
+ <div class="accounts">
+  <!-- Accounts is currently injected due to different URLs --><span data-src="images/icon-user-grey@1x.png" data-hover="images/icon-user-blue@1x.png"></span>
+ </div>
+ <a class="abcLink search" href="http://search.abc.net.au/s/search.html?collection=abcall_meta&form=simple"
+  data-mobile="http://search.abc.net.au/s/search.html?collection=abcall_meta&form=simple"><span>Search</span>
+  <img src="https://res.abc.net.au/bundles/2.2.0/images/icon-search-grey@1x.png" data-hover="images/icon-search-blue@1x.png" class="icon" alt="" /></a>
+</nav>
+<!--endnoindex-->
+<!-- End ABC Bundle Header 2.2.0 (customised) -->
+<!--noindex-->
+<div class="page_margins">
+  <div id="header" class="header">
+    <div class="brand">
+        <a href="/news/"><img class="print" src="/cm/lb/8212706/data/news-logo-2017---desktop-print-data.png" alt="ABC News" width="387" height="100" />
+                <img class="noprint" src="/cm/lb/8212704/data/news-logo2017-data.png" alt="ABC News" width="242" height="80" />
+                </a></div>
+      <a href="/news/australia/" class="location-widget">Australia</a><a href="/news/weather/" class="weather-widget">Weather</a></div>
+  <div id="nav" class="nav">           
+  <ul id="primary-nav">
+        <li id="n-news" class="active"><a href="/news/">News Home</a></li><li id="n-justin" class=""><a href="/news/justin/">Just In</a></li><li id="n-politics" class=""><a href="/news/politics/">Politics</a></li><li id="n-world" class=""><a href="/news/world/">World</a></li><li id="n-business" class=""><a href="/news/business/">Business</a></li><li id="n-sport" class=""><a href="/news/sport/">Sport</a></li><li id="n-science" class=""><a href="/news/science/">Science</a></li><li id="n-health" class=""><a href="/news/health/">Health</a></li><li id="n-arts-culture" class=""><a href="/news/arts-culture/">Arts</a></li><li id="n-analysis-and-opinion" class=""><a href="/news/analysis-and-opinion/">Analysis</a></li><li id="n-factcheck" class=""><a href="/news/factcheck/">Fact Check</a></li><li id="n-more" class=""><a href="/news/more/">More</a></li></ul>
+  </div>
+<!-- A modules - start -->
+  <!-- A modules - end -->
+  <div class="page section">
+    <div class="subcolumns">
+    <div class="c75l">
+      <!-- B modules - start -->
+      <div class="article section">
+  
+
+<div class="tools">
+  
+    
+  
+  <a class="button"
+     href="http://www2b.abc.net.au/EAF/View/MailToQuery.aspx?http://www.abc.net.au/news/2018-03-22/ahed-tamimi-palestinian-teen-who-slapped-israeli-soldier-jailed/9574716"><span>Email</span></a>
+</div><!--endnoindex-->
+  <h1>Ahed Tamimi, Palestinian teenager who slapped Israeli soldier, jailed for 8 months</h1>
+
+
+
+  
+    <p class="published">
+      Updated 
+    <span class="timestamp">
+      March 22, 2018 22:12:54
+    </span>
+    </p>
+  
+  
+
+<div class="inline-content video full">
+    <script type="text/javascript" charset="utf-8">
+          if (typeof inlineVideoData == 'undefined') var inlineVideoData = new Array();
+          inlineVideoData.push([
+          
+              {'url': 'http://mpegmedia.abc.net.au/news/video/201801/CNb_AhedSlap_0201_256k.mp4', 'contentType': 'video/mp4', 'codec': 'AVC', 'bitrate': '183', 'width': '320', 'height': '180', 'filesize': '1272946'}
+            ,
+              {'url': 'http://mpegmedia.abc.net.au/news/video/201801/CNb_AhedSlap_0201_1000k.mp4', 'contentType': 'video/mp4', 'codec': 'AVC', 'bitrate': '928', 'width': '1024', 'height': '576', 'filesize': '5875607'}
+            ,
+              {'url': 'http://mpegmedia.abc.net.au/news/video/201801/CNb_AhedSlap_0201_512k.mp4', 'contentType': 'video/mp4', 'codec': 'AVC', 'bitrate': '434', 'width': '512', 'height': '288', 'filesize': '2736982'}
+            
+            ]);
+            </script>
+        <a href="/news/2018-01-02/ahed-tamimi-filmed-punching-israeli-soldier/9298052" class="inline-video">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/9298054-16x9-700x394.jpg" alt="Ahed Tamimi filmed punching Israeli soldier" title="Ahed Tamimi filmed punching Israeli soldier" width="700" height="394"/>
+</a><a href="/news/2018-01-02/ahed-tamimi-filmed-punching-israeli-soldier/9298052" class="inline-caption"><strong>Video:</strong> Ahed Tamimi filmed punching Israeli soldier
+
+<span class="source">(ABC News)</span>
+      </a></div>
+<div class="attached-content">
+      <div class="inline-content story left">
+    <a href="/news/2018-02-20/trial-of-ahed-tamimi-teen-who-slapped-a-soldier/9467998"><strong>Related Story:</strong>
+       Why the trial of a teen who slapped a soldier is gaining international attention</a></div>
+<div class="inline-content story left">
+    <a href="/news/2018-01-18/ahed-tamimi-palestinian-teen-ordered-held-until-end-of-trial/9338082"><strong>Related Story:</strong>
+       Palestinian teen who slapped Israeli soldier jailed for duration of trial</a></div>
+<div class="inline-content story left">
+    <a href="/news/2018-01-02/ahed-tamimi-charged-with-assault-on-israeli-soldier/9297744"><strong>Related Story:</strong>
+       Palestinian girl charged with assault on Israeli soldier</a></div>
+<div class="inline-content map left">
+      <div class="story-map"></div>
+      <a class="inline-caption" href="http://maps.google.com/?q=31.5,34.75(Israel)&amp;z=5">
+        <strong>Map: </strong>
+        Israel</a>
+    </div>
+  </div>
+  <p>Palestinian teenager Ahed Tamimi has been sentenced to eight months in prison for slapping and kicking a pair of Israeli soldiers outside her home in the occupied<strong> </strong>West Bank.</p><p>The sentencing capped a case that sparked uproar in Israel, turned the 17-year-old girl into a Palestinian hero and attracted international attention.</p><p>Ms Tamimi's Israeli lawyer, Gaby Lasky, said Tamimi agreed to the sentence as part of a plea deal with prosecutors that allowed her to avoid more serious charges that could have imprisoned her for years.</p><p>The jail term included the time Tamimi had spent in detention since her arrest in December, she said.</p><p>She is also being fined the equivalent of about $1,800.</p><p>Tamimi <a href="/news/2018-02-20/trial-of-ahed-tamimi-teen-who-slapped-a-soldier/9467998" target="_self" title="">became a hero to Palestinians after the December 15 incident outside her home in the village of Nabi Saleh was streamed live on Facebook by her mother and went viral</a>.</p><p>The soldiers had deployed during a weekly Palestinian protest against Israeli policy on settlements in the occupied<strong> </strong>West Bank — one of the most heated issues in the Israeli-Palestinian conflict.</p><div class="inline-content photo full">
+    <a href="/news/2018-03-22/ahed-tamimi-in-ofer-prison/9574736">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/9338092-3x2-700x467.jpg" alt="Wide shot of Ahed Tamimi standing in court flanked by guards." title="Ahed Tamimi inside Ofer military prison" width="700" height="467"/>
+</a><a href="/news/2018-03-22/ahed-tamimi-in-ofer-prison/9574736" class="inline-caption"><strong>
+        Photo:</strong>
+       Ahed Tamimi's case gained international attention and changed many people's view of Palestinian resistance in the occupied West Bank. <span class="source">(AP: Mahmoud Illean)</span>
+      </a></div><p> </p><p>Tamimi was 16 at the time of the offence. Her trial began last month and she faced 12 charges, including aggravated assault.</p><p>Ms Lasky said that under the plea agreement, Tamimi would plead guilty to a reduced charge sheet and would be sentenced to eight months in jail.</p><p>The judge agreed to a similar plea deal for Tamimi's mother Nariman, who has been charged with incitement.</p><blockquote class="quote--pullquote"><p>"This is injustice, this court is designed to oppress the Palestinians," Tamimi's father Bassem said. </p></blockquote><div class="inline-content photo full">
+    <a href="/news/2018-02-20/bassem-tamimi-arrested/9468366">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/9468320-3x2-700x467.jpg" alt="Ahed Tamimi&#039;s father Bassem is arrested." title="Bassem Tamimi arrested" width="700" height="467"/>
+</a><a href="/news/2018-02-20/bassem-tamimi-arrested/9468366" class="inline-caption"><strong>
+        Photo:</strong>
+       Ahed Tamimi's father Bassem was arrested when she was 10. <span class="source">(Supplied)</span>
+      </a></div><p> </p><p>He said they agreed to the deal because they had been threatened with three years in jail.</p><p>An Israeli supporter of Tamimi slapped a prosecutor after the ruling and was later arrested by police.</p><h2>'The Rosa Parks of Palestine'</h2><div class="inline-content photo full">
+    <a href="/news/2018-02-20/ahed-tamimi-protesting-at-a-young-age/9468370">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/9468322-3x2-700x467.jpg" alt="Ahed Tamimi protesting at a young age in Nabi Saleh." title="Ahed Tamimi protesting at a young age" width="700" height="467"/>
+</a><a href="/news/2018-02-20/ahed-tamimi-protesting-at-a-young-age/9468370" class="inline-caption"><strong>
+        Photo:</strong>
+       Ahed Tamimi started protesting when she was about 7 or 8 years old, her father said. <span class="source">(Supplied: Dylan Collins)</span>
+      </a></div><p> </p><p>The case drew global attention. Amnesty International called Tamimi the "Rosa Parks of Palestine", and the small courtroom was often packed with journalists, diplomats and international observers during hearings, in which she was led into court in shackles.</p><p>A group of American cultural figures, including actors Danny Glover and Rosario Dawson and novelist Alice Walker, signed a petition calling for her release and comparing her case to those of the children of immigrants and minority communities who face police brutality in the United States.</p><div class="inline-content full">
+    <a href="https://www.youtube.com/watch?v=kOajGO9RvLQ"><span><strong>External Link:</strong>
+
+Labor senator Lisa Singh defends Ahed Tamimi in Parliament</span>
+        </a></div><p> </p><p>An Israeli official's revelation that he had once had Parliament investigate whether the blond, blue-eyed Tamimis were "real" Palestinians drew accusations of racism and helped stoke additional interest in the case.</p><p>The case touches on what constitutes legitimate resistance to Israel's rule over millions of Palestinians, now in its 51st year, in territories it captured in the 1967 war.</p><p>"No justice under occupation, and we are in an illegal court," Tamimi said to reporters in court.</p><p>The case also drew attention to Israel's military court system, which is used to try Palestinians in the occupied<strong> </strong>West Bank. Israeli settlers, on the other hand, are tried under Israeli civilian courts.</p><p>The duelling justice systems have drawn criticism from international rights groups.</p><p>The military courts have a near 100 per cent conviction rate, in part because so many Palestinians agree to plea bargains.</p><p>Critics say the system gives Palestinians few rights, and they are often coerced into plea deals.</p><p>Hundreds of Palestinian minors are processed by the military court system each year.</p><blockquote class="quote--pullquote"><p>"Ahed will be home in a few months, but Israel is putting this child behind bars for eight months for calling for protests and slapping a soldier, after threatening her with years in jail," Human Rights Watch Middle East director Sarah Leah Whitson said.</p></blockquote><h2>Fears Israeli military looks weak</h2><div class="inline-content photo full">
+    <a href="/news/2018-02-20/ahed-tamimi-at-eight-years-old-confronting-israeli-soldiers/9468368">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/9468316-3x2-700x467.jpg" alt="Ahed Tamimi at eight years old, brandishing a fist at an Israeli soldier." title="Ahed Tamimi at eight years old" width="700" height="467"/>
+</a><a href="/news/2018-02-20/ahed-tamimi-at-eight-years-old-confronting-israeli-soldiers/9468368" class="inline-caption"><strong>
+        Photo:</strong>
+       Ahed Tamimi, at eight years old, confronting Israeli soldiers in her village. <span class="source">(Supplied)</span>
+      </a></div><p> </p><p>Tamimi's supporters see a brave girl who struck the soldiers in anger after having just learned that Israeli troops seriously wounded a 15-year-old cousin, shooting him in the head from close range with a rubber bullet during nearby stone-throwing clashes.</p><p>But in Israel, she is seen either as a naive youth manipulated by her elders or a threat to Israel's military deterrence.</p><p>Israel treated her actions as a criminal offence, indicting her on charges of assault and incitement that carry up to 14 years in prison.</p><p>The incident prompted criticism from right-wing Israelis that the military looked weak by allowing the teenager to strike a soldier and an officer with impunity.</p><p>"The honour of Israel's army cannot be trampled," Israeli Culture Minister Miri Regev said on her Facebook page after the incident.</p><p>"We cannot have a situation in which soldiers are humiliated and hit and they do not act at that moment and arrest those who hurt them."</p><p>The army said the soldier reacted professionally by showing restraint.</p><h2>Tamimi the new face of Palestinian resistance</h2><p>The Tamimi family are veterans of protests against an Israeli settlement near their home in Nabi Saleh.</p><p>An Israeli watchtower stands at the entrance to the village and there are often soldiers in the area.</p><div class="inline-content photo full">
+    <a href="/news/2018-02-20/israeli-military-watchtower-at-the-entrance-to-nabi-saleh/9468384">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/9468378-3x2-700x467.jpg" alt="Israeli military watchtower at the entrance to Nabi Saleh." title="Israeli military watchtower" width="700" height="467"/>
+</a><a href="/news/2018-02-20/israeli-military-watchtower-at-the-entrance-to-nabi-saleh/9468384" class="inline-caption"><strong>
+        Photo:</strong>
+       There is an army lookout tower at the entrance to Nabi Saleh. <span class="source">(ABC News)</span>
+      </a></div><p> </p><blockquote class="quote--pullquote"><p>"When the European people see my daughter, blonde and blue-eyed, they are shaken, because they saw their children in front of them. It broke the stereotyped image of the Palestinian in the international community," Bassem Tamimi said.</p></blockquote><p>Palestinians want the West Bank for a future state, along with East Jerusalem and the Gaza Strip.</p><p>Most countries consider as illegal the Israeli settlements built in the territory, which Israel captured in the 1967 Middle East war.</p><p>Israel disputes that its settlements are illegal and says their future should be determined in peace talks with the Palestinians.</p><p>Negotiations collapsed in 2014 and efforts by the White House to restart them have showed little progress so far.</p><div class="inline-content photo full">
+    <a href="/news/2018-02-20/palestinians-scuffle-with-an-israeli-soldier/9468252">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/9468246-3x2-700x467.jpg" alt="Palestinians scuffle with an Israeli soldier, with a girl biting his hand, as they try to prevent him from detaining a boy." title="Palestinians scuffle with an Israeli soldier" width="700" height="467"/>
+</a><a href="/news/2018-02-20/palestinians-scuffle-with-an-israeli-soldier/9468252" class="inline-caption"><strong>
+        Photo:</strong>
+       A Palestinian girl, believed to be Ahed Tamimi, bites an Israeli soldier. <span class="source">(Reuters: Mohamad Torokman)</span>
+      </a></div><p> </p><p><strong>Reuters/AP</strong></p>
+
+
+<p class="topics">
+	<strong>Topics:</strong>
+	
+	<a href="/news/topic/unrest-conflict-and-war">unrest-conflict-and-war</a>,
+
+
+	
+	<a href="/news/topic/government-and-politics">government-and-politics</a>,
+
+
+	
+	<a href="/news/topic/territorial-disputes">territorial-disputes</a>,
+
+
+	
+	<a href="/news/topic/activism-and-lobbying">activism-and-lobbying</a>,
+
+
+	
+	<a href="/news/topic/law-crime-and-justice">law-crime-and-justice</a>,
+
+
+	
+	<a href="/news/topic/courts-and-trials">courts-and-trials</a>,
+
+
+	
+	<a href="/news/topic/israel">israel</a>,
+
+
+	
+	<a href="/news/topic/palestinian-territory-occupied">palestinian-territory-occupied</a>
+	
+</p>
+
+
+  <p class="published">
+    First posted 
+    <span class="timestamp">
+      March 22, 2018 06:52:37
+    </span>
+  </p>
+<!--noindex-->
+  </div>
+<!-- B modules - end -->
+    </div>
+    <div class="c25r sidebar">
+    <!-- Sidebar modules - start -->
+    <div class="section localised-top-stories">
+        <div class="inner">
+          <h2>Top Stories</h2>
+          
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/trump-sets-china-tariff-plan-edges-away-from-trade-war/9578402">China says it will &#039;fight to the end&#039; as US reveals $77 billion tariff plan</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/mass-whale-stranding-at-augusta-sparks-shark-alert/9579014">Mass whale stranding leaves dozens dead at remote West Australian beach</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/cyclone-marcus-cyclone-nora-two-other-storms-hit-north-australia/9578246">Cyclone overload as four major weather systems converge on Australia</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/trump-replaces-hr-mcmaster-with-former-un-ambassador-bolton/9578786">Trump replaces security adviser with former UN ambassador John Bolton</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/revenge-porn-forums-sharing-nudes-of-women-without-consent/9577734">Revenge porn forums sharing drives full of alphabetised photos of Australian women</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/science/2018-03-23/great-pacific-garbage-patch-much-bigger-than-thought-study/9571234">There&#039;s a soup of rubbish in the Pacific that&#039;s almost as big as Queensland</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/mummified-skeleton-not-alien-actually-a-human-baby-study-finds/9578658">Scientists solve &#039;alien&#039; skeleton mystery</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/bradbury-senate-government-corporate-tax-rate/9579024">Analysis: Turnbull Government could pass company tax cuts with support of new senators</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/how-you-told-the-internet-everything/9576666">Your cat is telling people where you live and Apple knows when you last worked out</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/katie-brennan-takes-afl-rules-to-human-rights-commission/9578830"><em>SPORT</em>
+      Brennan takes &#039;discriminatory&#039; AFL rules to Human Rights Commission</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/columbine-high-school-massacre-19-years-later/9577858">Cautious optimism Florida may become what Columbine didn&#039;t — America&#039;s last school shooting</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/sunlight-and-her-all-female-owners/9577498"><em>SPORT</em>
+      The female team behind Golden Slipper favourite have made history before the race begins</a>
+
+<span class="media">
+    <span class="photos" title="Photos">(photos)</span>
+
+</span>
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/what-happens-to-our-skin-as-we-age/9575978">Opinion: Wrinkles, liver spots, crows&#039; feet: What happens to our skin as we age?</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/national-geographics-decision-to-admit-its-racist-past/9565918">&#039;It&#039;s blown up all over the world&#039;: Inside National Geographic&#039;s decision to admit its racist past</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/south-africa-v-australia-pat-cummins-delivers-in-third-test/9578590"><em>SPORT</em>
+      Cummins stands and delivers as Aussies trouble Proteas in Cape Town Test</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/prince-harry-meghan-markle-royal-wedding-invitations-dispatched/9578512">Prince Harry, Meghan Markle&#039;s royal wedding invitations revealed, dispatched</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/everything-you-thought-you-knew-about-vikings-is-probably-wrong/9575860">Everything you thought you knew about Vikings is probably wrong</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/science/2018-03-23/curly-hair-new-zealand-sheep-help-tease-out-secrets/9567916">What makes hair curly? Take a very, very close look at sheep</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/death-to-nuggets-group-targets-kids-menus/9570466">Death To Nuggets group targets unhealthy kids&#039; menus</a>
+
+</li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/wooden-surfboard-class-connecting-people-with-sports-history/9570760"><em>SPORT</em>
+      Surfers pining for good old days build boards from scratch</a>
+
+</li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    <div class="section graphic">
+  <a href="http://m.me/abcnews.au?ref=welcomefromABCNewshomepage">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="/cm/lb/7996774/thumbnail.png" alt="Start a chat with ABC News on Facebook Messenger" title="Start a chat with ABC News on Facebook Messenger" class="" width="220" />
+</a></div><div class="connect-with-abc section promo">
+<h2>Connect with ABC News</h2>
+<ul>
+    <li><a href="http://www.facebook.com/abcnews.au" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6388890/data/facebook-data.png" alt="ABC News on Facebook" title="ABC News on Facebook" width="30" height="30" />
+    </a></li>
+    <li><a href="http://instagram.com/abcnews_au" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6389068/data/instagram-data.png" alt="ABC News on Instagram" title="ABC News on Instagram" width="32" height="31" />
+    </a></li>
+    <li><a href="http://www.twitter.com/abcnews" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6388894/data/twitter-data.png" alt="ABC News on Twitter" title="ABC News on Twitter" width="32" height="27" />
+    </a></li>
+    <li><a href="http://www.youtube.com/newsonabc" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/6389052/data/youtube-data.png" alt="ABC News on YouTube" title="ABC News on YouTube" width="50" height="22" />
+    </a></li>
+    <li><a href="/news/2016-06-16/what-is-snapchat-and-why-is-the-abc-on-it/7517174" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/8208710/data/snapchat-data.jpg" alt="ABC News on Snapchat" title="ABC News on Snapchat" width="31" height="30" />
+    </a></li>
+
+    <li><a href="https://apple.news/TsieN9U-WQ0SZbtP1VTI4uQ" target="_self" title="">
+        <span class="valign-helper"></span><img src="/cm/lb/8458084/data/applenews-data.png" alt="ABC News on Apple News" title="ABC News on Apple News" width="32" height="32" />
+    </a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<div class="section graphic">
+  <a href="/news/feeds/">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="/cm/lb/4745996/thumbnail/news-podcasts-sidebar-graphic-promo-thumbnail.jpg" alt="News Podcasts" title="News Podcasts" class="" width="220" />
+</a></div><div class="section promo">
+  <div class="inner">
+      <h2>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/contact/tip-off/"
+    >
+  
+
+  
+    
+        <span>Got a news tip?</span>
+    
+    
+  
+
+  </a>
+</h2><p>If you have inside knowledge of a topic in the news, <a href="/news/contact/tip-off/" target="_self" title="">contact the ABC</a>.</p></div>
+  </div>
+<div class="related">
+<div class="newsmail-signup card">
+<h2>News in your inbox</h2>
+<span class="spiel">Top headlines, analysis, breaking&nbsp;alerts</span>
+
+<div class="form main">
+</div>
+<a href="/news/alerts/subscribe/">More info</a>
+</div>
+</div>
+<div class="section promo">
+  <div class="inner">
+      <h2>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/news/about/backstory/"
+    >
+  
+
+  
+    
+        <span>ABC Backstory</span>
+    
+    
+  
+
+  </a>
+</h2><p><a href="http://www.abc.net.au/news/about/backstory/" target="_self" title="">ABC teams share the story behind the story and insights into the making of digital, TV and radio content.</a></p></div>
+  </div>
+<div class="section promo">
+  <div class="inner">
+      <h2>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://about.abc.net.au/how-the-abc-is-run/what-guides-us/abc-editorial-standards/"
+    >
+  
+
+  
+    
+        <span>Editorial Policies</span>
+    
+    
+  
+
+  </a>
+</h2><p><a href="http://about.abc.net.au/how-the-abc-is-run/what-guides-us/abc-editorial-standards/" target="_self" title="">Read about our editorial guiding principles and the enforceable standard our journalists follow.</a></p></div>
+  </div>
+<!-- Sidebar modules - end -->
+  </div>
+</div>
+</div><!-- C modules - start -->
+  <div class="page section featured-scroller featured-scroller-4 dark">
+<div class="section">
+  <h2>Features</h2>
+  </div>
+<div class="inner">
+  <ol class="subcolumns">
+    <li class="c25l">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2018-03-23/donald-trumps-pick-john-bolton-on-north-korea,-russia-and-iran/9579122" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/9579250-16x9-220x124.jpg" alt="Former US ambassador to the United Nations John Bolton speaks at the Conservative Political Action Conference." title="John Bolton speaks at the Conservative Political Action Conference" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  Bolton on Russia and North Korea</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p>New national security adviser John Bolton has a history of taking hardline positions on foreign policy — here's a snapshot of his views on some hot topics currently facing the White House.</p>
+	 </div>
+    </li>
+         <li class="c25l">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2018-03-23/abc-news-quiz-march-23/9576394" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/9568172-16x9-220x124.jpg" alt="A promotion video shows an actor wearing LLVision facial recognition smart glasses." title="LLVision facial recognition" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  ABC News quiz</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p>This week we discovered Australians have shocking dental hygiene, artificial intelligence is being used to crack down on jaywalking, and there's another celebrity running for office. Let's see what you can remember.</p>
+	 </div>
+    </li>
+         <li class="c25l">
+                  <div class="section">
+		  <h2>
+			 <a href="/news/2018-03-23/spreadsheet-football-takes-soul-from-afl-but-romance-remains/9577124" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/9004458-16x9-220x124.jpg" alt="The Richmond players celebrate on the stage with the premiership cup as yellow and black confetti flies." title="Richmond players celebrate with the premiership cup" width="220" height="124"/>
+<span class="story"></span>
+				<span class="label">
+				  Hope for AFL despite footy-nomics</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p>The AFL's relentless course to national sporting pre-eminence has come at a cost, writes Richard Hinds. But fans still have hope thanks to a couple of fairytale flag wins.</p>
+	 </div>
+    </li>
+         <li class="c25r">
+                  <div class="section">
+		  <h2>
+			 <a href="http://doublej.net.au/news/features/jason-isbells-grammy-winning-song-that-almost-wasnt" class="thumb">
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/9579610-16x9-220x124.jpg" alt="Jason Isbell and The 400 Unit" title="Jason Isbell and The 400 Unit" width="220" height="124"/>
+<span class="link"></span>
+				<span class="label">
+				  Keep watching Hoarders? Or write that Grammy-winning song?</span>
+				<span class="border"></span>
+			  </a></h2>
+		 <p>Americana singer Jason Isbell almost didn't write a song that ended up winning a Grammy. He was too busy watching reality TV<em>.</em></p>
+	 </div>
+    </li>
+         </ol>
+</div></div><div id="footer-stories" class="page section">
+    <div class="subcolumns">
+    <div class="c25l">
+        <div class="section">
+          <h2>Top Stories</h2>
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/trump-sets-china-tariff-plan-edges-away-from-trade-war/9578402">China says it will &#039;fight to the end&#039; as US reveals $77 billion tariff plan</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/mass-whale-stranding-at-augusta-sparks-shark-alert/9579014">Mass whale stranding leaves dozens dead at remote West Australian beach</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/cyclone-marcus-cyclone-nora-two-other-storms-hit-north-australia/9578246">Cyclone overload as four major weather systems converge on Australia</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/trump-replaces-hr-mcmaster-with-former-un-ambassador-bolton/9578786">Trump replaces security adviser with former UN ambassador John Bolton</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/revenge-porn-forums-sharing-nudes-of-women-without-consent/9577734">Revenge porn forums sharing drives full of alphabetised photos of Australian women</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/science/2018-03-23/great-pacific-garbage-patch-much-bigger-than-thought-study/9571234">There&#039;s a soup of rubbish in the Pacific that&#039;s almost as big as Queensland</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/mummified-skeleton-not-alien-actually-a-human-baby-study-finds/9578658">Scientists solve &#039;alien&#039; skeleton mystery</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/bradbury-senate-government-corporate-tax-rate/9579024">Analysis: Turnbull Government could pass company tax cuts with support of new senators</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/how-you-told-the-internet-everything/9576666">Your cat is telling people where you live and Apple knows when you last worked out</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/katie-brennan-takes-afl-rules-to-human-rights-commission/9578830">Brennan takes &#039;discriminatory&#039; AFL rules to Human Rights Commission</a></li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    <div class="c25l">
+        <div class="section">
+          <h2>Just In</h2>
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/ground-truth-reveals-brisbane-development-world-science-festival/9577418">Exploring decades of development with the wave of your hand</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/video-shows-snake-falling-prey-to-kookaburra-in-backyard-feed/9579260">Snake falls prey to kookaburra in backyard feed</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/russian-agent-has-limited-mental-capacity-after-nerve-attack/9578990">Former Russian spy may have limited mental capacity after nerve attack</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/onesie-artist-adele-varcoe-changing-perception-of-fashion/9579080">Onesie-wearing artist working to change perceptions of fashion</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/trump-vs-china-tariff-explainer/9578724">Is Trump&#039;s China tariff plan really a trade war or just theatre?</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/nsw-drug-busts-police-investigate-possible-mafia-links/9578924">Italian nationals charged over drug supply near Bathurst</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/tropical-cyclone-nora-bom-issues-warning-gulf-of-carpentaria/9579128">Warning issued as Tropical Cyclone Nora approaches Gulf of Carpentaria</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/florida-school-shooting-students-told-to-use-clear-backpacks/9578702">Florida school shooting survivors told to use clear backpacks</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/bradbury-senate-government-corporate-tax-rate/9579024">How a &#039;small army of Bradburys&#039; could hand Turnbull a company tax cut</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/lucy-paveley-road-death-manslaughter-charge-dropped-by-dpp/9579298">Teen driver&#039;s manslaughter charge dropped over Lucy Paveley&#039;s death</a></li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    <div class="c25l">
+        <div class="section">
+          <h2>Most Popular</h2><ul class="headlines">
+  <li>
+    <a href="/news/2018-03-22/myer-accused-of-racial-profiling-over-school-formal-row/9575314">Ten Myer staff called on teenage boy who was shopping for school ball</a>
+
+<span class="media">
+    <span class="photos" title="Photos">(photos)</span>
+
+</span>
+</li>
+<li>
+    <a href="/news/2018-03-23/trump-sets-china-tariff-plan-edges-away-from-trade-war/9578402">China says it will &#039;fight to the end&#039; as US reveals $77 billion tariff plan</a>
+
+</li>
+<li>
+    <a href="/news/2018-03-22/south-africa-v-australia-third-test-in-cape-town-day-one/9576268">South Africa blows strong position as Cummins leads Australian fightback in third Test</a>
+
+</li>
+<li>
+    <a href="/news/2018-03-23/revenge-porn-forums-sharing-nudes-of-women-without-consent/9577734">Revenge porn forums sharing drives full of alphabetised photos of Australian women</a>
+
+</li>
+<li>
+    <a href="/news/2018-03-22/self-driving-uber-fatal-crash-footage-released/9575624">&#039;Disturbing and heartbreaking&#039; footage of fatal self-driving crash released</a>
+
+</li>
+<li>
+    <a href="/news/2018-03-22/tumbleweed-plague-stops-residents-entering-home/9575318">Tumbleweed plague stops resident from entering home</a>
+
+</li>
+<li>
+    <a href="/news/2018-03-22/george-pell-committal-hearing-robes-too-heavy-sexual-offences/9577450">Pell&#039;s alleged offending at cathedral couldn&#039;t have happened, court told</a>
+
+</li>
+<li>
+    <a href="/news/2018-03-23/everything-you-thought-you-knew-about-vikings-is-probably-wrong/9575860">Everything you thought you knew about Vikings is probably wrong</a>
+
+</li>
+<li>
+    <a href="/news/2018-03-22/perth-zoo-new-porcupine-is-one-of-its-strangest-residents/9577696">Perth Zoo&#039;s bizarre new animal set to go on show</a>
+
+</li>
+<li>
+    <a href="/news/2018-03-22/back-pain-is-being-mismanaged-health-experts-warn/9570188">Sore back? Experts say this is why what you&#039;re doing to fix it won&#039;t work</a>
+
+</li>
+</ul></div>
+      </div>
+    <div class="c25r">
+        <div class="section">
+          <h2>Analysis &amp; Opinion</h2>
+
+
+
+
+
+
+
+
+  
+  
+  <ul class="headlines">
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/trump-vs-china-tariff-explainer/9578724">Is Trump&#039;s China tariff plan really a trade war or just theatre?</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/bradbury-senate-government-corporate-tax-rate/9579024">How a &#039;small army of Bradburys&#039; could hand Turnbull a company tax cut</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/what-happens-to-our-skin-as-we-age/9575978">Wrinkles, liver spots, crows&#039; feet: what happens to our skin as we age?</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/perth-childrens-hospital-report-adds-tension-to-wa-liberal-mix/9577956">WA Liberal partyroom meetings just got more awkward</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/aflw-grand-final-preview-no-guarantees-dogs-lions-bid-for-glory/9566916">No guarantees as Dogs, Lions bid for glory in AFLW grand final</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-23/spreadsheet-football-takes-soul-from-afl-but-romance-remains/9577124">Hinds: Spreadsheet football takes soul out of AFL — but romance remains </a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-22/hopes-rising-mathias-cormann-can-get-company-tax-cut-through/9574878">Hopes rising that Mathias Cormann can finish the company tax puzzle by Easter</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-22/richmond-passes-a-difficult-carlton-test-at-the-mcg/9571496">Tigers become the hunted but fight back to beat Blues in season opener</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-22/png-earthquake-disaster-on-our-doorstep-ignored/9575626">There is a disaster on our doorstep that&#039;s being ignored</a></li>
+
+        
+      
+      
+    
+      
+      
+      
+        
+        
+          
+            
+            
+            
+          <li>
+    <a href="/news/2018-03-22/facebook-cambridge-analytica-digital-surveillance-data-privacy/9575160">Cambridge Analytica scandal is not a &#039;breach&#039;. It is Facebook&#039;s business model in action </a></li>
+
+        
+      
+      
+    
+  </ul>
+</div>
+      </div>
+    </div>
+  </div>
+<!-- C modules - end -->
+<div id="footer" class="page section">
+    <!-- program footer-->
+  <div class="subcolumns">
+    <div id="sitemap" class="c75l">
+        <div class="section">
+          <h2>Site Map</h2>
+        </div>
+        <div class="subcolumns">
+          <div class="c16l">
+              <div class="section">
+    <h3>Sections</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/"
+    >
+  
+
+  
+    
+        <span>ABC News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/justin/"
+    >
+  
+
+  
+    
+        <span>Just In</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/australia/"
+    >
+  
+
+  
+    
+        <span>Australia</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/world/"
+    >
+  
+
+  
+    
+        <span>World</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/business/"
+    >
+  
+
+  
+    
+        <span>Business</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/entertainment/"
+    >
+  
+
+  
+    
+        <span>Entertainment</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/sport/"
+    >
+  
+
+  
+    
+        <span>Sport</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/analysis-and-opinion/"
+    >
+  
+
+  
+    
+        <span>Analysis &amp; Opinion</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/weather/"
+    >
+  
+
+  
+    
+        <span>Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/topics/"
+    >
+  
+
+  
+    
+        <span>Topics</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/archive/"
+    >
+  
+
+  
+    
+        <span>Archive</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/corrections/"
+    >
+  
+
+  
+    
+        <span>Corrections &amp; Clarifications</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Local Weather</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/sydney/weather/"
+    >
+  
+
+  
+    
+        <span>Sydney Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/melbourne/weather/"
+    >
+  
+
+  
+    
+        <span>Melbourne Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/adelaide/weather/"
+    >
+  
+
+  
+    
+        <span>Adelaide Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/brisbane/weather/"
+    >
+  
+
+  
+    
+        <span>Brisbane Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/perth/weather/"
+    >
+  
+
+  
+    
+        <span>Perth Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/hobart/weather/"
+    >
+  
+
+  
+    
+        <span>Hobart Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/darwin/weather/"
+    >
+  
+
+  
+    
+        <span>Darwin Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/canberra/weather/"
+    >
+  
+
+  
+    
+        <span>Canberra Weather</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Local News</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/sydney/news/"
+    >
+  
+
+  
+    
+        <span>Sydney News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/melbourne/news/"
+    >
+  
+
+  
+    
+        <span>Melbourne News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/adelaide/news/"
+    >
+  
+
+  
+    
+        <span>Adelaide News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/brisbane/news/"
+    >
+  
+
+  
+    
+        <span>Brisbane News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/perth/news/"
+    >
+  
+
+  
+    
+        <span>Perth News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/hobart/news/"
+    >
+  
+
+  
+    
+        <span>Hobart News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/darwin/news/"
+    >
+  
+
+  
+    
+        <span>Darwin News</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="http://www.abc.net.au/canberra/news/"
+    >
+  
+
+  
+    
+        <span>Canberra News</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Media</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/video/"
+    >
+  
+
+  
+    
+        <span>Video</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/audio/"
+    >
+  
+
+  
+    
+        <span>Audio</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/photos/"
+    >
+  
+
+  
+    
+        <span>Photos</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Subscribe</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/feeds/"
+    >
+  
+
+  
+    
+        <span>Podcasts</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/feeds/rss/"
+    >
+  
+
+  
+    
+        <span>RSS Feeds</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/alerts/"
+    >
+  
+
+  
+    
+        <span>NewsMail</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            <div class="c16l">
+              <div class="section">
+    <h3>Connect</h3><ul class="nav">
+        <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/upload/"
+    >
+  
+
+  
+    
+        <span>Upload</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/contact/"
+    >
+  
+
+  
+    
+        <span>Contact Us</span>
+    
+    
+  
+
+  </a>
+</li>
+          <li>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    <a href="/news/analysis-and-opinion/"
+    >
+  
+
+  
+    
+        <span>Suggest a Contributor</span>
+    
+    
+  
+
+  </a>
+</li>
+          </ul>
+    </div>
+</div>
+            </div>
+      </div>
+    <!-- right section-->
+    <div class="c25r">
+      <div id="fineprint" class="section">
+        <p>
+          <small>This service may include material from Agence France-Presse (AFP), APTN, Reuters, AAP, CNN and the BBC World Service which is copyright and cannot be reproduced.</small>
+        </p>
+        <p>
+          <small>AEDT = Australian Eastern Daylight Savings Time which is 11 hours ahead of UTC (Greenwich Mean Time)</small>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="platforms">
+      <a href="http://mobile.abc.net.au/news/2018-03-22/ahed-tamimi-palestinian-teen-who-slapped-israeli-soldier-jailed/9574716?pfm=sm" class="platform-mobile switch">Change to mobile view</a></div>
+  </div><!-- End footer --></div>
+<!-- Start Webtrends -->
+<div class="hide">
+  </div>
+<!-- End Webtrends -->
+<!--endnoindex--><!--Global footer-->
+<!-- Start ABC Bundle Footer 2.2.0 (customised) -->
+<!--noindex-->
+<nav id="abcFooter" class="global" aria-label="ABC Footer Navigation" data-version="2.2.0">
+ <ul>
+  <li><a class="abcLink" href="http://about.abc.net.au/terms-of-use/">Terms of Use</a></li>
+  <li><a class="abcLink" href="http://about.abc.net.au/abc-privacy-policy/">Privacy Policy</a></li>
+  <li><a class="abcLink" href="http://about.abc.net.au/accessibility-statement/">Accessibility</a></li>
+  <li><a class="abcLink" href="http://about.abc.net.au/talk-to-the-abc/">Contact Us</a></li>
+  <li><a class="abcLink" href="http://about.abc.net.au/terms-of-use/#UseOfContent">&copy; <time>2018</time> ABC</a></li>
+ </ul>
+</nav>
+<script type="text/javascript" src="https://res.abc.net.au/bundles/2.2.0/scripts/abc.bundle.2.2.0.min.js"></script>
+<script type="text/javascript" src="https://res.abc.net.au/libraries/stats/abc.stats.bundle.js"></script>
+<!-- START Webtrends -->
+<noscript><img alt="dcsimg" id="dcsimg" width="1" height="1" src="//statse.webtrendslive.com/dcsg85fae000004n0vfjpj8oa_9m4q/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.2.10&amp;dcssip=www.abc.net.au"></noscript>
+<!-- END Webtrends -->
+<!-- Google Tag Manager -->
+<script type="text/javascript">
+// <![CDATA[
+ (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ })(window,document,'script','dataLayer','GTM-PB2GX');
+ // ]]>
+</script>
+<noscript>
+ <iframe src="//www.googletagmanager.com/ns.html?id=GTM-PB2GX" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager -->
+<!-- ABC MyLogin -->
+<script type="text/javascript" src="https://mylogin.abc.net.au/js/abc.mylogin.embedded.js"></script>
+<script type="text/javascript">ABC.MyLoginEmbedded.init();</script>
+<!-- END ABC MyLogin -->
+<!--endnoindex-->
+<!-- End ABC Bundle Footer 2.2.0 (customised) -->
+<!--end global footer-->
+</body>
+</html>

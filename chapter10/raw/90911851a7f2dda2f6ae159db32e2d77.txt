@@ -1,0 +1,937 @@
+
+<!DOCTYPE html>
+
+<!--[if IE 8]> <html class="ie ie8" lang="en-AU"
+ xmlns:fb="http://ogp.me/ns/fb#" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 9]> <html class="ie ie9" lang="en-AU"
+ xmlns:fb="http://ogp.me/ns/fb#" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="en-AU"
+ xmlns:fb="http://ogp.me/ns/fb#" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+
+<head>
+
+
+<meta charset="UTF-8" />
+<title>We Do Need To Be Concerned About Creating ‘Another Stolen Generations’ - New Matilda</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="pingback" href="https://newmatilda.com/xmlrpc.php" />
+	
+<link rel="shortcut icon" href="https://newmatilda.com/wp-content/uploads/2015/09/favicon.ico" />	
+
+<link rel="apple-touch-icon-precomposed" href="https://newmatilda.com/wp-content/uploads/2015/09/mobilefavicon.png" />
+	
+        <style>
+
+            #newsletter-close {
+                position: absolute;
+                right: -10px;
+                top: -10px;
+                cursor: pointer;
+            }
+            #newsletter-popup-overlay {
+                display: none;
+                background:#000;
+                position:fixed;
+                top:0;
+                bottom: 0;
+                right: 0;
+                left:0px;
+                z-index:10000;
+                cursor:pointer;
+                opacity: .7;
+                filter: alpha(opacity=70);
+                -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+            }
+
+            #newsletter-popup-container {
+                display: none;
+                position:fixed;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                z-index:11000;
+            }
+
+            #newsletter-popup{
+                position: relative;
+                margin: 50px auto;
+                background-color:#fff;
+                width: 510px;
+                height: 390px;
+                border: 0px solid ;
+                border-radius: 0px;
+                box-sizing: content-box;
+            }
+
+            @media (max-width: 767px) {
+                #newsletter-popup{
+                    width: 90%;
+                    max-width: 510px;
+                    margin: 50px auto;
+                    height:calc( 100vh - 50px );
+                }
+            }
+            #newsletter-iframe {
+                margin: 5px;
+                width: 500px;
+                height: 380px;
+                border: 0;
+                xmargin: 0;
+            }
+            @media (max-width: 767px){
+                #newsletter-iframe{
+                    width: calc( 100% - 10px ) !important;
+                    height: calc( 100% - 10px )!important;
+            }
+
+            @media (max-width: 480px) {
+                #newsletter-popup{
+                    max-height: 100vh;
+                }
+            }
+
+
+        </style>
+        
+<!-- This site is optimized with the Yoast SEO plugin v6.2 - https://yoa.st/1yg?utm_content=6.2 -->
+<link rel="canonical" href="https://newmatilda.com/2018/03/20/need-concerned-creating-another-stolen-generations/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="We Do Need To Be Concerned About Creating ‘Another Stolen Generations’ - New Matilda" />
+<meta property="og:description" content="The removal of Aboriginal children from their homes – and where to place them – is complex and fraught process, and not fodder for politics or morning television. Jacynta Krakouer and Sarah Wise explain. Recent comments by Federal Children’s Minister David Gillespie, that we need not hesitate to place ‘abused’ Aboriginal children into adoption arrangementsMore" />
+<meta property="og:url" content="https://newmatilda.com/2018/03/20/need-concerned-creating-another-stolen-generations/" />
+<meta property="og:site_name" content="New Matilda" />
+<meta property="article:section" content="Civil Society" />
+<meta property="article:published_time" content="2018-03-20T07:53:41+00:00" />
+<meta property="og:image" content="https://newmatilda.com/wp-content/uploads/2016/05/Child-Removals-Protest.jpg" />
+<meta property="og:image:secure_url" content="https://newmatilda.com/wp-content/uploads/2016/05/Child-Removals-Protest.jpg" />
+<meta property="og:image:width" content="740" />
+<meta property="og:image:height" content="457" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="The removal of Aboriginal children from their homes – and where to place them – is complex and fraught process, and not fodder for politics or morning television. Jacynta Krakouer and Sarah Wise explain. Recent comments by Federal Children’s Minister David Gillespie, that we need not hesitate to place ‘abused’ Aboriginal children into adoption arrangementsMore" />
+<meta name="twitter:title" content="We Do Need To Be Concerned About Creating ‘Another Stolen Generations’ - New Matilda" />
+<meta name="twitter:image" content="https://newmatilda.com/wp-content/uploads/2016/05/Child-Removals-Protest.jpg" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/newmatilda.com\/","name":"New Matilda","potentialAction":{"@type":"SearchAction","target":"https:\/\/newmatilda.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//newmatilda.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="New Matilda &raquo; Feed" href="https://newmatilda.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="New Matilda &raquo; Comments Feed" href="https://newmatilda.com/comments/feed/" />
+<!-- This site is powered by Shareaholic - https://shareaholic.com -->
+<script type='text/javascript' data-cfasync='false'>
+  //<![CDATA[
+    _SHR_SETTINGS = {"endpoints":{"local_recs_url":"https:\/\/newmatilda.com\/wp-admin\/admin-ajax.php?action=shareaholic_permalink_related","share_counts_url":"https:\/\/newmatilda.com\/wp-admin\/admin-ajax.php?action=shareaholic_share_counts_api"},"url_components":{"year":"2018","monthnum":"03","day":"20","post_id":"98942","postname":"need-concerned-creating-another-stolen-generations","author":"jacynta-krakouer"}};
+  //]]>
+</script>
+<script type='text/javascript' data-cfasync='false'
+        src='//apps.shareaholic.com/assets/pub/shareaholic.js'
+        data-shr-siteid='4340253a5117d796bde859a0a2520f65' async='async' >
+</script>
+
+<!-- Shareaholic Content Tags -->
+<meta name='shareaholic:site_name' content='New Matilda' />
+<meta name='shareaholic:language' content='en-AU' />
+<meta name='shareaholic:url' content='https://newmatilda.com/2018/03/20/need-concerned-creating-another-stolen-generations/' />
+<meta name='shareaholic:keywords' content='civil society, post' />
+<meta name='shareaholic:article_published_time' content='2018-03-20T07:53:41+00:00' />
+<meta name='shareaholic:article_modified_time' content='2018-03-20T07:53:41+00:00' />
+<meta name='shareaholic:shareable_page' content='true' />
+<meta name='shareaholic:article_author_name' content='Jacynta Krakouer &amp;amp; Sarah Wise' />
+<meta name='shareaholic:site_id' content='4340253a5117d796bde859a0a2520f65' />
+<meta name='shareaholic:wp_version' content='8.6.1' />
+<meta name='shareaholic:image' content='https://newmatilda.com/wp-content/uploads/2016/05/Child-Removals-Protest.jpg' />
+<!-- Shareaholic Content Tags End -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/newmatilda.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.4"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='https://newmatilda.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sidebar-login-css'  href='https://newmatilda.com/wp-content/plugins/sidebar-login/assets/css/sidebar-login.css?ver=2.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='follow-up-emails-css'  href='https://newmatilda.com/wp-content/plugins/woocommerce-follow-up-emails/templates/followups.css?ver=4.4.18' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://newmatilda.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://newmatilda.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.2.6' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://newmatilda.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='chosen-css'  href='https://newmatilda.com/wp-content/plugins/wp-job-manager/assets/css/chosen.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-job-manager-frontend-css'  href='https://newmatilda.com/wp-content/plugins/wp-job-manager/assets/css/frontend.css?ver=1.29.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-polls-css'  href='https://newmatilda.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.73.8' type='text/css' media='all' />
+<style id='wp-polls-inline-css' type='text/css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('https://newmatilda.com/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link rel='stylesheet' id='job-alerts-frontend-css'  href='https://newmatilda.com/wp-content/plugins/alerts/assets/css/frontend.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-job-manager-applications-frontend-css'  href='https://newmatilda.com/wp-content/plugins/applications/assets/css/frontend.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-job-manager-tags-frontend-css'  href='https://newmatilda.com/wp-content/plugins/tags/assets/css/style.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-paid-listings-packages-css'  href='https://newmatilda.com/wp-content/plugins/wc-paid-listings/assets/css/packages.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='newsletter-subscription-css'  href='https://newmatilda.com/wp-content/plugins/newsletter/subscription/style.css?ver=5.0.8' type='text/css' media='all' />
+<link rel='stylesheet' id='motive-fonts-css'  href='https://fonts.googleapis.com/css?family=Lora%3A400%2C700%7COpen+Sans%3A400%2C600%2C700%7CVolkhov%3A400&#038;subset' type='text/css' media='all' />
+<link rel='stylesheet' id='motive-core-css'  href='https://newmatilda.com/wp-content/themes/motive-child/style.css?ver=1.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='motive-lightbox-css'  href='https://newmatilda.com/wp-content/themes/motive/css/lightbox.css?ver=1.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='motive-font-awesome-css'  href='https://newmatilda.com/wp-content/themes/motive/css/fontawesome/css/font-awesome.min.css?ver=1.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='motive-responsive-css'  href='https://newmatilda.com/wp-content/themes/motive/css/responsive.css?ver=1.2.6' type='text/css' media='all' />
+<style id='motive-responsive-inline-css' type='text/css'>
+::selection { background: #017777 }
+
+::-moz-selection { background: #017777 }
+
+.main-color, .trending-ticker .heading, ul.styled li:before, .main-footer a, .post-content a, .tabbed .tabs-list .active a, 
+.skin-creative .navigation .mega-menu.links > li > a, .skin-creative .category-ext .heading { color: #017777 }
+
+.section-head .title, .main-color-bg, .image-overlay, .read-more a, .main-pagination .current, .main-pagination a:hover, 
+.sc-button, .button, .drop-caps.square, .review-box .label, .review-box .rating-wrap, .verdict-box .overall .verdict, 
+.navigation .menu > li:hover > a, .navigation .menu > .current-menu-item > a, .navigation .menu > .current-menu-parent > a, 
+.navigation .menu > .current-menu-ancestor > a, ol.styled li:before, .comments-list .post-author, .main-footer.dark .tagcloud a:hover, 
+.tagcloud a:hover, .main-slider .owl-prev:hover, .main-slider .owl-next:hover { background-color: #017777 }
+
+.section-head.alt, .sc-tabs .active a, .sc-accordion-title.active, .sc-toggle-title.active, .verdict-box, 
+.navigation .menu > li > ul:after, .multimedia .carousel-nav-bar, .gallery-block .carousel-nav-bar, .post-content blockquote,
+.author-info, .review-box, .post-content .pullquote { border-top-color: #017777 }
+
+.main-pagination .current, .main-pagination a:hover { border-color: #017777 }
+
+.sc-tabs-wrap.vertical .sc-tabs .active a, .navigation .menu > li > ul:after { border-left-color: #017777 }
+
+.navigation .menu > li > ul:after { border-right-color: #017777 }
+
+.section-head, .section-head-small, .navigation .mega-menu, .multimedia .first-title, .post-slideshow img.aligncenter, 
+.post-slideshow img.alignnone { border-bottom-color: #017777 }
+
+@media only screen and (max-width: 799px) { .navigation .mobile .fa { background: #017777 } }
+
+.post-content a { color: #017777 }
+
+.post-content a:hover { color: #017777 }
+
+.main-footer .widget a { color: #017777 }
+
+
+.navigation .menu-cat-13576 .mega-menu, .navigation .menu .menu-cat-13576 > ul:after, .main .cat-border-13576 { 
+	border-color: #f91202; 
+}
+
+.cat-color-13576 { 
+	color: #f91202; 
+}
+
+.cat-13576, .cat-title.cat-13576, .image-overlay.cat-13576, .navigation .menu > .menu-cat-13576:hover > a, 
+.navigation .menu > .menu-cat-13576.current-menu-item > a, .navigation .menu > .menu-cat-13576.current-menu-parent > a,
+.term-wrap-13576 .read-more a, .term-wrap-13576 .image-overlay, .term-wrap-13576 .section-head .title {
+	background: #f91202;
+}
+
+.term-wrap-13576 .page-numbers.current, .term-wrap-13576 .page-numbers:hover {
+	background: #f91202;
+	border-color: #f91202;
+}
+
+
+.post-header .comment-count{
+display:none;
+}
+
+.comment-count { display: none; }
+
+@media only screen and (max-width: 767px){
+.search-box .search {
+    left: -115px;
+}
+}
+</style>
+<script type='text/javascript' src='https://newmatilda.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://newmatilda.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://newmatilda.com/wp-content/plugins/sidebar-login/assets/js/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sidebar_login_params = {"ajax_url":"https:\/\/newmatilda.com\/wp-admin\/admin-ajax.php","force_ssl_admin":"1","is_ssl":"1","i18n_username_required":"Please enter your username","i18n_password_required":"Please enter your password","error_class":"sidebar_login_error"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://newmatilda.com/wp-content/plugins/sidebar-login/assets/js/sidebar-login.min.js?ver=2.7.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FUE = {"ajaxurl":"https:\/\/newmatilda.com\/wp-admin\/admin-ajax.php","ajax_loader":"https:\/\/newmatilda.com\/wp-content\/plugins\/woocommerce-follow-up-emails\/templates\/images\/ajax-loader.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://newmatilda.com/wp-content/plugins/woocommerce-follow-up-emails/templates/js/fue-account-subscriptions.js?ver=4.4.18'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"https:\/\/newmatilda.com\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/newmatilda.com\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://newmatilda.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.2.6'></script>
+<script type='text/javascript' src='https://newmatilda.com/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=5.1.1'></script>
+<link rel='https://api.w.org/' href='https://newmatilda.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://newmatilda.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://newmatilda.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.4" />
+<meta name="generator" content="WooCommerce 3.2.6" />
+<link rel='shortlink' href='https://newmatilda.com/?p=98942' />
+<link rel="alternate" type="application/json+oembed" href="https://newmatilda.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnewmatilda.com%2F2018%2F03%2F20%2Fneed-concerned-creating-another-stolen-generations%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://newmatilda.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnewmatilda.com%2F2018%2F03%2F20%2Fneed-concerned-creating-another-stolen-generations%2F&#038;format=xml" />
+<meta property="fb:app_id" content="920883917947593"/>			<meta property="fb:pages" content="23703068834" />
+				<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://newmatilda.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!-- BEGIN GADWP v5.1.2.5 Universal Analytics - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1029820-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END GADWP Universal Analytics -->
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	
+<!--[if lt IE 9]>
+<script src="https://newmatilda.com/wp-content/themes/motive/js/html5.js" type="text/javascript"></script>
+<script src="https://newmatilda.com/wp-content/themes/motive/js/selectivizr.js" type="text/javascript"></script>
+<![endif]-->
+
+</head>
+
+<body class="post-template-default single single-post postid-98942 single-format-standard new-matilda right-sidebar boxed">
+
+<div class="main-wrap">
+
+	
+	<div class="top-bar dark">
+
+		<div class="wrap">
+			<section class="top-bar-content cf">
+			
+								<div class="trending-ticker">
+					<span class="heading">Latest</span>
+
+					<ul>
+												
+												
+							<li><a href="https://newmatilda.com/2018/03/22/made-indonesia-aboriginal-art-company-lands-federal-court-alleged-misleading-conduct/" title="Made In Indonesia: &#8216;Aboriginal Art&#8217; Company Lands In Federal Court Over Alleged Misleading Conduct">Made In Indonesia: &#8216;Aboriginal Art&#8217; Company Lands In Federal Court Over Alleged Misleading Conduct</a></li>
+						
+												
+							<li><a href="https://newmatilda.com/2018/03/22/batman-byelection-deflated-greens-serious-work/" title="The Batman By-Election: Labor Surges, Deflated Greens Have Some Serious Work Ahead">The Batman By-Election: Labor Surges, Deflated Greens Have Some Serious Work Ahead</a></li>
+						
+												
+							<li><a href="https://newmatilda.com/2018/03/21/free-mind-time-step-away-social-media/" title="Free Your Mind, And Your Time: Step Away From Social Media">Free Your Mind, And Your Time: Step Away From Social Media</a></li>
+						
+												
+							<li><a href="https://newmatilda.com/2018/03/21/beautiful-one-day-wordy-next-2k-award-qlds-next-great-young-writer/" title="Beautiful One Day, Wordy The Next: $2k Award For Qld’s Next Great Young Writer">Beautiful One Day, Wordy The Next: $2k Award For Qld’s Next Great Young Writer</a></li>
+						
+												
+							<li><a href="https://newmatilda.com/2018/03/21/friends-like-australia-doesnt-need-enemies/" title="With Friends Like These, Australia Doesn’t Need Enemies">With Friends Like These, Australia Doesn’t Need Enemies</a></li>
+						
+												
+							<li><a href="https://newmatilda.com/2018/03/21/three-newspolls-midnight-dangerous-exercise-pub-test-populism/" title="Three Newspolls To Midnight: A Dangerous Exercise In Pub-Test Populism.">Three Newspolls To Midnight: A Dangerous Exercise In Pub-Test Populism.</a></li>
+						
+												
+							<li><a href="https://newmatilda.com/2018/03/20/15-years-failures-iraq-war-belong-us/" title="15 Years On, The Failures Of The Iraq War Belong To Us All">15 Years On, The Failures Of The Iraq War Belong To Us All</a></li>
+						
+												
+							<li><a href="https://newmatilda.com/2018/03/20/need-concerned-creating-another-stolen-generations/" title="We Do Need To Be Concerned About Creating ‘Another Stolen Generations’">We Do Need To Be Concerned About Creating ‘Another Stolen Generations’</a></li>
+						
+												
+							<li><a href="https://newmatilda.com/2018/03/20/timesup-nrl-understand-respond-violent-stars/" title="#timesup For NRL To Understand How To Respond To Violent Stars">#timesup For NRL To Understand How To Respond To Violent Stars</a></li>
+						
+												
+							<li><a href="https://newmatilda.com/2018/03/20/video-john-pilger-carefully-constructed-drama-skripal-nerve-agent-attack/" title="VIDEO: John Pilger On The &#8216;Carefully Constructed Drama&#8217; Of Skripal Nerve Agent Attack">VIDEO: John Pilger On The &#8216;Carefully Constructed Drama&#8217; Of Skripal Nerve Agent Attack</a></li>
+						
+												
+											</ul>
+				</div>
+				
+				<div class="search-box">
+					<a href="#" class="top-icon fa fa-search"><span class="visuallyhidden">Search</span></a>
+					
+					<div class="search">
+					<form action="https://newmatilda.com/" method="get">
+						<input type="text" name="s" class="query" value="" placeholder="To search, type and press enter." />
+					</form>
+					</div> <!-- .search -->
+				</div>
+				
+							
+				
+			</section>
+		</div>
+		
+	</div>
+
+	<div id="main-head" class="main-head">
+	
+		<div class="wrap">
+					
+			
+		<header>
+		
+			<div class="title">
+			
+				<a href="https://newmatilda.com/" title="New Matilda" rel="home">
+				
+														
+					<img src="https://newmatilda.com/wp-content/uploads/2015/09/newmatildalogo.png" class="logo-image" alt="New Matilda" data-at2x="https://newmatilda.com/wp-content/uploads/2015/09/newmatildalogo_retina.png" />
+						 
+								
+				</a>
+			
+			</div>
+			
+			<div class="right">
+							</div>
+			
+		</header>
+						
+		</div>
+		
+		<div class="wrap nav-wrap">
+		
+						
+			<nav class="navigation cf alt nav-center">
+			
+				<div class="mobile" data-search="1">
+					<a href="#" class="selected">
+						<span class="text">Navigate</span><span class="current"></span> <i class="hamburger fa fa-bars"></i>
+					</a>
+				</div>
+				
+				<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-44890" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-44890"><a href="https://newmatilda.com">Home</a></li>
+<li id="menu-item-36912" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-12586 menu-item-36912"><a href="https://newmatilda.com/category/aboriginal-affairs/">Aboriginal Affairs</a></li>
+<li id="menu-item-36914" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-12588 menu-item-36914"><a href="https://newmatilda.com/category/australian-politics/">Politics</a></li>
+<li id="menu-item-48359" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-13576 menu-item-48359"><a href="https://newmatilda.com/category/special-investigations/">Special Investigations</a></li>
+<li id="menu-item-46161" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-13208 menu-item-46161"><a href="https://newmatilda.com/category/the-insider/">The Insider</a></li>
+<li id="menu-item-36924" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-36924"><a>More</a>
+<ul class="sub-menu">
+	<li id="menu-item-36913" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-12587 menu-item-36913"><a href="https://newmatilda.com/category/asylum-seekers/">Asylum Seekers</a></li>
+	<li id="menu-item-36915" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-12589 menu-item-36915"><a href="https://newmatilda.com/category/business-consumerism/">Business &#038; Consumerism</a></li>
+	<li id="menu-item-38088" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-12759 menu-item-38088"><a href="https://newmatilda.com/category/cartoons/">Cartoons</a></li>
+	<li id="menu-item-36916" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-cat-12590 menu-item-36916"><a href="https://newmatilda.com/category/civil-society/">Civil Society</a></li>
+	<li id="menu-item-36918" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-12592 menu-item-36918"><a href="https://newmatilda.com/category/education/">Education</a></li>
+	<li id="menu-item-36919" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-12593 menu-item-36919"><a href="https://newmatilda.com/category/environment/">Environment</a></li>
+	<li id="menu-item-36920" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-12594 menu-item-36920"><a href="https://newmatilda.com/category/international-affairs/">International Affairs</a></li>
+	<li id="menu-item-36921" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-12595 menu-item-36921"><a href="https://newmatilda.com/category/media-culture/">Media &#038; Culture</a></li>
+	<li id="menu-item-36923" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-12597 menu-item-36923"><a href="https://newmatilda.com/category/workers-rights/">Workers&#8217; Rights</a></li>
+</ul>
+</li>
+<li id="menu-item-36902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36902"><a href="https://newmatilda.com/shop/">Subscribe</a></li>
+<li id="menu-item-96017" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-96017"><a href="https://newmatilda.com/jobs/">Jobs</a>
+<ul class="sub-menu">
+	<li id="menu-item-96014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96014"><a href="https://newmatilda.com/job-alerts/">Job Alerts</a></li>
+	<li id="menu-item-96015" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96015"><a href="https://newmatilda.com/job-submission/">Job Submission</a></li>
+	<li id="menu-item-96016" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96016"><a href="https://newmatilda.com/job-dashboard/">Job Dashboard</a></li>
+</ul>
+</li>
+<li id="menu-item-38028" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38028"><a href="https://newmatilda.com/my-account/">My Account</a></li>
+</ul></div>			</nav>
+			
+		</div>
+		
+	</div> <!-- .main-head -->
+	
+	
+<div class="main wrap">
+
+	<div class="ts-row cf">
+		<div class="col-8 main-content cf">
+
+			<div class="breadcrumbs"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="https://newmatilda.com/"><span itemprop="title">Home</span></a></span><span class="delim"><i class="fa fa-angle-right"></i></span><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url"  href="https://newmatilda.com/category/civil-society/"><span itemprop="title">Civil Society</span></a></span></div>		
+			
+				
+<article id="post-98942" class="post-98942 post type-post status-publish format-standard has-post-thumbnail category-civil-society" itemscope itemtype="http://schema.org/Article">
+	
+	<header class="post-header cf">
+				
+		<div class="featured">
+		
+						
+							
+			
+				<a href="https://newmatilda.com/wp-content/uploads/2016/05/Child-Removals-Protest.jpg" itemprop="image" class="image-link"><img width="578" height="357" src="https://newmatilda.com/wp-content/uploads/2016/05/Child-Removals-Protest.jpg" class="attachment-motive-alt-slider size-motive-alt-slider wp-post-image" alt="new matilda, aboriginal" title="We Do Need To Be Concerned About Creating ‘Another Stolen Generations’" srcset="https://newmatilda.com/wp-content/uploads/2016/05/Child-Removals-Protest.jpg 740w, https://newmatilda.com/wp-content/uploads/2016/05/Child-Removals-Protest-500x309.jpg 500w, https://newmatilda.com/wp-content/uploads/2016/05/Child-Removals-Protest-300x185.jpg 300w" sizes="(max-width: 578px) 100vw, 578px" />					
+						
+				</a>
+								
+										
+					<div class="caption">(IMAGE: Peter Boyle, Facebook)</div>
+						
+								
+					</div>
+		
+		
+		
+		<h1 class="post-title item fn" itemprop="name">
+		We Do Need To Be Concerned About Creating ‘Another Stolen Generations’		</h1>
+		
+					<a href="https://newmatilda.com/2018/03/20/need-concerned-creating-another-stolen-generations/#respond"><span class="comment-count">0</span></a>
+				
+	</header><!-- .post-header -->
+	
+	<div class="post-meta">
+		<span class="posted-by">By 
+			<span class="reviewer" itemprop="author"><a href="https://newmatilda.com/author/jacynta-krakouer/" title="Posts by Jacynta Krakouer &#038; Sarah Wise" rel="author">Jacynta Krakouer &#38; Sarah Wise</a></span>
+		</span>
+		 
+		<span class="posted-on">on			<span class="dtreviewed">
+				<time class="value-datetime" datetime="2018-03-20T07:53:41+00:00" itemprop="datePublished">March 20, 2018</time>
+			</span>
+		</span>
+		
+		<span class="cats">
+						
+				<a href="https://newmatilda.com/category/civil-society/" class="cat cat-color-12590">Civil Society</a>
+			
+						
+		</span>
+	</div>
+	
+	<div class="post-container cf">
+		<div class="post-content text-font description" itemprop="articleBody">
+			
+			<p>The removal of Aboriginal children from their homes – and where to place them – is complex and fraught process, and not fodder for politics or morning television. Jacynta Krakouer and Sarah Wise explain.</p>
+<p>Recent comments by Federal Children’s Minister David Gillespie, that we need not hesitate to place ‘abused’ Aboriginal children into adoption arrangements with ‘white families’, have been widely reported in the media, prompting both outcry and support among Indigenous and non-Indigenous commentators.</p>
+<p>Gillespie’s argument that we need not be concerned about creating another Stolen Generations is completely unsound. What has failed to rate a mention in the coverage of this issue is the fact that Aboriginal and Torres Strait Islander children are already placed in care with non-Indigenous families in large numbers.</p>
+<p>Australia’s child protection systems are among the most risk-averse in the world. The state intervenes often into the realm of family to ensure the protection of Australia’s children, investigating 119,173 cases of suspected child abuse or neglect last financial year (2016-17).</p>
+<p>More than 36% of all Australian children living in care are Aboriginal, and a sizeable proportion are being looked after by non-Indigenous carers. As one example, in Victoria a 2016 report by the Commission for Children and Young People stated that almost 50% of all Indigenous Australian children in care are looked after by non-Indigenous carers, many of whom lack cultural awareness training.</p>
+<p>While placement in care may be necessary for children’s immediate safety, separation from family, community, country and culture places Indigenous children at risk of unstable and culturally inappropriate childrearing, cultural disconnection and subsequent social and emotional problems.</p>
+<figure id="attachment_98943" style="max-width: 740px" class="wp-caption alignnone"><img class="size-full wp-image-98943" src="https://newmatilda.com/wp-content/uploads/2018/03/David-Gillespie.jpg" alt="" width="740" height="457" srcset="https://newmatilda.com/wp-content/uploads/2018/03/David-Gillespie.jpg 740w, https://newmatilda.com/wp-content/uploads/2018/03/David-Gillespie-500x309.jpg 500w, https://newmatilda.com/wp-content/uploads/2018/03/David-Gillespie-300x185.jpg 300w" sizes="(max-width: 740px) 100vw, 740px" /><figcaption class="wp-caption-text">Turnbul government minister, David Gillespie.</figcaption></figure>
+<p>Recent findings from the Royal Commission into Institutional Responses to Child Sexual Abuse also highlight the fact that children are not always safe in care. Of the 257 survivors who shared their painful histories, 66% stated that they had been abused in home-based care with either a foster or kinship carer, while 37% said they had been abused in residential care.</p>
+<p>Aboriginal and Torres Strait Islander children are being removed from their families at inordinate rates; Indigenous Australian children are nearly 10 times more likely to be removed from their families and placed in care than non-Indigenous children. This disproportionality is nothing less than a crisis. In fact, the Secretariat for National Aboriginal and Islander Child Care (SNAICC) expects that the population of Indigenous children in care will more than triple by 2036 if the increasing trend of overrepresentation is not stopped.</p>
+<p>But Gillespie is right on one point; something must be done about Aboriginal children living in families where they have been harmed or where there are strong indications that they are likely to be harmed. We all feel the necessity and urgency of doing something transformative. But reductionist and simplistic solutions such as adoption by white families, no matter how well-intentioned, will not achieve the results we desire. Indeed, policies such as this are likely to make the situation worse.</p>
+<p>Safeguarding Aboriginal children is full of complexity, uncertainty, dilemmas and tensions. The fact that people who care deeply about this issue cannot agree on a way forward demonstrates the difficulty of the challenge we face. Real and lasting change will only happen if change agents are willing to embrace and work in complexity.</p>
+<p>Successful long-term strategies do not come from one individual, but emerge from the continuous, purposeful interaction among people. This means families, communities, professionals, researchers and policymakers must work together purposefully and with a clear vision of the future we want for Aboriginal families and communities in distress. This is to understand and change the deep causes of family and community dysfunction and the deficits in our systems for protecting children.</p>
+<p>Three key principles need to guide us in this work. They are Aboriginal self-determination, prevention and early intervention (to avoid harm to children and prevent them from entering the child protection and care systems), and protection of the cultural rights of Aboriginal children already in care.</p>
+<p>The latter can be achieved by upholding the Aboriginal Child Placement Principle (Aboriginal children placed with Aboriginal carers) and by:</p>
+<ul>
+<li>ensuring that workers and carers are culturally competent;</li>
+<li>that the fundamental importance of culture is better understood by workers placing children in care;</li>
+<li>enhancing collaboration between Aboriginal Community Controlled Organisations and non-Indigenous agencies; and,</li>
+<li>ultimately, by acknowledging family as pertinent to the development of a strong cultural identity and connection to Indigenous heritage.</li>
+</ul>
+<p>A national Commissioner for Aboriginal and Torres Strait Islander Children and Young People in care may provide appropriate monitoring, direction and oversight to improve culturally-responsive practice with Indigenous children in the future.</p>
+<div class='shareaholic-canvas' data-app-id='23953884' data-app-id-name='post_below_content' data-app='share_buttons' data-title='We Do Need To Be Concerned About Creating ‘Another Stolen Generations’' data-link='https://newmatilda.com/2018/03/20/need-concerned-creating-another-stolen-generations/' data-summary=''></div>			
+			
+			
+						
+			<div class="donate-box">
+				<h2 class="cta">Donate To New Matilda</h2>
+				<p class="blurb">New Matilda is a small, independent media outlet. We survive through reader contributions, and never losing a lawsuit. If you got something from this article, giving something back helps us to continue speaking truth to power. Every little bit counts.</p>
+				<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+					<input type="hidden" name="cmd" value="_s-xclick">
+					<input type="hidden" name="hosted_button_id" value="AKZPF2NPB7EAJ">
+					<input type="image" src="https://www.paypalobjects.com/en_AU/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+					<img alt="" border="0" src="https://www.paypalobjects.com/en_AU/i/scr/pixel.gif" width="1" height="1">
+				</form>
+			</div>
+			
+		</div><!-- .post-content -->
+		
+	</div>
+
+	<div class="post-footer cf">
+			
+				
+		<div class="post-tags"></div>
+		
+		
+
+		
+				
+		<div class="post-share">
+		
+			<div class="share-links">
+					
+				<a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnewmatilda.com%2F2018%2F03%2F20%2Fneed-concerned-creating-another-stolen-generations%2F" class="fa fa-facebook" title="Share on Facebook">
+					<span class="visuallyhidden">Facebook</span></a>
+	
+				<a href="http://twitter.com/home?status=https%3A%2F%2Fnewmatilda.com%2F2018%2F03%2F20%2Fneed-concerned-creating-another-stolen-generations%2F" class="fa fa-twitter" title="Tweet It">
+					<span class="visuallyhidden">Twitter</span></a>
+					
+				<a href="http://plus.google.com/share?url=https%3A%2F%2Fnewmatilda.com%2F2018%2F03%2F20%2Fneed-concerned-creating-another-stolen-generations%2F" class="fa fa-google-plus" title="Share on Google+">
+					<span class="visuallyhidden">Google+</span></a>
+					
+				<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fnewmatilda.com%2F2018%2F03%2F20%2Fneed-concerned-creating-another-stolen-generations%2F" class="fa fa-linkedin" title="Share on LinkedIn">
+					<span class="visuallyhidden">LinkedIn</span></a>
+
+				<a href="#" class="more">more</a>
+				
+				<div class="share-more">
+						
+					<a href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fnewmatilda.com%2F2018%2F03%2F20%2Fneed-concerned-creating-another-stolen-generations%2F&amp;media=https%3A%2F%2Fnewmatilda.com%2Fwp-content%2Fuploads%2F2016%2F05%2FChild-Removals-Protest.jpg" class="fa fa-pinterest"
+						title="Share on Pinterest">
+						<span class="visuallyhidden">Pinterest</span></a>
+						
+					<a href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fnewmatilda.com%2F2018%2F03%2F20%2Fneed-concerned-creating-another-stolen-generations%2F&amp;name=We+Do+Need+To+Be+Concerned+About+Creating+%E2%80%98Another+Stolen+Generations%E2%80%99" class="fa fa-tumblr"
+						title="Share on Tumblr">
+						<span class="visuallyhidden">Tumblr</span></a>
+						
+					<a href="mailto:?subject=We%20Do%20Need%20To%20Be%20Concerned%20About%20Creating%20%E2%80%98Another%20Stolen%20Generations%E2%80%99&amp;body=https%3A%2F%2Fnewmatilda.com%2F2018%2F03%2F20%2Fneed-concerned-creating-another-stolen-generations%2F" class="fa fa-envelope-o"
+						title="Email It">
+						<span class="visuallyhidden">Email</span></a>
+				
+				</div>
+				
+			</div>
+		</div>
+		
+				
+	</div>
+		
+</article>
+
+
+				<section class="author-info">
+			
+				<img src="https://newmatilda.com/wp-content/uploads/2015/09/nmicon-150x150.png" width="78" height="78" alt="Jacynta Krakouer &amp; Sarah Wise" class="avatar avatar-78 wp-user-avatar wp-user-avatar-78 alignnone photo" />				
+				<div class="description">
+					<a href="https://newmatilda.com/author/jacynta-krakouer/" title="Posts by Jacynta Krakouer &#038; Sarah Wise" rel="author">Jacynta Krakouer &#38; Sarah Wise</a> 					
+					<p class="bio text-font">Jacynta Krakouer is an Indigenous Australian doctoral candidate at the University of Melbourne. Dr Sarah Wise is a Senior Research Fellow at the University of Melbourne. Both are employed by the Department of Social Work.</p>
+					
+					
+					<ul class="social-icons">
+										</ul>
+					
+				</div>
+				
+			</section>
+
+
+
+
+
+
+<section class="related-posts">
+	<h3 class="section-head cf"><span class="title">Related Stories</span></h3> 
+	<ul class="ts-row">
+	
+		
+		<li class="column posts-grid one-third">
+			
+			<article>
+					
+				<a href="https://newmatilda.com/2018/03/20/timesup-nrl-understand-respond-violent-stars/" title="#timesup For NRL To Understand How To Respond To Violent Stars" class="image-link">
+					<img width="252" height="167" src="https://newmatilda.com/wp-content/uploads/2018/03/Matt-Lodge-Broncos-training-252x167.jpg" class="image wp-post-image" alt="" title="#timesup For NRL To Understand How To Respond To Violent Stars" srcset="https://newmatilda.com/wp-content/uploads/2018/03/Matt-Lodge-Broncos-training-252x167.jpg 252w, https://newmatilda.com/wp-content/uploads/2018/03/Matt-Lodge-Broncos-training-687x457.jpg 687w" sizes="(max-width: 252px) 100vw, 252px" />						
+								<span class="image-overlay"></span>
+			
+			<span class="meta-overlay">
+				<span class="meta">
+				
+				<span class="post-format "><i class="fa fa-file-text-o"></i></span>
+				
+				</span>
+			</span>
+						</a>
+				
+				<h3><a href="https://newmatilda.com/2018/03/20/timesup-nrl-understand-respond-violent-stars/" class="post-link">#timesup For NRL To Understand How To Respond To Violent Stars</a></h3>
+				
+			</article>
+		</li>
+		
+		
+		<li class="column posts-grid one-third">
+			
+			<article>
+					
+				<a href="https://newmatilda.com/2018/03/14/no-joke-capitalism-australian-identity-threat-unity/" title="No Joke: Capitalism, Australian Identity and The Threat to Unity" class="image-link">
+					<img width="252" height="167" src="https://newmatilda.com/wp-content/uploads/2016/01/John-Pilger-utopia-1-252x167.jpg" class="image wp-post-image" alt="" title="No Joke: Capitalism, Australian Identity and The Threat to Unity" />						
+								<span class="image-overlay"></span>
+			
+			<span class="meta-overlay">
+				<span class="meta">
+				
+				<span class="post-format "><i class="fa fa-file-text-o"></i></span>
+				
+				</span>
+			</span>
+						</a>
+				
+				<h3><a href="https://newmatilda.com/2018/03/14/no-joke-capitalism-australian-identity-threat-unity/" class="post-link">No Joke: Capitalism, Australian Identity and The Threat to Unity</a></h3>
+				
+			</article>
+		</li>
+		
+		
+		<li class="column posts-grid one-third">
+			
+			<article>
+					
+				<a href="https://newmatilda.com/2018/03/13/joining-mob-price-australias-butt-kissing-trumps-trade-tariffs/" title="Joining The Mob: What Price Australia’s Butt Kissing On Trump’s Trade Tariffs?" class="image-link">
+					<img width="252" height="167" src="https://newmatilda.com/wp-content/uploads/2017/02/Trump-Turnbull-252x167.jpg" class="image wp-post-image" alt="" title="Joining The Mob: What Price Australia’s Butt Kissing On Trump’s Trade Tariffs?" />						
+								<span class="image-overlay"></span>
+			
+			<span class="meta-overlay">
+				<span class="meta">
+				
+				<span class="post-format "><i class="fa fa-file-text-o"></i></span>
+				
+				</span>
+			</span>
+						</a>
+				
+				<h3><a href="https://newmatilda.com/2018/03/13/joining-mob-price-australias-butt-kissing-trumps-trade-tariffs/" class="post-link">Joining The Mob: What Price Australia’s Butt Kissing On Trump’s Trade Tariffs?</a></h3>
+				
+			</article>
+		</li>
+		
+		</ul>
+</section>
+
+
+				<div class="comments">
+				<!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ --><h3>Comments</h3><p><fb:comments-count href=https://newmatilda.com/2018/03/20/need-concerned-creating-another-stolen-generations/></fb:comments-count> comments</p><div class="fb-comments" data-href="https://newmatilda.com/2018/03/20/need-concerned-creating-another-stolen-generations/" data-numposts="10" data-width="100%" data-colorscheme="light"></div>				</div>
+	
+			
+		</div>
+		
+		
+		<aside class="col-4 sidebar">
+			<ul>
+			
+			<li id="newsletterwidget-2" class="widget widget_newsletterwidget"><h5 class="widget-title section-head cf main-color"><span class="title">Free Tri-Weekly Digest</span></h5>Get the best of New Matilda delivered straight to your inbox for FREE three days every week.<div class="tnp tnp-widget"><form method="post" action="https://newmatilda.com/?na=s" onsubmit="return newsletter_check(this)">
+
+<input type="hidden" name="nr" value="widget">
+<input type='hidden' name='nl[]' value='0'>
+<div class="tnp-field tnp-field-email"><label>Email</label><input class="tnp-email" type="email" name="ne" required></div>
+<div class="tnp-field tnp-field-button"><input class="tnp-submit" type="submit" value="Subscribe">
+</div>
+</form>
+</div>
+</li>
+<li id="search-2" class="widget widget_search">	<form role="search" method="get" class="search-form" action="https://newmatilda.com/">
+		<label>
+			<span class="screen-reader-text">Search for:</span>
+			<input type="search" class="search-field" placeholder="To search, type and press enter." value="" name="s" title="Search for:" />
+		</label>
+		<button type="submit" class="search-submit"><i class="fa fa-search"></i></button>
+	</form></li>
+<li id="wp_sidebarlogin-2" class="widget widget_wp_sidebarlogin"><h5 class="widget-title section-head cf main-color"><span class="title">Login</span></h5>
+		<form name="loginform" id="loginform" action="https://newmatilda.com/wp-login.php" method="post">
+			
+			<p class="login-username">
+				<label for="user_login">Username</label>
+				<input type="text" name="log" id="user_login" class="input" value="" size="20" />
+			</p>
+			<p class="login-password">
+				<label for="user_pass">Password</label>
+				<input type="password" name="pwd" id="user_pass" class="input" value="" size="20" />
+			</p>
+			
+			<p class="login-remember"><label><input name="rememberme" type="checkbox" id="rememberme" value="forever" checked="checked" /> Remember Me</label></p>
+			<p class="login-submit">
+				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary" value="Login &rarr;" />
+				<input type="hidden" name="redirect_to" value="https://newmatilda.com/2018/03/20/need-concerned-creating-another-stolen-generations/" />
+			</p>
+			
+		</form><ul class="pagenav sidebar_login_links"><li class="lost_password-link"><a href="https://newmatilda.com/my-account/lost-password/">Lost Password</a></li></ul></li>
+<li id="woocommerce_widget_cart-2" class="widget woocommerce widget_shopping_cart"><h5 class="widget-title section-head cf main-color"><span class="title">Your Shopping Basket</span></h5><div class="hide_cart_widget_if_empty"><div class="widget_shopping_cart_content"></div></div></li>
+		<li id="recent-posts-2" class="widget widget_recent_entries">		<h5 class="widget-title section-head cf main-color"><span class="title">Recent Posts</span></h5>		<ul>
+											<li>
+					<a href="https://newmatilda.com/2018/03/22/made-indonesia-aboriginal-art-company-lands-federal-court-alleged-misleading-conduct/">Made In Indonesia: &#8216;Aboriginal Art&#8217; Company Lands In Federal Court Over Alleged Misleading Conduct</a>
+									</li>
+											<li>
+					<a href="https://newmatilda.com/2018/03/22/batman-byelection-deflated-greens-serious-work/">The Batman By-Election: Labor Surges, Deflated Greens Have Some Serious Work Ahead</a>
+									</li>
+											<li>
+					<a href="https://newmatilda.com/2018/03/21/free-mind-time-step-away-social-media/">Free Your Mind, And Your Time: Step Away From Social Media</a>
+									</li>
+											<li>
+					<a href="https://newmatilda.com/2018/03/21/beautiful-one-day-wordy-next-2k-award-qlds-next-great-young-writer/">Beautiful One Day, Wordy The Next: $2k Award For Qld’s Next Great Young Writer</a>
+									</li>
+											<li>
+					<a href="https://newmatilda.com/2018/03/21/friends-like-australia-doesnt-need-enemies/">With Friends Like These, Australia Doesn’t Need Enemies</a>
+									</li>
+					</ul>
+		</li>
+<li id="text-12" class="widget widget_text"><h5 class="widget-title section-head cf main-color"><span class="title">NM Subscriber Sponsored Ad</span></h5>			<div class="textwidget"><a href="http://news.nirs.org.au/" target="_blank"><img class="aligncenter" src="https://newmatilda.com/wp-content/uploads/2016/10/ADV-NIRS-ad.jpg" alt="" /></a></div>
+		</li>
+<li id="text-14" class="widget widget_text"><h5 class="widget-title section-head cf main-color"><span class="title">Advertisement</span></h5>			<div class="textwidget"><a href="http://www.ginninderrapress.com.au/rapidcartpro/index.php?product/page/693/%2A+John+Passant+%2F+Songs+for+the+Band+Unformed" target="_blank"><img class="aligncenter" src="https://newmatilda.com/wp-content/uploads/2016/10/John-Passant-MREC-DOUBLE.jpg" alt="" /></a></div>
+		</li>
+<li id="text-5" class="widget widget_text"><h5 class="widget-title section-head cf main-color"><span class="title">NM Subscriber Sponsored Ads</span></h5>			<div class="textwidget"><a href="http://www.seashepherd.org.au" target="_blank"><img class="aligncenter" src="https://newmatilda.com/wp-content/uploads/2015/10/Sea-Shepherd-Small-Final.gif" alt="" /></a></div>
+		</li>
+<li id="text-7" class="widget widget_text"><h5 class="widget-title section-head cf main-color"><span class="title">NM Subscriber Sponsored Ad</span></h5>			<div class="textwidget"><a href="https://www.justgiving.com/amsredfern/" target="_blank"><img class="aligncenter" src="https://newmatilda.com/wp-content/uploads/2015/10/AMS-mrec-donated.jpg" alt="" /></a></div>
+		</li>
+<li id="text-6" class="widget widget_text"><h5 class="widget-title section-head cf main-color"><span class="title">Support New Matilda</span></h5>			<div class="textwidget"><a href="https://newmatilda.com/shop/" target="_blank"><img class="aligncenter" src="https://newmatilda.com/wp-content/uploads/2015/10/So-many-enemies.jpg" alt="" /></a></div>
+		</li>
+<li id="text-2" class="widget widget_text"><h5 class="widget-title section-head cf main-color"><span class="title">Advertisement</span></h5>			<div class="textwidget"><a href="http://www.csu.edu.au/courses/fees-and-costs/help-with-costs/scholarships/foundation/accom/jimmy-little-foundation-scholarship" target="_blank"><img class="aligncenter" src="https://newmatilda.com/wp-content/uploads/2016/07/ADV-JLF.jpg" alt="" /></a></div>
+		</li>
+	
+			</ul>
+		</aside>		
+	</div> <!-- .ts-row -->
+</div> <!-- .main -->
+
+
+	<footer class="main-footer light">
+	
+		
+		<section class="upper-footer">
+			<div class="wrap">
+			
+						
+			
+							<div class="middle-footer">
+									</div>
+						
+			</div>
+		</section>
+	
+		
+	
+			<section class="lower-footer">
+			<div class="wrap">
+		
+						
+				<div class="widgets">
+								<div class="textwidget"></div>
+		<div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-37052" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37052"><a href="https://newmatilda.com/about-us/">Contact Us &#8211; About Us</a></li>
+<li id="menu-item-37050" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37050"><a href="https://newmatilda.com/advertise-us/">Advertise With Us</a></li>
+<li id="menu-item-37049" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37049"><a href="https://newmatilda.com/faq/">Frequently Asked Questions</a></li>
+<li id="menu-item-37051" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37051"><a href="https://newmatilda.com/contribute/">Writing for New Matilda</a></li>
+<li id="menu-item-37047" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37047"><a href="https://newmatilda.com/privacy/">Privacy Policy</a></li>
+<li id="menu-item-37048" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37048"><a href="https://newmatilda.com/termsandconditions/">Terms And Conditions Of Use</a></li>
+</ul></div>				</div>
+			
+					
+			</div>
+		</section>
+		
+	</footer>
+	
+</div> <!-- .main-wrap -->
+
+<script type='text/javascript' src='https://newmatilda.com/wp-includes/js/comment-reply.min.js?ver=4.9.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/newmatilda.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://newmatilda.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FUE_Front = {"is_logged_in":"","ajaxurl":"https:\/\/newmatilda.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://newmatilda.com/wp-content/plugins/woocommerce-follow-up-emails/templates/js/fue-front.js?ver=4.4.18'></script>
+<script type='text/javascript' src='https://newmatilda.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"https:\/\/newmatilda.com\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://newmatilda.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.2.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"https:\/\/newmatilda.com\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments_ce1aaa29413aea079d1068b59fdace43"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://newmatilda.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.2.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"https:\/\/newmatilda.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://newmatilda.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.73.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var newsletter = {"messages":{"email_error":"The email is not correct","name_error":"The name is not correct","surname_error":"The last name is not correct","profile_error":"","privacy_error":"You must accept the privacy statement"},"profile_max":"20"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://newmatilda.com/wp-content/plugins/newsletter/subscription/validate.js?ver=5.0.8'></script>
+<script type='text/javascript' src='https://newmatilda.com/wp-content/themes/motive/js/bunyad-theme.js?ver=4.9.4'></script>
+<script type='text/javascript' src='https://newmatilda.com/wp-content/themes/motive/js/lightbox.js?ver=4.9.4'></script>
+<script type='text/javascript' src='https://newmatilda.com/wp-content/themes/motive/js/owl.carousel.min.js?ver=4.9.4'></script>
+<script type='text/javascript' src='https://newmatilda.com/wp-includes/js/wp-embed.min.js?ver=4.9.4'></script>
+        <div id="newsletter-popup-overlay"></div>
+        <div id="newsletter-popup-container">
+            <div id="newsletter-popup"><img id="newsletter-close" src="https://newmatilda.com/wp-content/plugins/newsletter-popup/images/close.png">
+                <iframe id="newsletter-iframe" data-src="https://newmatilda.com/wp-content/plugins/newsletter-popup/iframe.php"></iframe></div>
+        </div>
+        <script>
+            function newsletter_set_cookie(name, value, time) {
+                var e = new Date();
+                e.setTime(e.getTime() + time * 24 * 60 * 60 * 1000);
+                document.cookie = name + "=" + value + "; expires=" + e.toGMTString() + "; path=/";
+            }
+            function newsletter_get_cookie(name, def) {
+                var cs = document.cookie.toString().split('; ');
+                var c, n, v;
+                for (var i = 0; i < cs.length; i++) {
+                    c = cs[i].split("=");
+                    n = c[0];
+                    v = c[1];
+                    if (n == name)
+                        return v;
+                }
+                return def;
+            }
+            jQuery(document).ready(function () {
+
+                jQuery("#newsletter-close").click(
+                        function () {
+                            jQuery('#newsletter-popup-overlay').fadeOut('fast');
+                            jQuery('#newsletter-popup-container').hide();
+                        });
+
+                jQuery("#newsletter-popup-overlay").click(
+                        function () {
+                            jQuery(this).fadeOut('fast');
+                            jQuery('#newsletter-popup-container').hide();
+                        });
+
+                            if (newsletter_get_cookie("newsletter", null) == null) {
+                        var newsletter_popup = parseInt(newsletter_get_cookie("newsletter_popup", 0));
+                        newsletter_set_cookie("newsletter_popup", newsletter_popup + 1, 7);
+                        if (newsletter_popup == 0) {
+                            jQuery('#newsletter-iframe').attr("src", jQuery('#newsletter-iframe').attr("data-src"));
+                            setTimeout(newsletter_popup_open,
+            30000);
+                        }
+                    }
+                    });
+
+            function newsletter_popup_open() {
+                jQuery('#newsletter-iframe').attr("src", jQuery('#newsletter-iframe').attr("data-src"));
+                //jQuery('#overlay').css('height', $(document).height());
+                jQuery('#newsletter-popup-overlay').fadeIn('fast');
+                var windowW = jQuery(window).width();
+                var windowH = jQuery(window).height();
+                //var modalW = jQuery('#box').width();
+                //var modalH = jQuery('#box').height();
+                /*
+                 jQuery('#box').css({
+                 "top": ((windowH - modalH) / 2 + $(document).scrollTop()) + "px",
+                 "left": ((windowW - modalW) / 2) + "px"
+                 });
+                 */
+                jQuery('#newsletter-popup-container').fadeIn('slow');
+                return false;
+            }
+        </script>
+        <!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=920883917947593&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+</body>
+</html>

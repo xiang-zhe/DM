@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE HTML PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.2//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile12.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" dir="ltr">
+
+<head>
+ <!-- data-info:v:2.0.6650.355;a:ac6c96e8-6baa-4ac2-8bfb-abbe80a9fe64;cn:3;az:{did:5a01c133b55649979ead5f2acc6f9c45, rid: 3, sn: easia-prod-entertainment, dt: 2018-03-19T23:30:03.1594605Z, bt: 2018-03-17T00:12:25.9794723Z};ddpi:1;dpio:;dpi:1;dg:downlevel.pc;th:gray;PageName:articlePage;m:en-us;cb:;l:en-us;mu:en-us;ud:{cid:BBKrQex,vk:news,n:ar,l:en-us,ck:newscrime};xd:;ovc:f;al:;f:muidflt27cf,muidflt53cf,muidflt260cf,muidflt298cf,muidflt313cf,muidflt314cf,hp4dcafd,oneboxdhpcf -->
+ <meta name="application-name" content="Austin on edge after fourth bombing injures two people"/><meta name="cq" content="passed"/>
+ <link rel="canonical" href="http://www.mctdirect.com/preview.php?id=201803192345MCT_____NEWS_SVC_22549787_0000" />
+ 
+
+ <title>Austin on edge after fourth bombing injures two people</title>
+ <meta name="description" content="Richard Herrington was near the window in his television room Sunday night when he heard a sound in the distance that took him back to his Army days: the &quot;distinctive thump&quot; of a mortar detonating. His first thought: &quot;It&#39;s the bomber.&quot; He was right."/>
+ 
+<meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1" />
+ <link rel="stylesheet" href="//static-entertainment-eas-s-msn-com.akamaized.net/en-us/news/_sc/css/f5956224-603bbc39/direction=ltr.locales=en-us.themes=gray.dpi=resolution1x/2b-3cd697-71ecad1c/65-ac02cd-b12c00e0/93-8623aa-3246438c/e7-17dac8-68ddb2ab/fc-6fd450-16c6af35/d2-977f1b-f94d3276/21-6c0c20-a648eab2/d5-c6e66f-433816ad?ver=2.0.6650.355&amp;fdhead=muidflt27cf,muidflt53cf,muidflt260cf,muidflt298cf,muidflt313cf,muidflt314cf,hp4dcafd,oneboxdhpcf&amp;csopd=20180315194310&amp;csopdb=20180321033141" type="text/css" media="all" />
+ <script type="text/javascript">//<![CDATA[
+(function(n,t){function s(n,i,r){typeof n!="string"&&(r=i,i=n,n=t);i&&i.splice||(r=i,i=[]);n==k?c=!0:n==d&&(l=!0);h(n,i,r,!1)}function h(n,t,i,r,u){var o,s,h;if(!n||!f[n]){if(o=ut(n,t),!o){e.push(u||{i:n,d:t,f:i,r:r});return}s=typeof i=="function";h=l&&c&&s;h?rt(n,i,o,r):it(s,n,i,o,r)}}function it(n,t,i,r,u){var f;f=n?i.apply(null,r):i;p(t,f,u)}function rt(n,t,i,r){setTimeout(function(){var u=t.apply(null,i);p(n,u,r)},1)}function p(t,i,r){r&&(i={});t&&(i?(f[t]=i,w()):n.console&&console.error("Dependencies resolved, but object still not defined (or is otherwise falsey). id:"+t+"; typeof obj: "+typeof i))}function w(){var r,u,n,t;if(e.length&&!i){do for(r=e,u=r.length,e=[],i=1,t=0;t<u;t++)n=r[t],h(n.i,n.d,n.f,n.r,n);while(i>1);i=0}else i&&(i=2)}function ut(i,r){for(var s,v,h,u=[],c=r?r.length:0,e=0;e<c;e++){var l=r[e],a=f[l],y=typeof a!="undefined";if(!y){if(s=tt.exec(l),s)if(v=s[1],h=n[v],h!==t){u.push(h);continue}else o||(o=setTimeout(ft,nt));break}u.push(a)}return c==u.length?u:0}function ft(){o=0;w()}function et(n,t,i){if((typeof n!="object"||n&&n.splice)&&(i=t,t=n,n={}),t&&t.splice||(i=t,t=[]),ot(n.js),i){var r;h(r,t,i,!0)}}function ot(n){if(typeof n=="string")b(n);else if(n)for(var t=0;t<n.length;t++)b(n[t])}function b(n){if(!y[n]){y[n]=1;var i=u.getElementsByTagName("script")[0],t=u.createElement("script");t.src=n;t.onload=t.onreadystatechange=function(){this.readyState&&this.readyState!="loaded"&&this.readyState!="complete"||(t.onload=t.onreadystatechange=null,t.parentNode&&t.parentNode.removeChild(t))};i.parentNode.insertBefore(t,i)}}function st(n){return g?n?r.now():Math.round(r.now()):new Date-a}var k=n._jsLoaderAsyncCanary||"c.dom",d="c.pageReveal",c=!1,l=typeof n._jsLoaderRevealMode=="undefined"?!0:n._jsLoaderRevealMode,r=n.performance,g=r&&typeof r.now=="function",a=((r||{}).timing||{}).navigationStart||+new Date,u=n.document,v=null;try{v=n.localStorage}catch(ht){}var f={date:Date,document:u,image:n.Image,localStorage:v,location:u&&u.location,navigator:navigator,pageStart:a,pageTime:st,screen:n.screen,window:n},e=[],i,nt=50,o,y={},tt=/^window\.(.+)$/;s.amd={jQuery:1};s.is=function(n){return typeof f[n]!="undefined"};n.define=s;n.require=et})(window);define("navigation",["escape","location","document"],function(n,t,i){function u(n,t,i){var s=function(n){return n=n.replace(/\+/g," "),decodeURIComponent(n)},u={},o,e;if(n)for(n=n.split("#")[0],o=n.split("&"),e=0;e<o.length;e++){var h=o[e].split("="),r=h[0],f=h[1];i&&(r=s(r),f&&(f=s(f)));t?(u[r]||(u[r]=[]),u[r].push(f)):u[r]=f}return u}function f(n){var t=i.createElement("a");return t.href=n,{protocol:t.protocol,host:t.host,hostName:t.hostname,port:t.port,path:t.pathname,hash:t.hash,query:t.search,origin:t.origin}}function e(n){return f(n).hostName}var r={getUrl:function(n){return r.filter?r.filter(n):n},navigate:function(n,i){r.filter&&(n=r.filter(n));i?t.replace(n):t.href=n},getHostName:e,parseUrl:f,isLocal:function(n){var i=e(n);return!i||t.hostname==i},getParams:u,getParamsFromUrl:function(n,t,i){var r=n.split("?")[1];return u(r,t,i)},mergeQueryStringParams:function(t,i){var e,f,o,r;if(i){if(e=t.split("?"),e[1]){f=u(e[1],!1,!0);for(r in i)f[r]=i[r]}else f=i;t=e[0];o="?";for(r in f)t+=f[r]?o+n.urlPart(r)+"="+n.urlPart(f[r]):o+n.urlPart(r),o="&"}return t},filter:null};return r});define("logging",["window"],function(n){function r(n,t){if(n.addEventListener)n.addEventListener("error",t,!1);else if(n.onerror){var i=n.onerror;n.onerror=function(n,r,u,f,e){return i(n,r,u,f,e),t(n,r,u,f,e)}}else n.onerror=t}function t(t){n.console&&(console.error||console.log)(t)}function u(){}function f(){}function e(t){(n.console||{}).timeStamp?console.timeStamp(t):(n.performance||{}).mark&&n.performance.mark(t)}var i=0;return r(n,function(n){return i++,n&&t("[SCRIPTERROR] "+n),!0}),{error:t,fatalError:t,unhandledErrorCount:function(){return i},perfMark:e,warning:u,information:f}})//]]></script><script type="text/javascript" src="//static-entertainment-eas-s-msn-com.akamaized.net/en-us/news/_h/4c59fa2c/webcore/externalscripts/jquery/jquery-1.11.1.min.js"></script>
+ 
+ <style>.storyimage.smallfullwidth .image,.storyimage.smallfullwidth img{background:#000;margin:0 auto}#toast-container{display:none}iframe.instagram-media{position:relative !important}.mobile .galleryinfo .img-divider{display:none}.homepage.tmx.pc.chrome #main .one-col,.homepage.tmx.pc.chrome #main .two-col,.homepage.tmx.pc.chrome #main .three-col{margin-right:-.016rem;margin-left:-.016rem}.homepage.midlevel .pagingsection>button.show,.channelplayerpage.midlevel .pagingsection>button.show{display:none}.settings.start.tmx.pc .globalsettings .social.twitter{display:none}</style>
+</head>
+
+<body class="ap content center-content gray">
+ 
+
+
+<div class="head">
+<div>
+<div id="topnav">
+ <ul class="verticalsnav">
+ <li >
+<a href="/en-us">Home</a>
+</li>
+ <li  class="current">
+<a href="/en-us/news">News</a>
+</li>
+ <li >
+<a href="/en-us/weather">Weather</a>
+</li>
+ <li >
+<a href="/en-us/entertainment">Entertainment</a>
+</li>
+ <li >
+<a href="/en-us/sports">Sports</a>
+</li>
+ <li >
+<a href="/en-us/money">Money</a>
+</li>
+
+ <li class="more">
+<a href="#nav">More ></a>
+<ul>
+ <li >
+<a href="/en-us/lifestyle">Lifestyle</a>
+</li>
+ <li >
+<a href="/en-us/health">Health &amp; Fitness</a>
+</li>
+ <li >
+<a href="/en-us/foodanddrink">Food &amp; Drink</a>
+</li>
+ <li >
+<a href="/en-us/travel">Travel</a>
+</li>
+ <li >
+<a href="/en-us/autos">Autos</a>
+</li>
+ <li >
+<a href="/en-us/video">Video</a>
+</li>
+ </ul>
+</li>
+ </ul>
+</div>
+  <div id="header-common">
+<div class="header">
+<div class="header-logo">
+  <a class="logo" href="/en-us" tabindex="2">
+ 
+
+<img alt="" height="20" width="20" src="//static-entertainment-eas-s-msn-com.akamaized.net/sc/82/c22c7d.gif" />
+</a>
+ <a class="vertical" href="/en-us/news" tabindex="2">news</a>
+
+
+
+</div>
+<div id="header-links">
+
+<a class="navigation" href="#nav">
+<img  alt="go to navigation" width="27" height="20" src="//static-entertainment-eas-s-msn-com.akamaized.net/sc/57/a49b8d.gif" />
+                    </a>
+                </div>
+            </div>
+        </div>
+
+ 
+<div id="header-search">
+<form action="https://www.bing.com/search?scope=web" method="get" id="srchfrm">
+<div class="searchbox">
+<input type="text" id="q" name="q" value="" />
+<input type="hidden" name="form" value="PRNWSR" />
+ <input type="hidden" name="mkt" value="en-us" />
+  <input type="hidden" name="httpsmsn" value="1">
+   <input type="hidden" name="refig" value="ac6c96e86baa4ac28bfbabbe80a9fe64">
+<input type="submit" class="text" value="web search" title="web search"/>
+ </div>
+</form>
+</div>
+
+</div>
+ 
+ 
+<div class="upgradebrowser">
+ You are using an older browser version. Please use a <a href="http://support2.microsoft.com/kb/2999871/en-us">supported version</a> for the best MSN experience.
+</div>
+
+
+
+</div>
+<div id="maincontent">
+ 
+<div id="main"  data-region="main">
+ 
+         <div  class="filmstripouter light">
+        <div  class="filmstrip"  data-aop="filmstrip">
+            
+            <div class="filmstrip-nav">
+                        <a class="filmstrip-previous" href="/en-us/autos/enthusiasts/the-bizarre-war-over-tupac%e2%80%99s-bmw/ar-BBKnRNb?li=BBmkt5R&amp;amp;ocid=spartanntp"  data-aop="prev">
+            Previous
+        </a>
+        <a class="filmstrip-next" href="/en-us/news/crime/the-latest-artillery-simulator-caused-austin-goodwill-blast/ar-BBKrYby?li=BBmkt5R&amp;amp;ocid=spartanntp"  data-aop="next">
+            Next
+        </a>
+
+            </div>
+        </div>
+    </div>
+
+
+ <div class="articlecontent">
+<h1>Austin on edge after fourth bombing injures two people</h1>
+<div>
+<div>
+ <span class="partner">
+ <a  href="http://www.latimes.com/"  title="tribune news service logo"><img alt="Tribune News Service logo" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB85sqL.img?h=17&amp;w=0&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;f=png" title="Tribune News Service logo" /> Tribune News Service</a>
+ </span>
+ <span>
+ <span class="time">23 hrs ago</span>
+         <span class="authorname-txt" 
+              
+              
+              >
+                <span class="truncate" >By Molly Hennessy-Fiske, Los Angeles Times</span>
+        </span>
+
+                </span>
+            </div>
+        </div>
+
+ <div class="richtext"  data-aop="articlebody">
+ 
+ <span class="storyimage fullwidth inlineimage"  data-aop="image">
+<span class="image" data-attrib="Jay Janner/Austin American-Statesman/TNS" data-caption="Law enforcement officers gather at the intersection of Republic of Texas and Mission Oaks boulevards in the the Travis Country neighborhood of Austin, Texas to investigate a bombing on Monday, March 19, 2018." >
+ <img alt="a group of people standing on top of a stop sign: Law enforcement officers gather at the intersection of Republic of Texas and Mission Oaks boulevards in the the Travis Country neighborhood of Austin, Texas to investigate a bombing on Monday, March 19, 2018." height="211" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBKrQev.img?h=211&amp;w=300&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=1721&amp;y=1013" width="300" />
+</span>
+<span class="caption truncate">
+ <span class="attribution">&#169; Jay Janner/Austin American-Statesman/TNS</span>
+ Law enforcement officers gather at the intersection of Republic of Texas and Mission Oaks boulevards in the the Travis Country neighborhood of Austin, Texas to investigate a bombing on Monday, March 19, 2018.
+</span>
+</span>
+<p>AUSTIN, Texas - Richard Herrington was near the window in his television room Sunday night when he heard a sound in the distance that took him back to his Army days: the "distinctive thump" of a mortar detonating.</p><p>His first thought: "It's the bomber."</p><p>He was right. The explosion was the fourth in a series of attacks this month that authorities believe are connected - and have many in the Texas capital feeling terrorized. But the latest blast came with two twists that have increased anxiety here, and forced authorities to reconsider some of their hunches in the investigation.</p><p>While the earlier devices were package bombs placed on doorsteps, this bomb was apparently set for random passersby, employing a tripwire that police said demonstrated a "higher level of sophistication."</p><p>And the bombing occurred southwest of the city in a predominantly white suburb known as Travis Country - in contrast to the earlier blasts on the east side, an area whose large minority population had suggested a possible racial motive.</p><p>The two people killed in the earlier bombings - Stephan House, a 39-year-old construction worker, and Draylen Mason, a 17-year-old high school senior - were relatives of prominent African-Americans. The two people injured in the previous attacks were Mason's 40-year-old mother and a 75-year-old Latina woman, Esperanza Herrera.</p><p>The two victims in Sunday's blast were white men in their 20s. The Austin American-Statesman newspaper reported that they were Will Grote and Colton Mathis and had gone to high school together.</p><p>Grote's grandfather, William Grote, told The Associated Press that one of the men had been riding a bicycle in the street and the other was on the sidewalk when they crossed a tripwire they couldn't see in the dark.</p><p>He said it knocked "them both off their feet" and left them "bleeding profusely." The men were hospitalized and listed as stable, authorities said.</p><p>The attack spurred police departments in Houston and San Antonio to send bomb technicians, bomb-sniffing dogs and other resources to assist the investigation. Texas Gov. Greg Abbott announced $265,500 in emergency funding Monday for seven portable X-ray systems to quickly assess packages.</p><p>"I want to ensure everyone in the Austin region and the entire state that Texas is committed to providing every resource necessary to make sure these crimes are solved as quickly as possible," Abbott said in a statement.</p><p>Austin Police Chief Brian Manley said investigators are compiling and screening surveillance video from all of the bombing sites for clues to the identities of potential suspects and their vehicles. He asked anyone with cameras near their homes to share footage with authorities.</p><p>As for the motive behind the bombings, he said terrorism and hate remain possibilities.</p><p>"We don't know if there's a message they're trying to send until we sit down with the person or persons," he said late Monday as he stood near police tape.</p><p>Manley appealed for dialogue with whoever is responsible "to bring this to a resolution without anyone else being harmed."</p><p>Asked whether he thinks the bombings will continue, Manley said: "We don't have any reason to believe that they won't."</p><p>He described the tripwire used in the latest bombing only as a "filament" and said it marked a "significant change" because it targeted the general public and entailed "a higher level of sophistication, a higher level of skill."</p><p>Still, he said there was little doubt that the bombers were the same. Based on material recovered from the "debris field" after Sunday's blast, Manley said, "We're seeing similarities in the components used to construct the device."</p><p>Authorities were still processing the scene late Monday and planned to ship evidence to a federal lab run by the Bureau of Alcohol, Tobacco, Firearms and Explosives in Quantico, Va., for forensic analysis, he said.</p><p>Earlier in the day, federal agents canvassed the neighborhood known as 5000 Mission Oaks, interviewing Herrington and his neighbors. The only unusual thing they reported was a homeless camp in nearby woods that had been broken up before the explosion Sunday.</p><p>Investigators instructed residents to stay indoors early Monday and call 911 if they needed to leave, but by late afternoon many were out walking, discussing the attack with each other.</p><p>Herrington, 75, lives less than a half-mile from the explosion and hours before the blast had walked past the site with his two granddaughters. He said most residents don't bother to lock their doors.</p><p>"We just think we live in a safe community - well, not so," he said.</p><p>At a briefing near the scene, Austin Mayor Steve Adler said the latest bombing increased anxiety citywide.</p><p>"That concern is legitimate and real," Adler said, "That anxiousness is going to continue until we can find the answer."</p><p>Afterward, Adler paused to chat with Herrington, who he has known for years.</p>
+ <div class="inline-slideshow nonfullscreen clean" >
+ <div class="content">
+<h1></h1>
+
+
+<img alt="a group of people standing in front of a stop sign: Law enforcement officers gather at the intersection of Republic of Texas and Mission Oaks boulevards in the the Travis Country neighborhood of Austin, Texas to investigate a bombing on Monday, March 19, 2018." height="373" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBKrZBe.img?h=373&amp;w=624&amp;m=6&amp;q=60&amp;o=t&amp;l=f&amp;x=1494&amp;y=1151" title="Law enforcement officers gather at the intersection of Republic of Texas and Mission Oaks boulevards... - Jay Janner/Austin American-Statesman/TNS" width="624" /> <div class="navigation">
+ <span class="prev disabled">
+<a href="#">&lt; PREVIOUS SLIDE</a>
+</span>
+ <span class="slidetext">SLIDE 1 of 3</span>
+ <span class="next">
+<a href="https://www.msn.com:443/en-us/news/crime/austin-on-edge-after-fourth-bombing-injures-two-people/ar-BBKrQex?li=BBmkt5R&amp;amp;ocid=spartanntp&amp;index=1">NEXT SLIDE &gt;</a>
+</span>
+
+</div>
+ <h2></h2>
+ <div class="richtext">
+Law enforcement officers gather at the intersection of Republic of Texas and Mission Oaks boulevards in the the Travis Country neighborhood of Austin, Texas to investigate a bombing on Monday, March 19, 2018.  </div>
+ <span class="attribution">&copy;&nbsp;Jay Janner/Austin American-Statesman/TNS</span>
+
+</div>
+ </div>
+<p>"He said we have an army of 500 (investigators), and we want to bring this to an end as quickly as possible," Herrington said. "It's bad publicity for Austin."</p><p>The attacks came during the city's South by Southwest music festival, which draws thousands to the area. A bomb threat forced the musical group the Roots to cancel a concert Saturday night, but police said they had arrested a suspect, a local 26-year-old college student named Trevor Weldon Ingram, who they said had a history of making similar threats.</p><p>At the University of Texas at Austin, police warned students returning from spring break to be wary and to tell classmates about what was happening.</p><p>Austin's school district announced that buses wouldn't be going to Travis Country Monday and that any absences due to the attack would be excused.</p><p>Herrington's neighbor, Ana Rie, kept her 11-year-old son home Monday. He usually walks to his bus stop a block from the bombing site. From now on, she plans to drive him.</p><p>Rie, 35, grew up in Nicaragua accustomed to conflict, but became more relaxed after she moved to Austin in 2009 to raise three children with her husband, a physician.</p><p>"Here it's a democracy so you don't have your guard up," she said. "It could have been anybody - my husband rides his bike there."</p><p>The explosion in Austin came hours after authorities raised the reward for information leading to the arrest of those responsible to $115,000.</p><p>"The money being offered, I really hope that makes a difference," retiree Lonni Swanson said as she walked her two golden retrievers in Mission Oaks near the site of the latest blast. "Anybody associated with this could be a snitch."</p><p>But she also worried the latest attack could be a copycat or a ruse designed to throw investigators focused on hate crimes off track.</p><p>Neighbor Jeannette Peten felt the same way.</p><p>Peten, also a retiree, is African-American and was already on alert for suspicious packages after the earlier bombings. On Monday, she canceled a neighborhood walk with a friend and fielded a worried phone call from her daughter in Zurich who urged her to stay inside. Peten has started locking her door and garage and carrying her cellphone whenever she steps outside.</p><p>"We all have to be a little more careful," she said.</p><p>Serial bombers can be difficult to track and profile, experts said.</p><p>Mike Bouchard, a retired assistant ATF director, said investigators can trace types of explosives, component parts and similarities to devices used in previous attacks using the ATF's bomb data center.</p><p>Bouchard, chief security officer for Janus Global Operations in Washington, said the bomber may have used a tripwire to avoid having to place a package on someone's porch and getting caught on security cameras.</p><p>Switching neighborhoods may be "part of keeping people on their toes, to make the whole city be on edge," he said.</p><p>Some bombers target victims based on a certain ideology, such as notorious "Unabomber" Theodore Kaczynski, 75, who killed three people and injured 23 between 1978 and 1995 in a nationwide bombing campaign that targeted those involved in modern technology.</p><p>Other serial bombers strike at random. "When they're doing it randomly or for vanity, they're more difficult to stop," Bouchard said.</p><p>Visit the Los Angeles Times at www.latimes.com</p>
+</div>
+ </div>
+
+ 
+
+<div class="back-msn-home"  data-aop="back-to-home">
+<a href="/en-us"  role="button"><span>Go to MSN Home</span></a>
+</div>
+
+ 
+ 
+
+</div>
+<div id="aside"  data-region="aside">
+ 
+     <div  class="ad"  id="rectangle1_article_newscrime_a2ce1258-9edb-4a55-99b6-6f2f0eea7d7d">
+        <div>
+            <div  id="rectangle1_article_newscrime_container_a2ce1258-9edb-4a55-99b6-6f2f0eea7d7d">
+                    <script type="text/javascript">
+                        //<![CDATA[
+                        (function define_dap()
+                        {
+                            if (window.dap)
+                            {
+                                return;
+                            }
+
+                            // all data needed to render the ads or refresh them
+                            var postEvaluationClassname = "non-empty-ad";
+                            var postEvaluationAdSmallClassname = "layout-small";
+                            var postEvaluationAdMediumClassname = "layout-medium";
+                            var postEvaluationAdLargeClassname = "layout-large";
+                            var postEvaluationNoAdClassname = "no-ad";
+
+                            var mediumAdHeight = 200;
+                            var largeAdHeight = 550;
+
+                            var numEvalPasses = 10;
+                            var contentCheckTimeout = 300;
+                            var discernibleAdHeightThreshold = 30;
+                            var discernibleAdWidthThreshold = 40;
+
+                            var AdSizeType =
+                            {
+                                NotAnAd: 0,                     // dimensions are both 0
+                                PointSizedAd: 1,                // dimensions are both under threshold
+                                NonPointSizedAd: 2,             // dimensions are both above threshold (full size)
+                                Inconclusive: 3                 // one dimension is 0, and the other is above threshold
+                            };
+
+                            function dapResult(params, width, height, htmlid)
+                            {
+                                var elem = document.getElementById(htmlid);
+                                if (!elem)
+                                {
+                                    return;
+                                }
+
+                                dapMgr.renderAd(htmlid, params, width, height);
+
+                                var renderData = {
+                                    params: params,
+                                    width: width,
+                                    height: height,
+                                    htmlid: htmlid,
+                                    adSizeType: AdSizeType.NotAnAd,
+                                    canDisplayAdChoices: false,
+                                    elem: elem
+                                };
+
+                                checkAndSetAdContainerVisibility(renderData);
+                            }
+
+                            function checkAndSetAdContainerVisibility(renderData)
+                            {
+                                var retries = numEvalPasses;
+
+                                checkAndSetAdContainerVisibilityRec();
+
+                                function checkAndSetAdContainerVisibilityRec(finalCheck)
+                                {
+                                    retries--;
+                                    var adId = renderData.htmlid;
+
+                                    checkVisibilityAndUpdateRenderDataContextForElement(renderData);
+
+                                    var isLastPass = (retries === 0);
+                                    var adSizeType = renderData.adSizeType;
+                                    var adDetected = adSizeType !== AdSizeType.Inconclusive;
+                                    var doShow = adSizeType === AdSizeType.NonPointSizedAd;
+                                    if (adDetected || isLastPass)
+                                    {
+                                        var adSizeClassname = postEvaluationNoAdClassname;
+                                        if (doShow)
+                                        {
+                                            if (renderData.height < mediumAdHeight)
+                                            {
+                                                adSizeClassname = postEvaluationAdSmallClassname;
+                                            }
+                                            else if (renderData.height < largeAdHeight)
+                                            {
+                                                adSizeClassname = postEvaluationAdMediumClassname;
+                                            }
+                                            else
+                                            {
+                                                adSizeClassname = postEvaluationAdLargeClassname;
+                                            }
+                                        }
+
+                                        setAdContainerDisplayState(adId, doShow, adSizeClassname);
+
+                                        // last final check for RM
+                                        if (!finalCheck)
+                                        {
+                                            setTimeout(
+                                                function finalCheckOnAdContainer()
+                                                {
+                                                    checkAndSetAdContainerVisibilityRec(true);
+                                                },
+                                                (numEvalPasses * contentCheckTimeout) >> 1);
+                                        }
+                                    }
+                                    else
+                                    {
+                                        // if we got here, we didn't find anything but script. Try again later.
+                                        setTimeout(checkAndSetAdContainerVisibilityRec, contentCheckTimeout);
+                                    }
+                                }
+                            }
+
+                            function checkVisibilityAndUpdateRenderDataContextForElement(renderData)
+                            {
+                                if (!renderData)
+                                {
+                                    return;
+                                }
+                                evaluateAdContent(renderData);
+                            }
+
+                            function evaluateAdContent(renderData)
+                            {
+                                var adContainer = renderData && renderData.elem;
+                                if (!adContainer)
+                                {
+                                    renderData.adSizeType = AdSizeType.Inconclusive;
+                                }
+
+                                var adIframeCollection = adContainer.getElementsByTagName("iframe");
+                                var evaluationResult;
+                                for (var adIframe, ndx = 0; (adIframe = adIframeCollection[ndx]); ++ndx)
+                                {
+                                    // skip script-only iFrame elements
+                                    var body = ((adIframe.contentDocument || (adIframe.contentWindow || {}).document) || {}).body;
+                                    if (!body || !body.hasChildNodes())
+                                    {
+                                        continue;
+                                    }
+
+                                    var childNode, hasChildDiv = false;
+                                    for (var index = body.childNodes.length - 1; (childNode = body.childNodes[index]); --index)
+                                    {
+                                        if (childNode.nodeType === 1
+                                            && childNode.nodeName !== "SCRIPT")
+                                        {
+                                            hasChildDiv = true;
+                                            renderData.adSizeType = evaluateElement(childNode, renderData);
+                                            if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                            {
+                                                return;
+                                            }
+                                        }
+
+                                        // Bug 1715559:[dl_ux][FF9.0] [Win7] - Advertisement is overlapping destination section
+                                        // For FF lower versions (FF9.0), index may be negative and hence cause js errors
+                                        // Add index value check to solve the problem
+                                        if (index <= 0)
+                                        {
+                                            break;
+                                        }
+                                    }
+
+                                    if (renderData.adSizeType !== AdSizeType.NonPointSizedAd && hasChildDiv)
+                                    {
+                                        renderData.adSizeType = evaluateElement(adIframe, renderData);
+                                    }
+
+                                    if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                    {
+                                        return;
+                                    }
+                                }
+
+                                // extract the characteristics of the div immediate children
+                                var adDivCollection = adContainer.getElementsByTagName("div");
+                                for (var adDiv, ndx = 0; (adDiv = adDivCollection[ndx]); ++ndx)
+                                {
+                                    renderData.adSizeType = evaluateElement(adDiv, renderData);
+
+                                    if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                    {
+                                        return;
+                                    }
+                                }
+                            }
+
+                            function evaluateElement(element, renderData)
+                            {
+                                var maxWidth = evaluateElementDimension(element, true, discernibleAdWidthThreshold);
+                                var maxHeight = evaluateElementDimension(element, false, discernibleAdHeightThreshold);
+
+                                renderData.width = maxWidth;
+                                renderData.height = maxHeight;
+
+                                if (maxWidth > discernibleAdWidthThreshold && maxHeight > discernibleAdHeightThreshold)
+                                {
+                                    return AdSizeType.NonPointSizedAd;
+                                }
+                                if (maxWidth > 0 && maxHeight > 0)
+                                {
+                                    return AdSizeType.PointSizedAd;
+                                }
+                                return AdSizeType.Inconclusive;
+                            }
+
+                            function evaluateElementDimension(element, isWidth, threshold)
+                            {
+                                var dimensionProperties = isWidth ? ["width", "offsetWidth", "scrollWidth"] : ["height", "offsetHeight", "scrollHeight"];
+                                var pixelStyle = isWidth ? "pixelWidth" : "pixelHeight";
+                                var dimensionStyle = isWidth ? "width" : "height";
+                                var totalProperties = 3;
+                                var maxDimension = 0, dimension = 0;
+
+                                for (var i = 0; i < totalProperties; i++)
+                                {
+                                    if ((dimension = element[dimensionProperties[i]]) > maxDimension)
+                                    {
+                                        maxDimension = dimension;
+                                        if (maxDimension > threshold)
+                                        {
+                                            break;
+                                        }
+                                    }
+                                }
+
+                                var elemStyle = element.style;
+                                if (maxDimension <= threshold && elemStyle)
+                                {
+                                    if ((dimension = elemStyle[pixelStyle]) > maxDimension)
+                                    {
+                                        maxDimension = dimension;
+                                        if (maxDimension <= threshold && (dimension = parseInt(elemStyle[dimensionStyle])) > maxDimension)
+                                        {
+                                            maxDimension = dimension;
+                                        }
+                                    }
+                                }
+
+                                return maxDimension;
+                            }
+
+                            function setAdContainerDisplayState(elemId, doShow, adSizeClassname)
+                            {
+                                var adHtmlContainer = ((document.getElementById(elemId) || {}).parentNode || {}).parentNode;
+                                if (!adHtmlContainer)
+                                {
+                                    return;
+                                }
+
+                                adHtmlContainer.style.display = doShow ? "" : "none";
+                                var className = adHtmlContainer.className;
+
+                                className = addOrRemoveClassname(className, postEvaluationClassname, doShow);
+                                className = addOrRemoveClassname(className, postEvaluationAdSmallClassname, adSizeClassname === postEvaluationAdSmallClassname);
+                                className = addOrRemoveClassname(className, postEvaluationAdMediumClassname, adSizeClassname === postEvaluationAdMediumClassname);
+                                className = addOrRemoveClassname(className, postEvaluationAdLargeClassname, adSizeClassname === postEvaluationAdLargeClassname);
+                                className = addOrRemoveClassname(className, postEvaluationNoAdClassname, adSizeClassname === postEvaluationNoAdClassname);
+
+                                adHtmlContainer.className = className;
+                            }
+
+                            function addOrRemoveClassname(classNameList, className, add)
+                            {
+                                var classIndex = classNameList.indexOf(className);
+                                if (add)
+                                {
+                                    if (classIndex === -1)
+                                    {
+                                        return classNameList + " " + className;
+                                    }
+                                }
+                                else if (classIndex >= 0)
+                                {
+                                    return classNameList.replace(className, "");
+                                }
+                                return classNameList;
+                            }
+
+                            window.dap = dapResult;
+                        })();
+                        //]]>
+
+                            dap("&amp;AP=1089&amp;PG=NEWUSEN11&amp;PVGUID=ac6c96e86baa4ac28bfbabbe80a9fe64&amp;PROVIDERID=7GYXRYQ", 300, 250, "rectangle1_article_newscrime_container_a2ce1258-9edb-4a55-99b6-6f2f0eea7d7d");
+                    </script>
+            </div>
+                    <a href="//go.microsoft.com/fwlink/?LinkID=286759" target="_blank" class="adchoices" data-piitxt="adchoices">
+                        <span>AdChoices</span>
+                    </a>
+        </div>
+    </div>
+    <div  class="ad"  id="rectangle2_article_newscrime_873cc66f-4007-4da1-a942-e04d7da02310">
+        <div>
+            <div  id="rectangle2_article_newscrime_container_873cc66f-4007-4da1-a942-e04d7da02310">
+                    <script type="text/javascript">
+                        //<![CDATA[
+                        (function define_dap()
+                        {
+                            if (window.dap)
+                            {
+                                return;
+                            }
+
+                            // all data needed to render the ads or refresh them
+                            var postEvaluationClassname = "non-empty-ad";
+                            var postEvaluationAdSmallClassname = "layout-small";
+                            var postEvaluationAdMediumClassname = "layout-medium";
+                            var postEvaluationAdLargeClassname = "layout-large";
+                            var postEvaluationNoAdClassname = "no-ad";
+
+                            var mediumAdHeight = 200;
+                            var largeAdHeight = 550;
+
+                            var numEvalPasses = 10;
+                            var contentCheckTimeout = 300;
+                            var discernibleAdHeightThreshold = 30;
+                            var discernibleAdWidthThreshold = 40;
+
+                            var AdSizeType =
+                            {
+                                NotAnAd: 0,                     // dimensions are both 0
+                                PointSizedAd: 1,                // dimensions are both under threshold
+                                NonPointSizedAd: 2,             // dimensions are both above threshold (full size)
+                                Inconclusive: 3                 // one dimension is 0, and the other is above threshold
+                            };
+
+                            function dapResult(params, width, height, htmlid)
+                            {
+                                var elem = document.getElementById(htmlid);
+                                if (!elem)
+                                {
+                                    return;
+                                }
+
+                                dapMgr.renderAd(htmlid, params, width, height);
+
+                                var renderData = {
+                                    params: params,
+                                    width: width,
+                                    height: height,
+                                    htmlid: htmlid,
+                                    adSizeType: AdSizeType.NotAnAd,
+                                    canDisplayAdChoices: false,
+                                    elem: elem
+                                };
+
+                                checkAndSetAdContainerVisibility(renderData);
+                            }
+
+                            function checkAndSetAdContainerVisibility(renderData)
+                            {
+                                var retries = numEvalPasses;
+
+                                checkAndSetAdContainerVisibilityRec();
+
+                                function checkAndSetAdContainerVisibilityRec(finalCheck)
+                                {
+                                    retries--;
+                                    var adId = renderData.htmlid;
+
+                                    checkVisibilityAndUpdateRenderDataContextForElement(renderData);
+
+                                    var isLastPass = (retries === 0);
+                                    var adSizeType = renderData.adSizeType;
+                                    var adDetected = adSizeType !== AdSizeType.Inconclusive;
+                                    var doShow = adSizeType === AdSizeType.NonPointSizedAd;
+                                    if (adDetected || isLastPass)
+                                    {
+                                        var adSizeClassname = postEvaluationNoAdClassname;
+                                        if (doShow)
+                                        {
+                                            if (renderData.height < mediumAdHeight)
+                                            {
+                                                adSizeClassname = postEvaluationAdSmallClassname;
+                                            }
+                                            else if (renderData.height < largeAdHeight)
+                                            {
+                                                adSizeClassname = postEvaluationAdMediumClassname;
+                                            }
+                                            else
+                                            {
+                                                adSizeClassname = postEvaluationAdLargeClassname;
+                                            }
+                                        }
+
+                                        setAdContainerDisplayState(adId, doShow, adSizeClassname);
+
+                                        // last final check for RM
+                                        if (!finalCheck)
+                                        {
+                                            setTimeout(
+                                                function finalCheckOnAdContainer()
+                                                {
+                                                    checkAndSetAdContainerVisibilityRec(true);
+                                                },
+                                                (numEvalPasses * contentCheckTimeout) >> 1);
+                                        }
+                                    }
+                                    else
+                                    {
+                                        // if we got here, we didn't find anything but script. Try again later.
+                                        setTimeout(checkAndSetAdContainerVisibilityRec, contentCheckTimeout);
+                                    }
+                                }
+                            }
+
+                            function checkVisibilityAndUpdateRenderDataContextForElement(renderData)
+                            {
+                                if (!renderData)
+                                {
+                                    return;
+                                }
+                                evaluateAdContent(renderData);
+                            }
+
+                            function evaluateAdContent(renderData)
+                            {
+                                var adContainer = renderData && renderData.elem;
+                                if (!adContainer)
+                                {
+                                    renderData.adSizeType = AdSizeType.Inconclusive;
+                                }
+
+                                var adIframeCollection = adContainer.getElementsByTagName("iframe");
+                                var evaluationResult;
+                                for (var adIframe, ndx = 0; (adIframe = adIframeCollection[ndx]); ++ndx)
+                                {
+                                    // skip script-only iFrame elements
+                                    var body = ((adIframe.contentDocument || (adIframe.contentWindow || {}).document) || {}).body;
+                                    if (!body || !body.hasChildNodes())
+                                    {
+                                        continue;
+                                    }
+
+                                    var childNode, hasChildDiv = false;
+                                    for (var index = body.childNodes.length - 1; (childNode = body.childNodes[index]); --index)
+                                    {
+                                        if (childNode.nodeType === 1
+                                            && childNode.nodeName !== "SCRIPT")
+                                        {
+                                            hasChildDiv = true;
+                                            renderData.adSizeType = evaluateElement(childNode, renderData);
+                                            if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                            {
+                                                return;
+                                            }
+                                        }
+
+                                        // Bug 1715559:[dl_ux][FF9.0] [Win7] - Advertisement is overlapping destination section
+                                        // For FF lower versions (FF9.0), index may be negative and hence cause js errors
+                                        // Add index value check to solve the problem
+                                        if (index <= 0)
+                                        {
+                                            break;
+                                        }
+                                    }
+
+                                    if (renderData.adSizeType !== AdSizeType.NonPointSizedAd && hasChildDiv)
+                                    {
+                                        renderData.adSizeType = evaluateElement(adIframe, renderData);
+                                    }
+
+                                    if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                    {
+                                        return;
+                                    }
+                                }
+
+                                // extract the characteristics of the div immediate children
+                                var adDivCollection = adContainer.getElementsByTagName("div");
+                                for (var adDiv, ndx = 0; (adDiv = adDivCollection[ndx]); ++ndx)
+                                {
+                                    renderData.adSizeType = evaluateElement(adDiv, renderData);
+
+                                    if (renderData.adSizeType === AdSizeType.NonPointSizedAd)
+                                    {
+                                        return;
+                                    }
+                                }
+                            }
+
+                            function evaluateElement(element, renderData)
+                            {
+                                var maxWidth = evaluateElementDimension(element, true, discernibleAdWidthThreshold);
+                                var maxHeight = evaluateElementDimension(element, false, discernibleAdHeightThreshold);
+
+                                renderData.width = maxWidth;
+                                renderData.height = maxHeight;
+
+                                if (maxWidth > discernibleAdWidthThreshold && maxHeight > discernibleAdHeightThreshold)
+                                {
+                                    return AdSizeType.NonPointSizedAd;
+                                }
+                                if (maxWidth > 0 && maxHeight > 0)
+                                {
+                                    return AdSizeType.PointSizedAd;
+                                }
+                                return AdSizeType.Inconclusive;
+                            }
+
+                            function evaluateElementDimension(element, isWidth, threshold)
+                            {
+                                var dimensionProperties = isWidth ? ["width", "offsetWidth", "scrollWidth"] : ["height", "offsetHeight", "scrollHeight"];
+                                var pixelStyle = isWidth ? "pixelWidth" : "pixelHeight";
+                                var dimensionStyle = isWidth ? "width" : "height";
+                                var totalProperties = 3;
+                                var maxDimension = 0, dimension = 0;
+
+                                for (var i = 0; i < totalProperties; i++)
+                                {
+                                    if ((dimension = element[dimensionProperties[i]]) > maxDimension)
+                                    {
+                                        maxDimension = dimension;
+                                        if (maxDimension > threshold)
+                                        {
+                                            break;
+                                        }
+                                    }
+                                }
+
+                                var elemStyle = element.style;
+                                if (maxDimension <= threshold && elemStyle)
+                                {
+                                    if ((dimension = elemStyle[pixelStyle]) > maxDimension)
+                                    {
+                                        maxDimension = dimension;
+                                        if (maxDimension <= threshold && (dimension = parseInt(elemStyle[dimensionStyle])) > maxDimension)
+                                        {
+                                            maxDimension = dimension;
+                                        }
+                                    }
+                                }
+
+                                return maxDimension;
+                            }
+
+                            function setAdContainerDisplayState(elemId, doShow, adSizeClassname)
+                            {
+                                var adHtmlContainer = ((document.getElementById(elemId) || {}).parentNode || {}).parentNode;
+                                if (!adHtmlContainer)
+                                {
+                                    return;
+                                }
+
+                                adHtmlContainer.style.display = doShow ? "" : "none";
+                                var className = adHtmlContainer.className;
+
+                                className = addOrRemoveClassname(className, postEvaluationClassname, doShow);
+                                className = addOrRemoveClassname(className, postEvaluationAdSmallClassname, adSizeClassname === postEvaluationAdSmallClassname);
+                                className = addOrRemoveClassname(className, postEvaluationAdMediumClassname, adSizeClassname === postEvaluationAdMediumClassname);
+                                className = addOrRemoveClassname(className, postEvaluationAdLargeClassname, adSizeClassname === postEvaluationAdLargeClassname);
+                                className = addOrRemoveClassname(className, postEvaluationNoAdClassname, adSizeClassname === postEvaluationNoAdClassname);
+
+                                adHtmlContainer.className = className;
+                            }
+
+                            function addOrRemoveClassname(classNameList, className, add)
+                            {
+                                var classIndex = classNameList.indexOf(className);
+                                if (add)
+                                {
+                                    if (classIndex === -1)
+                                    {
+                                        return classNameList + " " + className;
+                                    }
+                                }
+                                else if (classIndex >= 0)
+                                {
+                                    return classNameList.replace(className, "");
+                                }
+                                return classNameList;
+                            }
+
+                            window.dap = dapResult;
+                        })();
+                        //]]>
+
+                            dap("&amp;AP=1089&amp;PG=NEWUSEN13&amp;PVGUID=ac6c96e86baa4ac28bfbabbe80a9fe64&amp;PROVIDERID=7GYXRYQ", 300, 250, "rectangle2_article_newscrime_container_873cc66f-4007-4da1-a942-e04d7da02310");
+                    </script>
+            </div>
+                    <a href="//go.microsoft.com/fwlink/?LinkID=286759" target="_blank" class="adchoices" data-piitxt="adchoices">
+                        <span>AdChoices</span>
+                    </a>
+        </div>
+    </div>
+ <section class="morefromproviderrr"  data-aop="morefromprovidervnext_morefromprovidervnext" >
+ 
+<h3> <h2>
+ <span>More From Tribune News Service</span>
+ </h2>
+</h3>
+ 
+<ul>
+ <li   >
+<a href="http://www.mctdirect.com/preview.php?id=201803202341MCT_____NEWS_SVC_22557633_0000"  target="_blank">
+ <img alt="J.B. Pritzker declares victory in the Democratic gubernatorial primary on Tuesday, March 20, 2018, at the Marriott Marquis in Chicago." height="66" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBKumyd.img?h=66&amp;w=88&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=1170&amp;y=1254" title="J.B. Pritzker declares victory in the Democratic gubernatorial primary on Tuesday, March 20, 2018, a... - Brian Cassella/Chicago Tribune/TNS" width="88" />
+<div class="headline-container">
+  <span class="truncate">Republican Gov. Bruce Rauner claims narrow primary victory over challenger Ives</span>
+ <div class="regular-attribution-text attribution">
+ <img alt="Tribune News Service Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB857LO.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="16" />
+ Tribune News Service
+</div>
+
+                        </div>
+                    </a>
+                </li>
+ <li   >
+<a href="http://www.mctdirect.com/preview.php?id=201803202227MCT_____NEWS_SVC_22557072_0000"  target="_blank">
+ <img alt="Defense attorney Joseph Kimok argues against a very high bond, and special conditions if he is released, during the first appearance of Zachary Cruz on charges of trespassing on the grounds of Marjory Stoneman Douglas High School on Tuesday, March 20, 2018 at the Broward County Courthouse in Fort Lauderdale, Fla. Cruz is the brother of Marjory Stoneman Douglas High School gunman Nicholas Cruz." height="66" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBKtGTd.img?h=66&amp;w=88&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=1645&amp;y=720" title="Defense attorney Joseph Kimok argues against a very high bond, and special conditions if he is relea... - Amy Beth Bennett/Sun Sentinel/TNS" width="88" />
+<div class="headline-container">
+  <span class="truncate">Police want to use Baker Act on brother of Parkland shooter to block him from owning a gun</span>
+ <div class="regular-attribution-text attribution">
+ <img alt="Tribune News Service Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB857LO.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="16" />
+ Tribune News Service
+</div>
+
+                        </div>
+                    </a>
+                </li>
+ <li   >
+<a href="http://www.mctdirect.com/preview.php?id=201803202324MCT_____NEWS_SVC_22557498_0000"  target="_blank">
+ <img alt="The Chicago Blackhawks&#39; Patrick Kane (88) and Artem Anisimov (15) celebrate a goal by teammate Brent Seabrook, not pictured, during the first period against the Colorado Avalanche at the United Center in Chicago on Tuesday, March 20, 2018." height="66" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBKuB3X.img?h=66&amp;w=88&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=1967&amp;y=751" title="The Chicago Blackhawks&#39; Patrick Kane (88) and Artem Anisimov (15) celebrate a goal by teammate Brent... - Nuccio DiNuzzo/Chicago Tribune/TNS" width="88" />
+<div class="headline-container">
+  <span class="truncate">Blackhawks officially eliminated from postseason after 5-1 loss to Avalanche</span>
+ <div class="regular-attribution-text attribution">
+ <img alt="Tribune News Service Logo" height="16" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB857LO.img?h=16&amp;w=16&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" width="16" />
+ Tribune News Service
+</div>
+
+                        </div>
+                    </a>
+                </li>
+ </ul>
+         <div class="promotionalcontent">
+            <span class="promoimage">
+                <a target="_blank" href="http://www.latimes.com/"  data-aop="provider_logo_secondary" >
+                   <img alt="Tribune News Service" height="100" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB8d60y.img?h=100&amp;w=100&amp;m=6&amp;q=60&amp;u=t&amp;o=f&amp;l=f" width="100" />
+                </a>
+            </span>
+            <span class="promotext">
+                <div class="providername">
+                    Tribune News Service
+                </div>
+                <div class="readmore">
+                    <a target="_blank" href="http://www.latimes.com/"  data-aop="provider_promotext" >
+                       View the full site
+                    </a>
+                </div>
+            </span>
+        </div>
+
+ 
+</section>
+
+
+
+</div>
+<div id="nav">
+ <ul class="verticalsnav">
+ <li >
+<a href="/en-us">Home</a>
+</li>
+ <li  class="current">
+<a href="/en-us/news">News</a>
+</li>
+ <li >
+<a href="/en-us/weather">Weather</a>
+</li>
+ <li >
+<a href="/en-us/entertainment">Entertainment</a>
+</li>
+ <li >
+<a href="/en-us/sports">Sports</a>
+</li>
+ <li >
+<a href="/en-us/money">Money</a>
+</li>
+ <li >
+<a href="/en-us/lifestyle">Lifestyle</a>
+</li>
+ <li >
+<a href="/en-us/health">Health &amp; Fitness</a>
+</li>
+ <li >
+<a href="/en-us/foodanddrink">Food &amp; Drink</a>
+</li>
+ <li >
+<a href="/en-us/travel">Travel</a>
+</li>
+ <li >
+<a href="/en-us/autos">Autos</a>
+</li>
+ <li >
+<a href="/en-us/video">Video</a>
+</li>
+ </ul>
+</div>
+ </div>
+<div id="foot">
+<div> <a href="https://www.microsoft.com/en-us/">&#169; 2018 Microsoft</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=521839">Privacy</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=246338">Legal</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=286759">About our Ads</a>
+ <a href="https://jfe.qualtrics.com/form/SV_d4ir2X6Zkgjw0rb">Feedback</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=512703">Help</a>
+ <a href="/en-us/msn-worldwide">MSN Worldwide</a>
+ <a href="https://newsletters.msn.com/">Newsletter</a>
+</div>
+</div>
+  <div>
+ <img src="//c.msn.com/c.gif?udc=true&amp;rid=ac6c96e86baa4ac28bfbabbe80a9fe64&amp;rnd=636572009650268632&amp;rf=&amp;tp=https%253A%252F%252Fwww.msn.com%252Fen-us%252Fnews%252Fcrime%252Faustin-on-edge-after-fourth-bombing-injures-two-people%252Far-BBKrQex%253Fli%253DBBmkt5R%2526amp%253Bocid%253Dspartanntp&amp;di=17930&amp;lng=en-us&amp;cv.product=prime&amp;pn=article&amp;activityId=ac6c96e86baa4ac28bfbabbe80a9fe64&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;st.dpt=newscrime&amp;st.sdpt=&amp;subcvs=news&amp;pg.n=article" alt="image beacon" width="1" height="1" /><img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=3000001&amp;rn=636572009650268632&amp;c7=https%253A%252F%252Fwww.msn.com%252Fen-us%252Fnews%252Fcrime%252Faustin-on-edge-after-fourth-bombing-injures-two-people%252Far-BBKrQex%253Fli%253DBBmkt5R%2526amp%253Bocid%253Dspartanntp&amp;c8=&amp;c9=" alt="image beacon" width="1" height="1" /><img src="//otf.msn.com/c.gif?js=0&amp;evt=impr&amp;di=17930&amp;pi=&amp;ps=&amp;su=https%253A%252F%252Fwww.msn.com%252Fen-us%252Fnews%252Fcrime%252Faustin-on-edge-after-fourth-bombing-injures-two-people%252Far-BBKrQex%253Fli%253DBBmkt5R%2526amp%253Bocid%253Dspartanntp&amp;pageid=articlevnext&amp;mkt=en-us&amp;pn=article&amp;pp=False&amp;cv.product=prime&amp;cv.partner=Tribune%2BNews%2BService&amp;cv.publcat=McClatchy-Tribune%2BInformation%2BServices&amp;st.dpt=newscrime&amp;st.sdpt=&amp;dv.Title1=&amp;cts=636572009650268632&amp;rf=&amp;rid=ac6c96e86baa4ac28bfbabbe80a9fe64&amp;cvs=Browser&amp;subcvs=news&amp;cv.entityId=BBKrQex&amp;cv.entitySrc=ar&amp;provid=AA2e4M&amp;ar=0&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;cv.parentId=BBmkt5R&amp;isCorePV=&amp;pgIdx=&amp;pgTot=&amp;activityId=ac6c96e86baa4ac28bfbabbe80a9fe64&amp;pm=&amp;pg.n=article&amp;pg.t=article&amp;pg.c=&amp;pg.p=prime" alt="image beacon" width="1" height="1" />
+</div>
+
+ 
+     <script>
+        require(["headData", "pageInstance", "mediator", "c.deferred"], function (headData, pageInstance, mediator)
+        {
+        var url = '//www.bizographics.com/collect/?fmt=gif&pid=7850';
+        if (headData && headData.clientSettings && headData.clientSettings.static_page)
+        {
+            mediator.pub(pageInstance.eventName);
+            var rid = pageInstance.getActivityId();
+            url = url.replace(/([?&]rid=)[^&#]*/i, "$1" + rid);
+            }
+        new Image().src = url.replace(/&amp;/g, '&');
+    });
+    </script>
+    <noscript>
+        <div>
+            <img data-src="//www.bizographics.com/collect/?fmt=gif&amp;pid=7850&amp;ts=noscript" width="1" height="1" alt="" />
+        </div>
+    </noscript>
+    <script>
+        require(["document", "c.deferred"], function (document)
+        {
+            var iframe = document.createElement("iframe");
+            var protocolWithColon = "True" === "True" ? document.location.protocol : protocol + ":";
+
+            iframe.src = protocolWithColon + "//" + "cdn.adaptv.advertising.com/msft/msftsync.html";
+            iframe.width = 0;
+            iframe.height = 0;
+            iframe.setAttribute("style", "display: block; border: 0");
+
+            document.body.appendChild(iframe);
+        });
+    </script>
+    <noscript>
+        <iframe src="cdn.adaptv.advertising.com/msft/msftsync.html" height="0" width="0" style="display: block; border: 0"></iframe>
+    </noscript>
+
+ 
+</body>
+ <!--MSNAvailToken--></html>

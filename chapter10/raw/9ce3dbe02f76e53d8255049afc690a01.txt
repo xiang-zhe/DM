@@ -1,0 +1,714 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+	<link rel="amphtml" href="/news/accused-of-spying-kaspersky-lab-plans-move-to-switzerland-60888?amp">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&amp;subset=cyrillic,cyrillic-ext" rel="stylesheet">
+	<link rel="stylesheet" href="/static/assets/old-style.css">
+	<link rel="stylesheet" href="/static/assets/client.css">
+	<link rel="stylesheet" href="/static/assets/styles.css">
+	<link rel="stylesheet" href="/static/assets/latest.css">
+
+    <meta property="og:title" content="Accused of Spying, Kaspersky Lab Plans Move to Switzerland">
+	<meta property="og:url" content="http://themoscowtimes.com/news/accused-of-spying-kaspersky-lab-plans-move-to-switzerland-60888">
+	<meta property="og:type" content="article">
+	<meta property="og:description" content="Kaspersky is setting up the center in response to actions in the United States, Britain and Lithuania last year to stop using the company&#39;s products.">
+	
+		
+			<meta property="og:image" content="http://themoscowtimes.com/static/uploads/publications/2018/3/21/21c9ef573a3c472c85b2f6cc36d85f92.jpg">
+			<meta name="twitter:image" content="http://themoscowtimes.com/static/uploads/publications/2018/3/21/21c9ef573a3c472c85b2f6cc36d85f92.jpg"/>
+		
+	
+
+	<meta name="twitter:card" content="summary_large_image">
+
+	<meta name="twitter:site" content="@MoscowTimes">
+	<meta property="fb:admins" content="1190953093,691361317"/>
+	<meta property="fb:app_id" content="1446863628952411"/>
+	<meta property="og:email" content="info@moscowtimes.org"/>
+	<meta property="og:phone_number" content="+7-495-2324774"/>
+
+	<meta name="verify-v1" content="RNoyq8LlqxRwMADluCWoCmp3I0Zcbe248phME/8dZG0="/>
+	<meta name="google-site-verification" content="3tgcoomyRR0ETB6am2TjkLYr2K6UdAB7q7iI_8uRV6w"/>
+	<meta name="distribution" content="global"/>
+	<meta name="rating" content="General"/>
+	<meta name="revisit" content="1 day"/>
+	<meta name="audience" content="all"/>
+	<meta name="document-state" content="Dynamic"/>
+	<meta name="robots" content="index, follow"/>
+
+	<title>Accused of Spying, Kaspersky Lab Plans Move to Switzerland</title>
+
+	<link rel="apple-touch-icon" sizes="57x57" href="/static/images/favicon/apple-touch-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/static/images/favicon/apple-touch-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/static/images/favicon/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/static/images/favicon/apple-touch-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/static/images/favicon/apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/static/images/favicon/apple-touch-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/static/images/favicon/apple-touch-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/static/images/favicon/apple-touch-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/static/images/favicon/apple-touch-icon-180x180.png">
+	<link rel="icon" type="image/png" href="/static/images/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" href="/static/images/favicon/android-chrome-192x192.png">
+	<link rel="icon" type="image/png" href="/static/images/favicon/favicon-96x96.png">
+	<link rel="icon" type="image/png" href="/static/images/favicon/favicon-16x16.png">
+	<link rel="manifest" href="/static/images/favicon/manifest.json">
+	<link rel="mask-icon" href="/static/images/favicon/safari-pinned-tab.svg">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+
+    <script type='text/javascript'>
+        var gptadslots=[];
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function(){ var gads = document.createElement('script');
+        gads.async = true; gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+        })();
+
+        var gptID = location.pathname.substring(0,40);
+        if (gptIndex == undefined){
+            var gptIndex = -1;
+        };
+        if (container == undefined)     {
+            var container;
+        };
+        if (newDiv == undefined){
+            var newDiv;
+        };
+        googletag.cmd.push(function() {
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().enableAsyncRendering();
+            googletag.pubads().setTargeting('tarTMT',[gptID]);
+            googletag.enableServices();
+            googletag.pubads().updateCorrelator();
+        });
+    </script>
+
+</head>
+<body class="tmt-page">
+    <!-- Begin Facebook SDK -->
+    <script src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.5"
+    async></script>
+    <!-- End Facebook SDK -->
+
+	<!-- Begin Header -->
+	<header class="container tmt-page__header tmt-header js-header">
+		<div class="row">
+			<div class="col-sm-12 col-md-6 col-md-push-3 col-lg-6 tmt-header__logo">
+				<a class="tmt-logo" href="/" title="The Moscow Times">
+					<img src="/static/images/logo/1280.png" class="logo-image" alt="The Moscow Times Logo" srcset="/static/images/logo/1280@2x.png 2x">
+				</a>
+			</div>
+			<div class="col-sm-8 col-md-3 col-md-pull-6 col-lg-3 tmt-header__time tmt-time-widget js-current-date">
+				<span class="tmt-time-widget__date js-date"></span>
+				<span class="tmt-time-widget__time js-time"></span>
+			</div>
+			<div class="col-sm-2 col-md-3 tmt-header__search-wrapper">
+				<span class="tmt-header__search-icon icon-search js-search-popup g-icon"></span>
+			</div>
+			<div class="col-sm-2 hamburger-wrapper">
+				<div class="hamburger js-hamburger hidden-md-up">
+					<span class="line line-1"></span>
+					<span class="line line-2"></span>
+					<span class="line line-3"></span>
+				</div>
+			</div>
+		</div>
+		<div class="b-mobile-menu js-sub-menu">
+            <div class="close"></div>
+            <div class="sections">
+                <a href="/news" class="link">News</a>
+                <a href="/business" class="link">Business</a>
+                <a href="/opinion" class="link">Opinion</a>
+                <a href="/city" class="link">City</a>
+                <a href="/meanwhile" class="link">Meanwhile...</a>
+                <a href="/worldcup" class="link">World Сup</a>
+                <a href="/events" class="link">City Listings &amp; Guide</a>
+            </div>
+        </div>
+	</header>
+	<!-- End Header -->
+
+	<!-- Begin Site Navigation -->
+	<nav class="tmt-nav container">
+        <ul class="tmt-nav-list">
+            <li class="tmt-nav-list__item"><a href="/news">News</a></li>
+            <li class="tmt-nav-list__item"><a href="/business">Business</a></li>
+            <li class="tmt-nav-list__item"><a href="/opinion">Opinion</a></li>
+            <li class="tmt-nav-list__item"><a href="/city">City</a></li>
+            <li class="tmt-nav-list__item"><a href="/meanwhile">Meanwhile...</a></li>
+            <li class="tmt-nav-list__item"><a href="/worldcup">World Сup</a></li>
+            <li class="tmt-nav-list__item"><a href="/events">Listings & Guide</a></li>
+        </ul>
+    </nav>
+    <!-- End Site Navigation -->
+
+	<!-- Begin Banner Header -->
+	<div class="tmt-page__banner-header container">
+		<!-- Start GPT Async Tag -->
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var gptadslots = [];
+  var googletag = googletag || {cmd:[]};
+</script>
+<script>
+  googletag.cmd.push(function() {
+    var mapping1 = googletag.sizeMapping()
+                            .addSize([320, 0], [[320, 50], [320, 100]])
+                            .addSize([728, 0], [[728, 90]])
+                            .addSize([1024, 0], [[980,120], [970, 90], [728, 90]])
+                            .build();
+
+    var mapping2 = googletag.sizeMapping()
+                            .addSize([320, 0], [[300, 250]])
+                            .addSize([1024, 0], [[300, 600]])
+                            .build();
+
+    //Adslot 1 declaration
+    gptadslots.push(googletag.defineSlot('/12574306/TMT/billboard', [[320,50],[320,100],[728,90],[970,90],[980,120]], 'div-gpt-ad-3043637-1')
+                             .defineSizeMapping(mapping1)
+                             .addService(googletag.pubads()));
+    //Adslot 2 declaration
+    gptadslots.push(googletag.defineSlot('/12574306/TMT/sidebar', [[300,250],[300,600]], 'div-gpt-ad-3043637-2')
+                             .defineSizeMapping(mapping2)
+                             .addService(googletag.pubads()));
+    //Adslot 3 declaration
+    gptadslots.push(googletag.defineSlot('/12574306/TMT/sidebar_bottom', [[300,250],[300,600]], 'div-gpt-ad-3043637-3')
+                             .defineSizeMapping(mapping2)
+                             .addService(googletag.pubads()));
+    //Adslot 4 declaration
+    gptadslots.push(googletag.defineSlot('/12574306/TMT/billboard_middle', [[320,100],[728,90],[970,90]], 'div-gpt-ad-3043637-4')
+                             .defineSizeMapping(mapping1)
+                             .addService(googletag.pubads()));
+    //Adslot 5 declaration
+    gptadslots.push(googletag.defineSlot('/12574306/TMT/billboard_bottom', [[320,100],[728,90],[970,90]], 'div-gpt-ad-3043637-5')
+                             .defineSizeMapping(mapping1)
+                             .addService(googletag.pubads()));
+
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.pubads().setCentering(true);
+    googletag.enableServices();
+  });
+</script>
+<!-- End GPT Async Tag -->
+
+<!-- Async AdSlot 1 for Ad unit 'TMT/billboard' ### Size: [[320,50],[320,100],[728,90],[970,90],[980,120]] -->
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[0]]) -->
+<div id='div-gpt-ad-3043637-1'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-3043637-1'); });
+  </script>
+</div>
+<!-- End AdSlot 1 -->
+	</div>
+	<!-- End Banner Header -->
+
+	<!-- Begin News Container -->
+	<div class="container">
+		<article class="row tmt-news">
+			<div class="col-sm-12 col-md-8 col-lg-9 tmt-news-main">
+
+				<!-- Begin News Meta (tags/date/author) -->
+				<div class="row tmt-news__meta-container">
+					<div class="tmt-news-meta col-sm-6 col-md-12">
+						<div class="tmt-news-meta__category">News</div>
+						<div class="tmt-news-meta__date">March 21 2018 - 11:03</div>
+					</div>
+
+                    
+                        
+                            <div class="tmt-news-author col-sm-6 hidden-md-up">
+                                
+                                <div class="tmt-news-author__row">
+                                    
+
+                                    <div class="tmt-news-author__profile">
+                                        <div class="tmt-news-author__name">
+                                            <span>By </span>
+                                            
+                                                
+                                                    
+                                                        
+                                                            <a href="/authors/2173" class="link">Reuters</a>
+                                                        
+                                                    
+                                                
+                                            
+                                        </div>
+
+                                        
+
+                                        
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        
+                    
+				</div>
+				<!-- End News Meta -->
+
+                <h1 class="tmt-news-title">Accused of Spying, Kaspersky Lab Plans Move to Switzerland</h1>
+                
+                
+
+                
+                    
+
+<div class="tmt-news-picture">
+    <div class="tmt-news-picture__img">
+        <img src="https://themoscowtimes.com/static/uploads/publications/2018/3/21/21c9ef573a3c472c85b2f6cc36d85f92.jpg" alt="">
+    </div>
+    <p class="tmt-news-picture__title"></p>
+    <p class="tmt-news-picture__credit">Sergei Karpukhin / Reuters</p>
+</div>
+
+
+                
+
+
+                
+                    
+                        
+                            
+<div class="tmt-news-text">
+    <p>Moscow-based Kaspersky Lab plans to open a data center in Switzerland to address Western government concerns that Russia exploits its anti-virus software to spy on customers.</p><p>Kaspersky is setting up the center in response to actions in the United States, Britain and Lithuania last year to stop using the company's products, according to documents seen by Reuters, which were confirmed by a person with direct knowledge of the matter.</p><p>The action is the latest effort by Kaspersky, a global leader in anti-virus software, to parry accusations by the U.S. government and others that the company spies on customers at the behest of Russian intelligence. The U.S. last year ordered civilian government agencies to remove the Kaspersky software from their networks.</p><p>Kaspersky has strongly rejected the accusations and filed a lawsuit against the U.S. ban.</p><p>The U.S. allegations were the &#34;trigger&#34; for setting up the Swiss data center, said the person familiar with Kapersky's Switzerland plans, but not the only factor.</p><p>&#34;The world is changing,&#34; they said, speaking on condition of anonymity when discussing internal company business. &#34;There is more balkanization and protectionism.&#34;</p><p>The person declined to provide further details on the new project, but added: &#34;This is not just a PR stunt. We are really changing our R&amp;D infrastructure.&#34;</p><p>A Kaspersky spokeswoman declined to comment.</p><p>In a statement, Kaspersky Lab said: &#34;To further deliver on the promises of our Global Transparency Initiative, we are finalizing plans for the opening of the company's first transparency center this year, which will be located in Europe.&#34;</p><p>&#34;We understand that during a time of geopolitical tension, mirrored by an increasingly complex cyber-threat landscape, people may have questions and we want to address them.&#34;</p><p>Kaspersky Lab launched a campaign in October to dispel concerns about possible collusion with the Russian government by promising to let independent experts scrutinize its software for security vulnerabilities and &#34;back doors&#34; that governments could exploit to spy on its customers.</p><p>The company also said at the time that it would open &#34;transparency centers&#34; in Asia, Europe and the United States but did not provide details. The new Swiss facility is dubbed the Swiss Transparency Center, according to the documents.</p><h3>Data Review</h3><p>Work in Switzerland is due to begin &#34;within weeks&#34; and be completed by early 2020, said the person with knowledge of the matter.</p><p>The plans have been approved by Kaspersky Lab CEO and founder Eugene Kaspersky, who owns a majority of the privately held company, and will be announced publicly in the coming months, according to the source.</p><p>&#34;Eugene is upset. He would rather spend the money elsewhere. But he knows this is necessary,&#34; the person said.</p>
+</div>
+                        
+
+                        
+
+                        
+
+                        
+
+                        
+
+                        
+
+                        
+                    
+                
+                    
+                        
+
+                        
+
+                        
+
+                        
+                            
+
+<a class="tmt-news-external" href="https://themoscowtimes.com/articles/are-russian-cybersecurity-companies-still-welcome-in-the-west-60164">
+    
+        <div class="tmt-news-external__image">
+            <img src="https://themoscowtimes.com/static/uploads/publications/2018/3/21/6832d50d097f47588de0199ca0b5c243.jpg" alt="">
+        </div>
+    
+
+    <div class="tmt-news-external__content">
+        <div class="tmt-news-external__more">Read More</div>
+        <div class="tmt-news-external__title">The Specter of Kaspersky Looms Over Russian Cybersecurity Firms</div>
+    </div>
+</a>
+                        
+
+                        
+
+                        
+
+                        
+                    
+                
+                    
+                        
+                            
+<div class="tmt-news-text">
+    <p>It is possible the move could be derailed by the Russian security services, who might resist moving the data center outside of their jurisdiction, people familiar with Kaspersky and its relations with the government said.</p><p>Western security officials said Russia's FSB Federal Security Service, successor to the Soviet-era KGB, exerts influence over Kaspersky management decisions, though the company has repeatedly denied those allegations.</p><p>The Swiss center will collect and analyze files identified as suspicious on the computers of tens of millions of Kaspersky customers in the United States and European Union, according to the documents. Data from other customers will continue to be sent to a Moscow data center for review and analysis.</p><p>Files would only be transmitted from Switzerland to Moscow in cases when anomalies are detected that require manual review, the person said, adding that about 99.6 percent of such samples do not currently undergo this process.</p><p>A third party will review the center's operations to make sure that all requests for such files are properly signed, stored and available for review by outsiders including foreign governments, the person said.</p><p>Moving operations to Switzerland will address concerns about laws that enable Russian security services to monitor data transmissions inside Russia and force companies to assist law enforcement agencies, according to the documents describing the plan.</p><p>The company will also move the department which builds its anti-virus software using code written in Moscow to Switzerland, the documents showed.</p><p>Kaspersky has received &#34;solid support&#34; from the Swiss government, said the source, who did not identify specific officials who have endorsed the plan. </p>
+</div>
+                        
+
+                        
+
+                        
+
+                        
+
+                        
+
+                        
+
+                        
+                    
+                
+
+                
+<div class="tmt-news-additional-widget tmt-news-additional-widget_related">
+    <div class="row">
+        
+    </div>
+</div>
+
+
+                <ul class="tmt-news-main__share tmt-share-list tmt-share-list_items-start js-social-likes" data-title="Accused of Spying, Kaspersky Lab Plans Move to Switzerland" data-url="https://themoscowtimes.com/news/accused-of-spying-kaspersky-lab-plans-move-to-switzerland-60888">
+    <li class="js-shares-container tmt-share-list__count">
+        <span class="js-share-count"></span>
+    </li>
+    <li class="tmt-share-list__item tmt-share-icon facebook"></li>
+    <li class="tmt-share-list__item tmt-share-icon twitter"></li>
+    <li class="tmt-share-list__item tmt-share-icon telegram">
+        <a href="https://t.me/share/url?url=https://themoscowtimes.com/news/accused-of-spying-kaspersky-lab-plans-move-to-switzerland-60888" target="_blank">
+            <svg viewBox="0 0 300 300" width="24" height="24" style="margin: 11px 0 0 -2px;">
+                <g>
+                    <path d="M5.299,144.645l69.126,25.8l26.756,86.047c1.712,5.511,8.451,7.548,12.924,3.891l38.532-31.412   c4.039-3.291,9.792-3.455,14.013-0.391l69.498,50.457c4.785,3.478,11.564,0.856,12.764-4.926L299.823,29.22   c1.31-6.316-4.896-11.585-10.91-9.259L5.218,129.402C-1.783,132.102-1.722,142.014,5.299,144.645z M96.869,156.711l135.098-83.207   c2.428-1.491,4.926,1.792,2.841,3.726L123.313,180.87c-3.919,3.648-6.447,8.53-7.163,13.829l-3.798,28.146   c-0.503,3.758-5.782,4.131-6.819,0.494l-14.607-51.325C89.253,166.16,91.691,159.907,96.869,156.711z" fill="#999999"/>
+                </g>
+            </svg>
+        </a>
+    </li>
+    <li class="tmt-share-list__item tmt-share-icon">
+        <a class="g-icon icon-whatsapp" href="whatsapp://send?text=Accused of Spying, Kaspersky Lab Plans Move to Switzerland"></a>
+    </li>
+</ul>
+
+                
+
+<div class="tmt-news-additional-widget">
+    <h2 class="tmt-news-additional-widget__header">Latest news</h2>
+    <div class="row">
+        
+            <div class="tmt-news-additional col-sm-12 col-md-4 col-lg-4">
+                <div class="tmt-news-additional__img">
+                    <a href="/news/voting-violations-dont-cast-doubts-putins-victory-election-head-claims-60910">
+                        
+                            <img src="https://themoscowtimes.com/static/uploads/publications/2018/3/22/721d442db99a44d2ba4f92bfd1238850.jpg" alt="Voting Violations Don’t Cast Doubts on Putin’s Victory, Election Head Claims">
+                        
+                    </a>
+                </div>
+                <div class="tmt-news-additional__header">
+                    <div class="tmt-news-additional__category">News</div>
+                    <div class="tmt-news-additional__date">March 22 2018</div>
+                </div>
+                <div class="tmt-news-additional__title"><a href="/news/voting-violations-dont-cast-doubts-putins-victory-election-head-claims-60910">Voting Violations Don’t Cast Doubts on Putin’s Victory, Election Head Claims</a></div>
+            </div>
+        
+            <div class="tmt-news-additional col-sm-12 col-md-4 col-lg-4">
+                <div class="tmt-news-additional__img">
+                    <a href="/news/british-council-ceases-activity-in-russia-60911">
+                        
+                            <img src="https://themoscowtimes.com/static/uploads/publications/2018/3/22/41e111b360d44ae0a1b14e296a25696f.jpg" alt="British Council Ceases Activity in Russia">
+                        
+                    </a>
+                </div>
+                <div class="tmt-news-additional__header">
+                    <div class="tmt-news-additional__category">News</div>
+                    <div class="tmt-news-additional__date">March 22 2018</div>
+                </div>
+                <div class="tmt-news-additional__title"><a href="/news/british-council-ceases-activity-in-russia-60911">British Council Ceases Activity in Russia</a></div>
+            </div>
+        
+            <div class="tmt-news-additional col-sm-12 col-md-4 col-lg-4">
+                <div class="tmt-news-additional__img">
+                    <a href="/news/american-basketball-player-joins-team-russia-after-accepting-citizenship-60908">
+                        
+                            <img src="https://themoscowtimes.com/static/uploads/publications/2018/3/22/d962311db2ee4db78dd2623b039840b1.jpg" alt="American Basketball Player Joins Team Russia After Accepting Citizenship">
+                        
+                    </a>
+                </div>
+                <div class="tmt-news-additional__header">
+                    <div class="tmt-news-additional__category">News</div>
+                    <div class="tmt-news-additional__date">March 22 2018</div>
+                </div>
+                <div class="tmt-news-additional__title"><a href="/news/american-basketball-player-joins-team-russia-after-accepting-citizenship-60908">American Basketball Player Joins Team Russia After Accepting Citizenship</a></div>
+            </div>
+        
+    </div>
+</div>
+
+
+			</div>
+
+			<!-- Begin Aside Article -->
+			<div class="col-sm-12 col-md-4 col-lg-3 tmt-news-aside hidden-md-down">
+                
+                    
+                        <div class="tmt-news-aside__author tmt-news-author">
+                            
+                            <div class="tmt-news-author__row">
+                                
+                                <div class="tmt-news-author__profile">
+                                    <div class="tmt-news-author__name">
+                                        <span>By</span>
+                                        
+                                            
+                                                
+                                                    
+                                                        <a href="/authors/2173" class="link">Reuters</a>
+                                                    
+                                                
+                                            
+                                        
+                                    </div>
+                                    
+
+                                    
+                                </div>
+                            </div>
+                            
+                        </div>
+                    
+                
+
+                <ul class="tmt-news-main__share tmt-share-list tmt-share-list_items-around js-social-likes" data-title="Accused of Spying, Kaspersky Lab Plans Move to Switzerland" data-url="https://themoscowtimes.com/news/accused-of-spying-kaspersky-lab-plans-move-to-switzerland-60888">
+    <li class="js-shares-container tmt-share-list__count">
+        <span class="js-share-count"></span>
+    </li>
+    <li class="tmt-share-list__item tmt-share-icon facebook"></li>
+    <li class="tmt-share-list__item tmt-share-icon twitter"></li>
+    <li class="tmt-share-list__item tmt-share-icon telegram">
+        <a href="https://t.me/share/url?url=https://themoscowtimes.com/news/accused-of-spying-kaspersky-lab-plans-move-to-switzerland-60888" target="_blank">
+            <svg viewBox="0 0 300 300" width="24" height="24" style="margin: 11px 0 0 -2px;">
+                <g>
+                    <path d="M5.299,144.645l69.126,25.8l26.756,86.047c1.712,5.511,8.451,7.548,12.924,3.891l38.532-31.412   c4.039-3.291,9.792-3.455,14.013-0.391l69.498,50.457c4.785,3.478,11.564,0.856,12.764-4.926L299.823,29.22   c1.31-6.316-4.896-11.585-10.91-9.259L5.218,129.402C-1.783,132.102-1.722,142.014,5.299,144.645z M96.869,156.711l135.098-83.207   c2.428-1.491,4.926,1.792,2.841,3.726L123.313,180.87c-3.919,3.648-6.447,8.53-7.163,13.829l-3.798,28.146   c-0.503,3.758-5.782,4.131-6.819,0.494l-14.607-51.325C89.253,166.16,91.691,159.907,96.869,156.711z" fill="#999999"/>
+                </g>
+            </svg>
+        </a>
+    </li>
+    <li class="tmt-share-list__item tmt-share-icon">
+        <a class="g-icon icon-whatsapp" href="whatsapp://send?text=Accused of Spying, Kaspersky Lab Plans Move to Switzerland"></a>
+    </li>
+</ul>
+
+				<div class="tmt-page__banner-aside">
+                    <!-- Async AdSlot 2 for Ad unit 'TMT/sidebar' ### Size: [[300,250],[300,600]] -->
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[1]]) -->
+<div id='div-gpt-ad-3043637-2'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-3043637-2'); });
+  </script>
+</div>
+<!-- End AdSlot 2 -->
+				</div>
+
+                
+                    <div class="tmt-news-most-read">
+                        <h2 class="tmt-news-most-read__header">Most read</h2>
+                        
+                            <div class="tmt-news-most-read-item">
+                                <span class="tmt-news-most-read-item__category">News</span>
+                                <p class="tmt-news-most-read-item__title">
+                                    <a href="/articles/russias-youth-takes-the-lead-in-countrywide-protests-against-putin-60309">Russia&#39;s Youth Takes the Lead in Countrywide Protests Against Putin</a>
+                                </p>
+                            </div>
+                        
+                            <div class="tmt-news-most-read-item">
+                                <span class="tmt-news-most-read-item__category">News</span>
+                                <p class="tmt-news-most-read-item__title">
+                                    <a href="/news/inflated-duck-lands-russian-activist-jail-60633">Inflated Duck Lands Russian Activist in Jail</a>
+                                </p>
+                            </div>
+                        
+                            <div class="tmt-news-most-read-item">
+                                <span class="tmt-news-most-read-item__category">Meanwhile…</span>
+                                <p class="tmt-news-most-read-item__title">
+                                    <a href="/news/russian-plane-loses-gold-bars-worth-378-m-after-door-breaks-60818">Russian Plane Loses Gold Bars Worth $378 M After Door Breaks</a>
+                                </p>
+                            </div>
+                        
+                            <div class="tmt-news-most-read-item">
+                                <span class="tmt-news-most-read-item__category">News</span>
+                                <p class="tmt-news-most-read-item__title">
+                                    <a href="/news/sexy-graft-video-may-lead-russia-to-block-instagram-youtube-60481">Sexy ‘Graft’ Video May Lead Russia to Block Instagram, YouTube</a>
+                                </p>
+                            </div>
+                        
+                            <div class="tmt-news-most-read-item">
+                                <span class="tmt-news-most-read-item__category">News</span>
+                                <p class="tmt-news-most-read-item__title">
+                                    <a href="/news/navalny-claims-proof-kremlins-ties-to-trump-campaign-aide-paul-manafort-60442">Navalny Links Kremlin to Trump Campaign Aide Paul Manafort</a>
+                                </p>
+                            </div>
+                        
+                            <div class="tmt-news-most-read-item">
+                                <span class="tmt-news-most-read-item__category">News</span>
+                                <p class="tmt-news-most-read-item__title">
+                                    <a href="/news/rogozin-scrubs-social-media-accounts-over-nephew-scandal-60650">Rogozin Scrubs Social Media Accounts Over Nephew Scandal</a>
+                                </p>
+                            </div>
+                        
+                            <div class="tmt-news-most-read-item">
+                                <span class="tmt-news-most-read-item__category">News</span>
+                                <p class="tmt-news-most-read-item__title">
+                                    <a href="/news/russia-accidentally-recognizes-gay-marriage-couple-says-60295">Russia Accidentally Recognizes Gay Marriage, Couple Says</a>
+                                </p>
+                            </div>
+                        
+                            <div class="tmt-news-most-read-item">
+                                <span class="tmt-news-most-read-item__category">News</span>
+                                <p class="tmt-news-most-read-item__title">
+                                    <a href="/news/world-cup-fans-allowed-bring-medical-marijuana-russia-60648">World Cup Fans Allowed to Bring Medical Marijuana to Russia</a>
+                                </p>
+                            </div>
+                        
+                    </div>
+                
+			</div>
+			<!-- End Aside Article -->
+
+		</article>
+
+		<!-- Begin Banner Footer -->
+		<div class="tmt-page__banner-footer row">
+			<div class="col-sm-12 col-md-12 col-lg-9">
+				<div align="center"><style type="text/css">
+.adslot_5 {
+    width: 336px; 
+    height: 280px;
+}
+@media (min-width:768px) { 
+    .adslot_5 {
+        width: 728px; 
+        height: 90px;
+     }
+}
+@media (min-width:930px) { 
+    .adslot_5 {
+        width: 930px; 
+        height: 180px;
+     }
+}
+ </style>
+ <ins class="adsbygoogle adslot_5" style="display:inline-block;" data-ad-client="ca-pub-1094818057071255" data-ad-slot="5477667950"></ins>
+ <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+ <script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+
+  <script type="text/javascript">
+      (function (a, b, c, d, e, f, g, h) {
+        g = b.createElement(c);
+        g.src = d;
+        g.type = "application/javascript";
+        g.async = !0;
+        h = b.getElementsByTagName(c)[0];
+        h.parentNode.insertBefore(g, h);
+        a[f] = [];
+        a[e] = function () {
+          a[f].push(Array.prototype.slice.apply(arguments));
+        }
+      })(window, document, "script", (document.location.protocol ===
+    "https:" ? "https:" : "http:") + "//cdn01.nativeroll.tv/js/seedr-player.min.js",
+    "SeedrPlayer", "seedrInit");
+  </script>
+  <script>
+      SeedrPlayer(document.getElementsByClassName("tmt-news-text")[0], 50, {
+        gid: "5a69afcd9762b68d308b4589",
+		debug: false
+      });
+  </script>
+			</div>
+		</div>
+		<!-- End Banner Footer -->
+
+		<!-- Begin Subscribe Block -->
+		<div class="row">
+			<div class="col-sm-12 col-md-12 col-lg-9">
+				<div class="tmt-subscribe">
+					<div class="tmt-subscribe__title">Moscow in your inbox</div>
+					<form class="tmt-subscribe-form js-subscribe-input-container" action="/ajax/subscribe" method="POST">
+						<div class="tmt-subscribe-form__row">
+							<input class="tmt-subscribe-form__control js-subscribe-input" type="text" placeholder="Type your email here">
+							<button class="tmt-subscribe-form__btn js-submit-button">Subscribe</button>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+		<!-- End Subscribe Block -->
+
+	</div>
+	<!-- End News Container -->
+
+	<!-- Begin Footer -->
+	<footer class="tmt-footer container">
+		<div class="row">
+			<div class="col-sm-6 col-md-2 col-lg-2">
+				<div class="tmt-footer-item">
+					<div class="tmt-footer-item__header">Company</div>
+					<ul class="tmt-footer-item__list">
+                        
+						    <li>
+                                <a href="https://themoscowtimes.com/info/about-us" >About Us</a>
+                            </li>
+                        
+						    <li>
+                                <a href="https://themoscowtimes.com/info/jobs-at-tmt" >Jobs at TMT</a>
+                            </li>
+                        
+						    <li>
+                                <a href="https://themoscowtimes.com/info/policy" >Privacy Policy</a>
+                            </li>
+                        
+						    <li>
+                                <a href="https://themoscowtimes.com/info/distribution" >Where to find TMT</a>
+                            </li>
+                        
+					</ul>
+				</div>
+			</div>
+			<div class="col-sm-6 col-md-2 col-lg-2">
+				<div class="tmt-footer-item">
+					<div class="tmt-footer-item__header">Follow</div>
+					<ul class="tmt-footer-item__list">
+						<li><a href="/issues">Print Editions</a></li>
+						<li><a href="https://www.facebook.com/MoscowTimes" target="_blank">Facebook</a></li>
+						<li><a href="https://twitter.com/MoscowTimes" target="_blank">Twitter</a></li>
+						<li><a href="https://www.instagram.com/themoscowtimes/" target="_blank">Instagram</a></li>
+						<li><a href="https://themoscowtimes.com/info/rss">RSS</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="col-md-3 col-lg-3 hidden-md-down">
+				<div class="tmt-footer-item">
+					<div class="tmt-footer-item__header">Corrections</div>
+					<ul class="tmt-footer-item__list">
+						<li>If you spot a mistake, please select the error in the text and press Ctrl + Enter</li>
+					</ul>
+				</div>
+			</div>
+			<div class="col-sm-12 col-md-5 col-lg-3 offset-lg-2">
+				<div class="tmt-footer__logo">
+					<a href="/" title="The Moscow Times">
+						<img src="/static/images/logo/1280.png" alt="The Moscow Times Logo" srcset="/static/images/logo/1280@2x.png 2x">
+					</a>
+				</div>
+				<p class="tmt-footer__copyright">&copy; Copyright 1992-2017. The Moscow Times. All rights reserved. Электронное периодическое издание «The Moscow Times» зарегистрировано в Федеральной службе по надзору за соблюдением законодательства в сфере массовых коммуникаций и охране культурного наследия 16 ноября 2015 г. Свидетельство о регистрации ЭЛ № ФС77-62667. 16+</p>
+			</div>
+		</div>
+	</footer>
+	<!-- End Footer -->
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TR8JKK"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-TR8JKK');</script>
+    <!-- End Google Tag Manager -->
+
+	<script src="/static/assets/common.js"></script>
+	<script src="/static/assets/old-style.js"></script>
+	<script src="/static/assets/client.js"></script>
+</body>
+</html>

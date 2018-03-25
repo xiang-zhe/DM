@@ -1,0 +1,11665 @@
+<!DOCTYPE html> <html lang="en-US"><head itemid='' itemscope itemtype='http://schema.org/SpeakableSpecification'><script>window.serviceCallbacks=[];window.pageBuilder=window.pageBuilder||{};window.pageBuilder.featureLoaded=function(el){if(window.services.asyncFeatureCallback)window.services.asyncFeatureCallback(el);else window.serviceCallbacks.push(function(){window.services.asyncFeatureCallback(el)})};</script> <script>trb={run:[],runInfuse:[],appendResource:function appendResource(tagname,url,async,defer,onload,onerror){var r=document.createElement(tagname);if(tagname=="script"){r.src=url;r.async=async||false;r.defer=async||defer||false;if(onload)r.addEventListener("load",onload);if(onerror)r.addEventListener("error",onerror)}else if(tagname=="link"){r.href=url;r.rel="stylesheet"}else return;(document.head||document.documentElement).appendChild(r)},metrics:{},data:{page:{},videos:{},embed:{},metrics:{prdomain:"latimes.com",
+pbrd:1},isMobile:function(){return/(android|bb\d+|meego).+mobile|bada\/|blackberry|fennec|iemobile|ip(hone|od|ad)|kindle|maemo|midp|mmp|netfront|opera m|palm|phone|p(ixi|re)\/|series(4|6)0|symbian|up\.(b|l)|vodafone|wap|windows (ce|phone)|android|playbook|silk/i.test(navigator.userAgent)}},vendor:{snt:{}},dpl:[],dpp:[]};trb.utils=trb.utils||{};trb.data=trb.data||{};trb.browsersupport=trb.browsersupport||{};</script> <link rel="apple-touch-icon" href="/pb/resources/images/lat_icons/57-iTunesArtwork.png"/> <link rel="apple-touch-icon" sizes="72x72" href="/pb/resources/images/lat_icons/72-iTunesArtwork.png"/> <link rel="apple-touch-icon" sizes="114x114" href="/pb/resources/images/lat_icons/114-iTunesArtwork.png"/> <link rel="apple-touch-icon" sizes="144x144" href="/pb/resources/images/lat_icons/144-iTunesArtwork.png"/> <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1"> <meta charset="UTF-8"/> <meta name="copyright" content="Copyright (c) 2018 Los Angeles Times"/> <meta name="y_key" content="cee2fe4077f8d050"/> <meta name="msvalidate.01" content="AAC9C18F70AC386BC4DCF4DDF9BF1786"/> <meta name="distribution" content="global"/> <meta name="rating" content="general"/> <meta name="language" content="English (United States), en-US"/> <meta http-equiv="Content-Language" content="en-US"/> <title>EU proposes $6.2-billion tax on Facebook, Google and other tech giants</title> <meta name="keywords" content="European Union, tax, Facebook, Google, Apple, Amazon"> <meta name="news_keywords" content="European Union, tax, Facebook, Google, Apple, Amazon"/> <meta name="date" content="2018-03-21T14:15:00Z"/> <meta itemprop="description" name="description" content="European policymakers are suggesting a new tax on tech giants such as Facebook and Google. It would tap into revenues in countries where the firms have the bulk of their users and customers, imposing a 3% tax on income from online advertising, the sale of user data and the connecting of users."/> <meta name="googlebot-news" content="index"/> <link rel="canonical" href="http://www.latimes.com/business/technology/la-fi-tn-tech-tax-20180321-story.html"> <link rel="amphtml" href="http://www.latimes.com/business/technology/la-fi-tn-tech-tax-20180321-story.html?outputType=amp"> <meta name="twitter:title" content="EU proposes $6.2-billion tax on Facebook, Google and other tech giants"/> <meta name="twitter:image" content="http://www.latimes.com/resizer/uPWKS7Zw5roarKXGGDajXolJ_G8=/1200x0/www.trbimg.com/img-5ab269a8/turbine/la-fi-tn-tech-tax-20180321"/> <meta name="twitter:card" content="summary"> <meta name="twitter:description" content="European policymakers are suggesting a new tax on tech giants such as Facebook and Google. It would tap into revenues in countries where the firms have the bulk of their users and customers, imposing a 3% tax on income from online advertising, the sale of user data and the connecting of users."/> <meta name="twitter:site" content="@latimes"/> <meta name="twitter:creator" content="@latimes"> <meta name="fb_title" content="EU proposes $6.2-billion tax on Facebook, Google and other tech giants"/> <meta property="og:url" content="http://www.latimes.com/business/technology/la-fi-tn-tech-tax-20180321-story.html"/> <meta property="og:title" content="EU proposes $6.2-billion tax on Facebook, Google and other tech giants"/> <meta itemprop="image" property="og:image" content="http://www.latimes.com/resizer/uPWKS7Zw5roarKXGGDajXolJ_G8=/1200x0/www.trbimg.com/img-5ab269a8/turbine/la-fi-tn-tech-tax-20180321"/> <meta property="og:description" content="European policymakers are suggesting a new tax on tech giants such as Facebook and Google. It would tap into revenues in countries where the firms have the bulk of their users and customers, imposing a 3% tax on income from online advertising, the sale of user data and the connecting of users."/> <meta property="og:locale" content="en_US"/> <meta property="og:site_name" content="latimes.com"/> <meta property="og:type" content="article"/> <meta property="article:content_tier" content="metered"/> <meta property="fb:app_id" content="119932621434123"/> <meta property="fb:page_id" content="5863113009"/> <meta property="article:tag" content="Europe, European Union, Facebook Inc., Jeff Bezos"> <meta property="article:section" content=",,, Technology, Business, LA Times"> <meta name="author" content="Washington Post"> <meta name="apple-itunes-app" content="app-id=373238146, app-argument=http://www.latimes.com/deeplinkidSUGYPY6KVVE6PBXA6JERMIM2PI"> <script data-schema="NewsArticle" type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "http://www.latimes.com/business/technology/la-fi-tn-tech-tax-20180321-story.html"
+        },
+        "headline": "EU proposes $6.2-billion tax on Facebook, Google and other tech giants",
+        
+        "image": {
+          "@type": "ImageObject",
+          "url": "http://www.latimes.com/resizer/uPWKS7Zw5roarKXGGDajXolJ_G8=/1200x0/www.trbimg.com/img-5ab269a8/turbine/la-fi-tn-tech-tax-20180321",
+          "height": 1126.0,
+          "width": 1200
+        },
+        
+        "datePublished": "2018-03-21T14:18:08Z",
+        "dateModified": "2018-03-21T14:18:44.733Z",
+        "articleBody": "European policymakers are suggesting a new tax on tech giants such as Facebook Inc. and Alphabet Inc.&#039;s Google in a measure that could raise $6.2 billion through what advocates say would be a fairer way of taxing how the companies make their money.The proposal, unveiled Wednesday, would tap into digital titans&#039; revenues in countries where they have the bulk of their users and customers, imposing a 3% tax on income from online advertising, the sale of user data and the connecting of users to one another.The initiative, which would need several rounds of approvals, comes amid a rapidly heating trade conflict between Europe and the United States. Absent action by President Trump, new U.S. tariffs on steel and aluminum imports are set to go into effect Friday, and EU leaders have threatened countermeasures to follow shortly after.It also comes as Facebook&#039;s actions are under a microscope, following revelations that the Cambridge Analytica data firm misused the data of 50 million U.S. Facebook users to help Trump win the presidency and that Russians also targeted U.S. voters on the social network.The action by the executive arm of the 28-nation European Union would seek to impose common tax rules across the EU&#039;s vast market of 500 million consumers.But the measure is likely to run into skepticism from the countries that serve as the legal homes to the companies, as well as small tech-savvy nations such as Estonia, where the technology behind Skype was born. Any EU-wide tax measure would require unanimity.The goal, advocates say, is fairness. In Europe, companies with digital business models pay an effective tax rate of 9.5%, compared with 23.2% for companies with traditional business models, the European Commission said.&#034;The digital revolution has overturned economies, and it has profoundly affected the way businesses create value today,&#034; said Pierre Moscovici, the top EU economy and tax official, as he announced the proposal in Brussels.&#034;Your click triggers a whole chain of commercial transactions and therefore generates substantial profits&#034; that are not taxed by most countries, he said. &#034;This legal loophole is no longer acceptable.&#034;European leaders also are concerned that the U.S. tax overhaul passed in December will divert tax revenue away from Europe and toward the United States. The tax law slashed corporate rates to 21% and offered incentives for companies such as Apple Inc., which had accumulated billions of dollars in its European subsidiary in Ireland, to bring home their profits. Moscovici has said that the European measures are not connected to actions by any other government, but French leaders advocated similar national plans in reaction to the U.S. policy changes.The proposed EU tax would only hit businesses with annual worldwide turnover above $923 billion that also make more than $62 billion of their revenue inside the European Union. That would give small tech start-ups room to grow, European policymakers said. At least 120 global firms fit the criteria, Moscovici said.Trump administration officials have raised sharp objections to the tax plan, which Moscovici outlined in a preliminary form Tuesday at a meeting of finance ministers of the Group of 20 major world economies in Buenos Aires, Argentina.&#034;The U.S. firmly opposes proposals by any country to single out digital companies,&#034; U.S. Treasury Secretary Steven T. Mnuchin said in a statement last week that did not specifically mention the EU tax plans. &#034;Some of these companies are among the greatest contributors to U.S. job creation and economic growth.&#034;Advocates of the measure said they are not targeting U.S. companies. But the U.S.-centered reality of the modern technology industry puts many U.S. companies in the crosshairs, and the tax could hit Amazon.com Inc., Uber Technologies Inc. and others. (The Washington Post is owned by Jeff Bezos, the founder and chief executive of Amazon.)The EU plan is intended as a temporary measure until a permanent plan is devised that would overhaul the taxation of the profits of digital companies. But because of the difficulty of reaching tax compromises, temporary measures have sometimes remained in place for decades.",
+        "author": [
+          
+            
+              
+                {
+                  "@type": "Person",
+                  "name": "Washington Post"
+                }
+              
+            
+            
+          
+        ],
+         "publisher": {
+        "@type": "Organization",
+        "name": "Los Angeles Times",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "http://www.latimes.com/pb/resources/images/lat_icons/logo_meta.png?token=123",
+          "width": 467,
+          "height": 60
+        }
+      }
+        },
+        // will be empty for branded publishing
+        "description": "European policymakers are suggesting a new tax on tech giants such as Facebook and Google. It would tap into revenues in countries where the firms have the bulk of their users and customers, imposing a 3% tax on income from online advertising, the sale of user data and the connecting of users."
+      }
+    </script> <script data-schema="Organization" type="application/ld+json">
+      {
+        "name": "Los Angeles Times",
+        "url": "http://latimes.com",
+        "logo": "http://latimes.com//pb/resources/images/lat_icons/logo_meta.png?token=123",
+        "sameAs": [
+          "https://www.facebook.com/latimes/",
+          "https://twitter.com/latimes",
+          "https://www.youtube.com/user/losangelestimes",
+          "https://www.instagram.com/latimes/",
+          "https://vimeo.com/latimes"],
+        "@type": "Organization",
+        "@context": "http://schema.org"
+      }
+    </script> <meta itemprop="cssSelector" content="h1"/> <meta itemprop="xpath" content="/html/head/meta[@name='description']/@content"/> <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"> <link href="/pb/resources/dist/la/latest/02a51d33f82494d89ea0/lat02a51d33f82494d89ea0.css" rel="stylesheet"/> <link href="/pb/resources/dist/la/latest/02a51d33f82494d89ea0/lat-index02a51d33f82494d89ea0.css" rel="stylesheet"/> <link href="/pb/resources/dist/la/latest/02a51d33f82494d89ea0/lat-services02a51d33f82494d89ea0.css" rel="stylesheet"/> <script async src="/pb/resources/dist/la/latest/02a51d33f82494d89ea0/lat-index02a51d33f82494d89ea0.js"></script> <script>(function(){if(location.href.indexOf("disable-dss")>-1){window.history.replaceState({},document.title,window.location.href.replace("?disable-dss",""));var domain=window.location.host;if(domain.split(".").length>2)domain=domain.substr(domain.indexOf("."));var now=new Date;now.setTime(now.getTime()+3600*24E3);document.cookie="ddss\x3d; expires\x3d"+now.toUTCString()+"; domain\x3d"+domain+"; path\x3d/";return}else if((";"+document.cookie).indexOf("; ddss\x3d")>-1)return;var ssorUrl="https://ssor.tribdss.com/reg/tribune/latarc.min.js";
+var meterUrl="https://www.tribdss.com/meter/latarc.min.js";trb.appendResource("script","/pb/resources/scripts/dss-dependencies.min.js",true);trb.appendResource("script",ssorUrl,true);trb.appendResource("script",meterUrl,true)})();</script> <script>var initialTrackData={src:"arc",byline:"Washington Post",articleType:"robust",channel:"business:technology",contentId:"",contentType:"story",credit:"Patrick Sison / Associated Press",globalHierarchy:"business:technology",googleAnalytics:"UA-40841508-1",individualPhotoID:"96226769",linkTrackingAction:"story",liveblogPubDate:"",liveblogSlug:"",marketCode:"lanews",omnitureAccountId:"tribnglobal",owner:"lanews",pageName:"lat:business:technology:la-fi-tn-tech-tax-20180321:story.",pageNumber:"",pageTitle:"EU proposes $6.2-billion tax on Facebook, Google and other tech giants",
+paginationType:"paragraph",parentSectionName:"business",postContentId:"",postNumber:"",premiumContentLevel:"default",chartbeatDomain:"latimes.com",pubDate:"03-21-2018 07:15",relateditems:false,sectionName:"Technology",sectionPath:"/la-times/business/technology",server:"www.latimes.com",site:"latimes",siteAbbrv:"lat",siteHierarchy:"latimes:business:technology",siteName:"latimes",slug:"la-fi-tn-tech-tax-20180321",subtype:"stories",topLevelSection:"business",topicID:"",topicPageName:"",uid:"3908",siteURL:"http://www.latimes.com",
+searchValue:""};trb.data.page.pathName="/business/technology/la-fi-tn-tech-tax-20180321-story.html";trb.data.page.metrics=initialTrackData;window.serviceCallbacks.push(function(){analytics=new services.AnalyticsService(trb.data.page.metrics)});</script> <script>(function(){var loc=location.href;if(location.href.indexOf("disable-ensighten")>-1)return;var systemEnv="production";var ensightenUrl="//nexus.ensighten.com/tronc/latimesarc";var isProd=systemEnv==="production"||systemEnv==="prod";var isDev=location.href.indexOf("ensightenEnv\x3ddev")>-1||!isProd;var url=isDev?ensightenUrl+"dev":ensightenUrl+"prod";trb.appendResource("script",url+"/Bootstrap.js",true)})();</script> <script>(function(){window.trb.ads={adOfTypeLoaded:function(type){if(type=="reskin"||type=="videoscroll"){var head=document.head||document.getElementsByTagName("head")[0];var style=document.createElement("style");var isWindows=!!navigator.userAgent.match(/Windows/i);var minWidth=isWindows?1580:1560;var reskinCSS='.container { max-width: 100%; } main { background-color: #f1f1f1; } @media screen and (max-width: 1060px) { #pb-root { z-index: 99999; background-color: #f1f1f1; position: relative;} } @media screen and (min-width: 1060px) { #masthead, #bottom { padding: 0 40px 0 40px; } #pb-root main { padding-top: 1px; } div[data-ad-container\x3d"reskin"], #masthead { width: calc(100% - 200px); margin: 0 auto; } #bottom { width: calc(100% - 200px); } } @media screen and (min-width: '+
+minWidth+'px) { div[data-ad-container\x3d"reskin"], #masthead, #bottom { max-width: 1280px; padding: 0; } }';style.type="text/css";style.appendChild(document.createTextNode(reskinCSS));head.appendChild(style);if(type=="videoscroll"){var videoScrollCSS="@media screen and (min-width: 1060px) { #pb-root main { margin-top: 100vh;} #pb-root main, #pb-root #bottom {  position: relative; z-index: 5; } .links-container { display:none !important;} .pb-f-global-main-masthead {display: none;} .logo-container {display: block !important;} .logo-full {display: inline !important;} }";
+var style=document.createElement("style");style.type="text/css";style.appendChild(document.createTextNode(videoScrollCSS));head.appendChild(style)}}}}})();</script> <script>if(location.href.indexOf("disable-gpt")==-1&&location.href.indexOf("disable-thirdparty")==-1){var googletag=googletag||{};googletag.cmd=googletag.cmd||[];(function(){var gads=document.createElement("script");gads.async=true;gads.type="text/javascript";var useSSL="https:"==document.location.protocol;gads.src=(useSSL?"https:":"http:")+"//www.googletagservices.com/tag/js/gpt.js";var node=document.getElementsByTagName("script")[0];node.parentNode.insertBefore(gads,node)})();window.serviceCallbacks.push(function(){window.services.headerBiddingAdVendorService=
+new services.HeaderBiddingAdVendorService("4011","3503")})};</script> <script>window.serviceCallbacks.push(function(){if(window.services.isVendorEnabled("krux")){window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);new services.KruxService("I2I25leR")}});</script> <script>window.serviceCallbacks.push(function(){if(window.isMobile.any()&&window.services.isAdEnabled("yieldmo"))services.YieldmoService.preloads()});</script> <script>(function(){if(window.BOOMR&&window.BOOMR.version)return;var dom,doc,where,iframe=document.createElement("iframe"),win=window;function boomerangSaveLoadTime(e){win.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(win.addEventListener)win.addEventListener("load",boomerangSaveLoadTime,false);else if(win.attachEvent)win.attachEvent("onload",boomerangSaveLoadTime);iframe.src="javascript:false";iframe.title="";iframe.role="presentation";(iframe.frameElement||iframe).style.cssText="width:0;height:0;border:0;display:none;";
+where=document.getElementsByTagName("script")[0];where.parentNode.insertBefore(iframe,where);try{doc=iframe.contentWindow.document}catch(e){dom=document.domain;iframe.src="javascript:var d\x3ddocument.open();d.domain\x3d'"+dom+"';void(0);";doc=iframe.contentWindow.document}doc.open()._l=function(){var js=this.createElement("script");if(dom)this.domain=dom;js.id="boomr-if-as";js.src="https://c.go-mpulse.net/boomerang/"+"9E52W-759Q8-QRNWG-5DBLH-ZFZGZ";BOOMR_lstart=(new Date).getTime();this.body.appendChild(js)};
+doc.write('\x3cbody onload\x3d"document._l();"\x3e');doc.close()})();</script> <script>(function(){if(location.href.indexOf("disable-inform")>-1)return;var informUrl="//launch.newsinc.com/222/js/embed.js";trb.appendResource("script",informUrl,true)})();</script> </head> <body lang="en-US"> <div id="pb-root" class="c o l l a p s e d - n a v"><a class="skip-link" href="#top">Skip to content</a> <header id="app-bar-sticky" class="sticky high-z-index"> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-global-app-bar" id="f0CtzjMk0AHoMq"> <div id="app-bar" class="app-bar card card-dark card-shadowed" role="navigation"> <div class="justify-space-between flex-container-row relative app-bar-inner container"> <div class="flex flex-container-row"> <div data-role="tray" data-tray="topics"> <button id="app-bar-topics-button" name="topicsMenu" class="tag tag-solid app-button align-center justify-center flex-container-row" data-arctrack="topicsOpen" data-role="open-tray" data-tray="topics"> <span class="fa fa-2x icon-light fa-newspaper-o" aria-hidden="true"></span> <span class="spaced spaced-sm spaced-left hidden-mobile">Topics</span> </button> <div class="tray-arrow-container invisible relative"> <div class="tray-arrow absolute"> <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 292.362 292.362" fill="#616668" height="22px" width="22px"> xml:space="preserve"> <path d="M286.935,197.286L159.028,69.379c-3.613-3.617-7.895-5.424-12.847-5.424s-9.233,1.807-12.85,5.424L5.424,197.286 C1.807,200.9,0,205.184,0,210.132s1.807,9.233,5.424,12.847c3.621,3.617,7.902,5.428,12.85,5.428h255.813 c4.949,0,9.233-1.811,12.848-5.428c3.613-3.613,5.427-7.898,5.427-12.847S290.548,200.9,286.935,197.286z"/> </svg> </div> </div> <nav class="tray tray-left invisible absolute"> <div class="topics-tray tray-contents card"> <div class="tray-contents-inner" tabindex="0"> <div class="card-content search-container"> <div class="mobile-search-wrapper hidden-desktop"> <form class="form-inline flex-container-row" method="GET" action="/search/" target="_top" autocomplete="off"> <input class="search-bar" title="Type search term here" name="q-36355" type="text" placeholder="Search for a topic" data-autocomplete="false" data-autocomplete-target="app-bar-topics-autocomplete-results" autocomplete="off"/> <button aria-label="submit" type="submit" class="search-button button-icon button-rounded button-lg button-accent"> <i class="fa icon-light fa-search" aria-hidden="true"></i> </button> </form> <div id="app-bar-topics-autocomplete-results"></div> </div> </div> <ul class="side-nav-items topics-list list-unstyled"> <li data-topic-index="0" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="http://membership.latimes.com/#nt=primarynavbar">Subscriber Services</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="https://myaccount2.latimes.com/index.aspx#nt=secondarynavbar">Manage Subscription</a> </li> <li class="subtopic"> <a class="uppercase" href="http://newsletters.latimes.com/#nt=secondarynavbar">Newsletters</a> </li> <li class="subtopic"> <a class="uppercase" href="https://myaccount2.latimes.com/login.aspx?ReturnUrl=%2fsecurepage%2fEZPay.aspx#nt=secondarynavbar">EZPay</a> </li> <li class="subtopic"> <a class="uppercase" href="https://myaccount2.latimes.com/login.aspx?ReturnUrl=%2fsecurepage%2fMissedPaper.aspx#nt=secondarynavbar">Delivery Issue</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.tronc.com/subscriber-terms-and-conditions/#nt=secondarynavbar">Subscriber Terms</a> </li> </ul> </div> </li> <li data-topic-index="1" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="http://www.latimes.com/local/#nt=primarynavbar">Local</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/local/earthquakes/#nt=secondarynavbar">Earthquakes</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/local/datadesk/#nt=secondarynavbar">Data Desk</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/local/california/#nt=secondarynavbar">California</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/local/orangecounty#nt=secondarynavbar">Times OC</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/local/abcarian/#nt=secondarynavbar">California Journal</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/local/education/#nt=secondarynavbar">Education</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/local/readers-rep/#nt=secondarynavbar">Readers' Representative Journal</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/brandpublishing/localplus/#nt=secondarynavbar">Local +</a> </li> </ul> </div> </li> <li data-topic-index="2" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="http://www.latimes.com/local/lanow/#nt=primarynavbar">L.A. Now</a> </li> <li data-topic-index="3" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="http://www.latimes.com/politics/#nt=primarynavbar">Politics</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/essentialwashington/#nt=secondarynavbar">Essential Washington</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/essentialpolitics/#nt=secondarynavbar">Essential Politics</a> </li> </ul> </div> </li> <li data-topic-index="4" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="http://www.latimes.com/business/#nt=primarynavbar">Business</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/business/hollywood/#nt=secondarynavbar">Company Town</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/business/autos/#nt=secondarynavbar">Autos</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/business/hiltzik/#nt=secondarynavbar">Michael Hiltzik</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/business/lazarus/#nt=secondarynavbar">Consumer Confidential</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/brandpublishing/businessplus/#nt=secondarynavbar">Business +</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/brandpublishing/autoplus/#nt=secondarynavbar">Auto +</a> </li> </ul> </div> </li> <li data-topic-index="5" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="http://www.latimes.com/nation/#nt=primarynavbar">Nation</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com#nt=secondarynavbar">Nation Now</a> </li> </ul> </div> </li> <li data-topic-index="6" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="http://www.latimes.com/entertainment/#nt=primarynavbar">Entertainment</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/entertainment/arts/#nt=secondarynavbar">Arts & Culture</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/entertainment/herocomplex/#nt=secondarynavbar">Hero Complex</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/entertainment/movies/#nt=secondarynavbar">Movies</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/entertainment/tv/#nt=secondarynavbar">Television</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/entertainment/music/#nt=secondarynavbar">Music</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/entertainment/gossip/#nt=secondarynavbar">Gossip</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/entertainment/envelope/#nt=secondarynavbar">Envelope</a> </li> <li class="subtopic"> <a class="uppercase" href="http://affiliate.zap2it.com/tvlistings/ZCGrid.do?aid=lat#nt=secondarynavbar">TV Listings</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/brandpublishing/entertainmentplus/#nt=secondarynavbar">Entertainment +</a> </li> </ul> </div> </li> <li data-topic-index="7" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="http://www.latimes.com/opinion/#nt=primarynavbar">Opinion</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/opinion/op-ed/#nt=secondarynavbar">Op-Ed</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/opinion/opinion-la/#nt=secondarynavbar">Opinion L.A.</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/opinion/editorials/#nt=secondarynavbar">Editorials</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/opinion/readersreact/#nt=secondarynavbar">Readers React</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/opinion/topoftheticket/#nt=secondarynavbar">Top of the Ticket</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/opinion/endorsements/#nt=secondarynavbar">Endorsements</a> </li> </ul> </div> </li> <li data-topic-index="8" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="http://www.latimes.com/food#nt=primarynavbar">Food</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/food/jonathan-gold/#nt=secondarynavbar">Jonathan Gold</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/food/dailydish/#nt=secondarynavbar">Daily Dish</a> </li> </ul> </div> </li> <li data-topic-index="9" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="http://www.latimes.com/sports/#nt=primarynavbar">Sports</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/sports/dodgers/#nt=secondarynavbar">Dodgers</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/sports/usc/#nt=secondarynavbar">USC</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/sports/ucla/#nt=secondarynavbar">UCLA</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/sports/mlb/#nt=secondarynavbar">MLB</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/sports/angels/#nt=secondarynavbar">Angels</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/sports/boxing/#nt=secondarynavbar">Boxing & MMA</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/sports/ducks/#nt=secondarynavbar">Ducks</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/sports/clippers/#nt=secondarynavbar">Clippers</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/sports/chargers/#nt=secondarynavbar">Chargers</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/sports/lakers/#nt=secondarynavbar">Lakers</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/sports/nba/#nt=secondarynavbar">NBA</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/sports/nfl/#nt=secondarynavbar">NFL</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/sports/olympics/#nt=secondarynavbar">Olympics</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/sports/rams/#nt=secondarynavbar">Rams</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/sports/soccer/#nt=secondarynavbar">Soccer</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/sports/sportsnow/#nt=secondarynavbar">Sports Now</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/sports/more/#nt=secondarynavbar">More Sports</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/sports/highschool/#nt=secondarynavbar">High School</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/sports/kings/#nt=secondarynavbar">Kings</a> </li> </ul> </div> </li> <li data-topic-index="10" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="http://www.latimes.com/world/#nt=primarynavbar">World</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/world/afghanistan-pakistan/#nt=secondarynavbar">Afghanistan & Pakistan</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/world/africa/#nt=secondarynavbar">Africa</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/world/asia/#nt=secondarynavbar">Asia</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/world/brazil/#nt=secondarynavbar">Brazil</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/world/europe/#nt=secondarynavbar">Europe</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/world/mexico-americas/#nt=secondarynavbar">Mexico & The Americas</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/world/middleeast/#nt=secondarynavbar">Middle East</a> </li> </ul> </div> </li> <li data-topic-index="11" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="http://www.latimes.com/local/obituaries/#nt=primarynavbar">Obituaries</a> </li> <li data-topic-index="12" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="http://www.latimes.com/business/realestate/#nt=primarynavbar">Real Estate</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/business/realestate/hot-property/#nt=secondarynavbar">Hot Property</a> </li> </ul> </div> </li> <li data-topic-index="13" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="http://www.latimes.com/style/#nt=primarynavbar">California Living</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/fashion/#nt=secondarynavbar">Fashion</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/health/#nt=secondarynavbar">Health & Wellness</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/style/laaffairs/#nt=secondarynavbar">L.A. Affairs</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/style/pets/#nt=secondarynavbar">Pets</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/home/#nt=secondarynavbar">Home & Garden</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/books/#nt=secondarynavbar">Books</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/brandpublishing/healthplus/#nt=secondarynavbar">Health +</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/brandpublishing/livingplus/#nt=secondarynavbar">Living +</a> </li> </ul> </div> </li> <li data-topic-index="14" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="http://www.latimes.com/business/technology/#nt=primarynavbar">Technology</a> </li> <li data-topic-index="15" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="http://www.latimes.com/science/#nt=primarynavbar">Science</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/science/sciencenow/#nt=secondarynavbar">Science Now</a> </li> </ul> </div> </li> <li data-topic-index="16" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="http://www.latimes.com/travel/#nt=primarynavbar">Travel</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/travel/cruises/#nt=secondarynavbar">Cruises</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/travel/mexico/#nt=secondarynavbar">Mexico & Latin America</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/travel/themeparks/#nt=secondarynavbar">Theme Parks</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/travel/deals/#nt=secondarynavbar">Travel News & Deals</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/brandpublishing/travelplus/#nt=secondarynavbar">Travel +</a> </li> </ul> </div> </li> <li data-topic-index="17" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="http://www.latimes.com/visuals/#nt=primarynavbar">Visuals</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/visuals/framework/#nt=secondarynavbar">Framework</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/visuals/graphics/#nt=secondarynavbar">Graphics</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/visuals/video/#nt=secondarynavbar">Video</a> </li> </ul> </div> </li> <li data-topic-index="18" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="http://www.latimes.com/espanol/#nt=primarynavbar">Español</a> </li> <li data-topic-index="19" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="http://enewspaper.latimes.com/#nt=primarynavbar">E-Newspaper</a> </li> <li data-topic-index="20" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="http://www.latimes.com#nt=primarynavbar">Extras</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="http://games.latimes.com/#nt=secondarynavbar">Games</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/style/la-comics-htmlstory.html#nt=secondarynavbar">Comics</a> </li> </ul> </div> </li> <li data-topic-index="21" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="http://www.latimes.com/shopping/#nt=primarynavbar">Shop</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/lat-archives/#nt=secondarynavbar">Los Angeles Times Archives</a> </li> <li class="subtopic"> <a class="uppercase" href="http://store.latimes.com/?utm_campaign=evergreen&utm_medium=referral&utm_source=navigation&utm_content=&utm_term=#nt=secondarynavbar">Los Angeles Times Store</a> </li> <li class="subtopic"> <a class="uppercase" href="http://store.latimes.com/photos.html?utm_campaign=evergreen&utm_medium=referral&utm_source=navigation&utm_content=&utm_term=#nt=secondarynavbar">Los Angeles Times Photos</a> </li> <li class="subtopic"> <a class="uppercase" href="http://store.latimes.com/our-dishonest-president.html?utm_campaign=dishonest-president&utm_medium=referral&utm_source=navigation&utm_content=&utm_term=lat-shop-lp#nt=secondarynavbar">Our Dishonest President Book</a> </li> <li class="subtopic"> <a class="uppercase" href="http://mylocal.latimes.com/#nt=secondarynavbar">Local Ads</a> </li> <li class="subtopic"> <a class="uppercase" href="http://marketplace.latimes.com/#nt=secondarynavbar">Marketplace</a> </li> <li class="subtopic"> <a class="uppercase" href="http://local.latimes.com/search/en-US/#nt=secondarynavbar">Local Listings</a> </li> <li class="subtopic"> <a class="uppercase" href="http://hotels.latimes.com/#nt=secondarynavbar">Booking.com</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/shopping/traveloffers/#nt=secondarynavbar">Travel Offers</a> </li> </ul> </div> </li> <li data-topic-index="22" data-role="open-submenu" class="topics-list-item flex-container-row align-items-center"> <a class="uppercase flex" href="http://www.latimes.com/about/la-about-us-storygallery.html#nt=primarynavbar">About</a> <div data-role="submenu-arrow" class="submenu-arrow spaced spaced-md spaced-right hidden"></div> <i class="fa fa-angle-right hidden-mobile" aria-hidden="true"></i> <div data-role="submenu" class="subtopics absolute hidden card card-shadowed"> <ul class="list-unstyled"> <li class="subtopic"> <a class="uppercase" href="http://www.latimes.com/about/pressreleases/#nt=secondarynavbar">Press Releases</a> </li> <li class="subtopic"> <a class="uppercase" href="http://www.latimesfoundation.com/#nt=secondarynavbar">Giving</a> </li> </ul> </div> </li> </ul> <div class="tray-contents-util"> <hr/> <div data-reg-role="trial"></div> </div> </div> </div> </nav> </div> <div data-role="tray" data-tray="search"> <button id="app-bar-search-button" name="searchMenu" class="tag tag-solid app-button spaced spaced-left spaced-md align-center justify-center flex-container-row hidden-mobile hidden-tablet" data-arctrack="searchOpen" data-role="open-tray" data-tray="search"> <span class="fa fa-2x icon-light fa-search" aria-hidden="true"></span> <span class="hidden-tablet spaced spaced-sm spaced-left">Search</span> </button> <div class="tray-arrow-container relative spaced spaced-left spaced-md hidden-mobile hidden-tablet"> <div class="tray-arrow absolute"> <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 292.362 292.362" fill="#616668" height="22px" width="22px"> xml:space="preserve"> <path d="M286.935,197.286L159.028,69.379c-3.613-3.617-7.895-5.424-12.847-5.424s-9.233,1.807-12.85,5.424L5.424,197.286 C1.807,200.9,0,205.184,0,210.132s1.807,9.233,5.424,12.847c3.621,3.617,7.902,5.428,12.85,5.428h255.813 c4.949,0,9.233-1.811,12.848-5.428c3.613-3.613,5.427-7.898,5.427-12.847S290.548,200.9,286.935,197.286z"/> </svg> </div> </div> <nav class="tray tray-left invisible absolute hidden-mobile hidden-tablet" tabindex="0"> <div class="search-tray tray-contents search card"> <div class="tray-contents-inner" tabindex="0"> <div class="card-content"> <form class="form-inline flex-container-row" method="GET" action="/search/" target="_top" autocomplete="off"> <input class="search-bar" title="Type search term here" name="q-43734" type="text" placeholder="Search for a topic" data-autocomplete="false" data-autocomplete-target="app-bar-search-autocomplete-results" autocomplete="off"/> <button aria-label="submit" type="submit" class="search-button button-icon button-rounded button-lg button-accent"> <i class="fa icon-light fa-search" aria-hidden="true"></i> </button> </form> <div id="app-bar-search-autocomplete-results"></div> </div> </div> </div> </nav> </div> </div> <div class="flex-2 flex-container-row align-items-center justify-center"> <a aria-label="Visit homepage" href="/#nt=mastheadnavbar" class="logo-container hidden"> <img class="logo logo-full logo-no-background logo-transparent logo-md" alt="The Los Angeles Times Logo" src="/pb/resources/images/logo-full-white.svg?token=123123"/> </a> <div class="flex-container-row align-items-center hidden-mobile hidden-tablet links-container"> <ul class="app-bar-menu no-overflow flex-wrap flex-container-row list-unstyled"> <li class="links spaced spaced-right spaced-left spaced-sm"> <a class="text-color-light mobile app-bar-text" href="/local" data-pb-field="custom.menuItemText_1" data-pb-url-field="custom.menuItemUrl_1" data-pb-field-type="text" data-pb-placeholder="#">LOCAL</a> </li> <li class="links spaced spaced-right spaced-left spaced-sm"> <a class="text-color-light mobile app-bar-text" href="/politics" data-pb-field="custom.menuItemText_2" data-pb-url-field="custom.menuItemUrl_2" data-pb-field-type="text" data-pb-placeholder="#">POLITICS</a> </li> <li class="links spaced spaced-right spaced-left spaced-sm"> <a class="text-color-light mobile app-bar-text" href="/sports" data-pb-field="custom.menuItemText_3" data-pb-url-field="custom.menuItemUrl_3" data-pb-field-type="text" data-pb-placeholder="#">SPORTS</a> </li> <li class="links spaced spaced-right spaced-left spaced-sm"> <a class="text-color-light mobile app-bar-text" href="/entertainment" data-pb-field="custom.menuItemText_4" data-pb-url-field="custom.menuItemUrl_4" data-pb-field-type="text" data-pb-placeholder="#">ENTERTAINMENT</a> </li> <li class="links spaced spaced-right spaced-left spaced-sm"> <a class="text-color-light mobile app-bar-text" href="/opinion" data-pb-field="custom.menuItemText_5" data-pb-url-field="custom.menuItemUrl_5" data-pb-field-type="text" data-pb-placeholder="#">OPINION</a> </li> <li class="links spaced spaced-right spaced-left spaced-sm"> <a class="text-color-light mobile app-bar-text" href="http://placeanad.latimes.com/" data-pb-field="custom.menuItemText_6" data-pb-url-field="custom.menuItemUrl_6" data-pb-field-type="text" data-pb-placeholder="#">PLACE AN AD</a> </li> </ul> </div> </div> <div class="flex flex-container-row"> <div class="login-subscribe"> <div class="dss-login-subscribe bar-dss" data-reg-role="base"></div> </div> </div> </div> </div> </div> <div data-reg-role="prompt"></div> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-global-screamer" id="fXAeJf1k0AHoMq"> <div id="screamer-wrapper" class="screamer-wrapper" data-href="/pb/api/v2/render/feature?name=lat-screamer&uri=/screamer-fragment/&wrapper=false"> </div> </div> <div id="f73njG1k0AHoMq" class="pb-async pb-feature"></div> <div class="pb-container"> </div> </header> <div data-role="close-tray"> <article class="grid container padded-container"> <header id="top" class="top full-columns"> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-ads-dfp" id="f0VFUzIk0AHoMq"> <div class="pb-ad pb-ad-prod ad-320x50 relative"> <div class="ad-caption-text align-center uppercase">Advertisement</div> <div id="tech_blog_158" class="hidden" data-ad-type="leaderboard"> </div> </div> <script>(function(){function loadAd(){window.serviceCallbacks.push(function(){if(window.services.dfpService&&window.googletag&&googletag.pubadsReady)window.services.dfpService.appendAd({id:"tech_blog_158",adType:"leaderboard",slotName:"/4011/trb.latimes/tech/blog",displayMobile:true,displayDesktop:true,isOOP:false,is5x1:false,dimensionsString:" [[[1280, 220], [970, 250], [970, 90], [728, 90]], [[1280, 220], [728, 90]], [[1280, 220], [320, 100], [320, 50]]] ",sizemapString:"[[1280, 0], [800, 0], [0, 0]]",
+sizemapRefresh:"true",refreshOnPhotoChange:false,includeInA9:true,includeInIndexExchange:true,options:{ptype:"s",iab:"biz,",apv:"false",site:"trb.latimes",slug:"la-fi-tn-tech-tax-20180321",cid:"96226605",at:"Europe,EuropeanUnion,FacebookInc.,JeffBezos",kw:"user,tax,measure,company,Moscovici,UnitedStates,advocate,Inc,policymaker,proposal,action,profit,leader,revenue,unanimity,titan,Facebook,Europe,countermeasure,plan,uscompany,microscope,Google,europe,datum",tg:"Taxes,PolicyandRegulation",design:"arc",
+nopulse:true}},false,true);else setTimeout(loadAd,500)})}loadAd()})();</script> </div> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-article-header" id="f001qeAk0AHoMq"> <div class="card"> <div class="card-content align-left"> <ul class="tag-list-wrapper list-unstyled flex-container-row align-left"> <li> <a class="tag tag-solid tag-first" href="http://www.latimes.com/business/technology/#nt=taxonomy-article"> Technology </a> </li> <li> <a class="tag tag-solid tag-middle" href="http://www.latimes.com/business/#nt=taxonomy-article"> Business </a> </li> <li> <a class="tag tag-solid tag-last" href="http://www.latimes.com#nt=taxonomy-article"> LA Times </a> </li> </ul> <h1 class="spaced spaced-xl spaced-top spaced-bottom">EU proposes $6.2-billion tax on Facebook, Google and other tech giants</h1> </div> <div class="card-footer flex-container-row flex-mobile-column align-items-center"> <div class="byline-container flex-container-row align-items-center"> <div class="byline-image-container hidden-mobile spaced spaced-right spaced-sm"> <div class="byline-image"> <div class="logo logo-stacked logo-sm left-element"></div> </div> </div> <div class="byline-timestamp-container flex-container-row flex-tablet-column flex-mobile-column align-items-center"> <div class="byline-wrapper"> <span class="byline">By <span class="uppercase">Washington Post</span> </span> </div> <span class="spaced spaced-right spaced-md hidden-mobile"></span> <div class="timestamp-wrapper "> <span class="timestamp "> Mar 21, 2018 </span> <span class="timestamp spaced spaced-sm spaced-left spaced-right ">|</span> <span class="timestamp "> 7:15 AM </span> </div> </div> </div> <span class="sharebar align-right flex"> <button class="button button-icon button-icon-hover-accent button-icon-accent" aria-label="share on twitter" name="twitter" onclick="window.open( 'https://twitter.com/intent/tweet?text=EU+proposes+%246.2-billion+tax+on+Facebook%2C+Google+and+other+tech+giants&url=http%3A%2F%2Fwww.latimes.com%2Fbusiness%2Ftechnology%2Fla-fi-tn-tech-tax-20180321-story.html', 'share_popup', 'height=500,width=650' ); return false;" role="button" data-arctrack="socialShareTwtr" data-referrer="" target="_blank" rel="noopener noreferrer"> <i class="fa fa-twitter "></i> </button> <button class="button button-icon button-icon-hover-accent button-icon-accent" name="facebook" aria-label="share on facebook" onclick="window.open( 'https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.latimes.com%2Fbusiness%2Ftechnology%2Fla-fi-tn-tech-tax-20180321-story.html&title=EU+proposes+%246.2-billion+tax+on+Facebook%2C+Google+and+other+tech+giants', 'share_popup', 'height=500,width=650' ); return false;" data-arctrack="socialShareFb" data-referrer="" target="_blank" rel="noopener noreferrer"> <i class="fa fa-facebook-square "></i> </button> <a class="button button-icon button-icon-hover-accent button-icon-accent" href="mailto:?subject=EU%20proposes%20%246.2-billion%20tax%20on%20Facebook%2C%20Google%20and%20other%20tech%20giants&body=http%3A%2F%2Fwww.latimes.com%2Fbusiness%2Ftechnology%2Fla-fi-tn-tech-tax-20180321-story.html" role="button" aria-label="share story via email" data-arctrack="socialShareEmail" data-referrer="" rel="noopener noreferrer"> <i class="fa fa-share "></i> </a> <a class="button button-icon button-icon-hover-accent" aria-label="sign up for LA Times newsletters" href="http://newsletters.latimes.com/"> <i class="fa fa-pencil-square-o"></i> </a> </span> </div> </div> </div> <div class="pb-container"> </div> </header> <section id="left" class="left guttered width-100"> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-utilities-lead-art" id="f0Qvbhpk0AHoMq"> <div class="card card-captioned "> <div class="card-content"> <figure class=""> <div class="full-width img-container aspect-ratio-no-aspect"> <img class="full-width" alt="EU proposes $6.2-billion tax on Facebook, Google and other tech giants" src="http://www.latimes.com/resizer/G6S7Thue8Eu_kSwVk2MIEyU1eEE=/1400x0/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/ZJNODB3ODNDJHDL4M3PAH7D6R4.jpg"/> </div> <figcaption class="caption-text spaced spaced-top spaced-sm flex-container-row justify-space-between "> <div>If approved, the tax could hit Facebook as well as Google, Amazon and Uber, among others. (Patrick Sison / Associated Press)</div> <span class="sharebar "> <button class="button button-icon button-icon-hover-accent button-icon-accent" aria-label="share on twitter" name="twitter" onclick="window.open( 'https://twitter.com/intent/tweet?text=If+approved%2C+the+tax+could+hit+Facebook+as+well+as+Google%2C+Amazon+and+Uber%2C+among+others.+&url=http%3A%2F%2Fwww.latimes.com%2Fbusiness%2Ftechnology%2Fla-fi-tn-tech-tax-20180321-story.html', 'share_popup', 'height=500,width=650' ); return false;" role="button" data-arctrack="socialShareTwtr" data-referrer="" target="_blank" rel="noopener noreferrer"> <i class="fa fa-twitter "></i> </button> <button class="button button-icon button-icon-hover-accent button-icon-accent" name="facebook" aria-label="share on facebook" onclick="window.open( 'https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.latimes.com%2Fbusiness%2Ftechnology%2Fla-fi-tn-tech-tax-20180321-story.html&title=If+approved%2C+the+tax+could+hit+Facebook+as+well+as+Google%2C+Amazon+and+Uber%2C+among+others.+', 'share_popup', 'height=500,width=650' ); return false;" data-arctrack="socialShareFb" data-referrer="" target="_blank" rel="noopener noreferrer"> <i class="fa fa-facebook-square "></i> </button> </span> </figcaption> </figure> </div> </div> </div> <div class="wrapper clearfix col full pb-feature pb-layout-item pb-f-article-body" id="fqgsU12k0AHoMq"> <div class=""> </div> <div class="collection collection-cards"> <div data-type="text" class="card collection-item"> <div class=" card-content "> <p data-page="1">European policymakers are suggesting a new tax on tech giants such as Facebook Inc. and Alphabet Inc.'s Google in a measure that could raise $6.2 billion through what advocates say would be a fairer way of taxing how the companies make their money.</p> </div> </div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <p>The proposal, unveiled Wednesday, would tap into digital titans' revenues in countries where they have the bulk of their users and customers, imposing a 3% tax on income from online advertising, the sale of user data and the connecting of users to one another.</p> <div class="mobile-dfp inline-ad-arrow hidden-desktop"> <i class="fa fa-angle-down flex-container-column flex-row-reverse"></i> </div> </div> </div> <div class="mobile-dfp inline-ad hidden-desktop" data-inline-ad-count="1"> <div class="wrapper clearfix col col-desktop-6 col-tablet-6 col-mobile-6 pb-feature pb-layout-item pb-f-ads-dfp" id="f0pJdPaMOR55Nq"> <div class="pb-ad pb-ad-prod ad-300x250 hidden-desktop relative"> <div class="ad-caption-text align-center uppercase">Advertisement</div> <div id="tech_blog_1595" class="hidden"> </div> </div> <script>(function(){function loadAd(){window.serviceCallbacks.push(function(){if(window.services.dfpService&&window.googletag&&googletag.pubadsReady)window.services.dfpService.appendAd({id:"tech_blog_1595",adType:"cube",slotName:"/4011/trb.latimes/tech/blog",displayMobile:true,displayDesktop:false,isOOP:false,is5x1:false,dimensionsString:"[[300, 250]]",sizemapString:"",sizemapRefresh:"false",refreshOnPhotoChange:false,includeInA9:false,includeInIndexExchange:false,options:{ptype:"s",iab:"biz,",apv:"false",
+site:"trb.latimes",slug:"la-fi-tn-tech-tax-20180321",cid:"96226605",at:"Europe,EuropeanUnion,FacebookInc.,JeffBezos",kw:"user,tax,measure,company,Moscovici,UnitedStates,advocate,Inc,policymaker,proposal,action,profit,leader,revenue,unanimity,titan,Facebook,Europe,countermeasure,plan,uscompany,microscope,Google,europe,datum",tg:"Taxes,PolicyandRegulation",design:"arc",nopulse:true}},false,true);else setTimeout(loadAd,500)})}loadAd()})();</script> </div></div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <div class="mobile-dfp inline-ad-arrow less-spacing hidden-desktop hidden-tablet "> <i class="fa fa-angle-up flex-container-column flex-row-reverse"></i> </div> <p>The initiative, which would need several rounds of approvals, comes amid a rapidly heating trade conflict between Europe and the United States. Absent action by President Trump, new U.S. tariffs on steel and aluminum imports are set to go into effect Friday, and EU leaders have threatened countermeasures to follow shortly after.</p> </div> </div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <div class="mobile-dfp inline-ad-arrow less-spacing hidden-desktop hidden-mobile"> <i class="fa fa-angle-up flex-container-column flex-row-reverse"></i> </div> <p>It also comes as Facebook's actions are under a microscope, following revelations that the Cambridge Analytica data firm misused the data of 50 million U.S. Facebook users to help Trump win the presidency and that Russians also targeted U.S. voters on the social network.</p> <div class="desktop-nativo mobile-yieldmo inline-ad-arrow "> <i class="fa fa-angle-down flex-container-column flex-row-reverse"></i> </div> </div> </div> <div class="desktop-nativo mobile-yieldmo inline-ad " data-inline-ad-count="2"> <span class="hidden-desktop"> <div class="wrapper clearfix col pb-feature pb-layout-item pb-f-ads-yieldmo" id=""> <div id="ym_1854353505268696887"></div> <script>window.serviceCallbacks.push(function(){if(window.isMobile.any()&&window.services.isAdEnabled("yieldmo")){var el=document.getElementById("ym_1854353505268696887");if(false)window.services.lazyLoadService.addPendingObject({id:"ym_1854353505268696887",el:el,load:function(){window.services.YieldmoService.load({id:"ym_1854353505268696887",el:el})}});else window.services.YieldmoService.load({id:"ym_1854353505268696887",el:el})}});</script> </div></span> <span class="hidden-mobile"><div class="wrapper clearfix col col-desktop-6 col-tablet-6 col-mobile-6 pb-feature pb-layout-item pb-f-ads-nativo" id="fDTzMP1TOR55Nq"> <div class="hidden-mobile"> <div id="17549" data-nativo-id-desktop="1069557" class="desktop-nativo-ad trb_ar_nt"></div> </div> </div></span> </div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <div class="desktop-nativo mobile-yieldmo inline-ad-arrow less-spacing hidden-desktop hidden-tablet "> <i class="fa fa-angle-up flex-container-column flex-row-reverse"></i> </div> <p>The action by the executive arm of the 28-nation European Union would seek to impose common tax rules across the EU's vast market of 500 million consumers.</p> </div> </div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <div class="desktop-nativo mobile-yieldmo inline-ad-arrow less-spacing hidden-desktop hidden-mobile"> <i class="fa fa-angle-up flex-container-column flex-row-reverse"></i> </div> <p>But the measure is likely to run into skepticism from the countries that serve as the legal homes to the companies, as well as small tech-savvy nations such as Estonia, where the technology behind Skype was born. Any EU-wide tax measure would require unanimity.</p> </div> </div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <p>The goal, advocates say, is fairness. In Europe, companies with digital business models pay an effective tax rate of 9.5%, compared with 23.2% for companies with traditional business models, the European Commission said.</p> </div> </div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <p>"The digital revolution has overturned economies, and it has profoundly affected the way businesses create value today," said Pierre Moscovici, the top EU economy and tax official, as he announced the proposal in Brussels.</p> <div class="mobile-yieldmo inline-ad-arrow hidden-desktop"> <i class="fa fa-angle-down flex-container-column flex-row-reverse"></i> </div> </div> </div> <div class="mobile-yieldmo inline-ad hidden-desktop" data-inline-ad-count="3"> <div class="wrapper clearfix col pb-feature pb-layout-item pb-f-ads-yieldmo" id=""> <div id="ym_1854354516649609017"></div> <script>window.serviceCallbacks.push(function(){if(window.isMobile.any()&&window.services.isAdEnabled("yieldmo")){var el=document.getElementById("ym_1854354516649609017");if(true)window.services.lazyLoadService.addPendingObject({id:"ym_1854354516649609017",el:el,load:function(){window.services.YieldmoService.load({id:"ym_1854354516649609017",el:el})}});else window.services.YieldmoService.load({id:"ym_1854354516649609017",el:el})}});</script> </div></div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <div class="mobile-yieldmo inline-ad-arrow less-spacing hidden-desktop hidden-tablet "> <i class="fa fa-angle-up flex-container-column flex-row-reverse"></i> </div> <p>"Your click triggers a whole chain of commercial transactions and therefore generates substantial profits" that are not taxed by most countries, he said. "This legal loophole is no longer acceptable."</p> </div> </div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <div class="mobile-yieldmo inline-ad-arrow less-spacing hidden-desktop hidden-mobile"> <i class="fa fa-angle-up flex-container-column flex-row-reverse"></i> </div> <p>European leaders also are concerned that the U.S. tax overhaul passed in December will divert tax revenue away from Europe and toward the United States. The tax law slashed corporate rates to 21% and offered incentives for companies such as Apple Inc., which had accumulated billions of dollars in its European subsidiary in Ireland, to bring home their profits. Moscovici has said that the European measures are not connected to actions by any other government, but French leaders advocated similar national plans in reaction to the U.S. policy changes.</p> </div> </div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <p>The proposed EU tax would only hit businesses with annual worldwide turnover above $923 billion that also make more than $62 billion of their revenue inside the European Union. That would give small tech start-ups room to grow, European policymakers said. At least 120 global firms fit the criteria, Moscovici said.</p> </div> </div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <p>Trump administration officials have raised sharp objections to the tax plan, which Moscovici outlined in a preliminary form Tuesday at a meeting of finance ministers of the Group of 20 major world economies in Buenos Aires, Argentina.</p> </div> </div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <p>"The U.S. firmly opposes proposals by any country to single out digital companies," U.S. Treasury Secretary Steven T. Mnuchin said in a statement last week that did not specifically mention the EU tax plans. "Some of these companies are among the greatest contributors to U.S. job creation and economic growth."</p> </div> </div> <div data-type="text" class="card collection-item"> <div class=" card-content "> <p>Advocates of the measure said they are not targeting U.S. companies. But the U.S.-centered reality of the modern technology industry puts many U.S. companies in the crosshairs, and the tax could hit Amazon.com Inc., Uber Technologies Inc. and others. (The Washington Post is owned by Jeff Bezos, the founder and chief executive of Amazon.)</p> </div> </div> <div data-type="text" class="card collection-item card-border-bottom card-border-bottom-thick card-border-bottom-dark"> <div class=" card-content "> <p>The EU plan is intended as a temporary measure until a permanent plan is devised that would overhaul the taxation of the profits of digital companies. But because of the difficulty of reaching tax compromises, temporary measures have sometimes remained in place for decades.</p> <div class="spaced spaced-md spaced-bottom hidden-mobile"></div> <div class="spaced spaced-sm spaced-bottom hidden-desktop hidden-tablet"></div> </div> </div> </div> </div> <div class="wrapper clearfix spaced spaced-none full pb-feature pb-layout-item pb-f-global-newsletter-promo" id="fmclc11k0AHoMq"> <div class="card card-border-bottom card-border-bottom-thick "> <div class="card-content flex-grid"> <div class="flex-container-row col col-desktop-6 col-tablet-6 col-mobile-6 "> <div class="flex-grid justify-center"> <div class="col col-desktop-6 col-tablet-6 col-mobile-6"> <div class="flex-container-row "> <div class="flex-container-column"> <div class="newsletter-promo-image"> <figure class=""> <div class="left-element image-xs img-container aspect-ratio-1x1"> <img class="b-lazy full-width" alt="A promotional image." data-src="http://www.latimes.com/resizer/Xd_-wkW_NxBCkbzjiknWhuwXUEE=/1400x0/www.trbimg.com/img-5a04bd12/turbine/la-california-inc-20171109/600" src="/pb/resources/images/tinygif.gif"/> </div> </figure> </div> </div> <div class="flex-container-column flex-fill"> <div class="newsletter-promo-text "> <div> <h6 class="flex capitalized">California Inc. Newsletter</h6> </div> <div class="caption-text">Weekly</div> <div> <hr class=""/> </div> <div class="preview-text">A look back, and ahead, at the latest California business news.</div> </div> </div> </div> <div class="flex-container-row"> <figure> <div class="hidden-tablet hidden-mobile left-element image-xs img-container aspect-ratio-1x1"></div> </figure> <form data-cm-aid="2089072581" data-captcha-site-key="6Lf5_S8UAAAAAHl7F1vVNEm3Pwvl_ny1q_dp-mAf" data-api-key="tvAHqD6ZBD9EdKJVv1boM4urZVhuN6lW7nArA4Ar" data-endpoint="https://api.nlr.tronc.com/v3/newsletters/subscriptions" data-newsletter-id="b7e005cdb1" class="form-inline flex-container-row flex-fill spaced spaced-top spaced-md"> <input title="Enter your email address here" type="email" placeholder="ENTER YOUR EMAIL ADDRESS"/> <button name="submit" aria-label="submit" type="submit" class="button-icon button-accent button-submit button-xl button-rounded"> <i class="fa fa-angle-right"></i> </button> <button name="error" aria-label="error" type="submit" class="button-icon button-error button-lg button-rounded"> <i class="fa fa-exclamation"></i> </button> <button disabled name="loading" class="button-icon button-accent button-rounded button-lg button-loading"> <i class="fa fa-circle-o-notch fa-spin fa-fw"></i> </button> <div id="recaptcha"></div> </form> <div data-role="newsletter-form-success" class="newsletter-success-message call-to-action spaced spaced-top spaced-lg hidden">You are now following this newsletter. <a href="http://newsletters.latimes.com/" class="underlined">See all newsletters.</a> </div> </div> </div> </div> </div> </div> </div> </div> <div id="fhf1Ue1k0AHoMq" class="pb-async pb-feature"></div> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-ads-dfp" id="fNnu402k0AHoMq"> <div class="pb-ad pb-ad-prod ad-300x250 hidden-desktop relative"> <div class="ad-caption-text align-center uppercase">Advertisement</div> <div id="tech_blog_802" class="hidden"> </div> </div> <script>(function(){function loadAd(){window.serviceCallbacks.push(function(){if(window.services.dfpService&&window.googletag&&googletag.pubadsReady)window.services.dfpService.appendAd({id:"tech_blog_802",adType:"cube",slotName:"/4011/trb.latimes/tech/blog",displayMobile:true,displayDesktop:false,isOOP:false,is5x1:false,dimensionsString:"[[300, 250]]",sizemapString:"",sizemapRefresh:"false",refreshOnPhotoChange:false,includeInA9:true,includeInIndexExchange:true,options:{ptype:"s",iab:"biz,",apv:"false",site:"trb.latimes",
+slug:"la-fi-tn-tech-tax-20180321",cid:"96226605",at:"Europe,EuropeanUnion,FacebookInc.,JeffBezos",kw:"user,tax,measure,company,Moscovici,UnitedStates,advocate,Inc,policymaker,proposal,action,profit,leader,revenue,unanimity,titan,Facebook,Europe,countermeasure,plan,uscompany,microscope,Google,europe,datum",tg:"Taxes,PolicyandRegulation",design:"arc",nopulse:true}},false,true);else setTimeout(loadAd,500)})}loadAd()})();</script> </div> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-article-comments" id="fMdlTe2k0AHoMq"> <div class="align-center"> <button name="show-comments" aria-label="show-comments" data-comments="show" class="button-comments-view button-solid button-accent full-width" data-role="toggle-comments" data-arctrack="commentsOpened"> Be the first to comment </button> <button name="hide-comments" aria-label="hide-comments" data-comments="hide" class="button-comments-hide button-solid button-accent full-width hidden" data-role="toggle-comments">Hide Comments</button> </div> <div class="trb_cm_so" data-role="cm_container"> <div data-role="comments" data-comments-id="96226605" class="so_comments hidden" data-sitename="lanewsprod" data-content-id="lanews96226605" data-type="promo-comment" data-publisher="tronc"></div> </div> <noscript>Please enable JavaScript to view the <a href="http://solidopinion.com/">comments powered by SolidOpinion.</a></noscript> </div> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-article-video-playlist" id="feOhOC1k0AHoMq"> <div class="card"> <div class="card flex-container-column align-items-stretch"> <div class="card-header flex-container-row align-items-center"> <div class="logo logo-full header-logo"></div> </div> </div> <div class="card-content"> <div id="pb-149571"></div> <div class="brightcove-info" data-account="3690581438001" data-player="HkhIMtvwW"></div> <div class="goldfish-info" data-script-path="diodxcszlbmwk" data-environment="prod"></div> <script id="react-149571">
+
+      const videos149571 = [
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/uw40AXddKzmmMba1bzTTHUsfv-A=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-23-2018/t_1521770193925_name_la_na_pol_trump_s_move_to_order_some_50_billion_in_tariffs_video_20180322",
+              headline: "Trump&#039;s move to order some $50 billion in tariffs",
+              brightcoveVideoId: "H3XTY4JRCRBYLJFIZQDSVR2CTE",
+              goldfishVideoId: "H3XTY4JRCRBYLJFIZQDSVR2CTE",
+              urlId: "96244320",
+              site: "L.A. Now",
+              date: "Mar 22, 2018",
+              duration: "25194",
+              description: "China&#039;s Commerce Ministry threatened to impose $3 billion in reciprocal measures",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96244320",
+  "data-arctrack-item-classification": "Politics",
+  "data-arctrack-item-name": "Trump&#039;s move to order some $50 billion in tariffs",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/I_uHzQCDyW27RGZp8CvDMiDadB8=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-23-2018/t_1521768511128_name_la_na_pol_trump_is_replacing_his_national_security_advisor_video_20180322",
+              headline: "Trump is replacing his national security advisor",
+              brightcoveVideoId: "QOSUULFVUBEWXE622FJO46AZII",
+              goldfishVideoId: "QOSUULFVUBEWXE622FJO46AZII",
+              urlId: "96244121",
+              site: "L.A. Now",
+              date: "Mar 22, 2018",
+              duration: "25194",
+              description: "Tough conservative John Bolton will become Trump&#039;s third national security advisor",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96244121",
+  "data-arctrack-item-classification": "Politics",
+  "data-arctrack-item-name": "Trump is replacing his national security advisor",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/Jms0UHo08t3i0R1DSubXuFRPE_Y=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-22-2018/t_1521737023245_name_la_me_ln_fatal_police_shooting_infrared_video_scaled.jpg",
+              headline: "Infrared video of Sacramento police shooting of unarmed man",
+              brightcoveVideoId: "Z46ZDPCNFBEIXNJYTFBKYBIZO4",
+              goldfishVideoId: "Z46ZDPCNFBEIXNJYTFBKYBIZO4",
+              urlId: "96238698",
+              site: "L.A. Now",
+              date: "Mar 22, 2018",
+              duration: "148073",
+              description: "The Sacramento Police Department released helicopter footage of the police shooting of Stephon Clark, an unarmed black man who was holding his cellphone in his grandparents&#039; backyard.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96238698",
+  "data-arctrack-item-classification": "NewsSomber",
+  "data-arctrack-item-name": "Infrared video of Sacramento police shooting of unarmed man",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/QMEOcZhrPIWhq0IlAla4O5VL_yA=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-22-2018/t_1521681322728_name_la_me_los_alamitos_wants_no_part_of_california_s_sanctuary_state_laws_video_20180321",
+              headline: "Los Alamitos wants no part of California&#039;s \&#034;sanctuary state\&#034; laws",
+              brightcoveVideoId: "D3QP2Z7WWRDTRAGHTDXR2J7QXQ",
+              goldfishVideoId: "D3QP2Z7WWRDTRAGHTDXR2J7QXQ",
+              urlId: "96234738",
+              site: "L.A. Now",
+              date: "Mar 21, 2018",
+              duration: "23104",
+              description: "Now comes the hard part: Getting legal clearance to opt out.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96234738",
+  "data-arctrack-item-classification": "Politics",
+  "data-arctrack-item-name": "Los Alamitos wants no part of California&#039;s \&#034;sanctuary state\&#034; laws",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/fyvbTLEg6nFZjdSJflnr39j_z7o=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-22-2018/t_1521680060727_name_la_me_mayor_eric_garcetti_aims_to_reduce_the_city_s_homeless_population_to_functional_zero_by_2028_video_20180321",
+              headline: "Mayor Eric Garcetti aims to reduce the city&#039;s homeless population to \&#034;functional zero\&#034; by 2028",
+              brightcoveVideoId: "FRJXHMV4XJBPNLD5C3FQ5RND64",
+              goldfishVideoId: "FRJXHMV4XJBPNLD5C3FQ5RND64",
+              urlId: "96234588",
+              site: "L.A. Now",
+              date: "Mar 21, 2018",
+              duration: "25130",
+              description: "The timetable comes amid rising public anger over City Hall&#039;s failure to solve the crisis",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96234588",
+  "data-arctrack-item-classification": "Politics",
+  "data-arctrack-item-name": "Mayor Eric Garcetti aims to reduce the city&#039;s homeless population to \&#034;functional zero\&#034; by 2028",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/RBPW4RYODiYl3jyYGaKLBiTJMW4=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-21-2018/t_1521610826451_name_la_storm_prep_carpinteria_montecito_video_20180320",
+              headline: "Southern California braces for powerful storm",
+              brightcoveVideoId: "QSZTS63YHZG53EA2NCK7OV2SEQ",
+              goldfishVideoId: "QSZTS63YHZG53EA2NCK7OV2SEQ",
+              urlId: "96222988",
+              site: "L.A. Now",
+              date: "Mar 20, 2018",
+              duration: "64447",
+              description: "Residents and volunteers prepare to protect their homes in Carpinteria and Montecito as the most powerful rainstorm of the year is expected to deliver a direct hit to areas burned in the Thomas fire. Authorities have ordered about 21,000 residents in Santa Barbara County to flee.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96222988",
+  "data-arctrack-item-classification": "NewsNeutral",
+  "data-arctrack-item-name": "Southern California braces for powerful storm",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+            
+              
+                
+                
+                  
+                
+              
+            
+          
+
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/dKaSl-YD68x3D0FJc8ozbs2ygWE=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-21-2018/t_1521638962364_name_la_na_pol_trump_faces_new_jeopardy_from_sex_scandals_video_20180321",
+              headline: "Trump faces new jeopardy from sex scandals",
+              brightcoveVideoId: "JEUYTT5SNFAHBHTQR3TNJFFIVU",
+              goldfishVideoId: "JEUYTT5SNFAHBHTQR3TNJFFIVU",
+              urlId: "96226442",
+              site: "L.A. Now",
+              date: "Mar 21, 2018",
+              duration: "35626",
+              description: "A former Playboy Playmate has sued to break a confidentiality agreement about an alleged affair with President Trump.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96226442",
+  "data-arctrack-item-classification": "Politics",
+  "data-arctrack-item-name": "Trump faces new jeopardy from sex scandals",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/D0rkMuaathj-cuHX-KgkNujSSnc=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-21-2018/t_1521590953312_name_la_na_a_package_exploded_at_a_fedex_facility_near_san_antonio_early_tuesday_video_20180320",
+              headline: "A package exploded at a FedEx facility near San Antonio early Tuesday",
+              brightcoveVideoId: "UY56DFMNXNEPTBW454RIYZF5UM",
+              goldfishVideoId: "UY56DFMNXNEPTBW454RIYZF5UM",
+              urlId: "96222691",
+              site: "L.A. Now",
+              date: "Mar 20, 2018",
+              duration: "28672",
+              description: "The incident was the fifth in a series of explosions investigators believe is the work of a serial bomber.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96222691",
+  "data-arctrack-item-classification": "NewsSomber",
+  "data-arctrack-item-name": "A package exploded at a FedEx facility near San Antonio early Tuesday",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/QqAeQ1YhuVHnFrDaqnFPfczXoLw=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-20-2018/t_1521506897164_name_la_me_a_storm_moving_toward_socal_will_bring_a_long_period_of_steady_rain_video_20180319",
+              headline: "A storm moving toward SoCal will bring a long period of steady rain",
+              brightcoveVideoId: "RLVWQDJK3JC6FCW5G2FUBZ575M",
+              goldfishVideoId: "RLVWQDJK3JC6FCW5G2FUBZ575M",
+              urlId: "96212749",
+              site: "L.A. Now",
+              date: "Mar 19, 2018",
+              duration: "27541",
+              description: "Rainfall rates could exceed a half-inch per hour, which is enough to cause mudflows and flash flooding.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96212749",
+  "data-arctrack-item-classification": "Environment",
+  "data-arctrack-item-name": "A storm moving toward SoCal will bring a long period of steady rain",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/-kCX6zMvZOKs_zvOjupkgvuxS60=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-20-2018/t_1521568780794_name_la_me_tensions_grow_as_another_package_bomb_believed_bound_for_austin_explodes_at_fedex_facility_video_20180320",
+              headline: "Tensions grow as another package bomb believed bound for Austin explodes at FedEx facility",
+              brightcoveVideoId: "7FEKOYCE55HX7JGKW6VJNRRIIM",
+              goldfishVideoId: "7FEKOYCE55HX7JGKW6VJNRRIIM",
+              urlId: "96218058",
+              site: "L.A. Now",
+              date: "Mar 20, 2018",
+              duration: "207424",
+              description: "Austin police spokeswoman Destiny Winston comments on a package believed to be bound for Austin exploded at a FedEx facility about 60 miles south early Tuesday.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96218058",
+  "data-arctrack-item-classification": "NewsSomber",
+  "data-arctrack-item-name": "Tensions grow as another package bomb believed bound for Austin explodes at FedEx facility",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/ADaC0bNoWIV8yt_XmvshMcCvMTs=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-20-2018/t_1521506656785_name_la_fi_spacex_may_have_big_manufacturing_plans_for_the_port_of_los_angeles_video_20180319",
+              headline: "SpaceX may have big manufacturing plans for the Port of Los Angeles",
+              brightcoveVideoId: "E5MQARAL55BH5HOM3T4KHMFEVE",
+              goldfishVideoId: "E5MQARAL55BH5HOM3T4KHMFEVE",
+              urlId: "96212735",
+              site: "L.A. Now",
+              date: "Mar 19, 2018",
+              duration: "26432",
+              description: "SpaceX has entered into preliminary negotiations with the Port of Los Angeles for a lease.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96212735",
+  "data-arctrack-item-classification": "Business",
+  "data-arctrack-item-name": "SpaceX may have big manufacturing plans for the Port of Los Angeles",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/NqDwE4GBnq1r0sHIZLNbqqd3joE=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-18-2018/t_1521408413897_name_la_me_runners_rejoice_in_completed_the_33rd_la_marathon_video_20180318",
+              headline: "Runners rejoice in completing the L.A. Marathon",
+              brightcoveVideoId: "JR5HHDCBIZAXHFWRO273EGNCH4",
+              goldfishVideoId: "JR5HHDCBIZAXHFWRO273EGNCH4",
+              urlId: "96202852",
+              site: "L.A. Now",
+              date: "Mar 18, 2018",
+              duration: "110720",
+              description: "Runners crossed the finish line with excitement at the 33rd Los Angeles Marathon. (Video by Christina House / Los Angeles Times)",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96202852",
+  "data-arctrack-item-classification": "Entertainment",
+  "data-arctrack-item-name": "Runners rejoice in completing the L.A. Marathon",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/NTPE-p-aBedH2yPJcIcbx8Nwi3g=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-16-2018/t_1521229723176_name_la_weekend_roundup_7_stories_you_can_t_miss_20180316",
+              headline: "Weekend Roundup: 7 stories you can&#039;t miss",
+              brightcoveVideoId: "65HMZ33SMZGRVMQH3GUOSPKOOA",
+              goldfishVideoId: "65HMZ33SMZGRVMQH3GUOSPKOOA",
+              urlId: "96190360",
+              site: "L.A. Now",
+              date: "Mar 17, 2018",
+              duration: "166208",
+              description: "Republicans were hoping their success on taxes would be their major issue heading into the midterms. At 61, Haspel is a veteran CIA operative who navigated challenging foreign assignments. Republicans announced Monday that the House Intelligence Committee has not found any evidence of collusion. Police have linked three package bombings that have killed two people in Austin over the last 10 days. Some Democrats don&#039;t like the breaks for larger banks. An L.A. Times analysis found lawmakers have voted to ban oversized vehicles from parking overnight on more than 300 street segment. The death of a French bulldog on a United Airlines flight this week has prompted a policy change by the carrier.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96190360",
+  "data-arctrack-item-classification": "NewsNeutral",
+  "data-arctrack-item-name": "Weekend Roundup: 7 stories you can&#039;t miss",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/r6xrdvzOd0AQxYfxpbQpfa3Sp5U=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-19-2018/t_1521465978267_name_la_me_airlines_propose_long_list_of_rules_to_kill_video_20180319",
+              headline: "Airlines propose long list of rules to kill or revise as part of Trump deregulation initiative",
+              brightcoveVideoId: "IGCXABBB2JEDXGFEOYEIMJ5SLE",
+              goldfishVideoId: "IGCXABBB2JEDXGFEOYEIMJ5SLE",
+              urlId: "96206285",
+              site: "L.A. Now",
+              date: "Mar 19, 2018",
+              duration: "32320",
+              description: "Airlines are required to give passengers the option to get off a flight that is delayed too long on a tarmac.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96206285",
+  "data-arctrack-item-classification": "NewsNeutral",
+  "data-arctrack-item-name": "Airlines propose long list of rules to kill or revise as part of Trump deregulation initiative",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/vQcF_iGXB0xRxd2wn99HIItQhn8=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-16-2018/t_1521164227570_name_la_fi_dog_death_on_united_airlines_prompts_legislative_proposal_and_policy_change_video_20180315",
+              headline: "Dog death on United Airlines prompts legislative proposal and policy change",
+              brightcoveVideoId: "3UIWI4KVBZFYFJBV34QC7X4DQA",
+              goldfishVideoId: "3UIWI4KVBZFYFJBV34QC7X4DQA",
+              urlId: "96184176",
+              site: "L.A. Now",
+              date: "Mar 15, 2018",
+              duration: "26474",
+              description: "The death of a French bulldog on a United Airlines flight this week has prompted a policy change by the carrier.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96184176",
+  "data-arctrack-item-classification": "NewsSomber",
+  "data-arctrack-item-name": "Dog death on United Airlines prompts legislative proposal and policy change",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/s2FX8_V2Y8fC6wkramVOL_RJYXU=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-16-2018/t_1521212298266_name_la_me_death_toll_in_florida_bridge_collapse_hits_6_video_20180316",
+              headline: "Death toll in Florida bridge collapse hits 6",
+              brightcoveVideoId: "EW2C254BIBBN7BPPP3QXAOQ73I",
+              goldfishVideoId: "EW2C254BIBBN7BPPP3QXAOQ73I",
+              urlId: "96187314",
+              site: "L.A. Now",
+              date: "Mar 16, 2018",
+              duration: "50560",
+              description: "The $14.2-million pedestrian bridge was supposed to open in 2019 as a safe way to cross a busy six-lane road between the university campus and the community of Sweetwater, where many students live.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96187314",
+  "data-arctrack-item-classification": "NewsSomber",
+  "data-arctrack-item-name": "Death toll in Florida bridge collapse hits 6",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/J-LR9dOmaG9wmI5ad2PkagOSspg=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-16-2018/t_1521163386056_name_la_me_overnight_rv_parking_bans_on_l_a_streets_grow_video_20180315_scaled.jpg",
+              headline: "Overnight RV parking bans on L.A. streets grow",
+              brightcoveVideoId: "XZRY4WYFN5GETN6NMOCPY4RNIE",
+              goldfishVideoId: "XZRY4WYFN5GETN6NMOCPY4RNIE",
+              urlId: "96184012",
+              site: "L.A. Now",
+              date: "Mar 15, 2018",
+              duration: "28074",
+              description: "An L.A. Times analysis found lawmakers have voted to ban oversized vehicles from parking overnight on more than 300 street segment.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96184012",
+  "data-arctrack-item-classification": "NewsSomber",
+  "data-arctrack-item-name": "Overnight RV parking bans on L.A. streets grow",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/hky1kNVxMVAg17W5JHeGWsmFu7k=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-15-2018/t_1521074274068_name_la_fi_senate_eases_some_post_financial_crisis_bank_regulations_video_20180314",
+              headline: "Senate eases some post-financial crisis bank regulations",
+              brightcoveVideoId: "27X4U2AK6BEGJD6UZF5ZLPBCJA",
+              goldfishVideoId: "27X4U2AK6BEGJD6UZF5ZLPBCJA",
+              urlId: "96173527",
+              site: "L.A. Now",
+              date: "Mar 14, 2018",
+              duration: "18069",
+              description: "Some Democrats don&#039;t like the breaks for larger banks.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96173527",
+  "data-arctrack-item-classification": "Politics",
+  "data-arctrack-item-name": "Senate eases some post-financial crisis bank regulations",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/EpM5wGCaR6Kgt1JE-BAC-1LV3qc=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-15-2018/t_1521072891847_name_la_na_pol_democrat_conor_lamb_held_a_narrow_lead_over_saccone_on_wednesday_video_20180314",
+              headline: "Democrat Conor Lamb held a narrow lead over Saccone on Wednesday",
+              brightcoveVideoId: "MUDFCYTLEFAPTKEC276LO7C55M",
+              goldfishVideoId: "MUDFCYTLEFAPTKEC276LO7C55M",
+              urlId: "96173333",
+              site: "L.A. Now",
+              date: "Mar 14, 2018",
+              duration: "26538",
+              description: "Republicans were hoping their success on taxes would be their major issue heading into the midterms.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96173333",
+  "data-arctrack-item-classification": "Politics",
+  "data-arctrack-item-name": "Democrat Conor Lamb held a narrow lead over Saccone on Wednesday",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/6-eH-hr6dSSC3NLX3_PYeUvHNKU=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-14-2018/t_1520993340959_name_la_na_pol_gina_haspel_is_president_trump_s_choice_for_new_cia_director_video_20180313",
+              headline: "Gina Haspel is President Trump&#039;s choice for new CIA director",
+              brightcoveVideoId: "XL4Z7ARMKZA37PWK3VKE4QR2JI",
+              goldfishVideoId: "XL4Z7ARMKZA37PWK3VKE4QR2JI",
+              urlId: "96162614",
+              site: "L.A. Now",
+              date: "Mar 13, 2018",
+              duration: "21034",
+              description: "At 61, Haspel is a veteran CIA operative who navigated challenging foreign assignments.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96162614",
+  "data-arctrack-item-classification": "Politics",
+  "data-arctrack-item-name": "Gina Haspel is President Trump&#039;s choice for new CIA director",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/w4bx0tGr27711fy2H3AA1XjEd0E=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-14-2018/t_1521053183890_name_la_me_thousands_of_students_walkout_of_school_to_protest_gun_violence_vid_20180314",
+              headline: "Thousands of students walk out of school to protest gun violence",
+              brightcoveVideoId: "2DG2W4SA2FEVDJ46NEU7RWXNMU",
+              goldfishVideoId: "2DG2W4SA2FEVDJ46NEU7RWXNMU",
+              urlId: "96169116",
+              site: "L.A. Now",
+              date: "Mar 14, 2018",
+              duration: "203605",
+              description: "Students across Los Angeles joined thousands nationwide today in walking out of their classes to protest gun violence and school shootings.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96169116",
+  "data-arctrack-item-classification": "NewsSomber",
+  "data-arctrack-item-name": "Thousands of students walk out of school to protest gun violence",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/rRuzGIYgw1pRFvDD_rZFWzlVrxU=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-14-2018/t_1520990576106_name_la_et_chief_curator_at_the_museum_of_contemporary_art_has_been_fired_video_20180313",
+              headline: "Chief curator at the Museum of Contemporary Art has been fired",
+              brightcoveVideoId: "VXJOAL77INF55EOSNHYEPHO2C4",
+              goldfishVideoId: "VXJOAL77INF55EOSNHYEPHO2C4",
+              urlId: "96162270",
+              site: "L.A. Now",
+              date: "Mar 13, 2018",
+              duration: "22528",
+              description: "Helen Molesworth had been responsible as lead curator for the museum&#039;s two most critically admired shows.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96162270",
+  "data-arctrack-item-classification": "NewsNeutral",
+  "data-arctrack-item-name": "Chief curator at the Museum of Contemporary Art has been fired",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/auJuwV0IFdhcHbxlW6ywpaYpeUc=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-13-2018/t_1520903569476_name_la_na_pol_house_intelligence_committee_s_russia_investigation_claiming_no_evidence_of_collusion_video_20180312",
+              headline: "House Intelligence Committee&#039;s Russia investigation, claiming no evidence of collusion",
+              brightcoveVideoId: "DVVQVD7J35BKNGJ5OAEPCODYWU",
+              goldfishVideoId: "DVVQVD7J35BKNGJ5OAEPCODYWU",
+              urlId: "96151120",
+              site: "L.A. Now",
+              date: "Mar 12, 2018",
+              duration: "25365",
+              description: "Republicans announced Monday that the House Intelligence Committee has not found any evidence of collusion",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96151120",
+  "data-arctrack-item-classification": "Politics",
+  "data-arctrack-item-name": "House Intelligence Committee&#039;s Russia investigation, claiming no evidence of collusion",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/T0N4110cKcWOvvG_dhAi5aXeQg4=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-13-2018/t_1520980241796_name_la_na_pol_president_trumps_day_in_california_video_20180313",
+              headline: "President Trump&#039;s day in California",
+              brightcoveVideoId: "FIBM7QHODRG3JK5NMQV7WURCKI",
+              goldfishVideoId: "FIBM7QHODRG3JK5NMQV7WURCKI",
+              urlId: "96160436",
+              site: "L.A. Now",
+              date: "Mar 13, 2018",
+              duration: "183637",
+              description: "President Trump visited California for the first time as president March 13.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96160436",
+  "data-arctrack-item-classification": "Politics",
+  "data-arctrack-item-name": "President Trump&#039;s day in California",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/GwU8-I6Y526xCS0MrdIBKgTEK7U=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-13-2018/t_1520903268963_name_la_na_three_package_bombings_at_austin_homes_are_linked_police_say_two_dead_video_20180312",
+              headline: "Three package bombings at Austin homes are linked, police say; two dead",
+              brightcoveVideoId: "D2XSJJA3YVGZNH53M5HVMDOH7I",
+              goldfishVideoId: "D2XSJJA3YVGZNH53M5HVMDOH7I",
+              urlId: "96151083",
+              site: "L.A. Now",
+              date: "Mar 12, 2018",
+              duration: "23893",
+              description: "Police have linked three package bombings that have killed two people in Austin over the last 10 days.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96151083",
+  "data-arctrack-item-classification": "NewsSomber",
+  "data-arctrack-item-name": "Three package bombings at Austin homes are linked, police say; two dead",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/j_-lS5UiJUEos3G79Eo_tfeUNpM=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-09-2018/t_1520555549673_name_la_weekend_roundup_7_stories_you_can_t_miss_video_20180308",
+              headline: "Weekend Roundup: 7 stories you can&#039;t miss",
+              brightcoveVideoId: "MDFTWNR4SFGHFB6ONG2EESDHAA",
+              goldfishVideoId: "MDFTWNR4SFGHFB6ONG2EESDHAA",
+              urlId: "96123186",
+              site: "L.A. Now",
+              date: "Mar 10, 2018",
+              duration: "148074",
+              description: "He arrived a day after suing California over its laws to shield immigrants living in the state illegally. The move is almost certain to be met with retaliatory measures from other nations, risking a trade war. The move comes in the wake of Trump&#039;s announcement to impose stiff tariffs on imported steel and aluminum. While in California, he&#039;ll inspect prototypes for his proposed southern border wall. There are 15 lawmakers whose net worth shows negative territory, mostly due to mortgages and lines of credit. There was reportedly $50 million more debt on the company&#039;s books than previously thought. They demanded the company provide a \&#034;living wage\&#034; for the resort&#039;s 30,000 workers.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96123186",
+  "data-arctrack-item-classification": "NewsSomber",
+  "data-arctrack-item-name": "Weekend Roundup: 7 stories you can&#039;t miss",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/LRJ9QqJXkjIKbbPur2mTeMWYGWY=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-12-2018/t_1520861198658_name_la_me_rookie_pomona_officer_killed_after_suspect_fires_through_a_door_20180312",
+              headline: "Rookie Pomona officer killed after suspect fires through a door",
+              brightcoveVideoId: "MCAIQPNLAZHBJOI6WJ44YSBL2Y",
+              goldfishVideoId: "MCAIQPNLAZHBJOI6WJ44YSBL2Y",
+              urlId: "96144495",
+              site: "L.A. Now",
+              date: "Mar 12, 2018",
+              duration: "35157",
+              description: "Officer Greggory Casillas, a 30-year-old Upland father, had been on the job for just six months.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96144495",
+  "data-arctrack-item-classification": "NewsSomber",
+  "data-arctrack-item-name": "Rookie Pomona officer killed after suspect fires through a door",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/wVb1heETj-xcQfyoFGC7RBmCeX0=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-08-2018/t_1520551042340_name_la_fi_trump_unveiled_a_plan_to_impose_tariffs_on_steel_and_aluminum_imports_from_across_the_globe_video_20180308",
+              headline: "Trump unveiled a plan to impose tariffs on steel and aluminum imports from across the globe",
+              brightcoveVideoId: "TSQLT5ALFBGZVFX4FH57XIK7WM",
+              goldfishVideoId: "TSQLT5ALFBGZVFX4FH57XIK7WM",
+              urlId: "96121975",
+              site: "L.A. Now",
+              date: "Mar 08, 2018",
+              duration: "18453",
+              description: "The move is almost certain to be met with retaliatory measures from other nations, risking a trade war",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96121975",
+  "data-arctrack-item-classification": "Politics",
+  "data-arctrack-item-name": "Trump unveiled a plan to impose tariffs on steel and aluminum imports from across the globe",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/rx-ucSu9peMAHCHx1E1W7IXRyNI=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-08-2018/t_1520550982242_name_la_fi_disneyland_resort_workers_demonstrated_outside_walt_disney_co_s_shareholders_meeting_video_20180308",
+              headline: "Disneyland Resort workers demonstrated outside Walt Disney Co.&#039;s shareholders meeting",
+              brightcoveVideoId: "TZX3TIW52FEQBMUB7IRHVZBUPY",
+              goldfishVideoId: "TZX3TIW52FEQBMUB7IRHVZBUPY",
+              urlId: "96122418",
+              site: "L.A. Now",
+              date: "Mar 08, 2018",
+              duration: "20096",
+              description: "They demanded the company provide a \&#034;living wage\&#034; for the resort&#039;s 30,000 workers",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96122418",
+  "data-arctrack-item-classification": "NewsSomber",
+  "data-arctrack-item-name": "Disneyland Resort workers demonstrated outside Walt Disney Co.&#039;s shareholders meeting",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/tZlTRfsilSDQTiJjks1ZeE6FXIc=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-08-2018/t_1520474374619_name_la_na_pol_president_trump_will_visit_the_golden_state_on_tuesday_video_20180307",
+              headline: "President Trump will visit the Golden State on Tuesday",
+              brightcoveVideoId: "A4FAPVENIBF5ZLROQXWPTIBBOU",
+              goldfishVideoId: "A4FAPVENIBF5ZLROQXWPTIBBOU",
+              urlId: "96113545",
+              site: "L.A. Now",
+              date: "Mar 07, 2018",
+              duration: "23296",
+              description: "While in California, he&#039;ll inspect prototypes for his proposed southern border wall",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96113545",
+  "data-arctrack-item-classification": "Politics",
+  "data-arctrack-item-name": "President Trump will visit the Golden State on Tuesday",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/MUpdUSFh_uMpLgguwykmsgZnnpY=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-07-2018/t_1520459593959_name_la_ent_jessica_jones_season_2_directors_video_20180307",
+              headline: "&#039;Jessica Jones&#039; directors talk character and women in charge",
+              brightcoveVideoId: "IBLVHGUCMZEKTB7CD7DNYCO7JE",
+              goldfishVideoId: "IBLVHGUCMZEKTB7CD7DNYCO7JE",
+              urlId: "96109443",
+              site: "L.A. Now",
+              date: "Mar 08, 2018",
+              duration: "237738",
+              description: "Every episode of Season 2&#039;s &#039;Jessica Jones&#039; was directed by a woman. Some of the directors talk about the character&#039;s timeliness and how the industry has changed.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96109443",
+  "data-arctrack-item-classification": "Entertainment",
+  "data-arctrack-item-name": "&#039;Jessica Jones&#039; directors talk character and women in charge",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/Ym9pLbMEvVe8Yq2FNRFXMDsuZGU=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-08-2018/t_1520470050361_name_la_pol_ca_u_s_atty_gen_jeff_sessions_arrived_in_sacramento_on_wednesday_video_20180307",
+              headline: "U.S. Atty. Gen. Jeff Sessions arrived in Sacramento on Wednesday",
+              brightcoveVideoId: "TQ3GZLNXQJHOVPJBR636ZWWI3Q",
+              goldfishVideoId: "TQ3GZLNXQJHOVPJBR636ZWWI3Q",
+              urlId: "96113016",
+              site: "L.A. Now",
+              date: "Mar 07, 2018",
+              duration: "26069",
+              description: "He arrived a day after suing California over its laws to shield immigrants living in the state illegally",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96113016",
+  "data-arctrack-item-classification": "Politics",
+  "data-arctrack-item-name": "U.S. Atty. Gen. Jeff Sessions arrived in Sacramento on Wednesday",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/Ai2f6GMNQWVnnnrZu8UisLHGTrA=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-07-2018/t_1520389054960_name_la_fi_trump_s_chief_economic_advisor_gary_cohn_is_planning_to_resign_video_20180306",
+              headline: "Trump’s chief economic advisor, Gary Cohn, is planning to resign",
+              brightcoveVideoId: "WEWM4M2PBFBZ5ENHBUNVSBKYJY",
+              goldfishVideoId: "WEWM4M2PBFBZ5ENHBUNVSBKYJY",
+              urlId: "96103496",
+              site: "L.A. Now",
+              date: "Mar 06, 2018",
+              duration: "20992",
+              description: "The move comes in the wake of Trump&#039;s announcement to impose stiff tariffs on imported steel and aluminum.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96103496",
+  "data-arctrack-item-classification": "Politics",
+  "data-arctrack-item-name": "Trump’s chief economic advisor, Gary Cohn, is planning to resign",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/sQYk8G-T5Wo7LIQzgJGyQvOuU0Q=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-07-2018/t_1520441266176_name_la_na_pol_trump_administration_sues_california_over_laws_protecting_immigrants_video_20180307",
+              headline: "Trump administration sues California over laws protecting immigrants",
+              brightcoveVideoId: "A36H3CUDJNDLTOKHUWOR6HUITQ",
+              goldfishVideoId: "A36H3CUDJNDLTOKHUWOR6HUITQ",
+              urlId: "96107375",
+              site: "L.A. Now",
+              date: "Mar 07, 2018",
+              duration: "37610",
+              description: "Administration officials say the three laws in question, all passed by the Legislature last year, blatantly obstruct federal immigration law and thus violate the Constitution&#039;s supremacy clause, which gives federal law precedence over state enactments.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96107375",
+  "data-arctrack-item-classification": "Politics",
+  "data-arctrack-item-name": "Trump administration sues California over laws protecting immigrants",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/hLSN8uLbAJ2GgiNKINahdAVHZ8M=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-07-2018/t_1520389652914_name_la_fi_the_deal_to_acquire_harvey_weinstein_s_former_movie_and_tv_studio_collapsed_video_20180306",
+              headline: "The deal to acquire Harvey Weinstein’s former movie and TV studio collapsed",
+              brightcoveVideoId: "H6R6RWGYCFBDTM4VDWTCAEB2KY",
+              goldfishVideoId: "H6R6RWGYCFBDTM4VDWTCAEB2KY",
+              urlId: "96103539",
+              site: "L.A. Now",
+              date: "Mar 06, 2018",
+              duration: "22208",
+              description: "There was reportedly $50 million more debt on the company&#039;s books than previously thought.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96103539",
+  "data-arctrack-item-classification": "Entertainment",
+  "data-arctrack-item-name": "The deal to acquire Harvey Weinstein’s former movie and TV studio collapsed",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/fBU_zOCE0QsjBbhIKsS_bFpHyMQ=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-06-2018/t_1520300125698_name_la_pol_ca_california_s_members_of_congress_are_worth_at_least_439_million_video_20180305",
+              headline: "California&#039;s members of Congress are worth at least $439 million",
+              brightcoveVideoId: "WN4VLQVSYBF6LOKPUA5HNH6CJE",
+              goldfishVideoId: "WN4VLQVSYBF6LOKPUA5HNH6CJE",
+              urlId: "96092835",
+              site: "L.A. Now",
+              date: "Mar 05, 2018",
+              duration: "20992",
+              description: "There are 15 lawmakers whose net worth shows negative territory, mostly due to mortgages and lines of credit",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96092835",
+  "data-arctrack-item-classification": "Politics",
+  "data-arctrack-item-name": "California&#039;s members of Congress are worth at least $439 million",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/mXljB9Dhtz2MRDrwM3niOHwaJIg=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-06-2018/t_1520299584787_name_la_me_suge_knights_two_attorneys_are_facing_criminal_conspiracy_charges_video_20180305",
+              headline: "Suge Knight&#039;s two attorneys are facing criminal conspiracy charges",
+              brightcoveVideoId: "IB43IVZTSRCTZCOTGY6DS4QJGA",
+              goldfishVideoId: "IB43IVZTSRCTZCOTGY6DS4QJGA",
+              urlId: "96092724",
+              site: "L.A. Now",
+              date: "Mar 05, 2018",
+              duration: "22293",
+              description: "Two attorneys who have represented Marion \&#034;Suge\&#034; Knight in his murder case are facing criminal conspiracy charges",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96092724",
+  "data-arctrack-item-classification": "Crime",
+  "data-arctrack-item-name": "Suge Knight&#039;s two attorneys are facing criminal conspiracy charges",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/eSjWWaNMs6zsg9qO0ha0JJHaqHs=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-05-2018/t_1520226880047_name_la_ent_the_best_and_worst_parts_about_awards_season_video_20180304",
+              headline: "The best and worst parts about awards season",
+              brightcoveVideoId: "IETPG6IBNZBAZHIQMZSVZFNQKA",
+              goldfishVideoId: "IETPG6IBNZBAZHIQMZSVZFNQKA",
+              urlId: "96083513",
+              site: "L.A. Now",
+              date: "Mar 04, 2018",
+              duration: "212544",
+              description: "On the Oscars red carpet, attendees at the 90th Academy Awards reflect on the best and worst parts of awards season.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96083513",
+  "data-arctrack-item-classification": "Entertainment",
+  "data-arctrack-item-name": "The best and worst parts about awards season",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/Rb4SBBPp420YfRW_9DKn7ujcQ3o=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-05-2018/t_1520267376113_name_la_ent_2018_academy_awards_red_carpet_timelapse_video_20180305_scaled.jpg",
+              headline: "2018 Academy Awards red carpet time lapse",
+              brightcoveVideoId: "ZJWOWNVXXVGRJEGBV2YNO22M5I",
+              goldfishVideoId: "ZJWOWNVXXVGRJEGBV2YNO22M5I",
+              urlId: "96087182",
+              site: "L.A. Now",
+              date: "Mar 05, 2018",
+              duration: "99477",
+              description: "Los Angeles Times photograhper Jay L. Clendenin gives us a first-person view of the 2018 Academy Awards red carpet.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96087182",
+  "data-arctrack-item-classification": "Entertainment",
+  "data-arctrack-item-name": "2018 Academy Awards red carpet time lapse",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/L90N27Rk44R535gn-GTwIKZvhlk=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-05-2018/t_1520226940151_name_la_ent_thoughts_on_the_movements_in_hollywood_20180304",
+              headline: "Thoughts on the movements in Hollywood",
+              brightcoveVideoId: "AOZZWTI7LBB33DFPPGCH6IBK54",
+              goldfishVideoId: "AOZZWTI7LBB33DFPPGCH6IBK54",
+              urlId: "96083062",
+              site: "L.A. Now",
+              date: "Mar 04, 2018",
+              duration: "164992",
+              description: "Thoughts on the movements in Hollywood",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96083062",
+  "data-arctrack-item-classification": "Entertainment",
+  "data-arctrack-item-name": "Thoughts on the movements in Hollywood",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/Z76PjrDIrUDC5HAAzH1v__wgpHs=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-05-2018/t_1520210837654_name_la_na_pol_trump_is_determined_to_impose_tariffs_on_imported_steel_and_aluminum_video_20180304",
+              headline: "Trump is determined to impose tariffs on imported steel and aluminum",
+              brightcoveVideoId: "BGF46GMZGFAIZKHNUYXVB4JNNQ",
+              goldfishVideoId: "BGF46GMZGFAIZKHNUYXVB4JNNQ",
+              urlId: "96081319",
+              site: "L.A. Now",
+              date: "Mar 04, 2018",
+              duration: "21738",
+              description: "Trump announced Thursday that he would invoke a little-used legal provision to impose the duties",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96081319",
+  "data-arctrack-item-classification": "NewsNeutral",
+  "data-arctrack-item-name": "Trump is determined to impose tariffs on imported steel and aluminum",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/_KJaiTyNrJf6V7Ta78nJXGrB2Cs=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-05-2018/t_1520211678795_name_la_me_crowds_return_a_day_after_mammoth_avalanche_video_20180304",
+              headline: "Crowds return a day after Mammoth avalanche",
+              brightcoveVideoId: "BRH67TYSGNC5RNC4Y26UNJGOD4",
+              goldfishVideoId: "BRH67TYSGNC5RNC4Y26UNJGOD4",
+              urlId: "96081362",
+              site: "L.A. Now",
+              date: "Mar 04, 2018",
+              duration: "21738",
+              description: "Hordes of anxious skiers and snowboarders made their way to Mammoth Mountain on Sunday",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96081362",
+  "data-arctrack-item-classification": "NewsNeutral",
+  "data-arctrack-item-name": "Crowds return a day after Mammoth avalanche",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/HzK7f0EuD6LAvpoP4GJO3Wp4jLI=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-02-2018/t_1519961619528_name_la_weekend_roundup_7_stories_you_can_t_miss_video_20180301",
+              headline: "Weekend Roundup: 7 stories you can&#039;t miss",
+              brightcoveVideoId: "GTIXMRTKLRC4HJGUVKLQYRIARY",
+              goldfishVideoId: "GTIXMRTKLRC4HJGUVKLQYRIARY",
+              urlId: "96061825",
+              site: "L.A. Now",
+              date: "Mar 03, 2018",
+              duration: "194197",
+              description: "The Russian president boasted that the weapons are capable of bypassing any missile defense system. NRA spokeswoman Dana Loesch said the gun lobby does not believe the age for purchases should be raised from 18. President Trump&#039;s son-in-law and senior advisor, Jared Kushner, has lost access to top-secret information. Oakland Mayor Libby Schaaf alerted residents that Immigration and Customs Enforcement agents would be conducting operations there. President Trump&#039;s communications director and close aide Hope Hicks announced her resignation Wednesday. The Supreme Court ruled that immigrants held in jail pending their possible deportation have no right to a bail hearing. Two years ago, a state audit found Maywood was more than $15 million in debt.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96061825",
+  "data-arctrack-item-classification": "NewsNeutral",
+  "data-arctrack-item-name": "Weekend Roundup: 7 stories you can&#039;t miss",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/C-mAUIdZ73-0H2YZ_9shjxM4DS8=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-02-2018/t_1520004577218_name_la_ent_how_la_times_photographer_al_seib_captured_a_surreal_oscar_moment_video_20180302",
+              headline: "How L.A. Times photographer Al Seib captured a surreal Oscar moment",
+              brightcoveVideoId: "WYVJWDYJXVGN7MMOKLDSWAFFQU",
+              goldfishVideoId: "WYVJWDYJXVGN7MMOKLDSWAFFQU",
+              urlId: "96063955",
+              site: "L.A. Now",
+              date: "Mar 02, 2018",
+              duration: "96234",
+              description: "Los Angeles Times photographer Al Seib has been covering the Academy Awards for years and has never seen anything like the 2017 best picture debacle. He recounts the moment and how he captured the famous crowd shot.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96063955",
+  "data-arctrack-item-classification": "Entertainment",
+  "data-arctrack-item-name": "How L.A. Times photographer Al Seib captured a surreal Oscar moment",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/eIn3BgFrT1IKNOaB29k53RkiGBc=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-02-2018/t_1519958914886_name_la_fg_russia_has_developed_a_new_generation_of_nuclear_weapons_video_20180301",
+              headline: "Russia has developed a new generation of nuclear weapons",
+              brightcoveVideoId: "6XGWJJVQZZD63C7IEQHKY5KH7M",
+              goldfishVideoId: "6XGWJJVQZZD63C7IEQHKY5KH7M",
+              urlId: "96061600",
+              site: "L.A. Now",
+              date: "Mar 01, 2018",
+              duration: "20224",
+              description: "The Russian president boasted that the weapons are capable of bypassing any missile defense system",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96061600",
+  "data-arctrack-item-classification": "NewsSomber",
+  "data-arctrack-item-name": "Russia has developed a new generation of nuclear weapons",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/2yPzpldjq_7FB20TwbDXmdWJ-jA=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-02-2018/t_1519960116849_name_la_fg_the_u_s_ambassador_to_mexico_is_quitting_video_20180301",
+              headline: "The U.S. ambassador to Mexico is quitting",
+              brightcoveVideoId: "YBYCTGQQ6ZHMJHLTDR7ANMBTWI",
+              goldfishVideoId: "YBYCTGQQ6ZHMJHLTDR7ANMBTWI",
+              urlId: "96061741",
+              site: "L.A. Now",
+              date: "Mar 01, 2018",
+              duration: "20224",
+              description: "Roberta Jacobson, the U.S. ambassador to Mexico, said Thursday that she is quitting",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96061741",
+  "data-arctrack-item-classification": "NewsNeutral",
+  "data-arctrack-item-name": "The U.S. ambassador to Mexico is quitting",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/OGaNexI189CZHo0TYl2GlJ_8xk4=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-01-2018/t_1519865542412_name_la_me_follow_the_path_of_the_montecito_mudslide_video_20180228_scaled.jpg",
+              headline: "Follow the path of the Montecito mudslide",
+              brightcoveVideoId: "ZH56ZZZJGVBNBFWGE4X46455DA",
+              goldfishVideoId: "ZH56ZZZJGVBNBFWGE4X46455DA",
+              urlId: "96048792",
+              site: "L.A. Now",
+              date: "Feb 28, 2018",
+              duration: "155541",
+              description: "Drone video: Follow the path of January&#039;s Montecito mudslide from the mountains to the sea. (Video by Brian van der Brug/Los Angeles Times)",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96048792",
+  "data-arctrack-item-classification": "NewsSomber",
+  "data-arctrack-item-name": "Follow the path of the Montecito mudslide",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/26BaE53rjiZyqZ_e2ggz114OTq0=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-01-2018/t_1519929470424_name_la_et_oscars_set_up_outside_dolby_theater_video_scaled.jpg",
+              headline: "Countdown to the Oscars | Set-up outside the Dolby Theater in Hollywood",
+              brightcoveVideoId: "QIZHVLLK2VDM3CMMVKU57PQRCE",
+              goldfishVideoId: "QIZHVLLK2VDM3CMMVKU57PQRCE",
+              urlId: "96056071",
+              site: "L.A. Now",
+              date: "Mar 01, 2018",
+              duration: "33074",
+              description: "A very quick look at the work and play taking place in the run-up to this year&#039;s Academy Awards ceremony.",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96056071",
+  "data-arctrack-item-classification": "Entertainment",
+  "data-arctrack-item-name": "Countdown to the Oscars | Set-up outside the Dolby Theater in Hollywood",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+          
+            
+              
+                
+                
+                  
+                
+              
+            
+            
+          
+
+          
+
+            
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+  
+  
+
+
+            
+
+            
+            
+
+            
+              
+                  
+              
+              
+            
+
+            
+              
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+              
+              
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+            {
+              type: "video",
+              system: "Goldfish",
+              url: "http://www.latimes.com/resizer/NXkaVIzpukmppjWk_Z2BdS3__0s=/140x79/s3.amazonaws.com/arc-goldfish-tronc-thumbnails/03-01-2018/t_1519870350195_name_la_na_pol_trump_s_communications_director_hope_hicks_announced_her_resignation_wednesday_video_20180228",
+              headline: "Trump&#039;s communications director Hope Hicks announced her resignation Wednesday",
+              brightcoveVideoId: "XEPCEV5XMVFAVIUIUCGY3WD37Q",
+              goldfishVideoId: "XEPCEV5XMVFAVIUIUCGY3WD37Q",
+              urlId: "96051440",
+              site: "L.A. Now",
+              date: "Feb 28, 2018",
+              duration: "23744",
+              description: "President Trump&#039;s communications director and close aide Hope Hicks announced her resignation Wednesday",
+              rand: "149571",
+              analyticsData: 
+
+
+
+
+  
+  
+    
+      
+      
+    
+    
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+     
+  
+  
+
+
+  
+{
+  "data-arctrack-item-page": "",
+  "data-arctrack-item-producer": "lanews",
+  "data-arctrack-item-videoid": "96051440",
+  "data-arctrack-item-classification": "NewsNeutral",
+  "data-arctrack-item-name": "Trump&#039;s communications director Hope Hicks announced her resignation Wednesday",
+  "data-arctrack-item-autoplay": "false"
+}
+
+
+            },
+          
+        
+      ]
+
+      if (videos149571.length > 0) {
+        window.serviceCallbacks.push(function() {
+          window.services.lazyLoadService.addPendingObject({
+            id: 149571,
+            el: document.getElementById("pb-149571"),
+            load: function() {
+              services.mountComponent({
+                component: 'VideoComponent',
+                props: {
+                  videos: videos149571,
+                  sharebar: "<span class=\"sharebar \">    <button class=\"button button-icon button-icon-hover-accent button-icon-accent\"          aria-label=\"share on twitter\"          name=\"twitter\"          onclick=\"window.open(      'https://twitter.com/intent/tweet?text=Trump%27s+move+to+order+some+%2450+billion+in+tariffs&url=http%3A%2F%2Fwww.latimes.com%2F96244320-132.html',      'share_popup',      'height=500,width=650'      ); return false;\"          role=\"button\"          data-arctrack=\"socialShareTwtr\"          data-referrer=\"\"                    target=\"_blank\" rel=\"noopener noreferrer\">          <i class=\"fa fa-twitter \"></i>        </button>    <button class=\"button button-icon button-icon-hover-accent button-icon-accent\"            name=\"facebook\"            aria-label=\"share on facebook\"            onclick=\"window.open(      'https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.latimes.com%2F96244320-132.html&title=Trump%27s+move+to+order+some+%2450+billion+in+tariffs',      'share_popup',      'height=500,width=650'      ); return false;\"            data-arctrack=\"socialShareFb\"            data-referrer=\"\"                        target=\"_blank\" rel=\"noopener noreferrer\">          <i class=\"fa fa-facebook-square \"></i>        </button>    <a class=\"button button-icon button-icon-hover-accent button-icon-accent\"      href=\"mailto:?subject=Trump%27s%20move%20to%20order%20some%20%2450%20billion%20in%20tariffs&body=http%3A%2F%2Fwww.latimes.com%2F96244320-132.html\"      role=\"button\"      aria-label=\"share story via email\"      data-arctrack=\"socialShareEmail\"      data-referrer=\"\"      rel=\"noopener noreferrer\">      <i class=\"fa fa-share \"></i>    </a>          </span>",
+                  isPlaylist: true,
+                  showInfo: true,
+                  brightcoveAccountId: "3690581438001",
+                  brightcovePlayerId: "HkhIMtvwW",
+                  goldfishDataOrg: "tronc",
+                  rand: "149571"
+                },
+                id: 149571
+              })
+            }
+          })
+        })
+      }
+      </script> </div> </div> </div> <div id="f00UCZck0AHoMq" class="pb-async pb-feature"></div> <div class="pb-container"> </div> </section> <aside id="right-rail" class="right right-rail guttered flex-container-column"> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-ads-dfp" id="f004tVYk0AHoMq"> <div class="pb-ad pb-ad-prod ad-300x250 hidden-mobile hidden-tablet relative"> <div class="ad-caption-text align-center uppercase">Advertisement</div> <div id="tech_blog_1231" class="hidden" data-ad-type="cube"> </div> </div> <script>(function(){function loadAd(){window.serviceCallbacks.push(function(){if(window.services.dfpService&&window.googletag&&googletag.pubadsReady)window.services.dfpService.appendAd({id:"tech_blog_1231",adType:"cube",slotName:"/4011/trb.latimes/tech/blog",displayMobile:false,displayDesktop:true,isOOP:false,is5x1:false,dimensionsString:"[[300, 600], [300, 250]]",sizemapString:"",sizemapRefresh:"false",refreshOnPhotoChange:false,includeInA9:true,includeInIndexExchange:true,options:{ptype:"s",iab:"biz,",
+apv:"false",site:"trb.latimes",slug:"la-fi-tn-tech-tax-20180321",cid:"96226605",at:"Europe,EuropeanUnion,FacebookInc.,JeffBezos",kw:"user,tax,measure,company,Moscovici,UnitedStates,advocate,Inc,policymaker,proposal,action,profit,leader,revenue,unanimity,titan,Facebook,Europe,countermeasure,plan,uscompany,microscope,Google,europe,datum",tg:"Taxes,PolicyandRegulation",design:"arc",nopulse:true}},false,true);else setTimeout(loadAd,500)})}loadAd()})();</script> </div> <div id="fe4L1q1k0AHoMq" class="pb-async pb-feature"></div> <div id="fbMudj1k0AHoMq" class="pb-async pb-feature"></div> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-article-dynamic-rail-ads" id="fZ9rEz1k0AHoMq"> <div id="dynamic-rail-ads" class="dynamic-rail-wrapper hidden-tablet hidden-mobile" data-slot-name="tech/blog" data-ad-canonical="/business/technology/la-fi-tn-tech-tax-20180321-story.html" data-ad-site="latimes"> </div> </div> <div class="pb-container"> </div> </aside> <aside id="left-bottom" class="left guttered"> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-ads-taboola" id="fVd1iB1k0AHoMq"> <div id="taboola-below-article-thumbs_arc" class="taboola-container" data-vendor-taboolacontenttype="article"></div> </div> <div class="pb-container"> </div> </aside> </article> <section id="bottom" class="full-columns container"> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-ads-dfp" id="f0exfRwk0AHoMq"> <div class="pb-ad pb-ad-prod ad-320x50 hidden-mobile hidden-tablet relative"> <div class="ad-caption-text align-center uppercase">Advertisement</div> <div id="tech_blog_1324" class="hidden" data-ad-type="leaderboard"> </div> </div> <script>(function(){function loadAd(){window.serviceCallbacks.push(function(){if(window.services.dfpService&&window.googletag&&googletag.pubadsReady)window.services.dfpService.appendAd({id:"tech_blog_1324",adType:"leaderboard",slotName:"/4011/trb.latimes/tech/blog",displayMobile:false,displayDesktop:true,isOOP:false,is5x1:false,dimensionsString:" [[[970, 250], [970, 90], [728, 90]], [[728, 90]], [[320, 50]]] ",sizemapString:"[[1280, 0], [800, 0], [0, 0]]",sizemapRefresh:"true",refreshOnPhotoChange:false,
+includeInA9:true,includeInIndexExchange:true,options:{ptype:"s",iab:"biz,",apv:"false",site:"trb.latimes",slug:"la-fi-tn-tech-tax-20180321",cid:"96226605",at:"Europe,EuropeanUnion,FacebookInc.,JeffBezos",kw:"user,tax,measure,company,Moscovici,UnitedStates,advocate,Inc,policymaker,proposal,action,profit,leader,revenue,unanimity,titan,Facebook,Europe,countermeasure,plan,uscompany,microscope,Google,europe,datum",tg:"Taxes,PolicyandRegulation",design:"arc",nopulse:true}},false,true);else setTimeout(loadAd,
+500)})}loadAd()})();</script> </div> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-ads-yieldmo" id="f9hd9D1k0AHoMq"> <div id="ym_1854380921521342301"></div> <script>window.serviceCallbacks.push(function(){if(window.isMobile.any()&&window.services.isAdEnabled("yieldmo")){var el=document.getElementById("ym_1854380921521342301");if(false)window.services.lazyLoadService.addPendingObject({id:"ym_1854380921521342301",el:el,load:function(){window.services.YieldmoService.load({id:"ym_1854380921521342301",el:el})}});else window.services.YieldmoService.load({id:"ym_1854380921521342301",el:el})}});</script> </div> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-ads-dfp" id="fNp0xd2k0AHoMq"> <div class="pb-ad pb-ad-prod ad-5x1 hidden"> <div id="tech_blog_70" class="hidden" data-ad-type="teads-and-tout"> </div> </div> <script>(function(){function loadAd(){window.serviceCallbacks.push(function(){if(window.services.dfpService&&window.googletag&&googletag.pubadsReady)window.services.dfpService.appendAd({id:"tech_blog_70",adType:"teads-and-tout",slotName:"/4011/trb.latimes/tech/blog",displayMobile:true,displayDesktop:true,isOOP:false,is5x1:true,dimensionsString:"[[5, 1]]",sizemapString:"",sizemapRefresh:"false",refreshOnPhotoChange:false,includeInA9:false,includeInIndexExchange:false,options:{ptype:"s",iab:"biz,",apv:"false",
+site:"trb.latimes",slug:"la-fi-tn-tech-tax-20180321",cid:"96226605",at:"Europe,EuropeanUnion,FacebookInc.,JeffBezos",kw:"user,tax,measure,company,Moscovici,UnitedStates,advocate,Inc,policymaker,proposal,action,profit,leader,revenue,unanimity,titan,Facebook,Europe,countermeasure,plan,uscompany,microscope,Google,europe,datum",tg:"Taxes,PolicyandRegulation",design:"arc",nopulse:true}},false,true);else setTimeout(loadAd,500)})}loadAd()})();</script> </div> <div class="wrapper clearfix full pb-feature pb-layout-item pb-f-ads-dfp" id="fM7Hg52k0AHoMq"> <div class="pb-ad pb-ad-prod ad-reskin pb-ad-oop hidden"> <div id="tech_blog_947" class="hidden" data-ad-type="reskin"> </div> </div> <script>(function(){function loadAd(){window.serviceCallbacks.push(function(){if(window.services.dfpService&&window.googletag&&googletag.pubadsReady)window.services.dfpService.appendAd({id:"tech_blog_947",adType:"reskin",slotName:"/4011/trb.latimes/tech/blog",displayMobile:true,displayDesktop:true,isOOP:true,is5x1:false,dimensionsString:"",sizemapString:"",sizemapRefresh:"false",refreshOnPhotoChange:false,includeInA9:false,includeInIndexExchange:false,options:{ptype:"s",iab:"biz,",apv:"false",site:"trb.latimes",
+slug:"la-fi-tn-tech-tax-20180321",cid:"96226605",at:"Europe,EuropeanUnion,FacebookInc.,JeffBezos",kw:"user,tax,measure,company,Moscovici,UnitedStates,advocate,Inc,policymaker,proposal,action,profit,leader,revenue,unanimity,titan,Facebook,Europe,countermeasure,plan,uscompany,microscope,Google,europe,datum",tg:"Taxes,PolicyandRegulation",design:"arc",nopulse:true}},false,true);else setTimeout(loadAd,500)})}loadAd()})();</script> </div> <div class="pb-container"> <div class="wrapper clearfix col col-desktop-6 col-tablet-6 col-mobile-6 pb-feature pb-layout-item pb-f-ads-dfp" id="f0UFpmhk0AHoMq"> </div> </div> <div id="fNgD4s1k0AHoMq" class="pb-async pb-feature"></div> <div class="pb-container"> </div> </section> </div> </div> <script>var pb_global={pageName:"article-right-rail",pageId:"rrRJV026k7C4Nq",contextPath:"/pb",isAdmin:false,layoutEngineName:"",environment:"production",resourceToken:""};</script> <script async src='/pb/gr/c/default/rrRJV026k7C4Nq/js/c04b30fe08.js?v=1'></script> <script async src='/pb/gr/p/default/rrRJV026k7C4Nq/render.js?v=1'></script> <script>(function(){var uz=document.createElement("script");uz.type="text/javascript";uz.async=true;uz.charset="utf-8";uz.src=("https:"==document.location.protocol?"https://":"http://")+"cdn5.userzoom.com/files/js/QzUzNDhUMSAg.js?t\x3duz_feed\x26cuid\x3dAD0E0D666CCDE41180C90050569444FB";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(uz,s)})();</script> <div class="sidebar-mask" data-role="close-tray"/> </body> </html><script>
+  var _uri = "/business/technology/la-fi-tn-tech-tax-20180321-story.html"
+  var _context = "/pb"
+  var _outputType = "default"
+  var _rid = "rrRJV026k7C4Nq"
+  //polyfill
+String.prototype.endsWith||Object.defineProperty(String.prototype,"endsWith",{value:function(t,e){var n=this.toString();(void 0===e||e>n.length)&&(e=n.length),e-=t.length;var r=n.indexOf(t,e);return-1!==r&&r===e}});
+/* Async loader code here */
+window.pageBuilder = window.pageBuilder || {};
+
+window.pageBuilder.featureLoaded =  window.pageBuilder.featureLoaded || function(){};
+window.pageBuilder.chainLoaded = window.pageBuilder.chainLoaded || function(chain,apiResponse){
+        var d = window.document;
+        for (var i = 0; i < apiResponse.featureIds.length; i++) {
+            var f = d.getElementById(apiResponse.featureIds[i]);
+            window.pageBuilder.featureLoaded(f);
+        }
+    };
+window.pageBuilder._isNestedFeature = window.pageBuilder._isNestedFeature || function (element) {
+        if(!element.parentElement) return false;
+        var parent = element.parentElement;
+        if (parent.className && parent.className.split(' ').indexOf("pb-feature")>=0) return true;
+        return window.pageBuilder._isNestedFeature(parent);
+    };
+window.pageBuilder._executeAsyncFeatureScripts = window.pageBuilder._executeAsyncFeatureScripts || function(s){eval(s)};
+
+window.pageBuilder._getJson = window.pageBuilder._getJson || function(url, success, failure) {
+    var xmlhttp;
+    failure = failure|| function () {};
+    if (window.XMLHttpRequest) {
+        xmlhttp = new XMLHttpRequest();
+    } else {
+        xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+    }
+    xmlhttp.onreadystatechange = function() {
+        if (xmlhttp.readyState == 4) {
+            if(xmlhttp.status == 200){
+                try {
+                    success.call(null, JSON.parse(xmlhttp.responseText));
+                } catch (e) {
+                    failure.call(null, xmlhttp, e)
+                }
+            } else  {
+                failure.call(null, xmlhttp);
+            }
+        }
+    };
+    xmlhttp.open("GET", url, true);
+    xmlhttp.send();
+};
+
+window.pageBuilder.loadAsyncFeature = window.pageBuilder.loadAsyncFeature || function (id) {
+        var d = window.document;
+        function injectFeatureDom(id, featureRendering) {
+            var element = d.getElementById(id);
+            var resources = featureRendering.pageResources || {};
+            element.outerHTML = featureRendering.rendering;
+            element = d.getElementById(id); //update the element
+            var scripts = Array.prototype.slice.call(element.getElementsByTagName("script"));
+            for (var i = 0; i < scripts.length; i++) {
+                if (scripts[i].src != "") {
+                    var s = d.createElement("script");
+                    s.setAttribute("src", scripts[i].src);
+                    d.body.appendChild(s);
+                }
+                else {
+                    window.pageBuilder._executeAsyncFeatureScripts(scripts[i].innerHTML); //eval isn't evil always.
+                }
+            }
+            for(var file in resources) {
+                if(resources.hasOwnProperty(file) && file.endsWith(".js")) {
+                    var s1 = d.createElement("script");
+                    s1.setAttribute("src", resources[file]);
+                    d.body.appendChild(s1);
+                }
+            }
+            window.pageBuilder.featureLoaded(element);
+        }
+        var url = _context + "/api/v2/render/feature/"+id+"?rid="+_rid+"&contentUri="+_uri;
+        window.pageBuilder._getJson(url, function(obj) { injectFeatureDom(id, obj); });
+    };
+
+window.pageBuilder.loadAsyncChain = window.pageBuilder.loadAsyncChain || function (id) {
+        var d = window.document;
+        function injectChainDom(id, apiResponse) {
+            var element = d.getElementById(id);
+            var resources = apiResponse.pageResources || {};
+            element.outerHTML = apiResponse.rendering;
+            element = d.getElementById(id); //update the element
+            var scripts = Array.prototype.slice.call(element.getElementsByTagName("script"));
+            for (var i = 0; i < scripts.length; i++) {
+                if (scripts[i].src != "") {
+                    var s = d.createElement("script");
+                    s.setAttribute("src", scripts[i].src);
+                    d.body.appendChild(s);
+                }
+                else {
+                    window.pageBuilder._executeAsyncFeatureScripts(scripts[i].innerHTML); //eval isn't evil always.
+                }
+            }
+            for(var file in resources) {
+                if(resources.hasOwnProperty(file) && file.endsWith(".js")) {
+                    var s1 = d.createElement("script");
+                    s1.setAttribute("src", resources[file]);
+                    d.body.appendChild(s1);
+                }
+            }
+            window.pageBuilder.chainLoaded(element,apiResponse);
+        }
+        var url = _context + "/api/v2/render/chain/"+id+"?rid="+_rid+"&contentUri="+_uri;
+        window.pageBuilder._getJson(url, function(obj) { injectChainDom(id, obj); });
+    };
+
+window.pageBuilder.loadAsyncFeatures = window.pageBuilder.loadAsyncFeatures || function () {
+        var d = window.document;
+        var scriptsToAdd = [];
+        var featuresLoaded = [];
+        function injectAsyncFeatures(apiResp){
+            for(var fid in apiResp){
+                if (!apiResp.hasOwnProperty(fid)) continue;
+
+                var element = d.getElementById(fid);
+                var resources = apiResp[fid].pageResources || {};
+                element.outerHTML = apiResp[fid].rendering;
+                element = d.getElementById(fid); //update the element
+                var scripts = Array.prototype.slice.call(element.getElementsByTagName("script"));
+                for (var i = 0; i < scripts.length; i++) {
+                    if (scripts[i].src != "") {
+                        var s = d.createElement("script");
+                        s.setAttribute("src", scripts[i].src);
+                        d.body.appendChild(s);
+                    }
+                    else {
+                        window.pageBuilder._executeAsyncFeatureScripts(scripts[i].innerHTML); //eval isn't evil always.
+                    }
+                }
+                for(var file in resources) {
+                    if(resources.hasOwnProperty(file) && file.endsWith(".js")) {
+                        resources[file].forEach(function(src){
+                            if (scriptsToAdd.indexOf(src) === -1) { scriptsToAdd.push(src) }
+                        });
+                    }
+                }
+                featuresLoaded.push(element);
+            }
+            scriptsToAdd.forEach(function (src) {
+                var s = d.createElement("script");
+                s.setAttribute("src", src);
+                d.body.appendChild(s);
+            });
+            featuresLoaded.forEach(function(element){
+                window.pageBuilder.featureLoaded(element);
+            });
+        }
+    var url = _context + "/api/v2/async/features?rid="+_rid+"&contentUri="+_uri;
+    window.pageBuilder._getJson(url, function(resp) { injectAsyncFeatures(resp)});
+};
+window.pageBuilder.loadAsyncChains = window.pageBuilder.loadAsyncChains || function () {
+        var d = window.document;
+        var chains = d.getElementsByClassName("pb-async pb-chain");
+        var ids = [].slice.call(chains).map(function (node) { return node.id; });
+        ids.forEach(function(id) {
+            window.pageBuilder.loadAsyncChain(id);
+        });
+    };
+
+window.pageBuilder.loadAsync = window.pageBuilder.loadAsync || function(){
+        window.pageBuilder.loadAsyncFeatures();
+        window.pageBuilder.loadAsyncChains();
+};
+
+window.pageBuilder.loadAsync();
+
+</script>

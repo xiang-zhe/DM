@@ -1,0 +1,856 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://news.un.org/en/sites/all/themes/bootstrap_un_news/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="The United Nations on Tuesday called on Turkey to end its 18-month-old state of emergency, saying that the routine extension of emergency powers has resulted in “profound” human rights violations against hundreds of thousands of people and may have lasting impact on the country’s socio-economic fabric." />
+<meta name="news_keywords" content="UN News, Global perspectives, Human Stories" />
+<meta name="rights" content="COPYRIGHT © UNITED NATIONS" />
+<link rel="canonical" href="https://news.un.org/en/story/2018/03/1005442" />
+<link rel="shortlink" href="https://news.un.org/en/node/1005442" />
+<meta property="og:site_name" content="UN News" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Turkey’s 18-month state of emergency has led to profound human rights violations – UN report" />
+<meta property="og:url" content="https://news.un.org/en/story/2018/03/1005442" />
+<meta property="og:description" content="The United Nations on Tuesday called on Turkey to end its 18-month-old state of emergency, saying that the routine extension of emergency powers has resulted in “profound” human rights violations against hundreds of thousands of people and may have lasting impact on the country’s socio-economic fabric." />
+<meta property="og:updated_time" content="2018-03-20T16:05:41-04:00" />
+<meta property="og:image" content="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2016/12/26317/image770x420cropped.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@UN_News_Centre" />
+<meta name="twitter:creator" content="@UN_News_Centre" />
+<meta name="twitter:title" content="Turkey’s 18-month state of emergency has led to profound human rights violations – UN report" />
+<meta name="twitter:url" content="https://news.un.org/en/story/2018/03/1005442" />
+<meta name="twitter:description" content="The United Nations on Tuesday called on Turkey to end its 18-month-old state of emergency, saying that the routine extension of emergency powers has resulted in “profound” human rights violations against hundreds of thousands of people and may have lasting impact on the country’s socio-economic fabric." />
+<meta name="twitter:image" content="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2016/12/26317/image770x420cropped.jpg" />
+<meta name="twitter:image:width" content="770px" />
+<meta name="twitter:image:height" content="420px" />
+<meta name="twitter:image:alt" content="High Commissioner for Human Rights Zeid Ra’ad Al Hussein." />
+<meta property="article:published_time" content="2018-03-20T15:35:54-04:00" />
+<meta property="article:modified_time" content="2018-03-20T16:05:41-04:00" />
+<meta name="msvalidate.01" content="4810E42D0C6EFA40969557F307A275F0" />
+  <title>Turkey’s 18-month state of emergency has led to profound human rights violations – UN report | UN News</title>
+  <link type="text/css" rel="stylesheet" href="https://news.un.org/en/sites/news.un.org.en/files/css/css_WYLQ_gZetACwlgC3qvcg58yMCgq6pam3S-AN0Tr8QWQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://news.un.org/en/sites/news.un.org.en/files/css/css_MPWLEIdn5d6rOh7OGFqQ5-pBOlhbiF37iI6h4Y6MVa0.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://news.un.org/en/sites/news.un.org.en/files/css/css_wvaW1R2qeJUZSEVU35D3QsNxKWr2rU4h4Xc5ANcm-94.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://news.un.org/en/sites/news.un.org.en/files/css/css_QYDgYgOVjr3Y9qBqGXoEQ3xQOaghzy086Kglr6FQtQQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://news.un.org/en/sites/news.un.org.en/files/css/css_YLWdW6wV7Ski57_eSxMdUCyO9zKEBlsYDkC-PNa2_KM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:300,400,700,900" media="all" />
+<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Merriweather:300,400,700,900" media="all" />
+<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300,300italic,regular,italic,700,800&amp;subset=cyrillic-ext" media="all" />
+<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700&amp;subset=cyrillic-ext" media="all" />
+<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic" media="all" />
+<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto+Condensed:400,700" media="all" />
+<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/earlyaccess/droidarabickufi.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/earlyaccess/notonaskharabic.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Oswald:400,300,700&amp;subset=latin,latin-ext" media="all" />
+<link type="text/css" rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://news.un.org/en/sites/news.un.org.en/files/css/css_VpvAV_Z4PBgoPP40cDLj8spwjbO9VY93GUTs9Aqe80c.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://news.un.org/en/sites/news.un.org.en/files/css/css_HESrFn-DDRBzWsoOh8Nv7nTDg2aCadJbar1sZCldE-w.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://news.un.org/en/sites/news.un.org.en/files/css/css_qMtD1pQznKFiPC9vm-QHpCY1Qfha-0rZKF7kbR4PT14.css" media="print" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="https://news.un.org/en/sites/news.un.org.en/files/js/js_gNYOiBa6EjV3aiaP8mxlK6gF0b_3Cgj-K3LJjoE3-Hc.js"></script>
+<script src="https://news.un.org/en/sites/news.un.org.en/files/js/js_m9SftDDj9fSjzUpF3pkRRlS_M3bZ6dMlUwcj1JoelfU.js"></script>
+<script src="https://news.un.org/en/sites/news.un.org.en/files/js/js_EJyoDhqi858147BHFq5eZ5fcveLDAdSEVAc0zLZyKag.js"></script>
+<script src="https://news.un.org/en/sites/news.un.org.en/files/js/js_ydoPwUj2WvkdWGJ0gE5vPEnL1LhdLaqPXz8KWz9pDhg.js"></script>
+<script>var switchTo5x = true;var useFastShare = 1;</script>
+<script src="https://ws.sharethis.com/button/buttons.js"></script>
+<script>if (typeof stLight !== 'undefined') { stLight.options({"publisher":"dr-d25eccc4-2f66-a40d-a4cb-ca5b51e5f460","version":"5x","lang":"en"}); }</script>
+<script src="https://news.un.org/en/sites/news.un.org.en/files/js/js_gPqjYq7fqdMzw8-29XWQIVoDSWTmZCGy9OqaHppNxuQ.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-108509449-9", {"cookieDomain":".news.un.org"});ga("require", "linkid", "linkid.js");ga("set", "anonymizeIp", true);ga("set", "page", location.pathname + location.search + location.hash);ga("send", "pageview");ga('create', 'UA-108509449-1', 'auto', 'mainNewsTracker');
+ga('mainNewsTracker.send', 'pageview');
+ga('create', 'UA-4803886-1', 'auto', 'mainTracker');
+ga('mainTracker.send', 'pageview');</script>
+<script src="https://news.un.org/en/sites/news.un.org.en/files/js/js_s33yssP1x8pFTkffZcVqKrqBh9SVOuCU2Pvb5VLKHWo.js"></script>
+<script src="https://platform.twitter.com/widgets.js"></script>
+<script src="https://news.un.org/en/sites/news.un.org.en/files/js/js_AVyzEr9gbwOkoIVSBVlIk0cDHo9ORo5hsNEJMAau41I.js"></script>
+<script>jwplayer.key="fKawrCZCB2\/GAhiLVDVcL6NFqS9wejiZxyvlFWHyG5c="</script>
+<script src="https://news.un.org/en/sites/news.un.org.en/files/js/js_4OxhB6AsZv84JOnEQ4YvTarCBac90q5EF8uMmcAKjnU.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/en\/","pathPrefix":"","ajaxPageState":{"theme":"bootstrap_un_news","theme_token":"91szNwW3tKoVPam0HstIoekcpLi_BmITXGfRFOxRxUM","js":{"sites\/all\/modules\/custom\/unnews_audio_player\/js\/unnews_audio.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/jwplayer\/jwplayer.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/scaldtools\/scald_twitter\/scald_twitter.js":1,"sites\/all\/modules\/scaldtools\/scald_file\/scald_file.js":1,"sites\/all\/modules\/scaldtools\/scald\/modules\/providers\/scald_image\/scald_image.js":1,"sites\/all\/modules\/contrib\/tb_megamenu\/js\/tb-megamenu-frontend.js":1,"sites\/all\/modules\/contrib\/tb_megamenu\/js\/tb-megamenu-touch.js":1,"0":1,"https:\/\/ws.sharethis.com\/button\/buttons.js":1,"1":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"2":1,"sites\/all\/modules\/contrib\/radioactivity\/js\/radioactivity.js":1,"https:\/\/platform.twitter.com\/widgets.js":1,"sites\/all\/modules\/custom\/unnews_node\/js\/unnews_node.js":1,"sites\/all\/libraries\/owlcarousel\/owl.carousel.js":1,"3":1,"sites\/all\/themes\/bootstrap_un_wss\/js\/bootstrap.min.js":1,"sites\/all\/themes\/bootstrap_un_wss\/js\/dropdown.js":1,"sites\/all\/themes\/bootstrap_un_wss\/js\/bootstrap-accessibility.min.js":1,"sites\/all\/themes\/bootstrap_un_wss\/js\/owl-carousel.js":1,"sites\/all\/themes\/bootstrap_un_wss\/js\/functions.js":1,"sites\/all\/themes\/bootstrap_un_news\/js\/sub.js":1},"css":{"modules\/system\/system.base.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/scaldtools\/scald\/modules\/fields\/mee\/css\/editor-global.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/scaldtools\/scald_file\/scald_file.css":1,"sites\/all\/modules\/scaldtools\/scald_twitter\/scald_twitter.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/word_link\/css\/word_link.css":1,"sites\/all\/modules\/contrib\/radioactivity\/css\/radioactivity.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"sites\/all\/modules\/contrib\/tb_megamenu\/css\/bootstrap.css":1,"sites\/all\/modules\/contrib\/tb_megamenu\/css\/base.css":1,"sites\/all\/modules\/contrib\/tb_megamenu\/css\/default.css":1,"sites\/all\/modules\/contrib\/tb_megamenu\/css\/compatibility.css":1,"\/\/fonts.googleapis.com\/css?family=Lato:300,400,700,900":1,"\/\/fonts.googleapis.com\/css?family=Merriweather:300,400,700,900":1,"\/\/fonts.googleapis.com\/css?family=Open+Sans:300,300italic,regular,italic,700,800\u0026subset=cyrillic-ext":1,"\/\/fonts.googleapis.com\/css?family=Open+Sans+Condensed:300,700\u0026subset=cyrillic-ext":1,"\/\/fonts.googleapis.com\/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic":1,"\/\/fonts.googleapis.com\/css?family=Roboto+Condensed:400,700":1,"\/\/fonts.googleapis.com\/earlyaccess\/droidarabickufi.css":1,"\/\/fonts.googleapis.com\/earlyaccess\/notonaskharabic.css":1,"\/\/fonts.googleapis.com\/css?family=Oswald:400,300,700\u0026subset=latin,latin-ext":1,"\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.2.0\/css\/font-awesome.min.css":1,"sites\/all\/libraries\/owlcarousel\/owl.carousel.css":1,"sites\/all\/libraries\/owlcarousel\/owl.theme.css":1,"sites\/all\/libraries\/owlcarousel\/owl.transitions.css":1,"sites\/all\/themes\/bootstrap_un_wss\/fonts\/genericons\/genericons.css":1,"sites\/all\/themes\/bootstrap_un_wss\/fonts\/font-awesome\/css\/font-awesome.min.css":1,"sites\/all\/themes\/bootstrap_un_wss\/css\/main.css":1,"sites\/all\/themes\/bootstrap_un_news\/css\/sub.css":1,"sites\/all\/themes\/bootstrap_un_wss\/css\/print.css":1}},"embridge":{"default_catalog":"catalog","selected_renditions":{"un_news_small":"un_news_small","un_news_medium":"un_news_medium","un_news_teaser":"un_news_teaser","un_news_default":"un_news_default","un_news_large":"un_news_large","un_news_full_width":"un_news_full_width","un_news_feature":"un_news_feature","un_news_photo_story":"un_news_photo_story"},"selected_wysiwyg_renditions":[],"allow_upload":false,"allow_search":false,"allow_properties":false},"scaldFile":{"path":"sites\/all\/modules\/scaldtools\/scald_file\/scald_file.css"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":1,"trackUrlFragments":1},"radioactivity":{"emitters":{"emitDefault":[{"accuracy":100,"bundle":"news_story","energy":10,"entity_id":"1005442","entity_type":"node","field_name":"field_views_counter","language":"und","storage":"Redis","type":"none","checksum":"965c2b1f84424e8245d5199caaa37ba9"}]},"config":{"emitPath":"\/en\/sites\/all\/modules\/contrib\/radioactivity\/emit.php","fpEnabled":1,"fpTimeout":"15"}},"urlIsAjaxTrusted":{"\/en\/story\/2018\/03\/1005442":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-1005442 node-type-news-story show-sidebar i18n-en" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="brand-bar" class="navbar navbar-default navbar-fixed-top" role="navigation"><!-- UN global brand bar -->
+  <div class="container brandbar-header">
+    <div class="row">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="col-md-4">
+                <a class="navbar-brand" href="https://www.un.org/en/">Welcome to the United Nations</a>
+              </div><!-- /UN global brand bar -->
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="col-md-8 language-switcher">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#language-switcher">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <div class="language-title visible-xs-inline"><a href="javascript:void(0)" data-toggle="collapse" data-target="#language-switcher">Language:</a></div>
+
+        <div class="navbar-collapse collapse" id="language-switcher">
+          <nav role="navigation">
+            <ul class="menu nav">
+              <li class="leaf  first"><a href="https://news.un.org/ar/">العربية</a></li>
+              <li class="leaf "><a href="https://news.un.org/zh/">中文</a></li>
+              <li class="leaf active"><a href="https://news.un.org/en/">English</a></li>
+              <li class="leaf "><a href="https://news.un.org/fr/">Français</a></li>
+              <li class="leaf "><a href="https://news.un.org/ru/">Русский</a></li>
+              <li class="leaf "><a href="https://news.un.org/es/">Español</a></li>
+              <li class="leaf "><a href="https://news.un.org/pt/">Português</a></li>
+              <li class="leaf  last"><a href="https://news.un.org/sw/">Kiswahili</a></li>
+
+            </ul>
+          </nav>
+        </div>
+      </div><!-- /.navbar-collapse -->
+      
+    </div> <!-- /.row -->
+  </div><!-- /.container -->
+</div><!-- /UN global brand bar and language switcher --><header id="navbar" role="banner" class="navbar container navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+
+		<div class="row header">
+		<div class="col-md-9 col-xs-12">
+		  <div class="pull-left flip temp-logo-wrapper"><!-- logo wrapper -->
+			<a class="logo navbar-btn logo-default" href="/en/" title="Home">
+			  <img src="/en/sites/all/themes/bootstrap_un_wss/images/logo.svg" alt="Home" class="img-responsive" />
+			</a>
+		  </div><!-- /logo wrapper -->
+
+		  <div class="pull-left flip site-name-wrapper">
+		  			<a class="site-name" href="/en/" title="Home">UN News</a>
+		  		  </div>
+		  <div class="pull-left flip icon-wrapper"><img src="/en/sites/all/themes/bootstrap_un_news/images/unnews-icon.svg" alt="Home"></div>
+
+		  <!-- /Tagline break in two lines -->
+		  <div class="pull-left flip text-right lead-wrapper">
+			<div class="lead">Global perspective</div><span class="lead">Human stories</span> 
+		  </div> 
+		</div> 
+
+		<div class="col-md-3 col-xs-10 search pull-right flip">
+		  <div class="search-form">
+			    <section id="block-search-form" class="block block-search clearfix">
+
+      
+  <form class="form-search content-search" action="/en/story/2018/03/1005442" method="post" id="search-block-form" accept-charset="UTF-8"><div><div>
+      <h2 class="element-invisible">Search form</h2>
+    <div class="input-group"><input title="Enter the terms you wish to search for." placeholder="Search" class="form-control form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" /><span class="input-group-btn"><button type="submit" class="btn btn-primary"><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span></button></span></div><div class="form-actions form-wrapper form-group" id="edit-actions"><button class="element-invisible btn btn-primary form-submit" type="submit" id="edit-submit" name="op" value="Search">Search</button>
+</div><input type="hidden" name="form_build_id" value="form-jaQ3S_bE4sFCcjQYVxaPFN7XcbSmWZHCJ1R6w-euQrI" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</section>
+			<a class="advanced-search pull-right" href="/en/advanced-search">Advanced Search</a>
+		  </div>
+		</div>
+		</div>
+    
+		<div class="row menu">
+		  <div class="col-lg-12">
+		  		  		  <div id="main-menu" class="navbar-collapse">
+			<nav role="navigation">
+			  				<ul class="menu nav navbar-nav"><li class="first expanded dropdown"><a href="/en/" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Home <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/en/news/region/africa">Africa</a></li>
+<li class="leaf"><a href="/en/news/region/americas">Americas</a></li>
+<li class="leaf"><a href="/en/news/region/asia-pacific">Asia Pacific</a></li>
+<li class="leaf"><a href="/en/news/region/middle-east">Middle East</a></li>
+<li class="leaf"><a href="/en/news/region/europe">Europe</a></li>
+<li class="last leaf"><a href="http://www.un.org/en/ICYMI/">ICYMI</a></li>
+</ul></li>
+<li class="expanded dropdown"><span data-target="#" class="dropdown-toggle nolink" data-toggle="dropdown">Topics <span class="caret"></span></span><ul class="dropdown-menu"><li class="first leaf"><a href="/en/news/topic/peace-and-security">Peace and Security</a></li>
+<li class="leaf"><a href="/en/news/topic/economic-development">Economic Development</a></li>
+<li class="leaf"><a href="/en/news/topic/humanitarian-aid">Humanitarian Aid</a></li>
+<li class="leaf"><a href="/en/news/topic/climate-change">Climate Change</a></li>
+<li class="leaf"><a href="/en/news/topic/human-rights">Human Rights</a></li>
+<li class="leaf"><a href="/en/news/topic/un-affairs">UN Affairs</a></li>
+<li class="leaf"><a href="/en/news/topic/women">Women</a></li>
+<li class="leaf"><a href="/en/news/topic/law-and-crime-prevention">Law and Crime Prevention</a></li>
+<li class="leaf"><a href="/en/news/topic/health">Health</a></li>
+<li class="leaf"><a href="/en/news/topic/culture-and-education">Culture and Education</a></li>
+<li class="leaf"><a href="/en/news/topic/sdgs">SDGs</a></li>
+<li class="last leaf"><a href="/en/news/topic/migrants-and-refugees">Migrants and Refugees</a></li>
+</ul></li>
+<li class="expanded dropdown"><span data-target="#" class="dropdown-toggle nolink" data-toggle="dropdown">In depth <span class="caret"></span></span><ul class="dropdown-menu"><li class="first leaf"><a href="/en/interviews">Interviews</a></li>
+<li class="leaf"><a href="/en/features">Features</a></li>
+<li class="leaf"><a href="/en/gallery">Photo Stories</a></li>
+<li class="last leaf"><a href="/en/">Programmes</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="https://www.un.org/sg/en" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Secretary-General <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="https://www.un.org/sg/en/spokesperson">Spokesperson</a></li>
+<li class="leaf"><a href="https://www.un.org/sg/en/latest/sg/statement">All Statements</a></li>
+<li class="leaf"><a href="https://www.un.org/sg/en/archive/sg/speeches">Selected Speeches</a></li>
+<li class="leaf"><a href="https://www.un.org/sg/en/content/sg/press-encounters">Press Encounters</a></li>
+<li class="last leaf"><a href="https://www.un.org/sg/en/content/travels">Official Travels</a></li>
+</ul></li>
+<li class="last expanded dropdown"><span data-target="#" class="dropdown-toggle nolink" data-toggle="dropdown">Media <span class="caret"></span></span><ul class="dropdown-menu"><li class="first leaf"><a href="http://www.un.org/video">UN Video</a></li>
+<li class="leaf"><a href="http://www.unmultimedia.org/photo/">UN Photo</a></li>
+<li class="leaf"><a href="http://www.un.org/press/en">Meeting Coverage</a></li>
+<li class="leaf"><a href="https://www.un.org/en/media/accreditation/index.shtml">Media Accreditation</a></li>
+<li class="last leaf"><a href="http://webtv.un.org/">Webtv</a></li>
+</ul></li>
+</ul>			  			  			  				    <section id="block-tb-megamenu-main-menu" class="block block-tb-megamenu clearfix">
+
+      
+  <div  class="tb-megamenu tb-megamenu-main-menu">
+      <button data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar tb-megamenu-button" type="button">
+      <i class="fa fa-reorder"></i>
+    </button>
+    <div class="nav-collapse ">
+    <ul  class="tb-megamenu-nav nav level-0 items-5">
+  <li  data-id="683" data-level="1" data-type="menu_item" data-class="col-md-3" data-xicon="" data-caption="" data-alignsub="justify" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega col-md-3 mega-align-justify dropdown">
+  <a href="/en/"  class="dropdown-toggle">
+        
+    Home          </a>
+  <div  data-class="front-regions" data-width="" class="tb-megamenu-submenu front-regions dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="8" data-hidewcol="0" id="tb-megamenu-column-1" class="tb-megamenu-column span8  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-5">
+  <li  data-id="709" data-level="2" data-type="menu_item" data-class="pull-left" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega pull-left">
+  <a href="/en/news/region/africa" >
+        
+    Africa          </a>
+  </li>
+
+<li  data-id="712" data-level="2" data-type="menu_item" data-class="pull-left" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega pull-left">
+  <a href="/en/news/region/americas" >
+        
+    Americas          </a>
+  </li>
+
+<li  data-id="708" data-level="2" data-type="menu_item" data-class="pull-left" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega pull-left">
+  <a href="/en/news/region/asia-pacific" >
+        
+    Asia Pacific          </a>
+  </li>
+
+<li  data-id="748" data-level="2" data-type="menu_item" data-class="pull-left" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega pull-left">
+  <a href="/en/news/region/middle-east" >
+        
+    Middle East          </a>
+  </li>
+
+<li  data-id="706" data-level="2" data-type="menu_item" data-class="pull-left" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega pull-left">
+  <a href="/en/news/region/europe" >
+        
+    Europe          </a>
+  </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="2" data-hidewcol="" id="tb-megamenu-column-2" class="tb-megamenu-column span2  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-1">
+  <li  data-id="1397" data-level="2" data-type="menu_item" data-class="pull-right, icymi" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega pull-right, icymi">
+  <a href="http://www.un.org/en/ICYMI/" >
+        
+    ICYMI          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li  data-id="700" data-level="1" data-type="menu_item" data-class="col-md-2" data-xicon="" data-caption="" data-alignsub="justify" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega col-md-2 mega-align-justify dropdown">
+  <a href="#"  class="dropdown-toggle">
+        
+    Topics          </a>
+  <div  data-class="" data-width="1140" style="width: 1140px;" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="3" data-hidewcol="0" id="tb-megamenu-column-3" class="tb-megamenu-column span3  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-3">
+  <li  data-id="733" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/en/news/topic/peace-and-security" >
+        
+    Peace and Security          </a>
+  </li>
+
+<li  data-id="705" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/en/news/topic/economic-development" >
+        
+    Economic Development          </a>
+  </li>
+
+<li  data-id="727" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/en/news/topic/humanitarian-aid" >
+        
+    Humanitarian Aid          </a>
+  </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="3" data-hidewcol="" id="tb-megamenu-column-4" class="tb-megamenu-column span3  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-3">
+  <li  data-id="707" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/en/news/topic/climate-change" >
+        
+    Climate Change          </a>
+  </li>
+
+<li  data-id="728" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/en/news/topic/human-rights" >
+        
+    Human Rights          </a>
+  </li>
+
+<li  data-id="743" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/en/news/topic/un-affairs" >
+        
+    UN Affairs          </a>
+  </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="3" data-hidewcol="" id="tb-megamenu-column-5" class="tb-megamenu-column span3  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-3">
+  <li  data-id="740" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/en/news/topic/women" >
+        
+    Women          </a>
+  </li>
+
+<li  data-id="726" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/en/news/topic/law-and-crime-prevention" >
+        
+    Law and Crime Prevention          </a>
+  </li>
+
+<li  data-id="734" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/en/news/topic/health" >
+        
+    Health          </a>
+  </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="3" data-hidewcol="" id="tb-megamenu-column-6" class="tb-megamenu-column span3  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-3">
+  <li  data-id="704" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/en/news/topic/culture-and-education" >
+        
+    Culture and Education          </a>
+  </li>
+
+<li  data-id="731" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/en/news/topic/sdgs" >
+        
+    SDGs          </a>
+  </li>
+
+<li  data-id="715" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/en/news/topic/migrants-and-refugees" >
+        
+    Migrants and Refugees          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li  data-id="696" data-level="1" data-type="menu_item" data-class="col-md-2" data-xicon="" data-caption="" data-alignsub="justify" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega col-md-2 mega-align-justify dropdown">
+  <a href="#"  class="dropdown-toggle">
+        
+    In depth          </a>
+  <div  data-class="" data-width="1140" style="width: 1140px;" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-7" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-4">
+  <li  data-id="745" data-level="2" data-type="menu_item" data-class="pull-left" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega pull-left">
+  <a href="/en/interviews" >
+        
+    Interviews          </a>
+  </li>
+
+<li  data-id="2377" data-level="2" data-type="menu_item" data-class="pull-left" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega pull-left">
+  <a href="/en/features" >
+        
+    Features          </a>
+  </li>
+
+<li  data-id="2376" data-level="2" data-type="menu_item" data-class="pull-left" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega pull-left">
+  <a href="/en/gallery" >
+        
+    Photo Stories          </a>
+  </li>
+
+<li  data-id="750" data-level="2" data-type="menu_item" data-class="pull-left" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega pull-left">
+  <a href="/en/" >
+        
+    Programmes          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li  data-id="1390" data-level="1" data-type="menu_item" data-class="col-md-3" data-xicon="" data-caption="" data-alignsub="justify" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega col-md-3 mega-align-justify dropdown">
+  <a href="https://www.un.org/sg/en"  class="dropdown-toggle">
+        
+    Secretary-General          </a>
+  <div  data-class="sg-megamenu" data-width="" class="tb-megamenu-submenu sg-megamenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-8" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-5">
+  <li  data-id="1396" data-level="2" data-type="menu_item" data-class="pull-left" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega pull-left">
+  <a href="https://www.un.org/sg/en/spokesperson" >
+        
+    Spokesperson          </a>
+  </li>
+
+<li  data-id="1393" data-level="2" data-type="menu_item" data-class="pull-left" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega pull-left">
+  <a href="https://www.un.org/sg/en/latest/sg/statement" >
+        
+    All Statements          </a>
+  </li>
+
+<li  data-id="1398" data-level="2" data-type="menu_item" data-class="pull-left" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega pull-left">
+  <a href="https://www.un.org/sg/en/archive/sg/speeches" >
+        
+    Selected Speeches          </a>
+  </li>
+
+<li  data-id="1392" data-level="2" data-type="menu_item" data-class="pull-left" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega pull-left">
+  <a href="https://www.un.org/sg/en/content/sg/press-encounters" >
+        
+    Press Encounters          </a>
+  </li>
+
+<li  data-id="1391" data-level="2" data-type="menu_item" data-class="pull-left" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega pull-left">
+  <a href="https://www.un.org/sg/en/content/travels" >
+        
+    Official Travels          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li  data-id="693" data-level="1" data-type="menu_item" data-class="col-md-2" data-xicon="" data-caption="" data-alignsub="justify" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega col-md-2 mega-align-justify dropdown">
+  <a href="#"  class="dropdown-toggle">
+        
+    Media          </a>
+  <div  data-class="media-megamenu" data-width="1140" style="width: 1140px;" class="tb-megamenu-submenu media-megamenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-9" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-5">
+  <li  data-id="1394" data-level="2" data-type="menu_item" data-class="pull-left" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega pull-left">
+  <a href="http://www.un.org/video" >
+        
+    UN Video          </a>
+  </li>
+
+<li  data-id="737" data-level="2" data-type="menu_item" data-class="pull-left" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega pull-left">
+  <a href="http://www.unmultimedia.org/photo/" >
+        
+    UN Photo          </a>
+  </li>
+
+<li  data-id="747" data-level="2" data-type="menu_item" data-class="pull-left " data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega pull-left ">
+  <a href="http://www.un.org/press/en" >
+        
+    Meeting Coverage          </a>
+  </li>
+
+<li  data-id="729" data-level="2" data-type="menu_item" data-class="pull-left" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega pull-left">
+  <a href="https://www.un.org/en/media/accreditation/index.shtml" >
+        
+    Media Accreditation          </a>
+  </li>
+
+<li  data-id="736" data-level="2" data-type="menu_item" data-class="pull-left" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega pull-left">
+  <a href="http://webtv.un.org/" >
+        
+    Webtv          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+</ul>
+      </div>
+  </div>
+
+</section>
+			  			</nav>
+
+			<div class="clearfix"></div>
+		  </div>
+		  		  </div>
+		</div>
+
+    </div> <!-- /.navbar-header -->
+  </div> <!-- /.container -->
+</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+      </header> <!-- /#page-header -->
+  
+  <div class="row">
+    <div class="col-md-12">
+                          </div>
+  </div>
+
+  <div class="row top-columns">
+    <div class="col-md-8 col-xs-12 top-left-column">
+          <section id="block-unnews-blocks-unnews-live-now-block" class="block block-unnews-blocks live-now live-now clearfix">
+
+      
+  &nbsp;
+</section>
+    </div>
+    <div class="col-md-4 col-xs-12 top-right-column">
+          <section id="block-unnews-blocks-unnews-subscribe-link" class="block block-unnews-blocks subscribe-link pull-right clearfix">
+
+      
+  <p><a href="/en/content/un-newsletter-subscribe">Subscribe</a></p>
+</section>
+<section id="block-unnews-blocks-unnews-audio-hub-link" class="block block-unnews-blocks audio-hub-link pull-right clearfix">
+
+      
+  <p><a href="/en/audio-hub">Audio Hub</a></p>
+</section>
+    </div>
+  </div>
+
+  <div class="row">
+      <section class="col-md-12 xs-hidden">
+                     </section>
+  </div>
+
+</div>
+<section class="full-width">
+  </section>
+
+<div class="main-container container">
+<div class="row before-content">
+  <div class="col-md-12">
+            <section id="block-views-story-story-top-block" class="block block-views clearfix">
+
+      
+  <div class="view view-story view-id-story view-display-id-story_top_block story-top-block node view-dom-id-eecd01cb733c436b2a71e60e0b938f14">
+        
+  
+  
+      <div class="view-content">
+      
+  <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-nothing">        <section class="story-top-block">
+<h1 class="story-title">Turkey’s 18-month state of emergency has led to profound human rights violations – UN report</h1>
+<div class="featured-media"><!-- scald=518182:un_news_full_width --><img class="img-responsive" src="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2016/12/26317/image1170x530cropped.jpg" title="High Commissioner for Human Rights Zeid Ra’ad Al Hussein." width="100%" height="" /><div class="field-name-field-scald-photo-credit field field-name-scald-authors field-type-taxonomy-term-reference field-label-hidden"><span class="un-news-full-width scald-credit">UN Photo/Jean-Marc Ferré</span></div><div class="field-name-field-scald-photo-caption field field-name-field-title field-type-text field-label-hidden"><span class="un-news-full-width scald-caption">High Commissioner for Human Rights Zeid Ra’ad Al Hussein.</span></div><!-- END scald=518182 --></div>
+</section>  </div>  </div>
+
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+<section id="block-unnews-node-story-social-share" class="block block-unnews-node clearfix">
+
+      
+  <div class="sharethis-wrapper"><span st_url="https://news.un.org/en/story/2018/03/1005442" st_title="Turkey’s 18-month state of emergency has led to profound human rights violations – UN report" class="st_facebook_custom" displayText="facebook"></span>
+<span st_url="https://news.un.org/en/story/2018/03/1005442" st_title="Turkey’s 18-month state of emergency has led to profound human rights violations – UN report" class="st_twitter_custom" displayText="twitter"></span>
+<span st_url="https://news.un.org/en/story/2018/03/1005442" st_title="Turkey’s 18-month state of emergency has led to profound human rights violations – UN report" class="st_print_custom" displayText="print"></span>
+<span st_url="https://news.un.org/en/story/2018/03/1005442" st_title="Turkey’s 18-month state of emergency has led to profound human rights violations – UN report" class="st_pocket_custom" displayText="pocket"><span class="share-icon-label"></span></span>
+<span st_url="https://news.un.org/en/story/2018/03/1005442" st_title="Turkey’s 18-month state of emergency has led to profound human rights violations – UN report" class="st_sharethis_custom" displayText="sharethis"><span class="share-icon-label"></span></span>
+</div>
+</section>
+  </div>
+</div>
+
+  <div class="row body-container">
+
+    
+    <section class="col-sm-9">
+      <a id="main-content"></a>
+                            <section id="block-system-main" class="block block-system clearfix">
+
+      
+  
+<div id="node-1005442" class="node node-news-story node-full clearfix" about="/en/story/2018/03/1005442" typeof="sioc:Item foaf:Document">
+
+  <div class="content">
+    <div class="field field-name-field-news-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-03-20T00:00:00-04:00">20 March 2018</span></div></div></div><div class="field field-name-field-news-topics field-type-entityreference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/en/news/topic/human-rights">Human Rights</a></div></div></div><div class="field field-name-field-news-story-lead field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>The United Nations on Tuesday called on Turkey to end its 18-month-old state of emergency, saying that the routine extension of emergency powers has resulted in “profound” human rights violations against hundreds of thousands of people and may have lasting impact on the country’s socio-economic fabric.</p>
+</div></div></div>
+<div class="paragraphs-items paragraphs-items-field-news-story paragraphs-items-field-news-story-full paragraphs-items-full">
+  <div class="field field-name-field-news-story field-type-paragraphs field-label-hidden"><div class="field-items"><div class="field-item even"><div class="entity entity-paragraphs-item paragraphs-item-one-column-text" about="" typeof="">
+  <div class="content">
+    <div class="field field-name-field-text-column field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>“One of the <a href="http://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=22853&amp;LangID=E">most alarming findings of the report</a> […] is how Turkish authorities reportedly detained some 100 women who were pregnant or had just given birth, mostly on the grounds that they were ‘associates’ of their husbands, who are suspected of being connected to terrorist organizations,” said Zeid Ra’ad Al Hussein, the UN High Commissioner for Human Rights, in a news release announcing the findings.</p>
+<p>“Some were detained with their children and others violently separated from them. This is simply outrageous, utterly cruel, and surely cannot have anything whatsoever to do with making the country safer,” he added.</p>
+<p>While taking note of the complex challenges Turkey has faced in addressing the attempted coup in July 2016, as well as a number of terrorist attacks, the <a href="http://www.ohchr.org/Documents/Countries/TR/2018-03-19_Second_OHCHR_Turkey_Report.pdf">report </a>cites that the sheer number, frequency and lack of connection of several emergency decrees to any national threat seem to point to the use of emergency powers to stifle any form of criticism or dissent vis-à-vis the Government.</p>
+<p>During the 18-month state of emergency, nearly 160,000 people have been arrested; 152,000 civil servants dismissed, many arbitrarily; and teachers, judges and lawyers dismissed or prosecuted. </p>
+<p>The report also documents the use of torture and ill-treatment in custody, including severe beatings, threats of sexual assault and actual sexual assault, electric shocks and waterboarding by police, gendarmerie, military police and security forces.</p>
+<blockquote><p>
+This is simply outrageous, utterly cruel, and surely cannot have anything whatsoever to do with making the country safer <em>– High Commissioner Zeid</em>
+</p></blockquote>
+<p>It also notes that about 300 journalists have been arrested under allegations that their publications contained “apologist sentiments regarding terrorism” or other “verbal act offences” or for “membership” in terrorist organisations.</p>
+<p>Over 100,000 websites were reportedly blocked in 2017, including a high number of pro-Kurdish websites and satellite TV channels.</p>
+<p>Covering the period January to December last year, the report also states that the April 2017 referendum which extended the President’s executive powers into both the legislature and the judiciary as seriously problematic, resulting in interference with the work of the judiciary and curtailment of parliamentary oversight over the executive branch.</p>
+<p>By the end of 2017, 22 emergency decrees were promulgated with a further two more since the cut-off date of the report.</p>
+<p>The report further underlines the need ensure independent, individualized reviews and compensation for victims of arbitrary detentions and dismissals and calls on Turkey to promptly end the state of emergency, restore normal functioning of State institutions, as well as revise and release all legislation not compliant with its international human rights obligations, including the emergency decrees.</p>
+<p>“I urge the Government of Turkey to ensure that these allegations of serious human rights violations are investigated and the perpetrators are brought to justice,” said Mr. Zeid, also calling on the Government to allow full and unfettered access to his Office (OHCHR) to be able to directly, independently and objectively assess the human rights situation in the southeast of the country.</p>
+</div></div></div>  </div>
+</div>
+</div></div></div></div>
+  </div>
+
+</div>
+
+</section>
+          <section id="block-views-story-story-tags-block" class="block block-views clearfix">
+
+      
+  <div class="view view-story view-id-story view-display-id-story_tags_block story-tags view-dom-id-028ea7ae12ebdbb40ab7e056c77f880a">
+        
+  
+  
+      <div class="view-content">
+      
+  <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div>        <div><a href="/en/tags/turkey" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">turkey</a></div>  </div>  </div>
+
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+    </section>
+
+          <aside class="col-sm-3 sidebar sidebar-second">
+            <section id="block-views-b264f1f0404c604764b6fabf16396e35" class="block block-views clearfix">
+
+        <h2 class="block-title">Related Stories</h2>
+    
+  <div class="view view-story-related-stories view-id-story_related_stories view-display-id-story_related_stories_block story-related-stories teaser-image-small view-dom-id-f0b7c9f2f2c1cccc197210a9ca0182a6">
+        
+  
+  
+      <div class="view-content">
+      
+  <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+          <div class="story-block clearfix">
+  <div class="story-photo pull-left"><a href="https://news.un.org/en/story/2017/07/561072-rights-defenders-must-not-be-silenced-says-un-office-urging-turkey-release"><!-- scald=456222:un_news_small --><img class="img-responsive" src="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2017/07/27583/image100x100cropped.jpg" title="Elizabeth Throssell, OHCHR." width="" height="" /><!-- END scald=456222 --></a></div>
+  <h1 class="story-title"><a href="https://news.un.org/en/story/2017/07/561072-rights-defenders-must-not-be-silenced-says-un-office-urging-turkey-release">Rights defenders ‘must not be silenced,’ says UN office, urging Turkey to release activists</a></h1>
+</div>    </div>
+
+
+  <div class="views-row views-row-2 views-row-even">
+      
+          <div class="story-block clearfix">
+  <div class="story-photo pull-left"><a href="https://news.un.org/en/story/2017/03/553062-turkey-un-report-details-allegations-serious-rights-violations-countrys"><!-- scald=448212:un_news_small --><img class="img-responsive" src="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2017/03/26878/image100x100cropped.jpg" title="Residents of Silvan, a city in Diyarbakir Province, southeastern Turkey, walk past their bullet-riddled homes." width="" height="" /><!-- END scald=448212 --></a></div>
+  <h1 class="story-title"><a href="https://news.un.org/en/story/2017/03/553062-turkey-un-report-details-allegations-serious-rights-violations-countrys">Turkey: UN report details allegations of serious rights violations in country&#039;s southeast</a></h1>
+</div>    </div>
+
+
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+          <div class="story-block clearfix">
+  <div class="story-photo pull-left"><a href="https://news.un.org/en/story/2016/08/536982-un-experts-press-turkey-adhere-human-rights-obligations-despite-state-emergency"><!-- scald=432132:un_news_small --><img class="img-responsive" src="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2016/08/25111/image100x100cropped.jpg" title="Street scene in Izmir, Turkey." width="" height="" /><!-- END scald=432132 --></a></div>
+  <h1 class="story-title"><a href="https://news.un.org/en/story/2016/08/536982-un-experts-press-turkey-adhere-human-rights-obligations-despite-state-emergency">UN experts press Turkey to adhere to human rights obligations despite state of emergency</a></h1>
+</div>    </div>
+
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+      </aside>  <!-- /#sidebar-second -->
+    
+  </div>
+</div>
+
+
+
+
+
+<div class="container social-media">
+  <div class="col-md-12 closure">
+        <section id="block-block-5" class="block block-block clearfix">
+
+      
+  <ul><li class="facebook"><a href="https://www.facebook.com/UN.News.Centre/">Facebook</a></li>
+<li class="twitter"><a href="https://twitter.com/un_news_centre">Twitter</a></li>
+<li class="youtube"><a href="https://www.youtube.com/channel/UCKNIcuMBo4S6GLY9xNCRS-Q">YouTube</a></li>
+<li class="flickr"><a href="https://www.flickr.com/photos/un_photo/">Flickr</a></li>
+<li class="instagram"><a href="https://www.instagram.com/unitednations/">Instagram</a></li>
+<li class="pinterest"><a href="https://www.pinterest.com/unitednations/">Pinterest</a></li>
+<li class="tumblr"><a href="https://united-nations.tumblr.com/">Tumblr</a></li>
+<li class="more"><a href="https://news.un.org/en/es/sections/about-website/un-social-media/">Cuentas Oficiales de la ONU</a></li>
+</ul>
+</section>
+  </div>
+</div>
+
+
+<div class="container">
+  <section class="col-xs-12 col-md-12">
+    <div class="row sections-row">
+          <section id="block-views-story-story-news-tracker-block" class="block block-views clearfix">
+
+        <h2 class="block-title">News Tracker: Past Stories on This Issue</h2>
+    
+  <div class="view view-story view-id-story view-display-id-story_news_tracker_block story-news-tracker-block teaser view-dom-id-4aec291cef38d4b932615587b746aa66">
+        
+  
+  
+      <div class="view-content">
+      
+  <div class="views-row views-row-1 views-row-odd views-row-first views-row-last clearfix">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="story-photo pull-left"><!-- scald=456222:un_news_medium {"link":"node\/561072"} --><a href="/en/story/2017/07/561072-rights-defenders-must-not-be-silenced-says-un-office-urging-turkey-release"><img class="img-responsive" src="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2017/07/27583/image300x180cropped.jpg" title="Elizabeth Throssell, OHCHR." width="247px" height="150px" /></a><!-- END scald=456222 --></div>
+<div class="body-wrapper">
+<h1 class="story-title"><a href="/en/story/2017/07/561072-rights-defenders-must-not-be-silenced-says-un-office-urging-turkey-release">Rights defenders ‘must not be silenced,’ says UN office, urging Turkey to release activists</a></h1>
+<div class="story-date pull-left"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-07-07T00:00:00-04:00">7 July 2017</span></div>
+<div class="topics"><a href="/en/news/topic/human-rights">Human Rights</a></div>
+<div class="news-body"><p>The United Nations today voiced grave concern about the arbitrary detention and arrests of human rights defenders in Turkey and called on the Government to ensure that activists can carry out their work in a safe and enabling environment without fear.</p>
+</div>
+</div>
+</span>  </div>  </div>
+
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+    </div>
+  </section>
+</div>
+<footer class="footer container">
+  <div class="row">
+    <section class="col-xs-12 col-md-12">
+      <div class="row">
+            <section id="block-unnews-blocks-unnews-footer-about-us" class="block block-unnews-blocks col-md-3 clearfix">
+
+        <h2 class="block-title">Resources</h2>
+    
+  <div class="menu-block-wrapper menu-block-unnews_footer_about_us menu-name-menu-footer-menu parent-mlid-2342 menu-level-1">
+  <ul class="menu nav"><li class="first leaf menu-mlid-2352"><a href="/en/content/information-broadcasters">Information for Broadcasters</a></li>
+<li class="leaf menu-mlid-2353"><a href="/en/content/un-system-links">UN System Links</a></li>
+<li class="leaf menu-mlid-2354"><a href="http://www.un.org/en/media/accreditation/alert.shtml">Media Alert</a></li>
+<li class="leaf menu-mlid-2355"><a href="https://journal.un.org/">UN Journal</a></li>
+<li class="leaf menu-mlid-2357"><a href="https://www.un.org/press/en/content/meetings-coverage/">Meetings Coverage</a></li>
+<li class="last leaf menu-mlid-2358"><a href="http://www.unmultimedia.org/avlibrary/">Audiovisual Library</a></li>
+</ul></div>
+
+</section>
+<section id="block-unnews-blocks-unnews-footer-media-partners" class="block block-unnews-blocks col-md-3 clearfix">
+
+        <h2 class="block-title">Secretary-General</h2>
+    
+  <div class="menu-block-wrapper menu-block-unnews_footer_media_partners menu-name-menu-footer-menu parent-mlid-2340 menu-level-1">
+  <ul class="menu nav"><li class="first leaf menu-mlid-2344"><a href="https://www.un.org/sg/en/content/sg/secretary-generals-speeches">All Statements</a></li>
+<li class="leaf menu-mlid-2346"><a href="https://www.un.org/sg/en/content/travels">Official Travels</a></li>
+<li class="leaf menu-mlid-2345"><a href="https://www.un.org/sg/en/content/sg/press-encounters">Press Encounters</a></li>
+<li class="last leaf menu-mlid-2347"><a href="https://twitter.com/antonioguterres?lang=en">SG Twitter</a></li>
+</ul></div>
+
+</section>
+<section id="block-unnews-blocks-unnews-footer-media-resources" class="block block-unnews-blocks col-md-3 clearfix">
+
+        <h2 class="block-title">Spokesperson's Office</h2>
+    
+  <div class="menu-block-wrapper menu-block-unnews_footer_media_resources menu-name-menu-footer-menu parent-mlid-2341 menu-level-1">
+  <ul class="menu nav"><li class="first leaf menu-mlid-2348"><a href="https://www.un.org/sg/en/spokesperson">Latest Statements</a></li>
+<li class="leaf menu-mlid-2349"><a href="https://www.un.org/sg/en/content/ossg/noon-briefing-highlight">Briefing Highlights</a></li>
+<li class="leaf menu-mlid-2350"><a href="http://www.un.org/press/en/content/noon-briefings">Briefing Transcripts</a></li>
+<li class="last leaf menu-mlid-2351"><a href="https://www.un.org/sg/en/content/sg/notes-correspondents">Notes to Correspondents</a></li>
+</ul></div>
+
+</section>
+<section id="block-unnews-blocks-unnews-footer-meeting-coverage" class="block block-unnews-blocks col-md-3 clearfix">
+
+        <h2 class="block-title">Find Us</h2>
+    
+  <div class="menu-block-wrapper menu-block-unnews_footer_meeting_coverage menu-name-menu-footer-menu parent-mlid-2343 menu-level-1">
+  <ul class="menu nav"><li class="first leaf menu-mlid-2362"><a href="https://www.facebook.com/UN.News.Centre">Facebook</a></li>
+<li class="leaf menu-mlid-2360"><a href="/en/rss-feeds">RSS</a></li>
+<li class="leaf menu-mlid-2361"><a href="https://twitter.com/UN_News_Centre">Twitter</a></li>
+<li class="leaf menu-mlid-2363"><a href="https://www.youtube.com/user/unitednations">YouTube</a></li>
+<li class="leaf menu-mlid-2359"><a href="/en/contact">Contact UN News</a></li>
+<li class="last leaf menu-mlid-2364"><a href="/en/content/navigate-news">Navigate the News</a></li>
+</ul></div>
+
+</section>
+      </div>
+    </section> <!-- /.block -->
+  </div>
+
+  <div id="block-menu-footer-links" class="row list-inline footer-brand">
+    <div class="col-md-12">
+      <div class="pull-left flip footer-emblem">
+          <a href="index.html" title="Home"><span class="site-name">United Nations</span></a>
+      </div>
+      <div class="pull-right flip"><ul class="nav-bar list-inline"><li class="menu-681 first"><a href="http://www.un.org/en/sections/about-website/site-index/index.html">A-Z Site Index</a></li>
+<li class="menu-685"><a href="http://www.un.org/en/contact-us/index.html">Contact</a></li>
+<li class="menu-686"><a href="http://www.un.org/en/aboutun/copyright/index.html">Copyright</a></li>
+<li class="menu-690"><a href="http://www.un.org/en/sections/about-un/frequently-asked-questions/index.html">FAQ</a></li>
+<li class="menu-689"><a href="http://www.un.org/en/sections/aboutun/fraud-alert/index.html">Fraud Alert</a></li>
+<li class="menu-688"><a href="http://www.un.org/en/sections/about-website/privacy-notice/index.html">Privacy Notice</a></li>
+<li class="menu-687 last"><a href="http://www.un.org/en/sections/about-website/terms-use/index.html">Terms of Use</a></li>
+</ul></div>
+    </div>
+  </div>
+</footer>  <script src="https://news.un.org/en/sites/news.un.org.en/files/js/js_X5HT2CvWvPgzklCXpfeoVpo9cXrHdyVsmqd2oSrF4DE.js"></script>
+<script src="https://news.un.org/en/sites/news.un.org.en/files/js/js_L50O_PWoAuMOxVjnzZCkNSSmI0kFwhZsO1_KS8WnGKw.js"></script>
+</body>
+</html>

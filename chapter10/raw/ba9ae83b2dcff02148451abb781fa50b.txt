@@ -1,0 +1,1915 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>  <html lang="en" class="ie ie6 lte9 lte8 lte7"> <![endif]-->
+<!--[if IE 7]>     <html lang="en" class="ie ie7 lte9 lte8 lte7"> <![endif]-->
+<!--[if IE 8]>     <html lang="en" class="ie ie8 lte9 lte8"> <![endif]-->
+<!--[if IE 9]>     <html lang="en" class="ie ie9 lte9"> <![endif]-->
+<!--[if gt IE 9]>  <html lang="en"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+  
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <!--[if IE]> <meta http-equiv="X-UA-Compatible" content="IE=edge" /> <![endif]-->
+    <title>Amnesty urges Pakistan to end impunity enjoyed by perpetrators of enforced disappearances - Pakistan - DAWN.COM</title> 
+     <meta name='subject' content='Your window to latest news, analysis and features from Pakistan, South Asia and the world.' /> 
+     <meta property='fb:app_id' content='1383068068604634' /> 
+     <meta property='fb:pages' content='86398345441' /> 
+     <meta property='og:locale' content='en_US' /> 
+     <link rel='canonical' href='https://www.dawn.com/news/1396475' /> 
+     <link rel='dns-prefetch' href='//i.dawn.com'>
+     <link rel='dns-prefetch' href='//ajax.googleapis.com'>
+     <link rel='dns-prefetch' href='//cdnjs.cloudflare.com'>  
+     <link rel='amphtml' href='https://www.dawn.com/news/amp/1396475' />             
+    <meta name='twitter:card' content='summary' /> 
+    <meta name='twitter:site' content='@dawn_com' /> 
+    <meta name='twitter:url' content='https://www.dawn.com/news/1396475' />  
+    <meta name='twitter:title' content='Amnesty urges Pakistan to end impunity enjoyed by perpetrators of enforced disappearances' /> 
+    <meta name='twitter:description' content='Disappearances a tool of terror, constitute crime against humanity if part of systemic attack, says Amnesty.' /> 
+    <meta name='twitter:image' content='http://i.dawn.com/medium/2018/03/5ab11c0d6af9a.jpg' />
+            
+    <meta property='og:site_name' content='DAWN.COM' /> 
+    <meta property='og:url' content='https://www.dawn.com/news/1396475' /> 
+    <meta property='og:type' content='article' /> 
+    <meta property='og:title' content='Amnesty urges Pakistan to end impunity enjoyed by perpetrators of enforced disappearances' /> 
+    <meta property='og:description' content='Disappearances a tool of terror, constitute crime against humanity if part of systemic attack, says Amnesty.' /> 
+    <meta property='og:image' content='http://i.dawn.com/medium/2018/03/5ab11c0d6af9a.jpg' />
+            
+    <meta itemprop='name' content='Amnesty urges Pakistan to end impunity enjoyed by perpetrators of enforced disappearances' /> 
+    <meta itemprop='description' content='Disappearances a tool of terror, constitute crime against humanity if part of systemic attack, says Amnesty.' /> 
+    <meta itemprop='image' content='http://i.dawn.com/medium/2018/03/5ab11c0d6af9a.jpg' />
+            
+    <meta property='article:publisher' content='https://www.dawn.com' /> 
+    <meta property='article:published_time' content='2018-03-20 19:45:19' /> 
+    <meta property='article:modified_time' content='2018-03-20 19:51:45' /> 
+    <meta property='article:author' content='https://www.dawn.com/authors/119/afp' /> 
+    <meta property='article:section' itemprop='articleSection' content='pakistan' />
+            
+    <meta name='author' content='AFP' />  
+     <script type="application/ld+json">
+         {"@context":"http:\/\/schema.org","@type":"organization","logo":"https:\/\/www.dawn.com\/_img\/logo.png","name":"DAWN.COM","url":"https:\/\/www.dawn.com","sameAs":["https:\/\/www.facebook.com\/dawndotcom\/","https:\/\/twitter.com\/dawn_com","https:\/\/www.instagram.com\/dawn_dot_com\/",""],"potentialAction":{"@type":"SearchAction","target":"https:\/\/www.dawn.com\/search?cx=partner-pub-8258178831251847:5337004877&ie=UTF-8&q={search_term_string}","query-input":"required name=search_term_string"}}
+     </script>
+     <script type="application/ld+json">
+         {"@context": "http://schema.org", "@type": "BreadcrumbList","itemListElement": [{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/www.dawn.com\/pakistan","name":"Pakistan"}}]}
+     </script>
+  
+  
+    <link rel='preload' as='style' href='https://www.dawn.com/_css/print.20180313001910.css'>
+    <link rel='preload' as='style' href='https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i,900'>
+    <link rel='preload' as='style' href='https://www.dawn.com/_css/all.20180319143513.css'>
+    <link rel='preload' as='script' href='https://code.jquery.com/jquery-3.2.1.min.js'>
+    <link rel='preload' as='script' href='https://platform.twitter.com/widgets.js'>
+    <link rel='preload' as='script' href='https://www.dawn.com/_js/all.20180319143513.js'>
+    <link rel='preload' as='script' href='https://www.dawn.com/_js/prev-next-stories.20180313001910.js'>
+    <link rel='stylesheet'  href='https://www.dawn.com/_css/print.20180313001910.css' media='print'>
+    <link rel='stylesheet'  href='https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i,900' media='all'>
+    <link rel='stylesheet'  href='https://www.dawn.com/_css/all.20180319143513.css' media='all'>
+    
+<!-- - - - - - - adsense:header start - - - - - - -->
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+
+googleAdsSlots = [];
+googletag.cmd.push(function() {
+      
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-ASA-DESKTOP-TOP', [[728,90],[970,90],[970,250]], 'div-gpt-ad-1510380105517-0').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-LB-728x90-BOTTOM', [728,90], 'div-gpt-ad-1509519280329-0').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-LB-MOBILE-728x90-BOTTOM', [728,90], 'div-gpt-ad-1455531878761-2').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-MREC-MOBILE-300x250-2', [300,250], 'div-gpt-ad-1455520357400-6').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-LB-728x90-MIDDLE', [728,90], 'div-gpt-ad-1455520357400-2').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-MREC-DESKTOP-300x250-TOP', [300,250], 'div-gpt-ad-1455520357400-3').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-FLIMSTRIP-300x600', [[300,250],[300,600],[160,600]], 'div-gpt-ad-1520840073529-0').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-MREC-MOBILE-300x250-TOP', [300,250], 'div-gpt-ad-1455520357400-4').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-ASA-MOBILE-TOP', [[320,50],[728,90],[320,100]], 'div-gpt-ad-1518611317921-0').addService(googletag.pubads()));
+
+  googletag.pubads().set("document_language", "en");
+  
+  googletag.pubads().collapseEmptyDivs();
+  googletag.pubads().setTargeting('site', 'www.dawn.com');
+  googletag.pubads().setTargeting('category', ["Single Story","Pakistan"]);
+  googletag.pubads().setTargeting('tags', ["MISSING PERSONS"]);
+  
+  googletag.pubads().disableInitialLoad();
+  googletag.enableServices();
+});
+</script>
+<!-- - - - - - - adsense:header end - - - - - - -->
+
+<!-- - - - - start:refresh slots - - - - -->
+<script type="text/javascript">
+window.onload = function() {
+  googletag.cmd.push(function() {
+
+    function isEnabled(div) {
+      if (!div) return false;
+
+      var display = $(div).css('display');
+      var parent = $(div).parent();
+
+      if (display == 'none') return false;
+
+      if (parent.is('body')) {
+        return true;
+      } else {
+        return isEnabled(parent);
+      }
+    }
+
+    var resetCorrelator = true; // issue #470
+    for (i = 0; i < googleAdsSlots.length; i++) {
+      var slot = googleAdsSlots[i];
+      var id = slot.getSlotElementId();
+      var div = document.getElementById(id);
+
+      if (isEnabled(div)) {
+        googletag.pubads().refresh([slot], {changeCorrelator: resetCorrelator});
+        resetCorrelator = false;
+      }
+    }
+
+    // http://stackoverflow.com/a/30935893
+    // https://developers.google.com/doubleclick-gpt/reference#googletag.events.SlotRenderEndedEvent
+    // it is required as sometimes rendered ad is empty but rad adds width and height on the div
+    // which doesn't allow the ad to collapse in this case
+    googletag.pubads().addEventListener('slotRenderEnded', function(e) {
+      var $renderedSlot = $('#' + e.slot.getSlotElementId());
+      if(e.isEmpty) {
+        $renderedSlot.parents('.ad').attr("style", "display: none !important");
+      } else {
+        // https://github.com/aleemb/dawn.com/issues/836
+        // multi dimension ads rad init, as we don't know which ad is rendered so
+        // we get the dimensions of rendered ad and then configure it with rad
+        var width = 0;
+        var height = 0;
+        var isMultidimensionalAd = $renderedSlot.parents('.ad').find('.rad--multi').length > 0;
+        var isPriorityAd = $renderedSlot.parents('.ad').hasClass('ad--priority');
+        if(e.size.length) {
+          width = e.size[0];
+          height = e.size[1];
+        }
+        if (isMultidimensionalAd) {
+          if (width && height) {
+            $renderedSlot.css({width: width+'px', height: height+'px'});
+            $renderedSlot.closest('.js-ad').css({maxWidth: width+'px', maxHeight: height+'px'});
+            $renderedSlot.rad({allowBiggerSizing:'true'});
+          }
+        }
+        if (isPriorityAd) {
+          if (width && height) {
+            var onMouseOut  =  "javascript:this.style.overflow='hidden';"
+                   +"__adi=$(this).find('iframe').eq(0);"
+                   +"__adi.height(height);";
+            var onMouseOver =  "javascript:this.style.overflow='visible';"
+                   +"__adi=$(this).find('iframe').eq(0);"
+                   +"__adi.contents().height();" // weird, adding this fixes Firefox expanding issue
+                   +"setTimeout(function(){__adi.height(__adi.contents().height() || height);}, 10);";
+            $renderedSlot.parents('.js-ad').attr('onMouseOver', onMouseOver);
+            $renderedSlot.parents('.js-ad').attr('onMouseOut', onMouseOut);
+          }
+        }
+      }
+    });
+  });
+}
+</script>
+<!-- - - - - end:refresh slots - - - - -->
+  
+<!-- - - - - start:onesignal link - - - - -->
+<link rel='manifest' href='/manifest.json'>
+<!-- - - - - end:onesignal link - - - - -->
+
+            <!-- - - - - start:google - - - - -->
+            <script type="text/javascript">
+            (function (i,s,o,g,r,a,m) {i['GoogleAnalyticsObject']=r;i[r]=i[r]||function () {
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-40396753-1', 'auto');
+            
+    ga('set', 'dimension6', 'news/1396475');
+    ga('set', 'dimension1', 'Pakistan');
+    ga('set', 'dimension3', 'AFP-119');
+    ga('set', 'dimension5', '2018-03-20 19:45:19');
+    ga('set', 'dimension7', 'MISSING PERSONS');  
+    ga('set', 'contentGroup1', 'Pakistan');
+    ga('set', 'contentGroup2', 'AFP');
+            ga('require', 'displayfeatures');
+            ga('send', 'pageview');
+            </script>
+            <!-- - - - - end:google - - - - -->
+
+    <!-- - - - - start:chartbeat - - - - -->
+    <script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+    <!-- - - - - end:chartbeat - - - - -->
+  
+  <style>
+.adblock-alert {
+  padding: 8px;
+  background: #FFF;
+  top: 0;
+  left: 0;
+  z-index: 202;
+  display: none;
+  position: absolute;
+}
+.adblocker-overlay {
+  position: fixed; 
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #000;
+  opacity: 0.5;
+  z-index: 999;
+}
+.adblocker-modal {
+  position: fixed;
+  background: #FFF;
+  border: 2px solid #2F2F2F;
+  left: 50%;
+  top: 50%;
+  width: 600px;
+  height: 200px;
+  margin-left: -300px;
+  margin-top: -100px;
+  overflow: hidden;
+  z-index: 99999999;
+}
+.adblocker-modal__heading {
+  background: #000;
+  text-align: center;
+}
+.adblocker-modal__content {
+  text-align: center;
+  padding: 9px;
+  margin: 9px;
+}
+.adblocker-modal__button {
+  text-align: center;
+  width: 100px;
+  margin: 10px auto;
+  background: #D2D2D2;
+  cursor: pointer;
+  padding: 5px;
+  color: #F00;
+  font-weight: bold;
+  text-transform: uppercase;
+  display: block;
+}
+.ie-alert {
+  padding: 8px;
+  background: #FFF;
+  top: 0;
+  left: 0;
+  z-index: 3001;
+  display: none;
+  position: fixed;
+}
+.ie8 .ie-alert,
+.lte8 .ie-alert {
+  display: block;
+}
+</style>
+  <!--[if lt IE 9]>
+  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</head>
+
+<body class="modifier--missing-persons  article  pakistan    template--default  modifier--default  theme--white  adsonly  single-story">
+
+<header class="pb-2">
+  
+<div class="container-fluid">
+  <div class="px-2  mb-2  d-none  d-sm-block">
+    <ul class='nav  nav--network  text-center  size-two'>
+                <li class='nav__item  nav__item--epaper  text--400      '><a  class='' href='http://epaper.dawn.com'>EPAPER</a></li>
+                <li class='nav__item  nav__item--live-tv  text--400      '><a  class='' href='http://www.dawnnews.tv/watch-live'>LIVE TV</a></li>
+                <li class='nav__item  nav__item--dawnnews-urdu  text--400      '><a  class='' href='http://www.dawnnews.tv'>DAWNNEWS URDU</a></li>
+                <li class='nav__item  nav__item--images  text--400      '><a  class='' href='http://images.dawn.com'>Images</a></li>
+                <li class='nav__item  nav__item--herald  text--400      '><a  class='' href='http://herald.dawn.com'>Herald</a></li>
+                <li class='nav__item  nav__item--aurora  text--400      '><a  class='' href='http://aurora.dawn.com'>Aurora</a></li>
+                <li class='nav__item  nav__item--cityfm89  text--400      '><a target='_blank' class='' href='http://cityfm89.com'>CityFM89</a></li>
+                <li class='nav__item  nav__item--teeli  text--400      '><a target='_blank' class='' href='https://www.youtube.com/channel/UCkMdI0K-74jAjOmh5J5H97Q'>Teeli</a></li>
+                <li class='nav__item  nav__item--advertise  text--400      '><a target='_blank' class='' href='http://www.dawn.com/advertise'>Advertise</a></li>
+                <li class='nav__item  nav__item--events  text--400      '><a target='_blank' class='' href='http://educationexpo.dawn.com'>Events</a></li>
+                <li class='nav__item  nav__item--supplements  text--400      '><a  class='' href='http://www.dawn.com/events/supplements'>Supplements</a></li>
+                <li class='nav__item  nav__item--classifieds  text--400      '><a target='_blank' class='' href='http://classifieds.dawn.com/'>Classifieds</a></li>
+                <li class='nav__item  nav__item--obituaries  text--400      '><a target='_blank' class='' href='http://obituary.dawn.com'>Obituaries</a></li>
+          </ul>
+  </div>
+</div> <!-- .container-fluid -->
+<div class="mx-2">
+  <div class="container-fluid">
+
+    <div class='row  no-gutters'>
+      <div class='col-3'>
+      </div>
+
+      <div class='col-sm-6  col-12'>
+        <div class="mast  text-center  mx-2">
+                      <a href='/' class=''>
+                <h1 class='text-hide  logo  mx-auto  my-4'>
+                    DAWN.COM
+                </h1>      
+            </a>        </div>
+      </div>
+
+      <div class='col-3'>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<div class='container-fluid  headroom'>
+  <div class="px-2  border--ends  clearfix">
+    
+<div class='float-left  col-12  col-md-11'>
+  <ul class='nav  nav--primary  nav--responsive  nav--dawn-primary  '>
+                <li class='nav__item  nav__item--home  theme        '><a  class='' href='/'>Home</a></li>
+                <li class='nav__item  nav__item--latest-news  theme        '><a  class='' href='/latest-news'>Latest</a></li>
+                <li class='nav__item  nav__item--trends  theme        '><a  class='' href='/trends/psl2018'>PSL2018</a></li>
+                <li class='nav__item  nav__item--pakistan  theme      active  '><a  class='' href='/pakistan'>Pakistan</a></li>
+                <li class='nav__item  nav__item--today-s-paper  theme        '><a  class='' href='http://epaper.dawn.com'>Today's Paper</a></li>
+                <li class='nav__item  nav__item--opinion  theme        '><a  class='' href='/opinion'>Opinion</a></li>
+                <li class='nav__item  nav__item--world  theme        '><a  class='' href='/world'>World</a></li>
+                <li class='nav__item  nav__item--sport  theme        '><a  class='' href='/sport'>Sport</a></li>
+                <li class='nav__item  nav__item--business  theme        '><a  class='' href='/business'>Business</a></li>
+                <li class='nav__item  nav__item--magazines  theme        '><a  class='' href='/magazines'>Magazines</a></li>
+                <li class='nav__item  nav__item--entertainment  theme        '><a  class='' href='/entertainment'>Culture</a></li>
+                <li class='nav__item  nav__item--blogs  theme        '><a  class='' href='/blogs'>Blogs</a></li>
+                <li class='nav__item  nav__item--tech  theme        '><a  class='' href='/tech'>Tech</a></li>
+                <li class='nav__item  nav__item--popular  theme        '><a  class='' href='/popular'>Popular</a></li>
+                <li class='nav__item  nav__item--multimedia  theme        '><a  class='' href='/multimedia'>Multimedia</a></li>
+                <li class='nav__item  nav__item--newspaper  theme        '><a  class='' href='/newspaper'>Archive</a></li>
+                <li class='nav__item  nav__item--in-depth  theme        '><a  class='' href='/in-depth'>In Depth</a></li>
+          </ul>
+</div>
+<ul class="nav  nav--aside  float-left  py-1  col-1 d-none  d-md-block">
+  <li class='nav__item  col-12  text-right'>
+    <button class='js-search  search  bald  size-two  text--gray  transparent  transparent--gray p-1'>
+      <img src='https://www.dawn.com/_img/search.png' alt="Search Icon" width='15' title='Dawn Search' /><span class="d-none  d-lg-inline-block">SEARCH</span>
+    </button>
+  </li>
+</ul>
+
+
+<div class='search-box  text-center  '>
+<form accept-charset="utf-8" class="form-vertical" method="GET" action="https://www.dawn.com/search">  <input class="form-control" type="hidden" name="cx" value="partner-pub-8258178831251847:5337004877">  <input class="form-control" type="hidden" name="cof" value="FORID:10">  <input class="form-control" type="hidden" name="ie" value="UTF-8">  <div class="form-group required"><input class="form-control search  col-offset-2  col-8  p-1  theme    mb-1" placeholder="Search" required id="q" type="text" name="q"></div></form></div>  </div>
+</div></header>
+<div class="aux-content" style="overflow: hidden;">
+  <div class='adblocker-overlay' style='display: none;'></div>
+<div class='adblocker-modal' style="display: none;">
+  <h1 class='adblocker-modal__heading'><img src='/_img/logo--white.png' width='150' alt="Dawn Logo" /></h1>
+  <div class='adblocker-modal__content'>
+    <img src='//i.dawn.com/thumbnail/2016/06/5757a76ba0f4b.png' alt="Alert Sign" width='20' /> Dear reader, online ads enable us to deliver the journalism you value. Please support us by taking a moment to 
+    <a href='//www.dawn.com/news/1262907/adblock-instructions'>turn off Adblock</a> on Dawn.com.
+  </div>
+  <button class='adblocker-modal__button'></button>
+</div>
+<div class='col-12  text-center  adblock-alert'>
+  <img src='//i.dawn.com/thumbnail/2016/06/5757a76ba0f4b.png' alt="Alert Sign" width='20' /> Dear reader, online ads enable us to deliver the journalism you value. Please support us by taking a moment to 
+  <a href='//www.dawn.com/news/1262907/adblock-instructions'>turn off Adblock</a> on Dawn.com.
+</div><div class='col-12  text-center  ie-alert'>
+  <p><img src='//i.dawn.com/thumbnail/2016/06/5757a76ba0f4b.png' alt="Alert Sign" width='20' /> Dear reader, please upgrade to the latest version of IE to have a better reading experience</p>.
+</div>      <div class="container-fluid  px-1  d-none  pb-2  mb-4  d-sm-block">
+      
+        <!--- 90  728 -->
+<!-- - - adsense: start - - -->
+<div class='ad    ad--priority' aria-hidden='true'>
+  <div class='ad__label  ' style='max-width:728px;'>Advertisement</div>
+  <div class="js-ad  clearfix" style='max-width:728px;padding-bottom:12.362637362637%;text-align:center;margin:0 auto;overflow:hidden;'>
+    <div class="radWrapper  rad--multi  ad__wrapper">
+      <div id='div-gpt-ad-1510380105517-0' class='ad__wrapper__slot' style='width:728px;position:absolute'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1510380105517-0'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+    </div>
+        <div class="container-fluid  px-1  d-block  pb-2  border--bottom  mb-4  d-sm-none">
+      
+        <!--- 90  728 -->
+<!-- - - adsense: start - - -->
+<div class='ad  ' aria-hidden='true'>
+  <div class='ad__label  ' style='max-width:728px;'>Advertisement</div>
+  <div class="js-ad  clearfix" style='max-width:728px;padding-bottom:12.362637362637%;text-align:center;margin:0 auto;overflow:hidden;'>
+    <div class="radWrapper  rad--multi  ad__wrapper">
+      <div id='div-gpt-ad-1518611317921-0' class='ad__wrapper__slot' style='width:728px;position:absolute'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1518611317921-0'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+    </div>
+  </div>
+
+<div class="main-wrapper">
+  <div class="container">
+    <div class="content">
+      <main class="px-sm-2  px-0">
+        <div class="row  no-gutters">
+          <div class="col-12">
+            <article class="story">
+              
+    <!-- box/social -->
+  <!-- ******** template/header ******** -->
+  <div class='template__header  clearfix    modifier--open        px-1'>
+
+    <!-- box/social -->
+
+    <!-- box/title xxxlarge-border-bottom-mt:1-pb:3 -->
+    <h2 data-layout='story'  data-id='1396475'  class='story__title    size-ten      mt-1  pb-3  border--bottom'><a href='https://www.dawn.com/news/1396475/amnesty-urges-pakistan-to-end-impunity-enjoyed-by-perpetrators-of-enforced-disappearances' class='story__link'>Amnesty urges Pakistan to end impunity enjoyed by perpetrators of enforced disappearances</a></h2>
+<!-- box/byline --><div class='    my-3  ml-sm-0  ml-1  d-block  d-sm-inline-block  float-none  float-sm-left'><span class='story__byline    font--arial    '><a href='https://www.dawn.com/authors/119/afp'>AFP</a></span><span class='divider  '></span><!-- box/date --><span class='story__time    font--arial    '>March 20, 2018</span> </div>
+    <!-- box/social -->
+<div class='d-block  d-sm-inline-block  clearfix  float-none  float-sm-right'>    <div class="social    social--icon  social--black  social--flat  social--facebook    social--count    float-left    mr-1  my-2  ">
+        <a onclick="return !window.open(this.href, 'Share on Facebook', 'width=640, height=536')" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dawn.com%2Fnews%2F1396475&display=popup&ref=plugin" target="_blank"><span style='clip: rect(1px, 1px, 1px, 1px); height: 1px; overflow:hidden; position: absolute; white-space: nowrap; width: 1px;'>Facebook Count</span><span data-fb-count-url='https%3A%2F%2Fwww.dawn.com%2Fnews%2F1396475'><span class='count'></span></span></a>
+    </div>    <div class="social    social--icon  social--black  social--flat  social--twitter    float-left    mr-1  my-2  ">
+        <a onclick="return !window.open(this.href, 'Tweet', 'width=640, height=300')" href="https://twitter.com/share?text=Amnesty%20urges%20Pakistan%20to%20end%20impunity%20enjoyed%20by%20perpetrators%20of%20enforced%20disappearances&url=https%3A%2F%2Fwww.dawn.com%2Fnews%2F1396475&counturl=https%3A%2F%2Fwww.dawn.com%2Fnews%2F1396475" target="_blank"><span style='clip: rect(1px, 1px, 1px, 1px); height: 1px; overflow:hidden; position: absolute; white-space: nowrap; width: 1px;'>Twitter Share</span></a>
+    </div>    <div class="social  hidden-xs-down    social--print    social--icon  social--black  social--flat      float-left    mr-1  my-2">
+      <a href="https://www.dawn.com/news/print/1396475">&nbsp;&nbsp;&nbsp;</a>
+    </div>    <div class="social    social--email    social--icon  social--black  social--flat      float-left    mr-1  my-2">
+      <a onclick="$('.mailer [name^=id]').val(1396475);$('.mailer').modal().open()" href="javascript:void(0)"></a>
+    </div>                            <div class="mailer  themodal  themodal--centered" style="width:400px;height:260px;background:#fff">
+                              <h3>Email</h3>
+                              <br />
+                              <form accept-charset="utf-8" class="form-vertical emailer" onsubmit="javascript:$.post(this.action, $(this).serialize());$(this).html('Mail sent, thank you!');return false;" method="POST" action="https://www.dawn.com/news/email/1396475"><input class="form-control" type="hidden" name="jscheck" value=""><div class="form-group"><label for="sender" class="control-label">Your Name</label><input class="form-control" id="sender-2" type="text" name="sender"></div><div class="form-group"><label for="to" class="control-label">Recipient Email</label><input class="form-control" id="to-2" type="text" name="to"></div><input class="form-control" type="hidden" name="id" value=""><input class="btn mt-2" type="submit" value="Email"><input class="form-control" type="hidden" name="_token" value=""></form>
+                            </div>    <div class="social    social--comment    social--icon  social--black  social--flat  social--label  text--700    float-left    mr-1  my-2">
+      <a href="#comments">3</a>
+    </div></div>
+
+  </div>
+  <!-- ******** /template/header ******** -->  <!-- ******** template/main ******** -->
+  <div class='template__main  clearfix    modifier--open        px-1  modifier--widedefault  modifier--quote-center-narrow'>
+
+    <!-- box/social -->
+
+
+    <!-- box/content -->
+    <div class='story__content          pt-1  mt-1'><div style='display: none'></div><p class=''>Human rights watchdog Amnesty International has called on Pakistan to resolve hundreds of cases of enforced disappearances for which &quot;no one has ever been held accountable&quot;. </p><p class=''>&quot;Disappearances are a tool of terror... if committed as part of a widespread or systematic attack, they constitute a crime against humanity,&quot; Amnesty said in a statement issued on Monday, calling on Pakistan to &quot;take concrete steps to end impunity&quot;. </p><p class=''>Pakistan has had a history of enforced disappearances over the past decade, mainly confined in the past to conflict zones near the Afghanistan border or to Balochistan, where separatists have been agitating for independence. </p><p class=''><em>Read more: <a href='https://www.dawn.com/news/1363269' >‘Commission has failed to fix responsibility for missing persons’</a></em></p><p class=''>However, in recent years, a growing number of such abductions have taken place brazenly in major urban centres such as Karachi, Lahore and even Islamabad. </p><p class=''>Security agencies routinely deny being involved.</p><p class=''>Last year, five social media activists who had been critical of the military as well as extremism were also disappeared, with their abductions sparking nationwide protests. </p><p class=''><em>Explore: <a href='https://www.dawn.com/news/1382675' >Police clueless in case concerning journalist Taha Siddiqui&#39;s attempted abduction</a></em></p><p class=''>Four were released within weeks, but the fate of the fifth remains unknown. </p><p class=''>Many other people are believed to still be in custody. According to Amnesty, the United Nations (UN) has more than 700 such cases pending in Pakistan, while a state commission of inquiry into enforced disappearances lists hundreds of additional cases. </p><p class=''>Victims include bloggers, journalists, students, peace activists and other human rights defenders. </p><p class=''>Few punishments, Amnesty said, are &quot;as cruel and deliberate... Families are plunged into a state of anguish, trying to keep the flame of hope alive while fearing the worst. They may be in this limbo for years.&quot;</p><p class=''><em>Read more: <a href='https://www.dawn.com/news/1332397' >2016 saw highest number of disappearances in six years, HRCP report finds</a></em></p><p class=''>According to the non-governmental organisation, Pakistan has recently accepted UN recommendations that make enforced disappearances a crime but has refused to ratify an international convention protecting anyone from enforced disappearances.</p>
+    </div>
+
+
+  </div>
+  <!-- ******** /template/main ******** -->                <!-- ******** template/footer ******** -->
+  <div class='template__footer  clearfix    modifier--open        px-1'>
+                <div class="row  no-gutters">
+                  <div class="col-12  col-sm-10  col-sm-offset-1">
+                    <div class="row  no-gutters">
+                      <div class="col-12  col-sm-11">
+                        <div class="ml-0  ml-sm-6  px-0  px-sm-2">
+                          <hr>
+                          <div class="row  no-gutters">
+                            <div class="col-12  col-sm-6">
+                                                          <div class="ml-1  ml-sm-0  mb-0  mt-0  mt-sm-1  mb-sm-4">                       
+                                <span class="caps  size-three  float-left  font--arial"><a class='text--darkred' href='/trends/missing-persons'>MISSING PERSONS</a></span>
+                                <span class='divider  divider--gray  float-left'></span>
+                                <span class="size-three  caps  float-left  font--arial">
+    <!-- box/label -->
+
+    <span  class='badge  size-three      '><a title='Pakistan' href='/pakistan' class=''>Pakistan</a></span>
+</span>
+                              </div>
+                                                        </div>
+                            <div class="col-12  col-sm-6">
+                              <div class="mt-2  mt-sm-0  clearfix  social-container">
+                                
+    <!-- box/social -->
+    <div class="social    social--icon  social--black  social--flat  social--facebook    social--count  float-left    mr-1  ">
+        <a onclick="return !window.open(this.href, 'Share on Facebook', 'width=640, height=536')" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dawn.com%2Fnews%2F1396475&display=popup&ref=plugin" target="_blank"><span style='clip: rect(1px, 1px, 1px, 1px); height: 1px; overflow:hidden; position: absolute; white-space: nowrap; width: 1px;'>Facebook Count</span><span data-fb-count-url='https%3A%2F%2Fwww.dawn.com%2Fnews%2F1396475'><span class='count'></span></span></a>
+    </div>    <div class="social    social--icon  social--black  social--flat  social--twitter  float-left    mr-1  ">
+        <a onclick="return !window.open(this.href, 'Tweet', 'width=640, height=300')" href="https://twitter.com/share?text=Amnesty%20urges%20Pakistan%20to%20end%20impunity%20enjoyed%20by%20perpetrators%20of%20enforced%20disappearances&url=https%3A%2F%2Fwww.dawn.com%2Fnews%2F1396475&counturl=https%3A%2F%2Fwww.dawn.com%2Fnews%2F1396475" target="_blank"><span style='clip: rect(1px, 1px, 1px, 1px); height: 1px; overflow:hidden; position: absolute; white-space: nowrap; width: 1px;'>Twitter Share</span></a>
+    </div>    <div class="social  hidden-xs-down    social--print    social--icon  social--black  social--flat    float-left    mr-1">
+      <a href="https://www.dawn.com/news/print/1396475">&nbsp;&nbsp;&nbsp;</a>
+    </div>    <div class="social    social--email    social--icon  social--black  social--flat    float-left    mr-1">
+      <a onclick="$('.mailer [name^=id]').val(1396475);$('.mailer').modal().open()" href="javascript:void(0)"></a>
+    </div>                            <div class="mailer  themodal  themodal--centered" style="width:400px;height:260px;background:#fff">
+                              <h3>Email</h3>
+                              <br />
+                              <form accept-charset="utf-8" class="form-vertical emailer" onsubmit="javascript:$.post(this.action, $(this).serialize());$(this).html('Mail sent, thank you!');return false;" method="POST" action="https://www.dawn.com/news/email/1396475"><input class="form-control" type="hidden" name="jscheck" value=""><div class="form-group"><label for="sender" class="control-label">Your Name</label><input class="form-control" id="sender" type="text" name="sender"></div><div class="form-group"><label for="to" class="control-label">Recipient Email</label><input class="form-control" id="to" type="text" name="to"></div><input class="form-control" type="hidden" name="id" value=""><input class="btn mt-2" type="submit" value="Email"><input class="form-control" type="hidden" name="_token" value=""></form>
+                            </div>    <div class="social    social--comment    social--icon  social--black  social--flat  social--label  text--700  float-left    mr-1">
+      <a href="#comments">3</a>
+    </div>                              </div>
+                            </div>
+                          </div>
+                          <div class="row  no-gutters">
+                            
+        <!--- 250  300 -->
+<!-- - - adsense: start - - -->
+<div class='ad  py-4  d-block  d-sm-none' aria-hidden='true'>
+  <div class='ad__label  ' style='max-width:300px;'>Advertisement</div>
+  <div class="js-ad  clearfix" style='max-width:300px;padding-bottom:83.333333333333%;text-align:center;margin:0 auto;overflow:hidden;'>
+    <div class="radWrapper  ad__wrapper">
+      <div id='div-gpt-ad-1455520357400-6' class='ad__wrapper__slot' style='width:300px;position:absolute'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455520357400-6'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="border--top  border--thick  border--black">
+                  <h3 class="related-stories  my-2">Read more</h3>
+                  <div class="row  no-gutters">
+                    <div class="col-lg-8  col-12">
+                      
+
+<div class=' slideshow--list    slideshow--related    mt-2'>
+ <div class='clear--both'>  <div class='slideshow--row__item   active   pr-0  pr-sm-2  mb-2  lap-and-up-border--right  palm-border--bottom  equalize  float-left' data-id='0' style='float:left;width:32.333333333333%;margin-right:1.5%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-1  mb-1  mb-sm-2  mt-sm-0  pt-0  pb-1  pb-sm-2  pt-1  pt-sm-0  pr-0' data-id='1393452' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media        media--focus      col-sm-12  col-3  mr-sm-0  mr-2  float-sm-none      px-0  ' data-focus-x='0%' data-focus-y='0%'>
+        <div class='media__item    media__item--100          '><a title='' href='https://www.dawn.com/news/1393452/families-of-the-disappeared-hear-nothing-but-silence-from-officialdom'><img src='https://i.dawn.com/medium/2018/03/5a9df6e08c298.jpg'  alt='Families of the &lsquo;disappeared&rsquo; hear nothing but silence from officialdom' /></a></div>        
+    </figure>
+
+    <!-- box/title py:sm:2-py:0 -->
+    <h2 data-layout='story'  data-id='1393452'  class='story__title          py-sm-2  py-0  '><a href='https://www.dawn.com/news/1393452/families-of-the-disappeared-hear-nothing-but-silence-from-officialdom' class='story__link'>Families of the ‘disappeared’ hear nothing but silence from officialdom</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+  <div class='slideshow--row__item    pr-0  pr-sm-2  mb-2  lap-and-up-border--right  palm-border--bottom  equalize  float-left' data-id='1' style='float:left;width:32.333333333333%;margin-right:1.5%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-1  mb-1  mb-sm-2  mt-sm-0  pt-0  pb-1  pb-sm-2  pt-1  pt-sm-0  pr-0' data-id='1320669' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media        media--focus  media--stretch    col-sm-12  col-3  mr-sm-0  mr-2  float-sm-none      px-0  ' >
+        <div class='media__item    media__item--100          '><a title='' href='https://www.dawn.com/news/1320669/a-misery-called-disappearance'><img src='https://i.dawn.com/medium/2017/03/58c9743879d65.jpg'  alt='A misery called disappearance' /></a></div>        
+    </figure>
+
+    <!-- box/title py:sm:2-py:0 -->
+    <h2 data-layout='story'  data-id='1320669'  class='story__title          py-sm-2  py-0  '><a href='https://www.dawn.com/news/1320669/a-misery-called-disappearance' class='story__link'>A misery called disappearance</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+  <div class='slideshow--row__item    pr-0  pr-sm-2  mb-2  lap-and-up-border--right  palm-border--bottom  equalize  float-left' data-id='2' style='float:left;width:32.333333333333%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-1  mb-1  mb-sm-2  mt-sm-0  pt-0  pb-1  pb-sm-2  pt-1  pt-sm-0  pr-0' data-id='1282017' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media        media--focus  media--stretch    col-sm-12  col-3  mr-sm-0  mr-2  float-sm-none      px-0  ' >
+        <div class='media__item    media__item--100          '><a title='' href='https://www.dawn.com/news/1282017/papa-im-sorry-i-am-your-useless-daughter'><img src='http://i.dawn.com/medium/2016/09/57cbef6bcae47.jpg'  alt='Papa, I&amp;#39;m sorry I am your useless daughter' /></a></div>        
+    </figure>
+
+    <!-- box/title py:sm:2-py:0 -->
+    <h2 data-layout='story'  data-id='1282017'  class='story__title          py-sm-2  py-0  '><a href='https://www.dawn.com/news/1282017/papa-im-sorry-i-am-your-useless-daughter' class='story__link'>Papa, I&#39;m sorry I am your useless daughter</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+</div><div class='clear--both'> </div></div>
+
+        <!--- 90  728 -->
+<!-- - - adsense: start - - -->
+<div class='ad  py-2  ad--adjustable  my-4  border--ends  d-none  d-sm-block' aria-hidden='true'>
+  <div class='ad__label  ' style='max-width:728px;'>Advertisement</div>
+  <div class="js-ad  clearfix" style='max-width:728px;padding-bottom:12.362637362637%;text-align:center;margin:0 auto;overflow:hidden;'>
+    <div class="radWrapper  ad__wrapper">
+      <div id='div-gpt-ad-1455520357400-2' class='ad__wrapper__slot' style='width:728px;position:absolute'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455520357400-2'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+                    </div>
+                    <div class="col-lg-4  col-12">
+                      <div class="my-0  my-lg-2  palm-border--top  p-1  p-sm-0"></div>
+                      <article class='box  story    sponsored-content' data-id='1396453' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  col-12        px-0  ' >
+        <div class='media__item          '><a title='' href='https://www.dawn.com/news/1396453/home-chefs-take-the-stage-at-knorr-kch-chef-fest'><img src='https://i.dawn.com/medium/2018/03/5ab0abd55fa12.jpg'  alt='Home chefs take the stage at Knorr KCH Chef Fest' /></a></div>        
+    </figure>
+    <div class='clearfix'></div>
+
+    <h2  class='badge  size-two  caps  text--gray      pl-1'><a title='Sponsored' href='https://www.dawn.com/sponsor-content' class=''>Sponsored</a></h2>
+
+    <!-- box/title title-small-pl:1 -->
+    <h2 data-layout='story'  data-id='1396453'  class='story__title    size-five      pl-1  '><a href='https://www.dawn.com/news/1396453/home-chefs-take-the-stage-at-knorr-kch-chef-fest' class='story__link'>Home chefs take the stage at Knorr KCH Chef Fest</a></h2>
+</article>                    </div>
+                  </div>
+
+                  <div class="border--top  border--thick  border--black  urdu-stories">
+                    
+<!-- - - - - - - widget:start id: 1423 -  type: stories -  object_id:  -  title: On DawnNews - - - - - - -->
+<section class='widget  theme  widget-stories    modifywidget--direction-rtl  modifywidget--image-small  modifywidget--padding-off  modifywidget--transparent'  data-type='stories' data-id='1423'>
+<div class='widget__header'>
+<h2 class='widget__title    modifywidget--title-left  modifywidget--title-uppercase'><span>On DawnNews</span></h2>
+</div>
+<div class='widget__main  '>
+
+
+<div class=' slideshow--list    slideshow--columns    mt-2'>
+ <div class='clear--both'>  <div class='slideshow--row__item   active     float-left' data-id='0' style='float:left;width:32.333333333333%;margin-right:1.5%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    ' data-id='1042614' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media    media--right      media--stretch  col-sm-6  col-12        px-0  ' >
+        <div class='media__item          '><a title='' href='https://www.dawnnews.tv/news/1042614/'><img src='http://i.dawn.com/medium/2016/08/57c2a11453470.jpg'  alt='نوکری کو لات مار کر خوبصورتی کی تلاش' /></a></div>        
+    </figure>
+
+    <!-- box/title py:2 -->
+    <h2 data-layout='story'  data-id='1042614'  class='story__title          py-2  '><a href='https://www.dawnnews.tv/news/1042614/' class='story__link'>نوکری کو لات مار کر خوبصورتی کی تلاش</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+  <div class='slideshow--row__item      float-left' data-id='1' style='float:left;width:32.333333333333%;margin-right:1.5%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    ' data-id='1075303' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media    media--right      media--stretch  col-sm-6  col-12        px-0  ' >
+        <div class='media__item          '><a title='' href='https://www.dawnnews.tv/news/1075303/'><img src='http://i.dawn.com/medium/2018/03/5aaebdd8bc04e.jpg'  alt='پیروں کے ناخنوں کی فنگس سے نجات بہت آسان' /></a></div>        
+    </figure>
+
+    <!-- box/title py:2 -->
+    <h2 data-layout='story'  data-id='1075303'  class='story__title          py-2  '><a href='https://www.dawnnews.tv/news/1075303/' class='story__link'>پیروں کے ناخنوں کی فنگس سے نجات بہت آسان</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+  <div class='slideshow--row__item      float-left' data-id='2' style='float:left;width:32.333333333333%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    ' data-id='1075400' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media    media--right      media--stretch  col-sm-6  col-12        px-0  ' >
+        <div class='media__item          '><a title='' href='https://www.dawnnews.tv/news/1075400/ab-se-my-nus-sirf-imran-khan-usman-jamie-aa'><img src='http://i.dawn.com/medium/2018/03/5ab0f537d7c1c.jpg'  alt='اب سے &amp;rsquo;مائے نس&amp;lsquo; صرف عمران خان!' /></a></div>        
+    </figure>
+
+    <!-- box/title py:2 -->
+    <h2 data-layout='story'  data-id='1075400'  class='story__title          py-2  '><a href='https://www.dawnnews.tv/news/1075400/ab-se-my-nus-sirf-imran-khan-usman-jamie-aa' class='story__link'>اب سے ’مائے نس‘ صرف عمران خان!</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+</div><div class='clear--both'> </div></div>
+</div>
+</section>
+<!-- - - - - - - widget:end - - - - - - -->
+                  </div>
+
+                  <div class="border--top  border--thick  border--black">
+                  
+<section id="comments" class="comments  px-0  col-sm-10  col-12">
+    <h1 class='comments__label  text--700'>Comments (3) </h1>
+    
+<form accept-charset="utf-8" class="form-vertical comments-form  jsform  mb-4" id="comments-form" method="POST" action="https://www.dawn.com/comments"><input class="form-control jscheck" type="hidden" name="jscheck" value=""><input class="form-control" type="hidden" name="story_id" value="1396475">
+<div class="info"></div>
+
+<div class="row  no-gutters">
+    <div class="col-6">
+    <div class="pt-2">
+      <input class="form-control text-input  col-12" placeholder="Name" required id="name" type="text" name="name">
+    </div>
+  </div>
+  <div class="col-6">
+    <div class="pt-2">
+      <input class="form-control text-input  col-12" placeholder="Email" required id="email" type="text" name="email">
+    </div>
+  </div></div>
+
+<div class="row  d-none">
+  <div class="col-6">
+    <div class="mr-4  mb-4">
+      <div class="form-group"><input class="form-control text-input  col-12" placeholder="Your Location" id="location" type="text" name="location"></div>    </div>
+  </div>
+  <div class="col-6">
+    <div class="mr-4  mb-4">
+      <div class="form-group"><input class="form-control text-input  col-12" placeholder="Http://" id="url" type="text" name="url"></div>    </div>
+  </div>
+</div>
+<div class="row  no-gutters">
+  <div class="  col-12">
+    <div class="my-2">
+      <div class="form-group"><textarea class="form-control text-input  col-12" placeholder="Your comment" rows="7" required id="content" name="content"></textarea></div>    </div>
+  </div>
+</div>
+
+<div class="row  no-gutters">
+  <div class="col-6">
+    <div class="comment__limit  size-two  text--gray  caps">1000 characters</div>
+  </div>
+  <div class="col-6">
+    <input class="btn button  comments__button  caps  mt-1  theme--black  float-right" type="submit" value="Submit">  </div>
+  </div>
+
+<input class="form-control" type="hidden" name="_token" value=""></form>    <div class="button-container  border--top">
+      <button type="button" class="button js-comments-sort-votes  float-right">Popular</button>
+      <button type="button" class="button js-comments-sort-date--new  float-right">Newest</button>
+      <button type="button" disabled="disabled" class="button js-comments-sort-date  float-right">Oldest</button>
+    </div>
+    
+    <div class="comment  pb-4  mb-4  border--bottom" id="5803957" data-id=1>
+      <div class="row">
+        <div class="col-11">
+          <div class="comment__author  float-left">Nomansland</div>
+          <div class="timeago  comment__date" title="2018-03-20T20:04:20+05:00"><span class='timestamp--time  timeago' title='2018-03-20T20:04:20+05:00'>Mar 20, 2018 08:04pm</span></div>
+          <div class="comment__body  mt-2  size-four  clearfix"><p>now people will deny the report !!</p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='Nomansland' class='button  button--short  mr-2  comment__reply' />                        <div class="button  button--social" title="Recommend this comment">
+            <!-- <span title="Recommend this comment"> -->
+                            <span class="button__label  votejs__cast" data-vote-key="1396475/up-5803957">Recommend</span>
+              <span class="button__count  votejs__count" data-vote-key="1396475/up-5803957">0</span>
+            <!-- </span> -->
+            </div>
+                      </div>
+        </div>
+      </div>
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="5804045" data-id=2>
+      <div class="row">
+        <div class="col-11">
+          <div class="comment__author  float-left">Ash2000</div>
+          <div class="timeago  comment__date" title="2018-03-20T20:46:36+05:00"><span class='timestamp--time  timeago' title='2018-03-20T20:46:36+05:00'>Mar 20, 2018 08:46pm</span></div>
+          <div class="comment__body  mt-2  size-four  clearfix"><p>It is a trend of half-hearted measure. Forced disappearance has been made a crime but not ready to protect the disappeared people and neither a single person ever punished when everybody knows who is behind this unfortunate business.</p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='Ash2000' class='button  button--short  mr-2  comment__reply' />                        <div class="button  button--social" title="Recommend this comment">
+            <!-- <span title="Recommend this comment"> -->
+                            <span class="button__label  votejs__cast" data-vote-key="1396475/up-5804045">Recommend</span>
+              <span class="button__count  votejs__count" data-vote-key="1396475/up-5804045">0</span>
+            <!-- </span> -->
+            </div>
+                      </div>
+        </div>
+      </div>
+    </div> <!-- .comment -->
+
+  
+    <div class="comment  pb-4  mb-4  border--bottom" id="5804125" data-id=3>
+      <div class="row">
+        <div class="col-11">
+          <div class="comment__author  float-left">WM</div>
+          <div class="timeago  comment__date" title="2018-03-20T21:18:13+05:00"><span class='timestamp--time  timeago' title='2018-03-20T21:18:13+05:00'>Mar 20, 2018 09:18pm</span></div>
+          <div class="comment__body  mt-2  size-four  clearfix"><p>PTM voice heard across the globe now. Thanks goes to Manzoor Pashteen and his team.</p>
+</div>
+
+          <div class="">
+            <input type='button' value='Reply' data-name='WM' class='button  button--short  mr-2  comment__reply' />                        <div class="button  button--social" title="Recommend this comment">
+            <!-- <span title="Recommend this comment"> -->
+                            <span class="button__label  votejs__cast" data-vote-key="1396475/up-5804125">Recommend</span>
+              <span class="button__count  votejs__count" data-vote-key="1396475/up-5804125">0</span>
+            <!-- </span> -->
+            </div>
+                      </div>
+        </div>
+      </div>
+    </div> <!-- .comment -->
+
+  </section>
+                  </div>
+                </div>
+                
+
+  </div>
+  <!-- ******** /template/footer ******** -->            </article>
+          </div>
+        </div>
+      </main>
+      <aside class="pb-4  ">
+
+<!-- - - - - - - widget:start id: 1220 -  type: adsense -  object_id:  -  title:  - - - - - - -->
+<section class='widget  theme  widget-adsense    modifywidget--border-off  modifywidget--transparent'  data-type='adsense' data-id='1220'>
+<div class='widget__header'>
+</div>
+<div class='widget__main  '>
+
+        <!--- 250  300 -->
+<!-- - - adsense: start - - -->
+<div class='ad  ' aria-hidden='true'>
+  <div class='ad__label  ' style='max-width:300px;'>Advertisement</div>
+  <div class="js-ad  clearfix" style='max-width:300px;padding-bottom:83.333333333333%;text-align:center;margin:0 auto;overflow:hidden;'>
+    <div class="radWrapper  ad__wrapper">
+      <div id='div-gpt-ad-1455520357400-3' class='ad__wrapper__slot' style='width:300px;position:absolute'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455520357400-3'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+</div>
+</section>
+<!-- - - - - - - widget:end - - - - - - -->
+
+<!-- - - - - - - widget:start id: 1347 -  type: sponsoredcontent -  object_id:  -  title:  - - - - - - -->
+<section class='widget  theme  widget-sponsoredcontent    modifywidget--border-off  modifywidget--transparent'  data-type='sponsoredcontent' data-id='1347'>
+<div class='widget__header'>
+</div>
+<div class='widget__main  '>
+<div class="wrapper  p-2  border--top  border--thick  border--black"><article class='box  story    sponsored-content' data-id='1396453' data-layout='story'><div class='text-left  caps  size-two  py-2  font--arial  text--400'><a class='text--gray' href='https://www.dawn.com/sponsor-content'>Sponsored</a></div>
+
+    <!-- box/image -->
+    <figure class='media    media--right      media--stretch  col-sm-4  col-12        px-0  ' >
+        <div class='media__item          '><a title='' href='https://www.dawn.com/news/1396453/home-chefs-take-the-stage-at-knorr-kch-chef-fest'><img src='https://i.dawn.com/thumbnail/2018/03/5ab0abd55fa12.jpg'  alt='Home chefs take the stage at Knorr KCH Chef Fest' /></a></div>        
+    </figure>
+
+    <!-- box/title title-xsmall -->
+    <h2 data-layout='story'  data-id='1396453'  class='story__title    size-four      '><a href='https://www.dawn.com/news/1396453/home-chefs-take-the-stage-at-knorr-kch-chef-fest' class='story__link'>Home chefs take the stage at Knorr KCH Chef Fest</a></h2>
+
+
+    <!-- box/excerpt -->
+    <div class='story__excerpt    size-three    '>500 women participated in live cooking shows and shared their secret recipes in Karachi 
+    </div>
+</article></div></div>
+</section>
+<!-- - - - - - - widget:end - - - - - - -->
+
+<!-- - - - - - - widget:start id: 1219 -  type: adsense -  object_id:  -  title: Filmstrip - - - - - - -->
+<section class='widget  theme  widget-adsense    modifywidget--border-black  modifywidget--border-thick  modifywidget--border-top  modifywidget--transparent'  data-type='adsense' data-id='1219'>
+<div class='widget__header'>
+<h2 class='widget__title    modifywidget--title-off'><span>Filmstrip</span></h2>
+</div>
+<div class='widget__main  '>
+
+        <!--- 250  300 -->
+<!-- - - adsense: start - - -->
+<div class='ad  ' aria-hidden='true'>
+  <div class='ad__label  ' style='max-width:300px;'>Advertisement</div>
+  <div class="js-ad  clearfix" style='max-width:300px;padding-bottom:83.333333333333%;text-align:center;margin:0 auto;overflow:hidden;'>
+    <div class="radWrapper  rad--multi  ad__wrapper">
+      <div id='div-gpt-ad-1520840073529-0' class='ad__wrapper__slot' style='width:300px;position:absolute'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1520840073529-0'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+</div>
+</section>
+<!-- - - - - - - widget:end - - - - - - -->
+</aside>
+    </div>
+      <!-- ******** template/footer ******** -->
+  <div class='template__footer  clearfix    modifier--open        px-1'>
+      <div class="border--top  border--thick  border--black  mx-sm-2  mx-0  clearfix">
+        <h3 class="related-stories  font--playfair-display  my-2"><a class="related-stories" href='/latest-news'>Latest stories</a></h3>
+        
+
+<div class=' slideshow--list    slideshow--latest    mt-2'>
+ <div class='clear--both'>  <div class='slideshow--row__item   active   pr-0  pr-sm-2  mb-2  lap-and-up-border--right  palm-border--bottom  equalize  float-left' data-id='0' style='float:left;width:15.666666666667%;margin-right:1.2%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-1  mb-1  mb-sm-2  mt-sm-0  pt-0  pb-1  pb-sm-2  pt-1  pt-sm-0  pr-0' data-id='1396646' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media        media--focus  media--stretch    col-sm-12  col-3  mr-sm-0  mr-2      px-0  ' >
+        <div class='media__item    media__item--100          '><a title='' href='https://www.dawn.com/news/1396646/justice-isa-says-scs-ruling-on-panamagate-based-on-iqama-instead-of-london-flats'><img src='https://i.dawn.com/medium/2018/03/5ab1c513ed209.jpg'  alt='Justice Isa says SC&amp;#39;s ruling on Panamagate based on iqama instead of London flats' /></a></div>        
+    </figure>
+<!-- box/date --><span class='story__time  size-two  text--gray    '>March 21, 2018</span> 
+    <!-- box/title xsmall -->
+    <h2 data-layout='story'  data-id='1396646'  class='story__title    size-four  font--playfair-display    '><a href='https://www.dawn.com/news/1396646/justice-isa-says-scs-ruling-on-panamagate-based-on-iqama-instead-of-london-flats' class='story__link'>Justice Isa says SC&#39;s ruling on Panamagate based on iqama instead of London flats</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+  <div class='slideshow--row__item    pr-0  pr-sm-2  mb-2  lap-and-up-border--right  palm-border--bottom  equalize  float-left' data-id='1' style='float:left;width:15.666666666667%;margin-right:1.2%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-1  mb-1  mb-sm-2  mt-sm-0  pt-0  pb-1  pb-sm-2  pt-1  pt-sm-0  pr-0' data-id='1396633' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media        media--focus  media--stretch    col-sm-12  col-3  mr-sm-0  mr-2      px-0  ' >
+        <div class='media__item    media__item--100          '><a title='' href='https://www.dawn.com/news/1396633/china-to-build-worlds-fastest-wind-tunnel'><img src='https://i.dawn.com/medium/2018/03/5ab1d0586c0b7.jpg'  alt='China to build &lsquo;world&rsquo;s fastest&rsquo; wind tunnel' /></a></div>        
+    </figure>
+<!-- box/date --><span class='story__time  size-two  text--gray    '><span class='timestamp--label'>Updated</span> March 21, 2018</span> 
+    <!-- box/title xsmall -->
+    <h2 data-layout='story'  data-id='1396633'  class='story__title    size-four  font--playfair-display    '><a href='https://www.dawn.com/news/1396633/china-to-build-worlds-fastest-wind-tunnel' class='story__link'>China to build ‘world’s fastest’ wind tunnel</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+  <div class='slideshow--row__item    pr-0  pr-sm-2  mb-2  lap-and-up-border--right  palm-border--bottom  equalize  float-left' data-id='2' style='float:left;width:15.666666666667%;margin-right:1.2%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-1  mb-1  mb-sm-2  mt-sm-0  pt-0  pb-1  pb-sm-2  pt-1  pt-sm-0  pr-0' data-id='1396634' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media        media--focus      col-sm-12  col-3  mr-sm-0  mr-2      px-0  ' data-focus-x='0%' data-focus-y='0%'>
+        <div class='media__item    media__item--100          '><a title='' href='https://www.dawn.com/news/1396634/norwegian-minister-resigns-after-facebook-post-uproar'><img src='https://i.dawn.com/medium/2018/03/5ab1c07a21a53.jpg'  alt='Norwegian minister resigns after Facebook post uproar' /></a></div>        
+    </figure>
+<!-- box/date --><span class='story__time  size-two  text--gray    '><span class='timestamp--label'>Updated</span> March 21, 2018</span> 
+    <!-- box/title xsmall -->
+    <h2 data-layout='story'  data-id='1396634'  class='story__title    size-four  font--playfair-display    '><a href='https://www.dawn.com/news/1396634/norwegian-minister-resigns-after-facebook-post-uproar' class='story__link'>Norwegian minister resigns after Facebook post uproar</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+  <div class='slideshow--row__item    pr-0  pr-sm-2  mb-2  lap-and-up-border--right  palm-border--bottom  equalize  float-left' data-id='3' style='float:left;width:15.666666666667%;margin-right:1.2%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-1  mb-1  mb-sm-2  mt-sm-0  pt-0  pb-1  pb-sm-2  pt-1  pt-sm-0  pr-0' data-id='1396635' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media        media--focus      col-sm-12  col-3  mr-sm-0  mr-2      px-0  ' data-focus-x='0%' data-focus-y='0%'>
+        <div class='media__item    media__item--100          '><a title='' href='https://www.dawn.com/news/1396635/bodies-of-39-indian-workers-abducted-by-is-found-in-iraq-mass-grave'><img src='https://i.dawn.com/medium/2018/03/5ab1c07ec3dfa.jpg'  alt='Bodies of 39 Indian workers abducted by IS found in Iraq mass grave' /></a></div>        
+    </figure>
+<!-- box/date --><span class='story__time  size-two  text--gray    '><span class='timestamp--label'>Updated</span> March 21, 2018</span> 
+    <!-- box/title xsmall -->
+    <h2 data-layout='story'  data-id='1396635'  class='story__title    size-four  font--playfair-display    '><a href='https://www.dawn.com/news/1396635/bodies-of-39-indian-workers-abducted-by-is-found-in-iraq-mass-grave' class='story__link'>Bodies of 39 Indian workers abducted by IS found in Iraq mass grave</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+  <div class='slideshow--row__item    pr-0  pr-sm-2  mb-2  lap-and-up-border--right  palm-border--bottom  equalize  float-left' data-id='4' style='float:left;width:15.666666666667%;margin-right:1.2%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-1  mb-1  mb-sm-2  mt-sm-0  pt-0  pb-1  pb-sm-2  pt-1  pt-sm-0  pr-0' data-id='1396567' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media        media--focus  media--stretch    col-sm-12  col-3  mr-sm-0  mr-2      px-0  ' >
+        <div class='media__item    media__item--100          '><a title='' href='https://www.dawn.com/news/1396567/online-tax-collection-system-launched'><img src='https://i.dawn.com/medium/2018/03/5ab1caf12ea8a.jpg'  alt='Online tax collection system launched' /></a></div>        
+    </figure>
+<!-- box/date --><span class='story__time  size-two  text--gray    '><span class='timestamp--label'>Updated</span> March 21, 2018</span> 
+    <!-- box/title xsmall -->
+    <h2 data-layout='story'  data-id='1396567'  class='story__title    size-four  font--playfair-display    '><a href='https://www.dawn.com/news/1396567/online-tax-collection-system-launched' class='story__link'>Online tax collection system launched</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+  <div class='slideshow--row__item    pr-0  pr-sm-2  mb-2  lap-and-up-border--right  palm-border--bottom  equalize  float-left' data-id='5' style='float:left;width:15.666666666667%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-1  mb-1  mb-sm-2  mt-sm-0  pt-0  pb-1  pb-sm-2  pt-1  pt-sm-0  pr-0' data-id='1396568' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media        media--focus  media--stretch    col-sm-12  col-3  mr-sm-0  mr-2      px-0  ' >
+        <div class='media__item    media__item--100          '><a title='' href='https://www.dawn.com/news/1396568/260m-adb-loan-to-revamp-power-transmission-network'><img src='https://i.dawn.com/medium/2018/03/5ab1ca9b8dd39.jpg'  alt='$260m ADB loan to revamp power transmission network' /></a></div>        
+    </figure>
+<!-- box/date --><span class='story__time  size-two  text--gray    '><span class='timestamp--label'>Updated</span> March 21, 2018</span> 
+    <!-- box/title xsmall -->
+    <h2 data-layout='story'  data-id='1396568'  class='story__title    size-four  font--playfair-display    '><a href='https://www.dawn.com/news/1396568/260m-adb-loan-to-revamp-power-transmission-network' class='story__link'>$260m ADB loan to revamp power transmission network</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+</div><div class='clear--both'> </div></div>
+      </div>
+      <div class="border--top  border--thick  border--black  py-2  mx-sm-2  mx-0  clearfix">
+        <a href='//images.dawn.com'><img alt='dawn images site' src="https://i.dawn.com/medium/2017/06/5931466588b47.png" width="80" class="mb-4" /></a>
+        
+
+<div class='slideshow  images-slideshow    slideshow--main  ' data-slick='{"dots":true,"dotsClass":"slideshow__pager  ","asNavFor":null,"cssEase":"ease","speed":250,"autoplaySpeed":4000,"slidesToScroll":1,"slidesToShow":3,"fade":false,"autoplay":true,"infinite":true,"responsive": [{"breakpoint": 720,"settings": {"slidesToShow": 3,"slidesToScroll": 1}},{"breakpoint": 480,"settings": {"slidesToShow": 1,"slidesToScroll": 1}}]}'>
+<div class='slideshow__slide  slideshow__slide--first    slideshow__slide--horizontal' style='margin:0 1px;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    ' data-id='1396469' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  col-12        px-0  ' >
+        <div class='media__item          '><a title='' href='https://www.dawn.com/news/1396469/juhi-chawla-wants-bollywoods-innocence-naach-gaane-back'><img src='https://i.dawn.com/medium/2018/03/5ab0fc656884d.jpg'  alt='Juhi Chawla wants Bollywood&amp;#39;s &amp;#39;innocence&amp;#39;, &amp;#39;naach gaane&amp;#39; back' /></a></div>        
+    </figure>
+    <div class='clearfix'></div>
+
+    <!-- box/title xsmall-pr:0-pr:sm:2 -->
+    <h2 data-layout='story'  data-id='1396469'  class='story__title    size-four      pr-0  pr-sm-2  '><a href='https://www.dawn.com/news/1396469/juhi-chawla-wants-bollywoods-innocence-naach-gaane-back' class='story__link'>Juhi Chawla wants Bollywood&#39;s &#39;innocence&#39;, &#39;naach gaane&#39; back</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+</div>
+<div class='slideshow__slide      slideshow__slide--horizontal' style='margin:0 1px;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    ' data-id='1396462' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  col-12        px-0  ' >
+        <div class='media__item          '><a title='' href='https://www.dawn.com/news/1396462/this-sex-and-the-city-star-is-running-for-governor-of-new-york'><img src='https://i.dawn.com/medium/2018/03/5ab0e1f7447e2.png'  alt='This Sex And The City star is running for Governor of New York' /></a></div>        
+    </figure>
+    <div class='clearfix'></div>
+
+    <!-- box/title xsmall-pr:0-pr:sm:2 -->
+    <h2 data-layout='story'  data-id='1396462'  class='story__title    size-four      pr-0  pr-sm-2  '><a href='https://www.dawn.com/news/1396462/this-sex-and-the-city-star-is-running-for-governor-of-new-york' class='story__link'>This Sex And The City star is running for Governor of New York</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+</div>
+<div class='slideshow__slide      slideshow__slide--horizontal' style='margin:0 1px;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    ' data-id='1396455' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  col-12        px-0  ' >
+        <div class='media__item          '><a title='' href='https://www.dawn.com/news/1396455/reptiles-surround-imran-khan-says-salman-ahmed-after-amir-liaquat-joins-party'><img src='https://i.dawn.com/medium/2018/03/5ab0ba136875b.jpg'  alt='&amp;#39;Reptiles surround Imran Khan,&amp;#39; says Salman Ahmed after Amir Liaquat joins party' /></a></div>        
+    </figure>
+    <div class='clearfix'></div>
+
+    <!-- box/title xsmall-pr:0-pr:sm:2 -->
+    <h2 data-layout='story'  data-id='1396455'  class='story__title    size-four      pr-0  pr-sm-2  '><a href='https://www.dawn.com/news/1396455/reptiles-surround-imran-khan-says-salman-ahmed-after-amir-liaquat-joins-party' class='story__link'>&#39;Reptiles surround Imran Khan,&#39; says Salman Ahmed after Amir Liaquat joins party</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+</div>
+</div>
+      </div>
+      
+        <!--- 250  300 -->
+<!-- - - adsense: start - - -->
+<div class='ad  py-4  d-block  d-sm-none' aria-hidden='true'>
+  <div class='ad__label  ' style='max-width:300px;'>Advertisement</div>
+  <div class="js-ad  clearfix" style='max-width:300px;padding-bottom:83.333333333333%;text-align:center;margin:0 auto;overflow:hidden;'>
+    <div class="radWrapper  ad__wrapper">
+      <div id='div-gpt-ad-1455520357400-4' class='ad__wrapper__slot' style='width:300px;position:absolute'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455520357400-4'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+      <div class="border--top  border--thick  border--black  mx-sm-2  mx-0  mb-4  clearfix">
+        <h3 class="popular-stories  font--playfair-display  my-2"><a class="popular-stories" href='/popular'>Most popular</a></h3>
+        
+
+<div class=' slideshow--list    slideshow--popular  slideshow--table    mt-2'>
+ <div class='popular-row  lap-and-up-border--bottom'>  <div class='slideshow--row__item   active   lap-and-up-border--right  palm-border--bottom' data-id='0' style='float:left;width:32.333333333333%;margin-right:1.5%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    p-1' data-id='1396254' data-layout='story'>
+    <!-- box/title  -->
+    <h2 data-layout='story'  data-id='1396254'  class='story__title          '><a href='https://www.dawn.com/news/1396254/hec-bans-13-universities-mphil-phd-distance-learning-programmes' class='story__link'>HEC bans 13 universities&#39; MPhil, PhD distance learning programmes</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+  <div class='slideshow--row__item    lap-and-up-border--right  palm-border--bottom' data-id='1' style='float:left;width:32.333333333333%;margin-right:1.5%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    p-1' data-id='1396251' data-layout='story'>
+    <!-- box/title  -->
+    <h2 data-layout='story'  data-id='1396251'  class='story__title          '><a href='https://www.dawn.com/news/1396251/anti-terrorism-court-orders-arrest-of-tlp-chief-khadim-rizvi-others-in-faizabad-sit-in-case' class='story__link'>Anti-Terrorism Court orders arrest of TLP chief Khadim Rizvi, others in Faizabad sit-in case</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+  <div class='slideshow--row__item    lap-and-up-border--right  palm-border--bottom' data-id='2' style='float:left;width:32.333333333333%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    p-1' data-id='1396458' data-layout='story'>
+    <!-- box/title  -->
+    <h2 data-layout='story'  data-id='1396458'  class='story__title          '><a href='https://www.dawn.com/news/1396458/will-not-forgive-without-punishment-sc-bans-shahid-masood-from-hosting-tv-show-for-3-months' class='story__link'>&#39;Will not forgive without punishment&#39;: SC bans Shahid Masood from hosting TV show for 3 months</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+</div><div class='popular-row  lap-and-up-border--bottom'>  <div class='slideshow--row__item    lap-and-up-border--right  palm-border--bottom' data-id='3' style='float:left;width:32.333333333333%;margin-right:1.5%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    p-1' data-id='1396094' data-layout='story'>
+    <!-- box/title  -->
+    <h2 data-layout='story'  data-id='1396094'  class='story__title          '><a href='https://www.dawn.com/news/1396094/on-foreign-investments-and-an-uncertain-2018' class='story__link'>On foreign investments and an uncertain 2018</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+  <div class='slideshow--row__item    lap-and-up-border--right  palm-border--bottom' data-id='4' style='float:left;width:32.333333333333%;margin-right:1.5%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    p-1' data-id='1396267' data-layout='story'>
+    <!-- box/title  -->
+    <h2 data-layout='story'  data-id='1396267'  class='story__title          '><a href='https://www.dawn.com/news/1396267/imran-khan-welcomes-amir-liaquat-hussain-into-pti' class='story__link'>Imran Khan welcomes Amir Liaquat Hussain into PTI</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+  <div class='slideshow--row__item    lap-and-up-border--right  palm-border--bottom' data-id='5' style='float:left;width:32.333333333333%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    p-1' data-id='1396410' data-layout='story'>
+    <!-- box/title  -->
+    <h2 data-layout='story'  data-id='1396410'  class='story__title          '><a href='https://www.dawn.com/news/1396410/good-friends' class='story__link'>Good friends...</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+</div><div class='popular-row  lap-and-up-border--bottom'>  <div class='slideshow--row__item    lap-and-up-border--right  palm-border--bottom' data-id='6' style='float:left;width:32.333333333333%;margin-right:1.5%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    p-1' data-id='1396238' data-layout='story'>
+    <!-- box/title  -->
+    <h2 data-layout='story'  data-id='1396238'  class='story__title          '><a href='https://www.dawn.com/news/1396238/no-difference-between-men-and-women-in-islam-says-prince-mohammed-bin-salman' class='story__link'>No difference between men and women in Islam, says Prince Mohammed bin Salman</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+  <div class='slideshow--row__item    lap-and-up-border--right  palm-border--bottom' data-id='7' style='float:left;width:32.333333333333%;margin-right:1.5%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    p-1' data-id='1396456' data-layout='story'>
+    <!-- box/title  -->
+    <h2 data-layout='story'  data-id='1396456'  class='story__title          '><a href='https://www.dawn.com/news/1396456/dollar-spikes-to-high-of-rs1155-dealers-hold-govt-responsible' class='story__link'>Dollar spikes to high of Rs115.5; dealers hold govt responsible</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+  <div class='slideshow--row__item    lap-and-up-border--right  palm-border--bottom' data-id='8' style='float:left;width:32.333333333333%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    p-1' data-id='1396072' data-layout='story'>
+    <!-- box/title  -->
+    <h2 data-layout='story'  data-id='1396072'  class='story__title          '><a href='https://www.dawn.com/news/1396072/saudi-crown-prince-faces-battle-royal-in-us' class='story__link'>Saudi crown prince faces battle royal in US</a></h2>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+</div><div class='popular-row  lap-and-up-border--bottom'> </div></div>
+      </div>
+      <div class="border--top  border--thick  border--black  mx-sm-2  mx-0  clearfix">
+        <h3 class="mustread-stories  font--playfair-display  my-2"><a class="mustread-stories" href='/must-read'>Must read</a></h3>
+        
+
+<div class=' slideshow--list    pr-0  pr-sm-2  col-sm-4  col-12  float-left  slideshow--mustread--first    mt-2'>
+ <div class='clear--both'>  <div class='slideshow--row__item   active   pr-0  pr-sm-2  mb-2  lap-and-up-border--right  palm-border--bottom  equalize  float-left' data-id='0' style='float:left;width:99%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-1  mb-1  mb-sm-2  mt-sm-0  pt-0  pb-2  pt-1  pt-sm-0  pr-0' data-id='1395215' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  col-12        px-0  ' >
+        <div class='media__item          '><a title='' href='https://www.dawn.com/news/1395215/special-report-sexual-harassment-in-workplaces-in-pakistan'><img src='https://i.dawn.com/medium/2018/03/5ab072f0e6aa8.jpg'  alt='Special report: Sexual harassment in workplaces in Pakistan' /></a></div>        
+    </figure>
+    <div class='clearfix'></div>
+
+    <!-- box/title  -->
+    <h2 data-layout='story'  data-id='1395215'  class='story__title      font--playfair-display    '><a href='https://www.dawn.com/news/1395215/special-report-sexual-harassment-in-workplaces-in-pakistan' class='story__link'>Special report: Sexual harassment in workplaces in Pakistan</a></h2>
+
+
+    <!-- box/excerpt -->
+    <div class='story__excerpt    size-three  font--georgia  '>Sexual harassment, abuse and discrimination in Pakistan’s workplaces is pervasive, mostly unreported and ignored. 
+    </div>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+</div><div class='clear--both'> </div></div>
+        
+
+<div class=' slideshow--list    slideshow--mustread  col-sm-8  col-12  float-left    mt-2'>
+ <div class='clear--both'>  <div class='slideshow--row__item   active   pr-0  pr-sm-2  mb-2  lap-and-up-border--right  palm-border--bottom  equalize  float-left' data-id='0' style='float:left;width:24%;margin-right:1.3333333333333%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-1  mb-1  mb-sm-2  mt-sm-0  pt-0  pb-1  pb-sm-2  pt-1  pt-sm-0  pr-0' data-id='1396447' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media        media--focus  media--stretch    col-sm-12  col-3  mr-sm-0  mr-2 float-sm-none      px-0  ' >
+        <div class='media__item    media__item--100          '><a title='' href='https://www.dawn.com/news/1396447/saudi-arabia-has-little-regard-for-the-rights-and-lives-of-pakistani-citizens'><img src='https://i.dawn.com/medium/2018/03/5ab08a57797c3.jpg'  alt='Saudi Arabia has little regard for the rights and lives of Pakistani citizens' /></a></div>        
+    </figure>
+
+    <!-- box/title py:0 -->
+    <h2 data-layout='story'  data-id='1396447'  class='story__title      font--playfair-display    py-0  '><a href='https://www.dawn.com/news/1396447/saudi-arabia-has-little-regard-for-the-rights-and-lives-of-pakistani-citizens' class='story__link'>Saudi Arabia has little regard for the rights and lives of Pakistani citizens</a></h2>
+<!-- box/byline --><div class='    mt-1    '><span class='story__byline  size-three  text--black    '></span> </div></article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+  <div class='slideshow--row__item    pr-0  pr-sm-2  mb-2  lap-and-up-border--right  palm-border--bottom  equalize  float-left' data-id='1' style='float:left;width:24%;margin-right:1.3333333333333%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-1  mb-1  mb-sm-2  mt-sm-0  pt-0  pb-1  pb-sm-2  pt-1  pt-sm-0  pr-0' data-id='1396466' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media        media--focus  media--stretch    col-sm-12  col-3  mr-sm-0  mr-2 float-sm-none      px-0  ' >
+        <div class='media__item    media__item--100          '><a title='' href='https://www.dawn.com/news/1396466/saudi-crown-prince-seeks-the-kingdoms-image-makeover-in-us-marathon-tour'><img src='https://i.dawn.com/medium/2018/03/5ab0f4ad9a463.jpg'  alt='Saudi crown prince seeks the Kingdom&amp;#39;s image makeover in US marathon tour' /></a></div>        
+    </figure>
+
+    <!-- box/title py:0 -->
+    <h2 data-layout='story'  data-id='1396466'  class='story__title      font--playfair-display    py-0  '><a href='https://www.dawn.com/news/1396466/saudi-crown-prince-seeks-the-kingdoms-image-makeover-in-us-marathon-tour' class='story__link'>Saudi crown prince seeks the Kingdom&#39;s image makeover in US marathon tour</a></h2>
+<!-- box/byline --><div class='    mt-1    '><span class='story__byline  size-three  text--black    '><a href='https://www.dawn.com/authors/156/ap'>AP</a></span> </div></article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+  <div class='slideshow--row__item    pr-0  pr-sm-2  mb-2  lap-and-up-border--right  palm-border--bottom  equalize  float-left' data-id='2' style='float:left;width:24%;margin-right:1.3333333333333%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-1  mb-1  mb-sm-2  mt-sm-0  pt-0  pb-1  pb-sm-2  pt-1  pt-sm-0  pr-0' data-id='1396446' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media        media--focus  media--stretch    col-sm-12  col-3  mr-sm-0  mr-2 float-sm-none      px-0  ' >
+        <div class='media__item    media__item--100          '><a title='' href='https://www.dawn.com/news/1396446/the-road-out-of-gwadar-13-years-later-motorway-8-remains-incomplete'><img src='https://i.dawn.com/medium/2018/03/5ab085f6b76bb.jpg'  alt='The road out of Gwadar: 13 years later &amp;#39;Motorway 8&amp;#39; remains incomplete' /></a></div>        
+    </figure>
+
+    <!-- box/title py:0 -->
+    <h2 data-layout='story'  data-id='1396446'  class='story__title      font--playfair-display    py-0  '><a href='https://www.dawn.com/news/1396446/the-road-out-of-gwadar-13-years-later-motorway-8-remains-incomplete' class='story__link'>The road out of Gwadar: 13 years later &#39;Motorway 8&#39; remains incomplete</a></h2>
+<!-- box/byline --><div class='    mt-1    '><span class='story__byline  size-three  text--black    '></span> </div></article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+  <div class='slideshow--row__item    pr-0  pr-sm-2  mb-2  lap-and-up-border--right  palm-border--bottom  equalize  float-left' data-id='3' style='float:left;width:24%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-1  mb-1  mb-sm-2  mt-sm-0  pt-0  pb-1  pb-sm-2  pt-1  pt-sm-0  pr-0' data-id='1396311' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media        media--focus  media--stretch    col-sm-12  col-3  mr-sm-0  mr-2 float-sm-none      px-0  ' >
+        <div class='media__item    media__item--100          '><a title='' href='https://www.dawn.com/news/1396311/the-rowdy-rao-anwar'><img src='https://i.dawn.com/medium/2018/03/5ab027c7b8832.jpg'  alt='The rowdy Rao Anwar' /></a></div>        
+    </figure>
+
+    <!-- box/title py:0 -->
+    <h2 data-layout='story'  data-id='1396311'  class='story__title      font--playfair-display    py-0  '><a href='https://www.dawn.com/news/1396311/the-rowdy-rao-anwar' class='story__link'>The rowdy Rao Anwar</a></h2>
+<!-- box/byline --><div class='    mt-1    '><span class='story__byline  size-three  text--black    '><a href='https://www.dawn.com/authors/609/herald-exclusive'>Herald Exclusive</a></span> </div></article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+</div><div class='clear--both'> </div></div>
+      </div>
+      <div class="border--top  border--thick  border--black  mx-sm-2  mx-0  clearfix">
+        <h3 class="opinion-stories  font--playfair-display  my-2"><a class="opinion-stories" href='/opinion'>Opinion</a></h3>
+        
+
+<div class=' slideshow--list    pr-0  pr-sm-2  col-sm-4  col-12  float-left  slideshow--opinion--first    mt-2'>
+ <div class='clear--both'>  <div class='slideshow--row__item   active   pr-0  pr-sm-2  mb-2  lap-and-up-border--right  palm-border--bottom  equalize  float-left' data-id='0' style='float:left;width:99%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-1  mb-1  mb-sm-2  mt-sm-0  pt-0  pb-2  pt-1  pt-sm-0  pr-0' data-id='1396575' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  col-12        px-0  ' data-focus-x='0%' data-focus-y='0%'>
+        <div class='media__item          '><a title='' href='https://www.dawn.com/news/1396575/is-it-the-chiefs-doctrine'><img src='https://i.dawn.com/medium/2018/03/5ab18b6de27df.jpg'  alt='Is it the chief&rsquo;s &lsquo;doctrine&rsquo;?' /></a></div>        
+    </figure>
+    <div class='clearfix'></div>
+
+    <!-- box/title  -->
+    <h2 data-layout='story'  data-id='1396575'  class='story__title      font--playfair-display    '><a href='https://www.dawn.com/news/1396575/is-it-the-chiefs-doctrine' class='story__link'>Is it the chief’s ‘doctrine’?</a></h2>
+
+
+    <!-- box/excerpt -->
+    <div class='story__excerpt    size-three  font--georgia  '>The truth is that the general was reflecting the thinking of his institution. 
+    </div>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+</div><div class='clear--both'> </div></div>
+        
+
+<div class=' slideshow--list    slideshow--opinion  col-sm-8  col-12  float-left    mt-2'>
+ <div class='clear--both'>  <div class='slideshow--row__item   active   pr-0  pr-sm-2  mb-2  lap-and-up-border--right  palm-border--bottom  equalize  float-left' data-id='0' style='float:left;width:24%;margin-right:1.3333333333333%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-1  mb-1  mb-sm-2  mt-sm-0  pt-0  pb-1  pb-sm-2  pt-1  pt-sm-0  pr-0' data-id='1396574' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media        media--focus  media--stretch    col-sm-12  col-3  mr-sm-0  mr-2 float-sm-none      px-0  ' data-focus-x='0%' data-focus-y='0%'>
+        <div class='media__item    media__item--100          '><a title='' href='https://www.dawn.com/news/1396574/shunning-the-architects-of-hate'><img src='https://i.dawn.com/medium/2018/03/5ab18b05bb4dd.jpg'  alt='Shunning the architects of hate' /></a></div>        
+    </figure>
+
+    <!-- box/title py:0 -->
+    <h2 data-layout='story'  data-id='1396574'  class='story__title      font--playfair-display    py-0  '><a href='https://www.dawn.com/news/1396574/shunning-the-architects-of-hate' class='story__link'>Shunning the architects of hate</a></h2>
+<!-- box/byline --><div class='    mt-1    '><span class='story__byline  size-three  text--black    '><a href='https://www.dawn.com/authors/410/rafia-zakaria'>Rafia Zakaria</a></span> </div></article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+  <div class='slideshow--row__item    pr-0  pr-sm-2  mb-2  lap-and-up-border--right  palm-border--bottom  equalize  float-left' data-id='1' style='float:left;width:24%;margin-right:1.3333333333333%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-1  mb-1  mb-sm-2  mt-sm-0  pt-0  pb-1  pb-sm-2  pt-1  pt-sm-0  pr-0' data-id='1396573' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media        media--focus  media--stretch    col-sm-12  col-3  mr-sm-0  mr-2 float-sm-none      px-0  ' data-focus-x='0%' data-focus-y='0%'>
+        <div class='media__item    media__item--100          '><a title='' href='https://www.dawn.com/news/1396573/unhealthy-times'><img src='https://i.dawn.com/medium/2018/03/5ab18ac5682d9.jpg'  alt='Unhealthy times' /></a></div>        
+    </figure>
+
+    <!-- box/title py:0 -->
+    <h2 data-layout='story'  data-id='1396573'  class='story__title      font--playfair-display    py-0  '><a href='https://www.dawn.com/news/1396573/unhealthy-times' class='story__link'>Unhealthy times</a></h2>
+<!-- box/byline --><div class='    mt-1    '><span class='story__byline  size-three  text--black    '><a href='https://www.dawn.com/authors/1213/anjum-altaf'>Anjum Altaf</a></span> </div></article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+  <div class='slideshow--row__item    pr-0  pr-sm-2  mb-2  lap-and-up-border--right  palm-border--bottom  equalize  float-left' data-id='2' style='float:left;width:24%;margin-right:1.3333333333333%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-1  mb-1  mb-sm-2  mt-sm-0  pt-0  pb-1  pb-sm-2  pt-1  pt-sm-0  pr-0' data-id='1396572' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media        media--focus  media--stretch    col-sm-12  col-3  mr-sm-0  mr-2 float-sm-none      px-0  ' data-focus-x='0%' data-focus-y='0%'>
+        <div class='media__item    media__item--100          '><a title='' href='https://www.dawn.com/news/1396572/russian-roulette'><img src='https://i.dawn.com/medium/2018/03/5ab18a7c0ffee.jpg'  alt='Russian roulette' /></a></div>        
+    </figure>
+
+    <!-- box/title py:0 -->
+    <h2 data-layout='story'  data-id='1396572'  class='story__title      font--playfair-display    py-0  '><a href='https://www.dawn.com/news/1396572/russian-roulette' class='story__link'>Russian roulette</a></h2>
+<!-- box/byline --><div class='    mt-1    '><span class='story__byline  size-three  text--black    '><a href='https://www.dawn.com/authors/322/mahir-ali'>Mahir Ali</a></span> </div></article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+  <div class='slideshow--row__item    pr-0  pr-sm-2  mb-2  lap-and-up-border--right  palm-border--bottom  equalize  float-left' data-id='3' style='float:left;width:24%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-1  mb-1  mb-sm-2  mt-sm-0  pt-0  pb-1  pb-sm-2  pt-1  pt-sm-0  pr-0' data-id='1396413' data-layout='story'>
+
+    <!-- box/image -->
+    <figure class='media        media--focus  media--stretch    col-sm-12  col-3  mr-sm-0  mr-2 float-sm-none      px-0  ' >
+        <div class='media__item    media__item--100          '><a title='' href='https://www.dawn.com/news/1396413/delimitation-paradox'><img src='https://i.dawn.com/medium/2018/03/5ab06b7912c11.jpg'  alt='Delimitation paradox' /></a></div>        
+    </figure>
+
+    <!-- box/title py:0 -->
+    <h2 data-layout='story'  data-id='1396413'  class='story__title      font--playfair-display    py-0  '><a href='https://www.dawn.com/news/1396413/delimitation-paradox' class='story__link'>Delimitation paradox</a></h2>
+<!-- box/byline --><div class='    mt-1    '><span class='story__byline  size-three  text--black    '><a href='https://www.dawn.com/authors/510/tahir-mehdi'>Tahir Mehdi</a></span> </div></article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+</div><div class='clear--both'> </div></div>
+      </div>
+      <div class="border--top  border--thick  border--black  mx-sm-2  mx-0">
+        <h3 class="editorial-stories  font--playfair-display  my-2"><a class="editorial-stories" href='/opinion'>Editorial</a></h3>
+        
+
+<div class=' slideshow--list    slideshow--editorial    mt-2'>
+ <div class='clear--both'>  <div class='slideshow--row__item   active   pr-0  pr-sm-2  mb-2  lap-and-up-border--right  palm-border--bottom  equalize  float-left' data-id='0' style='float:left;width:15.666666666667%;margin-right:1.2%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-1  mb-1  mb-sm-2  mt-sm-0  pt-0  pb-1  pb-sm-2  pt-1  pt-sm-0  pr-0' data-id='1396578' data-layout='story'><!-- box/date --><span class='story__time  size-two  text--gray  font--arial  '>March 21, 2018</span> 
+    <!-- box/title xsmall -->
+    <h2 data-layout='story'  data-id='1396578'  class='story__title    size-four  font--playfair-display    '><a href='https://www.dawn.com/news/1396578/saudi-transformation' class='story__link'>Saudi transformation</a></h2>
+
+
+    <!-- box/excerpt -->
+    <div class='story__excerpt    size-three  font--georgia  '>SAUDI Crown Prince Mohammed bin Salman is in the US for a rebranding exercise of a kingdom he already has de facto... 
+    </div>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+  <div class='slideshow--row__item    pr-0  pr-sm-2  mb-2  lap-and-up-border--right  palm-border--bottom  equalize  float-left' data-id='1' style='float:left;width:15.666666666667%;margin-right:1.2%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-1  mb-1  mb-sm-2  mt-sm-0  pt-0  pb-1  pb-sm-2  pt-1  pt-sm-0  pr-0' data-id='1396577' data-layout='story'><!-- box/date --><span class='story__time  size-two  text--gray  font--arial  '>March 21, 2018</span> 
+    <!-- box/title xsmall -->
+    <h2 data-layout='story'  data-id='1396577'  class='story__title    size-four  font--playfair-display    '><a href='https://www.dawn.com/news/1396577/sexual-harassment' class='story__link'>Sexual harassment</a></h2>
+
+
+    <!-- box/excerpt -->
+    <div class='story__excerpt    size-three  font--georgia  '>IN Pakistan, not only do women suffer the toxic culture of workplace misogyny, they also fear that breaking their... 
+    </div>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+  <div class='slideshow--row__item    pr-0  pr-sm-2  mb-2  lap-and-up-border--right  palm-border--bottom  equalize  float-left' data-id='2' style='float:left;width:15.666666666667%;margin-right:1.2%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-1  mb-1  mb-sm-2  mt-sm-0  pt-0  pb-1  pb-sm-2  pt-1  pt-sm-0  pr-0' data-id='1396576' data-layout='story'><!-- box/date --><span class='story__time  size-two  text--gray  font--arial  '>March 21, 2018</span> 
+    <!-- box/title xsmall -->
+    <h2 data-layout='story'  data-id='1396576'  class='story__title    size-four  font--playfair-display    '><a href='https://www.dawn.com/news/1396576/politics-of-expediency' class='story__link'>Politics of expediency</a></h2>
+
+
+    <!-- box/excerpt -->
+    <div class='story__excerpt    size-three  font--georgia  '>FROM Maulana Samiul Haq in KP to the ‘electables’ in Punjab, Imran Khan has consistently chosen expedient... 
+    </div>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+  <div class='slideshow--row__item    pr-0  pr-sm-2  mb-2  lap-and-up-border--right  palm-border--bottom  equalize  float-left' data-id='3' style='float:left;width:15.666666666667%;margin-right:1.2%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-1  mb-1  mb-sm-2  mt-sm-0  pt-0  pb-1  pb-sm-2  pt-1  pt-sm-0  pr-0' data-id='1396409' data-layout='story'><!-- box/date --><span class='story__time  size-two  text--gray  font--arial  '>March 20, 2018</span> 
+    <!-- box/title xsmall -->
+    <h2 data-layout='story'  data-id='1396409'  class='story__title    size-four  font--playfair-display    '><a href='https://www.dawn.com/news/1396409/inter-institutional-harmony' class='story__link'>Inter-institutional harmony</a></h2>
+
+
+    <!-- box/excerpt -->
+    <div class='story__excerpt    size-three  font--georgia  '>IT could prove to be the briefest of respites, but in this season of great political uncertainty and danger, common... 
+    </div>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+  <div class='slideshow--row__item    pr-0  pr-sm-2  mb-2  lap-and-up-border--right  palm-border--bottom  equalize  float-left' data-id='4' style='float:left;width:15.666666666667%;margin-right:1.2%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-1  mb-1  mb-sm-2  mt-sm-0  pt-0  pb-1  pb-sm-2  pt-1  pt-sm-0  pr-0' data-id='1396408' data-layout='story'><!-- box/date --><span class='story__time  size-two  text--gray  font--arial  '>March 20, 2018</span> 
+    <!-- box/title xsmall -->
+    <h2 data-layout='story'  data-id='1396408'  class='story__title    size-four  font--playfair-display    '><a href='https://www.dawn.com/news/1396408/circular-debt' class='story__link'>Circular debt</a></h2>
+
+
+    <!-- box/excerpt -->
+    <div class='story__excerpt    size-three  font--georgia  '>IN his first budget speech in June 2013, then finance minister Ishaq Dar gave an assurance to the country that the... 
+    </div>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+  <div class='slideshow--row__item    pr-0  pr-sm-2  mb-2  lap-and-up-border--right  palm-border--bottom  equalize  float-left' data-id='5' style='float:left;width:15.666666666667%;'>
+
+<!-- - - - article - - - -->
+<article class='box  story    mt-1  mb-1  mb-sm-2  mt-sm-0  pt-0  pb-1  pb-sm-2  pt-1  pt-sm-0  pr-0' data-id='1396407' data-layout='story'><!-- box/date --><span class='story__time  size-two  text--gray  font--arial  '>March 20, 2018</span> 
+    <!-- box/title xsmall -->
+    <h2 data-layout='story'  data-id='1396407'  class='story__title    size-four  font--playfair-display    '><a href='https://www.dawn.com/news/1396407/upgrading-investigations' class='story__link'>Upgrading investigations</a></h2>
+
+
+    <!-- box/excerpt -->
+    <div class='story__excerpt    size-three  font--georgia  '>TO put it mildly, the state of the criminal justice system in Pakistan is abysmal. Instead of being investigated... 
+    </div>
+</article>
+<!-- - - - /article - - - -->
+
+
+  </div>
+</div><div class='clear--both'> </div></div>
+      </div>
+      <div class='px-2'>
+      
+        <!--- 90  728 -->
+<!-- - - adsense: start - - -->
+<div class='ad  py-4  d-block  d-sm-none' aria-hidden='true'>
+  <div class='ad__label  ' style='max-width:728px;'>Advertisement</div>
+  <div class="js-ad  clearfix" style='max-width:728px;padding-bottom:12.362637362637%;text-align:center;margin:0 auto;overflow:hidden;'>
+    <div class="radWrapper  ad__wrapper">
+      <div id='div-gpt-ad-1455531878761-2' class='ad__wrapper__slot' style='width:728px;position:absolute'>
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455531878761-2'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+      </div>
+      
+
+  </div>
+  <!-- ******** /template/footer ******** -->  </div>
+</div>
+  <div class='navstory  navstory--prev' title="You can also use your keyboard &#8592; (left arrow) or &#8594; (right arrow) to navigate stories">
+    <a class="navstory__arrow  navstory__arrow--prev" href="https://www.dawn.com/news/1396323/geelani-steps-down-as-leader-of-kashmir-group">&lsaquo;</a>
+    <div class='navstory__article  navstory__article--prev'>
+      
+<!-- - - - article - - - -->
+<article class='box  story    ' data-id='1396323' data-layout='story'>
+    <!-- box/title  -->
+    <h2 data-layout='story'  data-id='1396323'  class='story__title          '><a href='https://www.dawn.com/news/1396323/geelani-steps-down-as-leader-of-kashmir-group' class='story__link'>Geelani steps down as leader of Kashmir group</a></h2>
+
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  col-12        px-0  ' >
+        <div class='media__item          '><a title='' href='https://www.dawn.com/news/1396323/geelani-steps-down-as-leader-of-kashmir-group'><img src='https://i.dawn.com/thumbnail/2018/03/5ab0715fb8cb6.jpg'  alt='Geelani steps down as leader of Kashmir group' /></a></div>        
+    </figure>
+    <div class='clearfix'></div>
+</article>
+<!-- - - - /article - - - -->
+
+    </div>
+  </div>
+    <div class='navstory  navstory--next' title="You can also use your keyboard &#8592; (left arrow) or &#8594; (right arrow) to navigate stories">
+    <a class="navstory__arrow  navstory__arrow--next" href="https://www.dawn.com/news/1396238/no-difference-between-men-and-women-in-islam-says-prince-mohammed-bin-salman">&rsaquo;</a>
+    <div class='navstory__article  navstory__article--next'>
+      
+<!-- - - - article - - - -->
+<article class='box  story    ' data-id='1396238' data-layout='story'>
+    <!-- box/title  -->
+    <h2 data-layout='story'  data-id='1396238'  class='story__title          '><a href='https://www.dawn.com/news/1396238/no-difference-between-men-and-women-in-islam-says-prince-mohammed-bin-salman' class='story__link'>No difference between men and women in Islam, says Prince Mohammed bin Salman</a></h2>
+
+
+    <!-- box/image -->
+    <figure class='media          media--stretch  col-12        px-0  ' >
+        <div class='media__item          '><a title='' href='https://www.dawn.com/news/1396238/no-difference-between-men-and-women-in-islam-says-prince-mohammed-bin-salman'><img src='https://i.dawn.com/thumbnail/2018/03/5aaf4c5970915.jpg'  alt='No difference between men and women in Islam, says Prince Mohammed bin Salman' /></a></div>        
+    </figure>
+    <div class='clearfix'></div>
+</article>
+<!-- - - - /article - - - -->
+
+    </div>
+  </div>
+  <footer>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/blockadblock/3.2.1/blockadblock.min.js" crossorigin="anonymous"></script>
+
+	<div class='pt-2  px-2  mb-2  clearfix'>
+			</div>
+
+	
+    <script  src='https://code.jquery.com/jquery-3.2.1.min.js' defer='true'></script>
+    <script  src='https://platform.twitter.com/widgets.js' defer='true'></script>
+    <script  src='https://www.dawn.com/_js/all.20180319143513.js' defer='true'></script>
+    <script  src='https://www.dawn.com/_js/prev-next-stories.20180313001910.js' defer='true'></script>
+    <script>setTimeout(function() {dailymotionSyndicationId(202395)}, 2000)</script>
+
+
+
+    <script>
+setTimeout(function() {
+  if ($('.template__main .social--top').length) {
+    var isRtl = $('body').attr('dir');
+    if ($('.template__main').hasClass('modifier--large-social-right')) {
+      $('.template__main .social--top').addClass('social--right');
+    }
+    if ($('.template__main').hasClass('modifier--large-social-left')) {
+      $('.template__main .social--top').addClass('social--left');
+    }
+    var gutterSize = 40;
+    var socialResize = function() {
+      var templateMainTop = $('.template__main').offset().top;
+      var templateMainOuterWidth = $('.template__main').outerWidth();
+      var templateMainWidth = $('.template__main').width();
+      var storyContentTop = $('.story__content').offset().top;
+
+      var socialTop = storyContentTop - templateMainTop + gutterSize; // +gutterSize just to add extra top space
+      if(typeof isRtl !== 'undefined') {
+          var socialLeft = templateMainWidth - templateMainOuterWidth - gutterSize;
+          if ($('.template__main .social--top').hasClass('social--right')) {
+            socialLeft = '110%';
+          }
+      } else {
+        var socialLeft = $('.template__main').outerWidth();
+        if ($('.template__main .social--top').hasClass('social--left')) {
+          socialLeft = -50;
+        }
+      }
+      $('.template__main .social--top').css({top: socialTop, left: socialLeft, visibility: 'visible', zIndex: 999});
+
+      if ($(document).width() < 700) {
+        $('.template__main .social--top').hide();
+      } else {
+        $('.template__main .social--top').show();
+      }
+
+      if ($(document).width() > 1350) {
+        $('.widget--top').removeClass('d-none');
+        var widgetLeft = socialLeft + $('.social--top').outerWidth() + gutterSize; // +gutterSize for -margin on ad widget
+        $('.widget--top').css({top: socialTop, left: widgetLeft});
+      } else {
+        $('.widget--top').addClass('d-none');
+      }
+    };
+    socialResize();
+    $(window).resize(socialResize);
+  }
+}, 4000);
+
+</script>
+
+
+
+    <script type="text/javascript" defer>
+  setTimeout(function(){
+    $('document').ready(function() {
+      var showHideComments = function() {
+        var $button = "<div class='button  col-12  mb-4  text-center caps  show-comments  bald  size-two  text--darkred'>Read All Comments</div>";
+        if ($('.comment').length <= 3) return;
+        $('.comment').hide().slice(0, 3).show();
+        $('.comments').append($button);
+        $('.show-comments').on('click', function() {
+          $('.comment').show();
+          $(this).hide();
+        });
+        $('.show-comments').on('click', function() {
+          $('.comment').show();
+          $(this).hide();
+        });
+      };
+
+      $('.js-comments-sort-date, .js-comments-sort-votes, .js-comments-sort-date--new').on('click', function(e) {
+        $('.show-comments').remove();
+        showHideComments();
+      });
+      showHideComments();
+    });
+  }, 1000);
+</script><div class="px-2">
+  <div class="container-fluid  container--footer  border--top  border--thick  border--black">
+    <div class='mt-2'>
+      <div class="pt-4">
+        <div class="row  no-gutters">
+          <div class="col-lg-2  col-12">
+            <ul class="nav">
+              <li class="nav__item"><img style="height:28px;width:119px" alt="Dawn News"  class='container--footer__logo--black' src="https://www.dawn.com/_img/logo.png"></li>
+              <li class="nav__item"><img style="height:28px;width:119px" alt="Dawn News"  class='container--footer__logo--white  d-none' src="https://www.dawn.com/_img/logo--white.png"></li>
+              <li class="nav__item  d-block  text-left  mt-2"><p>Copyright &copy; 2018</p></li>
+              <li class="nav__item  text-left"><p class="d-none"> Compunode.com Pvt. Ltd. (<a class="px-0 px-sm-1  text--400" href="http://www.compunode.com/">www.compunode.com</a>).Designed for <a class="px-0 px-sm-1  text--400" href="http://www.dawn.com">Dawn</a>.</p></li>
+              <li class="nav__item  d-block  text-left"><p>Scribe Publishing Platform</p></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-10  col-12">
+            <div class="row  no-gutters">
+              <div class="col-sm-2  col-12">
+                <ul class="nav  nav--dawn-sitemap  size-two  palm-bald--left">
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/contact">Contact Us</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="https://www.facebook.com/dawndotcom">Facebook</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="https://twitter.com/dawn_com">Twitter</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="https://play.google.com/store/apps/details?id=com.pepperpk.dawnnews">Android App</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="https://itunes.apple.com/pk/app/id935631940">iPhone App</a></li>
+                </ul>
+              </div>
+
+              <div class="col-sm-2  col-12">
+                <ul class="nav  nav--dawn-sitemap  size-two  palm-bald--left">
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/newsletters">Newsletters</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/prayers-timings">Prayer Timings</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/stocks">Stock Forex and Gold</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/weather">Weather</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/social-media-guidelines">Social Media Guidelines</a></li>
+                </ul>
+              </div>
+
+              <div class="col-sm-2  col-12">
+                <ul class="nav  nav--dawn-sitemap  size-two  palm-bald--left">
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/code-of-ethics">Code of Ethics</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/terms">Terms of Use</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/privacy">Privacy</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/reproduction-copyrights">Reproduction Copyrights</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/contribution-guidelines">Contribution Guidelines</a></li>
+                </ul>
+              </div>
+
+              <div class="col-sm-2  col-12">
+                <ul class="nav  nav--dawn-sitemap  size-two  palm-bald--left">
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/advertise">Advertise in Dawn</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="http://dawnnationaladvertiser.com/">Place Classifieds Ad</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="http://obituary.dawn.com">Obituaries</a></li>
+                  <!-- <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1" href="http://dawnclassified.com/">Ad Bookings/Publication</a></li> -->
+                </ul>
+              </div>
+
+              <div class="col-sm-2  col-12">
+                <ul class="nav  nav--dawn-sitemap  size-two  palm-bald--left">
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="http://www.dawn.com">Dawn.com</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="http://dawnnews.tv/">Dawnnews.tv</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="http://cityfm89.com">Cityfm 89</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="http://herald.dawn.com">HERALD</a></li>
+                  <li class="nav__item  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="http://aurora.dawn.com">Aurora</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>            <!-- - - - - start:alexa - - - - -->
+            <script type="text/javascript">
+              _atrk_opts = { atrk_acct:"1DJ3k1acFH00UN", domain:"dawn.com",dynamic: true};
+              (function() {
+                var as = document.createElement('script');
+                as.type = 'text/javascript';
+                as.async = true;
+                as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js";
+                var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+            </script>
+            <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=1DJ3k1acFH00UN" style="display:none" height="1" width="1" alt="" /></noscript>
+            <!-- - - - - end:alexa - - - - -->
+    <!-- - - - - start:chartbeat publishing - - - - -->
+    <script type='text/javascript'>
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 62163;
+    _sf_async_config.domain = "dawn.com";
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.sections = "Pakistan";
+    _sf_async_config.authors = "AFP-119";
+    /** CONFIGURATION END **/
+
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt = (new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+    </script>
+    <!-- - - - - end:chartbeat - - - - -->
+            <!-- - - - - start:ga-events - - - - -->
+            <script type="text/javascript">
+            
+    if (typeof $ !== 'undefined') $('.story__content a').click(function(){ga('send','event','story','click','links');});
+    if (typeof $ !== 'undefined') $('.social--whatsapp a').click(function(){ga('send','event','story','click','whatsapp');});
+    if (typeof $ !== 'undefined') $('.social--print a').click(function(){ga('send','event','story','click','print');});
+    if (typeof $ !== 'undefined') $('.social--email a').click(function(){ga('send','event','story','click','email');});
+    if (typeof $ !== 'undefined') $('.story__meta a').click(function(){ga('send','event','story','click','author');});
+    if (typeof $ !== 'undefined') $('.navstory--prev a').click(function(){ga('send','event','prevnext','click','prev');});
+    if (typeof $ !== 'undefined') $('.navstory--next a').click(function(){ga('send','event','prevnext','click','next');});
+            </script>
+            <!-- - - - - end:ga-events - - - - -->
+
+            <!-- - - - - start:onesignal - - - - -->
+            <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async='async'></script>
+            <script>
+            var OneSignal = window.OneSignal || [];
+            OneSignal.push(["init", {
+                appId: "da41085a-a849-47c0-96e7-4b956b56f35e",
+                /* Set to true to automatically prompt visitors */
+                autoRegister: true,
+
+                // https://documentation.onesignal.com/docs/customize-permission-messages-1
+                notifyButton: {
+                    text: {
+                        'tip.state.unsubscribed': 'Subscribe to notifications',
+                        'tip.state.subscribed': "You're subscribed to notifications",
+                        'tip.state.blocked': "You've blocked notifications",
+                        'message.prenotify': 'Click to subscribe to notifications',
+                        'message.action.subscribed': "Thanks for subscribing!",
+                        'message.action.resubscribed': "You're subscribed to notifications",
+                        'message.action.unsubscribed': "You won't receive notifications again",
+                        'dialog.main.title': 'Manage Site Notifications',
+                        'dialog.main.button.subscribe': 'SUBSCRIBE',
+                        'dialog.main.button.unsubscribe': 'UNSUBSCRIBE',
+                        'dialog.blocked.title': 'Unblock Notifications',
+                        'dialog.blocked.message': "Follow these instructions to allow notifications:"
+                    },
+                    /* Set to false to hide */
+                    enable: false
+                },
+
+                prenotify: true,
+                persistNotification: false,
+                showCredit: false,
+                // Your other init options here
+                promptOptions: {
+                    /* Change bold title, limited to 30 characters */
+                    siteName: "Dawn.Com",
+                    /* Subtitle, limited to 90 characters */
+                    actionMessage: "We'd like to show you notifications for the latest news and updates.",
+                    /* Example notification title */
+                    exampleNotificationTitle: 'Subscribe for news updates',
+                    /* Example notification message */
+                    exampleNotificationMessage: "",
+                    /* Text below example notification, limited to 50 characters */
+                    exampleNotificationCaption: 'You can unsubscribe anytime',
+                    /* Accept button text, limited to 15 characters */
+                    acceptButtonText: "ALLOW",
+                    /* Cancel button text, limited to 15 characters */
+                    cancelButtonText: "NO THANKS"
+                }
+            }]);
+            // OneSignal.setSubscription(true);
+            OneSignal.push(function() {
+                // forcefully popup for notification subscription
+                // OneSignal.registerForPushNotifications();
+                // for debugging
+                // OneSignal.log.setLevel('trace');
+                /*OneSignal.isPushNotificationsEnabled(function(isEnabled) {
+                    if (isEnabled) {
+                      console.log("Push notifications are enabled!");
+                    }
+                    else {
+                      console.log("Push notifications are not enabled yet.");
+                    }
+                });*/
+            });
+            </script>
+            <!-- - - - - end:onesignal - - - - -->	<script>
+		function adBlockerPresent() {
+			console.log('this is adBlockerPresent()');
+			if (window.matchMedia('(max-device-width: 750px)').matches) return;
+			if ($('body').is('.hero')) return;
+
+			adblockAlert();
+			$(window).scroll(function() {
+				adblockAlert();
+			});
+			$(window).resize(function() {
+				adblockAlert();
+			});
+		}
+		function adBlockerAbsent() {
+			// hide all ad blocker mesages in case of false positive
+			$('.adblocker-overlay').hide();
+			$('.adblocker-modal').hide();
+			$('.adblock-alert').hide();
+			console.log('this is adBlockerAbsent()');
+		}
+		
+		function adblockAlert() {
+			var dismissDelay = 3;
+
+			var $modal = $('.adblocker-modal');
+			var $headroom = $('.headroom');
+			var $sticky = $('.adblock-alert');
+			var $modalOverlay = $('.adblocker-overlay')
+			var $modalButton = $('.adblocker-modal__button').attr('disabled', 'disabled');
+
+			$modalButton.on('click', function() {
+				$modalOverlay.css('display', 'none');
+				$modal.css('display', 'none');
+				Cookies.set('adblock-popup', true, {expires: 0.25});
+			});
+
+			$sticky.css('display', 'block').css('position', 'fixed');
+
+			// maintain position of adblocker warning on top and headroom displaced below it
+			if (window.scrollY === 0) {
+				$headroom.css('margin-top', 0);
+			} else {
+				$headroom.css('margin-top', $sticky.outerHeight() + 'px');
+			}
+
+			// don't show modal if cookie hasn't expired yet
+			if (Cookies.get('adblock-popup')) return;
+
+			// modal is already visible, don't re-render it
+			if ($modal.is(':visible')) return;
+
+			$modalButton.html(dismissDelay)
+
+			// show countdown on button
+			var interval = setInterval(function() {
+				if (dismissDelay == 0) {
+					clearInterval(interval);
+					$modalButton.html('Continue').removeAttr('disabled');
+				} else {
+					$modalButton.html(dismissDelay);
+				}
+				dismissDelay--;
+			}, 1000);
+
+			$modalOverlay.css('display', 'block');
+			$modal.css('display', 'block');
+		}
+
+		if(typeof blockAdBlock === 'undefined') {
+			console.log('ad blocker is not defined');
+			$('.headroom .border--ends').attr("style", "border-top-color: #dcdcdc !important");
+			adBlockerPresent();
+		} else {
+			blockAdBlock.setOption({
+				checkOnLoad: false,
+				debug: true
+			});
+			blockAdBlock.onDetected(adBlockerPresent).onNotDetected(adBlockerAbsent);
+		}
+		
+		function checkAgain() {
+			// setTimeout 300ms for the recheck is visible when you click on the button
+			setTimeout(function() {
+				if(typeof blockAdBlock === 'undefined') {
+					adBlockerPresent();
+				} else {
+					blockAdBlock.onDetected(adBlockerPresent).onNotDetected(adBlockerAbsent);
+					blockAdBlock.check();
+				}
+			}, 300);
+		}
+	</script>
+
+</footer>
+<!--2018-03-21 08:31:23-->
+</body>
+</html>

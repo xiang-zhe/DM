@@ -1,0 +1,1538 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>85% of aid for poor stolen, now exceeds B100m | Bangkok Post: news</title>
+<meta http-equiv="Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="aid, poor, destitute,embezzlement" />
+<meta name="description" content="Latest news, politics, business and sport from Thailand and Asean, plus features, opinion and multimedia from across Southeast Asia." />
+<meta name="author" content="Bangkok Post Public Company Limited" />
+<meta name="rating" content="General" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+<meta name="robots" content="index,follow" />
+
+<meta property="og:title" content="85% of aid for poor stolen, now exceeds B100m" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.bangkokpost.com/news/crime/1431146/85-of-aid-for-poor-stolen-now-exceeds-b100m" />
+<meta property="og:image" content="https://www.bangkokpost.com/media/content/20180319/c1_1431146_620x413.jpg" />
+<meta property="og:site_name" content="https://www.bangkokpost.com" />
+<meta property="og:description" content="Graft-busters investigating systemic embezzlement of funds from protection centres for the destitute report the total theft uncovered now exceeds 100 million baht and has been found in 49 provinces." />
+<meta property="fb:app_id" content="476233699157604" />
+
+<meta itemprop="image" content="https://www.bangkokpost.com/media/content/20180319/c1_1431146_620x413.jpg" />
+
+
+
+	<meta itemprop="breadcrumb" content="News" />
+		<meta itemprop="breadcrumb" content="Crime" />
+	
+
+
+
+<meta name="twitter:title" content="85% of aid for poor stolen, now exceeds B100m">
+<meta name="twitter:description" content="Graft-busters investigating systemic embezzlement of funds from protection centres for the destitute report the total theft uncovered now exceeds 100 million baht and has been found in 49 provinces.">
+<meta name="twitter:image" content="https://www.bangkokpost.com/media/content/20180319/c1_1431146_620x413.jpg">
+
+
+
+<link rel="stylesheet" href="/common/css/common.min.css?v=23.26" type="text/css" media="screen" />
+
+
+
+
+
+	
+
+
+
+
+
+
+
+<!-- include javaScript for Ads Banner -->
+<link rel="stylesheet" href="/common/css/blueTheme.css?v=23.26" type="text/css" media="screen" />
+
+
+
+
+
+
+<!-- include javaScript for Ads Banner -->
+
+
+<link media="screen" type="text/css" href="/common/css/scroll-ads.css?v=23.26" rel="stylesheet">
+
+
+
+<script type="text/javascript" src="/common/js/jquery-1.7.min.js?v=5.74"></script>
+
+<script type="text/javascript" src="/common/js/vocabulary.js?v=5.74"></script>
+<script type="text/javascript" src="/common/js/functions.js?v=5.74"></script>
+<script type="text/javascript" src="/common/js/postAd.js?v=5.74"></script>
+<script type="text/javascript">
+
+$(document).ready(function(){
+	var channel_name = 'NEWS';
+	var keyword = encodeURIComponent('aid,poor,destitute,embezzlement');
+	
+	if ($('#ad4_container li:nth-child(1)').length) {	
+		var url1 = post_writeAd_json("&SITE=BANGKOKPOST&AREA=ARTICLE&TYPE=SPECIAL+CONTENT&POSITION=ARTICLE+POSITION+1&METHOD=JSCRIPT&CATEGORY="+channel_name+"&FORMAT=JSON&KEYWORD="+keyword);
+		var ads_cid1 = setAds4($('#ad4_container li:nth-child(1)') , url1 , 'article');
+	}
+
+	if ($('#ad4_container li:nth-child(2)').length) {	
+		var url2 = post_writeAd_json("&SITE=BANGKOKPOST&AREA=ARTICLE&TYPE=SPECIAL+CONTENT&POSITION=ARTICLE+POSITION+2&METHOD=JSCRIPT&CATEGORY="+channel_name+"&FORMAT=JSON&NOTID="+ads_cid1);
+		var ads_cid2 = setAds4($('#ad4_container li:nth-child(2)') , url2 , 'article');
+	}
+
+	if ($('#ad4_container li:nth-child(3)').length) {	
+		var url3 = post_writeAd_json("&SITE=BANGKOKPOST&AREA=ARTICLE&TYPE=SPECIAL+CONTENT&POSITION=ARTICLE+POSITION+3&METHOD=JSCRIPT&CATEGORY="+channel_name+"&FORMAT=JSON&KEYWORD="+keyword+"&CONDITION=OR&NOTID="+ads_cid1+","+ads_cid2);
+		setAds4($('#ad4_container li:nth-child(3)') , url3 , 'article');
+	}
+	
+});
+</script>
+
+
+<script type="text/javascript">
+	$.get( "/hits/1431146", { t: Math.floor((Math.random() * 100000)) } );
+</script>
+
+
+<script type="text/javascript" src="/common/js/isInViewport.js?v=5.74"></script>
+
+
+<script type="text/javascript" src="/common/js/carousel.js?v=5.74"></script>
+<script type="text/javascript">
+
+$(document).ready(function(){
+	try{
+		if ($('.more-topic .viewport .overview ul').length > 1) {
+			var oSlider = $('.more-topic');
+			if(oSlider.length > 0){
+				oSlider.tinycarousel({ pager: true, interval: true, control: false, effect: 'fade', animation: false, display: 1 });
+			}
+		}
+	} catch (e) {}
+});
+
+</script>
+<script type="text/javascript" src="/common/js/jobbox.js?v=5.74"></script>
+
+<script type="text/javascript" src="/common/js/jquery.jfontsize.js?v=5.74"></script>
+
+<!-- Place this tag in your head or just before your close body tag -->
+<script type="text/javascript" src="//apis.google.com/js/plusone.js">
+  {lang: 'en-GB'}
+</script>
+
+
+
+
+
+
+<script type="text/javascript" src="/common/js/like_dislike.js?v=5.74"></script>
+<script type="text/javascript">
+if (top.location != location) {
+    top.location.href = document.location.href;
+}
+</script>
+<!-- begin facebook -->
+<script type="text/javascript">
+var is_facebook_login = false;
+var global_article_headline = '85%25+of+aid+for+poor+stolen%2C+now+exceeds+B100m';
+var facebook_loginUrl = '';
+var facebook_logoutUrl = '';
+
+// comment v2
+var global_use_id = '1431146';
+var global_username = '';
+var global_avatar = '';
+var global_count_post = '';
+var global_country_code = '';
+var global_country_name_en = '';
+var global_member_id = '';
+var global_content_url = 'https://www.bangkokpost.com/news/crime/1431146/85-of-aid-for-poor-stolen-now-exceeds-b100m';
+var share_url = 'https://www.bangkokpost.com/news/crime/1431146/85-of-aid-for-poor-stolen-now-exceeds-b100m';
+var global_bkp_login = 'https://member.bangkokpost.com/login.php?serviceID=10006';
+var global_bkp_signup = 'https://member.bangkokpost.com/register.php?serviceID=10006';
+</script>
+<script type="text/javascript" src="/common/js/facebook.js?v=5.74"></script>
+<!-- end facebook -->
+
+
+
+
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@BangkokPostNews">
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "15229279" });
+  (function() {
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="//b.scorecardresearch.com/p?c1=2&c2=15229279&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+
+<script type="text/javascript">
+
+	/////////////////////
+	// google analytic //
+	/////////////////////
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+
+
+
+
+	// check path for google analytic 2015-09-03
+	var path_analytic = location.pathname;
+	var check_url_forum = path_analytic.indexOf('/forum/');
+
+	var check_url_paging = path_analytic.indexOf('page-');
+	if (check_url_paging != -1) {
+		// found pageing
+		var global_check_path_analytic = true;
+		var temp_path_analytic = '';
+		if (global_check_path_analytic) {
+			var arr_analytic = path_analytic.split("/");
+			var count_arr_analytic = arr_analytic.length;
+			for (i = 0; i < count_arr_analytic; i++) {
+				patt = /page-\d/i;
+				ret = patt.test(arr_analytic[i]);
+				if (ret) {
+					global_check_path_analytic = false;
+				} else if (arr_analytic[i] != '') {
+					temp_path_analytic += '/' + arr_analytic[i];
+				}
+			}
+			path_analytic = temp_path_analytic;
+		}
+	}
+	if (check_url_forum != -1) {
+		// forum
+		path_analytic += location.search;
+	}
+
+	ga('create', 'UA-8091193-1', 'bangkokpost.com');
+	ga('require', 'displayfeatures');
+	if (path_analytic == '/' || path_analytic == '') {
+		ga('send', 'pageview');
+	} else {
+		ga('send', 'pageview', path_analytic);
+	}
+	/////////////////////
+
+	////////////////
+	// userreport //
+	////////////////
+	/*
+	var _urq = _urq || [];
+	_urq.push(['setGACode', 'UA-8091193-1']);
+	_urq.push(['setPerformInitialShorctutAnimation', false]);
+	_urq.push(['initSite', 'e47b8478-248e-46bb-8526-3b368f81c2a5']);
+
+	(function() {
+	var ur = document.createElement('script'); ur.type = 'text/javascript'; ur.async = true;
+	ur.src = ('https:' == document.location.protocol ? 'https://d1chfpa9hnx6ug.cloudfront.net/userreport.js' : 'http://sdscdn.userreport.com/userreport.js');
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ur, s);
+	})();
+	*/
+	////////////////
+</script>
+
+<!--[if (lt IE 9)]>
+	 <script src="/common/js/modernizr-2.8.3-min.js"></script>
+	<script src="/common/js/selectivizr-min.js"></script>
+	<link rel="stylesheet" href="/common/css/ie8.css" type="text/css" media="screen" />
+<![endif]-->
+
+
+
+
+<!-- Hotjar Tracking Code for www.bangkokpost.com -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:599942,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+
+<!-- Cxense script begin -->
+<script type="text/javascript">
+var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+cX.callQueue.push(['setSiteId', '1133918090132712068']);
+cX.callQueue.push(['sendPageViewEvent']);
+</script>
+<script type="text/javascript">
+(function(d,s,e,t){e=d.createElement(s);e.type='text/java'+s;e.async='async';
+e.src='http'+('https:'===location.protocol?'s://s':'://')+'cdn.cxense.com/cx.js';
+t=d.getElementsByTagName(s)[0];t.parentNode.insertBefore(e,t);})(document,'script');
+
+// Cxense not exclude content id
+var cxense_exclude_content_id = '';
+
+</script>
+<meta name="cXenseParse:bpp-keywords" content="aid"/>
+<meta name="cXenseParse:bpp-keywords" content="poor"/>
+<meta name="cXenseParse:bpp-keywords" content="destitute"/>
+<meta name="cXenseParse:bpp-keywords" content="embezzlement"/>
+
+<meta name="cXenseParse:bpp-imagesmall" content="https://www.bangkokpost.com/media/content/20180319/c1_1431146_300x200.jpg"/>
+
+<!--##CXENSE##-->
+
+<!-- Cxense script end -->
+
+
+<!-- DFP -->
+<script type="text/javascript">
+function dfp_show(zone) {
+	document.write("<div id='"+zone+"'>");
+	googletag.cmd.push(function() { googletag.display(zone); });
+	document.write("</div>");
+}
+</script>
+<!-- DFP -->
+
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+<!-- CXENSE BEGIN-->
+<meta name="cXenseParse:pageclass" content="article"/>
+<meta name="cXenseParse:articleid" content="1431146"/>
+<meta name="cXenseParse:recs:publishtime" content="2018-03-19T14:46:00+07:00"/>
+	
+	<meta property="cXenseParse:author" content="King-oua Laohong"/>
+<!-- CXENSE END--> 
+
+<script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#username=xa-4b7a731c3bedd07d"></script>
+<script type="text/javascript" src="/common/js/share_social.js?v=5.74"></script>
+<script type="text/javascript" src="/common/js/jquery.copypaste.js?v=5.74"></script>
+
+
+<script src="/common/js/zeroclipboard/ZeroClipboard.js"></script>
+
+
+
+
+<!-- instagram -->
+<!--<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>-->
+<script async defer src="//www.instagram.com/embed.js"></script> 
+
+</head>
+<body class="container blueTheme saturate" itemscope itemtype="http://schema.org/WebPage">
+
+
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=227454123942867&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<h1 class="mainTitle" itemprop="name">
+  85% of aid for poor stolen, now exceeds B100m | Bangkok Post: news
+</h1>
+
+ 
+<nav class="hd-navigation main-section" role="navigation">
+	<ul>
+		<!-- <li class="topsection"><span>Top sections</span></li> -->
+		<li class="news"><a title="News" href="/news">News</a></li>
+		<li><a title="Business" href="/business">Business</a></li>
+		<li><a title="Video" href="/vdo">Video</a></li>
+		<li><a title="Photos" href="/photo">Photos</a></li>
+		<li><a title="Opinion" href="/opinion">Opinion</a></li>
+		<li><a title="Lifestyle" href="/lifestyle">Lifestyle</a></li>
+		<li><a title="Auto" href="/auto">Auto</a></li>
+		<li><a title="Jobs" href="//job.bangkokpost.com/">Jobs</a></li>
+		<li><a title="Property" href="//property.bangkokpost.com">Property</a></li>
+		<li><a title="Travel" href="/travel">Travel</a></li>
+		<li><a title="Learning" href="/learning">Learning</a></li>
+		<li><a href="/tech" title="Technology">Tech</a></li>
+		<li class="menu-switch"><a title="Click here for more content in this section" href="javascript:void(0);">More</a></li>
+	</ul>
+</nav>
+
+<!-- openx v2 : NEWS_ARTICLE -->
+<script type='text/javascript'>
+<!--// <![CDATA[
+var OA_zones = {
+"558" : 558, "559" : 559, "556" : 556, "557" : 557, "553" : 553, "554" : 554, "555" : 555, "1106" : 1106, "120" : 120, "127" : 127, "170" : 170, "540" : 540, "541" : 541, "542" : 542, "543" : 543, "544" : 544, "545" : 545, "1023" : 1023, "1024" : 1024, "1447" : 1447 , "1448" : 1448 , "1450" : 1450 , "2087" : 2087 , "2088" : 2088 , "2089" : 2089, "2097" : 2097, "2541" : 2541, "2543" : 2543, "2544" : 2544, "2545" : 2545, "2542" : 2542
+}
+// ]]> -->
+</script>
+
+<!-- Prebid Config Section START -->
+<!-- Make sure this is inserted before your GPT tag -->
+<script type="text/javascript" src="https://www.bangkokpost.com/common/js/prebid.js" async></script>
+<script>
+
+	
+	// Disable app nexus
+	var PREBID_TIMEOUT = 700;
+
+	var adUnits = [{
+		code: 'div-gpt-ad-rec-1',
+		sizes: [300, 250],
+		bids: [{
+			bidder: 'appnexus',
+			params: {
+				placementId: '12712120'
+			}
+		}]
+	}, {
+		code: 'div-gpt-ad-rec-2',
+		sizes: [300, 250],
+		bids: [{
+			bidder: 'appnexus',
+			params: {
+				placementId: '12712121'
+			}
+		}]
+	}, {
+		code: 'div-gpt-ad-leaderboard-1',
+		sizes: [
+			[970, 90],
+			[970, 250],
+			[728, 90]
+		],
+		bids: [{
+			bidder: 'appnexus',
+			params: {
+				placementId: '12712119'
+			}
+		}]
+	}];
+
+	var pbjs = pbjs || {};
+	pbjs.que = pbjs.que || [];
+
+
+	pbjs.bidderSettings = {
+		appnexus: {
+			bidCpmAdjustment: function(bidCpm) {
+				return bidCpm / 0.031; //please make a config var eg. 0.031
+			}
+		}
+	};
+
+	const customConfigObject = {
+		"buckets": [{
+				"precision": 2,
+				"min": 0,
+				"max": 100,
+				"increment": 0.50
+			},
+			{
+				"precision": 2,
+				"min": 100,
+				"max": 300,
+				"increment": 1.00
+			},
+			{
+				"precision": 2,
+				"min": 300,
+				"max": 700,
+				"increment": 20.0
+			}
+		]
+	};
+
+	pbjs.que.push(function() {
+		pbjs.setConfig({
+			priceGranularity: customConfigObject
+		})
+	})
+	
+</script>
+
+<!-- DFP -->
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	
+	
+	// Disable app nexus
+	googletag.cmd.push(function() {
+		googletag.pubads().disableInitialLoad();
+	});
+
+	pbjs.que.push(function() {
+		pbjs.addAdUnits(adUnits);
+		pbjs.requestBids({
+			bidsBackHandler: sendAdserverRequest
+		});
+	});
+
+	function sendAdserverRequest() {
+		if (pbjs.adserverRequestSent) return;
+		pbjs.adserverRequestSent = true;
+		googletag.cmd.push(function() {
+			pbjs.que.push(function() {
+				pbjs.setTargetingForGPTAsync();
+				googletag.pubads().refresh();
+			});
+		});
+	}
+
+	setTimeout(function() {
+		sendAdserverRequest();
+	}, PREBID_TIMEOUT);
+	
+  
+</script>
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot("/2776261/BP_CH_LB", [[970, 90], [970, 70], [728, 90], [970, 250]], "div-gpt-ad-leaderboard-1").setTargeting("NewsSection", ["news"]).addService(googletag.pubads());
+    googletag.defineSlot("/2776261/BP_CH_Rec1", [[300, 600], [300, 250]], "div-gpt-ad-rec-1").setTargeting("NewsSection", ["news"]).addService(googletag.pubads());
+    googletag.defineSlot("/2776261/BP_CH_Rec2", [[300, 600], [300, 250]], "div-gpt-ad-rec-2").setTargeting("NewsSection", ["news"]).addService(googletag.pubads());
+	googletag.defineSlot("/2776261/InRead_BP", [[300, 250], [336, 280], [620, 349]], "div-gpt-ad-in-read-1").setTargeting("NewsSection", ["news"]).addService(googletag.pubads());		
+    googletag.pubads().enableSingleRequest();
+	googletag.pubads().collapseEmptyDivs();
+	googletag.pubads().setTargeting("NewsSection", ["news"]);
+	if (typeof cX.getUserSegmentIds !== "undefined") googletag.pubads().setTargeting("CxSegments",cX.getUserSegmentIds({persistedQueryId:"10e5dfb6eaedc4830f2907303add881df700be72"}));
+    googletag.enableServices();
+  });
+</script>
+<!-- DFP -->
+<script type='text/javascript' src='/common/js/openx/bkp-spcjs.php.js?v=5.74'></script>
+<!-- openx v2 -->
+
+<header id="hd-inside">
+	<section>
+		<div class="hd-center">
+			<h1 ><a href="/news" title="news Section">NEWS</a></h1>
+		</div>
+
+		<div class="hd-left">
+			<ul>
+			
+				<li class="login"><a href="https://member.bangkokpost.com/login.php?serviceID=10006" title="Log on to Bangkok Post website">Log in</a></li>
+				<li class="signup"><a href="https://member.bangkokpost.com/register.php" title="Sign up to Bangkok Post website">Sign up</a></li>
+			
+			<li class="search"><a title="Web search" href="//search.bangkokpost.com/">Web search</a></li>
+			</ul>
+			<p class="menu-switch"><a href="javascript:void(0);" title="Click here to get all Bangkok Post links and content">MENU</a></p>
+			<span><a href="/" title="Go back to Bangkok Post homepage"><img src="/common/img/nav/BangkokPost-small.svg"></a></span>
+			<div class="search-switch">
+				<span>Search Switch</span>
+			</div>
+				<form class="searchb" onsubmit="return goSearch();">
+					<input type="text" placeholder="" id="searchWords" class="fill-search" name="keyword">
+					<a href="#" title="Remove" class="remove"><img src="/common/img/nav/search-remove.png" alt="Remove"></a>
+					<input type="submit" name="submit" style="display:none;" />
+				</form>
+		</div>
+		<div class="hd-right">
+
+			<div>
+				<a href="/archive" class="archive" title="Find all previous Bangkok Post content">Archive</a>
+				<div class="dropbox-paper">
+					<div class="epaper">
+						<p class="img-wrap">
+							<img class="newspaper_image" src="/ads/newspaper_direct/enewspaper.jpg" alt="Today's Bangkok Post newspaper" width="124">
+						</p>
+						<p><img class="newspaper_image" src="/ads/newspaper_direct/enewspaper.jpg" alt="Today's Bangkok Post newspaper" width="124"></p>
+					</div>
+					 <span class="today" title="click here for today's Bangkok Post newspaper">E-PAPER</span>
+					 <div class="detail">
+					 	<ul>
+					 		<li><a href="/epaper" title="Click here for today's Bangkok Post newspaper"><img class="newspaper_image" src="/ads/newspaper_direct/enewspaper.jpg" width="140" alt="Today's Bangkok Post newspaper"></a></li>					 		
+					 		<li><a href="http://bangkokpost.newspaperdirect.com/epaper/AccountingLogin.aspx" title="SIGN IN">SIGN IN</a></li>
+					 		<li><a href="/epaper" title="About E-Newspaper">About E-Paper</a></li>
+					 		<li><a href="/epaper/price" title="Subscribe">Subscribe</a></li>
+					 		<li><a href="https://www.bangkokpost.com/epaper/contactus/freetrial" title="Free Trial">Free Trial</a></li>
+							<li><a href="/epaper/report-problem" title="Report problem">Report problem</a></li>
+					 		<li><a href="/epaper/contactus" title="Contact us">Contact us</a></li>					 		
+					 	</ul>
+					 </div>
+				</div>
+			</div>  
+		</div><!--end hd-right--> 
+	</section>
+</header>
+
+ 
+
+<span class="truehits" id="truehits_div" style="display:none;">
+<script type="text/javascript"> __th_page="NEWS_ARTICLE";</script>
+<script type="text/javascript">
+  (function() {
+    var ga1 = document.createElement('script'); ga1.type = 'text/javascript';
+    ga1.async = true;
+    ga1.src = "//lvs.truehits.in.th/dataa/s0028944.js";
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga1, s);
+  })();
+</script> 
+</span>
+
+
+<script type="text/javascript">
+	$(document).ready(function() {
+		$.ajaxSetup({cache: true});
+		$(".truehits").appendTo($(".footer_policy"));
+		$(".truehits").show();
+		$.ajaxSetup({cache: false});
+	});
+</script>
+<nav class="hd-navigation">
+	<ul>
+		<li><a  href="/news" title="NEWS Homepage">NEWS Homepage</a></li>
+		<li><a  href="/most-recent" title="MOST RECENT">MOST RECENT</a></li>
+		<li><a  href="/topstories" title="Top stories">Top stories</a></li>
+		<li><a  href="/news/politics" title="POLITICS">POLITICS</a></li>
+		<li><a class="active" href="/news/crime" title="Crime">Crime</a></li>
+		<li><a  href="/news/general" title="General">General</a></li>
+		<li><a  href="/news/asean" title="ASEAN">ASEAN</a></li>
+		<!-- <li><a  href="/news/asia" title="ASIA">ASIA</a></li> -->
+		<li><a  href="/news/world" title="WORLD">WORLD</a></li>
+		<li><a  href="/news/sports" title="SPORTS">SPORTS</a></li>
+		<li class="dropDown">
+			<a href="javascript:void(0);" title="More">More</a>
+			<div class="detail">
+				<ul>
+					<li><a  href="/news/weather" title="WEATHER FORECAST">WEATHER FORECAST</a></li>
+					<li><a  href="/hot-topics" title="HOT TOPICS">HOT TOPICS</a></li>
+					<li><a href="/news/special-reports" title="SPECIAL REPORT">SPECIAL REPORT</a></li>
+					<li><a  href="/news/security" title="SECURITY">SECURITY</a></li>
+					<li><a  href="/news/transport" title="Transport">Transport</a></li>
+					<li><a  href="/news/environment" title="Environment">Environment</a></li>
+				</ul>
+			</div>
+		</li>
+	</ul>
+</nav>
+
+
+
+<!-- openx v2 -->
+<ul class="headerAd">
+
+					<li id="leaderAd" class="leaderAd" onMouseOver="this.className='leaderAdExpand '" onMouseOut="this.className='leaderAd'">
+				<script type="text/javascript">
+					dfp_show('div-gpt-ad-leaderboard-1');
+					$('html', window.parent.document).addClass('billboard');
+				</script>
+			</li> 
+		
+		
+		
+</ul>
+<!-- openx v2 -->
+<!-- end headerAd -->
+
+
+
+
+
+
+
+
+
+<section class="articleContent" >
+
+	
+
+	      <p class="levelNavigaton">
+			<a href="/news">
+        News
+        </a> &gt;
+		        <a href="/news/crime"><span>Crime</span></a>
+		      </p>
+   
+
+
+
+	<article >
+
+		<!-- Begin cXenseParse-->
+		<div class="cXenseParse">
+
+		
+			<header>
+			<h1 itemprop="headline">
+								85% of aid for poor stolen, now exceeds B100m
+			</h1>
+			
+						<ul>
+									<li><span itemprop="datePublished">19 Mar 2018 at 14:46</span> <span class="view">4,574 viewed</span><a class="comment" href="javascript:scrollToAnchor('comment-list');">38 comments</a></li>
+					<li>
+															WRITER: <a href="http://search.bangkokpost.com/search/result_advanced?category=news&columnistName=King-oua+Laohong">KING-OUA LAOHONG</a>
+										</li>
+													
+
+
+			</ul>
+					</header>
+
+		<!-- MV -->
+	
+	<div class="articleContents">
+
+	
+		<div class="articlePhotoCenter"><img vspace="3" hspace="3" border="1" alt="" src="/media/content/20180319/c1_1431146_620x413.jpg" width=620 height=413>
+				<p>Officials question local people during the investigation into systemic corruption in the payment of financial assistance for the destitute in Don Sak district of Surat Thani province last month. (Photo by Supapong Chaolan)</p>
+				</div>
+	
+	<div class="text-size">
+    	<a style="cursor: pointer;" class="minimize" id="jfontsize-minus"><span>-</span></a>
+        <a style="cursor: pointer;" class="enlarge" id="jfontsize-plus"><span>+</span></a>
+    </div>
+	
+	
+
+		
+
+	<p class="preParagraph">Graft-busters investigating systemic embezzlement of funds from protection centres for the destitute report the total theft uncovered now exceeds 100 million baht and has been found in 49 provinces.</p>
+	<p>Lt Col Kornthip Daroj, secretary-general of the Public Sector Anti-Corruption Commission, said on Monday that from Feb 13 to March 18 investigators had to found 104 million baht allocated to help the poor in 49 provinces had been misappropriated, or 85% of the centres' budgets.</p>
+<p>Corruption was reported in Amnat Charoen, Ang Thong, Ayutthaya, Bung Kan, Buri Ram, Chiang Mai, Chiang Rai, Chaiyaphum, Chanthaburi, Chumphon, Kalasin, Kamphaeng Phet, Khon Kaen, Krabi, Lampang, Lamphun, Lop Buri, Mae Hong Son, Maha Sarakham, Mukdahan, Nakhon Ratchasima, Nakhon Pathom, Nakhon Phanom, Nan, Narathiwat, Nong Bua Lam Phu, Nong Khai, Phangnga, Phatthalung, Phichit, Phitsanulok, Ratchaburi, Roi Et, Sa Kaeo, Saraburi, Sakon Nakhon, Satun, Si Sa Ket, Songkhla, Surat Thani, Surin, Tak, Trang, Trat, Yala, Ubon Ratchathani, Udon Thani, Uthai Thani and Yasothon.</p>
+<p>Fraud came in various forms, Lt Col Kornthip said. There were aid applications with completely fake documents, applications with both genuine and fake documents and aid applications for people who did not deserve the aid.</p><div class="boomboxSize3" id='div-gpt-ad-in-read-1'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-in-read-1'); });
+</script>
+</div>
+<p>The destitute whose names were claimed as recipients either received no money or only partial assistance. In some cases, officials who misappropriated the aid told the destitute to lie to investigators that they had received what was due them.</p>
+<p>The investigation is continuing.</p>
+<p>The first case of embezzlement came to light in January. It was exposed by a group of&nbsp;Maha&nbsp;Sarakham&nbsp;University&nbsp;students, one of whom was later hit by a professor for blowing the whistle.</p>
+<p>They were told to fill in forms and sign fake signatures on receipts for 2,000 villagers for nearly 7 million baht while they were working as interns at the&nbsp;Khon&nbsp;Kaen Protection for the&nbsp;Destitute&nbsp;Centre&nbsp;last year. The students claimed the&nbsp;centre&nbsp;chief and some senior officials ordered them to do it.</p>
+<p>The money was intended for distribution to poor people, low-income earners and HIV/Aids patients in the province.</p>
+
+		
+
+
+	</div>
+	
+	
+
+	</div>
+	<!-- End cXenseParse-->
+
+
+
+
+
+	<script language="JavaScript" type="text/javascript">
+	$('.articleContents p,.articlePhotoCenter p').jfontsize({
+		btnMinusClasseId: '#jfontsize-minus',
+		btnDefaultClasseId: '#jfontsize-default',
+		btnPlusClasseId: '#jfontsize-plus',
+		btnMinusMaxHits: 1,
+		btnPlusMaxHits: 4,
+		sizeChange: 1
+	});
+	</script>
+
+
+
+
+
+
+	<!-- audio -->
+		<!-- audio -->
+
+
+
+	
+
+
+
+
+
+
+
+
+		</div>
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <div class="topic-category">
+
+				
+		</div>
+
+			
+	<!-- not article v2 -->
+
+		<div class="article-footer">
+		<div class="tags">
+        	<h3>TAGS</h3>
+					<a href="//search.bangkokpost.com/search/result?category=news&q=aid">aid</a> <a href="//search.bangkokpost.com/search/result?category=news&q=poor"> poor</a> <a href="//search.bangkokpost.com/search/result?category=news&q=destitute"> destitute</a> <a href="//search.bangkokpost.com/search/result?category=news&q=embezzlement">embezzlement</a>
+       </div>
+  	</div>
+	
+		
+	
+	<div class="news-relate">
+			<h3>RELATED STORIES</h3>
+			<ul id='cx-output-related'>
+
+            </ul>
+    </div>
+	
+	
+	<div class="news-relate">
+		<div class="OUTBRAIN" data-src="https://www.bangkokpost.com/news/crime/1431146/85-of-aid-for-poor-stolen-now-exceeds-b100m" data-widget-id="AR_1" data-ob-template="BangkokPost"></div>
+		<script type="text/javascript" async="async" src="https://widgets.outbrain.com/outbrain.js"></script>
+	</div> 
+
+
+    <div class="footer-lastest">
+
+    	<div class="MostViewed">
+			<h2>Most Viewed</h2>
+			<ul class="mostViewList">
+							  	<li>
+  					<p class="thumbnail">28,249</p>
+  					<div class="detail">
+  						<h3><a href="/news/general/1430035/special-bangkok-pattaya-train-debuts">Bangkok-Pattaya special train makes ...</a></h3>
+  					</div>
+  				</li>
+  							  	<li>
+  					<p class="thumbnail">19,754</p>
+  					<div class="detail">
+  						<h3><a href="/news/general/1428238/finland-happiest-country-thailand-less-joyous-than-ever">Finland 'happiest country', ...</a></h3>
+  					</div>
+  				</li>
+  							  	<li>
+  					<p class="thumbnail">16,918</p>
+  					<div class="detail">
+  						<h3><span class="icon-vdo">video</span><a href="/news/crime/1428795/red-bull-scion-notice-disappears-from-interpol-website">Red Bull scion notice disappears ...</a></h3>
+  					</div>
+  				</li>
+  							  	<li>
+  					<p class="thumbnail">14,736</p>
+  					<div class="detail">
+  						<h3><span class="icon-vdo">video</span><a href="/lifestyle/family-and-health/1428723/top-bottled-water-brands-contaminated-with-plastic-particles">Top bottled water brands ...</a></h3>
+  					</div>
+  				</li>
+  							  	<li>
+  					<p class="thumbnail">12,527</p>
+  					<div class="detail">
+  						<h3><a href="/news/general/1429518/porsche-catches-fire-while-charging">Porsche catches fire while charging</a></h3>
+  					</div>
+  				</li>
+  				  			</ul><!-- end mostViewList -->
+  		</div>
+
+
+			        <div class="recent-article">
+        	<h2>Recent NEWS Articles</h2>
+            <ul>
+							            	<li>
+                	<a class="thumbnail" href="/news/general/1432034/bma-to-hold-rabies-war-council" title="BMA to hold rabies war council"><img src="/media/content/dcx/2018/03/21/2693051_220x147.jpg" width="100" height="67" alt="BMA to hold rabies war council" title="BMA to hold rabies war council"></a>
+                    <div class="detail">
+                    	<h3><a href="/news/general/1432034/bma-to-hold-rabies-war-council" title="BMA to hold rabies war council">BMA to hold rabies war council</a></h3>
+                    </div>
+                </li>
+							            	<li>
+                	<a class="thumbnail" href="/news/general/1432183/nacc-seeks-juthamas-foreign-assets" title="NACC seeks Juthamas' foreign assets"><img src="/media/content/dcx/2018/03/21/2693138_220x147.jpg" width="100" height="67" alt="NACC seeks Juthamas' foreign assets" title="NACC seeks Juthamas' foreign assets"></a>
+                    <div class="detail">
+                    	<h3><a href="/news/general/1432183/nacc-seeks-juthamas-foreign-assets" title="NACC seeks Juthamas' foreign assets">NACC seeks Juthamas' foreign assets</a></h3>
+                    </div>
+                </li>
+							            	<li>
+                	<a class="thumbnail" href="/news/politics/1432006/ncpo-sacks-poll-agencys-somchai" title="NCPO sacks poll agency's Somchai"><img src="/media/content/dcx/2018/03/21/2693031_220x147.jpg" width="100" height="67" alt="NCPO sacks poll agency's Somchai" title="NCPO sacks poll agency's Somchai"></a>
+                    <div class="detail">
+                    	<h3><a href="/news/politics/1432006/ncpo-sacks-poll-agencys-somchai" title="NCPO sacks poll agency's Somchai">NCPO sacks poll agency's Somchai</a></h3>
+                    </div>
+                </li>
+							            </ul>
+        </div>
+			
+    </div>
+
+					
+			<div class="text-ads">
+				<p>Get full Bangkok Post printed newspaper experience on your digital devices with <a href="/epaper" title="Bangkok Post e-newspaper">Bangkok Post e-newspaper</a>. Try it out, it's totally free for 7 days.</p>
+			</div>
+		
+		<div class="like-share">
+
+				<div class="like-dislike" >
+					<h3>Do you like the content of this article?</h3>
+					<!-- start article like unlike -->
+					<div id="like-dislike-article">
+					<a href="javascript:void(0);" onclick="setLikeArticle(1431146 , '1');return false;" class="like"><span>Like</span></a>
+	<a href="javascript:void(0);" onclick="setLikeArticle(1431146 , '0');return false;" class="dislike"><span>dislike</span></a>
+	<span class="total">60</span> <span>liked &amp;</span> <span class="total">0</span> <span>people disliked it</span>
+
+					</div>
+					<!-- end article like unlike -->
+				</div><!--end like-dislike-->
+
+				<div class="shareSocial">
+					<h3>Share this article</h3>
+					<div class="socialNetwrok">
+						<script type="text/javascript">
+						$(document).ready(function() {
+							var share_url = 'https://www.bangkokpost.com/news/crime/1431146/85-of-aid-for-poor-stolen-now-exceeds-b100m';
+							processFacebookShareCount(share_url);
+							processTwitterShareCount(share_url);
+						})
+						</script>
+						<div class="shareArticle">
+							<!--
+							<div id="componentDiv"> </div>
+							<script type="text/javascript">
+								gigya.socialize.showShareBarUI(showShareBarUI_params);
+							</script>
+							-->
+
+							<div class="facebook-share">
+								<img src="/common/img/icons/icon-sns-facebook.gif" onclick="sharePopup('http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.bangkokpost.com%2Fnews%2Fcrime%2F1431146%2F85-of-aid-for-poor-stolen-now-exceeds-b100m');" alt="facebook" title="facebook">
+								<p><span id="facebook_share_count_top">0</span></p>
+							</div>
+							<div class="tweetmeme_button">
+								<img src="/common/img/icons/icon-sns-tweeter.gif" onclick="sharePopup('http://twitter.com/share?url=https%3A%2F%2Fwww.bangkokpost.com%2Fnews%2Fcrime%2F1431146%2F85-of-aid-for-poor-stolen-now-exceeds-b100m&amp;text=85%25%20of%20aid%20for%20poor%20stolen%2C%20now%20exceeds%20B100m%20%7C%20Bangkok%20Post%3A%20news');" alt="twitter" title="twitter">
+								<p><span id="twitter_share_count_top">0</span></p>
+							</div>
+							<!-- end facebook-share -->
+							<!-- end tweetmeme_button -->
+							<div class="google-share">
+								<g:plusone size="medium"></g:plusone>
+							</div>
+							<!-- end google -->
+						</div>
+						<div class="socialBookmark">
+							<ul id="socialLink">
+								<script type="text/javascript">
+									var addthis_config = {services_exclude: 'email, print'}
+								</script>
+								<li id="addthis"> <a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4b7a731c3bedd07d" class="addthis_button_compact at300m" addthis:url="https://www.bangkokpost.com/news/crime/1431146/85-of-aid-for-poor-stolen-now-exceeds-b100m"><span class="at16nc at300bs at15nc at15t_compact at16t_compact"></span>More +</a> </li>
+
+							</ul> <!-- end socialLink -->
+						 </div>
+						 <ul id="socialLink">
+							<li id="reprint"><a target="_blank" href="/republishingpolicy">Republishing permission</a></li>
+							<li id="printThis"><a target="_blank" href="/print/1431146/" rel="nofollow" >Print this</a></li>
+						 </ul>
+					</div>
+				</div>
+				</div>
+
+
+
+		</article>
+
+
+	
+<aside >
+
+			<div class="boomboxSize1">
+		
+					<script type="text/javascript">
+				dfp_show('div-gpt-ad-rec-1');
+			</script>
+				</div>
+	
+	
+		
+
+	
+	
+	
+	
+	<div class="recent-article">
+		<h2>RECOMMENDED STORIES</h2>
+		<ul id="recommended-stories">			
+		</ul>
+	</div>
+	
+
+	<div id="MostUpdate">
+<h2><a href="/most-recent">MOST RECENT</a></h2>
+	<ul>
+				<li>
+			<span class="time">10:04</span><p><a href="/news/general/1432046/nbtc-shocked-at-move-to-aid-two-operators">NBTC shocked at move to aid two operators</a></p>
+		</li>
+				<li>
+			<span class="time">09:33</span><p><a href="/business/gold/1432383/gold-prices-steady-at-b19-450">Gold prices steady at B19,450</a></p>
+		</li>
+				<li>
+			<span class="time">09:30</span><p><a href="/business/news/1432178/thais-spend-one-tenth-of-the-day-with-youtube">Thais spend one-tenth of the day with YouTube</a></p>
+		</li>
+				<li>
+			<span class="time">08:27</span><p><a href="/news/general/1432054/ministry-to-address-access-for-disabled">Ministry to address access for disabled</a></p>
+		</li>
+				<li>
+			<span class="time">08:19</span><p><a href="/news/general/1432051/call-for-longer-schooling">Call for longer schooling</a></p>
+		</li>
+				<li>
+			<span class="time">08:03</span><p><a href="/news/general/1432210/villagers-clamour-to-save-land">Villagers clamour to save land</a></p>
+		</li>
+				<li>
+			<span class="time">07:39</span><p><a href="/news/general/1432034/bma-to-hold-rabies-war-council">BMA to hold rabies war council</a></p>
+		</li>
+				<li>
+			<span class="time">07:27</span><p><a href="/news/general/1432075/protection-urged-for-whistleblowers">Protection urged for whistleblowers</a></p>
+		</li>
+				
+	</ul>
+</div>
+	
+	
+
+			<div class="boomboxSize1 second">
+		
+					<script type="text/javascript">
+				dfp_show('div-gpt-ad-rec-2');
+			</script> 
+				</div>
+	
+	
+
+
+</aside>
+
+
+
+
+
+
+	    								<script type="text/javascript" src="/common/js/comment_form.js?v=5.74"></script>
+							 
+	
+	
+		<div id="comment-list">
+			      <h2>38 people commented about the above</h2>
+	      <div class="inst">
+	      	<p>Readers are urged not to submit comments that may cause legal dispute including slanderous, vulgar or violent language, incorrectly spelt names, discuss moderation action, quotes with no source or anything deemed critical of the monarchy. More information in our <a href="/policy" title="Terms of use">terms of use</a>.</p>
+	      	<p>Please use our <a href="/forum" title="Forum">forum</a> for more candid, lengthy, conversational and open discussion between one another.</p>
+	      </div>
+	      <ul class="toggle-navigation">
+	      	<li class="tab1 active" title="Latest" onclick="commentObject.getTabComment('latest');">Latest</li>
+			<li class="tab2" title="Oldest" onclick="commentObject.getTabComment('oldest');">Oldest</li>
+	      	<li class="tab3" title="Most replied to" onclick="commentObject.getTabComment('reply');">Most replied to</li>
+	      	<li class="tab4" title="Most liked" onclick="commentObject.getTabComment('like');">Most liked</li>
+	      	<li class="tab5" title="Most disliked" onclick="commentObject.getTabComment('unlike');">Most disliked</li>
+	      </ul>
+	
+	      <ul class="toggle-detail">
+	      	<li class="tab1-detail tab2-detail tab3-detail tab4-detail tab5-detail active">
+	      		<ol id="commentListWrapper">
+	
+	      		</ol>
+	      		<p class="more" id="more_comment"><a href="javascript:void(0);" title="Click here to view more comments" onclick="commentObject(commentObject.getComment());">Click here to view more comments</a></p>
+				<div class="success f-comment" id="form_comment_thankyou" style="display:none;">
+					<p class="hd">Thank you for sharing your comment</p>
+					<p>Please be aware that all comments will be looked at by the web moderating team and we reserve the right to approve or reject comments at our discretion.</p>
+				</div>
+					      		<form class="comment comment-not-login" id="form_comment">
+	      			<p class="hd">What's your comment?</p>
+										<div class="inputdata" onclick="$('#show_comment_login').fadeIn(500);">
+	      				<textarea></textarea>
+	      				<input type="button" value="" class="submit" title="Submit comment">
+	      				<div class="group">
+	      					<p><input type="checkbox" checked=""><label>I acknowledge the <a target="_blank" href="/policy/">rule &amp; regulations</a></label></p>
+	
+	      					<p><input type="checkbox"><label>Tick here to also post this comment on your facebook wall</label></p>
+	      				</div>
+	      			</div>
+					<div class="not-login" id="show_comment_login" style="display:none;">
+						<p>Please log in or sign up for an account to share your valuable thoughts to the world.</p>
+						<p class="g-btn"><a href="https://member.bangkokpost.com/login.php?serviceID=10006&ref=https://www.bangkokpost.com/news/crime/1431146/85-of-aid-for-poor-stolen-now-exceeds-b100m">Log in</a></p>
+						<p class="g-btn"><a href="https://member.bangkokpost.com/register.php?serviceID=10006">Sign up</a></p>
+					</div>
+						
+	      		</form>
+
+						<a href="/archive/photo">
+            	<img src="/common/img/banner/Banner-950x140.jpg" alt="Over 100,000 stock images of Bangkok Post editorial photography available now in high resolution images.">
+           	</a>
+					      	</li>
+	
+	
+	      </ul>
+			    </div>
+	
+				
+		
+		
+	    <!-- end commentPost -->
+    
+
+
+	    <div id="main-sns" style="top: 204px;">
+
+		<div class="group-main-sns">
+
+			<div class="line-share">
+				<span>
+					<script type="text/javascript" src="//media.line.me/js/line-button.js?v=20140411" ></script>
+					<script type="text/javascript">
+					new media_line_me.LineButton({"pc":false,"lang":"en","type":"e"});
+					</script>
+				</span>
+			</div>
+
+
+			<div class="tweetmeme_button">
+				<a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical">Tweet</a>
+				<script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+			</div><!-- end tweetmeme_button -->
+
+			<div class="facebook-share">
+				<div class="fb-like" data-href="https://www.bangkokpost.com/news/crime/1431146/85-of-aid-for-poor-stolen-now-exceeds-b100m" data-send="false" data-layout="box_count" data-width="45" data-show-faces="false"></div>
+			</div>
+
+
+			
+
+
+
+		</div>
+
+
+	</div>
+
+</section>
+
+
+
+
+<footer>
+	<section>
+		<ul class="sectionInfo">
+			<li>
+				<h3><a href="javascript:void(0);" title="News&amp;Business">News &amp; Business</a></h3>
+				<ol>
+					<li><a href="/hot-topics" title="Hot topics">Hot topics</a></li>
+					<li><a href="/news/special-reports" title="Special reports">Special reports</a></li>
+					<li><a href="/opinion" title="Opinion">Opinion</a></li>
+					<li><a href="https://search.bangkokpost.com/search/result_advanced?category=news&xNewsSection=Spectrum" title="Spectrum">Spectrum</a></li>
+					<li><a href="/news/politics" title="Politics">Politics</a></li>
+					<li><a href="/business" title="Business">Business</a></li>
+					<li><a href="https://search.bangkokpost.com/search/result_advanced?category=news&xNewsSection=Asia+focus" title="Asia Focus">Asia Focus</a></li>
+					<li><a href="/business/finance" title="Finance">Finance</a></li>
+					<li><a href="/tech" title="Technology">Technology</a></li>
+					<li><a href="https://property.bangkokpost.com" title="Property">Property</a></li>
+					<li><a href="/news/sports" title="Sports">Sports</a></li>
+					<li><a href="/news/asean" title="Asean">Asean</a></li>
+					<li><a href="/news/world" title="World">World</a></li>
+				</ol>
+			</li>
+			<li>
+				<h3><a href="javascript:void(0);" title="Travel&amp;Lifestyle">Travel &amp; Lifestyle</a></h3>
+				<ol>
+					<li><a href="/travel/in-thailand" title="Travel reviews">Travel reviews</a></li>
+					<li><a href="/travel/travel-feature" title="Special features">Special features</a></li>
+					<li><a href="/lifestyle/art-and-culture" title="Arts &amp; culture">Arts &amp; culture</a></li>
+					<li><a href="/auto/review" title="Auto reviews">Auto reviews</a></li>
+					<li><a href="/tech/review" title="Tech reviews">Tech reviews</a></li>
+					<li><a href="/lifestyle/family-and-health" title="Family &amp; health">Family &amp; health</a></li>
+					<li><a href="/travel/tourists-and-expats" title="Tourist &amp; expats info">Tourist &amp; expats info</a></li>
+					<!-- <li><a href="/travel/local-destinations" title="Local destinations">Local destinations</a></li> -->
+					<li><a href="/travel/hotelbooking" title="Hotel booking">Hotel booking</a></li>
+					<li><a href="https://search.bangkokpost.com/search/result_advanced?category=news&xNewsSection=Brunch" title="Brunch">Brunch</a></li>
+					<li><a href="https://search.bangkokpost.com/search/result_advanced?category=news&xNewsSection=Guru" title="Guru">Guru</a></li>
+					<li><a href="https://search.bangkokpost.com/search/result_advanced?category=news&xNewsSection=Muse" title="Muse">Muse</a></li>
+				</ol>
+			</li>
+			<li>
+				<h3><a href="/thailandguide" title="Thailand Guide">Thailand Guide</a></h3>
+				<ol>
+					<li><a href="/lifestyle/food-and-drinks" title="Restaurants">Restaurants</a></li>
+					<li><a href="/lifestyle/whats-on" title="What’s on">What’s on</a></li>
+					<li><a href="/business/search" title="Business directory">Business directory</a></li>
+					<!-- <li><a href="/thailandguide/apartments/serviced-apartments/search/" title="Serviced apartments">Serviced apartments</a></li> -->
+					<li><a href="/travel/accommodation/hotels%20&%20resorts/search" title="Hotel directory">Hotel directory</a></li>
+					<!-- <li><a href="/thailandguide/local-destinations/search/" title="Local destinations">Local destinations</a></li> -->
+					<li><a href="/lifestyle/pub-and-nightlife/search" title="Pubs &amp; nightlife">Pubs &amp; nightlife</a></li>
+					
+					<li><a href="https://kingrama9.bangkokpost.com" title="Rama 9 royal cremation">Rama 9 royal cremation</a></li>
+					<li><a href="/nation-in-mourning/index.php" title="Nation in mourning">Nation in mourning</a></li>
+					
+				</ol>
+			</li>
+			<li>
+				<h3><a href="javascript:void(0);" title="Services">Services</a></h3>
+				<ol>
+					<li><a href="/vdo" title="Video">Video</a></li>
+					<li><a href="/photo" title="Photos">Photos</a></li>
+					<li><a href="/forum" title="Expat Forums">Expat Forums</a></li>
+					<!-- <li><a href="/classifieds" title="Classifieds">Classifieds</a></li> -->
+					<li><a href="https://job.bangkokpost.com/" title="Jobs &amp; career">Jobs &amp; career</a></li>
+					<li><a href="/travel/hotelbooking" title="Hotel booking">Hotel booking</a></li>
+					<!-- <li><a href="/lifestyle/games" title="Puzzle games">Puzzle games</a></li> -->
+					<li><a href="https://search.bangkokpost.com" title="Web search">Web search</a></li>
+					<li><a href="/learning" title="Learning English">Learning English</a></li>
+					<!-- <li><a href="/poll" title="Polls">Polls</a></li> -->
+				</ol>
+			</li>
+			<li>
+				<div class="todayInfo">
+					<h3><a href="javascript:void(0);" title="Today’s info">Today’s info</a></h3>
+					<ol>
+						<li><a href="/news/weather" title="Weather forecast">Weather forecast</a></li>
+						<li><a href="/lifestyle/horoscope" title="Horoscope">Horoscope</a></li>
+						<li><a href="/auto/fuel" title="Fuel prices">Fuel prices</a></li>
+						<!-- <li><a href="/business/exchange-rate" title="Exchange rates">Exchange rates</a></li> -->
+						<li><a href="/business/gold" title="Gold prices">Gold prices</a></li>
+					</ol>
+				</div>
+				<div class="our-network">
+					<h3><a href="javascript:void(0);" title="Our network">Our network</a></h3>
+					<ol>
+						<li><a href="https://www.posttoday.com" title="Post Today">Post Today</a></li>
+						<!-- <li><a href="//www.m2fjob.com" title="M2Fjob">M2Fjob</a></li> -->
+						<li><a href="http://www.m2fnews.com" title="M2Fnews">M2Fnews</a></li>
+						<li><a href="/sweekly" title="Student Weekly">S Weekly</a></li>
+						<li><a href="http://www.postbooksonline.com" title="Post books">Post books</a></li>
+						<li><a href="http://www.postintermedia.com" title="International Magazines">International magazines</a></li>
+					</ol>
+				</div>
+			</li>
+			<li>
+
+
+				<div title="Click here for today's Bangkok Post newspaper" class="epaper" href="#">
+					<a href="/epaper"><p class="img-wrap"><img class="newspaper_image" width="124" alt="Today's Bangkok Post newspaper" src="/ads/newspaper_direct/enewspaper.jpg" /></p>
+					<p><img class="newspaper_image" width="124" alt="Today's Bangkok Post newspaper" src="/ads/newspaper_direct/enewspaper.jpg" /></p></a>
+				</div>
+				<h3><a href="/epaper" title="Today’s paper">Today’s paper</a></h3>
+				<ol>
+					<li><a href="http://bangkokpost.newspaperdirect.com/epaper/accountingregistration.aspx" title="Digital Subscription">Digital Subscription</a></li>
+					<li><a href="/epaper/report-problem" title="Report problem">Report problem</a></li>
+					<li><a href="/subscribe" title="Home Delivery">Home Delivery</a></li>
+					<li><a href="/archive" title="Digital archive">Digital archive</a></li>
+					<li><a href="/sms" title="SMS">SMS</a></li>
+				</ol>
+			</li>
+		</ul>
+	</section>
+	<section>
+	    <div class="footer-search">
+			<form class="search-menu" onsubmit="return goSearchFooter();">
+				<input type="text" class="fill-search" placeholder="WEB SEARCH" name="keyword" id="searchWordsFooter">
+				<a class="remove active" title="Remove" href="javascript:void(0);"><img alt="Remove" src="/common/img/nav/search-remove_b.png"></a>
+			</form>
+		</div>
+		<div class="BKP-digital">
+  		<h2>Stay updated everywhere, anytime with Bangkok Post digital products</h2>
+		<ul>
+			<li><a href="/digitalproduct/mobile" title="Get Bangkok Post on mobile devices">Mobile</a></li>
+			<li><a href="/digitalproduct/tablet">Tablets</a></li>
+			<li><a href="/digitalproduct/tv">Smart TV</a></li>
+			<li><a href="/digitalproduct/newsletter" title="E-Newsletters">E-Newsletters</a></li>
+			<li><a href="/digitalproduct/rss">RSS</a></li>
+			<li><a href="https://www.facebook.com/bangkokpost">Facebook</a></li>
+			<li class="twitter"><a href="/digitalproduct/twitter">Twitter</a></li>
+		</ul>
+		</div>
+		<article>
+			<p class="logoBKPgroup"><a title="BANGKOK POST GROUP" href="http://www.bangkokpost.com/bpfoundation/en/"><img alt="BANGKOK POST GROUP" width="170" height="28" src="/common/img/logo/postgroup-logo_blue.svg"></a></p>
+			<h2>© 1996 - 2018 Bangkok Post Public Company Limited</h2>
+			<p class="footer_policy">
+				<a href="/policy" title="">Terms of use</a> |
+				<a href="/republishingpolicy" title="">Republishing permission</a> |
+				<a href="/faq" title="">Help</a> |
+				<a href="/mediainfo/solution" title="">Online advertising</a> |
+				<a href="https://www.bangkokpost.co.th/post_contact" title="">Contact us</a> |
+				<a href="/send-suggestions" title="">Tell us what you think</a> |
+				<a href="/partner" title="">Partnership</a>
+			</p>
+		</article>
+	</section>
+
+</footer>
+
+<!--main global navigation-->
+<nav id="main-navigation">
+	<a href="#" title="Close" class="close-nav"><span>Close</span></a>
+	<form class="search-menu" onsubmit="return goSearchSlidebar();">
+		<input type="text" placeholder="WEB SEARCH" class="fill-search" id='searchWordsSlidebar' name="keyword">
+		<a href="#" title="Remove" class="remove"><img src="/common/img/nav/search-remove.png" alt="Remove"></a>
+		<input type="submit" style="display:none" />
+	</form>
+	<div>
+		<h4>All sections</h4>
+		<ul>
+			<li><a href="/" title="Home">Home</a></li>
+			<li><a href="/news" title="News">News</a></li>
+			<li><a href="/business" title="Business">Business</a></li>
+			<li><a href="/vdo" title="Video">Video</a></li>
+			<li><a href="/photo" title="Photos">Photos</a></li>
+			<li><a href="/opinion" title="Opinion">Opinion</a></li>
+			<li><a href="/learning" title="Learning">Learning</a></li>
+			<li><a href="/lifestyle" title="Lifestyle">Lifestyle</a></li>
+			<li><a href="/travel" title="Travel">Travel</a></li>
+			<li><a href="/tech" title="Technology">Technology</a></li>
+			<li><a href="https://property.bangkokpost.com" title="Property">Property</a></li>
+			<li><a href="/auto" title="Auto">Auto</a></li>
+			<li><a href="https://job.bangkokpost.com/" title="Jobs">Jobs</a></li>
+			<li><a href="/forum" title="Expat forum">Expat forum</a></li>
+			<!-- <li><a href="http://classifieds.bangkokpost.com/" title="Classifieds">Classifieds</a></li> -->
+			<li><a href="/thailandguide" title="Thailand Guide">Thailand Guide</a></li>
+		</ul>
+	</div>
+	<div>
+		<h4>Shortcuts</h4>
+		<ul>
+			<li><a href="/topstories" title="Top story">Top story</a></li>
+			<li><a href="/most-recent" title="Most recent">Most recent</a></li>
+			<li><a href="/hot-topics" title="Hot topics">Hot topics</a></li>
+		</ul>
+	</div>
+	<div class="nav-other">
+		<h4>Other</h4>
+		<ul>
+			<li><a href="/epaper" title="E-Newspaper">E-Newspaper</a></li>
+			<li><a href="/subscribe" title="Home delivery">Home delivery</a></li>
+			<li><a href="/archive" title="Digital archive">Digital archive</a></li>
+			<li><a href="/sms" title="SMS">SMS</a></li>
+			<li><a href="/mediainfo/inquiry" title="Advertise with us">Advertise with us</a></li>
+			<!--#login_template_slidebar#-->
+		</ul>
+	</div>
+</nav>
+
+<script type="text/javascript">
+$(document).ready(function(){
+
+		var str_path_utm = location.pathname;
+		var arr_path_utm = str_path_utm.split("/");
+		var section_name_utm = "";
+		var utm_code = "";
+
+		if (arr_path_utm[1] == '' || typeof arr_path_utm[1] === "undefined") {
+			utm_code = "homepage";
+		} else {
+			section_name_utm = arr_path_utm[1];
+			if (arr_path_utm[2] == '' || typeof arr_path_utm[2] === "undefined") {
+				utm_code = "channel_" + section_name_utm;
+			} else if (arr_path_utm[3] == '' || typeof arr_path_utm[3] === "undefined") {
+				utm_code = "channel_sub_" + section_name_utm;
+			} else if ($.isNumeric(arr_path_utm[3]) || $.isNumeric(arr_path_utm[4])) {
+				utm_code = "article_" + section_name_utm;
+			} else {
+				utm_code = "other_" + section_name_utm;
+			}
+		}
+
+		if ($('#MostUpdate').length > 0) {
+			$('#MostUpdate a').each(function(){
+				link_utm = $(this).attr('href') + '?utm_source=bangkopost.com&utm_medium=' + utm_code + '&utm_campaign=most_recent_box';
+				$(this).attr('href', link_utm);
+			});
+		}
+
+		if ($('.news-relate').length > 0) {
+			$('.news-relate a').each(function(){
+				link_utm = $(this).attr('href') + '?utm_source=bangkopost.com&utm_medium=' + utm_code + '&utm_campaign=recommend_box';
+				$(this).attr('href', link_utm);
+			});
+		}
+
+		if ($('.MostViewed').length > 0) {
+			$('.MostViewed a').each(function(){
+				link_utm = $(this).attr('href') + '?utm_source=bangkopost.com&utm_medium=' + utm_code + '&utm_campaign=most_view_bottom_box';
+				$(this).attr('href', link_utm);
+			});
+		}
+
+		if ($('.recent-article').length > 0) {
+			$('.recent-article a').each(function(){
+				link_utm = $(this).attr('href') + '?utm_source=bangkopost.com&utm_medium=' + utm_code + '&utm_campaign=most_recent_bottom_box';
+				$(this).attr('href', link_utm);
+			});
+		}
+
+		// Banner comment box article page
+		if ($('#comment-list').length > 0) {
+			$('#comment-list a').each(function(){
+				if ($(this).attr('href') == '/archive/photo') {
+					link_utm = $(this).attr('href') + '?utm_source=bangkopost.com&utm_medium=' + utm_code + '&utm_campaign=banner_comment_box';
+					$(this).attr('href', link_utm);
+				}
+			});
+		}
+
+		/*
+		// survey 2017		
+		var date = new Date();
+		date.setTime(date.getTime() + (60 * 60 * 12 * 1000));
+		var bkp_survey_val = $.cookie('bkp_survey_2017');
+		if (bkp_survey_val != 'bkp_survey_2017') {
+			$('#survey-popup').show();
+			$('#survey-popup').animate({'position':'fixed', 'bottom': 5,'opacity':1},1500);
+			$.cookie('bkp_survey_2017', 'bkp_survey_2017', {expires : date, path : '/'});
+		}
+		*/
+	});
+
+/*
+function goSurvey () {
+	var isiPad = /ipad/i.test(navigator.userAgent.toLowerCase());
+	var isAndroid = /android/i.test(navigator.userAgent.toLowerCase());
+	var isiPhone = /iphone/i.test(navigator.userAgent.toLowerCase());
+
+	if (isiPad || isAndroid || isiPhone) {
+		location = 'http://m.bangkokpost.com/survey/2017/';
+	} else {
+		location = '/survey/2017/';
+	}
+
+}
+
+function closeSurvey () {
+	$('#survey-popup').animate({'bottom': -300,'opacity':0},1000);
+	$('#survey-popup').hide();
+	return false;
+}
+*/
+</script>
+
+<!--div style="width: 300px; height: 250px; overflow: hidden; position: fixed; background: url(/common/img/bg/bg_Popup-surveyPage2017.png) no-repeat; right: 30px; bottom: -300px; z-index: 2; opacity: 0; display: none;" id="survey-popup">
+	<div style="position: relative; width: 300px; height: 250px; overflow: hidden;" class="detail">
+		<a href="javascript:void(0);" onclick="closeSurvey();" class="closed" style="position: absolute; right: 8px; top: 5px; width: 11px; height: 11px;"><img src="/common/img/button/btn-closed.gif"></a>
+		<a style="position: absolute; bottom: 30px; left: 26px; width: 250px; height: 28px; cursor: pointer;" class="click-here" href="javascript:void(0)" onclick="goSurvey()"><img src="/common/img/button/btn-Popup-survey2016.png"></a>
+	</div>
+</div-->
+
+
+    <!-- end content -->
+
+<!-- end contentWrapper -->
+
+
+		<!-- openx v2 article_coverpage -->
+		<script type='text/javascript'><!--// <![CDATA[
+		OA_show(2097);
+		// ]]> --></script><noscript><a target='_blank' href='http://ads3.bangkokpost.co.th/www/delivery/ck.php?n=d4fcf31'><img border='0' alt='' src='http://ads3.bangkokpost.co.th/www/delivery/avw.php?zoneid=2097&amp;n=d4fcf31' /></a></noscript>
+	<!-- openx v2 article_coverpage -->
+	
+		<!-- openx v2 toggle -->
+		<script type='text/javascript'><!--// <![CDATA[
+		OA_show(559);
+		// ]]> --></script><noscript><a target='_blank' href='http://ads3.bangkokpost.co.th/www/delivery/ck.php?n=d4fcf31'><img border='0' alt='' src='http://ads3.bangkokpost.co.th/www/delivery/avw.php?zoneid=559&amp;n=d4fcf31' /></a></noscript>
+	<!-- openx v2 toggle -->
+			
+<script type="text/javascript">
+	function myRenderFunction(data, context) {
+
+		cx_output_similar = '';
+		cx_output_recommended = '';
+		if (data.response.items) {
+			count_cx_data = data.response.items.length;
+			count_similar = 0;
+			count_inline = 0;
+
+			for(i = 0; i < count_cx_data; i++) {
+				var item = data.response.items[i];
+				cx_thumbnail = get_cx_thumbnail(item);
+
+				var set_content_to = '';
+
+				if (count_inline >= 3) {
+					set_content_to = 'similar';
+				} else if (count_inline >= 3) {
+					set_content_to = 'inline';
+				}
+
+				if (set_content_to == '') set_content_to = item.source;
+
+				if (set_content_to == 'similar') {
+					if (count_similar >= 3) continue;
+					cx_output_similar += "<li><a href=\""+item.click_url+"\" title=\""+item.title+"\"><img width=\"193\" height=\"128\" src=\""+cx_thumbnail+"\" alt=\""+item.title+"\" title=\""+item.title+"\"></a><p><a href=\""+item.click_url+"\" title=\""+item.title+"\">"+item.title+"</a></p></li>";
+					count_similar++;
+				} else {						
+					cx_output_recommended += "<li><a class=\"thumbnail\" href=\""+item.click_url+"\" title=\""+item.title+"\"><img src=\""+cx_thumbnail+" \" alt=\""+item.title+"\" title=\""+item.title+"\" width=\"100\" height=\"67\"></a><div class=\"detail\"><h3><a href=\""+item.click_url+"\" title=\""+item.title+"\">"+item.title+"</a></h3></div></li>";
+					count_inline++;
+				}
+			}
+
+			$('#cx-output-related').html(cx_output_similar);
+			$('#recommended-stories').html(cx_output_recommended);
+
+		}
+	}
+
+	var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+	cX.callQueue.push(['insertWidget',{
+	widgetId: 'ad5412e8e49a29ed8df192eb86ca27b048667c71',		
+	renderFunction: myRenderFunction
+	},{
+		context: {"parameters": [{"key": "article", "value": ""}]}
+	}]); 
+</script>
+
+<!-- in read ad -->
+<script type="text/javascript">
+
+	var global_ads_read_count = 0;
+	var global_count_active_in_read_ad = 0;
+
+	$(document).ready(function() {
+		$('.boomboxSize3').each(function(index){
+			$(this).prev().addClass('pre-ads');
+		});
+		global_ads_read_count = $('.boomboxSize3').length;
+	});
+
+	$(document).scroll(function() {
+		if (global_count_active_in_read_ad < global_ads_read_count) {
+
+			var scroll = $(window).scrollTop();
+			position_check_ads = ($(window).height()/2) + scroll;
+			if (global_ads_read_count > 0) {
+				$('.pre-ads').each(function() {
+					var currentAdsBox = $(this).offset().top+$(this).height();
+					//console.log(currentAdsBox);
+					//currentAdsBox += 200;
+					if (!$(this).next().hasClass("active")) {
+						if (position_check_ads > currentAdsBox) {
+							$(this).next().addClass('active');
+							$(this).next().slideToggle('slow');
+							global_count_active_in_read_ad++;
+						}
+					}
+				});
+			}
+		}
+	});
+</script>
+</body>
+</html>

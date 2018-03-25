@@ -1,0 +1,1788 @@
+<!DOCTYPE html>
+<html lang="en-IE">
+<head>
+	<meta charset="UTF-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQMEU1BRDhAEUFVRAgkCVg=="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+	<!-- Static common meta tag for all the views -->
+	<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width">
+		<meta name="taboola:kicker" content="VOTE SCANDAL">
+	<meta name="taboola:headline" content="Russian ‘election rigging’ pictures show state workers casting multiple votes">
+	<meta name="taboola:image:medium" content="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/as-comp-triple-vote-1.jpg?strip=all&#038;quality=100&#038;w=300&#038;h=192&#038;crop=1">
+	<meta name="taboola:image:large" content="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/as-comp-triple-vote-1.jpg?strip=all&#038;quality=100&#038;w=620&#038;h=413&#038;crop=1">
+			<link rel='dns-prefetch' href='//optimized-by.rubiconproject.com'>
+	<link rel='dns-prefetch' href='//fastlane.rubiconproject.com'>
+	<link rel="preload" href="//www.googletagservices.com/tag/js/gpt.js" as="script">
+		<link rel="preload" href="//c.amazon-adsystem.com/aax2/apstag.js" as="script">
+		<link rel="preload" href="https://www.thesun.ie/wp-content/themes/thesun/js/head.js?v=1.4.0" as="script">
+<title>Damning Russian ‘election rigging’ pictures show voters casting Putin ballots at more than one polling station</title>
+<!-- Jetpack Site Verification Tags -->
+<meta name="google-site-verification" content="dF_5do1BqHhEjrcZyL5fhdxXYQ61ipTQaTGYXuygfbg" />
+<meta name="msvalidate.01" content="E4359034FA254151A3AB2EFAC6D20D80" />
+<link rel='dns-prefetch' href='//cdn.livefyre.com' />
+<link rel='dns-prefetch' href='//www.googletagservices.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//player.ooyala.com' />
+<link rel='dns-prefetch' href='//sb.scorecardresearch.com' />
+<link rel='dns-prefetch' href='//video.unrulymedia.com' />
+<link rel='dns-prefetch' href='//s.skimresources.com' />
+<link rel='dns-prefetch' href='//secure.widget.cloud.opta.net' />
+<link rel='dns-prefetch' href='//prod-sunbets-widgets.s3-eu-west-1.amazonaws.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="The Irish Sun &raquo; Feed" href="https://www.thesun.ie/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Irish Sun &raquo; Comments Feed" href="https://www.thesun.ie/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Irish Sun &raquo; Damning Russian ‘election rigging’ pictures show voters casting Putin ballots at more than one polling station Comments Feed" href="https://www.thesun.ie/news/2339954/damning-russian-election-rigging-pictures-show-voters-casting-putin-ballots-at-more-than-one-polling-station/feed/" />
+<meta name='description' content='The claims come after Putin comfortably extended his rule of Russia for another six years winning 76.67 per cent of the vote' />
+<meta name='keywords' content='Vladimir Putin, russia, election, voting, fraud, ballot,' />
+<meta name='news_keywords' content='Vladimir Putin, russia, election, voting, fraud, ballot,' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.thesun.ie\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.4"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='thesun-ooyala-skin-css'  href='//player.ooyala.com/static/v4/production/latest/skin-plugin/html5-skin.min.css?ver=v4' type='text/css' media='' />
+<link rel='stylesheet' id='all-css-2' href='https://www.thesun.ie/_static/??/wp-content/themes/thesun/css/swiper.css,/wp-content/themes/thesun/css/style.css?m=1518435826' type='text/css' media='all' />
+<style id='thesun-main-inline-css' type='text/css'>
+.async-hide { opacity: 0 !important; }
+</style>
+<link rel='stylesheet' id='thesun-fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A400%2C500%2C700%7CRoboto+Slab&#038;ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='thesun-opta-v3-css-css'  href='https://secure.widget.cloud.opta.net/v3/css/v3.football.opta-widgets.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-6' href='https://www.thesun.ie/_static/??-eJyNjEEKwjAQRS/UdNJicCUepYRJiKPJTHASxNtXC110I+7eh/c+vKpB4Ra5Qemm5p6IFe6xVY8PKBJ6jgp6888YfAjvDYnTiKoD/K4XYgQVJJ9NliR6GGMh/uflo+z81a/lMrnZnpw7W7sCOqFGlQ==' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.thesun.ie/wp-content/plugins/livefyre-apps/assets/js/lfapps.js?m=1494958048g'></script>
+<script type='text/javascript' src='https://cdn.livefyre.com/Livefyre.js?ver=1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thesun_ad_settings = {"providers":[{"bidder":"rubicon","params":{"accountId":"7753","siteId":"15119","zoneId":"445790"}},{"bidder":"appnexus","params":{"placementId":"6546370"}},{"bidder":"amazon","params":{"accountId":"3360"}},{"bidder":"pubmatic","params":{"publisherId":"156034","adSlotPrefix":"TheSun"}},{"bidder":"indexExchange","params":{"siteID":"188806"}}],"prebid_timeout":"2000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.thesun.ie/wp-content/themes/thesun/js/generic.js?ver=1.4.0'></script>
+<script type='text/javascript' async="async" src='//www.googletagservices.com/tag/js/gpt.js?ver=4.9.4'></script>
+<script type='text/javascript' src='https://www.thesun.ie/wp-content/themes/thesun/js/promise.min.js?m=1512473515g'></script>
+<script type='text/javascript' async="async" src='https://www.thesun.ie/wp-content/themes/thesun/js/vendor/prebid.min.js?ver=0.24.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thesun_googletag = {"networkID":"3048","dfpSiteID":"d.thesun.ireland","sectionID":"news\/world-news","path":"\/news\/2339954\/damning-russian-election-rigging-pictures-show-voters-casting-putin-ballots-at-more-than-one-polling-station\/","sec_id":"14","sec":"art","topics":"vladimir-putin,russia","kw":"damning,russian,election,rigging,pictures,show,voters,casting,putin,ballots,at,more,than,one,polling,station,by,jon,lockett,the,claims,come,after,comfortably,extended,his,rule,of,russia,for,another,six,years,winning,7667,per,cent,vote,highest,score,ever,scandal,news,worldnews,vladimirputin","aid":"2339954","search":"null","article_type":"post","hide_ads":"","article_slug":"null"};
+var utag_data = {"page_site_name":"irish sun","amp_page_site_name":"the sun amp irish","page_site_region":"ireland","page_restrictions":"public","page_name":"article: Damning Russian \u2018election rigging\u2019 pictures show voters casting Putin ballots at more than one polling station","page_section":"News","page_section_id":"2","page_section_2":"News:World News","page_section_2_id":"14","page_type":"article","article_name":"Damning Russian \u2018election rigging\u2019 pictures show voters casting Putin ballots at more than one polling station","article_publish_timestamp":"2018\/03\/21 15:55 Wednesday","article_id":"2339954","article_author":"Jon Lockett","article_id_type":"wordpress","article_tag_name":"","page_tags":"Vladimir Putin,Russia","article_publish_latest":"2018\/03\/21 17:59 Wednesday","article_name_latest":"Damning Russian \u2018election rigging\u2019 pictures show voters casting Putin ballots at more than one polling station","article_kicker_name":"VOTE SCANDAL"};
+var thesun_unruly_settings = {"site_id":"1076516"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+				!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+				apstag.init({
+					pubID: 3360,
+					adServer: 'googletag',
+					bidTimeout: 2000
+				});
+			
+(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r;
+			i[r] = i[r] || function () {
+					(i[r].q = i[r].q || []).push(arguments)
+				}, i[r].l = 1 * new Date();
+			a = s.createElement(o),
+				m = s.getElementsByTagName(o)[0];
+			a.async = 1;
+			a.src = g;
+			m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+		ga( 'create', 'UA-100401456-6', { name: 'thesun', cookieDomain: 'auto' } );
+
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		var thesun_targeting = {};
+		var pbjs = pbjs || {};
+		pbjs.que = pbjs.que || [];
+</script>
+<script type='text/javascript' async="async" src='https://www.thesun.ie/wp-content/themes/thesun/js/head.js?ver=1.4.0'></script>
+<script type='text/javascript'>
+		var gs_channels="DEFAULT";
+		(function() {
+			var gsurl=window.location!=window.top.location?document.referrer:window.location;
+			var s=document.createElement('script');
+			s.async=true;
+			s.onload=function(){
+				// Add Grapeshot targeting for use in Brightcove or other requests where custom params are set.
+				window.cust_params = window.cust_params || "";
+				window.cust_params += encodeURIComponent("gs_cat=" + [gs_channels].join(",")) + "&";
+
+				googletag.cmd.push(function() {
+					googletag.pubads().setTargeting("gs_cat", gs_channels);
+				});
+			}
+			s.src='//newscorp.grapeshot.co.uk/thesun/channels.cgi?url=' +encodeURIComponent(gsurl);
+			document.head.appendChild(s);
+		})();
+</script>
+<script type='text/javascript' src='https://www.thesun.ie/_static/??-eJzTLy/QzcxLzilNSS3WzwKiwtLUokoopZdVrKOPT4FubmZ6UWJJql5uZh5McXJ+XklqXol+SUZqLlALkCouzQPp9MxNTE8tAiqzz7U1NDU0tzQ1NDE2yQIAhu4vLg=='></script>
+<script type='text/javascript' async="async" src='https://video.unrulymedia.com/native/native-loader.js?ver=4.9.4'></script>
+<script type='text/javascript' src='https://www.thesun.ie/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS0GUcWlefpZxfppQIm0xOTU/KTi1KKy1CK93Mw8vaxiHX18moAUSF8xXFNWsX2uraGJpYmlqYWBiUUWAPjTKpo='></script>
+<link rel='https://api.w.org/' href='https://www.thesun.ie/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.thesun.ie/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.thesun.ie/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.4" />
+<link rel="canonical" href="https://www.thesun.co.uk/news/5866545/damning-russian-election-rigging-pictures-show-voters-casting-putin-ballots-at-more-than-one-polling-station/" />
+<link rel='shortlink' href='https://wp.me/p8bGIj-9OJc' />
+<link rel="alternate" type="application/json+oembed" href="https://www.thesun.ie/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.thesun.ie%2Fnews%2F2339954%2Fdamning-russian-election-rigging-pictures-show-voters-casting-putin-ballots-at-more-than-one-polling-station%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.thesun.ie/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.thesun.ie%2Fnews%2F2339954%2Fdamning-russian-election-rigging-pictures-show-voters-casting-putin-ballots-at-more-than-one-polling-station%2F&#038;format=xml" />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<style type='text/css'>img#wpstats{display:none}</style>	<script type="text/javascript">
+		document.cookie = "Ooyala=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
+	</script>
+		<script type="text/javascript">
+		/* Tealium */
+		(function(a, b, c, d) {
+			a = "https://tags.tiqcdn.com/utag/newsinternational/thesun.irish.web.2/prod/utag.js";
+			b = document;
+			c = 'script';
+			d = b.createElement(c);
+			d.src = a;
+			d.type = 'text/java' + c;
+			d.async = true;
+			a = b.getElementsByTagName(c)[0];
+			a.parentNode.insertBefore(d, a);
+		})();
+	</script>
+	<link rel="amphtml" href="https://www.thesun.ie/news/2339954/damning-russian-election-rigging-pictures-show-voters-casting-putin-ballots-at-more-than-one-polling-station/amp/" />	<script type="text/javascript">
+		window._taboola = window._taboola || [];
+		_taboola.push({"article":"auto"});
+		!function (e, f, u, i) {
+			if (!document.getElementById(i)){
+				e.async = 1;
+				e.src = u;
+				e.id = i;
+				f.parentNode.insertBefore(e, f);
+			}
+		}(document.createElement('script'),
+			document.getElementsByTagName('script')[0],
+			'//cdn.taboola.com/libtrc/newsuk-theirishsun/loader.js',
+			'tb_loader_script');
+		if(window.performance && typeof window.performance.mark == 'function')
+		{window.performance.mark('tbl_ic');}
+	</script>
+	
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Russian ‘election rigging’ pictures show state workers casting multiple votes" />
+<meta property="og:url" content="https://www.thesun.ie/news/2339954/damning-russian-election-rigging-pictures-show-voters-casting-putin-ballots-at-more-than-one-polling-station/" />
+<meta property="og:description" content="PHOTOS seem show Russian state workers &#8220;voting multiple times&#8221; in the country&#8217;s presidential election. The images come after Vladimir Putin&#8217;s record victory has already been…" />
+<meta property="article:published_time" content="2018-03-21T15:55:13+00:00" />
+<meta property="article:modified_time" content="2018-03-21T17:59:52+00:00" />
+<meta property="og:site_name" content="The Irish Sun" />
+<meta property="og:image" content="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/as-comp-triple-vote-1.jpg?strip=all&#038;quality=100&#038;w=750&#038;h=500&#038;crop=1" />
+<meta property="og:image:width" content="750" />
+<meta property="og:image:height" content="500" />
+<meta name="twitter:text:title" content="Damning Russian ‘election rigging’ pictures show voters casting Putin ballots at more than one polling station" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="article:publisher" content="266785760017516" />
+<meta property="article:tag" content="Vladimir Putin, Russia" />
+<meta property="fb:app_id" content="144647118961553" />
+<meta name="twitter:site" content="@IrishSunOnline" />
+<meta property="og:locale" content="en_GB" />
+<meta name="robots" content="noarchive,noodp" />
+<meta property="p:domain_verify" content="f75c2680be91153324924a0074d7610d" />
+<meta property="article:author" content="http://www.facebook.com/theirishsun/" />
+<meta property="fb:pages" content="266785760017516" />
+<link rel="icon" href="https://www.thesun.ie/wp-content/uploads/sites/3/2016/11/cropped-cropped-cropped-icon-e1459786005667-1.png?strip=all&#038;quality=100&#038;w=32" sizes="32x32" />
+<link rel="icon" href="https://www.thesun.ie/wp-content/uploads/sites/3/2016/11/cropped-cropped-cropped-icon-e1459786005667-1.png?strip=all&#038;quality=100&#038;w=192" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.thesun.ie/wp-content/uploads/sites/3/2016/11/cropped-cropped-cropped-icon-e1459786005667-1.png?strip=all&#038;quality=100&#038;w=180" />
+<meta name="msapplication-TileImage" content="https://www.thesun.ie/wp-content/uploads/sites/3/2016/11/cropped-cropped-cropped-icon-e1459786005667-1.png?strip=all&#038;quality=100&#038;w=270" />
+</head>
+
+<body class="post-template-default single single-post postid-2339954 single-format-standard">
+
+<a href="#main-content" class="screen-reader-text">Jump directly to the content</a>
+
+<div class="mobile-top-cover"></div>
+
+<div class="sun-container theme-main theme-news">	<div class="sun-newsuk">
+
+		<div class="close open-newsuk for-mobile"></div>
+
+		<div class="sun-row">
+
+			<div class="col sun-col-6">
+
+				<div class="panel panel--slim">
+					<div class="panel--slim-left">
+						<p>News Corp is a network of leading companies in the worlds of diversified media, news, education, and information services.</p>
+					</div>
+					<div class="panel--slim-right">
+						<h3 class="panel__title">Follow The Sun</h3>
+
+						<div class="follow-sun">
+							<a href="https://www.facebook.com/theirishsun/" class="follow-facebook" target="_blank"><span class="icon icon-facebook"></span></a><a href="https://twitter.com/IrishSunOnline" class="follow-twitter" target="_blank"><span class="icon icon-twitter"></span></a>						</div>
+					</div>
+				</div>
+
+				<div class="panel for-mobile">
+					<h3 class="panel__title">Your Sun</h3>
+					<ul class="no-columns">
+						<li class="sign-in">
+							<a href="https://login.thesun.co.uk">Sign in</a>
+						</li>
+					</ul>
+				</div>
+
+				<div class="panel for-mobile">
+					<h3 class="panel__title">Editions</h3>
+						<ul class='no-columns'>
+					<li>
+				<a href="https://www.thesun.co.uk/">UK Edition</a>
+			</li>
+					<li>
+				<a href="https://www.thescottishsun.co.uk/">Scottish Sun</a>
+			</li>
+					<li>
+				<a href="https://www.dreamteamfc.com/c/">Dream Team</a>
+			</li>
+			</ul>
+					</div>
+
+				<div class="panel">
+					<h3 class="panel__title">The Sun</h3>
+					<ul id="menu-sun-network-service-menu" class="menu"><li id="menu-item-256645" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256645"><a href="https://www.thesun.co.uk">The Sun</a></li>
+<li id="menu-item-256646" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256646"><a href="https://www.thescottishsun.co.uk/">The Scottish Sun</a></li>
+<li id="menu-item-256648" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256648"><a href="https://www.dreamteamfc.com/">Dream Team</a></li>
+<li id="menu-item-256649" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256649"><a href="https://www.sunbets.co.uk">Sun Bets</a></li>
+<li id="menu-item-256651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256651"><a href="http://www.thesun.co.uk/fabulous">Fabulous</a></li>
+<li id="menu-item-256652" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256652"><a href="http://favourite.thesun.co.uk">Sun Favourite</a></li>
+<li id="menu-item-256653" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256653"><a href="http://www.sunmotors.co.uk/">Sun Motors</a></li>
+<li id="menu-item-256654" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256654"><a href="http://www.sunbingo.co.uk/">Sun Bingo</a></li>
+<li id="menu-item-256655" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256655"><a href="http://thesun.inthepaper.co.uk/">Sun Gifts</a></li>
+</ul>				</div>
+
+				<div class="panel panel--half">
+					<h3 class="panel__title">News Corp</h3>
+					<ul id="menu-news-corp-service-menu" class="menu"><li id="menu-item-256631" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256631"><a href="http://www.wsj.com/">WSJ.com</a></li>
+<li id="menu-item-256632" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256632"><a href="http://nypost.com/">New York Post</a></li>
+<li id="menu-item-256634" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256634"><a href="http://www.theaustralian.com.au/">The Australian</a></li>
+<li id="menu-item-256635" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256635"><a href="http://www.news.com.au/">News.com.au</a></li>
+<li id="menu-item-256636" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256636"><a href="https://storyful.com/">Storyful</a></li>
+<li id="menu-item-256638" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256638"><a href="https://www.harpercollins.co.uk/">Harper Collins</a></li>
+<li id="menu-item-256642" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256642"><a href="https://www.realtor.com/">Realtor.com</a></li>
+</ul>				</div>
+
+				<div class="panel panel--half panal--services">
+					<h3 class="panel__title">Services</h3>
+		            <ul id="menu-footer-menu" class="menu"><li id="menu-item-256612" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256612"><a href="https://www.thesun.co.uk/sign-up-to-the-sun/">Sign Up To The Sun</a></li>
+<li id="menu-item-256613" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256613"><a href="https://www.thesun.co.uk/terms-and-conditions/">Terms and Conditions</a></li>
+<li id="menu-item-1927570" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1927570"><a href="https://www.thesun.ie/editorial-complaints/">Editorial Complaints</a></li>
+<li id="menu-item-256615" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256615"><a href="https://www.thesun.co.uk/admin/clarifications/">Clarifications and Corrections</a></li>
+<li id="menu-item-256616" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256616"><a href="https://www.thesun.co.uk/syndication/">Syndication</a></li>
+<li id="menu-item-256617" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256617"><a href="http://www.newsukadvertising.co.uk">Advertising</a></li>
+<li id="menu-item-256628" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256628"><a href="https://www.thesun.ie/contact-us/">Contact Us</a></li>
+<li id="menu-item-256619" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256619"><a href="http://help.thesun.co.uk/">Help Hub</a></li>
+</ul>				</div>
+
+				<span class="sun-newsuk__button open-newsuk">The Irish Sun, A News Ireland Company <span class="icon icon-arrow-down icon-arrow-down--dark"></span></span>
+
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class="sun-header-bg">
+		<span class="sun-header-bg-color"></span>
+		<div class="back-to-top">
+			<span class="icon icon-back-to-top"></span>
+			<span class="text-top">TOP</span>
+		</div>
+	</div>
+
+	<div class="sun-row sun-header--wrap">
+
+		<div class="col sun-col-2 no-gutters logo">
+			<a href="#" class="mobile-search toggle-mobile-search"><span class="icon icon-search"></span></a>
+
+			<div id="logo">
+				<a href="https://www.thesun.ie/" aria-label="Home">
+					<img
+						class="for-desktop for-tablet"
+						src="https://www.thesun.ie/wp-content/themes/theirishsun/images/sunmasthead.svg"
+						alt="The Irish Sun"
+					/>
+					<img
+						class="for-mobile"
+						src="https://www.thesun.ie/wp-content/themes/theirishsun/images/sunmasthead_mobile.svg"
+						alt="The Irish Sun"
+					/>
+				</a>
+			</div>
+
+			<div class="mobile-toggles open-newsuk">
+				<div class="mobile-toggle"></div>
+				<div class="mobile-toggle"></div>
+				<div class="mobile-toggle"></div>
+			</div>
+		</div>
+
+		<div class="col sun-col-2 no-gutters follow">
+
+			<div class="sign-in">
+				<a href="https://login.thesun.co.uk">Sign in <span class="icon icon-avatar"></span></a>
+			</div>
+
+			<div class="edition">
+				<a href="#" class="open-popup-box">Irish Sun <span class="icon icon-arrow-down"></span></a>
+
+				<div class="popup-box">
+					<span class="popup-box--close"></span>
+
+						<ul class=''>
+					<li>
+				<a href="https://www.thesun.co.uk/">UK Edition</a>
+			</li>
+					<li>
+				<a href="https://www.thescottishsun.co.uk/">Scottish Sun</a>
+			</li>
+					<li>
+				<a href="https://www.dreamteamfc.com/c/">Dream Team</a>
+			</li>
+			</ul>
+					</div>
+			</div>
+
+			<div class="search-bar">
+				<a href="#" class="open-popup-box">Search <span class="icon icon-search"></span></a>
+
+				<div class="popup-box">
+					<span class="popup-box--close"></span>
+
+					<form action="https://www.thesun.ie/">
+						<input type="text" placeholder="Search The Sun" name="s" />
+						<input type="submit" value="Search" />
+					</form>
+				</div>
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class="sun-row sun-header--search">
+
+		<div class="col sun-col-6 no-gutters">
+
+			<a href="#" class="close-search toggle-mobile-search"><span class="icon icon-close"></span></a>
+
+			<form action="https://www.thesun.ie/">
+				<input type="text" placeholder="Search The Sun" name="s" />
+			</form>
+
+		</div>
+
+	</div>
+
+	<div class="sun-row sun-header--nav">
+
+		<div class="sun-nav-heavy-rule"></div>
+
+		<div id="logo-mini">
+			<a href="https://www.thesun.ie/" aria-label="Home">
+				<img
+					class="for-desktop for-tablet"
+					src="https://www.thesun.ie/wp-content/themes/theirishsun/images/sunmasthead_mobile.svg"
+					alt="The Irish Sun"
+				/>
+			</a>
+		</div>
+
+		<div class="col sun-col-6 no-gutters swiper-container sun-header--nav-wrap">
+			<ul id="sun-menu" class="sun-menu swiper-wrapper"><li id="menu-item-241720" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-241720 swiper-slide theme-main"><a href="/">Home</a></li>
+<li id="menu-item-241770" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241770 swiper-slide theme-football"><a href="https://www.thesun.ie/sport/football/">Football</a></li>
+<li id="menu-item-241719" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241719 swiper-slide theme-sport"><a href="https://www.thesun.ie/sport/">Sport</a></li>
+<li id="menu-item-250589" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-250589 swiper-slide theme-showbiz"><a href="https://www.thesun.ie/tvandshowbiz/">TV &#038; Showbiz</a></li>
+<li id="menu-item-241718" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-241718 swiper-slide theme-news active"><a href="https://www.thesun.ie/news/">News</a></li>
+<li id="menu-item-1473549" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1473549 swiper-slide theme-fabulous"><a href="https://www.thesun.ie/fabulous/">Fabulous</a></li>
+<li id="menu-item-1492642" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1492642 swiper-slide theme-money"><a href="https://www.thesun.ie/money/">Money</a></li>
+<li id="menu-item-830394" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-830394 swiper-slide theme-motors"><a href="https://www.thesun.ie/motors/">Motors</a></li>
+<li id="menu-item-772415" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-772415 swiper-slide theme-travel"><a href="https://www.thesun.ie/travel/">Travel</a></li>
+<li id="menu-item-824948" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-824948 swiper-slide theme-tech"><a href="https://www.thesun.ie/tech/">Tech</a></li>
+<li id="menu-item-1473548" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1473548 swiper-slide theme-dear-deidre"><a href="https://www.thesun.ie/dear-deidre/">Dear Deidre</a></li>
+</ul>
+			<div class="swiper-button-prev swiper-button-disabled">
+				<span class="icon icon-arrow-left"></span>
+			</div>
+			<div class="swiper-button-next swiper-button-disabled">
+				<span class="icon icon-arrow-right"></span>
+			</div>
+		</div>
+
+	</div>
+
+<div class="sub-nav__mobile-head theme__background-color">
+	<span class="sub-nav__mobile-head-text">All News</span> <span class="icon icon-arrow-circled-down"></span>
+</div>
+
+<section class="sun-container sub-nav__container theme__background-color">
+	<div class="sun-row no-gutters">
+		<div class="col sun-col-6 no-gutters">
+			<div class="sub-nav">
+
+				<div class="swiper-container theme-main-secondary theme-news-secondary">
+
+					<ul class="swiper-wrapper sub-nav__list">
+						<li class="active sub-nav__item swiper-slide theme__copy-color theme__border-color theme--secondary__background-before-color theme--secondary__background-color-mobile">							<a href="https://www.thesun.ie/news/" class="theme--secondary__border-color">
+								All News							</a>
+						</li>
+						<li class=" sub-nav__item swiper-slide theme__copy-color theme__border-color theme--secondary__background-before-color theme--secondary__background-color-mobile">							<a href="https://www.thesun.ie/news/irish-news/" class="theme--secondary__border-color">
+								Irish News							</a>
+						</li>
+
+						<li class="active sub-nav__item swiper-slide theme__copy-color theme__border-color theme--secondary__background-before-color theme--secondary__background-color-mobile">							<a href="https://www.thesun.ie/news/world-news/" class="theme--secondary__border-color">
+								World News							</a>
+						</li>
+
+						<li class=" sub-nav__item swiper-slide theme__copy-color theme__border-color theme--secondary__background-before-color theme--secondary__background-color-mobile">							<a href="https://www.thesun.ie/tech/" class="theme--secondary__border-color">
+								Tech &amp; Science							</a>
+						</li>
+
+						<li class=" sub-nav__item swiper-slide theme__copy-color theme__border-color theme--secondary__background-before-color theme--secondary__background-color-mobile">							<a href="https://www.thesun.ie/news/opinion/" class="theme--secondary__border-color">
+								Opinion							</a>
+						</li>
+
+						<li class=" sub-nav__item swiper-slide theme__copy-color theme__border-color theme--secondary__background-before-color theme--secondary__background-color-mobile">							<a href="https://www.thesun.ie/news/health-news/" class="theme--secondary__border-color">
+								Health News							</a>
+						</li>
+
+											</ul><!-- .swiper-wrapper .sub-nav__list -->
+
+					<div class="swiper-button-prev theme--secondary__background-before-color theme__background-color swiper-button-disabled">
+						<span class="icon icon-arrow-left icon-arrow-left-white theme__background-color"></span>
+					</div>
+
+					<div class="swiper-button-next theme--secondary__background-before-color theme__background-color swiper-button-disabled">
+						<span class="icon icon-arrow-right icon-arrow-right-white theme__background-color"></span>
+					</div>
+
+				</div><!-- .swiper-container .{theme-slug}-secondary -->
+
+			</div><!-- .sub-nav -->
+		</div><!-- .col .sun-col-6 .no-gutters -->
+	</div><!-- sun-row .no-gutters -->
+</section><!-- .sun-container .sub-nav__container .theme__background-color -->
+
+	<div id="main-content" class="main-content-wrap theme-main has-section-nav" tabindex="-1">
+
+		
+		
+		
+<div class="billboard">
+	<div class="sun-row">
+		<div class="col sun-col-6">
+							<div class="dfp-ad" id="billboard">
+					<script type="text/javascript">
+						document.addEventListener('DOMContentLoaded', function () {
+							googletag.cmd.push( function() {
+								googletag.display( 'billboard' );
+							} );
+						});
+					</script>
+				</div>
+					</div>
+	</div>
+</div>
+
+		<section class="sun-container__article-section theme-news">
+							<div class="sun-row">
+										<div class="col sun-col-4">
+
+														<article class="article">
+								<div id="header" class="dfp-ad advert--header"></div>
+
+								
+<header class="article__header">
+	<div class="article__strapline">
+	</div>
+
+	
+<section class="article__headline-section">
+			<span class="article__kicker theme__copy-color">VOTE SCANDAL</span>
+		<h1 class="article__headline">Damning Russian ‘election rigging’ pictures show voters casting Putin ballots at more than one polling station</h1></section>
+
+		<div class="article__subdeck theme__border-color">
+		<p>The claims come after Putin comfortably extended his rule of Russia for another six years  winning 76.67 per cent of the vote - his highest score ever</p>
+	</div>
+	</header><!-- .article__header -->
+
+<div class="article__meta">
+
+	
+	<div class="article__name-date">
+					<div class="article__author">
+				<span class="article__author-name">
+					By Jon Lockett				</span>
+			</div>
+		
+		<div class="article__time">
+			<div class="article__published">
+				<span>21st March 2018,</span>
+				<span class="article__timestamp">3:55 pm</span>
+			</div>
+
+					<div class="article__updated">
+				<span>Updated: 21st March 2018,</span>
+				<span class="article__timestamp">5:59 pm</span>
+			</div>
+				</div>
+
+	</div>
+</div><!-- .article__meta -->
+								<div class="article__content">
+									<p class="article__content article__content--intro">PHOTOS seem show Russian state workers &#8220;voting multiple times&#8221; in the country&#8217;s presidential election.</p>
+<p>The images come after Vladimir Putin&#8217;s record victory has already been soured by claims the ballots were rigged in his favour.</p>
+<figure class="article__media">
+	<div class="article__media-img-container open-gallery" data-index="0">
+
+		<a href="#"><p><img class="wp-image-2339949 size-thesun-article-image" alt="This woman &#8211; a state health official &#8211; was spotted voting three times" src="https://www.thesun.co.uk/wp-content/uploads/2018/03/nintchdbpict000393751721.jpg?strip=all&amp;w=960" width="960" height="406" /></p></a>
+
+				<div class="article__credit">
+			Reuters		</div>
+		
+				<div class="article__gallery-count theme__background-color-rgba-80">
+			<a href=""><span class="article__gallery-count-value theme__copy-color">5</span></a>
+		</div>
+			</div>
+
+		<figcaption class="article__media-caption">
+		This woman &#8211; a state health official &#8211; was spotted voting three times	</figcaption>
+	</figure>
+
+<p>Many of those caught on camera turned up to the polling stations in groups and in state-run minibuses.</p>
+<p>One woman caught voting at least THREE TIMES was identified as a hospital deputy director of health and safety.</p>
+<p>Voting twice is a misdemeanour under Russian law and those caught are heavily fined.</p>
+<p>But when shown these pictures, election commission member Leila Koichuyeva said: &#8220;They could be twins.&#8221;</p>
+<figure class="article__media">
+	<div class="article__media-img-container open-gallery" data-index="1">
+
+		<a href="#"><p><img class="wp-image-2339950 size-thesun-article-image" alt="Journalists uncovered a loophole which allows people to vote in more than one location" src="https://www.thesun.co.uk/wp-content/uploads/2018/03/nintchdbpict000393751708.jpg?strip=all&amp;w=960" width="960" height="611" /></p></a>
+
+				<div class="article__credit">
+			Reuters		</div>
+		
+				<div class="article__gallery-count theme__background-color-rgba-80">
+			<a href=""><span class="article__gallery-count-value theme__copy-color">5</span></a>
+		</div>
+			</div>
+
+		<figcaption class="article__media-caption">
+		Journalists uncovered a loophole which allows people to vote in more than one location	</figcaption>
+	</figure>
+
+<p>Respected news agency Reuters was able to speak to seven of 17 people photographed casting multiple votes.</p>
+<p>They either denied voting more than once or declined to comment.</p>
+<p>Kremlin spokesman Dmitry Peskov said they would only take the images seriously if there was further evidence.</p>
+<p>He said: &#8220;If they (the photos) are not backed up, then it does not worry us at all.&#8221;</p>
+<figure class="article__media">
+	<div class="article__media-img-container open-gallery" data-index="2">
+
+		<a href="#"><p><img class="wp-image-2339951 size-thesun-article-image" alt="This man in a hat was spotted casting his vote at separate polling stations" src="https://www.thesun.co.uk/wp-content/uploads/2018/03/nintchdbpict000393751693.jpg?strip=all&amp;w=960" width="960" height="602" /></p></a>
+
+				<div class="article__credit">
+			Reuters		</div>
+		
+				<div class="article__gallery-count theme__background-color-rgba-80">
+			<a href=""><span class="article__gallery-count-value theme__copy-color">5</span></a>
+		</div>
+			</div>
+
+		<figcaption class="article__media-caption">
+		This man in a hat was spotted casting his vote at separate polling stations	</figcaption>
+	</figure>
+
+<p>Reporters monitored 12 polling stations around the country and witnessed other irregularities.</p>
+<p>In all 12 polling stations, the turnout declared by election officials exceeded a tally kept by Reuters of how many people voted.</p>
+<p>In one case in Simferopol the difference between the two figures was significant: 528 votes, or 66 percent of the votes cast.</p>
+<p>The journalists also uncovered a loophole in the registration system which allows people to vote in more than one location.</p>
+<figure class="article__media">
+	<div class="article__media-img-container open-gallery" data-index="3">
+
+		<a href="#"><p><img class="wp-image-2339952 size-thesun-article-image" alt="Voting twice is a misdemeanour under Russian law and those caught are heavily fined" src="https://www.thesun.co.uk/wp-content/uploads/2018/03/nintchdbpict000393751697.jpg?strip=all&amp;w=960" width="960" height="610" /></p></a>
+
+				<div class="article__credit">
+			Reuters		</div>
+		
+				<div class="article__gallery-count theme__background-color-rgba-80">
+			<a href=""><span class="article__gallery-count-value theme__copy-color">5</span></a>
+		</div>
+			</div>
+
+		<figcaption class="article__media-caption">
+		Voting twice is a misdemeanour under Russian law and those caught are heavily fined	</figcaption>
+	</figure>
+
+<figure class="article__media">
+	<div class="article__media-img-container open-gallery" data-index="4">
+
+		<a href="#"><p><img class="wp-image-2339953 size-thesun-article-image" alt="Reporters monitored 12 polling stations around the vast country" src="https://www.thesun.co.uk/wp-content/uploads/2018/03/nintchdbpict000393751704.jpg?strip=all&amp;w=960" width="960" height="608" /></p></a>
+
+				<div class="article__credit">
+			Reuters		</div>
+		
+				<div class="article__gallery-count theme__background-color-rgba-80">
+			<a href=""><span class="article__gallery-count-value theme__copy-color">5</span></a>
+		</div>
+			</div>
+
+		<figcaption class="article__media-caption">
+		Reporters monitored 12 polling stations around the vast country	</figcaption>
+	</figure>
+
+<p>Another woman also appeared to vote twice on Sunday.</p>
+<p>When approached the woman said her name was Jamila Tebueva who worked for the local town hall.</p>
+<p>She said she voted only once, and went to a second polling station to accompany friends.</p>
+<p>When told she had been photographed with a voting slip in her hand at the second location she said: &#8220;Is it alright if I don&#8217;t reply?&#8221;</p>
+<div class="bc-video-holder"><!-- Start of Brightcove Player --><div style="display: block; position: relative; max-width: 100%;"><div style="padding-top: 56.25%;"><video data-video-id="5569805566001" id="5569805566001_5067014667001" data-account="5067014667001" data-player="default" data-embed="default" data-application-id class="video-js" controls  style="position: absolute; top: 0px; bottom: 0px; right: 0px; left: 0px;" width="100%" height="100%"></video><script src="//players.brightcove.net/5067014667001/default_default/index.min.js"></script></div></div><!-- End of Brightcove Player --><span class="article__bc_video-caption">Video footage appears to show Russian ballot box being stuffed </span></div>
+	<!--googleoff: all-->
+		<div class="sun-grid-container sun-grid-container--white">
+	
+	<div class="sun-row ">
+		<div class="col sun-col-6">
+
+			<div class="rail rail--classic  rail--trending theme-news" data-slide-count="4" data-slide-count-tablet="4">				<div class="swiper-container">
+
+					<div class="rail__header">
+
+											<h3 class="rail__title theme__after-color">MOST READ IN NEWS</h3>
+
+											
+					
+					</div>
+
+					
+					<div class="swiper-pagination theme__swiper-pagination"></div>
+
+					<div class="swiper-wrapper">
+						
+<div class="rail__item swiper-slide">
+
+					<div class="rail__item-image">
+			<a href="https://www.thesun.ie/news/2346622/two-pedestrians-killed-after-two-car-crash-in-ballinasloe-co-galway-as-gardai-launch-investigation/">
+				<div class="delayed-image-load-landscape" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/pjimage-27.jpg?strip=all&#038;quality=100&#038;w=300&#038;h=192&#038;crop=1"></div>
+				<div class="delayed-image-load-mobile" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/pjimage-27.jpg?strip=all&#038;quality=100&#038;w=300&#038;h=192&#038;crop=1"></div>
+			</a>
+					</div><!-- .rail__item-image -->
+	
+	<div class="rail__item-content">
+					<h3 class="rail__item-headline theme__copy-color">
+				HORROR incident			</h3>
+							<span class="rail__item-sub">
+				Two pedestrians killed after two car crash in Co Galway			</span>
+			</div><!-- .rail__item-content -->
+	<div class="rail__item-gradient-light">
+
+	</div>
+	<a href="https://www.thesun.ie/news/2346622/two-pedestrians-killed-after-two-car-crash-in-ballinasloe-co-galway-as-gardai-launch-investigation/" class="rail__item-anchor"></a>
+
+</div><!-- .rail__item .swiper-slide -->
+
+<div class="rail__item swiper-slide">
+
+					<div class="rail__item-image">
+			<a href="https://www.thesun.ie/news/2341445/chancers-e500k-car-crash-scam-busted-after-cctv-footage-of-them-together-at-dublin-mcdonalds-exposed-clearly-how-collision-was-staged/">
+				<div class="delayed-image-load-landscape" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/two-comp-2f-right-pic-24.png?strip=all&#038;quality=100&#038;w=300&#038;h=192&#038;crop=1"></div>
+				<div class="delayed-image-load-mobile" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/two-comp-2f-right-pic-24.png?strip=all&#038;quality=100&#038;w=300&#038;h=192&#038;crop=1"></div>
+			</a>
+					</div><!-- .rail__item-image -->
+	
+	<div class="rail__item-content">
+					<h3 class="rail__item-headline theme__copy-color">
+				big mac &amp; lies			</h3>
+							<span class="rail__item-sub">
+				Chancers&#039; scam busted as CCTV catches them getting food before staged crash			</span>
+			</div><!-- .rail__item-content -->
+	<div class="rail__item-gradient-light">
+
+	</div>
+	<a href="https://www.thesun.ie/news/2341445/chancers-e500k-car-crash-scam-busted-after-cctv-footage-of-them-together-at-dublin-mcdonalds-exposed-clearly-how-collision-was-staged/" class="rail__item-anchor"></a>
+
+</div><!-- .rail__item .swiper-slide -->
+
+<div class="rail__item swiper-slide">
+
+					<div class="rail__item-image">
+			<a href="https://www.thesun.ie/news/2345611/man-pleads-absolutely-not-guilty-after-being-charged-with-fatal-shooting-of-young-father-vincent-ryan/">
+				<div class="delayed-image-load-landscape" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/two-comp-2f-right-pic-13.png?strip=all&#038;quality=100&#038;w=300&#038;h=192&#038;crop=1"></div>
+				<div class="delayed-image-load-mobile" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/two-comp-2f-right-pic-13.png?strip=all&#038;quality=100&#038;w=300&#038;h=192&#038;crop=1"></div>
+			</a>
+					</div><!-- .rail__item-image -->
+	
+	<div class="rail__item-content">
+					<h3 class="rail__item-headline theme__copy-color">
+				murder rap			</h3>
+							<span class="rail__item-sub">
+				Man pleads &#039;absolutely not guilty&#039; after being charged with fatal shooting			</span>
+			</div><!-- .rail__item-content -->
+	<div class="rail__item-gradient-light">
+
+	</div>
+	<a href="https://www.thesun.ie/news/2345611/man-pleads-absolutely-not-guilty-after-being-charged-with-fatal-shooting-of-young-father-vincent-ryan/" class="rail__item-anchor"></a>
+
+</div><!-- .rail__item .swiper-slide -->
+
+<div class="rail__item swiper-slide">
+
+					<div class="rail__item-image">
+			<a href="https://www.thesun.ie/news/2342616/irish-weather-chiefs-say-country-to-be-battered-by-heavy-rain-as-experts-warn-of-another-cold-snap-for-easter/">
+				<div class="delayed-image-load-landscape" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/newweather1_comp.jpg?strip=all&#038;quality=100&#038;w=300&#038;h=192&#038;crop=1"></div>
+				<div class="delayed-image-load-mobile" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/newweather1_comp.jpg?strip=all&#038;quality=100&#038;w=300&#038;h=192&#038;crop=1"></div>
+			</a>
+					</div><!-- .rail__item-image -->
+	
+	<div class="rail__item-content">
+					<h3 class="rail__item-headline theme__copy-color">
+				HAPPY BEASTER?			</h3>
+							<span class="rail__item-sub">
+				Ireland to be battered by heavy rain - as experts warn of Easter cold snap			</span>
+			</div><!-- .rail__item-content -->
+	<div class="rail__item-gradient-light">
+
+	</div>
+	<a href="https://www.thesun.ie/news/2342616/irish-weather-chiefs-say-country-to-be-battered-by-heavy-rain-as-experts-warn-of-another-cold-snap-for-easter/" class="rail__item-anchor"></a>
+
+</div><!-- .rail__item .swiper-slide -->
+
+<div class="rail__item swiper-slide">
+
+					<div class="rail__item-image">
+			<a href="https://www.thesun.ie/news/2346112/pervert-found-guilty-of-carrying-out-random-sex-attacks-on-two-women-within-four-years-in-dublin/">
+				<div class="delayed-image-load-landscape" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/big-pic-two-small-151.png?strip=all&#038;quality=100&#038;w=300&#038;h=192&#038;crop=1"></div>
+				<div class="delayed-image-load-mobile" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/big-pic-two-small-151.png?strip=all&#038;quality=100&#038;w=300&#038;h=192&#038;crop=1"></div>
+			</a>
+					</div><!-- .rail__item-image -->
+	
+	<div class="rail__item-content">
+					<h3 class="rail__item-headline theme__copy-color">
+				guilty verdict			</h3>
+							<span class="rail__item-sub">
+				Pervert found guilty of carrying out random sex attacks on two women			</span>
+			</div><!-- .rail__item-content -->
+	<div class="rail__item-gradient-light">
+
+	</div>
+	<a href="https://www.thesun.ie/news/2346112/pervert-found-guilty-of-carrying-out-random-sex-attacks-on-two-women-within-four-years-in-dublin/" class="rail__item-anchor"></a>
+
+</div><!-- .rail__item .swiper-slide -->
+
+<div class="rail__item swiper-slide">
+
+					<div class="rail__item-image">
+			<a href="https://www.thesun.ie/news/2345487/mum-of-cork-teen-michael-cornacchia-16-who-took-u-4-drug-thinking-it-was-cocaine-knew-by-looking-at-him-he-had-passed-away/">
+				<div class="delayed-image-load-landscape" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/michaelc_comp.jpg?strip=all&#038;quality=100&#038;w=300&#038;h=192&#038;crop=1"></div>
+				<div class="delayed-image-load-mobile" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/michaelc_comp.jpg?strip=all&#038;quality=100&#038;w=300&#038;h=192&#038;crop=1"></div>
+			</a>
+					</div><!-- .rail__item-image -->
+	
+	<div class="rail__item-content">
+					<h3 class="rail__item-headline theme__copy-color">
+				DRUG DEATH			</h3>
+							<span class="rail__item-sub">
+				Mum of Cork teen who took U-4 &#039;knew by looking at him he had passed away&#039;			</span>
+			</div><!-- .rail__item-content -->
+	<div class="rail__item-gradient-light">
+
+	</div>
+	<a href="https://www.thesun.ie/news/2345487/mum-of-cork-teen-michael-cornacchia-16-who-took-u-4-drug-thinking-it-was-cocaine-knew-by-looking-at-him-he-had-passed-away/" class="rail__item-anchor"></a>
+
+</div><!-- .rail__item .swiper-slide -->
+					</div><!-- .swiper-wrapper -->
+
+					<div class="swiper-button-prev theme__background-color-rgba-80"></div>
+					<div class="swiper-button-next theme__background-color-rgba-80"></div>
+
+				</div><!-- .swiper-container -->
+			</div><!-- .rail .{rail} .swiper-video-rail .{theme-slug} -->
+
+		</div><!-- .col .sun-col-6 -->
+	</div><!-- .sun-row .{row} .rail-video-index-->
+	</div> <!-- .sun-grid-container .sun-grid-container--{color} -->
+	<!--googleon: all-->
+	
+<p>The claims come after Putin comfortably extended his rule of Russia for another six years winning 76.67 per cent of the vote.</p>
+<p>The Central Election Commission said communist Pavel Grudinin came in a distant second with 11.78 per cent.</p>
+<p>Third was ultranationalist Vladimir Zhirinovsky with 5.66 per cent.</p>
+<hr />
+<p><b>We pay for your stories! Do you have a story for The Sun Online news team? Email us at <a href="mailto:tips@the-sun.co.uk" target="_blank" rel="noopener">tips@the-sun.co.uk</a> or call 0207 782 4368 . You can WhatsApp us on 07810 791 502. We pay for videos too. Click here to upload yours.</b></p>
+<hr />
+<p>&nbsp;</p>
+								</div><!-- .article__content -->
+																<div class="tags tags--article">
+										<ul class="tags__list">
+					<li class="tags__item">
+				<span class="theme__copy-color">Topics</span>
+			</li>
+							<li class="tags__item theme__after-color">
+				<a href="https://www.thesun.ie/who/vladimir-putin/">
+					Vladimir Putin				</a>
+			</li>
+					<li class="tags__item theme__after-color">
+				<a href="https://www.thesun.ie/where/russia/">
+					Russia				</a>
+			</li>
+			</ul>
+									</div><!-- .tags .tags--article -->
+									<div class="comments" id="comments">
+		<div class="comments-header-wrap">
+			<h3>Comments</h3>
+		</div>
+
+		<div id="livefyre-comments"></div>	</div>
+
+<div class="advert--taboola advert--taboola--thumbnails-feed" id="widget-thesun_taboola_widget-2-advert"></div>
+<script type="text/javascript">
+	window._taboola = window._taboola || [];
+	_taboola.push({
+		mode: 'thumbnails-feed',
+		container: 'widget-thesun_taboola_widget-2-advert',
+		placement: 'Article Footer',
+		target_type: 'mix'
+	});
+</script>
+
+<div class="social social--article">
+
+			<div class="article-social__meta article-social__meta--comment-count-mobile">
+		<div class="article-social__share-icon">
+			<a href="#comments">
+				<svg class="article-data__svg article-comment" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="886.2 203.6 42.7 40.4" enable-background="new 886.2 203.6 42.7 40.4" xml:space="preserve">
+					<path fill="#EAEEEF" d="M886.2,203.6v40.4h42.7v-40.4H886.2z M926.9,233.7c0,0.9-0.7,1.6-1.6,1.6h-19.5l-5.3,6.4
+					c-0.2,0.3-0.5,0.4-0.9,0.4c-0.3,0-0.7-0.1-0.9-0.4l-5.3-6.4h-3.6c-0.9,0-1.6-0.7-1.6-1.6v-26.4c0-0.9,0.7-1.6,1.6-1.6h35.4
+					c0.9,0,1.6,0.7,1.6,1.6V233.7z"/>
+				</svg>
+
+				<div class="article-social__share-no">
+					<div class="share-no-amount theme__copy-color livefyre-commentcount" data-lf-site-id="333394" data-lf-article-id="2339954"></div>
+				</div>
+			</a>
+		</div>
+	</div>
+	
+			<div class="social-share-buttons">
+		<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-2339954" class="share-facebook sd-button share-icon no-text" href="https://www.thesun.ie/news/2339954/damning-russian-election-rigging-pictures-show-voters-casting-putin-ballots-at-more-than-one-polling-station/?share=facebook" target="_blank" title="Click to share on Facebook"><span></span><span class="sharing-screen-reader-text">Click to share on Facebook (Opens in new window)</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-2339954" class="share-twitter sd-button share-icon no-text" href="https://www.thesun.ie/news/2339954/damning-russian-election-rigging-pictures-show-voters-casting-putin-ballots-at-more-than-one-polling-station/?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-jetpack-whatsapp"><a rel="nofollow" data-shared="" class="share-jetpack-whatsapp sd-button share-icon no-text" href="https://api.whatsapp.com/send?text=Russian%20%E2%80%98election%20rigging%E2%80%99%20pictures%20show%20state%20workers%20casting%20multiple%20votes https%3A%2F%2Fwww.thesun.ie%2Fnews%2F2339954%2Fdamning-russian-election-rigging-pictures-show-voters-casting-putin-ballots-at-more-than-one-polling-station%2F" target="_blank" title="Click to share on WhatsApp"><span></span><span class="sharing-screen-reader-text">Click to share on WhatsApp (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div>	</div>
+	
+			<div class="article-social__meta article-social__meta--comment-count">
+		<div class="article-social__share-icon">
+			<a href="#comments">
+				<svg class="article-data__svg article-comment" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5796.3 2189.3 2024.7 1916.8" enable-background="new 5796.3 2189.3 2024.7 1916.8" xml:space="preserve">
+					<path fill="#E92129" d="M7740.1,2189.3H5877.3c-40.5,0-81,40.5-81,81v1390.3c0,40.5,40.5,81,81,81h189l283.5,337.5
+					c13.5,13.5,27,27,40.5,27c13.5,0,40.5-13.5,40.5-27l283.5-337.5H7740c40.5,0,81-40.5,81-81V2270.3
+					C7821,2229.8,7780.5,2189.3,7740.1,2189.3z M7362.1,3377.1H6255.2c-27,0-40.5-27-40.5-54s27-54,40.5-54h1106.9c27,0,40.5,27,40.5,54
+					S7389.1,3377.1,7362.1,3377.1z M7362.1,3026.2H6255.2c-27,0-40.5-27-40.5-54s27-54,40.5-54h1106.9c27,0,40.5,27,40.5,54
+					S7389.1,3026.2,7362.1,3026.2z M7362.1,2675.2H6255.2c-27,0-40.5-27-40.5-54s27-54,40.5-54h1106.9c27,0,40.5,27,40.5,54S7389.1,2675.2,7362.1,2675.2z" />
+				</svg>
+			</a>
+		</div>
+
+		<div class="article-social__share-no">
+			<div class="share-no-amount theme__copy-color livefyre-commentcount" data-lf-site-id="333394" data-lf-article-id="2339954">
+			</div>
+			<div class="share-no-name">Comments</div>
+		</div>
+	</div>
+	
+</div><!-- .social social--article -->
+
+							</article><!-- .article -->
+					</div><!-- .col sun-col-4/6 -->
+
+										<div id="sidebar" class="col sun-col-2 article-sidebar">
+						<aside id="thesun_dfp_ad_widget-9" class="widget widget_thesun_dfp_ad_widget"><div class="dfp-ad-container articlempu-container">
+	<div class="dfp-ad teaser-item teasermedium teasermedium--mpu inarticle articlempu" id="articlempu">
+		<script type="text/javascript">
+			(function() {
+				function _displayAd(){
+					googletag = googletag || {};
+					googletag.cmd = googletag.cmd || [];
+					googletag.cmd.push( function() {
+						googletag.display( "articlempu" );
+					} );
+				}
+							var element    = document.getElementById( "articlempu" );
+				var paragraphs = document.querySelectorAll('.article__content > p');
+				var target     = paragraphs.length >= 8 ? paragraphs[7] : null;
+
+				if(target) {
+					if(isMobile()) {
+						target.parentElement.insertBefore(element, target.nextSibling);
+						_displayAd();
+					} else {
+						var aside = element.closest('aside');
+						aside.parentNode.removeChild(aside);
+					}
+				}
+						})();
+		</script>
+	</div>
+</div>
+
+</aside><aside id="thesun_dfp_ad_widget-2" class="widget widget_thesun_dfp_ad_widget"><div class="dfp-ad-container mpu-container">
+	<div class="dfp-ad teaser-item teasermedium teasermedium--mpu mpu" id="mpu">
+		<script type="text/javascript">
+			(function() {
+				function _displayAd(){
+					googletag = googletag || {};
+					googletag.cmd = googletag.cmd || [];
+					googletag.cmd.push( function() {
+						googletag.display( "mpu" );
+					} );
+				}
+							_displayAd();
+						})();
+		</script>
+	</div>
+</div>
+
+</aside><aside id="thesun_taboola_widget-3" class="widget widget_thesun_taboola_widget">
+<div class="advert--taboola advert--taboola--organic-thumbnails-a" id="widget-thesun_taboola_widget-3-advert"></div>
+<script type="text/javascript">
+	window._taboola = window._taboola || [];
+	_taboola.push({
+		mode: 'organic-thumbnails-a',
+		container: 'widget-thesun_taboola_widget-3-advert',
+		placement: 'Right Rail Thumbnails - Organic',
+		target_type: 'mix'
+	});
+</script>
+</aside><aside id="thesun_dfp_ad_widget-3" class="widget widget_thesun_dfp_ad_widget"><div class="dfp-ad-container mpu2-container">
+	<div class="dfp-ad teaser-item teasermedium teasermedium--mpu mpu2" id="mpu2">
+		<script type="text/javascript">
+			(function() {
+				function _displayAd(){
+					googletag = googletag || {};
+					googletag.cmd = googletag.cmd || [];
+					googletag.cmd.push( function() {
+						googletag.display( "mpu2" );
+					} );
+				}
+							_displayAd();
+						})();
+		</script>
+	</div>
+</div>
+
+</aside><aside id="thesun_taboola_widget-4" class="widget widget_thesun_taboola_widget">
+<div class="advert--taboola advert--taboola--alternating-thumbnails-a" id="widget-thesun_taboola_widget-4-advert"></div>
+<script type="text/javascript">
+	window._taboola = window._taboola || [];
+	_taboola.push({
+		mode: 'alternating-thumbnails-a',
+		container: 'widget-thesun_taboola_widget-4-advert',
+		placement: 'Right Rail Thumbnails',
+		target_type: 'mix'
+	});
+</script>
+</aside><aside class="widget sidebar sidebar__section teaser theme-main"><div class="sidebar__title__row"><h3 class="sidebar__title theme__after-color">most popular</h3></div><!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.ie/news/2346622/two-pedestrians-killed-after-two-car-crash-in-ballinasloe-co-galway-as-gardai-launch-investigation/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/pjimage-27.jpg?strip=all&amp;quality=100&amp;w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/pjimage-27.jpg?strip=all&amp;quality=100&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+			<!-- EXCLUSIVE TAG -->
+		<div class="teaser-slug">
+			<span class="teaser-slug__copy liveblog-teaser-slug-disable">LATEST</span>
+		</div>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.ie/news/2346622/two-pedestrians-killed-after-two-car-crash-in-ballinasloe-co-galway-as-gardai-launch-investigation/">
+					<h2 class="teaser__headline theme__copy-color">HORROR incident</h2>
+				
+		<p class="teaser__subdeck">
+			Two pedestrians killed after two car crash in Co Galway		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.ie/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.ie/news/2346622/two-pedestrians-killed-after-two-car-crash-in-ballinasloe-co-galway-as-gardai-launch-investigation/">
+		<a href="https://www.thesun.ie/news/2346622/two-pedestrians-killed-after-two-car-crash-in-ballinasloe-co-galway-as-gardai-launch-investigation/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.ie/news/2346622/two-pedestrians-killed-after-two-car-crash-in-ballinasloe-co-galway-as-gardai-launch-investigation/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.ie/tvandshowbiz/tv/2343923/another-blow-for-ant-mcpartlin-as-its-claimed-he-could-lose-his-dog-to-ex-lisa-armstrong/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/rb-composite-lisa-dog-1.jpg?strip=all&amp;quality=100&amp;w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/rb-composite-lisa-dog-1.jpg?strip=all&amp;quality=100&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.ie/tvandshowbiz/tv/2343923/another-blow-for-ant-mcpartlin-as-its-claimed-he-could-lose-his-dog-to-ex-lisa-armstrong/">
+					<h2 class="teaser__headline theme__copy-color">TOUGH TIME</h2>
+				
+		<p class="teaser__subdeck">
+			Another blow for Ant as it&#039;s claimed he could lose his dog to ex Lisa Armstrong		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.ie/tvandshowbiz/" class="theme__copy-color">
+				TV &amp; Showbiz				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.ie/tvandshowbiz/tv/2343923/another-blow-for-ant-mcpartlin-as-its-claimed-he-could-lose-his-dog-to-ex-lisa-armstrong/">
+		<a href="https://www.thesun.ie/tvandshowbiz/tv/2343923/another-blow-for-ant-mcpartlin-as-its-claimed-he-could-lose-his-dog-to-ex-lisa-armstrong/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.ie/tvandshowbiz/tv/2343923/another-blow-for-ant-mcpartlin-as-its-claimed-he-could-lose-his-dog-to-ex-lisa-armstrong/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.ie/money/2346384/if-you-get-this-text-about-supermarket-giants-lidl-giving-away-a-big-surprise-package-do-not-click-or-reply/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/big-pic-two-small-16.png?strip=all&amp;quality=100&amp;w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/big-pic-two-small-16.png?strip=all&amp;quality=100&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.ie/money/2346384/if-you-get-this-text-about-supermarket-giants-lidl-giving-away-a-big-surprise-package-do-not-click-or-reply/">
+					<h2 class="teaser__headline theme__copy-color">mobile scam</h2>
+				
+		<p class="teaser__subdeck">
+			If you get this text about Lidl giving away &#039;Big Surprise Package&#039; do NOT click		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.ie/money/" class="theme__copy-color">
+				Money				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.ie/money/2346384/if-you-get-this-text-about-supermarket-giants-lidl-giving-away-a-big-surprise-package-do-not-click-or-reply/">
+		<a href="https://www.thesun.ie/money/2346384/if-you-get-this-text-about-supermarket-giants-lidl-giving-away-a-big-surprise-package-do-not-click-or-reply/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.ie/money/2346384/if-you-get-this-text-about-supermarket-giants-lidl-giving-away-a-big-surprise-package-do-not-click-or-reply/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.ie/sport/2346880/champion-jockey-dies-after-sickening-fall-from-horse-as-he-duelled-for-the-lead-in-race/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/nintchdbpict000394078409-e1521758505293-1.jpg?strip=all&amp;quality=100&amp;w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/nintchdbpict000394078409-e1521758505293-1.jpg?strip=all&amp;quality=100&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.ie/sport/2346880/champion-jockey-dies-after-sickening-fall-from-horse-as-he-duelled-for-the-lead-in-race/">
+					<h2 class="teaser__headline theme__copy-color">RACE TRAGEDY</h2>
+				
+		<p class="teaser__subdeck">
+			Champion jockey dies after &#039;sickening&#039; fall from horse during race		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.ie/sport/" class="theme__copy-color">
+				Sport				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+		<div class="article-data__item article-data__comment">
+		<a href="https://www.thesun.ie/sport/2346880/champion-jockey-dies-after-sickening-fall-from-horse-as-he-duelled-for-the-lead-in-race/#comments">
+			<span class="icon icon-comment"></span>
+			<span class="livefyre-commentcount" data-lf-site-id="333394" data-lf-article-id="2346880"></span>
+		</a>
+	</div><!-- .article-data__item .article-data__comment -->
+	
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.ie/sport/2346880/champion-jockey-dies-after-sickening-fall-from-horse-as-he-duelled-for-the-lead-in-race/">
+		<a href="https://www.thesun.ie/sport/2346880/champion-jockey-dies-after-sickening-fall-from-horse-as-he-duelled-for-the-lead-in-race/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.ie/sport/2346880/champion-jockey-dies-after-sickening-fall-from-horse-as-he-duelled-for-the-lead-in-race/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.ie/tvandshowbiz/tv/2346084/irelands-got-talent-crew-left-stranded-after-dublins-metro-hotel-fire-with-bosses-in-a-frenzy-to-find-new-accommodation/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/two-comp-2f-right-pic-14.png?strip=all&amp;quality=100&amp;w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/two-comp-2f-right-pic-14.png?strip=all&amp;quality=100&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.ie/tvandshowbiz/tv/2346084/irelands-got-talent-crew-left-stranded-after-dublins-metro-hotel-fire-with-bosses-in-a-frenzy-to-find-new-accommodation/">
+					<h2 class="teaser__headline theme__copy-color">HOT MESS</h2>
+				
+		<p class="teaser__subdeck">
+			Ireland&#039;s Got Talent team left stranded as Dublin high rise hotel catches fire		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.ie/tvandshowbiz/" class="theme__copy-color">
+				TV &amp; Showbiz				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.ie/tvandshowbiz/tv/2346084/irelands-got-talent-crew-left-stranded-after-dublins-metro-hotel-fire-with-bosses-in-a-frenzy-to-find-new-accommodation/">
+		<a href="https://www.thesun.ie/tvandshowbiz/tv/2346084/irelands-got-talent-crew-left-stranded-after-dublins-metro-hotel-fire-with-bosses-in-a-frenzy-to-find-new-accommodation/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.ie/tvandshowbiz/tv/2346084/irelands-got-talent-crew-left-stranded-after-dublins-metro-hotel-fire-with-bosses-in-a-frenzy-to-find-new-accommodation/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.ie/news/2341445/chancers-e500k-car-crash-scam-busted-after-cctv-footage-of-them-together-at-dublin-mcdonalds-exposed-clearly-how-collision-was-staged/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/two-comp-2f-right-pic-24.png?strip=all&amp;quality=100&amp;w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/two-comp-2f-right-pic-24.png?strip=all&amp;quality=100&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+			<!-- EXCLUSIVE TAG -->
+		<div class="teaser-slug">
+			<span class="teaser-slug__copy liveblog-teaser-slug-disable">Exclusive</span>
+		</div>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.ie/news/2341445/chancers-e500k-car-crash-scam-busted-after-cctv-footage-of-them-together-at-dublin-mcdonalds-exposed-clearly-how-collision-was-staged/">
+					<h2 class="teaser__headline theme__copy-color">big mac &amp; lies</h2>
+				
+		<p class="teaser__subdeck">
+			Chancers&#039; scam busted as CCTV catches them getting food before staged crash		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.ie/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.ie/news/2341445/chancers-e500k-car-crash-scam-busted-after-cctv-footage-of-them-together-at-dublin-mcdonalds-exposed-clearly-how-collision-was-staged/">
+		<a href="https://www.thesun.ie/news/2341445/chancers-e500k-car-crash-scam-busted-after-cctv-footage-of-them-together-at-dublin-mcdonalds-exposed-clearly-how-collision-was-staged/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.ie/news/2341445/chancers-e500k-car-crash-scam-busted-after-cctv-footage-of-them-together-at-dublin-mcdonalds-exposed-clearly-how-collision-was-staged/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.ie/news/2345611/man-pleads-absolutely-not-guilty-after-being-charged-with-fatal-shooting-of-young-father-vincent-ryan/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/two-comp-2f-right-pic-13.png?strip=all&amp;quality=100&amp;w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/two-comp-2f-right-pic-13.png?strip=all&amp;quality=100&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+			<!-- EXCLUSIVE TAG -->
+		<div class="teaser-slug">
+			<span class="teaser-slug__copy liveblog-teaser-slug-disable">Pictured</span>
+		</div>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.ie/news/2345611/man-pleads-absolutely-not-guilty-after-being-charged-with-fatal-shooting-of-young-father-vincent-ryan/">
+					<h2 class="teaser__headline theme__copy-color">murder rap</h2>
+				
+		<p class="teaser__subdeck">
+			Man pleads &#039;absolutely not guilty&#039; after being charged with fatal shooting		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.ie/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.ie/news/2345611/man-pleads-absolutely-not-guilty-after-being-charged-with-fatal-shooting-of-young-father-vincent-ryan/">
+		<a href="https://www.thesun.ie/news/2345611/man-pleads-absolutely-not-guilty-after-being-charged-with-fatal-shooting-of-young-father-vincent-ryan/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.ie/news/2345611/man-pleads-absolutely-not-guilty-after-being-charged-with-fatal-shooting-of-young-father-vincent-ryan/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.ie/tvandshowbiz/tv/2344804/irelands-got-talents-last-semi-final-sees-denises-golden-buzzer-act-xquisite-dance-and-singer-aaron-j-hart-earn-a-spot-in-saturday-nights-decider/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/two-comp-2f-mid-wide-pic-103.png?strip=all&amp;quality=100&amp;w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/two-comp-2f-mid-wide-pic-103.png?strip=all&amp;quality=100&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+			<!-- EXCLUSIVE TAG -->
+		<div class="teaser-slug">
+			<span class="teaser-slug__copy liveblog-teaser-slug-disable">Revealed</span>
+		</div>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.ie/tvandshowbiz/tv/2344804/irelands-got-talents-last-semi-final-sees-denises-golden-buzzer-act-xquisite-dance-and-singer-aaron-j-hart-earn-a-spot-in-saturday-nights-decider/">
+					<h2 class="teaser__headline theme__copy-color">SIX IN THE MIX</h2>
+				
+		<p class="teaser__subdeck">
+			Xquisite Dance and Aaron J Hart make it all but one confirmed for IGT final		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.ie/tvandshowbiz/" class="theme__copy-color">
+				TV &amp; Showbiz				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.ie/tvandshowbiz/tv/2344804/irelands-got-talents-last-semi-final-sees-denises-golden-buzzer-act-xquisite-dance-and-singer-aaron-j-hart-earn-a-spot-in-saturday-nights-decider/">
+		<a href="https://www.thesun.ie/tvandshowbiz/tv/2344804/irelands-got-talents-last-semi-final-sees-denises-golden-buzzer-act-xquisite-dance-and-singer-aaron-j-hart-earn-a-spot-in-saturday-nights-decider/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.ie/tvandshowbiz/tv/2344804/irelands-got-talents-last-semi-final-sees-denises-golden-buzzer-act-xquisite-dance-and-singer-aaron-j-hart-earn-a-spot-in-saturday-nights-decider/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.ie/news/2342616/irish-weather-chiefs-say-country-to-be-battered-by-heavy-rain-as-experts-warn-of-another-cold-snap-for-easter/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/newweather1_comp.jpg?strip=all&amp;quality=100&amp;w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/newweather1_comp.jpg?strip=all&amp;quality=100&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.ie/news/2342616/irish-weather-chiefs-say-country-to-be-battered-by-heavy-rain-as-experts-warn-of-another-cold-snap-for-easter/">
+					<h2 class="teaser__headline theme__copy-color">HAPPY BEASTER?</h2>
+				
+		<p class="teaser__subdeck">
+			Ireland to be battered by heavy rain - as experts warn of Easter cold snap		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.ie/news/" class="theme__copy-color">
+				News				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.ie/news/2342616/irish-weather-chiefs-say-country-to-be-battered-by-heavy-rain-as-experts-warn-of-another-cold-snap-for-easter/">
+		<a href="https://www.thesun.ie/news/2342616/irish-weather-chiefs-say-country-to-be-battered-by-heavy-rain-as-experts-warn-of-another-cold-snap-for-easter/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.ie/news/2342616/irish-weather-chiefs-say-country-to-be-battered-by-heavy-rain-as-experts-warn-of-another-cold-snap-for-easter/"></a>
+
+</div>
+<!-- MEDIUM TEASER - 300PX -->
+<div class="teaser-item teaser__medium theme-main" >
+
+	<!-- TEASER IMAGE -->
+<div class="teaser__image-container" >
+	<div class="teaser-grad"></div>
+	<a href="https://www.thesun.ie/tvandshowbiz/2343798/pregnant-rte-star-kathryn-thomas-shows-off-nine-month-baby-bump-as-due-date-approaches/">
+					<div class="delayed-image-load-landscape" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/kathrynthomas_comp.jpg?strip=all&amp;quality=100&amp;w=300&amp;h=192&amp;crop=1"></div>
+			<div class="delayed-image-load-mobile" data-src="https://www.thesun.ie/wp-content/uploads/sites/3/2018/03/kathrynthomas_comp.jpg?strip=all&amp;quality=100&amp;w=620&amp;h=413&amp;crop=1"></div>
+			</a>
+		</div>
+
+	
+<div class="teaser__copy-container">
+	<a class="text-anchor-wrap" href="https://www.thesun.ie/tvandshowbiz/2343798/pregnant-rte-star-kathryn-thomas-shows-off-nine-month-baby-bump-as-due-date-approaches/">
+					<h2 class="teaser__headline theme__copy-color">READY TO POP</h2>
+				
+		<p class="teaser__subdeck">
+			RTE star Kathryn Thomas shows off nine-month baby bump as due date approaches		</p>
+
+			</a>
+</div><!-- .teaser__copy-container -->
+
+	
+<div class="article-data teaser__social">
+
+			<div class="article-data__item article-data__tag">
+						<a href="https://www.thesun.ie/tvandshowbiz/" class="theme__copy-color">
+				TV &amp; Showbiz				<span class="icon icon-arrow-right"></span>
+			</a>
+		</div><!-- .article-data__item .article-data__tag -->
+	
+	
+	<div class="article-data__item article-data__share" data-url="https://www.thesun.ie/tvandshowbiz/2343798/pregnant-rte-star-kathryn-thomas-shows-off-nine-month-baby-bump-as-due-date-approaches/">
+		<a href="https://www.thesun.ie/tvandshowbiz/2343798/pregnant-rte-star-kathryn-thomas-shows-off-nine-month-baby-bump-as-due-date-approaches/">
+			<svg class="article-data__svg article-share" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="5661.3 2202.8 2294.7 1835.8" enable-background="new 5661.3 2202.8 2294.7 1835.8" xml:space="preserve">
+				<path fill="#E92129" d="M7038.1,4038.5v-458.9c0,0-917.9-229.5-1376.8,458.9c0-755.9,620.9-1376.8,1376.8-1376.8v-458.9l917.9,917.9
+				L7038.1,4038.5z" />
+			</svg>
+			<span class="share-count"></span>
+		</a>
+	</div><!-- .article-data__item article-data__share -->
+
+</div><!-- .article-data teaser__social -->
+
+<a class="teaser-anchor" href="https://www.thesun.ie/tvandshowbiz/2343798/pregnant-rte-star-kathryn-thomas-shows-off-nine-month-baby-bump-as-due-date-approaches/"></a>
+
+</div>
+</aside>					</div><!-- .col sun-col-2 -->
+					
+				</div><!-- .sun-row -->
+			
+			 
+<div class="billboard secondary">
+	<div class="sun-row">
+		<div class="col sun-col-6">
+							<div class="dfp-ad" id="billboard2">
+					<script type="text/javascript">
+						document.addEventListener('DOMContentLoaded', function () {
+							googletag.cmd.push( function() {
+								googletag.display( 'billboard2' );
+							} );
+						});
+					</script>
+				</div>
+					</div>
+	</div>
+</div>
+
+		</section><!--. sun-container__article-section theme-sport -->
+
+	</div><!-- .main-content-wrap -->
+
+		<div class="gallery-popup">
+		<a href="#" class="close-gallery"><span class="icon icon-close"></span></a>
+
+		<div class="gallery-image-load-cover"></div>
+		<div class="gallery-container">
+			<div class="swiper-container">
+				<div class="swiper-wrapper"></div>
+
+				<div class="swiper-button-prev"></div>
+				<div class="swiper-button-next"></div>
+			</div><!-- .swiper-container -->
+		</div><!-- .gallery-container -->
+
+		<div class="swiper-caption">
+			<div class="swiper-caption-toggle"><span class="arrow"></span></div>
+
+			<div class="swiper-pagination"></div>
+
+			<span class="swiper-caption-list"></span>
+
+			<div class="sharingButtons social social--gallery">
+					<div class="social-share-buttons">
+		<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-2339954" class="share-facebook sd-button share-icon no-text" href="https://www.thesun.ie/news/2339954/damning-russian-election-rigging-pictures-show-voters-casting-putin-ballots-at-more-than-one-polling-station/?share=facebook" target="_blank" title="Click to share on Facebook"><span></span><span class="sharing-screen-reader-text">Click to share on Facebook (Opens in new window)</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-2339954" class="share-twitter sd-button share-icon no-text" href="https://www.thesun.ie/news/2339954/damning-russian-election-rigging-pictures-show-voters-casting-putin-ballots-at-more-than-one-polling-station/?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-jetpack-whatsapp"><a rel="nofollow" data-shared="" class="share-jetpack-whatsapp sd-button share-icon no-text" href="https://api.whatsapp.com/send?text=Russian%20%E2%80%98election%20rigging%E2%80%99%20pictures%20show%20state%20workers%20casting%20multiple%20votes https%3A%2F%2Fwww.thesun.ie%2Fnews%2F2339954%2Fdamning-russian-election-rigging-pictures-show-voters-casting-putin-ballots-at-more-than-one-polling-station%2F" target="_blank" title="Click to share on WhatsApp"><span></span><span class="sharing-screen-reader-text">Click to share on WhatsApp (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div>	</div>
+				</div>
+		</div><!-- .swiper-caption -->
+	</div><!-- .gallery-popup -->
+
+ 
+<div class="billboard secondary">
+	<div class="sun-row">
+		<div class="col sun-col-6">
+							<div class="dfp-ad" id="billboard2">
+					<script type="text/javascript">
+						document.addEventListener('DOMContentLoaded', function () {
+							googletag.cmd.push( function() {
+								googletag.display( 'billboard2' );
+							} );
+						});
+					</script>
+				</div>
+					</div>
+	</div>
+</div>
+
+<div id="cookie-bar">
+    <div class="sun-row">
+        <div class="col sun-col-6">
+            <p>By continuing to use the site, you agree to the use of cookies. You can change this and find out more by following <a href="http://www.newsprivacy.co.uk/single/">this link</a></p>
+            <a class="accept-cookies">Close</a>
+        </div>
+    </div>
+</div>
+
+</div><!-- .sun-container .theme -->
+
+<div class="dfp-ad" id="pixel">
+	<script type="text/javascript">
+		document.addEventListener('DOMContentLoaded', function () {
+			googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+			googletag.cmd.push( function() {
+				googletag.display( 'pixel' );
+			} );
+		});
+	</script>
+</div>
+<div class="dfp-ad" id="pixelSkin">
+	<script type="text/javascript">
+		document.addEventListener('DOMContentLoaded', function () {
+			googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+			googletag.cmd.push( function() {
+				googletag.display( 'pixelSkin' );
+			} );
+		});
+	</script>
+</div>
+<div class="dfp-ad" id="pixelTeads">
+	<script type="text/javascript">
+		document.addEventListener('DOMContentLoaded', function () {
+			googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+			googletag.cmd.push( function() {
+				googletag.display( 'pixelTeads' );
+			} );
+		});
+	</script>
+</div>
+
+<footer>
+
+	<div class="sun-row">
+		<div class="col sun-col-2 footer-follow">
+			<h3 class="footer-title-follow">Follow The Sun</h3>
+
+			<div class="follow-sun">
+				<a href="https://www.facebook.com/theirishsun/" class="follow-facebook" target="_blank"><span class="icon icon-facebook"></span></a><a href="https://twitter.com/IrishSunOnline" class="follow-twitter" target="_blank"><span class="icon icon-twitter"></span></a>			</div>
+		</div>
+
+		<div class="col sun-col-4 footer-nav">
+			<h3 class="footer-title-services">Services</h3>
+			<ul id="menu-footer-menu" class="menu"><li id="menu-item-256612" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256612"><a href="https://www.thesun.co.uk/sign-up-to-the-sun/">Sign Up To The Sun</a></li>
+<li id="menu-item-256613" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256613"><a href="https://www.thesun.co.uk/terms-and-conditions/">Terms and Conditions</a></li>
+<li id="menu-item-1927570" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1927570"><a href="https://www.thesun.ie/editorial-complaints/">Editorial Complaints</a></li>
+<li id="menu-item-256615" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256615"><a href="https://www.thesun.co.uk/admin/clarifications/">Clarifications and Corrections</a></li>
+<li id="menu-item-256616" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256616"><a href="https://www.thesun.co.uk/syndication/">Syndication</a></li>
+<li id="menu-item-256617" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256617"><a href="http://www.newsukadvertising.co.uk">Advertising</a></li>
+<li id="menu-item-256628" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256628"><a href="https://www.thesun.ie/contact-us/">Contact Us</a></li>
+<li id="menu-item-256619" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256619"><a href="http://help.thesun.co.uk/">Help Hub</a></li>
+</ul>		</div>
+
+		<div class="col sun-col-2 footer-col-dummy"></div>
+
+		<div class="col sun-col-4">
+			<div class="terms">
+				<p>&copy;News Group Newspapers Limited in England No. 679215 Registered office: 1 London Bridge Street, London, SE1 9GF. "The Sun", "Sun", "Sun Online" are registered trademarks or trade names of News Group Newspapers Limited. This service is provided on News Group Newspapers' Limited's <a href="https://www.thesun.co.uk/terms-and-conditions/">Standard Terms and Conditions</a> in accordance with our <a href="http://www.newsprivacy.co.uk/">Privacy &amp; Cookie Policy</a>. To inquire about a licence to reproduce material, visit our <a href="https://www.thesun.co.uk/syndication/">Syndication</a> site. View our online Press Pack. For other inquiries <a href="https://www.thesun.ie/contact-us/">Contact Us</a>. To see all content on The Sun, please use the Site Map. The Sun website is regulated by the <a href="https://www.thesun.co.uk/editorial-complaints/">Independent Press Standards Organisation (IPSO)</a></p>
+			</div>
+		</div>
+	</div><!-- .sun-row -->
+
+</footer>
+
+	<div style="display:none">
+	</div>
+
+<!-- START Parse.ly Include: Standard -->
+<div id="parsely-root" style="display: none">
+  <div id="parsely-cfg" data-parsely-site="thesun.ie"></div>
+</div>
+<script data-cfasync="false">
+(function(s, p, d) {
+  var h=d.location.protocol, i=p+"-"+s,
+      e=d.getElementById(i), r=d.getElementById(p+"-root"),
+      u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+      :"static."+p+".com";
+  if (e) return;
+  e = d.createElement(s); e.id = i; e.async = true;
+  e.setAttribute('data-cfasync', 'false'); e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+})("script", "parsely", document);
+</script>
+<!-- END Parse.ly Include: Standard -->
+		<script type="application/ld+json">
+		{"@context":"http:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.thesun.ie\/news\/2339954\/damning-russian-election-rigging-pictures-show-voters-casting-putin-ballots-at-more-than-one-polling-station\/"},"headline":"Damning Russian \u2018election rigging\u2019 pictures show voters casting Putin ballots at more than one polling sta","url":"http:\/\/www.thesun.ie\/news\/2339954\/damning-russian-election-rigging-pictures-show-voters-casting-putin-ballots-at-more-than-one-polling-station\/","thumbnailUrl":"https:\/\/www.thesun.ie\/wp-content\/uploads\/sites\/3\/2018\/03\/as-comp-triple-vote-1.jpg?strip=all&#038;quality=100&#038;w=750&#038;h=500&#038;crop=1","image":{"@type":"ImageObject","url":"https:\/\/www.thesun.ie\/wp-content\/uploads\/sites\/3\/2018\/03\/as-comp-triple-vote-1.jpg?strip=all&#038;quality=100&#038;w=750&#038;h=500&#038;crop=1","width":750,"height":500},"dateCreated":"2018-03-21T15:55:13Z","datePublished":"2018-03-21T15:55:13+00:00","dateModified":"2018-03-21T17:59:52+00:00","articleSection":"News","author":{"@type":"Person","name":"Jon Lockett"},"publisher":{"@type":"Organization","name":"The Irish Sun","url":"https:\/\/www.thesun.ie","logo":{"@type":"ImageObject","url":"https:\/\/www.thesun.ie\/wp-content\/themes\/theirishsun\/images\/the-sun-structured-data-logo.jpg","width":139,"height":60}},"keywords":["Section: News:World News","Vladimir Putin","Russia"],"description":"The claims come after Putin comfortably extended his rule of Russia for another six years\u00a0 winning 76.67 per cent of the vote - his highest score ever","name":"Damning Russian \u2018election rigging\u2019 pictures show voters casting Putin ballots at more than one polling sta"}		</script>
+			<script>
+		!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+			n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+			document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+		fbq('init', '752905198150451');
+		fbq('track', "PageView");
+	</script>
+
+	<noscript>
+		<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=752905198150451&ev=PageView&noscript=1" />
+	</noscript>
+
+	<script type="text/javascript">
+    var livefyre_auth_loaded = false;
+</script>
+    <script type="text/javascript">
+        var load_livefyre_auth = function() {};
+    </script>
+
+<script type="text/javascript">
+    var networkConfigComments = {
+        network: "thesun.fyre.co"    };
+    var convConfigComments2339954 = {
+        siteId: "333394",
+        articleId: 2339954,
+        el: "livefyre-comments",
+        collectionMeta: "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczpcL1wvd3d3LnRoZXN1bi5pZVwvbmV3c1wvMjMzOTk1NFwvZGFtbmluZy1ydXNzaWFuLWVsZWN0aW9uLXJpZ2dpbmctcGljdHVyZXMtc2hvdy12b3RlcnMtY2FzdGluZy1wdXRpbi1iYWxsb3RzLWF0LW1vcmUtdGhhbi1vbmUtcG9sbGluZy1zdGF0aW9uXC8iLCJ0aXRsZSI6IkRhbW5pbmcgUnVzc2lhbiBcdTIwMThlbGVjdGlvbiByaWdnaW5nXHUyMDE5IHBpY3R1cmVzIHNob3cgdm90ZXJzIGNhc3RpbmcgUHV0aW4gYmFsbG90cyBhdCBtb3JlIHRoYW4gb25lIHBvbGxpbmcgc3RhdGlvbiIsImFydGljbGVJZCI6MjMzOTk1NCwidGFncyI6W10sInR5cGUiOiJsaXZlY29tbWVudHMifQ.crwRGEgGUJ-dBIN0UUOD1kR5m0sC7jfJxA1mO6NF1cY",
+        checksum: "209fbce57bb78871ddb9ed625666493c"    };
+    if (typeof (liveCommentsConfig) !== 'undefined') {
+        convConfigComments2339954 = Livefyre.LFAPPS.lfExtend(liveCommentsConfig, convConfigComments2339954);
+    }
+
+    Livefyre.require(["fyre.conv#3"], function (ConvComments) {
+        load_livefyre_auth();
+        new ConvComments(networkConfigComments,
+                [convConfigComments2339954],
+                function (commentsWidget) {
+                    var livecommentsListeners = Livefyre.LFAPPS.getAppEventListeners('livecomments');
+                    if (livecommentsListeners.length > 0) {
+                        for (var i = 0; i<livecommentsListeners.length; i++) {
+                            var livecommentsListener = livecommentsListeners[i];
+                            commentsWidget.on(livecommentsListener.eventName, livecommentsListener.callback);
+                        }
+                    }
+                }
+        );
+    });
+</script><script type="text/javascript" data-lf-domain="thesun.fyre.co" id="ncomments_js" src="https://cdn.livefyre.com/libs/commentcount/v1.0/commentcount.js"></script>	<script type="text/javascript">
+		window._taboola = window._taboola || [];
+		_taboola.push({flush: true});
+	</script>
+	
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/www.thesun.ie\/news\/2339954\/damning-russian-election-rigging-pictures-show-voters-casting-putin-ballots-at-more-than-one-polling-station\/":2339954};
+	</script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201812'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2018Maraa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.thesun.ie/wp-content/mu-plugins/jetpack/modules/wpgroho.js?m=1491538261g'></script>
+<script type='text/javascript' src='//player.ooyala.com/static/v4/production/latest/core.min.js?ver=v4'></script>
+<script type='text/javascript' src='//player.ooyala.com/static/v4/production/latest/skin-plugin/html5-skin.min.js?ver=v4'></script>
+<script type='text/javascript' src='//player.ooyala.com/static/v4/production/latest/video-plugin/main_html5.min.js?ver=v4'></script>
+<script type='text/javascript' src='//player.ooyala.com/static/v4/production/latest/video-plugin/osmf_flash.min.js?ver=v4'></script>
+<script type='text/javascript' src='//player.ooyala.com/static/v4/production/latest/ad-plugin/google_ima.min.js?ver=v4'></script>
+<script type='text/javascript' src='//sb.scorecardresearch.com/c2/plugins/streamingtag_plugin_ooyalav4.js?ver=4.9.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thesun_main_settings = {"loginlink":"https:\/\/login.thesun.co.uk"};
+var galleryData = [{"img":"https:\/\/www.thesun.ie\/wp-content\/uploads\/sites\/3\/2018\/03\/nintchdbpict000393751721-1.jpg?strip=all&quality=100&w=960","caption":"This woman - a state health official - was spotted voting three times","credit":"Reuters"},{"img":"https:\/\/www.thesun.ie\/wp-content\/uploads\/sites\/3\/2018\/03\/nintchdbpict000393751708-1.jpg?strip=all&quality=100&w=960","caption":"Journalists uncovered a loophole which allows people to vote in more than one location","credit":"Reuters"},{"img":"https:\/\/www.thesun.ie\/wp-content\/uploads\/sites\/3\/2018\/03\/nintchdbpict000393751693-1.jpg?strip=all&quality=100&w=960","caption":"This man in a hat was spotted casting his vote at separate polling stations","credit":"Reuters"},{"img":"https:\/\/www.thesun.ie\/wp-content\/uploads\/sites\/3\/2018\/03\/nintchdbpict000393751697-1.jpg?strip=all&quality=100&w=960","caption":"Voting twice is a misdemeanour under Russian law and those caught are heavily fined","credit":"Reuters"},{"img":"https:\/\/www.thesun.ie\/wp-content\/uploads\/sites\/3\/2018\/03\/nintchdbpict000393751704-1.jpg?strip=all&quality=100&w=960","caption":"Reporters monitored 12 polling stations around the vast country","credit":"Reuters"}];
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thesunOoyalaSettings = {"pcode":"5nbWk6UPHAPHIpkunRhFyQE8fR1e","playerBrandingId":"NDcyOWI0M2YyMDdkN2YwODU5Mzc5MDUz","skinUrl":"\/\/player.ooyala.com\/static\/v4\/production\/latest\/skin-plugin\/skin.json"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.thesun.ie/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS0GUcWlefpZxfrF5ZkFqUV6uZl5elnFOvr4lOYmEqGoLDMlNZ+gqtTcpNSUYqAy+1xbQ1NDS2MDYyNDkywAVDI+CQ=='></script>
+<script type='text/javascript' async="async" defer src='//s.skimresources.com/js/34784X1028065.skimlinks.js?ver=4.9.4'></script>
+<script type='text/javascript' src='https://www.thesun.ie/wp-content/themes/thesun/js/gsa.js?m=1502364676g'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var opta_settings = {"subscription_id":"6b7abd03b9bef15d0461b05b0cc5d8a4","language":"en_GB","timezone":"Europe\/London"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://secure.widget.cloud.opta.net/v3/v3.opta-widgets.js?ver=4.9.4'></script>
+<script type='text/javascript' async="async" src='https://prod-sunbets-widgets.s3-eu-west-1.amazonaws.com/static/sunbet/betsense.min.js?ver=4.9.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.thesun.ie/_static/??/wp-includes/js/wp-embed.min.js,/wp-content/mu-plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?m=1520455700j'></script>
+<script type='text/javascript'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-twitter', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+</script>
+<script type='text/javascript' src='https://stats.wp.com/e-201812.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.9',blog:'120996491',post:'2339954',tz:'0',srv:'www.thesun.ie'} ]);
+	_stq.push([ 'clickTrackerInit', '120996491', '2339954' ]);
+</script>
+<script src="https://ap.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=247572" id="sBeacon" async></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"3aaf38205d","applicationID":"44435850","transactionName":"NlJSYUIEXhdTBkUPXQ8YcVZEDF8KHRZYCFUUW1FH","queueTime":0,"applicationTime":150,"atts":"GhVFFwoeTUgQBBNcSRxK","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

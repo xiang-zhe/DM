@@ -1,0 +1,855 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 7]>      <html dir="ltr" lang ="en" data-theme="france24" data-locale="en" data-locale-long="en_US" data-locale-name="English (United States)" data-locale-facebook="en_US" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html dir="ltr" lang ="en" data-theme="france24" data-locale="en" data-locale-long="en_US" data-locale-name="English (United States)" data-locale-facebook="en_US" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html dir="ltr" lang ="en" data-theme="france24" data-locale="en" data-locale-long="en_US" data-locale-name="English (United States)" data-locale-facebook="en_US" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html dir="ltr" lang ="en" data-theme="france24" data-locale="en" data-locale-long="en_US" data-locale-name="English (United States)" data-locale-facebook="en_US" class="no-js"> <!--<![endif]-->
+
+<head>
+                
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>Indonesian&#x20;villagers&#x20;dump&#x20;waste&#x20;on&#x20;couple&#x20;suspected&#x20;of&#x20;&#x27;promiscuity&#x27;</title>
+                                                        <meta name="title" content="Indonesian&#x20;villagers&#x20;dump&#x20;waste&#x20;on&#x20;couple&#x20;suspected&#x20;of&#x20;&#x27;promiscuity&#x27;"/>
+                                                        <meta name="description" content="Follow&#x20;international&#x20;news&#x20;through&#x20;our&#x20;Observers&#x27;&#x20;amateur&#x20;images&#x20;and&#x20;eyewitness&#x20;testimony.&#x20;All&#x20;the&#x20;content&#x20;is&#x20;verified&#x20;and&#x20;explained&#x20;by&#x20;our&#x20;journalists."/>
+                                                        <meta property="fb:app_id" content="121241974571942"/>
+                                    <meta property="og:url" content="http://observers.france24.com/en/20180319-indonesia-waste-couple-sex-marriage-sharia"/>
+                                                        <meta property="og:title" content="Indonesian&#x20;villagers&#x20;dump&#x20;waste&#x20;on&#x20;couple&#x20;suspected&#x20;of&#x20;&#x27;promiscuity&#x27;"/>
+                                                        <meta property="og:description" content="Follow&#x20;international&#x20;news&#x20;through&#x20;our&#x20;Observers&#x27;&#x20;amateur&#x20;images&#x20;and&#x20;eyewitness&#x20;testimony.&#x20;All&#x20;the&#x20;content&#x20;is&#x20;verified&#x20;and&#x20;explained&#x20;by&#x20;our&#x20;journalists."/>
+                                                        <meta property="og:site_name" content="The&#x20;France&#x20;24&#x20;Observers"/>
+                                                        <meta property="og:type" content="article"/>
+                                    <meta property="og:image" content="http://scd.observers.france24.com/files/imagecache/1024x576/article_images/indonsie.teaser.jpg"/>
+                                    <meta property="og:image:type" content="image/png"/>
+                                                        <meta property="og:locale" content="en_US"/>
+                                    <meta name="twitter:url" content="http://observers.france24.com/en/20180319-indonesia-waste-couple-sex-marriage-sharia"/>
+                                                        <meta name="twitter:title" content="Indonesian&#x20;villagers&#x20;dump&#x20;waste&#x20;on&#x20;couple&#x20;suspected&#x20;of&#x20;&#x27;promiscuity&#x27;"/>
+                                                        <meta name="twitter:description" content="Follow&#x20;international&#x20;news&#x20;through&#x20;our&#x20;Observers&#x27;&#x20;amateur&#x20;images&#x20;and&#x20;eyewitness&#x20;testimony.&#x20;All&#x20;the&#x20;content&#x20;is&#x20;verified&#x20;and&#x20;explained&#x20;by&#x20;our&#x20;journalists."/>
+                                                        <meta name="twitter:account_id" content="16525183"/>
+                                                        <meta name="twitter:domain" content="Observers.france24.com"/>
+                                                        <meta name="twitter:creator" content="&#x40;Observers"/>
+                                                        <meta name="twitter:site" content="&#x40;Observers"/>
+                                    <meta name="twitter:image" content="http://scd.observers.france24.com/files/imagecache/1024x576/article_images/indonsie.teaser.jpg"/>
+                                                        <meta name="twitter:card" content="summary_large_image"/>
+    
+
+        
+<link rel="apple-touch-icon" sizes="57x57" href="/france24-apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/france24-apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/france24-apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/france24-apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/france24-apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/france24-apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/france24-apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/france24-apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/france24-apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/france24-android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest_en.json">
+
+                
+            <link rel="alternate" href="http://observers.france24.com/ar/20180319-إندونيسيا-آتشيه-قرويون-مجاري-إذلال-علني-أخلاق-شريعة" hreflang="ar"/>
+            <link rel="alternate" href="http://observers.france24.com/fr/20180314-indonesie-couple-adultere-aceh-video" hreflang="fr"/>
+    
+
+                <link rel="stylesheet" href="/dist/css/vendor.a82338e3b860050b.css" media="all">
+        <link rel="stylesheet" href="/dist/css/app.6b89142b15230a4e.css" media="all">
+                        <script type="application/javascript">
+    window.appEnv = {};
+        window.appEnv['context'] = 'prod';
+        window.appEnv['brand'] = 'france24';
+        window.appEnv['environment'] = 'france24_prod';
+            window.janrainEnabled = true;
+    </script>
+        <script class='tms-config-vars' type="text/javascript">
+        var tms_vars = {};
+                        tms_vars["site"] = 'f24\x2Dmcd\x2Drfi';
+                tms_vars["aef_marque"] = 'france24';
+                tms_vars["aef_acces"] = 'gratuit';
+                tms_vars["aef_plateforme"] = '';
+                tms_vars["aef_type_environnement"] = 'site';
+                tms_vars["aef_nom_environnement"] = 'observateurs_site';
+                tms_vars["aef_perimetre_diffusion"] = 'interne';
+                tms_vars["page"] = 'tc_name_fmm_obs_front_article';
+                tms_vars["url provenance"] = '';
+                tms_vars["env_context"] = 'main';
+                tms_vars["tid"] = '';
+                tms_vars["tagName"] = '';
+                tms_vars["tagEncodedName"] = '';
+                tms_vars["locale"] = 'en';
+                tms_vars["aef_pos_contenu"] = '';
+                tms_vars["aef_os"] = '';
+                tms_vars["aef_device_marque"] = '';
+                tms_vars["aef_device_modele"] = '';
+                tms_vars["aef_type_connexion"] = '';
+                tms_vars["aef_domaine_externe"] = '';
+                tms_vars["aef_url_provenance"] = 'http\x3A\x2F\x2Fm.facebook.com';
+                tms_vars["aef_page_provenance"] = '';
+                tms_vars["aef_user_id"] = '';
+                tms_vars["aef_synchro"] = '';
+                tms_vars["aef_auteur"] = 'Team\x20Observers';
+                tms_vars["aef_dpubli"] = '2018\x2D03\x2D19';
+                tms_vars["aef_hpubli"] = '16\x3A18';
+                tms_vars["repertoire"] = 'INDONESIA';
+                tms_vars["nom-page"] = 'content\x2F20180319\x2Dindonesia\x2Dwaste\x2Dcouple\x2Dsex\x2Dmarriage\x2Dsharia';
+                tms_vars["aef_libelle_contenu_page"] = 'Indonesian\x20villagers\x20dump\x20waste\x20on\x20couple\x20suspected\x20of\x20\x27promiscuity\x27';
+                tms_vars["aef_id_contenu"] = 'WB694677\x2DOBS\x2DEN\x2D20180319';
+                tms_vars["aef_rep1"] = 'INDONESIA';
+                tms_vars["aef_rep2"] = 'defaut';
+                tms_vars["aef_rep3"] = 'defaut';
+                tms_vars["aef_rep_global"] = 'observateurs';
+                tms_vars["aef_thema"] = '';
+                tms_vars["aef_type_page1"] = 'article';
+                tms_vars["aef_langue"] = 'anglais';
+                tms_vars["sous-repertoire"] = '';
+                tms_vars["sous-sous-repertoire"] = 'defaut';
+                tms_vars["aef_user_connection"] = 'visiteur';
+                tms_vars["aef_type_page2"] = 'article';
+                tms_vars["aef_type_contenu1"] = 'article';
+                tms_vars["aef_section1"] = 'article';
+                tms_vars["aef_section2"] = 'observateurs';
+                tms_vars["markup_ftp"] = 'observateurs';
+                tms_vars["env_work"] = 'france24_prod';
+        tms_vars["aef_version_environnement"] = 'v0.0.60-6-ga03c1ed';
+        var tc_vars = {};
+        window.tc_vars = tms_vars;
+            </script>
+
+                
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":"True","url":"http:\/\/observers.france24.com\/en\/20180319-indonesia-waste-couple-sex-marriage-sharia","headline":"Indonesian villagers dump waste on couple suspected of 'promiscuity'","image":{"@type":"ImageObject","url":"http:\/\/scd.observers.france24.com\/files\/imagecache\/1024x576\/article_images\/indonsie.teaser.jpg","width":"1024","height":"576"},"keywords":[""],"datePublished":"2018-03-19T17:18:22Z","dateModified":"2018-03-19T18:41:34Z","articleSection":"","creator":"Djamel Belayachi","author":"Djamel Belayachi","publisher":{"@type":"Organization","name":"France 24","url":"https:\/\/plus.google.com\/116536894056162235467\/","logo":{"@type":"ImageObject","url":"http:\/\/static.france24.com\/meta_og_twcards\/jsonld_publisher.png","width":"1200","height":"1200"}}}</script>
+
+    </head>
+<body class="cbp-spmenu-push">
+
+<div id="header">
+                                            
+    <nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left" id="cbp-spmenu-s1">
+                                <a href="http://observers.france24.com/en/" >Home</a>
+                                <a href="http://observers.france24.com/en/contribute" >Become an Observer</a>
+                                <a href="http://observers.france24.com/en/articles-observers/0/" >All articles</a>
+                                <a href="http://observers.france24.com/en/observers-take-action/most-recents/0/" >Observers Take Action</a>
+                                <a href="http://observers.france24.com/en/tag/fake" >Debunked</a>
+                                <a href="http://observers.france24.com/en/videos/the-observers/0/" >The Observers</a>
+                                <a href="http://observers.france24.com/en/videos/observers-direct/0/" >Observers Direct</a>
+                                <a href="http://observers.france24.com/en/videos/raw-videos/0/" >Raw videos</a>
+                                <a href="http://observers.france24.com/en/static/about" >About</a>
+                                <a href="http://observers.france24.com/en/static/how-to" >Tutorials</a>
+                <div class="langage-mobile">
+                                            <p class="navbar-textt">
+                    <a href="http://observers.rfi.fr/fa/" class="navbar-link">
+                        فارسی
+                    </a>
+                </p>
+                                            <p class="navbar-textt">
+                    <a href="http://observers.france24.com/ar/" class="navbar-link">
+                        عربي
+                    </a>
+                </p>
+                                            <p class="navbar-textt">
+                    <a href="http://observers.france24.com/en/" class="navbar-link">
+                        English
+                    </a>
+                </p>
+                                            <p class="navbar-textt">
+                    <a href="http://observers.france24.com/fr/" class="navbar-link">
+                        Français
+                    </a>
+                </p>
+                    </div>
+    </nav>
+
+    <nav class="navbar navbar-inverse navbar-fixed-top hidden-xs">
+        <div class="container">
+            <ul class="nav navbar-nav hamburger">
+                <li role="presentation" class="dropdown">
+                    <div id="showLeftPush">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </div>
+                </li>
+            </ul>
+
+            
+
+    <ul class="search-toggle navbar-form navbar-left inline-form searchform hidden-xs">
+        <li>
+            <a class="glyphicon glyphicon-search icon-search-mobile" href="#"></a>
+            <ul class="search-dropdown">
+                <li>
+                    <form action="http://observers.france24.com/en/search/" method="GET">
+                        <div class="input-group stylish-input-group">
+                            <input type="text"
+                                   name="text"
+                                   value=""
+                                   class="form-control"
+                                   placeholder="Search"
+                                   required="true">
+                            <span class="input-group-addon">
+                                <button type="submit">
+                                    <span class="glyphicon glyphicon-search"></span>
+                                </button>
+                            </span>
+                        </div>
+                    </form>
+                </li>
+            </ul>
+        </li>
+    </ul>
+
+            <p class="navbar-text">
+                <a href="#" data-user="signin" class="active navbar-link hidden-xs signin-text">
+                    Become an Observer / Log in
+                </a>
+            </p>
+            <ul class="nav navbar-nav connected navbar-link" data-user="connected">
+                <li class="dropdown" role="connected">
+                    <a aria-expanded="false" role="button" href="#" data-toggle="dropdown" class="dropdown-toggle user">
+                        <span class="blockUserConnected">
+                            <div class="glyphicon glyphicon-user" alt="Avatar User"></div>
+                            <span class="userConnected">  Hello , <span class="userName" id="displayName"></span></span>
+                            <span class="caret"></span>
+                        </span>
+                    </a>
+                    <a class="contribute-botton btn btn-default blue contribute" href="/en/contribute">
+                         Contribute 
+                    </a>
+
+                                                                                    <ul role="menu" class="dropdown-menu" style="display: none;">
+                        <li class="active">
+                            <a href="#" data-user="editProfile"><i class="fa fa-caret-right" data-user="editProfile"></i> My profile </a>
+                        </li>
+                        <li>
+                            <a href="/en/contribute"><i class="fa fa-caret-right"></i> Contribute </a>
+                        </li>
+                        <li>
+                            <a href="#" data-user="signout"><i class="fa fa-caret-right" data-user="signout"></i> Logout </a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+
+            <ul class="nav navbar-nav sitesFMM hidden-xs">
+                <li role="siteFMM" class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                         France Médias Monde sites 
+                    </a>
+                                            <ul class="dropdown-menu" role="menu">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li>
+                                        <a href="http://www.france24.com/en" target="_blank"><i class="fa fa-caret-right"></i>France 24</a>
+                                    </li>
+                                                                                                                                <li>
+                                        <a href="http://www.rfi.fr/" target="_blank"><i class="fa fa-caret-right"></i>RFI</a>
+                                    </li>
+                                                                                                                                <li>
+                                        <a href="http://www.rfimusique.com" target="_blank"><i class="fa fa-caret-right"></i>RFI Musique</a>
+                                    </li>
+                                                                                                                                <li>
+                                        <a href="http://www.mc-doualiya.com/" target="_blank"><i class="fa fa-caret-right"></i>Monte Carlo Doualiya</a>
+                                    </li>
+                                                                                                                                                                                            <li>
+                                        <a href="http://www.francemediasmonde.com/" target="_blank"><i class="fa fa-caret-right"></i>France Médias Monde</a>
+                                    </li>
+                                                                                    </ul>
+                                    </li>
+            </ul>
+
+            <div class="langage hidden-xs hidden-sm">
+                                                        <p class="navbar-text pull-right">
+                        <a href="http://observers.rfi.fr/fa/" class="navbar-link">
+                            فارسی
+                        </a>
+                    </p>
+                                                        <p class="navbar-text pull-right">
+                        <a href="http://observers.france24.com/ar/" class="navbar-link">
+                            عربي
+                        </a>
+                    </p>
+                                                        <p class="navbar-text pull-right">
+                        <a href="http://observers.france24.com/en/" class="navbar-link">
+                            English
+                        </a>
+                    </p>
+                                                        <p class="navbar-text pull-right">
+                        <a href="http://observers.france24.com/fr/" class="navbar-link">
+                            Français
+                        </a>
+                    </p>
+                            </div>
+
+        </div>
+    </nav>
+
+    <nav class="navbar navbar-default navbar-fixed-top visible-xs">
+        <div class="container">
+
+            <ul class="nav navbar-nav hamburger">
+                <li role="presentation" class="dropdown">
+                    <div id="showLeftPush2">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </div>
+                </li>
+            </ul>
+
+                                                                                                                                <a href="http://www.france24.com/en/" class="logoSprites en logoF24" target="_blank"></a>
+                                                                                                                                <a href="http://observers.france24.com/en/" class="logoSprites en logoOBS" target="_self"></a>
+                                                                                            <a href="http://observers.france24.com/en" class="logoSprites en" target="_self"></a>
+                                                                                            <a href="https://www.facebook.com/FRANCE24.Observers" class="logoSprites en" target="_blank"></a>
+                                                                                            <a href="https://twitter.com/Observers" class="logoSprites en" target="_blank"></a>
+                                                                                            <a href="https://plus.google.com/116332251954093536353" class="logoSprites en" target="_blank"></a>
+                                                                                            <a href="http://www.youtube.com/channel/UCZKNTgzf0VIUAIDpmXMOCpg" class="logoSprites en" target="_blank"></a>
+                                                                                            <a href="http://observers.france24.com/en/rss/general" class="logoSprites en" target="_blank"></a>
+                                                                                            <a href="http://observers.france24.com/en/#" class="logoSprites en" target="#"></a>
+                                                                                            <a href="http://www.france24.com/en" class="logoSprites en" target="_blank"></a>
+                                                                                            <a href="http://www.rfi.fr/" class="logoSprites en" target="_blank"></a>
+                                                                                            <a href="http://www.rfimusique.com" class="logoSprites en" target="_blank"></a>
+                                                                                            <a href="http://www.mc-doualiya.com/" class="logoSprites en" target="_blank"></a>
+                                                                                            <a href="http://observers.france24.com/en/#" class="logoSprites en" target="_blank"></a>
+                                                                                            <a href="http://www.francemediasmonde.com/" class="logoSprites en" target="_blank"></a>
+            
+            <a href="#" data-user="signin" class="userIcon navbar-link active">
+                <i class="glyphicon glyphicon-user pull-right"></i>
+            </a>
+
+
+            <a href="#" data-user="connected" class="userIcon mobile navbar-link" id="userIconeMobile">
+                <i class="glyphicon glyphicon-user pull-right"></i>
+                <span class="caret mobile" data-user="connected"></span>
+            </a>
+
+
+            <div class="container-mobile" data-user="connected">
+                                                                    <ul id="dropdown-menu-mobile" role="menu" class="dropdown-menu" style="display: none;">
+                    <li class="active">
+                        <a href="#" data-user="editProfile" class="edit-profile-mobile"><i class="fa fa-caret-right" data-user="editProfile"></i> My profile </a>
+                    </li>
+                    <li>
+                        <a href="/en/contribute" class="contribute-mobile"><i class="fa fa-caret-right"></i> Contribute </a>
+                    </li>
+                    <li>
+                        <a href="#" data-user="signout"><i class="fa fa-caret-right" data-user="signout" class="signout-mobile"></i> Logout </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    </div>
+
+<div id="cachePopup">
+    </div>
+
+<div id="globalContainer">
+    
+    
+    
+
+<section class="section-top hidden-xs">
+    <div class="container">
+        <div class="row">
+                                                                                                                    <div class="col-sm-1 col-lg-1 block-logo-f24">
+                        <a href="http://www.france24.com/en/" class="logoSprites en logoF24" target="_blank"></a>
+                    </div>
+                                                                                                                                                                                    <div class="col-sm-4 col-md-4 col-lg-3">
+                        <a href="http://observers.france24.com/en/" class="logoSprites en logoOBS" target="_self"></a>
+                    </div>
+                                                                                                                                                                <div class="col-sm-4 col-lg-4">
+                        <h2>Film, Verify, Share</h2>
+                    </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+            <div class="col-sm-2 col-md-3 col-lg-4 socialIconsHeader hidden-sm">
+                <a href="https://www.facebook.com/FRANCE24.Observers" target="_blank" class="btn btn-social-icon btn-social"><i class="fa fa-facebook"></i></a><a href="https://twitter.com/Observers" target="_blank" class="btn btn-social-icon btn-social"><i class="fa fa-twitter"></i></a><a href="https://plus.google.com/116332251954093536353" target="_blank" class="btn btn-social-icon btn-social"><i class="fa fa-google-plus"></i></a><a href="http://www.youtube.com/channel/UCZKNTgzf0VIUAIDpmXMOCpg" target="_blank" class="btn btn-social-icon btn-social"><i class="fa fa-youtube"></i></a><a href="http://observers.france24.com/en/rss/general" target="_blank" class="btn btn-social-icon btn-social"><i class="fa fa-rss"></i></a>            </div>
+        </div>
+    </div>
+</section>
+    
+
+        <section class="section-single-news-top noPaddingTop">
+        <div class="container">
+            <div class="row">
+                <article class="col-sm-12 noGutterMobile">
+                    <div class="link-news">
+                        <div class="block-image">
+                                                                                                                        
+
+
+<div class="socialIconsArticles hidden-xs">
+            <ul>
+                            <li>
+                                                                    <a href="#" class="btn btn-social-icon btn-facebook">
+                            <i class="fa fa-facebook" data-href="http://f24.my/2gjQ.F" data-callback="trackingSocial.fb_tracker" data-title="Indonesian villagers dump waste on couple suspected of &#039;promiscuity&#039;"></i>
+                        </a>
+                                    </li>
+                            <li>
+                                                                    <a href="#" class="btn btn-social-icon btn-twitter">
+                            <i class="fa fa-twitter" data-href="http://f24.my/2gjQ.T" data-callback="trackingSocial.tt_tracker" data-title="Indonesian villagers dump waste on couple suspected of &#039;promiscuity&#039;"></i>
+                        </a>
+                                    </li>
+                            <li>
+                                                                    <a href="#" class="btn btn-social-icon btn-google-plus">
+                            <i class="fa fa-google-plus" data-href="http://f24.my/2gjQ.G" data-callback="trackingSocial.gg_tracker" data-title="Indonesian villagers dump waste on couple suspected of &#039;promiscuity&#039;"></i>
+                        </a>
+                                    </li>
+            
+                            <li class="shares-count">
+                    <span class="shares-count-sm">40</span>
+                </li>
+                    </ul>
+        </div>
+
+                                                        <figure class="ratio-16x8-height top-article">
+        <img data-image-nid="WB694677-OBS-EN-20180319"
+         data-image-src="http://scd.observers.france24.com/files/imagecache/1024x576/article_images/indonsie.teaser.jpg"
+         data-image-loaded="false"            class="image-transition image-toload"         alt="">
+            <noscript>
+            <img src="http://scd.observers.france24.com/files/imagecache/1024x576/article_images/indonsie.teaser.jpg"
+                 alt=""
+                 class="ratio-16x8-height top-article">
+        </noscript>
+        </figure>
+
+                        </div>
+                    </div>
+                </article>
+            </div>
+        </div>
+                        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <span class="author pull-right">Screengrabs of several videos shows villagers dumping a bucket of waste water on a couple suspected of having sex before marriage. </span>
+                </div>
+            </div>
+        </div>
+            </section>
+
+    
+
+    <section class="section-single-news-content noPaddingTop">
+        <div class="container">
+            <div class="row">
+                <article class="col-sm-offset-1 col-sm-10" data-main-nid="WB694677-OBS-EN-20180319">
+                    <!-- <article class="col-sm-12"> -->
+                    <div class="link-news">
+                                                
+
+    <div class="news-meta first-title">
+            <span class="date">- 03/19/2018</span>    <h3>Indonesian villagers dump waste on couple suspected of 'promiscuity'</h3>
+</div>
+
+        
+
+
+<div class="socialIconsArticlesBottom hidden-sm hidden-md hidden-lg">
+            <ul>
+                            <li>
+                                                                    <a href="#" class="btn btn-social-icon btn-facebook">
+                            <i class="fa fa-facebook" data-href="http://f24.my/2gjQ.F" data-callback="trackingSocial.fb_tracker" data-title="Indonesian villagers dump waste on couple suspected of &#039;promiscuity&#039;"></i>
+                        </a>
+                                    </li>
+                            <li>
+                                                                    <a href="#" class="btn btn-social-icon btn-twitter">
+                            <i class="fa fa-twitter" data-href="http://f24.my/2gjQ.T" data-callback="trackingSocial.tt_tracker" data-title="Indonesian villagers dump waste on couple suspected of &#039;promiscuity&#039;"></i>
+                        </a>
+                                    </li>
+                            <li>
+                                                                    <a href="#" class="btn btn-social-icon btn-google-plus">
+                            <i class="fa fa-google-plus" data-href="http://f24.my/2gjQ.G" data-callback="trackingSocial.gg_tracker" data-title="Indonesian villagers dump waste on couple suspected of &#039;promiscuity&#039;"></i>
+                        </a>
+                                    </li>
+            
+                            <li class="shares-count">
+                    <span class="shares-count-sm">40</span>
+                </li>
+                    </ul>
+        </div>
+
+<div class="clearfix"></div>
+
+                        <div class="col-sm-12 postContent">
+                                                        
+
+<aside class="col-sm-5 col-md-5 col-lg-4 hidden-xs sidebar">
+    
+
+<div class="link-connect">
+    <h2> Become   an Observer </h2>
+    <div class="custom-user-connect-button">
+        <button class="btn btn-default custom-connect active" data-user="signin"> Login </button>
+        <button class="btn btn-default custom-connect" data-user="signout"> Logout </button>
+        <a class="btn btn-default blue-btn-contribute active" href="/en/contribute" role="button"> Contribute </a>
+        <abbr title="To contribute to the Observers website, you must be logged in. You must therefore log in with your password or sign up to create an account." class="infoIcon"></abbr>
+    </div>
+    <a href="#" class="forgotPassword active" data-user="signin"> Forgot your password? </a>
+</div>
+
+    
+
+
+<div class="tms-block"
+     data-pos="1"
+     data-type="pave"
+     data-location="content"
+     data-expand="true"
+     data-loaded="false">
+</div>
+
+
+</aside>
+
+                                                        
+
+        <div class="col-lg-offset-1 col-lg-6 col-md-offset-0 col-md-6 col-sm-offset-0 col-sm-6 observateurBandeau">
+        <div class="titleUserObservateur">Observers</div>
+        <div class="blockUsersObservateurs">
+                            
+
+
+                                    <div class="col-sm-6 col-xs-6 media blockUserAvatar">
+        <div class="media-left block-image">
+            <a href="/en/contributor/395350" title="Team&#x20;Observers">                                <figure class="ratio-1x1 author-avatar userAvatar">
+                                            <img src="http://scd.observers.france24.com/files/user_avatars/OBS_F24_GPLUS_YT.png" alt="Team&#x20;Observers">
+                                    </figure>
+            </a>        </div>
+        <div class="media-body media-middle">
+            <a href="/en/contributor/395350">                <h4 class="media-heading userName">
+                                                                Team Observers
+                                    </h4>
+                                <span class="viewProfile">See profile</span>
+            </a>        </div>
+            </div>
+
+                        <div class="clearfix"></div>
+        </div>
+    </div>
+
+                                                        
+
+<div class="description">
+            <p></p>        <div><p><strong>A video has emerged of a group of people in a village in Indonesia dragging a young man and his girlfriend out of his home, forcing them in front of a sewer drain and then dumping waste water on their heads. This public humiliation took place on March 7 in the Indonesian province of Aceh.</strong></p><p>The two victims were accused of being alone together in a room despite being unmarried, which is forbidden by sharia law, an Islamic law code which is enforced in Aceh, a northern province on the island of Sumatra. While an official morality police force called the Wilayatul Hisbah is responsible for enforcing these laws in the region, it is often civilians who take it upon themselves to enforce them.</p><p>Several men used smartphones to film the public humiliation that took place in Kayee Lee, a village in the administrative subdivision of Ingin Jaya. The footage shows a young man wearing jeans and a brown T-shirt sitting in front of a sewer drain with his head bowed. Next to him sits a young woman wearing a headscarf and clutching a pink bag. The crowd heckles the two victims.</p><p>"What you did is against Islam! This should serve as a lesson for you!” some shout.</p><p>Then, one of the young men in the crowd dumps a bucket of wastewater on the couple (photo below).</p><p><br/></p>        
+
+        <!-- emRender : -->
+        
+                                                <!-- PRODUCT FOUND : WB694674-OBS-EN-20180319 -->
+    
+                        <div class="em-block em-width-full em-orientation-center photo-material em-type-image" data-bo-type="em" data-bo-nid="WB694674-OBS-EN-20180319">
+                        <figure class="bd">
+                                    <img src="http://scd.observers.france24.com/files/imagecache/observers_full_width/rfi_multimedia_element_image/couple3.png" alt="">
+                                <figcaption></figcaption>
+            </figure>
+        </div>
+    <p><br/><em><span></em></p>        
+
+    <!-- emRender : -->
+        
+                            <!-- PRODUCT NOT FOUND : 694675 -->
+    <p><em></span><span style="font-size:smaller">Screengrab of a video that was widely shared on social media in Indonesia.</span></em></p><p>When the police arrived on the scene a few minutes later, they let the young couple wash off in a nearby stream, then brought them to the police station where the morality police are headquartered.</p><p><br/><span style="font-size:smaller"></p>        
+
+    <!-- emRender : -->
+        
+                            <!-- PRODUCT NOT FOUND : 694676 -->
+    <p><em>Screengrab of a video showing the young couple washing off in a stream.</em></span><br/> </p><p>When questioned by the local press, Ingin Jaya’s Chief of Police, Nazarul Fitra, said that the girl, who is 18, went over to her boyfriend’s house, who was home alone. The neighbours thought they were probably there to have sex outside of marriage and forced them out of the house.</p><p>The chief of police said that the couple were taken to the headquarters of the morality police, who will carry out an investigation to determine if they did engage in the crime of “promiscuity". In Aceh province, this crime (known as khalwat) is punishable by 100 lashes with a cane and a fine equivalent to 150 grams of gold or, if they can’t pay, 15 months in prison.</p></div></div>
+            <p class="lead">"It’s really dangerous to let people act however they want”</p>        <div class="temoignages">
+            <div class="col-sm-12 col-xs-14">
+                                
+
+
+
+                <div><p>Our Observer, a human rights activist in Aceh province, is worried that the authorities aren’t keeping a check on these community groups that take it upon themselves to enforce their vision of morality. For security reasons, our Observer wanted to remain anonymous.</p><blockquote class="quote"><p>“The people who humiliated the couple didn’t get in trouble at all. The police didn’t criticise these people, even though they entered a private home illegally and humiliated the couple in public.</p><p>Even though there is an official religious police force, there are more and more of these civilian groups that proclaim themselves enforcers of morality.</p><p>This event got a lot of media coverage because it was filmed by residents and widely shared on social media. But not a week goes by when there isn’t a group of zealous residents that take it upon themselves to enforce virtue.</p><p>As recently as March 12, a group of civilians <a target="_blank" href="http://coconuts.co/jakarta/news/moral-vigilantes-aceh-raid-salon-turn-man-transwoman-inside-religious-police/">descended on a hair salon</a> run by a transgender person. They captured the manager and a customer who they accused of being a prostitute. The two victims were later brought to the offices of the morality police.</p></blockquote><p><br/><em><strong>&gt;&gt; READ ON THE OBSERVERS: <a href="http://observers.france24.com/en/20171120-indonesian-villagers-strip-publicly-humiliate-couple">Indonesian villagers humiliate couple forced to strip in public</a></strong></em></p><p>In 2011, the Indonesian government granted Aceh province a special autonomous status that allows it to enforce sharia law. But even though it is the only province where Islamic law is officially applied, it’s not the only place in Indonesia where civilian groups band together to enforce their vision of virtuous behavior.</p> In October 2017, villagers in Banten province <a target="_blank" href="http://observers.france24.com/en/20171120-indonesian-villagers-strip-publicly-humiliate-couple">made the news</a> for forcing a couple suspected of having sex outside of marriage to walk down the street half-naked.</div>                <div class="clearfix"></div>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    
+                                                        
+
+                    <div class="temoignages container-user-block">
+            <div class="col-lg-offset-3 col-lg-6 col-sm-offset-2 col-sm-8 col-xs-offset-1 col-xs-10 observateurBandeau observateurBandeauBottom">
+                <div class="blockUsersObservateurs">
+                    <div class="diamond"></div>
+                    <div class="col-sm-5 col-xs-12 collaborate">
+                        Article written with
+                    </div>
+                    <div class="col-sm-7 col-xs-12 media blockUserAvatar">
+                                                <div class="media-body media-middle col-sm-offset-0 col-sm-8 col-xs-offset-1 col-xs-10 authors-infos">
+                            <h4 class="media-heading userName">
+                                Djamel Belayachi
+                                , Journaliste                            </h4>
+                                                                                        <a class="btn btn-default twitter btn-lg" href="https://twitter.com/@DjamelBelayachi" target="_blank">
+                                    <span aria-hidden="true" class="fa fa-twitter"></span>  Twitter
+                                </a>
+                                                    </div>
+                    </div>
+                    <div class="clearfix"></div>
+                    <div class="diamond"></div>
+                </div>
+            </div>
+        </div>
+        
+                                                        <div class="clearfix"></div>
+                                                        
+
+<div class="row block-tags">
+        <div class="col-md-9 col-sm-8 category">
+                    </div>
+        <div class="col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-3 langage hidden-xs lg-trad-article">
+                                                        <a href="http://observers.france24.com/ar/20180319-إندونيسيا-آتشيه-قرويون-مجاري-إذلال-علني-أخلاق-شريعة" class="langage-link pull-right">عربي</a>
+                                                        <a href="http://observers.france24.com/fr/20180314-indonesie-couple-adultere-aceh-video" class="langage-link pull-right">Français</a>
+            </div>
+</div>
+
+                        </div>
+                        <!--Post Content -->
+                    </div>
+                </article>
+            </div>
+        </div>
+    </section>
+
+    
+                        <section class="section-single-comments hidden-xs">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-offset-1 col-sm-10">
+                        <div class="col-sm-12 headerComments">
+                            <div class="fb-comment">
+                                <div class="fb-comments" data-mobile="false" data-colorscheme="light" data-numposts="5" width="100%" data-href="http://observers.france24.com/en/20180319-indonesia-waste-couple-sex-marriage-sharia"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    
+    
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <section class="section-single-next-news noPaddingTop paddingBottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 noGutterMobile">
+                        <div class="link-news">
+                            <div class="block-image">
+                                <div class="imgNextBg" data-image-bg="http://scd.observers.france24.com/files/article_images/vignette-debunk.jpg"></div>
+                                <div class="imgNextNews ">
+                                    <div class="col-sm-offset-1 col-sm-10 block-next-article">
+                                        <h2>Next</h2>
+                                        <a href="/en/20180319-debunked-viral-lioness-mother-movie" class="news-meta col-xs-12 col-sm-12">
+                                            <span class="category">DEBUNKED</span>                                            <span class="date hidden-xs">03/19/2018</span>                                            <h3>Debunked: This viral 'lioness mother' isn't really defending her son</h3>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    
+    
+
+                    
+    
+
+<section class="section-single-other-news noPaddingTop noPaddingBottom">
+    
+
+
+<div class="tms-block container post-article"
+     data-pos="1"
+     data-type="post_article"
+     data-location="content"
+     data-expand="false"
+     data-loaded="false">
+</div>
+
+
+</section>
+
+
+</div>
+
+<footer id="footer">
+            
+
+<div class="container">
+    <div class="row headerFooter">
+        <div class="col-xs-12 col-sm-3">
+                                    <a href="http://observers.france24.com/en/" class="logoSprites logoOBS en"></a>
+        </div>
+        <div class="col-xs-12 col-sm-9 socialIconsFooter">
+            <div class="pull-right parameters-social-link"><a href="https://www.facebook.com/FRANCE24.Observers" target="_self" class="btn btn-social-icon btn-social"><i class="fa fa-facebook"></i></a><a href="https://twitter.com/Observers" target="_self" class="btn btn-social-icon btn-social"><i class="fa fa-twitter"></i></a><a href="https://plus.google.com/116332251954093536353" target="_self" class="btn btn-social-icon btn-social"><i class="fa fa-google-plus"></i></a><a href="http://www.youtube.com/channel/UCZKNTgzf0VIUAIDpmXMOCpg" target="_self" class="btn btn-social-icon btn-social"><i class="fa fa-youtube"></i></a><a href="http://observers.france24.com/en/rss/general" target="_self" class="btn btn-social-icon btn-social"><i class="fa fa-rss"></i></a></div>        </div>
+    </div>
+    <div class="row sitemapFooter">
+        <div class="col-sm-4">
+            <ul class="list-unstyled parameters-link">
+                                                                                                                                                            <li>
+                            <a href="http://observers.france24.com/en/articles-observers/0/" target="_self" class="">
+                                All articles
+                            </a>
+                        </li>
+                                                                                                                                                                                <li>
+                            <a href="http://observers.france24.com/en/observers-take-action/most-recents/0/" target="_self" class="">
+                                Observers Take Action
+                            </a>
+                        </li>
+                                                                                                                                                                                <li>
+                            <a href="http://observers.france24.com/en/contribute" target="_self" class="">
+                                Become an Observer
+                            </a>
+                        </li>
+                                                                                                                                                                                <li>
+                            <a href="http://observers.france24.com/en/videos/the-observers/0/" target="_self" class="">
+                                Watch The Observers
+                            </a>
+                        </li>
+                                                                                                                                                                                <li>
+                            <a href="http://observers.france24.com/en/videos/observers-direct/0/" target="_self" class="">
+                                Watch The Observers Direct
+                            </a>
+                        </li>
+                                                                                                                                                                                <li>
+                            <a href="http://observers.france24.com/en/videos/raw-videos/0/" target="_self" class="">
+                                Raw videos
+                            </a>
+                        </li>
+                                                </ul>
+        </div>
+        <div class="col-sm-4">
+            <ul class="list-unstyled parameters-link">
+                                                                                                                                                            <li>
+                            <a href="http://observers.france24.com/en/static/about" target="_self" class="">
+                                About
+                            </a>
+                        </li>
+                                                                                                                                                                                <li>
+                            <a href="http://observers.france24.com/en/static/how-to" target="_self" class="see-tutorials">
+                                Tutorials
+                            </a>
+                        </li>
+                                                                                                                                                                                <li>
+                            <a href="http://observers.france24.com/en/static/legal-notice" target="_self" class="">
+                                Legal Notice
+                            </a>
+                        </li>
+                                                                                                                                                                                <li>
+                            <a href="http://observers.france24.com/en/static/terms-of-use" target="_self" class="tos">
+                                General Conditions of use
+                            </a>
+                        </li>
+                                                                                                                                                                                <li>
+                            <a href="http://observers.france24.com/en/static/contact-us" target="_self" class="contact-us">
+                                Contact us
+                            </a>
+                        </li>
+                                                </ul>
+        </div>
+        <div class="col-sm-4 hidden-xs">
+            
+
+
+<div class="tms-block"
+     data-pos="1"
+     data-type="pave"
+     data-location="footer"
+     data-expand="false"
+     data-loaded="false">
+</div>
+
+
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-3 col-sm-5 logoFooter">
+            <ul class="list-inline">
+                <li>
+                    <a href="http://www.rfi.fr" class="logoSprites logoRFI fr" target="_blank"></a>
+                <li>
+                    <a href="http://www.france24.com" class="logoSprites logoF24 fr" target="_blank"></a>
+                <li>
+                    <a href="https://www.mc-doualiya.com" class="logoSprites logoMCD fr" target="_blank"></a>
+                <li>
+                    <a href="http://www.francemediasmonde.com" class="logoSprites logoFMM fr" target="_blank"></a>
+            </ul>
+        </div>
+        <div class="col-lg-9 col-sm-7 copyright">
+            &copy; 2018 Copyright France 24 – All rights reserved <br> France 24 is not responsible for the content of external websites 
+        </div>
+    </div>
+</div>
+    </footer>
+
+<div id="janrain">
+    
+<div style="display:none" id="signIn"><div class="capture_header"><h2>Sign Up / Sign In</h2></div><div class="capture_signin"><h2>With your existing account from...</h2>{* loginWidget *}<br></div><div class="capture_backgroundColor"><div class="capture_signin"><h2>With a traditional account...</h2>{* #signInForm *} {* signInEmailAddress *} {* currentPassword *}<div class="capture_form_item"><a href="#" data-capturescreen="forgotPassword">Forgot your password?</a></div><div class="capture_rightText"><button class="capture_secondary capture_btn capture_primary" type="submit"><span class="janrain-icon-16 janrain-icon-key"></span> Sign In</button> <a href="#" id="capture_signIn_createAccountButton" data-capturescreen="traditionalRegistration" class="capture_secondary capture_createAccountButton capture_btn capture_primary">Create Account</a></div>{* /signInForm *}</div></div></div><div style="display:none" id="returnSocial"><div class="capture_header"><h2>Sign In</h2></div><div class="capture_signin"><h2>Welcome back, {* welcomeName *}</h2>{* loginWidget *}<div class="capture_centerText switchLink"><a href="#" data-cancelcapturereturnexperience="true">Use another account</a></div></div></div><div style="display:none" id="returnTraditional"><div class="capture_header"><h2>Sign In</h2></div><h2 class="capture_centerText"><span>Welcome back!</span></h2><div class="capture_backgroundColor">{* #signInForm *} {* signInEmailAddress *} {* currentPassword *}<div class="capture_form_item capture_rightText"><button class="capture_secondary capture_btn capture_primary" type="submit"><span class="janrain-icon-16 janrain-icon-key"></span> Sign In</button></div>{* /signInForm *}<div class="capture_centerText switchLink"><a href="#" data-cancelcapturereturnexperience="true">Use another account</a></div></div></div><div style="display:none" id="accountDeactivated"><div class="capture_header"><h2>Deactivated Account</h2></div><div class="content_wrapper"><p>Your account has been deactivated.</p></div></div><div style="display:none" id="emailNotVerified"><div class="capture_header"><h1>Email address Not Verified</h1></div><p>You must verify your email address before signing in. Check your email for your verification email, or enter your email address in the form below to resend the email.</p>{* #resendVerificationForm *} {* signInEmailAddress *}<div class="capture_footer"><input value="Submit" type="submit" class="capture_btn capture_primary"></div>{* /resendVerificationForm *}</div>
+<div style="display:none" id="socialRegistration"><div class="capture_header"><h2>Almost Done!</h2></div><h2>Please confirm the information below before signing in.</h2>{* #socialRegistrationForm *} {* firstName *} {* lastName *} {* emailAddress *} {* displayName *} {* phone *} {* addressCity *} {* addressCountry *} By clicking "Create Account", you confirm that you accept our&nbsp; <a class="termsOfService" href="#">terms of service</a>&nbsp; and have read and understand&nbsp; <a class="privacyPolicy" href="#">privacy policy</a>.<div class="capture_footer"><div class="capture_left">{* backButton *}</div><div class="capture_right"><input value="Create Account" type="submit" class="capture_btn capture_primary"></div></div>{* /socialRegistrationForm *}</div><div style="display:none" id="traditionalRegistration"><div class="capture_header"><h2>Almost Done!</h2></div><p>Please confirm the information below before signing in. <a id="capture_traditionalRegistration_navSignIn" href="#" data-capturescreen="signIn">Sign In</a></p>{* #registrationForm *} {* firstName *} {* lastName *} {* emailAddress *} {* displayName *} {* phone *} {* addressCity *} {* addressCountry *} {* newPassword *} {* newPasswordConfirm *} By clicking "Create Account", you confirm that you accept our&nbsp; <a class="termsOfService" href="#">terms of service</a>&nbsp; and have read and understand&nbsp; <a class="privacyPolicy" href="#">privacy policy</a>.<div class="capture_footer"><div class="capture_left">{* backButton *}</div><div class="capture_right"><input value="Create Account" type="submit" class="capture_btn capture_primary"></div></div>{* /registrationForm *}</div><div style="display:none" id="emailVerificationNotification"><div class="capture_header"><h2>Thank you for registering!</h2></div><p>We have sent a confirmation email to&nbsp; {* emailAddressData *}.&nbsp; Please check your email and click on the link to activate your account.</p><div class="capture_footer"><a href="#" onclick="janrain.capture.ui.modal.close()" class="capture_btn capture_primary">Close</a></div></div>
+<div style="display:none" id="forgotPassword"><div class="capture_header"><h2>Create a new password</h2></div><h2>We'll send you a link to create a new password.</h2>{* #forgotPasswordForm *} {* signInEmailAddress *}<div class="capture_footer"><div class="capture_left">{* backButton *}</div><div class="capture_right"><input value="Send" type="submit" class="capture_btn capture_primary"></div></div>{* /forgotPasswordForm *}</div><div style="display:none" id="forgotPasswordSuccess"><div class="capture_header"><h2>Create a new password</h2></div><p>We've sent an email with instructions to create a new password. Your existing password has not been changed.</p><div class="capture_footer"><a href="#" onclick="janrain.capture.ui.modal.close()" class="capture_btn capture_primary">Close</a></div></div>
+<div style="display:none" id="mergeAccounts">{* mergeAccounts {"custom": true} *}<div id="capture_mergeAccounts_mergeAccounts_mergeOptionsContainer" class="capture_mergeAccounts_mergeOptionsContainer"><div class="capture_header"><div class="capture_icon_col">{| rendered_current_photo |}</div><div class="capture_displayName_col">{| current_displayName |}<br>{| current_emailAddress |}</div><span class="capture_mergeProvider janrain-provider-icon-24 janrain-provider-icon-{| current_provider_lowerCase |}"></span></div><div class="capture_dashed"><div class="capture_mergeCol capture_centerText capture_left"><p class="capture_bigText">{| foundExistingAccountText |} <b>{| current_emailAddress |}</b>.</p><div class="capture_hover"><div class="capture_popup_container"><span class="capture_popup-arrow"></span>{| moreInfoHoverText |}<br>{| existing_displayName |} - {| existing_provider |} : {| existing_siteName |} {| existing_createdDate |}</div>{| moreInfoText |}</div></div><div class="capture_mergeCol capture_mergeExisting_col capture_right"><div class="capture_shadow capture_backgroundColor capture_border">{| rendered_existing_provider_photo |}<div class="capture_displayName_col">{| existing_displayName |}<br>{| existing_provider_emailAddress |}</div><span class="capture_mergeProvider janrain-provider-icon-16 janrain-provider-icon-{| existing_provider_lowerCase |}"></span><div class="capture_centerText capture_smallText">Created {| existing_createdDate |} at {| existing_siteName |}</div></div></div></div><div id="capture_mergeAccounts_form_collection_mergeAccounts_mergeRadio" class="capture_form_collection_merge_radioButtonCollection capture_form_collection capture_elementCollection capture_form_collection_mergeAccounts_mergeRadio" data-capturefield="undefined"><div id="capture_mergeAccounts_form_item_mergeAccounts_mergeRadio_1_0" class="capture_form_item capture_form_item_mergeAccounts_mergeRadio capture_form_item_mergeAccounts_mergeRadio_1_0 capture_toggled" data-capturefield="undefined"><label for="capture_mergeAccounts_mergeAccounts_mergeRadio_1_0"><input id="capture_mergeAccounts_mergeAccounts_mergeRadio_1_0" data-capturefield="undefined" data-capturecollection="true" value="1" type="radio" class="capture_mergeAccounts_mergeRadio_1_0 capture_input_radio" checked="checked" name="mergeAccounts_mergeRadio"> {| connectLegacyRadioText |}</label></div><div id="capture_mergeAccounts_form_item_mergeAccounts_mergeRadio_2_1" class="capture_form_item capture_form_item_mergeAccounts_mergeRadio capture_form_item_mergeAccounts_mergeRadio_2_1" data-capturefield="undefined"><label for="capture_mergeAccounts_mergeAccounts_mergeRadio_2_1"><input id="capture_mergeAccounts_mergeAccounts_mergeRadio_2_1" data-capturefield="undefined" data-capturecollection="true" value="2" type="radio" class="capture_mergeAccounts_mergeRadio_2_1 capture_input_radio" name="mergeAccounts_mergeRadio"> {| createRadioText |} {| current_provider |}</label></div><div class="capture_tip" style="display:none"></div><div class="capture_tip_validating" data-elementname="mergeAccounts_mergeRadio">Validating</div><div class="capture_tip_error" data-elementname="mergeAccounts_mergeRadio"></div></div><div class="capture_footer">{| connect_button |} {| create_button |}</div></div></div><div style="display:none" id="traditionalAuthenticateMerge"><div class="capture_header"><h2>Sign in to complete account merge</h2></div><div class="capture_signin">{* #signInForm *} {* signInEmailAddress *} {* currentPassword *}<div class="capture_footer"><div class="capture_left">{* backButton *}</div><div class="capture_right"><button class="capture_secondary capture_btn capture_primary" type="submit"><span class="janrain-icon-16 janrain-icon-key"></span> Sign In</button></div></div>{* /signInForm *}</div></div>
+<div style="display:none" id="verifyEmail"><div class="capture_header"><h2>Resend Email Verification</h2></div><p>Thank you for verifiying your email address.</p>{* #resendVerificationForm *} {* signInEmailAddress *}<div class="capture_footer"><input value="Submit" type="submit" class="capture_btn capture_primary"></div>{* /resendVerificationForm *}</div><div style="display:none" id="resendVerificationSuccess"><div class="capture_header"><h2>Your Verification Email Has Been Sent</h2></div><div class="hr"></div><p>Check your email for a link to reset your password.</p><div class="capture_footer"><a href="#" data-user="signin" class="capture_btn capture_primary">Sign in</a></div></div><div style="display:none" id="verifyEmailSuccess"><div class="capture_header"><h2>You did it!</h2></div><p>Thank you for verifiying your email address.</p><div class="capture_footer"><a href="#" data-user="signin" class="capture_btn capture_primary">Sign in</a></div></div>
+<div style="display:none" id="resetPassword"><div class="capture_header"><h2>Change password</h2></div>{* #changePasswordFormNoAuth *} {* newPassword *} {* newPasswordConfirm *}<div class="capture_footer"><input value="Save" type="submit" class="capture_btn capture_primary"></div>{* /changePasswordFormNoAuth *}</div><div style="display:none" id="resetPasswordSuccess"><div class="capture_header"><h2>Your password has been changed</h2></div><p>Password has been successfully updated.</p><div class="capture_footer"><a href="#" onclick="janrain.capture.ui.renderScreen('signIn')" class="capture_btn capture_primary">Sign in</a></div></div><div style="display:none" id="resetPasswordRequestCode"><div class="capture_header"><h2>Close</h2></div><p>We didn't recognize that password reset code. Enter your email address to get a new one.</p>{* #resetPasswordForm *} {* signInEmailAddress *}<div class="capture_footer"><input value="Send" type="submit" class="capture_btn capture_primary"></div>{* /resetPasswordForm *}</div><div style="display:none" id="resetPasswordRequestCodeSuccess"><div class="capture_header"><h2>Create a new password</h2></div><p>We've sent an email with instructions to create a new password. Your existing password has not been changed.</p><div class="capture_footer"><a href="#" onclick="janrain.capture.ui.modal.close()" class="capture_btn capture_primary">Close</a></div></div>
+<div style="display:none" id="editProfileModal"><div class="row"><div class="col-sm-12 col-lg-12"><h2 class="withBorderLg edit_title">Edit Your Account</h2></div></div><div class="capture_grid_block"><div class="capture_col_4"><div class="contentBoxWhiteShadow">{* photoManager *}</div><h3>Linked Accounts</h3><div class="contentBoxWhiteShadow">{* linkedAccounts *} {* #linkAccountContainer *}<div class="capture_header"><h2>Link your accounts</h2></div><h2>Allows you to sign in to your account using that provider in the future.</h2><div class="capture_signin">{* loginWidget *}</div>{* /linkAccountContainer *}</div><h3 class="janrain_traditional_account_only">Password</h3><div class="janrain_traditional_account_only contentBoxWhiteShadow"><a href="#" data-capturescreen="changePassword">Change Password</a></div><h3 class="janrain_traditional_account_only">Deactivate Account</h3><div class="capture_deactivate_section contentBoxWhiteShadow clearfix"><a href="#" data-capturescreen="confirmAccountDeactivation">Deactivate Account</a></div></div><div class="capture_col_8"><div class="contentBoxWhiteShadow"><div class="capture_grid_block"><div class="capture_center_col capture_col_8"><div class="capture_editCol">{* #editProfileModalForm *}<fieldset class="public"><legend>public</legend>{* displayName *} {* addressCountry *} {* addressCity *}</fieldset><br><fieldset>{* publicPrivate *} {* profession *} {* birthdate *} {* usernameTwPublic *} {* preferedContactLanguages *} {* arabicUsername *} {* persianUsername *} {* aboutMe *}</fieldset><br><fieldset class="private"><legend>private</legend>{* firstName *} {* lastName *} {* emailAddress *} {* phone *} {* skypeId *} {* usernameTw *} {* journalistContact *}</fieldset><br><div class="optHidden">{* gender *} {* addressStreetAddress1 *} {* addressStreetAddress2 *} {* addressPostalCode *} {* addressState *}</div><fieldset class="newsletters"><legend>Subscribe to newsletters</legend><div class="optHidden optFr">{* newsMenu *} {* optinalert *} {* optinBestofWeek *} {* optinBestofWEnd *} {* optinBestofObs *}</div><div class="optHidden optEn">{* newsMenuEn *} {* optinalertEn *} {* optinBestofWeekEn *} {* optinBestofWEndEn *} {* optinBestofObsEn *}</div><div class="optHidden optAr">{* newsMenuAr *} {* optinalertAr *} {* optinBestofWeekAr *} {* optinBestofWEndAr *} {* optinBestofObsAr *}</div><div class="optHidden optCommonMCD">{* optinQuotidienne *} {* optinBreaking *}</div><div class="optHidden optCommonF24">{* optinAutopromo *} {* optinPartenaires *}</div><div class="optHidden optCommonRFI">{* optinActuMonde *} {* optinActuAfrique *} {* optinAlert *} {* optinRfiAfriqueFootFr *} {* optinMfi *} {* optinActuMusique *} {* optinOffreRfi *} {* optinOffrePartenaire *}</div></fieldset><br><div class="capture_form_item"><input value="Save" type="submit" class="capture_btn capture_primary"> {* savedProfileMessage *}</div>{* /editProfileModalForm *}</div></div></div></div></div></div></div><div style="display:none" id="changePassword"><div class="capture_header"><h2>Change password</h2></div>{* #changePasswordForm *} {* currentPassword *} {* newPassword *} {* newPasswordConfirm *}<div class="capture_footer"><input value="Save" type="submit" class="capture_btn capture_primary"></div>{* /changePasswordForm *}</div><div style="display:none" id="confirmAccountDeactivation"><div class="capture_header"><h2>Deactivate your Account</h2></div><div class="content_wrapper"><p>Are you sure you want to deactivate your account? You will no longer have access to your profile.</p>{* deactivateAccountForm *}<div class="capture_footer"><input value="Yes" type="submit" class="capture_btn capture_primary"> <a href="#" id="capture_confirmAccountDeactivation_noButton" onclick="janrain.capture.ui.modal.close()" class="capture_btn capture_primary">No</a></div></div>{* /deactivateAccountForm *}</div>
+</div>
+
+    <script src="/dist/js/vendor.5454923c3a22d840.js"></script>
+    <script src="/dist/js/app.2226caee66667667.js"></script>
+                <!-- placeholder en -->
+<style>
+.blockUserAvatar,
+.observateurBandeau,
+.widthBorderLgLeftContributor,
+.widthBorderLgRightContributor,
+.section-home-first .author,
+.section-home-second .author,
+.section-home-third .author,
+.section-home-first .author-article,
+.section-home-second .author-article,
+.section-home-third .author-article,
+.section-home-carousel.white > .container {
+display:none;
+}
+.description div img, .description img, .postContent .rtecenter img, .postContent figure.bd img
+{
+width: auto !important;
+height : auto !important;
+margin: 0 auto;
+display: block;
+max-width: 100%;
+}
+.bd > iframe.twitter-tweet {
+max-width:522px !important;
+width:100% !important;
+margin: 10px auto !important;
+}
+div .rtecenter {
+text-align: center;
+}
+/* only EN and FR uppercase issue */
+.link-news .news-meta a {
+text-transform: none;
+}
+</style>
+<script type="application/javascript">
+/* correctif EM Video Facebook */ 
+var $emNodesFacebook = $('.photo-material > figure.bd').find('iframe[src*="facebook"]');
+$.each($emNodesFacebook, function(key, node) {
+var $bd = $(node).closest('.bd');
+$('.bd>iframe').css('max-width', '100%');
+$bd.removeClass('em-responsive');
+$bd.removeClass('em-responsive-facebook-video-square');
+$bd.removeClass('em-responsive-facebook-video-rect');
+$bd.removeClass('bd');
+});
+</script>
+
+<script type="text/javascript" src="//nexus.ensighten.com/francemm/obs-f24/Bootstrap.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=279693080';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script></body>
+</html>

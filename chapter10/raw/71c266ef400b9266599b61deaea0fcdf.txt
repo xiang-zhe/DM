@@ -1,0 +1,903 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+			
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<script src="/cdn-cgi/apps/head/LZxFcPQyDA4f-g9XW0owhCNTayI.js"></script><link rel="pingback" href="https://www.dashforcenews.com/xmlrpc.php" />
+
+		<!--[if lt IE 9]>
+	<script src="https://www.dashforcenews.com/wp-content/themes/Extra/scripts/ext/html5.js" type="text/javascript"></script>
+	<![endif]-->
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<script>var et_site_url='https://www.dashforcenews.com';var et_post_id='18775';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script><title>The US President Issues An Executive Order to Ban the Venezuelan Petro - Dash Force News</title>
+<link rel="alternate" hreflang="en" href="https://www.dashforcenews.com/the-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro/" />
+
+<!-- This site is optimized with the Yoast SEO plugin v7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://www.dashforcenews.com/the-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The US President Issues An Executive Order to Ban the Venezuelan Petro - Dash Force News" />
+<meta property="og:description" content="Donald Trump has issued an executive order to ban all cryptocurrencies issued &#8220;by, for, or on behalf&#8221; of the Venezuelan government by a &#8220;United States person or within the United States&#8221;. &#8220;All transactions related to, provision of financing for, and other dealings in, by a United States person or within the United States, any digital &hellip;" />
+<meta property="og:url" content="https://www.dashforcenews.com/the-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro/" />
+<meta property="og:site_name" content="Dash Force News" />
+<meta property="article:publisher" content="https://www.facebook.com/dashforcenews" />
+<meta property="article:tag" content="dash" />
+<meta property="article:tag" content="donald trump" />
+<meta property="article:tag" content="petro" />
+<meta property="article:tag" content="trump" />
+<meta property="article:tag" content="venezuela" />
+<meta property="article:section" content="News" />
+<meta property="article:published_time" content="2018-03-21T13:00:54+00:00" />
+<meta property="article:modified_time" content="2018-03-21T12:01:52+00:00" />
+<meta property="og:updated_time" content="2018-03-21T12:01:52+00:00" />
+<meta property="og:image" content="https://www.dashforcenews.com/wp-content/uploads/2018/03/no-petro.jpg" />
+<meta property="og:image:secure_url" content="https://www.dashforcenews.com/wp-content/uploads/2018/03/no-petro.jpg" />
+<meta property="og:image:width" content="766" />
+<meta property="og:image:height" content="450" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Donald Trump has issued an executive order to ban all cryptocurrencies issued &#8220;by, for, or on behalf&#8221; of the Venezuelan government by a &#8220;United States person or within the United States&#8221;. &#8220;All transactions related to, provision of financing for, and other dealings in, by a United States person or within the United States, any digital [&hellip;]" />
+<meta name="twitter:title" content="The US President Issues An Executive Order to Ban the Venezuelan Petro - Dash Force News" />
+<meta name="twitter:site" content="@dashforcenews" />
+<meta name="twitter:image" content="https://www.dashforcenews.com/wp-content/uploads/2018/03/no-petro.jpg" />
+<meta name="twitter:creator" content="@dashforcenews" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Dash Force News &raquo; Feed" href="https://www.dashforcenews.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Dash Force News &raquo; Comments Feed" href="https://www.dashforcenews.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Dash Force News &raquo; The US President Issues An Executive Order to Ban the Venezuelan Petro Comments Feed" href="https://www.dashforcenews.com/the-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.dashforcenews.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.4"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<meta content="Dash Force Theme v.2.0.45.1495203288" name="generator"/><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wpml-legacy-horizontal-list-0-css'  href='//www.dashforcenews.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/style.css?ver=1' type='text/css' media='all' />
+<style id='wpml-legacy-horizontal-list-0-inline-css' type='text/css'>
+.wpml-ls-statics-footer{background-color:#000000;}.wpml-ls-statics-footer a {color:#444444;background-color:#ffffff;}.wpml-ls-statics-footer a:hover,.wpml-ls-statics-footer a:focus {color:#000000;background-color:#eeeeee;}.wpml-ls-statics-footer .wpml-ls-current-language>a {color:#444444;background-color:#ffffff;}.wpml-ls-statics-footer .wpml-ls-current-language:hover>a, .wpml-ls-statics-footer .wpml-ls-current-language>a:focus {color:#000000;background-color:#eeeeee;}
+</style>
+<link rel='stylesheet' id='wpml-legacy-post-translations-0-css'  href='//www.dashforcenews.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-post-translations/style.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpml-menu-item-0-css'  href='//www.dashforcenews.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='et-gf-open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' type='text/css' media='all' />
+<link rel='stylesheet' id='et_monarch-css-css'  href='https://www.dashforcenews.com/wp-content/plugins/monarch/css/style.css?ver=1.3.25' type='text/css' media='all' />
+<link rel='stylesheet' id='chld_thm_cfg_parent-css'  href='https://www.dashforcenews.com/wp-content/themes/Extra/style.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='extra-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='extra-style-css'  href='https://www.dashforcenews.com/wp-content/themes/DashForce/style.css?ver=2.0.105' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://www.dashforcenews.com/wp-includes/css/dashicons.min.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://www.dashforcenews.com/wp-content/plugins/jetpack/css/jetpack.css?ver=5.9' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.dashforcenews.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.dashforcenews.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://www.dashforcenews.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.dashforcenews.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.dashforcenews.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.4" />
+<link rel='shortlink' href='https://wp.me/p8DdiN-4SP' />
+<link rel="alternate" type="application/json+oembed" href="https://www.dashforcenews.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dashforcenews.com%2Fthe-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.dashforcenews.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dashforcenews.com%2Fthe-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro%2F&#038;format=xml" />
+<meta name="generator" content="WPML ver:3.9.3 stt:1,4,3,43,46,2;" />
+<style type="text/css" id="et-social-custom-css">
+				 
+			</style>
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<style type='text/css'>img#wpstats{display:none}</style><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1" /><link rel="shortcut icon" href="https://www.dashforcenews.com/wp-content/uploads/2017/04/dash_square_bevel_normal.png" /><meta name="google-site-verification" content="K93kSahept7kBHoGMyO5930AG9psi0OGlpfL2ayn_cQ" /><link rel="icon" href="https://www.dashforcenews.com/wp-content/uploads/2017/04/cropped-Dash-Force-News-Site-Identity-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://www.dashforcenews.com/wp-content/uploads/2017/04/cropped-Dash-Force-News-Site-Identity-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.dashforcenews.com/wp-content/uploads/2017/04/cropped-Dash-Force-News-Site-Identity-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://www.dashforcenews.com/wp-content/uploads/2017/04/cropped-Dash-Force-News-Site-Identity-270x270.jpg" />
+<link rel="stylesheet" id="et-extra-customizer-global-cached-inline-styles" href="https://www.dashforcenews.com/wp-content/cache/et/global/et-extra-customizer-global-1521770692.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" /></head>
+<body class="post-template-default single single-post postid-18775 single-format-standard et_monarch et_extra et_non_fixed_nav et_smooth_scroll et_pb_gutters3 et_primary_nav_dropdown_animation_Default et_secondary_nav_dropdown_animation_Default with_sidebar with_sidebar_right et_includes_sidebar et_minified_js et_minified_css">
+	<div id="page-container" class="page-container">
+				<!-- Header -->
+		<header class="header centered">
+						<!-- #top-header -->
+			<div id="top-header" style="">
+				<div class="container">
+
+					<!-- Secondary Nav -->
+											<div id="et-secondary-nav" class="et-trending">
+						
+							<!-- ET Trending -->
+							<div id="et-trending">
+
+								<!-- ET Trending Button -->
+								<a id="et-trending-button" href="#" title="">
+									<span></span>
+									<span></span>
+									<span></span>
+								</a>
+
+								<!-- ET Trending Label -->
+								<h4 id="et-trending-label">
+									TRENDING:								</h4>
+
+								<!-- ET Trending Post Loop -->
+								<div id='et-trending-container'>
+																											<div id="et-trending-post-3858" class="et-trending-post et-trending-latest">
+											<a href="https://www.dashforcenews.com/charlie-lee-is-right-an-over-caffeinated-rant-on-bitcoin/">Charlie Lee Is Right: An Over-Caffeinated Rant On Bitco...</a>
+										</div>
+																			<div id="et-trending-post-3952" class="et-trending-post">
+											<a href="https://www.dashforcenews.com/5-biggest-dash-haters-cryptocurrency/">5 Biggest Dash Haters in Cryptocurrency</a>
+										</div>
+																			<div id="et-trending-post-8973" class="et-trending-post">
+											<a href="https://www.dashforcenews.com/cryptocurrency-change-irreversibly/">Why Cryptocurrency Is About to Change Irreversibly</a>
+										</div>
+																									</div>
+							</div>
+							
+												</div>
+					
+					<!-- #et-info -->
+					<div id="et-info">
+
+						
+						<!-- .et-extra-social-icons -->
+						<ul class="et-extra-social-icons" style="">
+																																														<li class="et-extra-social-icon facebook">
+									<a href="https://facebook.com/dashforcenews" class="et-extra-icon et-extra-icon-background-hover et-extra-icon-facebook"></a>
+								</li>
+																																															<li class="et-extra-social-icon twitter">
+									<a href="https://twitter.com/dashforcenews" class="et-extra-icon et-extra-icon-background-hover et-extra-icon-twitter"></a>
+								</li>
+																																															<li class="et-extra-social-icon googleplus">
+									<a href="https://plus.google.com/115198378803302965680" class="et-extra-icon et-extra-icon-background-hover et-extra-icon-googleplus"></a>
+								</li>
+																																																																																																																																																																																																																																																																																																							<li class="et-extra-social-icon rss">
+									<a href="https://www.dashforcenews.com/feed/" class="et-extra-icon et-extra-icon-background-hover et-extra-icon-rss"></a>
+								</li>
+																																																																																																																																												<li class="et-extra-social-icon youtube">
+									<a href="https://www.youtube.com/channel/UCiAW4HQiYjpPmyi4v905u1A" class="et-extra-icon et-extra-icon-background-hover et-extra-icon-youtube"></a>
+								</li>
+																																																																																																																																																																																</ul>
+						
+						<!-- .et-top-search -->
+						
+						<!-- cart -->
+											</div>
+				</div><!-- /.container -->
+			</div><!-- /#top-header -->
+
+			
+			<!-- Main Header -->
+			<div id="main-header-wrapper">
+				<div id="main-header" data-fixed-height="80">
+					<div class="container">
+					<!-- ET Ad -->
+						
+						
+						<!-- Logo -->
+						<a class="logo" href="https://www.dashforcenews.com/" data-fixed-height="51">
+							<img src="https://www.dashforcenews.com/wp-content/uploads/2017/04/New-Dash-Force-News-Logo.png" alt="Dash Force News" id="logo" />
+						</a>
+
+						
+						<!-- ET Navigation -->
+						<div id="et-navigation" class="">
+							<ul id="et-menu" class="nav"><li id="menu-item-115" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-115"><a href="https://www.dashforcenews.com">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-6158" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6158"><a href="https://www.dashforcenews.com/category/news/contest/">Contest</a></li>
+	<li id="menu-item-6160" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6160"><a href="https://www.dashforcenews.com/category/news/infocomparison/">Info/comparison</a></li>
+	<li id="menu-item-6156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6156"><a href="https://www.dashforcenews.com/category/news/interview/">Interview</a></li>
+	<li id="menu-item-6154" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6154"><a href="https://www.dashforcenews.com/category/news/opinion/">Opinion</a></li>
+	<li id="menu-item-6159" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6159"><a href="https://www.dashforcenews.com/category/news/podcast/">Podcast</a></li>
+	<li id="menu-item-6157" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6157"><a href="https://www.dashforcenews.com/category/news/proposal-updates/">Proposal Updates</a></li>
+	<li id="menu-item-6162" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6162"><a href="https://www.dashforcenews.com/category/resources/reviews/">Reviews</a></li>
+	<li id="menu-item-6155" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6155"><a href="https://www.dashforcenews.com/category/news/video/">Video</a></li>
+</ul>
+</li>
+<li id="menu-item-118" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-118"><a>About</a>
+<ul class="sub-menu">
+	<li id="menu-item-3487" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3487"><a href="https://www.dashforcenews.com/about-the-dash-force/">About Dash Force</a></li>
+	<li id="menu-item-3393" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3393"><a href="https://www.dashforcenews.com/about-dash-force-news">Meet The Team</a></li>
+</ul>
+</li>
+<li id="menu-item-116" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-116"><a>Dash 101</a>
+<ul class="sub-menu">
+	<li id="menu-item-173" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-173"><a href="https://www.dashforcenews.com/dash-school/">Dash School</a></li>
+	<li id="menu-item-174" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174"><a href="https://www.dashforcenews.com/what-is-dash/">What Is Dash?</a></li>
+	<li id="menu-item-3416" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3416"><a href="https://www.dashforcenews.com/why-use-dash/">Why Use DASH?</a></li>
+	<li id="menu-item-6153" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6153"><a href="https://www.dashforcenews.com/what-is-a-dao/">What Is a DAO?</a></li>
+	<li id="menu-item-175" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-175"><a href="https://www.dashforcenews.com/how-to-buy-dash/">How To Buy Dash</a></li>
+	<li id="menu-item-176" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-176"><a href="https://www.dashforcenews.com/how-to-store-your-dash/">How To Store Your Dash</a></li>
+	<li id="menu-item-177" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-177"><a href="https://www.dashforcenews.com/what-are-dash-masternodes/">What Are Dash Masternodes?</a></li>
+	<li id="menu-item-3468" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3468"><a href="https://www.dashforcenews.com/dash-debit-cards/">Dash Debit Cards</a></li>
+</ul>
+</li>
+<li id="menu-item-123" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-123"><a>Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-214" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-214"><a href="https://www.dashforcenews.com/dash-price-index/">Dash Price Index</a></li>
+	<li id="menu-item-3371" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3371"><a href="https://dash-stats.firebaseapp.com">Network Stats</a></li>
+	<li id="menu-item-3372" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3372"><a href="https://explorer.dash.org/chain/Dash">Block Explorer</a></li>
+	<li id="menu-item-3375" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3375"><a href="https://www.dashcentral.org">Dash Central</a></li>
+	<li id="menu-item-3373" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3373"><a href="http://dashvotetracker.com">Vote Tracker</a></li>
+	<li id="menu-item-3374" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3374"><a href="https://www.dashninja.pl">Dash Ninja Stats</a></li>
+	<li id="menu-item-3376" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3376"><a href="http://178.254.23.111/~pub/Dash/Dash_Info.html">Masternode Stats</a></li>
+	<li id="menu-item-3377" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3377"><a href="https://dashpay.atlassian.net/wiki/display/DOC/Official+Documentation">DASH Wiki</a></li>
+	<li id="menu-item-3378" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3378"><a href="https://www.dash.org/forum">Dash Forums</a></li>
+</ul>
+</li>
+<li id="menu-item-3392" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3392"><a href="https://www.dashforcenews.com/timeline/">Archive</a></li>
+<li id="menu-item-3357" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3357"><a href="https://www.dashforcenews.com/contact-us/">Contact</a></li>
+<li id="menu-item-wpml-ls-22-en" class="menu-item wpml-ls-slot-22 wpml-ls-item wpml-ls-item-en wpml-ls-current-language wpml-ls-menu-item wpml-ls-first-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-22-en"><a title="English" href="https://www.dashforcenews.com/the-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro/"><img class="wpml-ls-flag" src="https://www.dashforcenews.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en" title="English"><span class="wpml-ls-native">English</span></a></li>
+</ul>							<div id="et-mobile-navigation">
+			<span class="show-menu">
+				<div class="show-menu-button">
+					<span></span>
+					<span></span>
+					<span></span>
+				</div>
+				<p>Select Page</p>
+			</span>
+			<nav>
+			</nav>
+		</div> <!-- /#et-mobile-navigation -->						</div><!-- /#et-navigation -->
+					</div><!-- /.container -->
+				</div><!-- /#main-header -->
+			</div><!-- /#main-header-wrapper -->
+
+		</header>
+
+				<div id="main-content">
+		<div class="container">
+		<div id="content-area" class="clearfix">
+			<div class="et_pb_extra_column_main">
+																<article id="post-18775" class="module single-post-module post-18775 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-dash tag-donald-trump tag-petro tag-trump tag-venezuela et-has-post-format-content et_post_format-et-post-format-standard">
+														<div class="post-header">
+								<h1 class="entry-title">The US President Issues An Executive Order to Ban the Venezuelan Petro</h1>
+								<div class="post-meta vcard">
+									<p>Posted by <a href="https://www.dashforcenews.com/author/justin/" class="url fn" title="Posts by Justin Szilard" rel="author">Justin Szilard</a> | <span class="updated">Mar 21, 2018</span> | <a href="https://www.dashforcenews.com/category/news/" rel="tag">News</a> | <span class="rating-stars" title="Rating: 4.50"><span class="post-meta-icon rating-star rating-star-on rating-star-1"></span>
+<span class="post-meta-icon rating-star rating-star-on rating-star-2"></span>
+<span class="post-meta-icon rating-star rating-star-on rating-star-3"></span>
+<span class="post-meta-icon rating-star rating-star-on rating-star-4"></span>
+<span class="post-meta-icon rating-star rating-star-half rating-star-5"></span>
+</span></p>
+								</div>
+							</div>
+							
+														<div class="post-thumbnail header">
+								<img src="https://www.dashforcenews.com/wp-content/uploads/2018/03/no-petro.jpg" alt="The US President Issues An Executive Order to Ban the Venezuelan Petro" />							</div>
+							
+														
+							<div class="post-wrap">
+															<div class="post-content entry-content">
+									<p>Donald Trump has <a href="https://www.ccn.com/breaking-trump-bans-us-citizens-residents-from-venezuelas-crypto-petro/">issued</a> an <a href="https://www.whitehouse.gov/presidential-actions/executive-order-taking-additional-steps-address-situation-venezuela/">executive</a> order to ban all cryptocurrencies issued &#8220;by, for, or on behalf&#8221; of the Venezuelan government by a &#8220;United States person or within the United States&#8221;.</p>
+<blockquote><p>&#8220;All transactions related to, provision of financing for, and other dealings in, by a United States person or within the United States, any digital currency, digital coin, or digital token, that was issued by, for, or on behalf of the Government of Venezuela on or after January 9, 2018, are prohibited as of the effective date of this order.&#8221;</p></blockquote>
+<p>The executive order is a follow up to the sanctions that were placed on Venezuela by the US this past December since the Petro was seen as a work around by the Maduro regime. The action echos the US Treasury Department&#8217;s previous statement that advised investors to avoid the Petro, which <a href="http://fortune.com/2018/03/19/donald-trump-cryptocurrency-venezuela/">called</a> it &#8220;another attempt to prop up the Maduro regime, while further looting the resources of the Venezuelan people.&#8221;</p>
+<p>The Petro, pre-sale launched on February 20, was proclaimed to be backed by oil from the country and thus many saw the Petro as a de facto oil <a href="https://www.ft.com/content/9c0fcc2c-faa9-11e7-9b32-d7d59aace167">future</a> <a href="https://cointelegraph.com/news/petro-stable-coin-for-crypto-economy-or-illegal-oil-futures">rather</a> than a cryptocurrency. However, the democratically elected body of Venezuela have already called the Petro illegal. In addition, many have called into <a href="https://www.coindesk.com/maduro-claims-171k-purchase-orders-for-petro/">question</a> the cryptocurrency&#8217;s decentralized nature since a majority of the Petro seems to be in a few wallets and many suspect that most buyers were governmental agencies.</p>
+<p><strong>Fallout for other cryptocurrencies and the Venezuelan people</strong></p>
+<p>This move by the US President is the first major national decision by the US to ban a cryptocurrency. The executive order, which allows the president to act unilaterally, specifically mentions cryptocurrencies that are &#8220;by, for, and on behalf&#8221; of the &#8220;Government of Venezuela&#8221; so it does not appear to be an immediate threat to other cryptocurrencies.</p>
+<p>The executive order does, however, <a href="https://www.reddit.com/r/dashpay/comments/85lh6d/breaking_trump_bans_all_activity_of_venezuelas/">beg</a> the question if the same action can be extended to other more open cryptocurrencies that may be adopted by the Venezuelan government. Even if this becomes the case, the effect on Venezuelans would still be minimal, as long as the cryptocurrency is properly structured. The USD exchange price would most likely plunge, but Venezuelans will still be able to use said crypto within their country, free of governmental manipulation, and use decentralized exchanges to exchange into other cryptocurrencies when they want to trade within another country that initiated a ban.</p>
+<p>For the time being, the Petro seems to only serve the interest of the Venezuelan government rather than the citizens of the country who use Bolivars, USD, and other cryptocurrencies. Thus the citizens of Venezuela should not suffer much from this ban since Venezuelans are utilizing other cryptocurrencies to escape the terrible policies of their government.</p>
+<p><strong>Dash is on the ground and improving lives in Venezuela</strong></p>
+<p>Dash is continuously increasing its presence within Venezuela, most <a href="https://www.dashforcenews.com/dash-surges-venezuela-80-new-merchants-2200-conference-attendees-two-new-exchanges/">recently</a> seen in the Dash Caracus Conference, which had such a large influx of attendees that a second overflow conference was held. Then while governments place sanction on the Maduro regime in an attempt to weaken it, the Dash community is volunteering to give direct aid to Venezuelans by <a href="https://twitter.com/StayDashy/status/975727882994618368">donating</a> Dash. Venezuelans have <a href="https://www.dashforcenews.com/dash-domination-venezuela/">seen</a> their currency suffer from over 2,500% annual inflation and their economy destroyed by a corrupt and ignorant government. Nevertheless, Venezuelans refuse to let external factors stop them and are using Dash to provide real alternatives that better their lives.</p>
+<p>Creative entrepreneurs are using Dash to restart their economy. Citizens are using Dash to purchase goods and services, while also maintaining the value of their currency better than the Bolivar. Each Dash Caracus Conference holds a Dash City (Ciudad Dash) to <a href="https://www.dashforcenews.com/dash-domination-venezuela/">sell</a> goods from local entrepreneurs and the most recent one had 53 vendors. This everyday use of Dash to solve real world problems leads to even greater adoption and a stronger user base, which will further contribute to Dash decreasing its <a href="https://www.dashforcenews.com/how-volatility-negatively-affects-cryptocurrency-and-how-to-avoid-it/">volatility</a> when compared to other cryptocurrencies.</p>
+<span class="et_social_bottom_trigger"></span>																	</div>
+														</div>
+														<div class="post-footer">
+								<div class="social-icons ed-social-share-icons">
+									<p class="share-title">Share:</p>
+									
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<a href="http://www.facebook.com/sharer.php?u=https://www.dashforcenews.com/the-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro/&#038;t=The%20US%20President%20Issues%20An%20Executive%20Order%20to%20Ban%20the%20Venezuelan%20Petro" class="social-share-link" title="Share &quot;The US President Issues An Executive Order to Ban the Venezuelan Petro&quot; via Facebook" data-network-name="facebook" data-share-title="The US President Issues An Executive Order to Ban the Venezuelan Petro" data-share-url="https://www.dashforcenews.com/the-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro/">
+				<span class="et-extra-icon et-extra-icon-facebook et-extra-icon-background-hover" ></span>
+			</a><a href="http://twitter.com/home?status=The%20US%20President%20Issues%20An%20Executive%20Order%20to%20Ban%20the%20Venezuelan%20Petro%20https://www.dashforcenews.com/the-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro/" class="social-share-link" title="Share &quot;The US President Issues An Executive Order to Ban the Venezuelan Petro&quot; via Twitter" data-network-name="twitter" data-share-title="The US President Issues An Executive Order to Ban the Venezuelan Petro" data-share-url="https://www.dashforcenews.com/the-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro/">
+				<span class="et-extra-icon et-extra-icon-twitter et-extra-icon-background-hover" ></span>
+			</a><a href="https://plus.google.com/share?url=https://www.dashforcenews.com/the-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro/&#038;t=The%20US%20President%20Issues%20An%20Executive%20Order%20to%20Ban%20the%20Venezuelan%20Petro" class="social-share-link" title="Share &quot;The US President Issues An Executive Order to Ban the Venezuelan Petro&quot; via Google +" data-network-name="googleplus" data-share-title="The US President Issues An Executive Order to Ban the Venezuelan Petro" data-share-url="https://www.dashforcenews.com/the-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro/">
+				<span class="et-extra-icon et-extra-icon-googleplus et-extra-icon-background-hover" ></span>
+			</a><a href="https://www.tumblr.com/share?v=3&#038;u=https://www.dashforcenews.com/the-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro/&#038;t=The%20US%20President%20Issues%20An%20Executive%20Order%20to%20Ban%20the%20Venezuelan%20Petro" class="social-share-link" title="Share &quot;The US President Issues An Executive Order to Ban the Venezuelan Petro&quot; via Tumblr" data-network-name="tumblr" data-share-title="The US President Issues An Executive Order to Ban the Venezuelan Petro" data-share-url="https://www.dashforcenews.com/the-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro/">
+				<span class="et-extra-icon et-extra-icon-tumblr et-extra-icon-background-hover" ></span>
+			</a><a href="http://www.pinterest.com/pin/create/button/?url=https://www.dashforcenews.com/the-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro/&#038;description=The%20US%20President%20Issues%20An%20Executive%20Order%20to%20Ban%20the%20Venezuelan%20Petro&#038;media=https://www.dashforcenews.com/wp-content/uploads/2018/03/no-petro-150x150.jpg" class="social-share-link" title="Share &quot;The US President Issues An Executive Order to Ban the Venezuelan Petro&quot; via Pinterest" data-network-name="pinterest" data-share-title="The US President Issues An Executive Order to Ban the Venezuelan Petro" data-share-url="https://www.dashforcenews.com/the-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro/">
+				<span class="et-extra-icon et-extra-icon-pinterest et-extra-icon-background-hover" ></span>
+			</a><a href="http://www.linkedin.com/shareArticle?mini=true&#038;url=https://www.dashforcenews.com/the-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro/&#038;title=The%20US%20President%20Issues%20An%20Executive%20Order%20to%20Ban%20the%20Venezuelan%20Petro" class="social-share-link" title="Share &quot;The US President Issues An Executive Order to Ban the Venezuelan Petro&quot; via LinkedIn" data-network-name="linkedin" data-share-title="The US President Issues An Executive Order to Ban the Venezuelan Petro" data-share-url="https://www.dashforcenews.com/the-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro/">
+				<span class="et-extra-icon et-extra-icon-linkedin et-extra-icon-background-hover" ></span>
+			</a><a href="https://bufferapp.com/add?url=https://www.dashforcenews.com/the-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro/&#038;title=The%20US%20President%20Issues%20An%20Executive%20Order%20to%20Ban%20the%20Venezuelan%20Petro" class="social-share-link" title="Share &quot;The US President Issues An Executive Order to Ban the Venezuelan Petro&quot; via Buffer" data-network-name="buffer" data-share-title="The US President Issues An Executive Order to Ban the Venezuelan Petro" data-share-url="https://www.dashforcenews.com/the-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro/">
+				<span class="et-extra-icon et-extra-icon-buffer et-extra-icon-background-hover" ></span>
+			</a><a href="http://www.stumbleupon.com/badge?url=https://www.dashforcenews.com/the-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro/&#038;title=The%20US%20President%20Issues%20An%20Executive%20Order%20to%20Ban%20the%20Venezuelan%20Petro" class="social-share-link" title="Share &quot;The US President Issues An Executive Order to Ban the Venezuelan Petro&quot; via Stumbleupon" data-network-name="stumbleupon" data-share-title="The US President Issues An Executive Order to Ban the Venezuelan Petro" data-share-url="https://www.dashforcenews.com/the-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro/">
+				<span class="et-extra-icon et-extra-icon-stumbleupon et-extra-icon-background-hover" ></span>
+			</a><a href="#" class="social-share-link" title="Share &quot;The US President Issues An Executive Order to Ban the Venezuelan Petro&quot; via Email" data-network-name="basic_email" data-share-title="The US President Issues An Executive Order to Ban the Venezuelan Petro" data-share-url="https://www.dashforcenews.com/the-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro/">
+				<span class="et-extra-icon et-extra-icon-basic_email et-extra-icon-background-hover" ></span>
+			</a><a href="#" class="social-share-link" title="Share &quot;The US President Issues An Executive Order to Ban the Venezuelan Petro&quot; via Print" data-network-name="basic_print" data-share-title="The US President Issues An Executive Order to Ban the Venezuelan Petro" data-share-url="https://www.dashforcenews.com/the-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro/">
+				<span class="et-extra-icon et-extra-icon-basic_print et-extra-icon-background-hover" ></span>
+			</a>								</div>
+																<div class="rating-stars">
+									<p id="rate-title" class="rate-title">Rate:</p><div id="rating-stars"></div><input type="hidden" id="post_id" value="18775" />								</div>
+																<style type="text/css" id="rating-stars">
+									.post-footer .rating-stars #rated-stars img.star-on,
+									.post-footer .rating-stars #rating-stars img.star-on {
+										background-color: #0a0000;
+									}
+								</style>
+							</div>
+
+																				</article>
+
+						<nav class="post-nav">
+							<div class="nav-links clearfix">
+								<div class="nav-link nav-link-prev">
+									<a href="https://www.dashforcenews.com/coinbase-holy-grail-or-white-whale/" rel="prev"><span class="button">Previous</span><span class="title">Coinbase: Holy Grail or White Whale?</span></a>								</div>
+								<div class="nav-link nav-link-next">
+									<a href="https://www.dashforcenews.com/dash-core-group-hires-cfo-relieves-growing-pains/" rel="next"><span class="button">Next</span><span class="title">Dash Core Group Hires CFO, Relieves Growing Pains</span></a>								</div>
+							</div>
+						</nav>
+												<div class="et_extra_other_module author-box vcard">
+							<div class="author-box-header">
+								<h3>About The Author</h3>
+							</div>
+							<div class="author-box-content clearfix">
+								<div class="author-box-avatar">
+									<img alt='Justin Szilard' src='https://secure.gravatar.com/avatar/b062da737f1bee2057cf9cb8b981e4d8?s=170&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/b062da737f1bee2057cf9cb8b981e4d8?s=340&#038;d=mm&#038;r=g 2x' class='avatar avatar-170 photo' height='170' width='170' />								</div>
+								<div class="author-box-description">
+									<h4><a class="author-link url fn" href="https://www.dashforcenews.com/author/justin/" rel="author" title="View all posts by Justin Szilard">Justin Szilard</a></h4>
+									<p class="note">Justin Szilard is a writer with a formal background in economics and research from the London School of Economics. He is a fan of cryptocurrency, the potential it holds to help bring about a better economy and society.</p>
+									<ul class="social-icons">
+																			</ul>
+								</div>
+							</div>
+						</div>
+						
+												<div class="et_extra_other_module related-posts">
+							<div class="related-posts-header">
+								<h3>Related Posts</h3>
+							</div>
+							<div class="related-posts-content clearfix">
+																<div class="related-post">
+									<div class="featured-image"><a href="https://www.dashforcenews.com/blockcypher-interview-piiko-nrel-integrations-20-discount-announcement/" title="BlockCypher Interview &#8211; Piiko &#038; NREL Integrations + 20% Discount Announcement" class="post-thumbnail">
+				<img src="https://www.dashforcenews.com/wp-content/uploads/2018/01/blockcypher-interview-with-karen-hsu-piiko-nrel-440x264.jpg" alt="BlockCypher Interview &#8211; Piiko &#038; NREL Integrations + 20% Discount Announcement" /><span class="et_pb_extra_overlay"></span>
+			</a></div>
+									<h4 class="title"><a href="https://www.dashforcenews.com/blockcypher-interview-piiko-nrel-integrations-20-discount-announcement/">BlockCypher Interview &#8211; Piiko &#038; NREL Integrations + 20% Discount Announcement</a></h4>
+									<p class="date"><span class="updated">February 1, 2018</span></p>
+								</div>
+																<div class="related-post">
+									<div class="featured-image"><a href="https://www.dashforcenews.com/dash-passes-1-billion-market-cap/" title="Dash Passes $1 Billion Market Cap" class="post-thumbnail">
+				<img src="https://www.dashforcenews.com/wp-content/uploads/2017/05/billion-marketcap-440x264.jpg" alt="Dash Passes $1 Billion Market Cap" /><span class="et_pb_extra_overlay"></span>
+			</a></div>
+									<h4 class="title"><a href="https://www.dashforcenews.com/dash-passes-1-billion-market-cap/">Dash Passes $1 Billion Market Cap</a></h4>
+									<p class="date"><span class="updated">May 22, 2017</span></p>
+								</div>
+																<div class="related-post">
+									<div class="featured-image"><a href="https://www.dashforcenews.com/6-things-i-learned-from-working-dash-forces-troll-patrol/" title="6 Things I Learned From Working Dash Force&#8217;s &#8220;Troll Patrol&#8221;" class="post-thumbnail">
+				<img src="https://www.dashforcenews.com/wp-content/uploads/2017/09/Dash-Troll-Wars-The-Last-Crypto-440x264.jpg" alt="6 Things I Learned From Working Dash Force&#8217;s &#8220;Troll Patrol&#8221;" /><span class="et_pb_extra_overlay"></span>
+			</a></div>
+									<h4 class="title"><a href="https://www.dashforcenews.com/6-things-i-learned-from-working-dash-forces-troll-patrol/">6 Things I Learned From Working Dash Force&#8217;s &#8220;Troll Patrol&#8221;</a></h4>
+									<p class="date"><span class="updated">September 27, 2017</span></p>
+								</div>
+																<div class="related-post">
+									<div class="featured-image"><a href="https://www.dashforcenews.com/secret-weapon-everyone-missed-crypto-price-surge/" title="The Secret Weapon Everyone Missed with the Crypto Price Surge" class="post-thumbnail">
+				<img src="https://www.dashforcenews.com/wp-content/uploads/2017/11/The-Secret-Weapon-Everyone-Missed-440x264.gif" alt="The Secret Weapon Everyone Missed with the Crypto Price Surge" /><span class="et_pb_extra_overlay"></span>
+			</a></div>
+									<h4 class="title"><a href="https://www.dashforcenews.com/secret-weapon-everyone-missed-crypto-price-surge/">The Secret Weapon Everyone Missed with the Crypto Price Surge</a></h4>
+									<p class="date"><span class="updated">November 26, 2017</span></p>
+								</div>
+																							</div>
+						</div>
+										
+				
+<div id="disqus_thread"></div>
+			</div><!-- /.et_pb_extra_column.et_pb_extra_column_main -->
+
+			<div class="et_pb_extra_column_sidebar">
+	<div id="search-2" class="et_pb_widget widget_search"><h4 class="widgettitle">Search</h4><form role="search" method="get" class="search-form" action="https://www.dashforcenews.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></div> <!-- end .et_pb_widget --><div id="monarchwidget-3" class="et_pb_widget widget_monarchwidget"><div class="et_social_networks et_social_2col et_social_slide et_social_rounded et_social_top et_social_withcounts et_social_mobile_on et_social_outer_dark widget_monarchwidget">
+					
+					
+					<ul class="et_social_icons_container"><li class="et_social_facebook">
+						<a href="https://www.facebook.com/dashforcenews" class="et_social_follow" data-social_name="facebook" data-social_type="follow" data-post_id="18775" target="_blank">
+							<i class="et_social_icon et_social_icon_facebook"></i>
+							<div class="et_social_network_label"><div class="et_social_count">
+						<span>35k</span>
+						<span class="et_social_count_label">Followers</span>
+					</div></div>
+							<span class="et_social_overlay"></span>
+						</a>
+					</li><li class="et_social_twitter">
+						<a href="https://twitter.com/dashforcenews" class="et_social_follow" data-social_name="twitter" data-social_type="follow" data-post_id="18775" target="_blank">
+							<i class="et_social_icon et_social_icon_twitter"></i>
+							<div class="et_social_network_label"><div class="et_social_count">
+						<span>4.3k</span>
+						<span class="et_social_count_label">Followers</span>
+					</div></div>
+							<span class="et_social_overlay"></span>
+						</a>
+					</li><li class="et_social_youtube">
+						<a href="https://www.youtube.com/channel/UCiAW4HQiYjpPmyi4v905u1A" class="et_social_follow" data-social_name="youtube" data-social_type="follow" data-post_id="18775" target="_blank">
+							<i class="et_social_icon et_social_icon_youtube"></i>
+							<div class="et_social_network_label"><div class="et_social_count">
+						<span>2.6k</span>
+						<span class="et_social_count_label">Followers</span>
+					</div></div>
+							<span class="et_social_overlay"></span>
+						</a>
+					</li><li class="et_social_googleplus">
+						<a href="https://plus.google.com/115198378803302965680" class="et_social_follow" data-social_name="googleplus" data-social_type="follow" data-post_id="18775" target="_blank">
+							<i class="et_social_icon et_social_icon_googleplus"></i>
+							<div class="et_social_network_label"><div class="et_social_count">
+						<span>60</span>
+						<span class="et_social_count_label">Followers</span>
+					</div></div>
+							<span class="et_social_overlay"></span>
+						</a>
+					</li></ul>
+				</div></div> <!-- end .et_pb_widget --><div id="text-2" class="et_pb_widget widget_text"><h4 class="widgettitle">Dash Price</h4>			<div class="textwidget"><script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currency="dash" data-base="USD" data-secondary="BTC" data-ticker="true" data-rank="false" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="true"></div></div>
+		</div> <!-- end .et_pb_widget --><div id="media_video-2" class="et_pb_widget widget_media_video"><h4 class="widgettitle">What Is Dash?</h4><div style="width:100%;" class="wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
+<video class="wp-video-shortcode" id="video-18775-1" preload="metadata" controls="controls"><source type="video/youtube" src="https://www.youtube.com/watch?v=S0oNO3mbBE8&#038;_=1" /><a href="https://www.youtube.com/watch?v=S0oNO3mbBE8">https://www.youtube.com/watch?v=S0oNO3mbBE8</a></video></div></div> <!-- end .et_pb_widget --><div id="et_ads-3" class="et_pb_widget widget_et_ads">		<div class="widget_content clearfix">
+							<div class="etad">
+									<a href="https://www.dashcentral.org" target="_blank">
+						<img src="https://www.dashforcenews.com/wp-content/uploads/2017/04/dash-dao-funded-logo-blue.png" alt="Dash Force News Funded By Dash DAO" />
+					</a>
+							</div>
+				</div>
+		</div> <!-- end .et_pb_widget --><div id="et_ads-6" class="et_pb_widget widget_et_ads">		<div class="widget_content clearfix">
+							<div class="etad">
+									<a href="https://discoverdash.com/" target="_blank">
+						<img src="https://www.dashforcenews.com/wp-content/uploads/2017/06/Discover-Dash-Merchant-Directory.jpg" alt="Discover Dash Business Directory" />
+					</a>
+							</div>
+				</div>
+		</div> <!-- end .et_pb_widget --><div id="et_ads-10" class="et_pb_widget widget_et_ads">		<div class="widget_content clearfix">
+							<div class="etad">
+									<a href="https://www.dash.org/forum/threads/dashforce-meetup-presentation-program.12802/" target="_blank">
+						<img src="https://www.dashforcenews.com/wp-content/uploads/2018/03/earn-some-dash-meetup-ad-v2.jpg" alt="Advertisement" />
+					</a>
+							</div>
+				</div>
+		</div> <!-- end .et_pb_widget --><div id="et_authors-2" class="et_pb_widget widget_et_authors"><h4 class="widgettitle">Our Authors</h4>		<div class="widget_content">
+			<ul class="widget_list">
+								<li>
+					<a href="https://www.dashforcenews.com/author/albert/" class="widget_list_portrait" rel="author">
+						<img alt='Albert Arellanes' src='https://secure.gravatar.com/avatar/d80c32f0356c24c5ea7aead4d432443a?s=150&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d80c32f0356c24c5ea7aead4d432443a?s=300&#038;d=mm&#038;r=g 2x' class='avatar avatar-150 photo' height='150' width='150' />					</a>
+					<a href="https://www.dashforcenews.com/author/albert/" class="widget_list_author">
+						<h3 class="title">Albert Arellanes</h3>
+						<span class="post-meta">6 Posts</span>
+					</a>
+				</li>
+								<li>
+					<a href="https://www.dashforcenews.com/author/amandabjohnson/" class="widget_list_portrait" rel="author">
+						<img alt='Amanda B Johnson' src='https://secure.gravatar.com/avatar/922547387fd477ccdd8a385b28313f93?s=150&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/922547387fd477ccdd8a385b28313f93?s=300&#038;d=mm&#038;r=g 2x' class='avatar avatar-150 photo' height='150' width='150' />					</a>
+					<a href="https://www.dashforcenews.com/author/amandabjohnson/" class="widget_list_author">
+						<h3 class="title">Amanda B Johnson</h3>
+						<span class="post-meta">7 Posts</span>
+					</a>
+				</li>
+								<li>
+					<a href="https://www.dashforcenews.com/author/ddink7/" class="widget_list_portrait" rel="author">
+						<img alt='David Dinkins' src='https://secure.gravatar.com/avatar/ddfc6b6f2672f78e3669fddc2b7fccb8?s=150&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/ddfc6b6f2672f78e3669fddc2b7fccb8?s=300&#038;d=mm&#038;r=g 2x' class='avatar avatar-150 photo' height='150' width='150' />					</a>
+					<a href="https://www.dashforcenews.com/author/ddink7/" class="widget_list_author">
+						<h3 class="title">David Dinkins</h3>
+						<span class="post-meta">4 Posts</span>
+					</a>
+				</li>
+								<li>
+					<a href="https://www.dashforcenews.com/author/dmitrii/" class="widget_list_portrait" rel="author">
+						<img alt='Dmitrii Zhludin' src='https://secure.gravatar.com/avatar/1cad95546c895d2e233c4641c1caa4dd?s=150&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/1cad95546c895d2e233c4641c1caa4dd?s=300&#038;d=mm&#038;r=g 2x' class='avatar avatar-150 photo' height='150' width='150' />					</a>
+					<a href="https://www.dashforcenews.com/author/dmitrii/" class="widget_list_author">
+						<h3 class="title">Dmitrii Zhludin</h3>
+						<span class="post-meta">0 Posts</span>
+					</a>
+				</li>
+								<li>
+					<a href="https://www.dashforcenews.com/author/ericsammons/" class="widget_list_portrait" rel="author">
+						<img alt='Eric Sammons' src='https://secure.gravatar.com/avatar/7a450b51b99983930f97428f40157ed4?s=150&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/7a450b51b99983930f97428f40157ed4?s=300&#038;d=mm&#038;r=g 2x' class='avatar avatar-150 photo' height='150' width='150' />					</a>
+					<a href="https://www.dashforcenews.com/author/ericsammons/" class="widget_list_author">
+						<h3 class="title">Eric Sammons</h3>
+						<span class="post-meta">58 Posts</span>
+					</a>
+				</li>
+								<li>
+					<a href="https://www.dashforcenews.com/author/fabio/" class="widget_list_portrait" rel="author">
+						<img alt='Fabio Bossi' src='https://secure.gravatar.com/avatar/c674917529a605f1d9ef36bfffc74097?s=150&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/c674917529a605f1d9ef36bfffc74097?s=300&#038;d=mm&#038;r=g 2x' class='avatar avatar-150 photo' height='150' width='150' />					</a>
+					<a href="https://www.dashforcenews.com/author/fabio/" class="widget_list_author">
+						<h3 class="title">Fabio Bossi</h3>
+						<span class="post-meta">2 Posts</span>
+					</a>
+				</li>
+								<li>
+					<a href="https://www.dashforcenews.com/author/kibbles/" class="widget_list_portrait" rel="author">
+						<img alt='James Kibbie' src='https://secure.gravatar.com/avatar/d80307a9216f1cb3ca6e433d40e5805e?s=150&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d80307a9216f1cb3ca6e433d40e5805e?s=300&#038;d=mm&#038;r=g 2x' class='avatar avatar-150 photo' height='150' width='150' />					</a>
+					<a href="https://www.dashforcenews.com/author/kibbles/" class="widget_list_author">
+						<h3 class="title">James Kibbie</h3>
+						<span class="post-meta">1 Post</span>
+					</a>
+				</li>
+								<li>
+					<a href="https://www.dashforcenews.com/author/joemoraca/" class="widget_list_portrait" rel="author">
+						<img alt='Joe Moraca' src='https://secure.gravatar.com/avatar/40228d8440d3515d86e705cee8a6e664?s=150&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/40228d8440d3515d86e705cee8a6e664?s=300&#038;d=mm&#038;r=g 2x' class='avatar avatar-150 photo' height='150' width='150' />					</a>
+					<a href="https://www.dashforcenews.com/author/joemoraca/" class="widget_list_author">
+						<h3 class="title">Joe Moraca</h3>
+						<span class="post-meta">82 Posts</span>
+					</a>
+				</li>
+								<li>
+					<a href="https://www.dashforcenews.com/author/joelvalenzuela/" class="widget_list_portrait" rel="author">
+						<img alt='Joël Valenzuela' src='https://secure.gravatar.com/avatar/d71a42008609b2ba425fc5e6e4a8e365?s=150&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d71a42008609b2ba425fc5e6e4a8e365?s=300&#038;d=mm&#038;r=g 2x' class='avatar avatar-150 photo' height='150' width='150' />					</a>
+					<a href="https://www.dashforcenews.com/author/joelvalenzuela/" class="widget_list_author">
+						<h3 class="title">Joël Valenzuela</h3>
+						<span class="post-meta">853 Posts</span>
+					</a>
+				</li>
+								<li>
+					<a href="https://www.dashforcenews.com/author/apianist16/" class="widget_list_portrait" rel="author">
+						<img alt='Jonathan Vusich' src='https://secure.gravatar.com/avatar/b52be742b50d58366b8bb70818e81a32?s=150&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/b52be742b50d58366b8bb70818e81a32?s=300&#038;d=mm&#038;r=g 2x' class='avatar avatar-150 photo' height='150' width='150' />					</a>
+					<a href="https://www.dashforcenews.com/author/apianist16/" class="widget_list_author">
+						<h3 class="title">Jonathan Vusich</h3>
+						<span class="post-meta">8 Posts</span>
+					</a>
+				</li>
+								<li>
+					<a href="https://www.dashforcenews.com/author/justin/" class="widget_list_portrait" rel="author">
+						<img alt='Justin Szilard' src='https://secure.gravatar.com/avatar/b062da737f1bee2057cf9cb8b981e4d8?s=150&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/b062da737f1bee2057cf9cb8b981e4d8?s=300&#038;d=mm&#038;r=g 2x' class='avatar avatar-150 photo' height='150' width='150' />					</a>
+					<a href="https://www.dashforcenews.com/author/justin/" class="widget_list_author">
+						<h3 class="title">Justin Szilard</h3>
+						<span class="post-meta">67 Posts</span>
+					</a>
+				</li>
+								<li>
+					<a href="https://www.dashforcenews.com/author/leonidas/" class="widget_list_portrait" rel="author">
+						<img alt='Leonidas' src='https://secure.gravatar.com/avatar/9c25f95a126f333b08df93230b3ec352?s=150&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/9c25f95a126f333b08df93230b3ec352?s=300&#038;d=mm&#038;r=g 2x' class='avatar avatar-150 photo' height='150' width='150' />					</a>
+					<a href="https://www.dashforcenews.com/author/leonidas/" class="widget_list_author">
+						<h3 class="title">Leonidas</h3>
+						<span class="post-meta">0 Posts</span>
+					</a>
+				</li>
+								<li>
+					<a href="https://www.dashforcenews.com/author/markm/" class="widget_list_portrait" rel="author">
+						<img alt='Mark Mason' src='https://secure.gravatar.com/avatar/4dccdb4024e3000f30807b6758498915?s=150&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/4dccdb4024e3000f30807b6758498915?s=300&#038;d=mm&#038;r=g 2x' class='avatar avatar-150 photo' height='150' width='150' />					</a>
+					<a href="https://www.dashforcenews.com/author/markm/" class="widget_list_author">
+						<h3 class="title">Mark Mason</h3>
+						<span class="post-meta">160 Posts</span>
+					</a>
+				</li>
+								<li>
+					<a href="https://www.dashforcenews.com/author/brianfreeman/" class="widget_list_portrait" rel="author">
+						<img alt='Mastermined' src='https://secure.gravatar.com/avatar/3fb085e314ff417363311579f9c37d26?s=150&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/3fb085e314ff417363311579f9c37d26?s=300&#038;d=mm&#038;r=g 2x' class='avatar avatar-150 photo' height='150' width='150' />					</a>
+					<a href="https://www.dashforcenews.com/author/brianfreeman/" class="widget_list_author">
+						<h3 class="title">Mastermined</h3>
+						<span class="post-meta">29 Posts</span>
+					</a>
+				</li>
+								<li>
+					<a href="https://www.dashforcenews.com/author/protesto/" class="widget_list_portrait" rel="author">
+						<img alt='MC Protesto' src='https://secure.gravatar.com/avatar/8c7651e090007cf3119f1b8ea31162b2?s=150&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/8c7651e090007cf3119f1b8ea31162b2?s=300&#038;d=mm&#038;r=g 2x' class='avatar avatar-150 photo' height='150' width='150' />					</a>
+					<a href="https://www.dashforcenews.com/author/protesto/" class="widget_list_author">
+						<h3 class="title">MC Protesto</h3>
+						<span class="post-meta">0 Posts</span>
+					</a>
+				</li>
+								<li>
+					<a href="https://www.dashforcenews.com/author/agnewpickens/" class="widget_list_portrait" rel="author">
+						<img alt='Michael Veloff' src='https://secure.gravatar.com/avatar/66b082d144c2a3f9e253f01ffe30406e?s=150&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/66b082d144c2a3f9e253f01ffe30406e?s=300&#038;d=mm&#038;r=g 2x' class='avatar avatar-150 photo' height='150' width='150' />					</a>
+					<a href="https://www.dashforcenews.com/author/agnewpickens/" class="widget_list_author">
+						<h3 class="title">Michael Veloff</h3>
+						<span class="post-meta">9 Posts</span>
+					</a>
+				</li>
+								<li>
+					<a href="https://www.dashforcenews.com/author/impression/" class="widget_list_portrait" rel="author">
+						<img alt='Rígille S. B. Menezes' src='https://secure.gravatar.com/avatar/ca45ee7a474f5065d130750d7486c0f5?s=150&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/ca45ee7a474f5065d130750d7486c0f5?s=300&#038;d=mm&#038;r=g 2x' class='avatar avatar-150 photo' height='150' width='150' />					</a>
+					<a href="https://www.dashforcenews.com/author/impression/" class="widget_list_author">
+						<h3 class="title">Rígille S. B. Menezes</h3>
+						<span class="post-meta">0 Posts</span>
+					</a>
+				</li>
+								<li>
+					<a href="https://www.dashforcenews.com/author/roxane/" class="widget_list_portrait" rel="author">
+						<img alt='Roxane' src='https://secure.gravatar.com/avatar/49097b96ca5056818c17843acefc057f?s=150&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/49097b96ca5056818c17843acefc057f?s=300&#038;d=mm&#038;r=g 2x' class='avatar avatar-150 photo' height='150' width='150' />					</a>
+					<a href="https://www.dashforcenews.com/author/roxane/" class="widget_list_author">
+						<h3 class="title">Roxane</h3>
+						<span class="post-meta">0 Posts</span>
+					</a>
+				</li>
+								<li>
+					<a href="https://www.dashforcenews.com/author/t0dd/" class="widget_list_portrait" rel="author">
+						<img alt='t0dd' src='https://secure.gravatar.com/avatar/e869df427644e79f67d99b69854088b5?s=150&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/e869df427644e79f67d99b69854088b5?s=300&#038;d=mm&#038;r=g 2x' class='avatar avatar-150 photo' height='150' width='150' />					</a>
+					<a href="https://www.dashforcenews.com/author/t0dd/" class="widget_list_author">
+						<h3 class="title">t0dd</h3>
+						<span class="post-meta">9 Posts</span>
+					</a>
+				</li>
+								<li>
+					<a href="https://www.dashforcenews.com/author/damian/" class="widget_list_portrait" rel="author">
+						<img alt='Wilmar Toro' src='https://secure.gravatar.com/avatar/d3c89c5ee05b84bca3a845912562a75d?s=150&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d3c89c5ee05b84bca3a845912562a75d?s=300&#038;d=mm&#038;r=g 2x' class='avatar avatar-150 photo' height='150' width='150' />					</a>
+					<a href="https://www.dashforcenews.com/author/damian/" class="widget_list_author">
+						<h3 class="title">Wilmar Toro</h3>
+						<span class="post-meta">4 Posts</span>
+					</a>
+				</li>
+							</ul>
+		</div>
+		</div> <!-- end .et_pb_widget --><div id="et_ads-9" class="et_pb_widget widget_et_ads">		<div class="widget_content clearfix">
+							<div class="etad">
+									<a href="https://blog.bitrefill.com/you-can-now-refill-with-dash-6bc137d31c22" target="_blank">
+						<img src="https://www.dashforcenews.com/wp-content/uploads/2018/02/bitrefill-advert.gif" alt="Dash Discount Bitrefill" />
+					</a>
+							</div>
+				</div>
+		</div> <!-- end .et_pb_widget --></div>
+
+		</div> <!-- #content-area -->
+	</div> <!-- .container -->
+	</div> <!-- #main-content -->
+
+	
+	<footer id="footer" class="footer_columns_3">
+		<div class="container">
+	<div class="et_pb_extra_row container-width-change-notify">
+						<div class="et_pb_extra_column odd column-1">
+					<div id="text-3" class="et_pb_widget widget_text"><h4 class="widgettitle">About Dash Force News</h4>			<div class="textwidget"><p><span style="color: #ffffff;"><a style="color: #ffffff;" href="https://www.dashforcenews.com/about-dash-force-news/" target="_blank"><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.dashforcenews.com/wp-content/uploads/2017/04/DFN-footer-logo.png" alt="Dash Force News" width="350" height="100" />Dash Force News</strong></a> is the world&rsquo;s premier news service covering Dash and the exciting emerging field of digital currency. We are a project of the Dash Force and are funded by the Dash DAO treasury. We are run by industry professionals and are committed to being the most trustworthy news resource on Dash and digital currency.</span></p></div>
+		</div> <!-- end .et_pb_widget -->				</div>
+								<div class="et_pb_extra_column even column-2">
+					<div id="et_ads-4" class="et_pb_widget widget_et_ads"><h4 class="widgettitle">Dash Community</h4>		<div class="widget_content clearfix">
+							<div class="etad">
+									<a href="http://www.dashchat.org" target="_blank">
+						<img src="https://www.dashforcenews.com/wp-content/uploads/2017/10/discord-dash.jpg" alt="Dash Discord Channel" />
+					</a>
+							</div>
+							<div class="etad new_line">
+									<a href="https://www.reddit.com/r/dashpay" target="_blank">
+						<img src="https://www.dashforcenews.com/wp-content/uploads/2017/04/dash-reddit.jpg" alt="Dash Reddit" />
+					</a>
+							</div>
+							<div class="etad new_line">
+									<a href="https://www.dash.org/forum/" target="_blank">
+						<img src="https://www.dashforcenews.com/wp-content/uploads/2017/04/dash-forums-icon.jpg" alt="Dash Forums" />
+					</a>
+							</div>
+							<div class="etad new_line">
+									<a href="https://t.me/DashDigitalCash" target="_blank">
+						<img src="https://www.dashforcenews.com/wp-content/uploads/2017/04/dash-telegram-icon.jpg" alt="Dash Telegram" />
+					</a>
+							</div>
+				</div>
+		</div> <!-- end .et_pb_widget -->				</div>
+								<div class="et_pb_extra_column even column-4">
+					<div id="et_social_followers-2" class="et_pb_widget widget_et_social_followers"><h4 class="widgettitle">Follow Us</h4>
+		<div class="widget_content">
+			<ul class="widget_list">
+								<li>
+						<a class="et-extra-icon et-extra-icon-facebook et-extra-icon-background social-icon" href="https://www.facebook.com/dashforcenews"></a>
+						<a href="https://www.facebook.com/dashforcenews" class="widget_list_social">
+							<h3 class="title">Facebook</h3>
+													</a>
+					</li>
+										<li>
+						<a class="et-extra-icon et-extra-icon-googleplus et-extra-icon-background social-icon" href="https://plus.google.com/115198378803302965680"></a>
+						<a href="https://plus.google.com/115198378803302965680" class="widget_list_social">
+							<h3 class="title">Google+</h3>
+													</a>
+					</li>
+										<li>
+						<a class="et-extra-icon et-extra-icon-youtube et-extra-icon-background social-icon" href="https://www.youtube.com/channel/UCiAW4HQiYjpPmyi4v905u1A"></a>
+						<a href="https://www.youtube.com/channel/UCiAW4HQiYjpPmyi4v905u1A" class="widget_list_social">
+							<h3 class="title">Youtube</h3>
+													</a>
+					</li>
+										<li>
+						<a class="et-extra-icon et-extra-icon-twitter et-extra-icon-background social-icon" href="https://twitter.com/dashforcenews"></a>
+						<a href="https://twitter.com/dashforcenews" class="widget_list_social">
+							<h3 class="title">Twitter</h3>
+													</a>
+					</li>
+								</ul>
+		</div>
+		</div> <!-- end .et_pb_widget -->				</div>
+					</div>
+</div>
+		<div id="footer-bottom">
+			<div class="container">
+
+				<!-- Footer Info -->
+				<p id="footer-info">Copyright © 2017 <a href="https://www.dashforcenews.com" title="Dash Force News">Dash Force News</a> All Rights Reserved | Blockchain Funded By <a href="https://www.dashcentral.org/budget">Dash DAO Treasury</a> Thanks For Supporting Us! </p>
+
+				<!-- Footer Navigation -->
+				
+			</div>
+		</div>
+	</footer>
+	</div> <!-- #page-container -->
+
+			<span title="Back To Top" id="back_to_top"></span>
+	
+	<div class="et_social_pin_images_outer">
+					<div class="et_social_pinterest_window">
+						<div class="et_social_modal_header"><h3>Pin It on Pinterest</h3><span class="et_social_close"></span></div>
+						<div class="et_social_pin_images" data-permalink="https://www.dashforcenews.com/the-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro/" data-title="The US President Issues An Executive Order to Ban the Venezuelan Petro" data-post_id="18775"></div>
+					</div>
+				</div><div class="et_social_sidebar_networks et_social_visible_sidebar et_social_slideright et_social_animated et_social_rounded et_social_sidebar_grow et_social_mobile_on">
+					
+					<ul class="et_social_icons_container"><li class="et_social_facebook">
+									<a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.dashforcenews.com%2Fthe-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro%2F&#038;t=The%20US%20President%20Issues%20An%20Executive%20Order%20to%20Ban%20the%20Venezuelan%20Petro" class="et_social_share" rel="nofollow" data-social_name="facebook" data-post_id="18775" data-social_type="share" data-location="sidebar">
+										<i class="et_social_icon et_social_icon_facebook"></i>
+										
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_twitter">
+									<a href="http://twitter.com/share?text=The%20US%20President%20Issues%20An%20Executive%20Order%20to%20Ban%20the%20Venezuelan%20Petro&#038;url=https%3A%2F%2Fwww.dashforcenews.com%2Fthe-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro%2F&#038;via=dashforcenews" class="et_social_share" rel="nofollow" data-social_name="twitter" data-post_id="18775" data-social_type="share" data-location="sidebar">
+										<i class="et_social_icon et_social_icon_twitter"></i>
+										
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_googleplus">
+									<a href="https://plus.google.com/share?url=https%3A%2F%2Fwww.dashforcenews.com%2Fthe-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro%2F&#038;t=The%20US%20President%20Issues%20An%20Executive%20Order%20to%20Ban%20the%20Venezuelan%20Petro" class="et_social_share" rel="nofollow" data-social_name="googleplus" data-post_id="18775" data-social_type="share" data-location="sidebar">
+										<i class="et_social_icon et_social_icon_googleplus"></i>
+										
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_reddit">
+									<a href="http://www.reddit.com/submit?url=https%3A%2F%2Fwww.dashforcenews.com%2Fthe-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro%2F&#038;title=The%20US%20President%20Issues%20An%20Executive%20Order%20to%20Ban%20the%20Venezuelan%20Petro" class="et_social_share" rel="nofollow" data-social_name="reddit" data-post_id="18775" data-social_type="share" data-location="sidebar">
+										<i class="et_social_icon et_social_icon_reddit"></i>
+										
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_all_button">
+								<a href="#" rel="nofollow" data-location="sidebar" data-page_id="18775" data-permalink="https://www.dashforcenews.com/the-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro/" data-title="The US President Issues An Executive Order to Ban the Venezuelan Petro" class="et_social_open_all">
+									<i class="et_social_icon et_social_icon_all_button"></i>
+									<span class="et_social_overlay"></span>
+								</a>
+							</li></ul>
+					<span class="et_social_hide_sidebar et_social_icon"></span>
+				</div><div class="et_social_mobile_button"></div>
+					<div class="et_social_mobile et_social_fadein">
+						<div class="et_social_heading">Share This</div>
+						<span class="et_social_close"></span>
+						<div class="et_social_networks et_social_simple et_social_rounded et_social_left">
+							<ul class="et_social_icons_container"><li class="et_social_facebook">
+									<a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.dashforcenews.com%2Fthe-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro%2F&#038;t=The%20US%20President%20Issues%20An%20Executive%20Order%20to%20Ban%20the%20Venezuelan%20Petro" class="et_social_share" rel="nofollow" data-social_name="facebook" data-post_id="18775" data-social_type="share" data-location="sidebar">
+										<i class="et_social_icon et_social_icon_facebook"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Facebook</div></div>
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_twitter">
+									<a href="http://twitter.com/share?text=The%20US%20President%20Issues%20An%20Executive%20Order%20to%20Ban%20the%20Venezuelan%20Petro&#038;url=https%3A%2F%2Fwww.dashforcenews.com%2Fthe-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro%2F&#038;via=dashforcenews" class="et_social_share" rel="nofollow" data-social_name="twitter" data-post_id="18775" data-social_type="share" data-location="sidebar">
+										<i class="et_social_icon et_social_icon_twitter"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Twitter</div></div>
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_googleplus">
+									<a href="https://plus.google.com/share?url=https%3A%2F%2Fwww.dashforcenews.com%2Fthe-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro%2F&#038;t=The%20US%20President%20Issues%20An%20Executive%20Order%20to%20Ban%20the%20Venezuelan%20Petro" class="et_social_share" rel="nofollow" data-social_name="googleplus" data-post_id="18775" data-social_type="share" data-location="sidebar">
+										<i class="et_social_icon et_social_icon_googleplus"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">Google+</div></div>
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_reddit">
+									<a href="http://www.reddit.com/submit?url=https%3A%2F%2Fwww.dashforcenews.com%2Fthe-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro%2F&#038;title=The%20US%20President%20Issues%20An%20Executive%20Order%20to%20Ban%20the%20Venezuelan%20Petro" class="et_social_share" rel="nofollow" data-social_name="reddit" data-post_id="18775" data-social_type="share" data-location="sidebar">
+										<i class="et_social_icon et_social_icon_reddit"></i>
+										<div class="et_social_network_label"><div class="et_social_networkname">reddit</div></div>
+										
+										<span class="et_social_overlay"></span>
+									</a>
+								</li><li class="et_social_all_button">
+								<a href="#" rel="nofollow" data-location="sidebar" data-page_id="18775" data-permalink="https://www.dashforcenews.com/the-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro/" data-title="The US President Issues An Executive Order to Ban the Venezuelan Petro" class="et_social_open_all">
+									<i class="et_social_icon et_social_icon_all_button"></i>
+									<span class="et_social_overlay"></span>
+								</a>
+							</li></ul>
+						</div>
+					</div>
+					<div class="et_social_mobile_overlay"></div>	<script type="text/javascript">
+		var et_animation_data = [];
+	</script>
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-25167507-15', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<div class="wpml-ls-statics-footer wpml-ls wpml-ls-legacy-list-horizontal">
+	<ul><li class="wpml-ls-slot-footer wpml-ls-item wpml-ls-item-en wpml-ls-current-language wpml-ls-first-item wpml-ls-last-item wpml-ls-item-legacy-list-horizontal">
+				<a href="https://www.dashforcenews.com/the-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro/" class="wpml-ls-link"><img class="wpml-ls-flag" src="https://www.dashforcenews.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en" title="English"><span class="wpml-ls-native">English</span></a>
+			</li></ul>
+</div><link rel='stylesheet' id='mediaelement-css'  href='https://www.dashforcenews.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.6-78496d1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://www.dashforcenews.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=4.9.4' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"dashforcenews"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.dashforcenews.com/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.15'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.15"},"disqusIdentifier":"18775 https:\/\/www.dashforcenews.com\/?p=18775","disqusShortname":"dashforcenews","disqusTitle":"The US President Issues An Executive Order to Ban the Venezuelan Petro","disqusUrl":"https:\/\/www.dashforcenews.com\/the-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro\/","postId":"18775"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.dashforcenews.com/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js?ver=3.0.15'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201812'></script>
+<script type='text/javascript' src='https://www.dashforcenews.com/wp-content/plugins/monarch/js/idle-timer.min.js?ver=1.3.25'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monarchSettings = {"ajaxurl":"https:\/\/www.dashforcenews.com\/wp-admin\/admin-ajax.php","pageurl":"https:\/\/www.dashforcenews.com\/the-us-president-issues-an-executive-order-to-ban-the-venezuelan-petro\/","stats_nonce":"63c888d9f9","share_counts":"4c311f835d","follow_counts":"bd274afe07","total_counts":"f40ec95991","media_single":"20d14b8f14","media_total":"ba0a70495e","generate_all_window_nonce":"aed0f392b2","no_img_message":"No images available for sharing on this page"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.dashforcenews.com/wp-content/plugins/monarch/js/custom.js?ver=1.3.25'></script>
+<script type='text/javascript' src='https://www.dashforcenews.com/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var EXTRA = {"images_uri":"https:\/\/www.dashforcenews.com\/wp-content\/themes\/Extra\/images\/","ajaxurl":"https:\/\/www.dashforcenews.com\/wp-admin\/admin-ajax.php","your_rating":"Your Rating:","item_in_cart_count":"%d Item in Cart","items_in_cart_count":"%d Items in Cart","item_count":"%d Item","items_count":"%d Items","rating_nonce":"d312340744","timeline_nonce":"58309766f2","blog_feed_nonce":"c16dab81a9","error":"There was a problem, please try again.","contact_error_name_required":"Name field cannot be empty.","contact_error_email_required":"Email field cannot be empty.","contact_error_email_invalid":"Please enter a valid email address.","is_ab_testing_active":"","is_cache_plugin_active":"no"};
+var et_shortcodes_strings = {"previous":"Previous","next":"Next"};
+var et_pb_custom = {"ajaxurl":"https:\/\/www.dashforcenews.com\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.dashforcenews.com\/wp-content\/themes\/Extra\/images","builder_images_uri":"https:\/\/www.dashforcenews.com\/wp-content\/themes\/Extra\/includes\/builder\/images","et_frontend_nonce":"79a55c2f37","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"22a03062ad","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","is_builder_plugin_used":"","ignore_waypoints":"no","is_divi_theme_used":"","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"18775","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":""};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.dashforcenews.com/wp-content/themes/Extra/scripts/scripts.min.js?ver=2.0.105'></script>
+<script type='text/javascript' src='https://www.dashforcenews.com/wp-includes/js/comment-reply.min.js?ver=4.9.4'></script>
+<script type='text/javascript' src='https://www.dashforcenews.com/wp-content/themes/Extra/core/admin/js/common.js?ver=3.0.106'></script>
+<script type='text/javascript' src='https://www.dashforcenews.com/wp-includes/js/wp-embed.min.js?ver=4.9.4'></script>
+<script type='text/javascript'>
+var mejsL10n = {"language":"en","strings":{"mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Turn off Fullscreen","mejs.fullscreen-on":"Go Fullscreen","mejs.download-video":"Download Video","mejs.fullscreen":"Fullscreen","mejs.time-jump-forward":["Jump forward 1 second","Jump forward %1 seconds"],"mejs.loop":"Toggle Loop","mejs.play":"Play","mejs.pause":"Pause","mejs.close":"Close","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.time-skip-back":["Skip back 1 second","Skip back %1 seconds"],"mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.mute-toggle":"Mute Toggle","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.ad-skip":"Skip ad","mejs.ad-skip-info":["Skip in 1 second","Skip in %1 seconds"],"mejs.source-chooser":"Source Chooser","mejs.stop":"Stop","mejs.speed-rate":"Speed Rate","mejs.live-broadcast":"Live Broadcast","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='https://www.dashforcenews.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.6-78496d1'></script>
+<script type='text/javascript' src='https://www.dashforcenews.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=4.9.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.dashforcenews.com/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=4.9.4'></script>
+<script type='text/javascript' src='https://www.dashforcenews.com/wp-includes/js/mediaelement/renderers/vimeo.min.js?ver=4.2.6-78496d1'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201812.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.9',blog:'127556617',post:'18775',tz:'0',srv:'www.dashforcenews.com'} ]);
+	_stq.push([ 'clickTrackerInit', '127556617', '18775' ]);
+</script>
+</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using disk: enhanced (SSL caching disabled) 
+
+Served from: www.dashforcenews.com @ 2018-03-23 03:01:22 by W3 Total Cache
+-->

@@ -1,0 +1,28 @@
+An academic who created an app that harvested data from 50m Facebook users says Cambridge Analytica and the social media firm have made him a "scapegoat".
+Dr Aleksandr Kogan said he did not know his work for Cambridge Analytica in 2014 violated Facebook's policies.
+The Ministry of Defence, Home Office and Foreign Office previously had contracts with Cambridge Analytica's parent company SCL, but they ended well before the current issues, Downing Street said.
+Theresa May, speaking during Prime Minister's Questions earlier, said the allegations were "clearly very concerning" and should be "properly investigated".
+In 2014, Facebook invited users to find out their personality type via a quiz developed by Cambridge University researcher Dr Kogan called This is Your Digital Life. 
+About 270,000 users' data was collected, but the app also collected some public data from users' friends.
+Facebook has since changed the amount of data developers can gather in this way, but a whistleblower, Christopher Wylie, says the data of about 50 million people was harvested for Cambridge Analytica before the rules on user consent were tightened up. 
+Mr Wylie claims the data was sold to Cambridge Analytica - which has no connection with Cambridge University - which then used it to psychologically profile people and deliver pro-Trump material to them.
+Sandy Parakilas, Facebook's platforms operations manager until 2012, told the Digital, Culture, Media and Sport Committee that the company had "very few ways" of discovering abuse or acting on abuse when discovered.
+"We did all the research, all the data, all the analytics, all the targeting, we ran all the digital campaign, the television campaign and our data informed all the strategy," he added. 
+The academic told BBC Radio 4's Today programme the events of the past week had been "a total shell shock".
+"My view is that I'm being basically used as a scapegoat by both Facebook and Cambridge Analytica when... we thought we were doing something that was really normal. 
+"We were assured by Cambridge Analytica that everything was perfectly legal and within the terms of service."
+He said he was following advice given to him by the UK-based consultancy, but added: "One of the great mistakes I did here was I just didn't ask enough questions." 
+He also said the accuracy of the dataset had been "exaggerated" by Cambridge Analytica, and had been more likely to hurt than help Mr Trump's campaign. 
+Damian Collins, the chairman of the Commons inquiry into fake news, accused Facebook of previously "misleading" the committee, and said it was "now time to hear from a senior Facebook executive with the sufficient authority to give an accurate account of this catastrophic failure of process". 
+On Tuesday a Cambridge University spokesperson said they had "sought and received assurances" from Dr Kogan that no University data, resources or facilities were used for his work and they had found no evidence to contradict that, but were writing to Facebook to "request all relevant evidence in their possession".
+Facebook says users' data was obtained legitimately but Cambridge Analytica failed to delete it when told to do so.
+A Facebook spokesperson said Dr Kogan was not allowed to transfer data to Cambridge Analytica, a third-party who would use the set for commercial purposes.
+It suspended Mr Nix following his comments which appeared to suggest tactics his company could use to discredit politicians online.
+Before Channel 4 News had broadcast any of the secret filming, Mr Nix told the BBC's Newsnight programme he felt the firm had been "deliberately entrapped".
+On its website, it says: "Our team of PHD data scientists, expert researchers, and seasoned political operatives have produced decisive results for campaigns and initiatives throughout the world."
+
+                    Digital fingerprints are getting bigger as people share more information online
+                
+This will mean that you won't be able to use third-party sites on Facebook and if that is is a step too far, there is a way of limiting the personal information accessible by apps while still using them:
+Unclick every category you don't want the app to access, which includes bio, birthday, family, religious views, if you are online, posts on your timeline, activities and interests
+"Never click on a 'like' button on a product service page and if you want to play these games and quizzes, don't log in through Facebook but go directly to the site," said Paul Bernal, a lecturer in Information Technology, Intellectual Property and Media Law in the University of East Anglia School of Law. 

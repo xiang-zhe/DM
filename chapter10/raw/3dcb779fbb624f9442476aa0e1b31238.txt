@@ -1,0 +1,1787 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="no-js">
+<head>
+<link rel="manifest" href="/manifest.json">
+<script type="text/javascript">
+//a general 'js' detection, must be on top level in <head>, due to CSS performance
+document.documentElement.className = "js";
+var cacheBuster = "83";
+var appBaseUrl = "/";
+var imgEnhancerBreakpoints = [0, 144, 256, 408, 650, 1023, 1597];
+var isLoggingEnabled = false;
+</script>
+<meta charset="utf-8"/>
+<title>Putin Softens Rhetoric Toward West Amid Criticism Over Landslide Win</title>
+<meta name="title" content="Putin Softens Rhetoric Toward West Amid Criticism Over Landslide Win"/>
+<meta name="description" content="Vladimir Putin has softened his rhetoric toward the West after winning a fourth term as Russia&#39;s president in a landslide victory the United States said it expected and international observers chid..." />
+<meta name="keywords" content="RFERL" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="msvalidate.01" content="AFF83BB0F77ADA2BD47CD50D350DBDC7" />
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
+<script>
+var OneSignal = window.OneSignal || [];
+OneSignal.push(["init", {
+appId: "dcba9732-9d59-46ec-aea0-e487e980e249",
+autoRegister: true,
+notifyButton: {
+enable: false
+},
+safari_web_id: 'web.onesignal.auto.14c30330-c4fb-483f-9c66-942ad147f917'
+}]);
+</script>
+<link href="https://www.rferl.org/a/russia-putin-landslide-victory-violations-vote-pressure/29108915.html" rel="canonical" />
+<meta name="apple-mobile-web-app-title" content="RFE/RL" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<meta name="apple-itunes-app" content="app-id=475986784, app-argument=//29108915.ltr" />
+<meta content="Putin Softens Rhetoric Toward West Amid Criticism Over Landslide Win" property="og:title" />
+<meta content="Vladimir Putin has softened his rhetoric toward the West after winning a fourth term as Russia&#39;s president in a landslide victory the United States said it expected and international observers chided for giving voters no &quot;real choice.&quot;" property="og:description" />
+<meta content="article" property="og:type" />
+<meta content="https://www.rferl.org/a/russia-putin-landslide-victory-violations-vote-pressure/29108915.html" property="og:url" />
+<meta content="RadioFreeEurope/RadioLiberty" property="og:site_name" />
+<meta content="https://www.facebook.com/rferl" property="article:publisher" />
+<meta content="https://gdb.rferl.org/0D25AB67-4B07-431E-8968-0635B412C186_cx9_cy5_cw91_w1200_r1_s.jpg" property="og:image" />
+<meta content="1200" property="og:image:width" />
+<meta content="675" property="og:image:height" />
+<meta content="953446944667626" property="fb:app_id" />
+<meta content="RFE/RL" name="Author" />
+<meta content="summary_large_image" name="twitter:card" />
+<meta content="@RFERL" name="twitter:site" />
+<meta content="https://gdb.rferl.org/0D25AB67-4B07-431E-8968-0635B412C186_cx9_cy5_cw91_w1200_r1_s.jpg" name="twitter:image" />
+<meta content="News, Russia, Picks" name="news_keywords" /><script type="application/ld+json">{"@context":"http://schema.org","@type":"NewsArticle","inLanguage":"en-US","mainEntityOfPage":"https://www.rferl.org/a/russia-putin-landslide-victory-violations-vote-pressure/29108915.html","url":"https://www.rferl.org/a/russia-putin-landslide-victory-violations-vote-pressure/29108915.html","headline":"Putin Softens Rhetoric Toward West Amid Criticism Over Landslide Win","name":"Putin Softens Rhetoric Toward West Amid Criticism Over Landslide Win","author":{"@type":"Person","name":"RFE/RL"},"image":{"@type":"ImageObject","url":"https://gdb.rferl.org/0D25AB67-4B07-431E-8968-0635B412C186_cx9_cy5_cw91_w1080_h608.jpg","width":1080,"height":608},"datePublished":"2018-03-19","dateModified":"2018-03-19 20:45:47Z","keywords":"News, Russia, Picks","publisher":{"@type":"Organization","name":"RadioFreeEurope/RadioLiberty","logo":{"@type":"ImageObject","url":"https://www.rferl.org/Content/responsive/RFE/en-US/img/logo-amp.png","width":169,"height":60}},"description":"Vladimir Putin has softened his rhetoric toward the West after winning a fourth term as Russia\u0027s president in a landslide victory the United States said it expected and international observers chided for giving voters no \u0022real choice.\u0022"}</script> <link rel="amphtml" href="https://www.rferl.org/amp/29108915.html" />
+<link href="/Content/responsive/RFE/en-US/RFE-en-US.css?&amp;av=7.22.0.0&amp;cb=83" rel="stylesheet"/>
+<script src="/Scripts/responsive/infographics.b?v=SxXmzPs7tORX_4CGgy2i9j_IPxVSLYegywoZHl8xx5o1?&amp;av=7.22.0.0&amp;cb=83"></script>
+<script src="/Scripts/responsive/loader.b?v=vFAgO17esSMVdepnWYXDtukOHEw-ImakVALHFmzAHe81&amp;av=7.22.0.0&amp;cb=83"></script>
+<link rel="shortcut icon" href="/Content/responsive/RFE/img/webApp/favicon.ico" />
+<link rel="apple-touch-icon" sizes="144x144" href="/Content/responsive/RFE/img/webApp/ico-144x144.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/Content/responsive/RFE/img/webApp/ico-114x114.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="/Content/responsive/RFE/img/webApp/ico-72x72.png" />
+<link rel="apple-touch-icon-precomposed" href="/Content/responsive/RFE/img/webApp/ico-57x57.png" />
+<link rel="icon" sizes="192x192" href="/Content/responsive/RFE/img/webApp/ico-192x192.png" />
+<link rel="icon" sizes="128x128" href="/Content/responsive/RFE/img/webApp/ico-128x128.png" />
+<meta name="msapplication-TileColor" content="#ffffff" />
+<meta name="msapplication-TileImage" content="/Content/responsive/RFE/img/webApp/ico-144x144.png" />
+<link rel="alternate" type="application/rss+xml" title="RFE/RL - Top Stories [RSS]" href="/api/" />
+<link rel="sitemap" type="application/rss+xml" href="/sitemap.xml" />
+</head>
+<body class="nav-no-loaded pg-article print-lay-article ">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXZBPZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <script type="text/javascript">
+if (top.location === self.location) { //if not inside of an IFrame
+var renderGtm = "true";
+if (renderGtm === "true") {
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WXZBPZ');
+}
+}
+</script>
+<!--Analytics tag js version start-->
+<script type="text/javascript">
+var utag_data={entity:"RFE",language:"English",language_service:"RFERL English",short_language_service:"ENG",property_id:"420",platform:"Responsive",platform_short:"R",runs_js:"Yes",page_title:"Putin Softens Rhetoric Toward West Amid Criticism Over Landslide Win",page_type:"29108915",page_name:"Putin Softens Rhetoric Toward West Amid Criticism Over Landslide Win",short_headline:"Putin Softens Rhetoric Toward West Amid Criticism Over Landslide Win",long_headline:"Putin Softens Rhetoric Toward West Amid Criticism Over Landslide Win",headline:"Putin Softens Rhetoric Toward West Amid Criticism Over Landslide Win",content_type:"Article",pub_year:"2018",pub_month:"03",pub_day:"19",pub_hour:"10",pub_minute:"43",pub_weekday:"Monday",byline:"RFE/RL, ",categories:"news,Russia,Picks",slug:"russia-putin-landslide-victory-violations-vote-pressure",section:"Russia",english_section:"Russia",article_uid:"29108915"};
+if(typeof(TealiumTagFrom)==='function' && typeof(TealiumTagSearchKeyword)==='function') {
+var utag_from=TealiumTagFrom();var utag_searchKeyword=TealiumTagSearchKeyword();
+if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyword"]==null) utag_data["search_keyword"]=utag_searchKeyword;if(utag_from!=null && utag_from!=='') utag_data["from"]=TealiumTagFrom();}
+(function(a,b,c,d){ a="https://tags.tiqcdn.com/utag/bbg/rferl-pangea/prod/utag.js"; b=document;c="script";d=b.createElement(c);d.src=a;d.type="text/java"+c;d.async=true; a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a); })();
+</script>
+<!--Analytics tag js version end-->
+<!-- Analytics tag management NoScript -->
+<noscript>
+<img style="position: absolute" src="https://bbg.d1.sc.omtrdc.net/b/ss/bbgrrfeenglish-bbgprod-bbgentityrferl-bbgunitrferlenglish/1/G.4--NS/919934618?pageName=rfe%3aeng%3ar%3a29108915%3aputin+softens+rhetoric+toward+west+amid+criticism+over+landslide+win&amp;c6=putin+softens+rhetoric+toward+west+amid+criticism+over+landslide+win&amp;v6=D=c6&amp;g=https%3a%2f%2fwww.rferl.org&amp;c1=D=g&amp;v1=D=g&amp;events=event1&amp;c7=putin+softens+rhetoric+toward+west+amid+criticism+over+landslide+win&amp;v7=D=c7&amp;c16=rferl+english&amp;v16=D=c16&amp;c5=russia&amp;v5=D=c5&amp;ch=english&amp;v15=D=ch&amp;c15=D=ch&amp;c4=article&amp;v4=D=c4&amp;c14=29108915&amp;v14=D=c14&amp;c20=no&amp;c17=responsive&amp;v17=D=c17" border="0" width="1" height="1" /></noscript>
+<!-- End of Analytics tag management NoScript -->
+<!--*** Accessibility links - For ScreenReaders only ***-->
+<section>
+<div class="sr-only">
+<h2>Accessibility links</h2>
+<ul>
+<li><a href="#content" data-disable-smooth-scroll="1">Skip to main content</a></li>
+<li><a href="#navigation" data-disable-smooth-scroll="1">Skip to main Navigation</a></li>
+<li><a href="#txtHeaderSearch" data-disable-smooth-scroll="1">Skip to Search</a></li>
+</ul>
+</div>
+</section>
+<div dir="ltr">
+<div id="page">
+<aside>
+<div class="c-lightbox overlay-modal">
+<div class="c-lightbox__nav">
+<button class="btn btn-rounded c-lightbox__btn c-lightbox__btn--close" title="Close">
+<span class="ico ico-close"></span>
+<span class="sr-only">Close</span>
+</button>
+<button class="btn btn-rounded c-lightbox__btn c-lightbox__btn--prev" title="Previous">
+<span class="ico ico-chevron-backward"></span>
+<span class="sr-only">Previous</span>
+</button>
+<button class="btn btn-rounded c-lightbox__btn c-lightbox__btn--next" title="Next">
+<span class="ico ico-chevron-forward"></span>
+<span class="sr-only">Next</span>
+</button>
+</div>
+<span class="c-spinner c-spinner--lightbox">
+<img src="/Content/responsive/img/player-spinner.png"
+alt="please wait"
+title="please wait" />
+</span>
+<div class="c-lightbox__content">
+<figure>
+<div class="c-lightbox__img">
+<div class="thumb">
+<img src="" alt=""/>
+</div>
+</div>
+<figcaption>
+<div class="c-lightbox__info c-lightbox__info--foot">
+<div class="d-flex">
+<span class="c-lightbox__counter"></span>
+<span class="caption caption--inverted"></span>
+</div>
+</div>
+<div class="c-lightbox__info c-lightbox__info--head">
+<span class="label c-lightbox__label">Gallery:</span>
+<a class="c-lightbox__title" href="href" title="title"></a>
+</div>
+</figcaption>
+</figure>
+</div>
+</div>
+</aside>
+<div class="hdr">
+<div class="hdr-nav-frag">
+<div class="container">
+<a href="/" id="logo">
+<img src="/Content/responsive/RFE/en-US/img/logo-compact.png" class="small" alt="logo-compact">
+<img src="/Content/responsive/RFE/en-US/img/logo.png" class="big" alt="logo">
+</a>
+<img src="/Content/responsive/RFE/en-US/img/logo-print.gif" class="logo-print" alt="logo-print">
+<ul class="compact-actions">
+<li class="action action-entity-sites">
+<a href="/navigation/allsites">
+<span class="ico ico-languages"></span>
+</a>
+</li>
+<li class="action action-srch">
+<a href="/s" title="toggle search input"><span class="sr-only access-help-text">toggle search input</span><span class="ico ico-search"></span></a>
+</li>
+<li class="action action-menu">
+<a href="/navigation.html" title="toggle main navigation"><span class="sr-only access-help-text">toggle main navigation</span><span class="ico ico-menu"></span></a>
+</li>
+</ul>
+<div class="actions">
+<div class="actions__safe-wrap">
+<div class="action action-entity-sites">
+<a href="/navigation/allsites" class="" data-smoothscroll="disabled">
+<span class="ico ico-languages"></span> <span class="name">All RFE/RL sites</span>
+<span class="arrow-open"></span>
+</a>
+</div>
+<div class="action action-socials socials">
+<ul class="follow colored">
+<li>
+<a href="https://facebook.com/rferl" title="Follow us on Facebook" class="btn btn-rounded btn-facebook" target="_blank">
+<span class="ico ico-facebook"></span>
+</a>
+</li>
+<li>
+<a href="https://twitter.com/RFERL" title="Follow us on Twitter" class="btn btn-rounded btn-twitter" target="_blank">
+<span class="ico ico-twitter"></span>
+</a>
+</li>
+<li>
+<a href="https://www.youtube.com/user/rferlonline" title="Follow us on Youtube" class="btn btn-rounded btn-youtube" target="_blank">
+<span class="ico ico-youtube"></span>
+</a>
+</li>
+<li>
+<a href="https://www.instagram.com/rfe.rl/" title="Follow us on Instagram" class="btn btn-rounded btn-instagram" target="_blank">
+<span class="ico ico-instagram"></span>
+</a>
+</li>
+<li>
+<a href="https://t.me/rferl" title="Follow us on Telegram" class="btn btn-rounded btn-telegram" target="_blank">
+<span class="ico ico-telegram"></span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="pnl-srch-top collapsed">
+<form action="/s" id="form-headerSearch" method="get" role="search"><span class="srch-elem">
+<span class="input-wrap">
+<label for="txtHeaderSearch" class="sr-only">Search</label>
+<input type="text" id="txtHeaderSearch" name="k" placeholder="Search" accesskey="s" value="" class="analyticstag-event" onkeydown="if (event.keyCode === 13) { FireAnalyticsTagEventOnSearch('search', $dom.get('txtHeaderSearch')[0].value) }" />
+</span>
+<button title="Search" type="submit" class="btn btn-srch analyticstag-event" onclick="FireAnalyticsTagEventOnSearch('search', $dom.get('txtHeaderSearch')[0].value) ">
+<span class="ico ico-search"></span>
+<span class="text">Search</span>
+</button>
+</span></form>
+</div>
+</div>
+</div>
+</div>
+<div class="sticky-nav-wrap container">
+<div class="sticked-nav-actions">
+<a href="#" title="search" class="btn btn-rounded btn-open-srch">
+<span class="sr-only access-help-text">Search</span>
+<span class="ico ico-search"></span>
+</a>
+</div>
+</div>
+<div class="nav-hdr-outer-container">
+<div class="container" id="nav-hdr-container">
+<div class="navigation collapsed" id="navigation">
+<div class="media">
+<ul class="items">
+</ul>
+</div>
+<div class="menu">
+<ul class="items">
+<li class=" collapsible item">
+<span class="handler">
+Russia
+<span title="close tab" class="ico ico-chevron-up"></span><span title="open tab" class="ico ico-chevron-down"></span><span title="add" class="ico ico-plus"></span><span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/p/5547.html">Russia</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/5569.html">Tatar-Bashkir</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/5494.html">North Caucasus</a>
+</li>
+</ul>
+</div>
+</li>
+<li class=" item">
+<a class="handler" href="/p/5516.html">Iran</a> </li>
+<li class=" collapsible item">
+<span class="handler">
+Central Asia
+<span title="close tab" class="ico ico-chevron-up"></span><span title="open tab" class="ico ico-chevron-down"></span><span title="add" class="ico ico-plus"></span><span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/p/5567.html">Kazakhstan</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/5545.html">Kyrgyzstan</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/5495.html">Tajikistan</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/5548.html">Turkmenistan</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/5496.html">Uzbekistan</a>
+</li>
+</ul>
+</div>
+</li>
+<li class=" collapsible item">
+<span class="handler">
+Caucasus
+<span title="close tab" class="ico ico-chevron-up"></span><span title="open tab" class="ico ico-chevron-down"></span><span title="add" class="ico ico-plus"></span><span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/p/5490.html">Armenia</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/5492.html">Azerbaijan</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/5544.html">Georgia</a>
+</li>
+</ul>
+</div>
+</li>
+<li class=" collapsible item">
+<span class="handler">
+South Asia
+<span title="close tab" class="ico ico-chevron-up"></span><span title="open tab" class="ico ico-chevron-down"></span><span title="add" class="ico ico-plus"></span><span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/p/5542.html">Afghanistan</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/5568.html">Pakistan</a>
+</li>
+</ul>
+</div>
+</li>
+<li class=" collapsible item">
+<span class="handler">
+Balkans
+<span title="close tab" class="ico ico-chevron-up"></span><span title="open tab" class="ico ico-chevron-down"></span><span title="add" class="ico ico-plus"></span><span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/p/6358.html">Bosnia</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/6359.html">Kosovo</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/6360.html">Macedonia</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/6361.html">Montenegro</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/6362.html">Serbia</a>
+</li>
+</ul>
+</div>
+</li>
+<li class=" collapsible item">
+<span class="handler">
+East Europe
+<span title="close tab" class="ico ico-chevron-up"></span><span title="open tab" class="ico ico-chevron-down"></span><span title="add" class="ico ico-plus"></span><span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/p/5533.html">Belarus</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/5517.html">Moldova</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/5519.html">Ukraine</a>
+</li>
+</ul>
+</div>
+</li>
+<li class=" item">
+<a class="handler" href="/p/2905.html">Visuals</a> </li>
+<li class=" item">
+<a class="handler" href="https://pressroom.rferl.org">Pressroom</a> </li>
+<li class=" last-menu-item item">
+<a class="handler" href="https://pressroom.rferl.org/p/6091.html">About</a> </li>
+<li class="service item collapsible collapsed show-more">
+<span class="handler" id="service-handler">
+<span class="more">More</span><span class="ico ico-menu"></span>
+</span>
+<div class="inner">
+<ul class="stored-items subitems"></ul>
+<ul class="options subitems">
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div data-trigger="btn-open-srch" class="sticked-nav-popup popup-srch">
+<div class="container">
+<div class="stick-srch-form">
+<form action="/s" id="form-stickyNavSearch" method="get" role="search"><span class="srch-elem">
+<span class="input-wrap">
+<label for="txtStickyNavSearch" class="sr-only">Search</label>
+<input type="text" id="txtStickyNavSearch" name="k" placeholder="Search" accesskey="s" value="" class="analyticstag-event" onkeydown="if (event.keyCode === 13) { FireAnalyticsTagEventOnSearch('search', $dom.get('txtStickyNavSearch')[0].value) }" />
+</span>
+<button title="Search" type="submit" class="btn btn-srch analyticstag-event" onclick="FireAnalyticsTagEventOnSearch('search', $dom.get('txtStickyNavSearch')[0].value) ">
+<span class="ico ico-search"></span>
+<span class="text">Search</span>
+</button>
+</span></form>
+</div>
+<button class="btn btn-close"><span class="ico ico-close"></span></button>
+</div>
+</div>
+</div>
+<div class="c-hlights c-hlights--breaking c-hlights--no-item" data-hlight-display="mobile,desktop" data-hlight-refresh="30">
+<div class="c-hlights__wrap container p-0">
+<div class="c-hlights__nav">
+<a href="#" title="Previous">
+<span class="ico ico-chevron-backward m-0"></span>
+<span class="sr-only">Previous</span>
+</a>
+<a href="#" title="Next">
+<span class="ico ico-chevron-forward m-0"></span>
+<span class="sr-only">Next</span>
+</a>
+</div>
+<input id="more-less-1" class="c-form-control read-more-state" type="checkbox" />
+<span class="c-hlights__label">
+<span class="">Breaking News</span>
+<label class="read-more-trigger p-b-0" for="more-less-1"
+data-show-more-text="Show more" data-show-less-text="Show less">
+<span class="ico ico-chevron-down"></span>
+</label>
+</span>
+<ul class="c-hlights__items">
+</ul>
+</div>
+</div> <div id="content">
+<div class="container">
+<div class="hdr-container">
+<div class="row">
+<div class="col-category col-xs-12 col-md-2 pull-left"> <img src="" data-src="https://livetracker.rfe.pangea-cms.com/counter.lt?PageType=1&amp;RecordId=29108915&amp;SiteId=8&amp;r=1884825233&amp;it=0&amp;pd=20180319104347" alt="" style="display: none; position: absolute; top: 0; left: 0" class="live-tracker-image"
+data-lt-referrerControllerUrl="https://livetracker.rfe.pangea-cms.com/api/lt/ref" data-lt-itemType="Content" data-lt-recordId="29108915" data-lt-siteId="8" />
+<noscript>
+<img src="https://livetracker.rfe.pangea-cms.com/counter.lt?PageType=1&amp;RecordId=29108915&amp;SiteId=8&amp;r=1884825233&amp;it=0&amp;pd=20180319104347" alt="" style="display: none; position: absolute; top: 0; left: 0" class="live-tracker-image"
+data-lt-referrerControllerUrl="https://livetracker.rfe.pangea-cms.com/api/lt/ref" data-lt-itemType="Content" data-lt-recordId="29108915" data-lt-siteId="8" />
+</noscript>
+<div class="category">
+<a href="/z/666">Russia</a> </div>
+</div><div class="col-title col-xs-12 col-md-10 pull-right"> <h1 class="pg-title">
+Putin Softens Rhetoric Toward West Amid Criticism Over Landslide Win </h1>
+</div><div class="col-publishing-details col-xs-12 col-sm-12 col-md-2 pull-left"> <div class="publishing-details">
+<div class="published">
+<span class="date" >
+<time datetime="2018-03-19T18:51:00+00:00">
+Last Updated: March 19, 2018 18:51 GMT
+</time>
+</span>
+</div>
+<div class="authors">
+<ul>
+<li>
+<a href="/author/19023.html" title="RFE/RL">RFE/RL</a>
+</li>
+</ul>
+</div><!-- /.authors -->
+</div>
+</div><div class="col-lg-12 separator"> <div class="separator">
+<hr class="title-line" />
+</div>
+</div><div class="col-multimedia col-xs-12 col-md-10 pull-right"> <div class="cover-media">
+<figure class="media-image js-media-expand">
+<div class="img-wrap">
+<div class="thumb">
+<img src="https://gdb.rferl.org/0D25AB67-4B07-431E-8968-0635B412C186_cx9_cy5_cw91_w250_r1_s.jpg" itemprop="url" alt="Russian President Vladimir Putin attends a meeting with campaign staff at the Kremlin in Moscow on March 19." />
+</div>
+<span class="ico ico-fullscreen ico--media-expand ico--rounded"></span>
+</div>
+<figcaption>
+<span class="caption" itemprop="caption">Russian President Vladimir Putin attends a meeting with campaign staff at the Kremlin in Moscow on March 19.</span>
+</figcaption>
+</figure>
+</div>
+</div><div class="col-xs-12 col-md-2 pull-left article-share"> <aside>
+<div class="share share--content"
+data-counter-separator="."
+data-counter-url="/a/russia-putin-landslide-victory-violations-vote-pressure/29108915.html"
+>
+<span class="label label--share stand-alone">Share</span>
+<ul class="share__list sharing">
+<li class="share__item"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_facebook' })">
+<a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.rferl.org%2fa%2frussia-putin-landslide-victory-violations-vote-pressure%2f29108915.html" title="Share on Facebook" target="_blank" class="btn btn-rounded btn-facebook">
+<span class="ico ico-facebook">
+<span>Share on Facebook</span>
+</span>
+</a>
+<span class="shares shares__facebook shares--empty">&nbsp;</span>
+</li>
+<li class="share__item"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_twitter' })">
+<a href="https://twitter.com/share?url=https%3a%2f%2fwww.rferl.org%2fa%2frussia-putin-landslide-victory-violations-vote-pressure%2f29108915.html&amp;text=Putin+Softens+Rhetoric+Toward+West+Amid+Criticism+Over+Landslide+Win" title="Share on Twitter" target="_blank" class="btn btn-rounded btn-twitter">
+<span class="ico ico-twitter">
+<span>Share on Twitter</span>
+</span>
+</a>
+<span class="shares shares__twitter shares--empty">&nbsp;</span>
+</li>
+<li class="share__item share-additional first-additional"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_vkontakte' })">
+<a href="https://vkontakte.ru/share.php?url=https%3a%2f%2fwww.rferl.org%2fa%2frussia-putin-landslide-victory-violations-vote-pressure%2f29108915.html" title="Share on В Контакте" target="_blank" class="btn btn-rounded btn-vkontakte">
+<span class="ico ico-vkontakte">
+<span>Share on В Контакте</span>
+</span>
+</a>
+<span class="shares shares__vkontakte shares--empty">&nbsp;</span>
+</li>
+<li class="share__item share-additional"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_google_plus' })">
+<a href="https://plus.google.com/share?url=https%3a%2f%2fwww.rferl.org%2fa%2frussia-putin-landslide-victory-violations-vote-pressure%2f29108915.html" title="Share on Google+" target="_blank" class="btn btn-rounded btn-g-plus">
+<span class="ico ico-g-plus">
+<span>Share on Google+</span>
+</span>
+</a>
+<span class="shares shares__g-plus shares--empty">&nbsp;</span>
+</li>
+<li class="share__item share-additional"
+>
+<a href="mailto:?body=https%3a%2f%2fwww.rferl.org%2fa%2frussia-putin-landslide-victory-violations-vote-pressure%2f29108915.html&amp;subject=Putin Softens Rhetoric Toward West Amid Criticism Over Landslide Win" title="Email to a Friend" class="btn btn-rounded btn-email ">
+<span class="ico ico-email">
+<span>Email to a Friend</span>
+</span>
+</a>
+<span class="shares shares__email shares--empty">&nbsp;</span>
+</li>
+<li class="share__item share-additional"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_linkedIn' })">
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fwww.rferl.org%2fa%2frussia-putin-landslide-victory-violations-vote-pressure%2f29108915.html&amp;title=Putin Softens Rhetoric Toward West Amid Criticism Over Landslide Win" title="Share on LinkedIn" target="_blank" class="btn btn-rounded btn-linkedin">
+<span class="ico ico-linkedin">
+<span>Share on LinkedIn</span>
+</span>
+</a>
+</li>
+<li class="share__item">
+<a title="toggle more sharing options" class="btn btn-rounded btn-load-more hidden sharing-more">
+<span class="ico ico-ellipsis"></span>
+</a>
+</li>
+</ul>
+</div>
+<div class="sticky-share-container" style="display:none">
+<div class="container">
+<a href="https://www.rferl.org" id="logo-sticky-share">&nbsp;</a>
+<div class="pg-title">
+Putin Softens Rhetoric Toward West Amid Criticism Over Landslide Win
+</div>
+<div class="sticked-nav-actions">
+<span class="label label--share">share</span>
+<div class="share share--sticky">
+<ul class="share__list sharing">
+<li class="share__item"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_facebook' })">
+<a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.rferl.org%2fa%2frussia-putin-landslide-victory-violations-vote-pressure%2f29108915.html" title="Share on Facebook" target="_blank" class="btn btn-rounded btn-rounded--small btn-facebook">
+<span class="ico ico-facebook">
+<span>Share on Facebook</span>
+</span>
+</a>
+<span class="shares shares__facebook shares--empty">&nbsp;</span>
+</li>
+<li class="share__item"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_twitter' })">
+<a href="https://twitter.com/share?url=https%3a%2f%2fwww.rferl.org%2fa%2frussia-putin-landslide-victory-violations-vote-pressure%2f29108915.html&amp;text=Putin+Softens+Rhetoric+Toward+West+Amid+Criticism+Over+Landslide+Win" title="Share on Twitter" target="_blank" class="btn btn-rounded btn-rounded--small btn-twitter">
+<span class="ico ico-twitter">
+<span>Share on Twitter</span>
+</span>
+</a>
+<span class="shares shares__twitter shares--empty">&nbsp;</span>
+</li>
+<li class="share__item"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_vkontakte' })">
+<a href="https://vkontakte.ru/share.php?url=https%3a%2f%2fwww.rferl.org%2fa%2frussia-putin-landslide-victory-violations-vote-pressure%2f29108915.html" title="Share on В Контакте" target="_blank" class="btn btn-rounded btn-rounded--small btn-vkontakte">
+<span class="ico ico-vkontakte">
+<span>Share on В Контакте</span>
+</span>
+</a>
+<span class="shares shares__vkontakte shares--empty">&nbsp;</span>
+</li>
+<li class="share__item share-additional first-additional"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_google_plus' })">
+<a href="https://plus.google.com/share?url=https%3a%2f%2fwww.rferl.org%2fa%2frussia-putin-landslide-victory-violations-vote-pressure%2f29108915.html" title="Share on Google+" target="_blank" class="btn btn-rounded btn-rounded--small btn-g-plus">
+<span class="ico ico-g-plus">
+<span>Share on Google+</span>
+</span>
+</a>
+<span class="shares shares__g-plus shares--empty">&nbsp;</span>
+</li>
+<li class="share__item share-additional"
+>
+<a href="mailto:?body=https%3a%2f%2fwww.rferl.org%2fa%2frussia-putin-landslide-victory-violations-vote-pressure%2f29108915.html&amp;subject=Putin Softens Rhetoric Toward West Amid Criticism Over Landslide Win" title="Email to a Friend" class="btn btn-rounded btn-rounded--small btn-email ">
+<span class="ico ico-email">
+<span>Email to a Friend</span>
+</span>
+</a>
+<span class="shares shares__email shares--empty">&nbsp;</span>
+</li>
+<li class="share__item share-additional"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_linkedIn' })">
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fwww.rferl.org%2fa%2frussia-putin-landslide-victory-violations-vote-pressure%2f29108915.html&amp;title=Putin Softens Rhetoric Toward West Amid Criticism Over Landslide Win" title="Share on LinkedIn" target="_blank" class="btn btn-rounded btn-rounded--small btn-linkedin">
+<span class="ico ico-linkedin">
+<span>Share on LinkedIn</span>
+</span>
+</a>
+</li>
+<li class="share__item">
+<a title="toggle more sharing options" class="btn btn-rounded btn-rounded--small btn-load-more hidden sharing-more">
+<span class="ico ico-ellipsis"></span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="links link-function">
+<p class="link-print visible-md visible-lg">
+<button class="btn btn-link btn-print" onclick="if (typeof FireAnalyticsTagEvent === 'function') {FireAnalyticsTagEvent({ on_page_event: 'print_story' });}window.print();return false" title="(CTRL+P)">
+<span class="ico ico-print"></span>Print
+</button>
+</p>
+</div>
+</aside>
+</div>
+</div>
+</div>
+<div class="body-container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10 pull-right">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 pull-left bottom-offset content-offset">
+<div>
+<div class="wsw">
+<p>MOSCOW -- Vladimir Putin has softened his rhetoric toward the West after winning a fourth term as Russia's president in a landslide victory the United States said it expected and international observers chided for giving voters no &quot;real choice.&quot;</p>
+<p>A nearly complete ballot count showed Putin winning 76.7 percent of the vote, Central Election Commission said on March 19 -- more than he received in any of his three previous elections and the highest percentage handed to any post-Soviet Russian leader.</p>
+<p>Voter turnout was over 67 percent and the other seven candidates were far behind, it said.</p>
+<p>While tainted by allegations of fraud -- in some cases backed by webcam footage appearing to show blatant ballot-box stuffing -- the resounding win sets Moscow's longest-ruling leader since Soviet dictator Josef Stalin up for six more years in office amid severely strained ties with the West.</p>
+<p>Putin's government-stoked popularity and the Kremlin's sway over politics nationwide after years of steps to sideline challengers made Putin's victory a foregone conclusion. </p>
+<p>&quot;We're not surprised by the outcome,&quot; White House spokesman Hogan Gidley told reporters on Air Force One, which was carrying President Donald Trump to New Hampshire, adding that no congratulatory phone call between the two leaders was scheduled.</p>
+<p>&quot;We will work to cultivate the relationship with Russia and we will impose costs when Russia threatens our interests, but we will also look for places to work together when it serves our interests,&quot; Gidley said.</p>
+<p>At home, tensions with the West may only have bolstered Putin's popular image as a defender of Russia and given credence to his assertions that Russia is surrounded by foreign enemies.</p>
+<p>The United States on March 15 imposed another round of sanctions on Russian entities and individuals over what Washington says was Russian meddling in the 2016 U.S. presidential election.</p>
+<p>Amid severely strained ties, Putin said on March 19 that Russia wanted to build &quot;constructive&quot; relations with other countries but that &quot;not everything depends on us.”</p>
+<p>Russia will not &quot;instigate some arms race&quot; and &quot;will spare no effort to settle all disputes with our partners by political and diplomatic means,&quot; Putin said, adding that Moscow will always defend its own national interests.</p>
+<p>Putin -- who warned the West on March 1 that Russia had deployed or developed formidable new nuclear arms -- vowed to decrease defense spending but said there will be no problem finding money for weapons and national defense.</p><div class="wsw__embed">
+<figure class="media-image js-media-expand">
+<div class="img-wrap">
+<div class="thumb">
+<img alt="The head of Russia&#39;s Central Election Commission, Ella Pamfilova, talks to reporters on March 19." src="https://gdb.rferl.org/42900311-306E-4A00-B005-3A1C93D73184_w250_r0_s.jpg" />
+</div>
+<span class="ico ico-fullscreen ico--media-expand ico--rounded" />
+</div>
+<figcaption>
+<span class="caption">The head of Russia&#39;s Central Election Commission, Ella Pamfilova, talks to reporters on March 19.</span>
+</figcaption>
+</figure>
+</div>
+<p>Central Election Commission chief Pamfilova said voting results had been annulled in five districts amid reports of ballot-stuffing, but she denied any incidents of observers being attacked or blocked from polling stations, despite apparent video evidence posted online.</p>
+<p>She asserted that were &quot;at least two times fewer&quot; violations than in the 2012 presidential vote, which put Putin back in the Kremlin after four years as prime minister.</p>
+<p>The Organization for Security and Cooperation in Europe (OSCE), which had more than 500 observers in Russia for the vote, said that while legal and technical aspects of the election were well administered, &quot;the extensive coverage in most media of the incumbent as president resulted in an uneven playing field.&quot;</p>
+<p>&quot;Choice without real competition, as we have seen here, is not real choice,&quot; Michael Georg Link, special coordinator and leader of the OSCE's short-term observer mission, told reporters in Moscow. </p>
+<p>&quot;But where the legal framework restricts many fundamental freedoms and the outcome is not in doubt, elections almost lose their purpose -- empowering people to choose their leaders,&quot; he added.</p>
+<p><strong>Foreign Reactions</strong></p>
+<p>Among the first leaders to congratulate Putin was Chinese President Xi Jinping, who has just been handed a second term himself and appeared to be positioned for indefinite rule after presidential term limits were lifted last week.</p><div class="wsw__embed">
+<div class="media-pholder ">
+<div class="c-sticky-container" data-poster="https://gdb.rferl.org/5c45f53a-6c50-4c05-83f6-0b3fc3e96562_tv_w250_r1.jpg">
+<div class="c-sticky-element" data-sp_api=pangea-video>
+<div class="c-mmp c-mmp--enabled c-mmp--loading c-mmp--video c-mmp--standard c-mmp--has-poster c-sticky-element__swipe-el"
+data-player_id=""
+data-title="Putin Celebrates Victory With Supporters"
+data-hide-title="False"
+data-breakpoint_s="320"
+data-breakpoint_m="640"
+data-breakpoint_l="992"
+data-hlsjs-src="/Scripts/responsive/hls.b"
+>
+<!-- Poster image -->
+<div class="c-mmp__poster js-poster">
+<img src="https://gdb.rferl.org/5c45f53a-6c50-4c05-83f6-0b3fc3e96562_tv_w250_r1.jpg" alt="Putin Celebrates Victory With Supporters" title="Putin Celebrates Victory With Supporters" />
+</div>
+<!-- no-JS fallback link -->
+<a class="c-mmp__fallback-link" href="https://flashvideo.rferl.org/Videoroot/Pangeavideo/2018/03/5/5c/5c45f53a-6c50-4c05-83f6-0b3fc3e96562.mp4">
+<span class="c-mmp__fallback-link-icon">
+<span class="ico ico-play"></span>
+</span>
+</a>
+<!-- "loading" spinner -->
+<div class="c-spinner">
+<img src="/Content/responsive/img/player-spinner.png" alt="please wait" title="please wait" />
+</div>
+<!-- Big PLAY button -->
+<span class="c-mmp__big_play_btn js-btn-play-big">
+<span class="ico ico-play"></span>
+</span>
+<!-- Main part of player -->
+<div class="c-mmp__player">
+<video poster="https://gdb.rferl.org/5c45f53a-6c50-4c05-83f6-0b3fc3e96562_tv_w250_r1.jpg" src="https://rferl-vh.akamaihd.net/i/Pangeavideo/2018/03/5/5c/5c45f53a-6c50-4c05-83f6-0b3fc3e96562,_mobile,,_hq,_fullhd,.mp4.csmil/master.m3u8" data-fallbacksrc="https://flashvideo.rferl.org/Videoroot/Pangeavideo/2018/03/5/5c/5c45f53a-6c50-4c05-83f6-0b3fc3e96562.mp4" data-fallbacktype="video/mp4" data-type="application/x-mpegURL" data-info="Auto" data-sources="[{&quot;AmpSrc&quot;:&quot;https://flashvideo.rferl.org/Videoroot/Pangeavideo/2018/03/5/5c/5c45f53a-6c50-4c05-83f6-0b3fc3e96562_manifest.mpd&quot;,&quot;Src&quot;:&quot;https://flashvideo.rferl.org/Videoroot/Pangeavideo/2018/03/5/5c/5c45f53a-6c50-4c05-83f6-0b3fc3e96562_manifest.mpd&quot;,&quot;Type&quot;:&quot;application/dash+xml&quot;,&quot;DataInfo&quot;:&quot;Auto&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null},{&quot;AmpSrc&quot;:&quot;https://flashvideo.rferl.org/Videoroot/Pangeavideo/2018/03/5/5c/5c45f53a-6c50-4c05-83f6-0b3fc3e96562_mobile.mp4&quot;,&quot;Src&quot;:&quot;https://flashvideo.rferl.org/Videoroot/Pangeavideo/2018/03/5/5c/5c45f53a-6c50-4c05-83f6-0b3fc3e96562_mobile.mp4&quot;,&quot;Type&quot;:&quot;video/mp4&quot;,&quot;DataInfo&quot;:&quot;270p&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null},{&quot;AmpSrc&quot;:&quot;https://flashvideo.rferl.org/Videoroot/Pangeavideo/2018/03/5/5c/5c45f53a-6c50-4c05-83f6-0b3fc3e96562.mp4&quot;,&quot;Src&quot;:&quot;https://flashvideo.rferl.org/Videoroot/Pangeavideo/2018/03/5/5c/5c45f53a-6c50-4c05-83f6-0b3fc3e96562.mp4&quot;,&quot;Type&quot;:&quot;video/mp4&quot;,&quot;DataInfo&quot;:&quot;360p&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null},{&quot;AmpSrc&quot;:&quot;https://flashvideo.rferl.org/Videoroot/Pangeavideo/2018/03/5/5c/5c45f53a-6c50-4c05-83f6-0b3fc3e96562_hq.mp4&quot;,&quot;Src&quot;:&quot;https://flashvideo.rferl.org/Videoroot/Pangeavideo/2018/03/5/5c/5c45f53a-6c50-4c05-83f6-0b3fc3e96562_hq.mp4&quot;,&quot;Type&quot;:&quot;video/mp4&quot;,&quot;DataInfo&quot;:&quot;720p&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null},{&quot;AmpSrc&quot;:&quot;https://flashvideo.rferl.org/Videoroot/Pangeavideo/2018/03/5/5c/5c45f53a-6c50-4c05-83f6-0b3fc3e96562_fullhd.mp4&quot;,&quot;Src&quot;:&quot;https://flashvideo.rferl.org/Videoroot/Pangeavideo/2018/03/5/5c/5c45f53a-6c50-4c05-83f6-0b3fc3e96562_fullhd.mp4&quot;,&quot;Type&quot;:&quot;video/mp4&quot;,&quot;DataInfo&quot;:&quot;1080p&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null}]" data-lt-on-play="1" data-lt-url="https://livetracker.rfe.pangea-cms.com/counter.lt?PageType=4&RecordId=29107656&SiteId=8&r=343769377&it=0&pd=20180318231000" webkit-playsinline="webkit-playsinline" playsinline="playsinline" style="width:100%">
+<div class="c-mmp__flash-player c-mmp__flash-player--not-loaded"
+data-configfilepath="/conf/player/v/29107656.xml?isMediaPage=False&amp;isEmbeded=False&amp;lt=True"
+data-brand="RFE"
+data-graphicsurl="https://gdb.rferl.org/5c45f53a-6c50-4c05-83f6-0b3fc3e96562_tv_w250_r1.jpg"
+data-showduration="True">
+<a href="https://get.adobe.com/flashplayer/">Get Adobe Flash Player</a>
+</div>
+</video>
+</div>
+<!-- Title overlay -->
+<div class="c-mmp__overlay c-mmp__overlay--title c-mmp__overlay--partial c-mmp__overlay--disabled c-mmp__overlay--slide-from-top js-c-mmp__title-overlay">
+<span class="c-mmp__overlay-actions js-overlay-actions">
+<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--embed js-btn-embed-overlay" title="Embed">
+<span class="c-mmp__overlay-actions-link-ico ico ico-embed-code"></span>
+<span class="c-mmp__overlay-actions-link-text">Embed</span>
+</span>
+<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--share js-btn-sharing-overlay" title="share">
+<span class="c-mmp__overlay-actions-link-ico ico ico-share"></span>
+<span class="c-mmp__overlay-actions-link-text">share</span>
+</span>
+<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--close-sticky c-sticky-element__close-el" title="close">
+<span class="c-mmp__overlay-actions-link-ico ico ico-close"></span>
+</span>
+</span>
+<div class="c-mmp__overlay-title js-overlay-title">
+<h5 class="c-mmp__overlay-media-title">
+<a class="js-media-title-link" href="/a/russia-putin-landslide-victory-violations-vote-pressure/29107656.html" target="_blank" title="Putin Celebrates Victory With Supporters">Putin Celebrates Victory With Supporters</a>
+</h5>
+</div>
+</div>
+<!-- Sharing overlay (with tabs: EMBED and SHARE) -->
+<div class="c-mmp__overlay c-mmp__overlay--sharing c-mmp__overlay--disabled c-mmp__overlay--slide-from-bottom js-c-mmp__sharing-overlay">
+<span class="c-mmp__overlay-actions">
+<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--embed js-btn-embed-overlay" title="Embed">
+<span class="c-mmp__overlay-actions-link-ico ico ico-embed-code"></span>
+<span class="c-mmp__overlay-actions-link-text">Embed</span>
+</span>
+<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--share js-btn-sharing-overlay" title="share">
+<span class="c-mmp__overlay-actions-link-ico ico ico-share"></span>
+<span class="c-mmp__overlay-actions-link-text">share</span>
+</span>
+<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--close js-btn-close-overlay" title="close">
+<span class="c-mmp__overlay-actions-link-ico ico ico-close"></span>
+</span>
+</span>
+<div class="c-mmp__overlay-tabs">
+<!-- Embed overlay -->
+<div class="c-mmp__overlay-tab c-mmp__overlay-tab--disabled c-mmp__overlay-tab--slide-backward js-tab-embed-overlay" data-trigger="js-btn-embed-overlay" data-embed-source="//www.rferl.org/embed/player/0/29107656.html?type=video" role="form">
+<div class="c-mmp__overlay-body c-mmp__overlay-body--centered-vertical">
+<div class="column">
+<div class="c-mmp__status-msg ta-c js-message-embed-code-copied" role="tooltip">
+The code has been copied to your clipboard.
+</div>
+<div class="c-mmp__form-group ta-c">
+<input type="text" name="embed_code" class="c-mmp__input-text js-embed-code" dir="ltr" value="" readonly />
+<span class="c-mmp__input-btn js-btn-copy-embed-code" title="Copy to clipboard"><span class="ico ico-content-copy"></span></span>
+</div>
+<hr class="c-mmp__separator-line" />
+<div class="c-mmp__form-group ta-c">
+<label class="c-mmp__form-inline-element">
+<span class="c-mmp__form-inline-element-text" title="width">width</span>
+<input type="text" title="width" value="640" data-default="640" dir="ltr" name="embed_width" class="ta-c c-mmp__input-text c-mmp__input-text--xs js-video-embed-width" aria-live="assertive" />
+<span class="c-mmp__input-suffix">px</span>
+</label>
+<label class="c-mmp__form-inline-element">
+<span class="c-mmp__form-inline-element-text" title="height">height</span>
+<input type="text" title="height" value="360" data-default="360" dir="ltr" name="embed_height" class="ta-c c-mmp__input-text c-mmp__input-text--xs js-video-embed-height" aria-live="assertive" />
+<span class="c-mmp__input-suffix">px</span>
+</label>
+</div>
+</div>
+</div>
+</div>
+<!-- Sharing overlay -->
+<div class="c-mmp__overlay-tab c-mmp__overlay-tab--disabled c-mmp__overlay-tab--slide-forward js-tab-sharing-overlay" data-trigger="js-btn-sharing-overlay" role="form">
+<div class="c-mmp__overlay-body c-mmp__overlay-body--centered-vertical">
+<div class="column">
+<div class="not-apply-to-sticky audio-fl-bwd">
+<div class="player-content-share share share--mmp"
+data-counter-separator="."
+data-counter-url="/a/29107656.html"
+>
+<ul class="share__list sharing">
+<li class="share__item"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_facebook' })">
+<a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.rferl.org%2fa%2f29107656.html" title="Share on Facebook" target="_blank" class="btn btn-rounded btn-facebook">
+<span class="ico ico-facebook">
+</span>
+</a>
+<span class="shares shares__facebook shares--empty">&nbsp;</span>
+</li>
+<li class="share__item"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_twitter' })">
+<a href="https://twitter.com/share?url=https%3a%2f%2fwww.rferl.org%2fa%2f29107656.html&amp;text=Putin+Celebrates+Victory+With+Supporters" title="Share on Twitter" target="_blank" class="btn btn-rounded btn-twitter">
+<span class="ico ico-twitter">
+</span>
+</a>
+<span class="shares shares__twitter shares--empty">&nbsp;</span>
+</li>
+<li class="share__item">
+<a title="toggle more sharing options" class="btn btn-rounded hidden sharing-more">
+<span class="ico ico-ellipsis"></span>
+</a>
+</li>
+<li>
+<a href="/a/29107656.html" title="Share this media" class="btn btn-rounded btn-sharing-link" target="_blank">
+<span class="ico ico-ellipsis"></span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<hr class="c-mmp__separator-line audio-fl-bwd xs-hidden s-hidden" />
+<div class="c-mmp__status-msg ta-c js-message-share-url-copied" role="tooltip">
+The URL has been copied to your clipboard
+</div>
+<div class="c-mmp__form-group ta-c audio-fl-bwd xs-hidden s-hidden">
+<input type="text" name="share_url" class="c-mmp__input-text js-share-url" value="https://www.rferl.org/a/russia-putin-landslide-victory-violations-vote-pressure/29107656.html" dir="ltr" readonly />
+<span class="c-mmp__input-btn js-btn-copy-share-url" title="Copy to clipboard"><span class="ico ico-content-copy"></span></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Settings overlay -->
+<div class="c-mmp__overlay c-mmp__overlay--settings c-mmp__overlay--disabled c-mmp__overlay--slide-from-bottom js-c-mmp__settings-overlay">
+<span class="c-mmp__overlay-actions">
+<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--close js-btn-close-overlay" title="close">
+<span class="c-mmp__overlay-actions-link-ico ico ico-close"></span>
+</span>
+</span>
+<div class="c-mmp__overlay-body c-mmp__overlay-body--centered-vertical">
+<div class="column column--scrolling js-sources"></div>
+</div>
+</div>
+<!-- Disabled ("Black") player overlay -->
+<div class="c-mmp__overlay c-mmp__overlay--disabled js-c-mmp__disabled-overlay">
+<div class="c-mmp__overlay-body c-mmp__overlay-body--centered-vertical">
+<div class="column">
+<p class="ta-c"><span class="ico ico-clock"></span>No media source currently available</p>
+</div>
+</div>
+</div>
+<!-- Control panel -->
+<div class="c-mmp__cpanel-container js-cpanel-container">
+<div class="c-mmp__cpanel c-mmp__cpanel--hidden">
+<!-- Compact Progress bar -->
+<div class="c-mmp__cpanel-progress-bar">
+<span class="c-mmp__indicator c-mmp__indicator--horizontal c-mmp__indicator--compact" dir="ltr">
+<span class="c-mmp__indicator-lines">
+<span class="c-mmp__indicator-line c-mmp__indicator-line--range js-playback-range" style="width:100%"></span>
+<span class="c-mmp__indicator-line c-mmp__indicator-line--buffered js-playback-buffered" style="width:0%"></span>
+<span class="c-mmp__indicator-line c-mmp__indicator-line--played js-playback-played" style="width:0%"></span>
+<span class="c-mmp__indicator-line c-mmp__indicator-line--live js-playback-live"><span class="strip"></span></span>
+</span>
+</span>
+</div>
+<!-- LEFT: Playback controls (prev / play / pause / next) -->
+<div class="c-mmp__cpanel-playback-controls">
+<span class="c-mmp__cpanel-btn c-mmp__cpanel-btn--play js-btn-play" title="play">
+<span class="ico ico-play m-0"></span>
+</span>
+<span class="c-mmp__cpanel-btn c-mmp__cpanel-btn--pause js-btn-pause" title="pause">
+<span class="ico ico-pause m-0"></span>
+</span>
+</div>
+<!-- CENTER: Progress controls (current time / duration / progressbar) -->
+<div class="c-mmp__cpanel-progress-controls">
+<span class="c-mmp__cpanel-progress-controls-current-time js-current-time" dir="ltr">
+0:00
+</span>
+<span class="c-mmp__cpanel-progress-controls-duration js-duration" dir="ltr">
+0:00:27
+</span>
+<span class="c-mmp__indicator c-mmp__indicator--horizontal" dir="ltr">
+<span class="c-mmp__indicator-lines js-progressbar">
+<span class="c-mmp__indicator-line c-mmp__indicator-line--range js-playback-range" style="width:100%"></span>
+<span class="c-mmp__indicator-line c-mmp__indicator-line--buffered js-playback-buffered" style="width:0%"></span>
+<span class="c-mmp__indicator-line c-mmp__indicator-line--tracked js-playback-tracked" style="width:0%"></span>
+<span class="c-mmp__indicator-line c-mmp__indicator-line--played js-playback-played" style="width:0%"></span>
+<span class="c-mmp__indicator-line c-mmp__indicator-line--live js-playback-live"><span class="strip"></span></span>
+<span class="c-mmp__indicator-btn ta-c js-progressbar-btn">
+<button class="c-mmp__indicator-btn-pointer" type="button"></button>
+</span>
+<span class="c-mmp__badge c-mmp__badge--tracked-time c-mmp__badge--hidden js-progressbar-indicator-badge" dir="ltr" style="left:0%">
+<span class="c-mmp__badge-text js-progressbar-indicator-badge-text">0:00</span>
+</span>
+</span>
+</span>
+</div>
+<!-- RIGHT: Additional controls (mute / unmute / settings) -->
+<div class="c-mmp__cpanel-additional-controls">
+<span class="c-mmp__cpanel-additional-controls-volume js-volume-controls">
+<span class="c-mmp__cpanel-btn c-mmp__cpanel-btn--volume js-btn-volume" title="volume">
+<span class="ico ico-volume-unmuted m-0"></span>
+</span>
+<span class="c-mmp__indicator c-mmp__indicator--vertical js-volume-panel" dir="ltr">
+<span class="c-mmp__indicator-lines js-volumebar">
+<span class="c-mmp__indicator-line c-mmp__indicator-line--range js-volume-range" style="height:100%"></span>
+<span class="c-mmp__indicator-line c-mmp__indicator-line--volume js-volume-level" style="height:0%"></span>
+<span class="c-mmp__indicator-slider">
+<span class="c-mmp__indicator-btn ta-c c-mmp__indicator-btn--hidden js-volumebar-btn">
+<button class="c-mmp__indicator-btn-pointer" type="button"></button>
+</span>
+</span>
+</span>
+</span>
+</span>
+<div class="c-mmp__cpanel-additional-controls-settings js-settings-controls">
+<span class="c-mmp__cpanel-btn c-mmp__cpanel-btn--settings-overlay js-btn-settings-overlay" title="source switch">
+<span class="ico ico-settings m-0"></span>
+</span>
+<span class="c-mmp__cpanel-btn c-mmp__cpanel-btn--settings-expand js-btn-settings-expand" title="source switch">
+<span class="ico ico-settings m-0"></span>
+</span>
+<div class="c-mmp__expander c-mmp__expander--sources js-c-mmp__expander--sources">
+<div class="c-mmp__expander-content js-sources"></div>
+</div>
+</div>
+<a href="/embed/player/Article/29107656.html?type=video&amp;FullScreenMode=True" target="_blank" class="c-mmp__cpanel-btn c-mmp__cpanel-btn--fullscreen js-btn-fullscreen" title="fullscreen">
+<span class="ico ico-fullscreen m-0"></span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p />
+<p>Other authoritarian leaders -- incuding Kazakhstan's Nursultan Nazarbaev, Belarus's Alyaksandr Lukashenka, Egypt's Abdel Fattah al-Sisi, and Venezuela's Nicolas Maduro -- were also quick to congratulate Putin.</p>
+<p>Syrian President Bashar al-Assad, who has received crucial Russian backing in a devastating civil conflict that has led to war crimes accusations, called the election result the &quot;natural outcome of [Putin's] outstanding...performance.&quot;</p>
+<p>Japanese Prime Minister Shinzo Abe and Aleksandar Vucic, the president of traditional Russian ally Serbia, also congratulated Putin.</p>
+<p>But amid worsening tensions between the West and Russia after the poisoning of a former spy with a potent nerve agent -- an attack Britain blames on Moscow -- many leaders chose their words cautiously when they spoke to Putin. </p><div class="wsw__embed">
+<div class="media-pholder ">
+<div class="c-sticky-container" data-poster="https://gdb.rferl.org/93dd9b5b-5c01-4553-a386-bedbf81a0134_tv_w250_r1.jpg">
+<div class="c-sticky-element" data-sp_api=pangea-video>
+<div class="c-mmp c-mmp--enabled c-mmp--loading c-mmp--video c-mmp--standard c-mmp--has-poster c-sticky-element__swipe-el"
+data-player_id=""
+data-title="Ballot-Stuffing Caught On Camera At Russian Polls"
+data-hide-title="False"
+data-breakpoint_s="320"
+data-breakpoint_m="640"
+data-breakpoint_l="992"
+data-hlsjs-src="/Scripts/responsive/hls.b"
+>
+<!-- Poster image -->
+<div class="c-mmp__poster js-poster">
+<img src="https://gdb.rferl.org/93dd9b5b-5c01-4553-a386-bedbf81a0134_tv_w250_r1.jpg" alt="Ballot-Stuffing Caught On Camera At Russian Polls" title="Ballot-Stuffing Caught On Camera At Russian Polls" />
+</div>
+<!-- no-JS fallback link -->
+<a class="c-mmp__fallback-link" href="https://flashvideo.rferl.org/Videoroot/Pangeavideo/2018/03/9/93/93dd9b5b-5c01-4553-a386-bedbf81a0134.mp4">
+<span class="c-mmp__fallback-link-icon">
+<span class="ico ico-play"></span>
+</span>
+</a>
+<!-- "loading" spinner -->
+<div class="c-spinner">
+<img src="/Content/responsive/img/player-spinner.png" alt="please wait" title="please wait" />
+</div>
+<!-- Big PLAY button -->
+<span class="c-mmp__big_play_btn js-btn-play-big">
+<span class="ico ico-play"></span>
+</span>
+<!-- Main part of player -->
+<div class="c-mmp__player">
+<video poster="https://gdb.rferl.org/93dd9b5b-5c01-4553-a386-bedbf81a0134_tv_w250_r1.jpg" src="https://rferl-vh.akamaihd.net/i/Pangeavideo/2018/03/9/93/93dd9b5b-5c01-4553-a386-bedbf81a0134,_mobile,,_hq,_fullhd,.mp4.csmil/master.m3u8" data-fallbacksrc="https://flashvideo.rferl.org/Videoroot/Pangeavideo/2018/03/9/93/93dd9b5b-5c01-4553-a386-bedbf81a0134.mp4" data-fallbacktype="video/mp4" data-type="application/x-mpegURL" data-info="Auto" data-sources="[{&quot;AmpSrc&quot;:&quot;https://flashvideo.rferl.org/Videoroot/Pangeavideo/2018/03/9/93/93dd9b5b-5c01-4553-a386-bedbf81a0134_manifest.mpd&quot;,&quot;Src&quot;:&quot;https://flashvideo.rferl.org/Videoroot/Pangeavideo/2018/03/9/93/93dd9b5b-5c01-4553-a386-bedbf81a0134_manifest.mpd&quot;,&quot;Type&quot;:&quot;application/dash+xml&quot;,&quot;DataInfo&quot;:&quot;Auto&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null},{&quot;AmpSrc&quot;:&quot;https://flashvideo.rferl.org/Videoroot/Pangeavideo/2018/03/9/93/93dd9b5b-5c01-4553-a386-bedbf81a0134_mobile.mp4&quot;,&quot;Src&quot;:&quot;https://flashvideo.rferl.org/Videoroot/Pangeavideo/2018/03/9/93/93dd9b5b-5c01-4553-a386-bedbf81a0134_mobile.mp4&quot;,&quot;Type&quot;:&quot;video/mp4&quot;,&quot;DataInfo&quot;:&quot;270p&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null},{&quot;AmpSrc&quot;:&quot;https://flashvideo.rferl.org/Videoroot/Pangeavideo/2018/03/9/93/93dd9b5b-5c01-4553-a386-bedbf81a0134.mp4&quot;,&quot;Src&quot;:&quot;https://flashvideo.rferl.org/Videoroot/Pangeavideo/2018/03/9/93/93dd9b5b-5c01-4553-a386-bedbf81a0134.mp4&quot;,&quot;Type&quot;:&quot;video/mp4&quot;,&quot;DataInfo&quot;:&quot;360p&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null},{&quot;AmpSrc&quot;:&quot;https://flashvideo.rferl.org/Videoroot/Pangeavideo/2018/03/9/93/93dd9b5b-5c01-4553-a386-bedbf81a0134_hq.mp4&quot;,&quot;Src&quot;:&quot;https://flashvideo.rferl.org/Videoroot/Pangeavideo/2018/03/9/93/93dd9b5b-5c01-4553-a386-bedbf81a0134_hq.mp4&quot;,&quot;Type&quot;:&quot;video/mp4&quot;,&quot;DataInfo&quot;:&quot;720p&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null},{&quot;AmpSrc&quot;:&quot;https://flashvideo.rferl.org/Videoroot/Pangeavideo/2018/03/9/93/93dd9b5b-5c01-4553-a386-bedbf81a0134_fullhd.mp4&quot;,&quot;Src&quot;:&quot;https://flashvideo.rferl.org/Videoroot/Pangeavideo/2018/03/9/93/93dd9b5b-5c01-4553-a386-bedbf81a0134_fullhd.mp4&quot;,&quot;Type&quot;:&quot;video/mp4&quot;,&quot;DataInfo&quot;:&quot;1080p&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null}]" data-lt-on-play="1" data-lt-url="https://livetracker.rfe.pangea-cms.com/counter.lt?PageType=4&RecordId=29109634&SiteId=8&r=343769377&it=0&pd=20180319163200" webkit-playsinline="webkit-playsinline" playsinline="playsinline" style="width:100%">
+<div class="c-mmp__flash-player c-mmp__flash-player--not-loaded"
+data-configfilepath="/conf/player/v/29109634.xml?isMediaPage=False&amp;isEmbeded=False&amp;lt=True"
+data-brand="RFE"
+data-graphicsurl="https://gdb.rferl.org/93dd9b5b-5c01-4553-a386-bedbf81a0134_tv_w250_r1.jpg"
+data-showduration="True">
+<a href="https://get.adobe.com/flashplayer/">Get Adobe Flash Player</a>
+</div>
+</video>
+</div>
+<!-- Title overlay -->
+<div class="c-mmp__overlay c-mmp__overlay--title c-mmp__overlay--partial c-mmp__overlay--disabled c-mmp__overlay--slide-from-top js-c-mmp__title-overlay">
+<span class="c-mmp__overlay-actions js-overlay-actions">
+<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--embed js-btn-embed-overlay" title="Embed">
+<span class="c-mmp__overlay-actions-link-ico ico ico-embed-code"></span>
+<span class="c-mmp__overlay-actions-link-text">Embed</span>
+</span>
+<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--share js-btn-sharing-overlay" title="share">
+<span class="c-mmp__overlay-actions-link-ico ico ico-share"></span>
+<span class="c-mmp__overlay-actions-link-text">share</span>
+</span>
+<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--close-sticky c-sticky-element__close-el" title="close">
+<span class="c-mmp__overlay-actions-link-ico ico ico-close"></span>
+</span>
+</span>
+<div class="c-mmp__overlay-title js-overlay-title">
+<h5 class="c-mmp__overlay-media-title">
+<a class="js-media-title-link" href="/a/russia-putin-landslide-victory-violations-vote-pressure/29109634.html" target="_blank" title="Ballot-Stuffing Caught On Camera At Russian Polls">Ballot-Stuffing Caught On Camera At Russian Polls</a>
+</h5>
+</div>
+</div>
+<!-- Sharing overlay (with tabs: EMBED and SHARE) -->
+<div class="c-mmp__overlay c-mmp__overlay--sharing c-mmp__overlay--disabled c-mmp__overlay--slide-from-bottom js-c-mmp__sharing-overlay">
+<span class="c-mmp__overlay-actions">
+<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--embed js-btn-embed-overlay" title="Embed">
+<span class="c-mmp__overlay-actions-link-ico ico ico-embed-code"></span>
+<span class="c-mmp__overlay-actions-link-text">Embed</span>
+</span>
+<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--share js-btn-sharing-overlay" title="share">
+<span class="c-mmp__overlay-actions-link-ico ico ico-share"></span>
+<span class="c-mmp__overlay-actions-link-text">share</span>
+</span>
+<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--close js-btn-close-overlay" title="close">
+<span class="c-mmp__overlay-actions-link-ico ico ico-close"></span>
+</span>
+</span>
+<div class="c-mmp__overlay-tabs">
+<!-- Embed overlay -->
+<div class="c-mmp__overlay-tab c-mmp__overlay-tab--disabled c-mmp__overlay-tab--slide-backward js-tab-embed-overlay" data-trigger="js-btn-embed-overlay" data-embed-source="//www.rferl.org/embed/player/0/29109634.html?type=video" role="form">
+<div class="c-mmp__overlay-body c-mmp__overlay-body--centered-vertical">
+<div class="column">
+<div class="c-mmp__status-msg ta-c js-message-embed-code-copied" role="tooltip">
+The code has been copied to your clipboard.
+</div>
+<div class="c-mmp__form-group ta-c">
+<input type="text" name="embed_code" class="c-mmp__input-text js-embed-code" dir="ltr" value="" readonly />
+<span class="c-mmp__input-btn js-btn-copy-embed-code" title="Copy to clipboard"><span class="ico ico-content-copy"></span></span>
+</div>
+<hr class="c-mmp__separator-line" />
+<div class="c-mmp__form-group ta-c">
+<label class="c-mmp__form-inline-element">
+<span class="c-mmp__form-inline-element-text" title="width">width</span>
+<input type="text" title="width" value="640" data-default="640" dir="ltr" name="embed_width" class="ta-c c-mmp__input-text c-mmp__input-text--xs js-video-embed-width" aria-live="assertive" />
+<span class="c-mmp__input-suffix">px</span>
+</label>
+<label class="c-mmp__form-inline-element">
+<span class="c-mmp__form-inline-element-text" title="height">height</span>
+<input type="text" title="height" value="360" data-default="360" dir="ltr" name="embed_height" class="ta-c c-mmp__input-text c-mmp__input-text--xs js-video-embed-height" aria-live="assertive" />
+<span class="c-mmp__input-suffix">px</span>
+</label>
+</div>
+</div>
+</div>
+</div>
+<!-- Sharing overlay -->
+<div class="c-mmp__overlay-tab c-mmp__overlay-tab--disabled c-mmp__overlay-tab--slide-forward js-tab-sharing-overlay" data-trigger="js-btn-sharing-overlay" role="form">
+<div class="c-mmp__overlay-body c-mmp__overlay-body--centered-vertical">
+<div class="column">
+<div class="not-apply-to-sticky audio-fl-bwd">
+<div class="player-content-share share share--mmp"
+data-counter-separator="."
+data-counter-url="/a/29109634.html"
+>
+<ul class="share__list sharing">
+<li class="share__item"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_facebook' })">
+<a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.rferl.org%2fa%2f29109634.html" title="Share on Facebook" target="_blank" class="btn btn-rounded btn-facebook">
+<span class="ico ico-facebook">
+</span>
+</a>
+<span class="shares shares__facebook shares--empty">&nbsp;</span>
+</li>
+<li class="share__item"
+onclick="FireAnalyticsTagEvent({ on_page_event: 'share_on_twitter' })">
+<a href="https://twitter.com/share?url=https%3a%2f%2fwww.rferl.org%2fa%2f29109634.html&amp;text=Ballot-Stuffing+Caught+On+Camera+At+Russian+Polls" title="Share on Twitter" target="_blank" class="btn btn-rounded btn-twitter">
+<span class="ico ico-twitter">
+</span>
+</a>
+<span class="shares shares__twitter shares--empty">&nbsp;</span>
+</li>
+<li class="share__item">
+<a title="toggle more sharing options" class="btn btn-rounded hidden sharing-more">
+<span class="ico ico-ellipsis"></span>
+</a>
+</li>
+<li>
+<a href="/a/29109634.html" title="Share this media" class="btn btn-rounded btn-sharing-link" target="_blank">
+<span class="ico ico-ellipsis"></span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<hr class="c-mmp__separator-line audio-fl-bwd xs-hidden s-hidden" />
+<div class="c-mmp__status-msg ta-c js-message-share-url-copied" role="tooltip">
+The URL has been copied to your clipboard
+</div>
+<div class="c-mmp__form-group ta-c audio-fl-bwd xs-hidden s-hidden">
+<input type="text" name="share_url" class="c-mmp__input-text js-share-url" value="https://www.rferl.org/a/russia-putin-landslide-victory-violations-vote-pressure/29109634.html" dir="ltr" readonly />
+<span class="c-mmp__input-btn js-btn-copy-share-url" title="Copy to clipboard"><span class="ico ico-content-copy"></span></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Settings overlay -->
+<div class="c-mmp__overlay c-mmp__overlay--settings c-mmp__overlay--disabled c-mmp__overlay--slide-from-bottom js-c-mmp__settings-overlay">
+<span class="c-mmp__overlay-actions">
+<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--close js-btn-close-overlay" title="close">
+<span class="c-mmp__overlay-actions-link-ico ico ico-close"></span>
+</span>
+</span>
+<div class="c-mmp__overlay-body c-mmp__overlay-body--centered-vertical">
+<div class="column column--scrolling js-sources"></div>
+</div>
+</div>
+<!-- Disabled ("Black") player overlay -->
+<div class="c-mmp__overlay c-mmp__overlay--disabled js-c-mmp__disabled-overlay">
+<div class="c-mmp__overlay-body c-mmp__overlay-body--centered-vertical">
+<div class="column">
+<p class="ta-c"><span class="ico ico-clock"></span>No media source currently available</p>
+</div>
+</div>
+</div>
+<!-- Control panel -->
+<div class="c-mmp__cpanel-container js-cpanel-container">
+<div class="c-mmp__cpanel c-mmp__cpanel--hidden">
+<!-- Compact Progress bar -->
+<div class="c-mmp__cpanel-progress-bar">
+<span class="c-mmp__indicator c-mmp__indicator--horizontal c-mmp__indicator--compact" dir="ltr">
+<span class="c-mmp__indicator-lines">
+<span class="c-mmp__indicator-line c-mmp__indicator-line--range js-playback-range" style="width:100%"></span>
+<span class="c-mmp__indicator-line c-mmp__indicator-line--buffered js-playback-buffered" style="width:0%"></span>
+<span class="c-mmp__indicator-line c-mmp__indicator-line--played js-playback-played" style="width:0%"></span>
+<span class="c-mmp__indicator-line c-mmp__indicator-line--live js-playback-live"><span class="strip"></span></span>
+</span>
+</span>
+</div>
+<!-- LEFT: Playback controls (prev / play / pause / next) -->
+<div class="c-mmp__cpanel-playback-controls">
+<span class="c-mmp__cpanel-btn c-mmp__cpanel-btn--play js-btn-play" title="play">
+<span class="ico ico-play m-0"></span>
+</span>
+<span class="c-mmp__cpanel-btn c-mmp__cpanel-btn--pause js-btn-pause" title="pause">
+<span class="ico ico-pause m-0"></span>
+</span>
+</div>
+<!-- CENTER: Progress controls (current time / duration / progressbar) -->
+<div class="c-mmp__cpanel-progress-controls">
+<span class="c-mmp__cpanel-progress-controls-current-time js-current-time" dir="ltr">
+0:00
+</span>
+<span class="c-mmp__cpanel-progress-controls-duration js-duration" dir="ltr">
+0:01:36
+</span>
+<span class="c-mmp__indicator c-mmp__indicator--horizontal" dir="ltr">
+<span class="c-mmp__indicator-lines js-progressbar">
+<span class="c-mmp__indicator-line c-mmp__indicator-line--range js-playback-range" style="width:100%"></span>
+<span class="c-mmp__indicator-line c-mmp__indicator-line--buffered js-playback-buffered" style="width:0%"></span>
+<span class="c-mmp__indicator-line c-mmp__indicator-line--tracked js-playback-tracked" style="width:0%"></span>
+<span class="c-mmp__indicator-line c-mmp__indicator-line--played js-playback-played" style="width:0%"></span>
+<span class="c-mmp__indicator-line c-mmp__indicator-line--live js-playback-live"><span class="strip"></span></span>
+<span class="c-mmp__indicator-btn ta-c js-progressbar-btn">
+<button class="c-mmp__indicator-btn-pointer" type="button"></button>
+</span>
+<span class="c-mmp__badge c-mmp__badge--tracked-time c-mmp__badge--hidden js-progressbar-indicator-badge" dir="ltr" style="left:0%">
+<span class="c-mmp__badge-text js-progressbar-indicator-badge-text">0:00</span>
+</span>
+</span>
+</span>
+</div>
+<!-- RIGHT: Additional controls (mute / unmute / settings) -->
+<div class="c-mmp__cpanel-additional-controls">
+<span class="c-mmp__cpanel-additional-controls-volume js-volume-controls">
+<span class="c-mmp__cpanel-btn c-mmp__cpanel-btn--volume js-btn-volume" title="volume">
+<span class="ico ico-volume-unmuted m-0"></span>
+</span>
+<span class="c-mmp__indicator c-mmp__indicator--vertical js-volume-panel" dir="ltr">
+<span class="c-mmp__indicator-lines js-volumebar">
+<span class="c-mmp__indicator-line c-mmp__indicator-line--range js-volume-range" style="height:100%"></span>
+<span class="c-mmp__indicator-line c-mmp__indicator-line--volume js-volume-level" style="height:0%"></span>
+<span class="c-mmp__indicator-slider">
+<span class="c-mmp__indicator-btn ta-c c-mmp__indicator-btn--hidden js-volumebar-btn">
+<button class="c-mmp__indicator-btn-pointer" type="button"></button>
+</span>
+</span>
+</span>
+</span>
+</span>
+<div class="c-mmp__cpanel-additional-controls-settings js-settings-controls">
+<span class="c-mmp__cpanel-btn c-mmp__cpanel-btn--settings-overlay js-btn-settings-overlay" title="source switch">
+<span class="ico ico-settings m-0"></span>
+</span>
+<span class="c-mmp__cpanel-btn c-mmp__cpanel-btn--settings-expand js-btn-settings-expand" title="source switch">
+<span class="ico ico-settings m-0"></span>
+</span>
+<div class="c-mmp__expander c-mmp__expander--sources js-c-mmp__expander--sources">
+<div class="c-mmp__expander-content js-sources"></div>
+</div>
+</div>
+<a href="/embed/player/Article/29109634.html?type=video&amp;FullScreenMode=True" target="_blank" class="c-mmp__cpanel-btn c-mmp__cpanel-btn--fullscreen js-btn-fullscreen" title="fullscreen">
+<span class="ico ico-fullscreen m-0"></span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p />
+<p>In a phone call, French President Emmanuel Macron wished Putin &quot;success for the political, democratic, economic, and social modernization&quot; of Russia, and urged him to shed light on the &quot;unacceptable&quot; poisoning, the Elysee Palace <strong><a class="wsw__a" href="http://www.elysee.fr/communiques-de-presse/article/communique-entretien-telephonique-entre-emmanuel-macron-president-la-republique-et-vladimir-poutine-president-de-la-federation-de-russie/" target="_blank">said</a></strong>.</p>
+<p>Angela Merkel said in a message to Putin on March 19 that while the German chancellor “warmly” congratulated Putin, she also but also pointed to tension in relations with Moscow.</p>
+<p>&quot;Today it is more important than ever to continue the dialogue with each other and to advance the relations between our countries and our people,&quot; she said.</p>
+<p>&quot;We should therefore strive to constructively address important bilateral and international challenges and find viable solutions,&quot; she added.</p>
+<p>The editor in chief of state-funded network RT, meanwhile, asserted that Western policies and attitudes had prompted Russians to <strong><a class="wsw__a" href="https://www.rferl.org/a/putin-set-give-annual-address-amid-presidential-election-campaign/29069948.html" target="_blank">unite around Putin </a></strong>and made him stronger than ever. She seemed to suggest he could remain in power indefinitely.</p>
+<p>Railing against the West and praising Putin in a tirade on <strong><a class="wsw__a" href="https://twitter.com/M_Simonyan/status/975694196555304965" target="_blank">Twitter</a></strong>, Margarita Simonyan said that &quot;as soon as you declared him the enemy, you united us&quot; around Putin.</p>
+<p>&quot;Before, he was just our president and he could have been replaced. But now he is our chief,&quot; she wrote, using a noun -- &quot;vozhd&quot; -- that is often associated with Stalin. &quot;And we will not let [you] replace him.&quot;</p>
+<p><strong>Putin And The Seven Dwarves</strong></p>
+<p>Putin's comments about foreign ties came during a meeting with the other candidates, whom he called on to cooperate and &quot;be guided by the long-term interests of Russia and the Russian people, always putting group or party preferences on the back burner.&quot;</p>
+<p>Putin's record-high official result put him miles ahead of the seven others on the ballot, who Kremlin critics have said were window-dressing to create the illusion of competition.</p>
+<p>The election commission said Communist Party candidate Pavel Grudinin was second with almost 12 percent, followed by flamboyant ultranationalist Vladimir Zhirinovsky with almost 6 percent and TV personality Ksenia Sobchak with about 1.7 percent.</p>
+<p>The four other candidates -- liberal Grigory Yavlinsky, nationalist Sergei Baburin, Communists of Russia candidate Maksim Suraikin, and centrist Boris Titov -- had 1 percent apiece or less.</p>
+<p>Speaking to reporters after a late-night rally on voting day, Putin suggested that he would not seek the presidency again in 2030 --when he would next be eligible because of a limit of two consecutive terms.</p>
+<p>But he left the door open to a potential move to change the constitution in order to maintain power past 2024 in some capacity, saying only that he is &quot;not planning any constitutional reforms for now.&quot;</p>
+<p><strong>Reports Of Fraud</strong></p>
+<p>With help from state media, Putin is riding a wave of popularity on the fourth anniversary of Moscow's seizure of Ukraine's Crimea region and in the wake of a military intervention in Syria that has been played up on Russian television as a patriotic success.</p>
+<p>But reports of fraud dogged the election. Independent monitor Golos received reports of nearly 3,000 <strong><a class="wsw__a" href="https://www.kartanarusheniy.org/" target="_blank">alleged violations</a></strong>.</p>
+<p>Sergei Shpilkin, a physicist and data analyst who has studied fraud in previous Russian elections, suggested that <strong><a class="wsw__a" href="https://www.facebook.com/photo.php?fbid=1653419891413307&set=a.503124413109533.1073741826.100002359376948&type=3&theater" target="_blank">nearly 10 million &quot;extra&quot; votes</a></strong> -- apparently all for Putin -- may have been added through falsified turnout figures. </p>
+<p>Voters were bussed to the polls in many places, according to supporters of Aleksei Navalny, the opposition leader barred from running in the election.</p>
+<p>They also reported hundreds of cases of alleged voter fraud, notably in Moscow and St. Petersburg, two areas where Putin has relatively low support.</p>
+<p>Some voters in various regions said they had been pressured by their employers or teachers to vote and take a photograph of themselves at the polling station as evidence of their participation.</p>
+<p>While official turnout was robust even in Moscow, where it has often been lower than in the provinces, there was <strong><a class="wsw__a" href="https://www.rferl.org/a/zhenya-the-apathetic-clown-no-real-choice-russian-election/29107626.html" target="_blank">palpable apathy</a></strong> at some polling stations.</p>
+<p>Some Russians said they felt powerless to influence politics in a country dominated by Putin, who has been president or prime minister since 1999.</p>
+<p>&quot;There is no real choice,&quot; said 20-year-old Yevgeny Kiva, who was paid by a local election committee to wear a clown suit and dance with children at a polling station in Moscow.</p>
+<p>Navalny, who has organized large street protests and alleged extravagant corruption among the ruling elite, was barred from the ballot because of a conviction on embezzlement charges he contends were fabricated by the Kremlin.</p>
+<h6 class="wsw__h6">With reporting by Christopher Miller in Moscow, RFE/RL's Russian Service, Current Time TV, Meduza, Dozhd, BBC, Reuters, Time, TASS, Interfax, and RIA Novosti</h6>
+</div>
+<ul>
+</ul>
+</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 pull-left design-top-offset"> <div class="media-block-wrap">
+<h3 class="section-head">Related</h3>
+<div class="row">
+<ul>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block horizontal has-img size-4">
+<a href="/a/putins-brezhnev-moment/29107641.html"
+onclick=""
+class="img-wrap" title="The Power Vertical: Putin&#39;s Brezhnev Moment">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/D37608E2-6556-4EDA-8063-C17C6CF4ABC8_w33_r1.jpg" src="" alt="The Power Vertical: Putin&#39;s Brezhnev Moment">
+</div>
+</a>
+<div class="content">
+<a href="/a/putins-brezhnev-moment/29107641.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">The Power Vertical: Putin&#39;s Brezhnev Moment</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block horizontal has-img size-4">
+<a href="/a/putin-russia-no-plans-to-change-constitution/29107619.html"
+onclick=""
+class="img-wrap" title="Putin Says No Plans To Change Constitution For Now">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/8D7E6EB5-F166-4F95-9A03-045047D0FC7E_w33_r1.jpg" src="" alt="Putin Says No Plans To Change Constitution For Now">
+</div>
+</a>
+<div class="content">
+<a href="/a/putin-russia-no-plans-to-change-constitution/29107619.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">Putin Says No Plans To Change Constitution For Now</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block horizontal has-img size-4">
+<a href="/a/putin-2024-election-raises-curtain-on-clouded-future/29107186.html"
+onclick=""
+class="img-wrap" title="Putin&#39;s 2024 Problem: Election Win Raises Curtain On Clouded Future">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/0A6DAE23-4549-4B83-ADF1-1DA2BCD6BB4D_w33_r1.jpg" src="" alt="Putin&#39;s 2024 Problem: Election Win Raises Curtain On Clouded Future">
+</div>
+</a>
+<div class="content">
+<a href="/a/putin-2024-election-raises-curtain-on-clouded-future/29107186.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">Putin&#39;s 2024 Problem: Election Win Raises Curtain On Clouded Future</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="region">
+<div class="media-block-wrap" id="wrowblock-2025_21" data-area-id=R3_1>
+<h2 class="section-head">
+Editors&#39; Picks </h2>
+<div class="row">
+<ul>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block horizontal has-img size-4">
+<a href="/a/russia-election-fraud-10-million-votes-researcher-churovs-saw-putin/29111554.html"
+onclick=""
+class="img-wrap" title="Seeing &#39;Churov&#39;s Saw&#39;: Russian Researcher Says Putin May Have Received 10 Million Fraudulent Votes">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/DDC8095F-3FC3-4693-85C9-BFF100575EAB_cx0_cy10_cw0_w33_r1.jpg" src="" alt="An abnormally high number of Russian polling stations reported turnout percentages ending in round numbers -- like 70, 75, 80, and 85.">
+</div>
+</a>
+<div class="content">
+<a href="/a/russia-election-fraud-10-million-votes-researcher-churovs-saw-putin/29111554.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">Seeing &#39;Churov&#39;s Saw&#39;: Russian Researcher Says Putin May Have Received 10 Million Fraudulent Votes</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block horizontal has-img size-4">
+<a href="/a/night-wolves-motorcycle-club-troll-bosnia-region-putin/29111436.html"
+onclick=""
+class="img-wrap" title="Analysis: Putin&#39;s Pals, The Night Wolves, Troll Bosnia And The Region">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/E2D04539-4335-488D-AE00-E16B2F16E7B4_w33_r1.jpg" src="" alt="The leader of the Night Wolves, Aleksandr Zaldostanov (aka The Surgeon) and Russian President Vladimir Putin in Sevastopol, Crimea, in
+August 2017">
+</div>
+</a>
+<div class="content">
+<a href="/a/night-wolves-motorcycle-club-troll-bosnia-region-putin/29111436.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">Analysis: Putin&#39;s Pals, The Night Wolves, Troll Bosnia And The Region</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block horizontal has-img size-4">
+<a href="/a/daily-vertical-meet-new-tsar-same-as-old-tsar/29111162.html"
+onclick=""
+class="img-wrap" title="The Daily Vertical: Meet The New Tsar, Same As The Old Tsar">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/1672CB46-0E68-4E0A-92AA-FBC66A2442A2_w33_r1.jpg" src="">
+</div>
+</a>
+<div class="content">
+<a href="/a/daily-vertical-meet-new-tsar-same-as-old-tsar/29111162.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">The Daily Vertical: Meet The New Tsar, Same As The Old Tsar</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block horizontal has-img size-4">
+<a href="/a/putin-expected-to-sail-to-fourth-term-as-russians-vote/29105971.html"
+onclick=""
+class="img-wrap" title="Near-Final Results Give Putin Landslide Win Amid Reports Of Violations">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/B4215E20-3C68-40DD-9ACE-91880479068A_w33_r1.jpg" src="" alt="Russian President Vladimir Putin delivers a speech to his supporters on March 18. ">
+</div>
+</a>
+<div class="content">
+<a href="/a/putin-expected-to-sail-to-fourth-term-as-russians-vote/29105971.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">Near-Final Results Give Putin Landslide Win Amid Reports Of Violations</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block horizontal has-img size-4">
+<a href="/a/29098499.html"
+onclick=""
+class="img-wrap" title="Russia In The Raw">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/0BAEAC56-6A8B-4AB5-A018-3C8BA02CFA55_cx0_cy21_cw100_w33_r1.jpg" src="">
+</div>
+<span class="ico ico-infographic"></span>
+</a>
+<div class="content">
+<a href="/a/29098499.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">Russia In The Raw</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block horizontal has-img size-4">
+<a href="/a/russian-mercenaries-vagner-commanders-syria/29100402.html"
+onclick=""
+class="img-wrap" title="Russian Mercenaries: Vagner Commanders Describe Life Inside The &#39;Meat Grinder&#39;">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/E17AEA35-9A4F-4E34-954F-2F0E193ACFE2_cx0_cy12_cw0_w33_r1.jpg" src="" alt="Smoke rises following an air strike on a rebel-held area in Syria. According to one commander, a Russian officer &quot;coordinates the air cover&quot; with mercenary troops on the ground. &quot;Sometimes it is a thing of beauty to see how perfectly the aviation and artillery support works out,&quot; he says. (illustrative photo)">
+</div>
+</a>
+<div class="content">
+<a href="/a/russian-mercenaries-vagner-commanders-syria/29100402.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">Russian Mercenaries: Vagner Commanders Describe Life Inside The &#39;Meat Grinder&#39;</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block horizontal has-img size-4">
+<a href="/a/ukraine-crisis-live-blog-event-as-they-happen/28712252.html"
+onclick=""
+class="img-wrap" title="Live Blog: Ukraine In Crisis">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/8E8C78C1-035C-4313-AB05-CCFFA51CDC86_cx0_cy10_cw0_w33_r1.jpg" src="" alt="Fans gathered at Boryspil airport to meet the returning members of Ukraine&#39;s Paralympic team on March 20.">
+</div>
+</a>
+<div class="content">
+<a href="/a/ukraine-crisis-live-blog-event-as-they-happen/28712252.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">Live Blog: Ukraine In Crisis</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block horizontal has-img size-4">
+<a href="/a/russia-president-election-2018-putin-blog/29009811.html"
+onclick=""
+class="img-wrap" title="Russia 2018: Kremlin Countdown">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/509AE2AB-F926-4852-8166-DF4E02C690D3_w33_r1.png" src="">
+</div>
+</a>
+<div class="content">
+<a href="/a/russia-president-election-2018-putin-blog/29009811.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">Russia 2018: Kremlin Countdown</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="media-block-wrap" id="wrowblock-2026_21" data-area-id=R4_1>
+<h2 class="section-head">
+<a href="/p/2905.html"><span class="ico ico-chevron-forward pull-right"></span>Latest Multimedia</a> </h2>
+<div class="row">
+<ul>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block horizontal has-img size-4">
+<a href="/a/29111713.html"
+onclick=""
+class="img-wrap" title="Expelled Russian Diplomats Head To Moscow">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/0b115df0-777d-4ede-927d-9f184b9ce9db_tv_w33_r1.jpg" src="" alt="Expelled Russian Diplomats Head To Moscow">
+</div>
+<span class="ico ico-video"></span>
+</a>
+<div class="content">
+<a href="/a/29111713.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">Expelled Russian Diplomats Head To Moscow</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block horizontal has-img size-4">
+<a href="/a/29111612.html"
+onclick=""
+class="img-wrap" title="Cambridge Analytica, Facebook Under Scrutiny Over Data Use">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/c745129d-3e68-44cf-a28d-7e9b9ca8e588_tv_w33_r1.jpg" src="" alt="Cambridge Analytica, Facebook Under Scrutiny Over Data Use">
+</div>
+<span class="ico ico-video"></span>
+</a>
+<div class="content">
+<a href="/a/29111612.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">Cambridge Analytica, Facebook Under Scrutiny Over Data Use</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12">
+<div class="media-block horizontal has-img size-4">
+<a href="/a/29109634.html"
+onclick=""
+class="img-wrap" title="Ballot-Stuffing Caught On Camera At Russian Polls">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/93dd9b5b-5c01-4553-a386-bedbf81a0134_tv_w33_r1.jpg" src="" alt="Ballot-Stuffing Caught On Camera At Russian Polls">
+</div>
+<span class="ico ico-video"></span>
+</a>
+<div class="content">
+<a href="/a/29109634.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">Ballot-Stuffing Caught On Camera At Russian Polls</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div><a class="link-more" href="/p/2905.html">More Multimedia</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<div class="media-block-wrap slide-in-wg" data-cookie-id="wgt-68534-2046717">
+<div class="wg-hiding-area">
+<span class="ico ico-arrow-right"></span>
+<h3 class="section-head">Recommended</h3>
+<div class="row">
+<ul class="">
+<li class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<div class="media-block horizontal has-img size-4">
+<a href="/a/russia-election-fraud-10-million-votes-researcher-churovs-saw-putin/29111554.html"
+onclick=""
+class="img-wrap" title="Seeing &#39;Churov&#39;s Saw&#39;: Russian Researcher Says Putin May Have Received 10 Million Fraudulent Votes">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/DDC8095F-3FC3-4693-85C9-BFF100575EAB_cx0_cy10_cw0_w33_r1.jpg" src="" alt="An abnormally high number of Russian polling stations reported turnout percentages ending in round numbers -- like 70, 75, 80, and 85.">
+</div>
+</a>
+<div class="content">
+<a href="/a/russia-election-fraud-10-million-votes-researcher-churovs-saw-putin/29111554.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">Seeing &#39;Churov&#39;s Saw&#39;: Russian Researcher Says Putin May Have Received 10 Million Fraudulent Votes</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container" id="youmaylike">
+<div class="row">
+<div class="col-xs-12">
+<div class="media-block-wrap">
+<h3 class="section-head">You Might Also Like</h3>
+<ul class="row">
+<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<div class="media-block horizontal with-category has-img size-4">
+<a href="/a/russia-election-fraud-10-million-votes-researcher-churovs-saw-putin/29111554.html"
+onclick=""
+class="img-wrap" title="Seeing &#39;Churov&#39;s Saw&#39;: Russian Researcher Says Putin May Have Received 10 Million Fraudulent Votes">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/DDC8095F-3FC3-4693-85C9-BFF100575EAB_cx0_cy10_cw0_w33_r1.jpg" src="" alt="An abnormally high number of Russian polling stations reported turnout percentages ending in round numbers -- like 70, 75, 80, and 85.">
+</div>
+</a>
+<div class="content">
+<a class="category" href="/z/666">Russia</a>
+<a href="/a/russia-election-fraud-10-million-votes-researcher-churovs-saw-putin/29111554.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">Seeing &#39;Churov&#39;s Saw&#39;: Russian Researcher Says Putin May Have Received 10 Million Fraudulent Votes</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<div class="media-block horizontal with-category has-img size-4">
+<a href="/a/daily-vertical-meet-new-tsar-same-as-old-tsar/29111162.html"
+onclick=""
+class="img-wrap" title="The Daily Vertical: Meet The New Tsar, Same As The Old Tsar">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/1672CB46-0E68-4E0A-92AA-FBC66A2442A2_w33_r1.jpg" src="">
+</div>
+</a>
+<div class="content">
+<a class="category" href="/z/20343">The Power Vertical</a>
+<a href="/a/daily-vertical-meet-new-tsar-same-as-old-tsar/29111162.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">The Daily Vertical: Meet The New Tsar, Same As The Old Tsar</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<div class="media-block horizontal with-category has-img size-4">
+<a href="/a/rt-top-editor-simonyan-toasts-putin-he-is-now-our-leader/29109679.html"
+onclick=""
+class="img-wrap" title="RT&#39;s Top Editor Toasts Putin: &#39;He Used To Be Our President; Now He Is Our Leader&#39;">
+<div class="thumb thumb16_9">
+<img data-src="https://gdb.rferl.org/D9DA6A1A-2D38-4480-9024-3FB4645DADFA_cx0_cy5_cw0_w33_r1.jpg" src="" alt="Russian President Vladimir Putin and Margarita Simonyan, the chief editor of RT: &quot;We won’t let you change him.&quot;">
+</div>
+</a>
+<div class="content">
+<a class="category" href="/z/648">Transmission</a>
+<a href="/a/rt-top-editor-simonyan-toasts-putin-he-is-now-our-leader/29109679.html" onclick="">
+<h4 class="media-block__title">
+<span class="title">RT&#39;s Top Editor Toasts Putin: &#39;He Used To Be Our President; Now He Is Our Leader&#39;</span>
+</h4>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="back-to-top-nav disabled visible-xs">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<a title="Back to top" class="back-to-top-link" href="#page">
+<span class="ico ico-chevron-up"></span>
+<span class="text">Back to top</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer role="contentinfo">
+<div id="foot" class="foot">
+<div class="container">
+<div class="foot-nav collapsed" id="foot-nav">
+<div class="menu">
+<ul class="items">
+<li class="socials block-socials">
+<span class="handler" id="socials-handler">
+Follow Us
+</span>
+<div class="inner">
+<ul class="subitems follow">
+<li>
+<a href="https://facebook.com/rferl" title="Follow us on Facebook" class="btn btn-rounded btn-facebook" target="_blank">
+<span class="ico ico-facebook"></span>
+</a>
+</li>
+<li>
+<a href="https://twitter.com/RFERL" title="Follow us on Twitter" class="btn btn-rounded btn-twitter" target="_blank">
+<span class="ico ico-twitter"></span>
+</a>
+</li>
+<li>
+<a href="https://www.youtube.com/user/rferlonline" title="Follow us on Youtube" class="btn btn-rounded btn-youtube" target="_blank">
+<span class="ico ico-youtube"></span>
+</a>
+</li>
+<li>
+<a href="https://www.instagram.com/rfe.rl/" title="Follow us on Instagram" class="btn btn-rounded btn-instagram" target="_blank">
+<span class="ico ico-instagram"></span>
+</a>
+</li>
+<li>
+<a href="https://t.me/rferl" title="Follow us on Telegram" class="btn btn-rounded btn-telegram" target="_blank">
+<span class="ico ico-telegram"></span>
+</a>
+</li>
+<li>
+<a href="/rssfeeds" title="RSS" class="btn btn-rounded btn-rss">
+<span class="ico ico-rss"></span>
+</a>
+</li>
+<li>
+<a href="/podcasts" title="Podcast" class="btn btn-rounded btn-podcast">
+<span class="ico ico-podcast"></span>
+</a>
+</li>
+<li>
+<a href="/subscribe.html" title="Subscribe" class="btn btn-rounded btn-email">
+<span class="ico ico-email"></span>
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="block-primary collapsed collapsible item">
+<span class="handler">
+Quick Hits
+<span title="close tab" class="ico ico-chevron-up"></span><span title="open tab" class="ico ico-chevron-down"></span><span title="add" class="ico ico-plus"></span><span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="https://pressroom.rferl.org/p/6091.html">About RFE/RL</a>
+</li>
+<li class="subitem">
+<a class="handler" href="https://pressroom.rferl.org/p/6085.html">Contact Us</a>
+</li>
+<li class="subitem">
+<a class="handler" href="https://pressroom.rferl.org/">Press Room</a>
+</li>
+<li class="subitem">
+<a class="handler" href="https://pressroom.rferl.org/p/6116.html">Terms Of Use</a>
+</li>
+<li class="subitem">
+<a class="handler" href="https://www.rferl.mobi/jobs.html">Jobs</a>
+</li>
+<li class="subitem">
+<a class="handler" href="https://www.bbg.gov/">Broadcasting Board of Governors</a>
+</li>
+<li class="subitem">
+<a class="handler" href="https://www.rferl.org/p/6466.html">Legal</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="block-primary collapsed collapsible item">
+<span class="handler">
+Browse
+<span title="close tab" class="ico ico-chevron-up"></span><span title="open tab" class="ico ico-chevron-down"></span><span title="add" class="ico ico-plus"></span><span title="remove" class="ico ico-minus"></span>
+</span>
+<div class="inner">
+<ul class="subitems">
+<li class="subitem">
+<a class="handler" href="/p/5458.html">News</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/z/651">Features</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/2904.html">Blogs</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/p/2905.html">Multimedia</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/z/683">RFE/RL Newsline (Jan 2000-May 2008)</a>
+</li>
+<li class="subitem">
+<a class="handler" href="/z/865">Analytical Reports (Jan 2000-June 2008)</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="foot__item foot__item--copyrights">
+<p class="copyright">Radio Free Europe/Radio Liberty &#169; 2018 RFE/RL, Inc. All Rights Reserved.
+</p>
+</div>
+</div>
+</div>
+</footer> </div>
+</div>
+<script type="text/javascript">
+//test ie 6, 7, 8
+var div = document.createElement("div");
+div.innerHTML = "<!--[if lte IE 8]><i></i><![endif]-->";
+var isIe8orLower = !!div.getElementsByTagName("i").length;
+if (!isIe8orLower && !navigator.userAgent.match(/Opera Mini/i)) {
+document.getElementsByTagName("body")[0].className += " can-ff";
+}
+// mobile browsers test
+if (RFE.isMobile.any()) {
+document.getElementsByTagName("body")[0].className += " is-mobile";
+}
+else {
+document.getElementsByTagName("body")[0].className += " is-not-mobile";
+}
+</script>
+<script src="/conf.js?x=83" type="text/javascript"></script>
+<div class="responsive-indicator">
+<div class="visible-xs-block">XS</div>
+<div class="visible-sm-block">SM</div>
+<div class="visible-md-block">MD</div>
+<div class="visible-lg-block">LG</div>
+</div>
+<script type="text/javascript">
+var bar_data = {
+"apiUrl": "http://rfe.pangea-cms.com/publisher/en-US/api/frontend/itemdata",
+"apiId": "29108915",
+"apiType": "1",
+"isEmbedded": "0",
+"cookieName": "cmsLoggedIn",
+"cookieDomain": "www.rferl.org"
+};
+</script>
+</body>
+</html>

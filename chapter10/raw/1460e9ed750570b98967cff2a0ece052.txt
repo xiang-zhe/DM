@@ -1,0 +1,719 @@
+<!DOCTYPE html>
+  <html lang="en-AU">
+
+  <head>
+    <title>Vladimir Putin&#039;s re-election also marks four years since he annexed Crimea - ABC News (Australian Broadcasting Corporation)</title>
+
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="initial-scale=1.0" />
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="ABC.ContentType" content="CMArticle" />
+    <meta name="ContentId" content="9557774" />
+    <meta name="apple-mobile-web-app-title" content="ABC News"/>
+  <link rel="canonical" data-abc-platform="standard" href="http://www.abc.net.au/news/2018-03-20/crimean-tatars-russian-election-putin/9557774?pfmredir=sm" />
+
+      <link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://mobile.abc.net.au/cm/cb/8413652/News+iOS+76x76+2017/data.png" />
+          <link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://mobile.abc.net.au/cm/cb/4355924/News+iOS+120x120/data.png" />
+          <link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://mobile.abc.net.au/cm/cb/8413660/News+iOS+152x152+2017/data.png" />
+          <link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://mobile.abc.net.au/cm/cb/8413674/News+iOS+180x180+2017/data.png" />
+          <link rel="stylesheet" type="text/css" href="https://res.abc.net.au/bundles/2.2.0/styles/abc.bundle.2.2.0.min.css" media="all"/>
+  <link rel="stylesheet" type="text/css" href="http://www.abc.net.au/res/sites/news-projects/news-core/1.3.3/mobile.css" media="all"/>
+  </head>
+
+  <body class="platform-mobile">
+
+  <header>
+    <!-- Start ABC Bundle Header 2.2.0 (customised) -->
+<!--noindex-->
+<nav id="abcHeader" class="global" aria-label="ABC Network Navigation" data-resourcebase="https://res.abc.net.au/bundles/2.2.0/" data-scriptsbase="https://res.abc.net.au/bundles/2.2.0/scripts/" data-version="2.2.0">
+ <a class="abcLink home" href="http://www.abc.net.au/" data-mobile="http://mobile.abc.net.au/"><img src="https://res.abc.net.au/bundles/2.2.0/images/logo-abc@2x.png" width="65" height="16" alt="" />ABC Home</a>
+ <div class="sites">
+  <a class="controller" href="javascript:;" aria-controls="abcNavSites"><img src="https://res.abc.net.au/bundles/2.2.0/images/icon-menu-grey@1x.gif" 
+   data-src="images/icon-menu-grey@1x.gif" data-hover="images/icon-menu-blue@1x.gif" class="icon" alt="" /><span class='text'><span>Open</span> Sites <span>menu</span></span></a>
+  <div id="abcNavSites" class="menu" role="menu" aria-expanded="false">
+   <ul>
+    <li class='odd'><a class="abcLink" role="menuitem" href="http://www.abc.net.au/" data-mobile="http://mobile.abc.net.au/">ABC Home</a></li>
+    <li><a class="abcLink" role="menuitem" href="http://www.abc.net.au/news/" data-mobile="http://mobile.abc.net.au/news/">News</a></li>
+    <li class='odd'><a class="abcLink" role="menuitem" href="http://www.abc.net.au/iview/" data-mobile="http://www.abc.net.au/iview/">iview</a></li>
+    <li><a class="abcLink" role="menuitem" href="http://www.abc.net.au/tv/" data-mobile="http://www.abc.net.au/tv/">TV</a></li>
+    <li class='odd'><a class="abcLink" role="menuitem" href="http://www.abc.net.au/radio/" data-mobile="http://www.abc.net.au/radio/">Radio</a></li>
+    <li><a class="abcLink" role="menuitem" href="http://www.abc.net.au/children/" data-mobile="http://mobile.abc.net.au/children/">Kids</a></li>
+    <li class='odd'><a class="abcLink" role="menuitem" href="https://shop.abc.net.au/" data-mobile="https://shop.abc.net.au/">Shop</a></li>
+    <li><a class="abcLink more" role="menuitem" href="http://www.abc.net.au/more/" data-mobile="http://www.abc.net.au/more/">More</a></li>
+   </ul>
+  </div>
+ </div>
+ <div class="accounts">
+  <!-- Accounts is currently injected due to different URLs --><span data-src="images/icon-user-grey@1x.png" data-hover="images/icon-user-blue@1x.png"></span>
+ </div>
+ <a class="abcLink search" href="http://search.abc.net.au/s/search.html?collection=abcall_meta&form=simple"
+  data-mobile="http://search.abc.net.au/s/search.html?collection=abcall_meta&form=simple"><span>Search</span>
+  <img src="https://res.abc.net.au/bundles/2.2.0/images/icon-search-grey@1x.png" data-hover="images/icon-search-blue@1x.png" class="icon" alt="" /></a>
+</nav>
+<!--endnoindex-->
+<!-- End ABC Bundle Header 2.2.0 (customised) -->
+<nav class="site">
+    <a href="/news/" class="home">ABC News</a><div class="menu">
+      <ul>
+    <li>
+      <a href="/news/">Home</a></li>
+  <li>
+      <a href="/news/justin/">Just In</a></li>
+  <li>
+      <a href="/news/politics/">Politics</a></li>
+  <li>
+      <a href="/news/world/">World</a></li>
+  <li>
+      <a href="/news/analysis-and-opinion/">Analysis &amp; Opinion</a></li>
+  <li>
+      <a href="/news/business/">Business</a></li>
+  <li>
+      <a href="/news/sport/">Sport</a></li>
+  <li>
+      <a href="/news/science/">Science</a></li>
+  <li>
+      <a href="/news/health/">Health</a></li>
+  <li>
+      <a href="/news/arts-culture/">Arts</a></li>
+  <li>
+      <a href="/news/">Live Streams</a></li>
+  <li>
+      <a href="/news/video/">Video</a></li>
+  <li>
+      <a href="/news/photos/">Photos</a></li>
+  <li>
+      <a href="/news/entertainment/">Entertainment</a></li>
+  <li>
+      <a href="/news/upload/">Upload</a></li>
+  <li>
+      <a href="/news/alerts/subscribe/">Subscribe</a></li>
+  <li>
+      <a href="/news/rural/">Rural</a></li>
+  <li>
+      <a href="/news/more/">More &gt;</a></li>
+  </ul>
+    <a href="http://www.abc.net.au/news/2018-03-20/crimean-tatars-russian-election-putin/9557774?pfm=ms&amp;pfmredir=sm" class="platform-standard switch">Change to standard view</a></div>
+  </nav>
+<div class="section">
+        <p><a href="/news/">News Home</a></p>
+      </div>
+    </header>
+
+  <div class="content">
+    <article>
+    <header>
+      <h1>Vladimir Putin&#039;s re-election also marks four years since he annexed Crimea</h1>
+        <span class="attribution richtext">
+        By freelance correspondent <a href="/news/kim-traill/27270" target="_self" title="">Kim Traill</a></span>
+    <time class="updated" datetime="2018-03-20T15:14+11:00">
+            <small>Updated</small>
+            Tue 20 Mar 2018, 3:14 PM AEDT</time>
+    </header>
+  <figure class="type-photo">
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+<div class="media present-image">
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <a href="http://www.abc.net.au/news/image/9552974-3x2-700x467.jpg"><img src="http://www.abc.net.au/news/image/9552974-3x2-460x307.jpg" alt="Thousands of people at a rally, one in foreground holds a framed photo of Putin" title="Rally to mark the fourth anniversary of Russia&#039;s annexation of Crimea" width="460" height="307"/></a>
+</div>
+<figcaption>
+    <strong>Photo</strong>
+  <p class="caption richtext">People attend a rally marking the fourth anniversary of Russia's annexation of Ukraine's Crimea region.</p>
+  <span class="attribution richtext">Reuters: Maxim Shemetov</span>
+  </figcaption>
+</figure>
+<div class="story richtext">
+      <p>On Sunday, March 18, Vladimir Putin was elected to rule Russia as president for a further six years. </p><p>But the date also marked the fourth anniversary of his annexation of the Crimean Peninsula, or as Russia describes it the "peaceful return" of the "historically Russian" region to the Russian Federation</p><p>On February 27, 2014, masked Russian troops without insignias took control of key government and strategic sites across the Ukrainian territory of Crimea, after months of bloody protests in Kiev's Maidan Square led to the overthrow of Viktor Yanukovych's pro-Russian government. </p><p>A controversial independence referendum — widely regarded as illegitimate by the majority of the international community — was held on March 16. Crimea's predominantly ethnic Russian population voted to join Russia, and the Russian Federation claimed the peninsula two days later. </p><figure class="embed-content">
+        <article class="type-photo">
+    <a href="/news/2018-03-20/soldiers-stand-guard-in-crimea-outside-border-guard-post/9552620"><h3>
+    <strong>Photo</strong>
+    In 2014, the Russian military took control of the Ukrainian peninsula. </h3>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/5293232-3x2-220x147.jpg" alt="Armed servicemen outside a Ukrainian border guard post in Crimea" title="Soldiers stand guard in Crimea outside border guard post" width="220" height="147"/>
+<span class="attribution">Reuters: Baz Ratner</span>
+   </a></article>
+</figure><p> </p><h2>A rock-star welcome</h2><p>On a visit to the Crimean naval port city of Sevastopol four days before last weekend's election, Mr Putin was greeted like a rock star.</p><p>Addressing a flag-waving, almost hysterical crowd, the Russian President described the 2014 referendum as "real democracy".</p><p>"With your decision you restored historical justice," Mr Putin told his thousands of cheering supporters. </p><p>"You returned Crimea to our common homeland. You showed the whole world what is real. You came to the referendum and made a decision, you voted for your future and the future of your children."</p><figure class="embed-content">
+        <article class="type-photo">
+    <a href="/news/2018-03-20/young-child-waves-a-russian-flag/9552976"><h3>
+    <strong>Photo</strong>
+    Crowds celebrate the fourth anniversary of Russia's annexation of Crimea on March 14, 2018.</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/9552976-3x2-220x147.jpg" alt="Young child waves a Russian flag" title="Young child waves a Russian flag" width="220" height="147"/>
+<span class="attribution">Reuters: Maxim Shemetov</span>
+   </a></article>
+</figure><p> </p><h2>Dissent not tolerated</h2><p>Not all Crimeans are so thrilled.</p><p>"After the elections, the repressions against my people are going to get even worse," said Erfan Kudusov, 49, one of tens of thousands of ethnic Crimean Tatars who fled their homeland after the Russian annexation. </p><p>Mr Kudusov founded the Crimean Republican Organisation of the "Ukrainian Association of Patriots" in December 2017 in Kiev. </p><figure class="embed-content">
+        <article class="type-photo">
+    <a href="/news/2018-03-20/crimean-tatar-erfan-kudosov-beshuili/9552594"><h3>
+    <strong>Photo</strong>
+    Erfan Kudusov stands next to a painting in his art gallery.</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/7894368-3x2-220x147.jpg" alt="Crimean Tatar Erfan Kudosov stands next to a painting in his art gallery." title="Crimean Tatar Erfan Kudosov" width="220" height="147"/>
+<span class="attribution">Supplied: Kim Traill</span>
+   </a></article>
+</figure><p> </p><p>The Crimean Tatars — a mainly Muslim Turkic ethnic group who settled on the Black Sea peninsula in the 10th century — were among the fiercest opponents of the Russian takeover.</p><p>Olga Skrypnyk, co-ordinator of the Kiev-based <a href="http://crimeahrg.org/en/review-on-the-human-rights-situation-in-crimea-in-january-2018/" target="_self" title="">Crimean Human Rights Group</a>, compiles a monthly summary of human rights violations by Russian authorities in Crimea. </p><p><a href="http://crimeahrg.org/en/review-on-the-human-rights-situation-in-crimea-in-january-2018/" target="_self" title="">Their reports</a> show any small protest against Russian authorities is punishable by hefty fines and imprisonment in overcrowded cells. Reports of police brutality and the denial of food and water are common. </p><p>In one case, a man posting "anti-Russian" comments on the internet was sentenced to two-and-a-half years prison for "incitement of hatred". In another, a Crimean Tatar was accused of making "a public appeal to action aimed at violating the territorial integrity of the Russian Federation" after writing "Crimea is Ukraine" on social media.</p><p>Even individuals holding "single-person pickets" in Crimean towns are fined for "participation in unauthorised public action".</p><p>Mr Kudusov's family remains in Crimea. Despite the difficulties, his relatives "don't want to leave their homes, jobs and most importantly, their homeland".</p><p>"There is constant discrimination against my people," said Mr Kudusov, who now runs an art gallery in Kiev.</p><p>"They only get work when there is no one else to take a job, our language is no longer taught in schools, and state institutions and courts no longer accept documents in our language. And all around us the Russian population is being set against us."</p><h2>Pressure over vote</h2><p>Less than 1 per cent of Crimea's 250,000 strong Crimean Tatar population voted in the 2014 independence referendum.</p><figure class="embed-content">
+        <article class="type-photo">
+    <a href="/news/2018-03-20/crimea-map/9552606"><h3>
+    <strong>Photo</strong>
+    A map of Russia and Ukraine, with the red spot indicating Crimea.</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/7895124-3x2-220x147.jpg" alt="A map of Russia and Ukraine, with the red spot indicating Crimea" title="Crimea map" width="220" height="147"/>
+<span class="attribution">Google Maps</span>
+   </a></article>
+</figure><p> </p><p>Mr Kudusov said none of his extended family — some 400 to 500 people — intended to vote in the 2018 presidential election.</p><p>He described multiple instances of Crimean Tatars being threatened with dismissal from their jobs if they didn't vote, in particular "doctors, university lecturers and teachers who work in the government or municipal systems".</p><p>"[Federal Security Service] agents are putting extreme pressure on Crimean Tatars and intimidating them to force them to vote," said Ayder Muzhdabaev, deputy general director of the Crimean-language TV channel ATR.</p><p>"The authorities need images for television to demonstrate that Crimean Tatars support them, when in actual fact they don't want to vote in the elections of the occupying authorities."</p><h2>A turbulent history</h2><p>Relations between the Crimean Tatars and Russia have always been turbulent. </p><p>Empress Catherine the Great annexed the strategically important peninsula from the Ottomans into the Russian Empire in 1783. </p><p>A century and a half later, the entire population of 190,000 Crimean Tatars was deported to Uzbekistan on the orders of Joseph Stalin. Accused of collaborating with the Nazis, more than 40 per cent died en route or during their exile. </p><p>Hundreds of thousands of ethnic Russians moved into Soviet Crimea, including a large contingent of military, KGB officers and their families. The temperate climate and exotic palms also made Crimea a sought-after holiday destination for the Soviet elite.</p><figure class="embed-content">
+        <article class="type-photo">
+    <a href="/news/2018-03-20/anniversary-of-tartars-exile/9557772"><h3>
+    <strong>Photo</strong>
+    Crimean Tatars commemorate their deportation to Uzbekistan in 1944.</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/9552978-3x2-220x147.jpg" alt="An elderly man wipes away a tear in traditional dress" title="Anniversary of Tartar&#039;s exile" width="220" height="147"/>
+<span class="attribution">Reuters: Pavel Rebrov</span>
+   </a></article>
+</figure><p> </p><p>In 1954, the peninsula was handed to the Ukrainian Soviet Socialist Republic by then Soviet leader Nikita Khrushchev.</p><p>While other exiled minority groups returned to their ancestral lands in the 1950s and '60s, Crimean Tatars were only allowed "home" in the late 1980s.</p><p>After the collapse of the Soviet Union in 1991, Crimea became a so-called "autonomous republic" of Ukraine, albeit with a majority ethnic Russian population.</p><h2>Tatars on the move again</h2><p>Born in Uzbekistan while his family was in exile, Mr Kudusov first moved to Crimea in 1991.</p><p>His second exile had been particularly painful, he said.</p><blockquote class="quote--pullquote"><p>"I miss my homeland, but I try to fight away thoughts of Crimea so I don't get anxious," he said.</p></blockquote><p>Crimean Tatar leader Mustafa Dzhemilev claims 800,000 Russians have moved to Crimea since the 2014 annexation. Official Russian statistics, however, give the figure as 40,000.</p><p>"We will never know how many people moved from Russia, because Russian figures don't count military officers, [Federal Security Service] agents, tax inspectors or their families," Mr Muzhdabaev said. </p><figure class="embed-content">
+        <article class="type-photo">
+    <a href="/news/2018-03-20/crimean-man/9557764"><h3>
+    <strong>Photo</strong>
+    Crimea's indigenous people said ahead of the presidential election that they had been targeted and intimidated by Russian authorities.</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/9552954-3x2-220x147.jpg" alt="An old man&#039;s face close up" title="Crimean Tatar man" width="220" height="147"/>
+<span class="attribution">Reuters: Thomas Peter</span>
+   </a></article>
+</figure><p> </p><p>The exact number of Crimean Tatars who have left since the annexation is unknown. </p><blockquote class="quote--pullquote"><p>"Many still have relatives in Crimea and don't want authorities to know they have left in case the [Federal Security Service] goes to their relatives and makes trouble for them," Mr Muzhdabaev said.</p></blockquote><p>Mr Kudusov said he feared the situation would worsen dramatically after Sunday's election.</p><p>"Many more will have to leave. There will be more pressure on business owners — more checks by the tax police, fire inspectors, secret services and others," he said. "The Russian authorities don't want disloyal people, and 99 per cent of Crimean Tatars are disloyal to the occupiers."</p><p>Ethnic Ukrainians in Crimea are also marginalised. Schools teaching in the Ukrainian language have been closed and many Ukrainians have been forced to move to the mainland</p><figure class="embed-content">
+        <article class="type-photo">
+    <a href="/news/2018-03-20/mosque-of-the-khans-palace/9557766"><h3>
+    <strong>Photo</strong>
+    The mosque of the Khan's Palace in Bakhchisaray, the historic capital of the Crimean Tatars.</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <img src="http://www.abc.net.au/news/image/9552972-3x2-220x147.jpg" alt="Mosque of the Khan&#039;s Palace" title="Mosque of the Khan&#039;s Palace" width="220" height="147"/>
+<span class="attribution">Reuters: Thomas Peter</span>
+   </a></article>
+</figure><p> </p><h2>International community responds</h2><p>On December 19, the UN General Assembly adopted a resolution condemning "violations, abuses, measures and practices of discrimination against the residents of the temporarily occupied Crimea, including Crimean Tatars ... by the Russian occupation authorities."</p><p>Kremlin spokesman Dimitry Peskov strongly denied the accusations. </p><p>Human Rights Watch, Amnesty International and other prominent rights organisations have also condemned Russia's actions in Crimea.</p><p>In a statement on Twitter on March 13, Britain's ambassador to Ukraine called for the immediate release and return of all Ukrainian political prisoners currently held in Russian territory. </p><p>"Russia continues to violate international law", he wrote, using the hashtag "Crimea is Ukraine".</p><p>Mr Muzhdabaev said Western sanctions were a positive step, but ultimately had "a minimal effect on Putin's regime".</p><blockquote class="quote--pullquote"><p>"There is no strong reaction like there was when the USSR invaded Afghanistan. And I think this gives Putin the sense that he can continue to interfere and nothing will happen to him," he said.</p></blockquote></div>
+  <footer>
+      <time class="original" datetime="2018-03-20T12:26+11:00">
+            <small>Posted</small>
+            Tue 20 Mar 2018, 12:26 PM AEDT</time>
+    </footer>
+   <div class="share">
+    <h2>Share</h2>
+    <a class="email" href="mailto:?subject=Vladimir%20Putin's%20re-election%20also%20marks%20four%20years%20since%20he%20annexed%20Crimea&body=http%3a%2f%2fwww.abc.net.au%2fnews%2f2018-03-20%2fcrimean-tatars-russian-election-putin%2f9557774%3fpfmredir%3dsm">Email</a>
+    <a class="facebook" target="_blank" href="http://www.facebook.com/sharer.php?t=Vladimir+Putin's+re-election+also+marks+four+years+since+he+annexed+Crimea&u=http%3a%2f%2fwww.abc.net.au%2fnews%2f2018-03-20%2fcrimean-tatars-russian-election-putin%2f9557774%3fpfmredir%3dsm">Facebook</a>
+    <a class="twitter" target="_blank" href="http://twitter.com/home?status=Vladimir+Putin's+re-election+also+marks+four+years+since+he+annexed+Crimea+http%3a%2f%2fwww.abc.net.au%2fnews%2f2018-03-20%2fcrimean-tatars-russian-election-putin%2f9557774%3fpfmredir%3dsm+%40abcnews">Twitter</a>
+  </div>
+<aside class="related image-omit">
+        <h2>Related</h2>
+        <article >
+    <a href="/news/2018-03-12/why-vladimir-putins-fake-election-matters/9537776"><h3>
+        &#039;It&#039;s more of a re-coronation&#039;: Why Putin&#039;s &#039;fake&#039; election matters</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2018-03-14/russia-presidential-election-why-people-are-supporting-putin/9538216"><h3>
+        Why young people are some of Putin&#039;s biggest supporters  </h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2018-03-08/russian-candidate-pavel-grudinin-too-popular-for-kremlins-liking/9526208"><h3>
+        The man after Vladimir Putin&#039;s job is more than just a strawberry farmer with a great moustache</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+</aside>
+    </article>
+
+  <section class="image-omit">
+      <h2>More Stories</h2>
+      <article >
+    <a href="/news/2018-03-21/justine-damond-minneapolis-officer-charged-in-shooting/9569918"><h3>
+        &#039;Disregard for human life&#039;: Police officer charged over Justine Damond&#039;s death</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2018-03-21/justine-damond-what-we-now-know-about-her-last-moments/9570200"><h3>
+        &#039;I&#039;m dying&#039;: What we now know about Justine Damond&#039;s final moments</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2018-03-21/james-packer-resigns-from-crown-resorts/9570344"><h3>
+        James Packer leaves Crown Resorts for mental health reasons</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2018-03-21/real-estate-boom-town-where-most-homes-now-sell-for-a-loss/9566710"><h3>
+        &#039;We got caught up in the hype&#039;: When a property boom town goes bust</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2018-03-21/cambridge-analytica-claimed-it-secured-donald-trump-presidentia/9570690"><h3>
+        Cambridge Analytica bosses filmed taking credit for &#039;Crooked Hillary&#039; campaign</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2018-03-21/myer-sales-plunge-and-no-dividend-for-shareholders/9571138"><h3>
+        Myer posts $476 million loss, after pricey write-down of its brand name</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2018-03-21/cyclone-marcus-is-heading-for-perth-but-you-dont-need-to-panic/9569042"><h3>
+        Cyclone Marcus has hit category five and is heading for Perth, but you don&#039;t need to panic</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2018-03-21/bernardi-says-someone-should-lose-their-job-over-comedy-sketch/9570346"><h3>
+        MPs say &#039;someone needs to lose their job&#039; over ABC comedy sketch</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2018-03-21/ballarat-trench-collapse-man-killed-another-rescued/9571302"><h3>
+        Man dead, another rescued after trench collapses at Ballarat</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+<article >
+    <a href="/news/2018-03-21/foul-play-concerns-as-ships-engineer-goes-missing-townsville-qld/9570322"><h3>
+        Foul play concerns after man &#039;lost over the side&#039; of live cattle ship</h3>
+
+
+
+
+
+
+
+
+
+
+
+</a></article>
+</section>
+  </div>
+
+  <footer>
+    <nav class="site">
+    <h2>More from ABC News</h2>
+    <ul>
+    <li>
+      <a href="/news/">Home</a></li>
+  <li>
+      <a href="/news/justin/">Just In</a></li>
+  <li>
+      <a href="/news/politics/">Politics</a></li>
+  <li>
+      <a href="/news/world/">World</a></li>
+  <li>
+      <a href="/news/analysis-and-opinion/">Analysis &amp; Opinion</a></li>
+  <li>
+      <a href="/news/business/">Business</a></li>
+  <li>
+      <a href="/news/sport/">Sport</a></li>
+  <li>
+      <a href="/news/science/">Science</a></li>
+  <li>
+      <a href="/news/health/">Health</a></li>
+  <li>
+      <a href="/news/arts-culture/">Arts</a></li>
+  <li>
+      <a href="/news/">Live Streams</a></li>
+  <li>
+      <a href="/news/video/">Video</a></li>
+  <li>
+      <a href="/news/photos/">Photos</a></li>
+  <li>
+      <a href="/news/entertainment/">Entertainment</a></li>
+  <li>
+      <a href="/news/upload/">Upload</a></li>
+  <li>
+      <a href="/news/alerts/subscribe/">Subscribe</a></li>
+  <li>
+      <a href="/news/rural/">Rural</a></li>
+  <li>
+      <a href="/news/more/">More &gt;</a></li>
+  </ul>
+    <a class="top" href="#">Top of page</a>
+    <a href="http://www.abc.net.au/news/2018-03-20/crimean-tatars-russian-election-putin/9557774?pfm=ms&amp;pfmredir=sm" class="platform-standard switch">Change to standard view</a></nav>
+<nav class="global">
+        <ul>
+          <li><a href="/news/">ABC News</a></li>
+    <li><a href="/news/justin/">Just In</a></li>
+    <li><a href="/news/australia/">Australia</a></li>
+    <li><a href="/news/world/">World</a></li>
+    <li><a href="/news/business/">Business</a></li>
+    <li><a href="/news/entertainment/">Entertainment</a></li>
+    <li><a href="/news/sport/">Sport</a></li>
+    <li><a href="/news/analysis-and-opinion/">Analysis &amp; Opinion</a></li>
+    <li><a href="/news/weather/">Weather</a></li>
+    <li><a href="/news/topics/">Topics</a></li>
+    <li><a href="/news/archive/">Archive</a></li>
+    <li><a href="/news/corrections/">Corrections &amp; Clarifications</a></li>
+    </ul>
+      </nav>
+    </footer>
+
+  <script type="text/javascript" src="http://mobile.abc.net.au/res/libraries/jquery/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="http://www.abc.net.au/res/libraries/location/abc.location-1.latest.min.js"></script>
+    <script type="text/javascript" src="http://mobile.abc.net.au/res/bundles/mobile/abc.bundle.mobile-1.0.1.min.js"></script>
+    <script type="text/javascript" src="http://mobile.abc.net.au/res/bundles/mobile/abc.bundle.mobile.media-1.0.min.js"></script>
+    <script type="text/javascript" src="http://www.abc.net.au/res/sites/news-projects/news-core/1.3.2/mobile.js"></script>
+    <script type="text/javascript" src="/cm/code/8724582/abc.news.config-2018-03-20.js" async></script>
+    <!-- Start ABC Bundle Footer 2.2.0 (customised) -->
+<!--noindex-->
+<nav id="abcFooter" class="global" aria-label="ABC Footer Navigation" data-version="2.2.0">
+ <ul>
+  <li><a class="abcLink" href="http://about.abc.net.au/terms-of-use/">Terms of Use</a></li>
+  <li><a class="abcLink" href="http://about.abc.net.au/abc-privacy-policy/">Privacy Policy</a></li>
+  <li><a class="abcLink" href="http://about.abc.net.au/accessibility-statement/">Accessibility</a></li>
+  <li><a class="abcLink" href="http://about.abc.net.au/talk-to-the-abc/">Contact Us</a></li>
+  <li><a class="abcLink" href="http://about.abc.net.au/terms-of-use/#UseOfContent">&copy; <time>2018</time> ABC</a></li>
+ </ul>
+</nav>
+<script type="text/javascript" src="https://res.abc.net.au/bundles/2.2.0/scripts/abc.bundle.2.2.0.min.js"></script>
+<script type="text/javascript" src="https://res.abc.net.au/libraries/stats/abc.stats.bundle.js"></script>
+<!-- START Webtrends -->
+<noscript><img alt="dcsimg" id="dcsimg" width="1" height="1" src="//statse.webtrendslive.com/dcsg85fae000004n0vfjpj8oa_9m4q/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.2.10&amp;dcssip=www.abc.net.au"></noscript>
+<!-- END Webtrends -->
+<!-- Google Tag Manager -->
+<script type="text/javascript">
+// <![CDATA[
+ (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ })(window,document,'script','dataLayer','GTM-PB2GX');
+ // ]]>
+</script>
+<noscript>
+ <iframe src="//www.googletagmanager.com/ns.html?id=GTM-PB2GX" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager -->
+<!-- ABC MyLogin -->
+<script type="text/javascript" src="https://mylogin.abc.net.au/js/abc.mylogin.embedded.js"></script>
+<script type="text/javascript">ABC.MyLoginEmbedded.init();</script>
+<!-- END ABC MyLogin -->
+<!--endnoindex-->
+<!-- End ABC Bundle Footer 2.2.0 (customised) -->
+</body>
+
+  </html>

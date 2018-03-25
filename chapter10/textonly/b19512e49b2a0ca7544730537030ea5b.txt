@@ -1,0 +1,10 @@
+Researchers discover illegal content within the distributed ledger, making possession of it potentially unlawful in many countries
+German researchers have discovered unknown persons are using bitcoin’s blockchain to store and link to child abuse imagery, potentially putting the cryptocurrency in jeopardy.
+The blockchain is the open-source, distributed ledger that records every bitcoin transaction, but can also store small bits of non-financial data. This data is typically notes about the trade of bitcoin, recording what it was for or other metadata. But it can also be used to store links and files.
+“This especially endangers the multi-billion dollar markets powering cryptocurrencies such as bitcoin.”
+While the spending of bitcoin does not necessarily require a copy of the blockchain to facilitate, some processes, such as some mining techniques, require the downloading of the full blockchain or chunks of it.
+“Since all blockchain data is downloaded and persistently stored by users, they are liable for any objectionable content added to the blockchain by others. Consequently, it would be illegal to participate in a blockchain-based systems as soon as it contains illegal content,” the researchers wrote.
+Since mining is essential for the function of bitcoin, as the process records the transactions into the blockchain to verify trades and generates new bitcoin in the process, having illegal content such as child abuse imagery within the blockchain could cause significant issues for the currency. 
+“We anticipate a high potential for illegal blockchain content to jeopardise blockchain-based systems such as bitcoin in the future,” the researchers wrote. 
+The agency warned that the technology could be used in the “sharing of child sexual abuse images where the blockchain could become a safe haven for hosting such data”.
+But this is the first time such content has been shown to actually exist, creating a moral and legal quandary around possession and the blockchain.

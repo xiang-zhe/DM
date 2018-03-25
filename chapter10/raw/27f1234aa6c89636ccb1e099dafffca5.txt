@@ -1,0 +1,999 @@
+<!doctype html><html class="no-js" lang="en"><head><script>
+   try {var _sf_startpt=(new Date()).getTime();} catch(e){}
+</script>
+<meta itemscope itemtype="https://schema.org/SpeakableSpecification" itemref="speakable" /><title>Venezuelan City Launches Its Own Currency Amid Cash Crunch : The Two-Way : NPR</title><meta id="speakable" itemprop="cssSelector" content="[data-is-speakable]" /><meta charset="utf-8" /><meta name="robots" content="noarchive,index,follow" /><meta name="Rating" content="General" /><meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no" /><meta name="npr-pjax" /><meta name="date" content="2018-03-19" /><link rel="canonical" href="https://www.npr.org/sections/thetwo-way/2018/03/19/594890393/venezuelan-city-launches-its-own-currency-amid-cash-crunch" /><meta name="description" content="The city of Elorza is selling its own bills featuring the image of an independence leader from the area. Venezuela's national currency has lost the vast majority of its value in just the last year." /><link rel="alternate" type="application/rss+xml" title="Latin America" href="/rss/rss.php?id=1127" /><link rel="alternate" type="application/rss+xml" title="The Two-Way" href="/rss/rss.php?id=103943429" /><link rel="alternate" type="application/json" title="Latin America" href="https://www.npr.org/feeds/1127/feed.json" /><link rel="alternate" type="application/json" title="The Two-Way" href="https://www.npr.org/feeds/103943429/feed.json" /><link rel="apple-touch-icon" sizes="180x180" href="https://media.npr.org/templates/favicon/favicon-180x180.png" /><link rel="icon" sizes="96x96" href="https://media.npr.org/templates/favicon/favicon-96x96.png" /><link rel="icon" sizes="32x32" href="https://media.npr.org/templates/favicon/favicon-32x32.png" /><link rel="icon" sizes="16x16" href="https://media.npr.org/templates/favicon/favicon-16x16.png" /><meta property="og:title" content="Venezuelan City Launches Its Own Currency Amid Cash Crunch" /><meta property="og:url" content="https://www.npr.org/sections/thetwo-way/2018/03/19/594890393/venezuelan-city-launches-its-own-currency-amid-cash-crunch" /><meta property="og:type" content="article" /><meta property="og:description" content="The city of Elorza is selling its own bills featuring the image of an independence leader from the area. Venezuela's national currency has lost the vast majority of its value in just the last year." /><meta property="og:image" content="https://media.npr.org/assets/img/2018/03/19/gettyimages-912695294_wide-57dee3da09b0edc42b29c09fba6b7825de06103f.jpg?s=1400" /><meta property="og:site_name" content="NPR.org" /><meta property="fb:app_id" content="138837436154588" /><meta property="fb:pages" content="10643211755" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:site" content="@NPR" /><meta name="twitter:domain" content="npr.org" /><meta name="twitter:image:src" content="https://media.npr.org/assets/img/2018/03/19/gettyimages-912695294_wide-57dee3da09b0edc42b29c09fba6b7825de06103f.jpg?s=1400" /><script id="npr-vars">
+   window.NPR = window.NPR || {};
+NPR.ServerConstants = {"cbHost":"npr.org","webHost":"https:\/\/www.npr.org","embedHost":"https:\/\/www.npr.org","webHostSecure":"https:\/\/secure.npr.org","apiHost":"https:\/\/api.npr.org","staticAssetHost":"https:\/\/s.npr.org","serverMediaCache":"https:\/\/media.npr.org","googleAnalyticsAccount":"UA-5828686-4","gtmKey":"GTM-K9RKM5","nielsenSFCode":"dcr","nielsenAPN":"NPR-dcr"};
+NPR.serverVars = {"storyId":"594890393","facebookAppId":"138837436154588","webpackPublicPath":"https:\/\/s.npr.org\/templates\/javascript\/dist\/bundles\/","persistenceVersion":"40f8ec3513cdf757614bda4b4ee6ff73","isBuildOut":true,"topicIds":["P1127","1001","1002","1004","1006"],"primaryTopic":"Latin America","topics":["Latin America","News","Home Page Top Stories","World","Business"],"blog":"The Two-Way","theme":"103943429","aggIds":["1001","1002","1004","1006","1127","103943429","126944133","127986573","191676894"],"tagIds":["Venezuela","currency"],"byline":["Merrit Kennedy"],"pubDate":"2018031912","pageTypeId":"1","title":"Venezuelan City Launches Its Own Currency Amid Cash Crunch","publisherOrgId":"1","rocketfuelCode":20501671};
+</script>
+<script type="text/javascript" src="https://s.npr.org/templates/javascript/lib/modernizr/modernizr.custom.js">
+   </script>
+<script>
+   !function(e){function a(c){if(d[c])return d[c].exports;var f=d[c]={exports:{},id:c,loaded:!1};return e[c].call(f.exports,f,f.exports,a),f.loaded=!0,f.exports}var c=window.webpackJsonp;window.webpackJsonp=function(b,t){for(var n,r,o=0,i=[];o<b.length;o++)r=b[o],f[r]&&i.push.apply(i,f[r]),f[r]=0;for(n in t){var s=t[n];switch(typeof s){case"object":e[n]=function(a){var c=a.slice(1),d=a[0];return function(a,f,b){e[d].apply(this,[a,f,b].concat(c))}}(s);break;case"function":e[n]=s;break;default:e[n]=e[s]}}for(c&&c(b,t);i.length;)i.shift().call(null,a);if(t[0])return d[0]=0,a(0)};var d={},f={22:0};a.e=function(e,c){if(0===f[e])return c.call(null,a);if(void 0!==f[e])f[e].push(c);else{f[e]=[c];var d=document.getElementsByTagName("head")[0],b=document.createElement("script");b.type="text/javascript",b.charset="utf-8",b.async=!0,b.src=a.p+""+e+"."+{0:"a245ed15ad1fc99e3277",1:"399e7534a642345844b6",2:"6760f732a9b8bb26a00e",3:"5f9e2f3e4f5266f9337b",4:"ebb29e28adfae01db9ea",5:"19ad60c1a83c70a62d95",6:"5d31d8297fa898ed4fe1",7:"1ab4bc9e0523f79c921e",8:"353d27167bdf8fb84e93",9:"d727334b12de425a7d52",10:"bcf8c176b8b23032dd49",11:"f547da30ee2b9cddfc16",12:"35e19d67c5b0f1735b98",13:"478baa0628eaedbe367a",14:"43d94b2b58bbfbed6e1a",15:"6062e66c41606a81f3f2",16:"7bd18afe263179c18312",17:"9ed26402b51420078bdf",18:"7592ae6b1a6d6798a0af",19:"44f2577cef80233dddef",20:"fdbf8cd19cfce782d49d",21:"3d3e0b6e7e534c0e5a65",23:"20c60ea02ff821e275fd",24:"0808665f7e4b2211fa1d",25:"a29859d62d6de4b92f81",26:"0e344868b6c4940f7632",27:"2c5ab6b3160dd0cc1e92",28:"e6260fdf9aba871c3490",29:"609bac20b2991664c308",30:"78657d9070926c627b4a",31:"16cf1905f25820acbbcf",32:"fb9e765fac965b2c4fce",33:"ac53e0d6b05d24bec7b8",34:"8492eba2e5147eaea2a5",35:"5d838316ec5fc4dda063",36:"69efd3f06dfa93c289c1",37:"745532787d57b785f752",38:"f644176981bc900f4def",39:"2c2c6bddcdaffb4216d4",40:"d59b84c390660e077738",41:"45a85842e3e8c6785b51",42:"46656fec92cff9f1829f",43:"a3c1974a1e5ec1c3c789",44:"80b0b9184c7575b191d6",45:"9f0b1406f98140c4a42a",46:"843e1dab2dd56fce56a6",47:"dad8007944141dda57d7",48:"a3af7a75b163e7c3a5ad",49:"c1c5c0a69499d4e76292",50:"2dba5cb1cf1b2eba750f",51:"b0b28559716f2f2396fa",52:"ed7c96beed74e9aa990a",53:"6a350fbca07b56d20c35",54:"7ee26f7508a77607975c",55:"9e69433b145f05edee9f",56:"19418ab9f94edd2717fa",57:"b8194350b567c878c74c",58:"e54382a3192e061289ad",59:"80ff51eab7a321c6be79",60:"5f4a498cf9e05f6ac8df",61:"dc71df158e0510c3067e",62:"2d01e631091d8717ab4a",63:"24b278bbae05774133e1",64:"3cc4004d8f713e3fd65f",65:"862ce9b5acfbea821bb8",66:"e43a68bbdf7ebb1f190a",67:"a5a01aa8f80da2e98359",68:"c0de6a05d541d8d4d27b",69:"b5e9ad333680e1053092",70:"9ddbafd0d91a6741430c",71:"1c3a4497dbe1e7ea61f2",72:"629d1edc553a8d9a8e35",73:"419e7b85685d7112ffb4",74:"2a50e5bb4508ccd7fa29",75:"02be1a17e81a0c5c0e4c"}[e]+".chunk.js",d.appendChild(b)}},a.m=e,a.c=d,a.p="/templates/javascript/dist/bundles/"}(function(e){for(var a in e)if(Object.prototype.hasOwnProperty.call(e,a))switch(typeof e[a]){case"function":break;case"object":e[a]=function(a){var c=a.slice(1),d=e[a[0]];return function(e,a,f){d.apply(this,[e,a,f].concat(c))}}(e[a]);break;default:e[a]=e[e[a]]}return e}([]));
+</script>
+<link rel="stylesheet" data-persist="true" media="screen, print" href="https://s.npr.org/templates/javascript/dist/bundles/persistent-css-7d4e586c7b6ec8a96e21.css" /><link rel="stylesheet" media="screen, print" href="https://s.npr.org/templates/javascript/dist/bundles/newsStory-css-7d4e586c7b6ec8a96e21.css" /><link rel="stylesheet" media="screen" href="https://s.npr.org/branding/sections/thetwo-way/branding.css" /><script type="text/javascript">
+   document.domain="npr.org";
+</script>
+</head><body id="news" class="news tmplBlogNewsStory  story-layout is-buildout no-transcript blog id594890393 " data-pjax-modules="util/env images/lazy-load chartbeat comscore metrics nielsen nielsenDCR rocketfuel copyright auto-refresh navigation/globalnav fitvids googletag dfp globalfooter persistent-audio player/more-options what-input metrics/doubleclickFloodlight metrics/facebookTracking ecommerce recommendations/end-of-story-recommendations-callout jw social/share slideshow images/enlargement swfbuilder contentfooter story/sticky-header story/date-tooltip callout/end-of-story-callout social/sharepop"><div class="skip-links">
+      <h2>Accessibility links</h2>
+   <ul>
+            <li><a href="#mainContent" class="skiplink">Skip to main content</a></li>
+      <li><a href="https://help.npr.org/customer/en/portal/articles/2535181-what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player-" class="skiplink">Keyboard shortcuts for audio player</a></li>
+   </ul>
+</div>
+<!--googleoff: index--><header id="globalheader" class="globalheader" aria-label="NPR header"><div class="globalheader-inner" data-metrics-all data-metrics-category="global navigation">
+    <div class="lead" data-metrics-action="click npr logo">
+        <button class="sidebar-button" id="js-sidebar-button" aria-controls="global-navigation-wrap" aria-expanded="false" data-metrics-action="toggle offcanvas">View Navigation</button>
+
+        <!-- General color logo -->
+        <a href="/" class="nprhome nprhome-news" data-metrics-action="click npr logo">
+            <img src="https://media.npr.org/chrome_svg/npr-logo-color.svg" alt="NPR logo"/>
+            <h2 class="ecosystem-name">NPR</h2>
+        </a>
+
+        <!-- General b&w line logo -->
+        <a href="/" class="nprhome nprhome-news-alt" data-metrics-action="click npr logo">
+            <img src="https://media.npr.org/chrome_svg/npr_logo.svg" alt="NPR logo"/>
+            <h2 class="ecosystem-name">NPR</h2>
+        </a>
+
+        <!-- Music color logo -->
+        <a href="/music/" class="nprhome nprhome-music" data-metrics-action="click npr logo">
+            <img src="https://media.npr.org/chrome_svg/music-logo-outline-thick.svg" alt="NPR Music logo"/>
+            <h2 class="ecosystem-name">NPR Music</h2>
+        </a>
+
+        <!-- Books color logo -->
+        <a href="/books/" class="nprhome nprhome-books" data-metrics-action="click npr logo">
+            <img src="https://media.npr.org/chrome_svg/npr-logo-color.svg" alt="NPR logo"/>
+            <h2 class="ecosystem-name"><b>NPR</b> Books</h2>
+        </a>
+
+        <!-- About color logo -->
+        <a href="/sections/750000/about-npr/" class="nprhome nprhome-about" data-metrics-action="click npr logo">
+            <img src="https://media.npr.org/chrome_svg/npr-logo-color.svg" alt="NPR logo"/>
+            <h2 class="ecosystem-name"><b>NPR</b> About</h2>
+        </a>
+
+        <!-- Podcasts -->
+        <a href="/podcasts/" class="nprhome nprhome-podcast" data-metrics-action="click npr logo">
+            <img src="https://media.npr.org/chrome_svg/podcasts/headphones-ee3d23.svg" alt="NPR Podcast Directory logo" class="img-headphones" />
+            <img src="https://media.npr.org/chrome_svg/npr-logo-color.svg" alt="NPR logo" class="img-npr-logo" />
+            <h2 class="ecosystem-name"><b>NPR</b>Podcast Directory</h2>
+        </a>
+
+        <div class="search-wrapper">
+            <form action="/search/index.php" method="get" name="searchForm" id="searchForm" class="search pjaxForm" role="search" aria-label="Search NPR">
+                <label for="searchinput">Search</label>
+                <input type="search" name="searchinput" id="searchinput" class="textbox searchbox" autocorrect="off"/>
+                <a href="#" class="search-toggle" data-metrics-action="expand search">Toggle search</a>
+            </form>
+        </div>
+    </div>
+    <!-- /.lead -->
+
+    <div class="global-navigation-wrap" id="global-navigation-wrap">
+        <nav class="global-navigation" aria-label="main navigation">
+            <!-- see globalnav.js for documentation on how topbar subnav dropdown system works -->
+
+            <div class="top-level">
+                <ul class="top-level-list ecosystem-all primary">
+                    <li class="nprhome"><a href="/" data-metrics-action="click npr logo">NPR Home</a></li>
+                    <li id="station-navigation-mount"></li>
+                </ul>
+
+                <ul class="top-level-list ecosystem-news primary" data-metrics-category="global navigation">
+                    <li class="news"><a href="/sections/news/" data-metrics-action="click news">News</a></li>
+                    <li class="arts-life"><a href="/sections/arts/" data-metrics-action="click arts & life">Arts &amp; Life</a></li>
+                    <li class="music"><a href="/music/" data-metrics-action="click music">Music</a></li>
+                    <li class="topics has-subnav"><a href="/programs" data-metrics-action="toggle topics" data-metrics-label="#">Topics</a></li>
+                    <li class="programs-podcasts has-subnav">
+                        <a href="/programs" data-metrics-action="toggle programs & podcasts drawer">
+                            Programs&nbsp;<b>&amp; Podcasts</b>
+                        </a>
+                    </li>
+                </ul>
+                <!-- /.ecosystem-news.primary -->
+
+                <ul class="top-level-list ecosystem-music primary" data-metrics-category="music ecosystem navigation">
+                    <li class="music-home">
+                        <a href="/music/" data-metrics-action="click npr music">NPR Music</a>
+                    </li>
+                    <li class="genres has-subnav"><a href="#" data-metrics-action="toggle genres drawer">Genres</a></li>
+                    <li class="new-music has-subnav">
+                        <a href="#" data-metrics-action="toggle new music drawer">New Music</a>
+                    </li>
+                    <li class="concerts-videos has-subnav">
+                        <a href="#" data-metrics-action="toggle concerts drawer">Concerts&nbsp;<b>&amp; Videos</b></a>
+                    </li>
+                    <li class="articles-lists has-subnav">
+                        <a href="#" data-metrics-action="toggle articles drawer">Articles&nbsp;<b>&amp; Lists</b></a>
+                    </li>
+                    <li class="tiny-desk alternate">
+                        <a href="/series/tiny-desk-concerts/" data-metrics-action="click tiny desk">Tiny Desk</a>
+                    </li>
+                </ul>
+                <!-- /.ecosystem-music.primary -->
+
+                <ul class="top-level-list ecosystem-books primary" data-metrics-category="books ecosystem navigation">
+                    <li class="books-home">
+                        <a href="/books/" data-metrics-action="click npr books">NPR Books</a>
+                    </li>
+                    <li class="author-interviews">
+                        <a href="/sections/author-interviews/" data-metrics-action="click author interviews"><b>Author </b>Interviews</a>
+                    </li>
+                    <li class="find-books has-subnav">
+                        <a href="#" data-metrics-action="toggle find books drawer">Find Books</a>
+                    </li>
+                    <li class="reviews has-subnav">
+                        <a href="#" data-metrics-action="toggle reviews drawer">Reviews</a>
+                    </li>
+                </ul>
+                <!-- /.ecosystem-books.primary -->
+
+                <ul class="top-level-list ecosystem-about primary" data-metrics-category="about ecosystem navigation">
+                    <li class="about-home">
+                        <a href="/about/" data-metrics-action="click about npr">About NPR</a>
+                    </li>
+                    <li class="overview has-subnav">
+                        <a href="/about/aboutnpr/" data-metrics-action="toggle overview drawer">Overview</a>
+                    </li>
+                    <li class="connect has-subnav">
+                        <a href="#" data-metrics-action="toggle connect drawer">Connect</a>
+                    </li>
+                    <li class="support has-subnav">
+                        <a href="/about/support/" data-metrics-action="toggle support drawer">Support</a>
+                    </li>
+                    <li class="press has-subnav">
+                        <a href="/series/750003/press-room/" data-metrics-action="toggle press drawer">Press</a>
+                    </li>
+                    <li class="careers has-subnav">
+                        <a href="/series/750004/careers" data-metrics-action="toggle careers drawer">Careers</a>
+                    </li>
+                </ul>
+                <!-- /.ecosystem-about.primary -->
+
+                <ul class="top-level-list ecosystem-podcast primary" data-metrics-category="podcast ecosystem navigation">
+                    <li class="podcasts-home">
+                        <a href="/podcasts/" data-metrics-action="click podcast directory">Podcast Directory</a>
+                    </li>
+
+                    <li class="podcast-categories has-subnav">
+                        <a href="#" data-metrics-action="toggle categories">Categories</a>
+                    </li>
+                    <li class="podcast-local">
+                        <div id="local-podcasts-nav-mount" class="podcast-local"></div>
+                        <!-- data comes via JavaScript -->
+                    </li>
+                </ul>
+                <!-- /.ecosystem-podcast.primary -->
+
+                <ul class="top-level-list ecosystem-all secondary" data-metrics-category="global navigation">
+                    <li id="station-navigation-secondary-mount"></li>
+
+                    <li id="station-donate-mount"></li>
+
+                    <li class="nprshop">
+                        <a href="https://shop.npr.org" data-metrics-action="click npr shop"><b>NPR</b> Shop</a>
+                    </li>
+
+                    <li id="user-account-access-dropdown-mount"></li>
+                </ul>
+                <!-- /.ecosystem-all.secondary -->
+            </div>
+            <!-- /.top-level -->
+
+            <!-- News ecosystem -->
+            <div class="subnav subnav-topics ecosystem-news" data-metrics-category="global navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+                <div class="group">
+                    <h3 class="group-hdr"><a href="/sections/news/" data-metrics-action="click news">News</a></h3>
+                    <ul>
+                        <li><a href="/sections/national/" data-metrics-action="click national">National</a></li>
+                        <li><a href="/sections/world/" data-metrics-action="click world">World</a></li>
+                        <li><a href="/sections/politics/" data-metrics-action="click politics">Politics</a></li>
+                        <li><a href="/sections/business/" data-metrics-action="click business">Business</a></li>
+                        <li><a href="/sections/technology/" data-metrics-action="click technology">Technology</a></li>
+                        <li><a href="/sections/science/" data-metrics-action="click science">Science</a></li>
+                        <li><a href="/sections/health/" data-metrics-action="click health">Health</a></li>
+                        <li><a href="/sections/codeswitch/" data-metrics-action="click race & culture">Race &amp; Culture</a></li>
+                        <li><a href="/sections/ed/" data-metrics-action="click education">Education</a></li>
+                    </ul>
+                </div>
+                <div class="group">
+                    <h3 class="group-hdr"><a href="/sections/arts/" data-metrics-action="click arts & life">Arts &amp; Life</a></h3>
+                    <ul>
+                        <li><a href="/books/" data-metrics-action="click books">Books</a></li>
+                        <li><a href="/sections/movies/" data-metrics-action="click movies">Movies</a></li>
+                        <li><a href="/sections/pop-culture/" data-metrics-action="click pop culture">Pop Culture</a></li>
+                        <li><a href="/sections/food/" data-metrics-action="click food">Food</a></li>
+                        <li><a href="/sections/art-design/" data-metrics-action="click art & design">Art &amp; Design</a></li>
+                        <li><a href="/sections/performing-arts/" data-metrics-action="click performing arts">Performing Arts</a></li>
+                        <li><a href="/sections/photography/" data-metrics-action="click photography">Photography</a></li>
+                    </ul>
+                </div>
+                <div class="group">
+                    <h3 class="group-hdr"><a href="/music/" data-metrics-action="click music">Music</a></h3>
+                    <ul>
+
+                        <li><a href="/series/98679384/first-listen" data-metrics-action="click first listen">First Listen</a></li>
+                        <li><a href="/series/122356178/songs-we-love" data-metrics-action="click songs we love">Songs We Love</a></li>
+                        <li><a href="/series/100920965/music-articles/" data-metrics-action="click music articles">Music Articles</a></li>
+                        <li><a href="/series/tiny-desk-concerts/" data-metrics-action="click tiny desk">Tiny Desk</a></li>
+                        <li><a href="/sections/music-videos/" data-metrics-action="click videos">Videos</a></li>
+                    </ul>
+                </div>
+
+                <div class="group">
+                    <h3 class="group-hdr">More</h3>
+                    <ul>
+                        <li><a href="/about-npr/198341814/npr-blog-directory" data-metrics-action="click our blogs">Our Blogs</a></li>
+                        <li><a href="/templates/corrections/corrections.php" data-metrics-action="click corrections">Corrections</a></li>
+                        <li><a href="/about/aboutnpr/" data-metrics-action="click all about npr">All About NPR</a></li>
+                    </ul>
+                </div>
+            </div>
+
+
+            <div class="subnav subnav-programs-podcasts ecosystem-news" data-metrics-category="global navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <div class="group">
+                    <h3 class="group-hdr">News &amp; Conversations</h3>
+                    <ul>
+                        <li><a href="/programs/morning-edition/" data-metrics-action="click morning edition">Morning Edition</a></li>
+                        <li><a href="/programs/all-things-considered/" data-metrics-action="click all things considered">All Things Considered</a></li>
+                        <li><a href="/programs/fresh-air/" data-metrics-action="click fresh air">Fresh Air</a></li>
+                        <li><a href="http://www.wbur.org/hereandnow" target="_blank" data-metrics-action="click here & now">Here &amp; Now</a></li>
+                        <li><a class="subnav__1a" href="http://the1a.org/" data-metrics-action="click 1a">1A</a></li>
+                        <li><a href="/podcasts/510312/codeswitch" data-metrics-action="click code switch">Code Switch</a></li>
+                        <li><a href="/podcasts/510311/embedded" data-metrics-action="click embedded">Embedded</a></li>
+                        <li><a href="/podcasts/510325/the-indicator-from-planet-money" data-metrics-action="click the indicator from planet money">The Indicator from Planet Money</a></li>
+                        <li><a href="/podcasts/510317/its-been-a-minute-with-sam-sanders" data-metrics-action="click it's been a minute with sam sanders">It's Been a Minute with Sam Sanders</a></li>
+                        <li><a href="http://latinousa.org/" data-metrics-action="click latino usa">Latino USA</a></li>
+                        <li><a href="/podcasts/510310/npr-politics-podcast" data-metrics-action="click npr politics podcast">NPR Politics Podcast</a></li>
+                        <li><a href="http://onpoint.wbur.org/" target="_blank" data-metrics-action="click on point">On Point</a></li>
+                        <li><a href="/podcasts/510324/rough-translation" data-metrics-action="click rough translation">Rough Translation</a></li>
+                        <li><a href="/podcasts/510318/up-first" data-metrics-action="click up first">Up First</a></li>
+                        <li><a href="/programs/weekend-edition-saturday/" data-metrics-action="click weekend edition saturday">Weekend Edition Saturday</a></li>
+                        <li><a href="/programs/weekend-edition-sunday/" data-metrics-action="click weekend edition sunday">Weekend Edition Sunday</a></li>
+                        <li><a href="/podcasts/510323/whats-good-with-stretch-and-bobbito" data-metrics-action="click what's good with stretch & bobbito">What's Good with Stretch &amp; Bobbito</a></li>
+                        <li><a href="/series/4692815/youth-radio" data-metrics-action="click youth radio">Youth Radio</a></li>
+                    </ul>
+                </div>
+
+                <div class="group">
+                    <h3 class="group-hdr">Storytelling &amp; Humor</h3>
+                    <ul>
+                        <li><a href="/programs/ask-me-another/" data-metrics-action="click ask me another">Ask Me Another</a></li>
+                        <li><a href="http://www.cartalk.com" target="_blank" data-metrics-action="click the best of car talk">The Best Of Car Talk</a></li>
+                        <li><a href="http://biglisten.org/" target="_blank" data-metrics-action="click the big listen">The Big Listen</a></li>
+                        <li><a href="http://www.maximumfun.org/shows/bullseye" target="_blank" data-metrics-action="click bullseye">Bullseye</a></li>
+                        <li><a href="/series/423302056/hidden-brain" data-metrics-action="click hidden brain">Hidden Brain</a></li>
+                        <li><a href="/podcasts/510313/how-i-built-this" data-metrics-action="click how i built this">How I Built This</a></li>
+                        <li><a href="/programs/invisibilia/" data-metrics-action="click invisibilia">Invisibilia</a></li>
+                        <li><a href="http://onlyagame.wbur.org/" data-metrics-action="click only a game">Only A Game</a></li>
+                        <li><a href="/sections/money/" data-metrics-action="click planet money">Planet Money</a></li>
+                        <li><a href="/podcasts/510282/pop-culture-happy-hour" data-metrics-action="click pop culture happy hour">Pop Culture Happy Hour</a></li>
+                        <li><a href="/podcasts/510315/radio-ambulante" data-metrics-action="click radio ambulante">Radio Ambulante</a></li>
+                        <li><a href="http://storycorps.org" class="storycorps" target="_blank" data-metrics-action="click storycorps">StoryCorps</a></li>
+                        <li><a href="/programs/ted-radio-hour/" data-metrics-action="click ted radio hour">TED Radio Hour</a></li>
+                        <li><a href="/programs/wait-wait-dont-tell-me/" data-metrics-action="click wait wait don't tell me">Wait Wait...Don't Tell Me!</a></li>
+                        <li><a href="/podcasts/510321/wow-in-the-world/" data-metrics-action="click wow in the world">Wow in the World</a></li>
+                    </ul>
+                </div>
+
+                <div class="group">
+                    <h3 class="group-hdr">Music</h3>
+                    <ul>
+                        <li><a href="/series/98679384/first-listen/" data-metrics-action="click first listen">First Listen</a></li>
+                        <li><a href="/sections/allsongs/" data-metrics-action="click all songs considered">All Songs Considered</a></li>
+                        <li><a href="/series/122356178/songs-we-love/" data-metrics-action="click songs we love">Songs We Love</a></li>
+                        <li><a href="/series/tiny-desk-concerts/" data-metrics-action="click tiny desk">Tiny Desk</a></li>
+                        <li><a href="/series/alt-latino/" data-metrics-action="click alt.latino">Alt.Latino</a></li>
+                        <li><a href="/podcasts/510026/from-the-top" target="_blank" data-metrics-action="click from the top">From The Top</a></li>
+                        <li><a href="/series/347139849/jazz-night-in-america" data-metrics-action="click jazz night in america">Jazz Night In America</a></li>
+                        <li><a href="/series/mountain-stage/" data-metrics-action="click mountain stage">Mountain Stage</a></li>
+                        <li><a href="/programs/piano-jazz/" data-metrics-action="click piano jazz">Piano Jazz</a></li>
+                        <li><a href="/series/103063413/the-thistle-and-shamrock/" data-metrics-action="click the thistle & shamrock">The Thistle &amp; Shamrock</a></li>
+                        <li><a href="/programs/world-cafe/" data-metrics-action="click world cafe">World Cafe</a></li>
+                    </ul>
+                </div>
+
+                <div class="group">
+                    <h3 class="group-hdr">More</h3>
+                    <ul>
+                        <li><a href="/programs/" data-metrics-action="click all programs">All Programs</a></li>
+                        <li><a href="/podcasts/" data-metrics-action="click podcast directory">Podcast Directory</a></li>
+                        <!-- local organization podcast inserted here via JavaScript -->
+                        <li><a href="/podcasts/organizations/1" data-metrics-action="click npr podcasts">NPR Podcasts</a></li>
+                    </ul>
+                </div>
+            </div>
+            <!-- /.subnav-programs-podcasts -->
+            <!-- /News ecosystem -->
+
+            <!-- Music ecosystem -->
+            <div class="subnav subnav-genres ecosystem-music" data-metrics-category="music ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/music/genres/rock/" data-metrics-action="click rock">Rock</a></li>
+                    <li><a href="/music/genres/pop/" data-metrics-action="click pop">Pop</a></li>
+                    <li><a href="/music/genres/jazz/" data-metrics-action="click jazz">Jazz</a></li>
+                    <li><a href="/music/genres/classical/" data-metrics-action="click classical">Classical</a></li>
+                    <li><a href="/music/genres/hip-hop/" data-metrics-action="click hip-hop">Hip-Hop</a></li>
+                    <li><a href="/music/genres/r-b-soul/" data-metrics-action="click r&b/soul">R&amp;B/Soul</a></li>
+                    <li><a href="/music/genres/folk/" data-metrics-action="click folk">Folk</a></li>
+                    <li><a href="/music/genres/latin/" data-metrics-action="click latin">Latin</a></li>
+                    <li><a href="/music/genres/world/" data-metrics-action="click world">World</a></li>
+                    <li><a href="/music/genres/electronic-dance/" data-metrics-action="click electronic/dance">Electronic/Dance</a></li>
+                </ul>
+            </div>
+
+            <div class="subnav subnav-new-music ecosystem-music" data-metrics-category="music ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/series/98679384/first-listen" data-metrics-action="click first listen">First Listen</a></li>
+                    <li><a href="/series/122356178/songs-we-love/" data-metrics-action="click songs we love">Songs We Love</a></li>
+                    <li><a href="/sections/allsongs/" data-metrics-action="click all songs considered">All Songs Considered</a></li>
+                    <li><a href="/sections/music-reviews/" data-metrics-action="click reviews">Reviews</a></li>
+                    <li><a href="/series/146587997/all-songs-tv/" data-metrics-action="click music videos">Music Videos</a></li>
+                </ul>
+            </div>
+
+            <div class="subnav subnav-concerts-videos ecosystem-music" data-metrics-category="music ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/series/tiny-desk-concerts/" data-metrics-action="click tiny desk">Tiny Desk</a></li>
+                    <li><a href="/series/live-in-concert/" data-metrics-action="click live concerts">Live Concerts</a></li>
+                    <li><a href="/series/144918893/field-recordings/" data-metrics-action="click field recordings">Field Recordings</a></li>
+                    <li><a href="/sections/studio-sessions/" data-metrics-action="click studio sessions">Studio Sessions</a></li>
+                    <li><a href="/series/149937282/music-documentaries/" data-metrics-action="click music documentaries">Music Documentaries</a></li>
+                    <li><a href="/sections/music-videos/" data-metrics-action="click music videos">Music Videos</a></li>
+                    <li><a href="/series/356126782/festival-recordings/" data-metrics-action="click festival recordings">Festival Recordings</a></li>
+                </ul>
+            </div>
+
+            <div class="subnav subnav-articles-lists ecosystem-music" data-metrics-category="music ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/series/100920965/music-articles/" data-metrics-action="click articles">Articles</a></li>
+                    <li><a href="/sections/music-interviews/" data-metrics-action="click interviews">Interviews</a></li>
+                    <li><a href="/sections/music-quizzes/" data-metrics-action="click quizzes">Quizzes</a></li>
+                    <li><a href="/sections/music-lists/" data-metrics-action="click mnusic lists">Music Lists</a></li>
+                    <li><a href="/series/482024024/best-music-of-2016" data-metrics-action="click best music of the year">Best Music of the Year</a></li>
+                </ul>
+            </div>
+            <!-- /Music ecosystem -->
+
+            <!-- Books ecosystem -->
+            <div class="subnav subnav-find-books ecosystem-books" data-metrics-category="books ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <div class="group">
+                    <ul>
+                        <li><a href="/books/genres/10110/art-design/" data-metrics-action="click art & design">Art &amp; Design</a></li>
+                        <li><a href="/books/genres/10126/arts-entertainment/" data-metrics-action="click arts & entertainment">Arts &amp; Entertainment</a></li>
+                        <li><a href="/books/genres/10101/biography-memoir/" data-metrics-action="click biography & memoir">Biography &amp; Memoir</a></li>
+                        <li><a href="/books/genres/10102/business-economy/" data-metrics-action="click business & economy">Business &amp; Economy</a></li>
+                        <li><a href="/books/genres/10122/children/" data-metrics-action="click children's books">Children's Books</a></li>
+                        <li><a href="/books/genres/10123/comedy/" data-metrics-action="click comedy">Comedy</a></li>
+                        <li><a href="/books/genres/10104/comics-graphic-novels/" data-metrics-action="click comics & graphic novels">Comics &amp; Graphic Novels</a></li>
+                        <li><a href="/books/genres/10127/digital-culture/" data-metrics-action="click digital culture">Digital Culture</a></li>
+                    </ul>
+                </div>
+
+                <div class="group">
+                    <ul>
+                        <li><a href="/books/genres/10103/faith-spirituality/" data-metrics-action="click faith & spirituality">Faith &amp; Spirituality</a></li>
+                        <li><a href="/books/genres/10106/food-wine/" data-metrics-action="click food & wine">Food &amp; Wine</a></li>
+                        <li><a href="/books/genres/10109/history-society/" data-metrics-action="click history & society">History &amp; Society</a></li>
+                        <li><a href="/books/genres/10113/historical-fiction/" data-metrics-action="click historical fiction">Historical Fiction</a></li>
+                        <li><a href="/books/genres/191663270/horror-supernatural/" data-metrics-action="click horror & supernatural">Horror &amp; Supernatural</a></li>
+                        <li><a href="/books/genres/10112/literary-fiction/" data-metrics-action="click literary fiction">Literary Fiction</a></li>
+                        <li><a href="/books/genres/10114/mystery-thrillers/" data-metrics-action="click mystery & thrillers">Mystery &amp; Thrillers</a></li>
+                        <li><a href="/books/genres/10116/parenting-families/" data-metrics-action="click parenting & families">Parenting &amp; Families</a></li>
+                    </ul>
+                </div>
+
+                <div class="group">
+                    <ul>
+                        <li><a href="/books/genres/10125/poetry/" data-metrics-action="click poetry">Poetry</a></li>
+                        <li><a href="/books/genres/10117/politics-public-affairs/" data-metrics-action="click politics & public affairs">Politics &amp; Public Affairs</a></li>
+                        <li><a href="/books/genres/10118/romance/" data-metrics-action="click romance">Romance</a></li>
+                        <li><a href="/books/genres/10119/science-fiction-fantasy/" data-metrics-action="click science fiction & fantasy">Science Fiction &amp; Fantasy</a></li>
+                        <li><a href="/books/genres/10108/science-health/" data-metrics-action="click science & health">Science &amp; Health</a></li>
+                        <li><a href="/books/genres/10120/sports/" data-metrics-action="click sports">Sports</a></li>
+                        <li><a href="/books/genres/10124/travel/" data-metrics-action="click travel">Travel</a></li>
+                        <li><a href="/books/genres/10121/young-adults/" data-metrics-action="click young adult">Young Adult</a></li>
+                    </ul>
+                </div>
+
+                <div class="group">
+                    <ul>
+                        <li class="genre"><a href="/books/genres/10115/nonfiction/" data-metrics-action="click nonfiction">Nonfiction</a></li>
+                        <li class="genre"><a href="/books/genres/10111/fiction/" data-metrics-action="click fiction">Fiction</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="subnav subnav-reviews ecosystem-books" data-metrics-category="books ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/sections/book-reviews" data-metrics-action="click book reviews">Book Reviews</a></li>
+                    <li><a href="/series/257657827/this-weeks-must-read" data-metrics-action="click this week's must read">This Week's Must Read</a></li>
+                    <li><a href="/series/104566969/my-guilty-pleasure" data-metrics-action="click my guilty pleasure">My Guilty Pleasure</a></li>
+                    <li><a href="/series/three-books/" data-metrics-action="click three books...">Three Books...</a></li>
+                    <li><a href="/series/153588024/pg-13-go-to-teen-reads" data-metrics-action="click pg-13: risky reads">PG-13: Risky Reads</a></li>
+                    <li><a href="/series/you-must-read-this/" data-metrics-action="click you must read this">You Must Read This</a></li>
+                    <li><a href="/summerbooks/" data-metrics-action="click summer books">Summer Books</a></li>
+                    <li><a href="/bestbooks/" data-metrics-action="click best books of the year">Best Books of the Year</a></li>
+                </ul>
+            </div>
+            <!-- /Books ecosystem -->
+
+            <!-- About ecosystem -->
+            <div class="subnav subnav-overview ecosystem-about" data-metrics-category="about ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/about/aboutnpr/" data-metrics-action="click overview">Overview</a></li>
+                    <li><a href="/about-npr/192827079/overview-and-history" data-metrics-action="click overview and history">Overview and History</a></li>
+                    <li><a href="/about-npr/178659563/our-mission-and-vision" data-metrics-action="click mission and vision">Mission and Vision</a></li>
+                    <li><a href="/about-npr/178640915/npr-stations-and-public-media" data-metrics-action="click stations and public media">Stations and Public Media</a></li>
+                    <li><a href="/about-npr/178660742/public-radio-finances" data-metrics-action="click npr finances">NPR Finances</a></li>
+                    <li><a href="/about-npr/179803822/people-at-npr" data-metrics-action="click people">People</a></li>
+                    <li><a href="http://ethics.npr.org/" data-metrics-action="click ethics">Ethics</a></li>
+                    <li><a href="about-npr/183726490/awards" data-metrics-action="click awards">Awards</a></li>
+                </ul>
+            </div>
+
+            <div class="subnav subnav-connect ecosystem-about" data-metrics-category="about ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/about-npr/177066727/visit-npr" data-metrics-action="click visit npr">Visit NPR</a></li>
+                    <li><a href="http://www.nprpresents.org/" data-metrics-action="click npr presents">NPR Presents</a></li>
+                    <li><a href="http://studio1.npr.org" data-metrics-action="click studio 1 events">Studio 1 Events</a></li>
+                    <li><a href="http://generationlisten.npr.org/" data-metrics-action="click generation listen">Generation Listen</a></li>
+                    <li><a href="/about-npr/182673872/book-an-npr-speaker" data-metrics-action="click book a speaker">Book a Speaker</a></li>
+                    <li><a href="/about-npr/179881519/rights-and-permissions-information" data-metrics-action="click request permissions">Request Permissions</a></li>
+                    <li><a href="/about-npr/187046089/ways-to-listen-to-npr" data-metrics-action="click ways to listen">Ways to Listen</a></li>
+                    <li><a href="/sections/npr-extra/" data-metrics-action="click npr extra blog">NPR Extra Blog</a></li>
+                    <li><a href="/newsletters/" data-metrics-action="click sign up: newsletters">Email Newsletters</a></li>
+                    <li><a href="https://shop.npr.org/" data-metrics-action="click shop npr">Shop NPR</a></li>
+                    <li><a href="https://help.npr.org" data-metrics-action="click get help">Get Help</a></li>
+                    <li><a href="/contact/" data-metrics-action="click contact us">Contact Us</a></li>
+                </ul>
+            </div>
+
+            <div class="subnav subnav-support ecosystem-about" data-metrics-category="about ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/series/750002/support-public-radio" data-metrics-action="click support public radio">Support Public Radio</a></li>
+                    <li><a href="/about-npr/186948703/corporate-sponsorship" data-metrics-action="click corporate sponsorship">Corporate Sponsorship</a>
+                    <li><a href="/about-npr/181961258/volunteer-at-npr" data-metrics-action="click volunteer">Volunteer</a></li>
+                </ul>
+            </div>
+
+            <div class="subnav subnav-press ecosystem-about" data-metrics-category="about ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/series/750003/press-room/" data-metrics-action="click releases and statements">Releases and Statements</a></li>
+                    <li><a href="/about-npr/182675632/photos-and-logos" data-metrics-action="click photos and logos">Photos and Logos</a></li>
+                    <li><a href="/about/press/NPR_Fact_Sheet.pdf" data-metrics-action="click fact sheet pdf">Fact Sheet (PDF)</a></li>
+                    <li><a href="/about-npr/185546105/media-relations-contacts" data-metrics-action="click media relations contacts">Media Relations Contacts</a></li>
+                </ul>
+            </div>
+
+            <div class="subnav subnav-careers ecosystem-about" data-metrics-category="about ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <ul>
+                    <li><a href="/series/750004/careers">Careers at NPR</a></li>
+                    <li><a href="https://recruiting.ultipro.com/NAT1011NATPR/JobBoard/af823b19-a43b-4cda-b6c2-c06508d84cf6" data-metrics-action="click search jobs">Search Jobs</a></li>
+                    <li><a href="/about-npr/179008081/tapping-into-the-npr-culture/" data-metrics-action="click culture">Culture</a></li>
+                    <li><a href="/about-npr/181909622/applying-at-npr/" data-metrics-action="click applying">Applying</a></li>
+                    <li><a href="/about-npr/181881227/internships-at-npr/" data-metrics-action="click interns">Interns</a></li>
+                    <li><a href="/about-npr/181880514/fellowships-at-npr/" data-metrics-action="click fellows">Fellows</a></li>
+                    <li><a href="/about-npr/185550054/digital-careers-at-npr/" data-metrics-action="click digital">Digital</a></li>
+                </ul>
+            </div>
+            <!-- /About ecosystem -->
+
+            <!-- Podcast ecosystem -->
+            <div class="subnav subnav-podcast-categories ecosystem-podcast" data-metrics-category="podcast ecosystem navigation">
+                <a class="back back-to-top-level"><b class="icn-back"></b>Back</a>
+
+                <div class="group">
+                    <ul>
+                        <li><a href="/podcasts/2000/arts" data-metrics-action="click arts">Arts</a></li>
+                        <li><a href="/podcasts/2007/business" data-metrics-action="click business">Business</a></li>
+                        <li><a href="/podcasts/2013/comedy" data-metrics-action="click comedy">Comedy</a></li>
+                        <li><a href="/podcasts/2014/education" data-metrics-action="click education">Education</a></li>
+                        <li><a href="/podcasts/2020/games-hobbies" data-metrics-action="click games & hobbies">Games &amp; Hobbies</a></li>
+                        <li><a href="/podcasts/2026/government-organizations" data-metrics-action="click government & organizations">Government &amp; Organizations</a></li>
+                        <li><a href="/podcasts/2031/health" data-metrics-action="click health">Health</a></li>
+                        <li><a href="/podcasts/2036/kids-family" data-metrics-action="click kids & family">Kids &amp; Family</a></li>
+                    </ul>
+                </div>
+
+                <div class="group">
+                    <ul>
+                        <li><a href="/podcasts/2037/music" data-metrics-action="click music">Music</a>
+                        </li>
+                        <li><a href="/podcasts/2038/news-politics" data-metrics-action="click news & politics">News &amp; Politics</a></li>
+                        <li><a href="/podcasts/2039/religion-spirituality" data-metrics-action="click religion & spirituality">Religion &amp; Spirituality</a></li>
+                        <li><a href="/podcasts/2047/science-medicine" data-metrics-action="click science & medicine">Science &amp; Medicine</a></li>
+                        <li><a href="/podcasts/2051/society-culture" data-metrics-action="click society & culture">Society &amp; Culture</a></li>
+                        <li><a href="/podcasts/2056/sports-recreation" data-metrics-action="click sports & recreation">Sports &amp; Recreation</a></li>
+                        <li><a href="/podcasts/2061/technology" data-metrics-action="click technology">Technology</a></li>
+                        <li><a href="/podcasts/2066/tv-film" data-metrics-action="click tv & film">TV &amp; Film</a></li>
+                    </ul>
+                </div>
+            </div>
+            <!-- /.subnav-podcast-categories -->
+            <!-- /Podcast ecosystem -->
+
+            <!-- Common ecosystem -->
+
+            <!-- /.subnav-user-account -->
+            <!-- /Common ecosystem -->
+
+        </nav>
+        <!-- ./global-navigation -->
+    </div>
+    <!-- ./global-navigation-wrap -->
+
+    <!--
+        .global-navigation-two
+    -->
+    <nav class="global-navigation-two" aria-label="station navigation" data-metrics-category="global navigation">
+        <ul class="top-level">
+            <li id="station-navigation-med-mount"></li>
+            <li class="nprshop"><a href="https://shop.npr.org" data-metrics-action="click npr shop"><b>NPR</b> Shop</a></li>
+            <li id="station-donate-med-mount"></li>
+        </ul>
+    </nav>
+
+    <!--
+        .global-navigation-three
+        Gets created here via JavaScript on certain landing page layouts
+    -->
+</div>
+<!-- .globalheader-inner -->
+</header><main aria-label="main content"><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K9RKM5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><div class="speakable">
+      <b data-is-speakable>Venezuelan City Launches Its Own Currency Amid Cash Crunch : The Two-Way</b>   <b data-is-speakable>The city of Elorza is selling its own bills featuring the image of an independence leader from the area. Venezuela's national currency has lost the vast majority of its value in just the last year.</b>
+</div>
+<div id="wrapper">
+      <div class="story-sticky-header">
+    <div class="story-sticky-header-inner">
+        <a href="/" class="nprhome nprhome-news"  data-metrics='{&quot;category&quot;:&quot;global navigation&quot;,&quot;action&quot;:&quot;click npr logo&quot;,&quot;label&quot;:&quot;\/&quot;}' >
+            <img src="https://media.npr.org/chrome_svg/npr-logo-color.svg" alt="NPR logo"/>
+        </a>
+
+        
+
+        <a href="#" class="title">
+          <b>Venezuelan City Launches Its Own Currency Amid Cash Crunch</b>
+          
+        </a>
+    </div>
+</div>   <section id="main-section"><header class="contentheader contentheader--one" data-metrics='{"category":"The Two-Way"}' ><div class="branding branding--custom">
+      <a href="https://www.npr.org/sections/thetwo-way/" data-metrics='{"action":"click branding"}' ><img src="https://media.npr.org/branding/sections/thetwo-way/branding_icon-aec8943f7fba654246d504d81ae2999f30b3106f.png" class="branding__image-icon" alt="The Two-Way" /><div class="branding__inner">
+      <h2 class="branding__title branding__title--custom-text">The <b>Two-Way</b></h2>
+   <b class="branding__mini-teaser">Breaking News From NPR</b>
+</div>
+
+<!-- END CLASS="BRANDING__INNER" -->
+</a>
+</div>
+
+<!-- END CLASS="BRANDING BRANDING--CUSTOM" -->
+</header><div class="subnav-tools-wrap">
+      <div id="subNavigation" class="agglocation linkLocation" role="navigation" aria-label="sub-navigation">
+            <div id="res341873288" class="bucketwrap statichtml">
+                  <div class="subtopics">
+  <ul class="animated fadeInRight">
+    <li><a href="/sections/thetwo-way/127602855/america">America</a></li>
+    <li><a href="/sections/thetwo-way/127602464/international">International</a></li>
+    <li><a href="/sections/thetwo-way/127602331/economy">Economy</a></li>
+    <li><a href="/sections/thetwo-way/127602405/must-reads">Must Reads</a></li>
+    <li><a href="https://help.npr.org/customer/portal/emails/new?i=1&s=The%20Two-Way">Contact Us</a></li>
+  </ul>
+</div>
+
+<div class="roller-overlay"></div>
+
+<ul class="subscribe">
+  <li class="twitter"><a href="https://twitter.com/npr" data-metrics='{"action":"Click Twitter"}'>Follow</a></li>
+  <li class="facebook"><a href="https://www.facebook.com/NPR" data-metrics='{"action":"Click Facebook"}'>Facebook</a></li>
+</ul>
+      </div>
+      
+<!-- END ID="RES341873288" CLASS="BUCKETWRAP STATICHTML" -->
+   </div>
+</div>
+<article class="story story-blogpost"><a id="mainContent"></a> <!--googleon: index--><div class="storytitle">
+      <h1>Venezuelan City Launches Its Own Currency Amid Cash Crunch</h1>
+   <input type="hidden" id="title594890393" value="Venezuelan City Launches Its Own Currency Amid Cash Crunch" />
+   <input type="hidden" id="shortTitle594890393" value="Venezuelan City Launches Its Own Currency Amid Cash Crunch" />
+   <input type="hidden" id="modelShortUrl594890393" value="https://n.pr/2u5H9Mo" />
+   <input type="hidden" id="modelFullUrl594890393" value="https://www.npr.org/sections/thetwo-way/2018/03/19/594890393/venezuelan-city-launches-its-own-currency-amid-cash-crunch" />
+</div>
+
+<!-- END CLASS="STORYTITLE" -->
+<div class="story-tools">
+      <div class="share-tools share-tools--primary" aria-label="Share tools">
+            <ul>
+                  <li class="share-tools__service share-tools__service--facebook"><button class="fbStory594890393" data-share-facebook='{"storyId": 594890393 }'  data-metrics='{"action":"Click Facebook","category":"Share Tools","label":"https:\/\/www.npr.org\/sections\/thetwo-way\/2018\/03\/19\/594890393\/venezuelan-city-launches-its-own-currency-amid-cash-crunch"}' ><b class="share-tools__service-name">Facebook</b></button></li>
+         <li class="share-tools__service share-tools__service--twitter"><button class="story594890393" data-share-twitter='{"storyId": 594890393 }'  data-metrics='{"action":"Click Twitter","category":"Share Tools","label":"https:\/\/www.npr.org\/sections\/thetwo-way\/2018\/03\/19\/594890393\/venezuelan-city-launches-its-own-currency-amid-cash-crunch"}' ><b class="share-tools__service-name">Twitter</b></button></li>
+         <li class="share-tools__service share-tools__service--flipboard"><button class="story594890393" data-share-flipboard='{"storyId": 594890393 }'  data-metrics='{"action":"Click Flipboard","category":"Share Tools","label":"https:\/\/www.npr.org\/sections\/thetwo-way\/2018\/03\/19\/594890393\/venezuelan-city-launches-its-own-currency-amid-cash-crunch"}' ><b class="share-tools__service-name">Flipboard</b></button></li>
+         <li class="share-tools__service share-tools__service--email"><button class='share-tools__email-link' data-story-id='594890393'  data-metrics='{"action":"Click Email a Friend","category":"Share Tools","label":"https:\/\/www.npr.org\/sections\/thetwo-way\/2018\/03\/19\/594890393\/venezuelan-city-launches-its-own-currency-amid-cash-crunch"}' ><b class="share-tools__service-name">Email</b></button></li>
+      </ul>
+   </div>
+   
+<!-- END CLASS="SHARE-TOOLS SHARE-TOOLS--PRIMARY" ARIA-LABEL="SHARE TOOLS" -->
+</div>
+
+<!-- END CLASS="STORY-TOOLS" -->
+<div id="story-meta" class="story-meta has-byline">
+      <div class="story-meta__one">
+            <div class="dateblock">
+    <time datetime="2018-03-19T12:15:00-04:00">
+            <span class="date">March 19, 2018</span><span class="time">12:15 PM ET</span>
+    </time>
+</div>
+   </div>
+   
+<!-- END CLASS="STORY-META__ONE" -->
+   <div class="story-meta__two">
+            <div id="storybyline" class="storybyline-wrap linkLocation">
+                  <div class="bucketwrap byline" id="res594890396" previewTitle="bylines">
+                        <div class="byline-container--block">
+                              <div class="byline byline--block byline--has-link" aria-label="Byline">
+    <div class="byline__photo">
+      <a href="https://www.npr.org/people/466454757/merrit-kennedy" rel="author"  data-metrics='{"action":"Click Byline","category":"Story Metadata"}' >
+        <img src="https://media.npr.org/assets/img/2017/11/29/merrit-kennedy_sq-e6bebb8b583aeda0e07bfdd7de62d133d553bb02-s100-c85.png" class="img"  alt="Merrit Kennedy square 2017" />
+      </a>
+    </div>
+
+  <p class="byline__name byline__name--block">
+    <a href="https://www.npr.org/people/466454757/merrit-kennedy" rel="author"  data-metrics='{"action":"Click Byline","category":"Story Metadata"}' >
+      Merrit Kennedy
+    </a>
+  </p>
+
+    <a class="byline__social-handle byline__social-handle--2" href="https://instagram.com/merrit_k"  data-metrics='{"action":"Click Social Handle","category":"Story Metadata"}' >
+      Instagram
+    </a>
+    <a class="byline__social-handle byline__social-handle--5" href="https://www.twitter.com/merritk"  data-metrics='{"action":"Click Social Handle","category":"Story Metadata"}' >
+      Twitter
+    </a>
+</div>
+            </div>
+         </div>
+         
+<!-- END CLASS="BUCKETWRAP BYLINE" ID="RES594890396" PREVIEWTITLE="BYLINES" -->
+      </div>
+   </div>
+   
+<!-- END CLASS="STORY-META__TWO" -->
+</div>
+
+<!-- END ID="STORY-META" CLASS="STORY-META HAS-BYLINE" -->
+<div id="storytext" class="storytext storylocation linkLocation">
+      <div id="res594915624" class="bucketwrap image large">
+            <div class="imagewrap" data-crop-type="">
+    <img src="https://media.npr.org/assets/img/2018/03/19/gettyimages-912695294_custom-409cc2645248a76d9b6c92e6a66bae7bfd30ddcc-s1100-c15.jpg" data-original="https://media.npr.org/assets/img/2018/03/19/gettyimages-912695294_custom-409cc2645248a76d9b6c92e6a66bae7bfd30ddcc-s1100.jpg" class="img lazyOnLoad"  alt="" />
+        <div class="enlarge-options">
+            <a class="enlargelink" href="https://media.npr.org/assets/img/2018/03/19/gettyimages-912695294_custom-409cc2645248a76d9b6c92e6a66bae7bfd30ddcc-s1200.jpg">Enlarge this image</a>
+        </div>
+</div>
+<div class="credit-caption">
+    <div class="caption-wrap">
+        <div class="caption" aria-label="Image caption">
+            <p>
+                A banner depicting Venezuela's currency, the bolivar, at the central bank of Venezuela in Caracas in January. The bolivar has lost the vast majority of its value in just the last year.
+                
+                <b class="credit" aria-label="Image credit">
+                    
+                    Federico Parra /AFP/Getty Images
+                    
+                </b>
+                <b class="hide-caption"><b>hide caption</b></b>
+            </p>
+        </div>
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </div>
+
+    <span class="credit" aria-label="Image credit">
+        
+        Federico Parra /AFP/Getty Images
+        
+    </span>
+</div>
+<div class="enlarge_measure">
+    <div class="img_wrap">
+        <img data-original="https://media.npr.org/assets/img/2018/03/19/gettyimages-912695294_custom-409cc2645248a76d9b6c92e6a66bae7bfd30ddcc-s1200.jpg" alt="" />
+    </div>
+</div>
+<div class="enlarge_html">
+    <div class="image_data">
+        <p class="caption">A banner depicting Venezuela's currency, the bolivar, at the central bank of Venezuela in Caracas in January. The bolivar has lost the vast majority of its value in just the last year.</p>
+        <span class="credit" aria-label="Image credit">
+            
+            Federico Parra /AFP/Getty Images
+            
+        </span>
+    </div>
+</div>
+   </div>
+   <p>As Venezuela reels from hyperinflation that has caused a severe shortage of cash, one city is trying to mitigate the problem by printing its own currency.</p>   <p>Elorza, in western Venezuela near the border with Colombia, is selling its own bills featuring the image of an independence leader from the area, <a href="https://www.reuters.com/article/us-venezuela-currency/venezuela-city-issues-own-currency-to-combat-national-cash-crisis-idUSKCN1GT0T9">according to Reuters</a>.</p>   <p>Venezuela's national currency, the bolivar, has lost the vast majority of its value in just the last year — and it is expected to continue to drop. "Inflation is projected to have exceeded 2,400 percent in 2017 and to rise to about 13,000 percent in 2018," <a href="https://blogs.imf.org/2018/01/25/latin-america-and-the-caribbean-in-2018-an-economic-recovery-in-the-making/">the International Monetary Fund said in January</a>.</p>   <p>Prices have skyrocketed, making it hard for people to afford basic necessities such as food or medicine. And even if people do have the money, it's hard to actually find enough cash to buy the goods.</p>   <p>"People don't have bolivares to spend, that's why we have created bills of two denominations," Mayor Solfreddy Solórzano <a href="http://www.bbc.com/news/world-latin-america-43457184">told the BBC</a>.</p>   <aside id="ad-backstage-wrap" aria-label="advertisement">
+    
+
+    <div id="ad-backstage-News_World_Latin_America" class="ad-backstage" data-ad-config='{"network":"\/6735\/n6735","site":{"default":"NPR","mobile":"NPRMOBILE"},"zone":"News_World_Latin_America","targets":{"testserver":"false","storyId":"594890393","agg":"103943429","blog":"103943429"},"location":"backstage","deferred":false,"isBetweenContent":true}'></div>
+
+</aside>   <div id="res594927450" class="bucketwrap internallink insettwocolumn inset2col ">
+            <div class="bucket img">
+                  <a id="featuredStackSquareImage506058572" href="https://www.npr.org/sections/thetwo-way/2016/12/18/506058572/after-outbreak-of-looting-venezuela-delays-phase-out-of-large-currency"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/sections\/thetwo-way\/2016\/12\/18\/506058572\/after-outbreak-of-looting-venezuela-delays-phase-out-of-large-currency"}' ><img src="https://media.npr.org/assets/img/2016/12/18/gettyimages-630151920_sq-70e3b6e6d4e4e85376acff24cf9d64fe9680334a-s100-c15.jpg" data-original="https://media.npr.org/assets/img/2016/12/18/gettyimages-630151920_sq-70e3b6e6d4e4e85376acff24cf9d64fe9680334a-s100.jpg" class="img lazyOnLoad"  alt="After Outbreak Of Looting, Venezuela Delays Phase-Out Of Large Currency" /></a>         <div class="bucketblock">
+                        <h3 class="slug"><a href="https://www.npr.org/sections/thetwo-way/">The Two-Way </a></h3>
+            <h3><a href="https://www.npr.org/sections/thetwo-way/2016/12/18/506058572/after-outbreak-of-looting-venezuela-delays-phase-out-of-large-currency"  data-metrics='{"category":"Story to Story","action":"Click Internal Link","label":"https:\/\/www.npr.org\/sections\/thetwo-way\/2016\/12\/18\/506058572\/after-outbreak-of-looting-venezuela-delays-phase-out-of-large-currency"}' >After Outbreak Of Looting, Venezuela Delays Phase-Out Of Large Currency</a></h3>
+         </div>
+         
+<!-- END CLASS="BUCKETBLOCK" -->
+      </div>
+      
+<!-- END CLASS="BUCKET IMG" -->
+   </div>
+   
+<!-- END ID="RES594927450" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+   <p>Elorza has a festival that starts Monday, according to the broadcaster, and local authorities and businessmen were worried that the cash crunch would cause the city to lose business.</p>   <p>"Now those who want to buy just a sweet or even a whole cow from the barbecue, will be able to do so," cattle breeder Canuto Garcia told the BBC.</p>   <p>The mayor's office is selling the local currency at an 8 percent commission, according to Reuters, which can be purchased with bolivars using a card or bank transfer. "People will be able to return the tickets to the mayor's office and claim a bolivar-denominated refund," the wire service adds.</p>   <p>This isn't the first local currency to launch in Venezuela recently. As Venezuela's <a href="http://www.el-nacional.com/noticias/economia/elorza-nueva-moneda-local-apure_227234">El Nacional newspaper</a> reports, economist Jose Guerra says that the hyperinflation is causing what he termed "mini central banks" to emerge.</p>   <p>Last December, one neighborhood of the capital, Caracas, started issuing an alternative currency, which it called the panal. <a href="https://apnews.com/3fac7e082827418cbee8bf9f3e21f74f/Poor-Venezuelans-launch-local-currency-amid-cash-crunch">As The Associated Press reported</a>, that currency could only be used in a few stores and was meant to help the struggling area buy basic staples such as rice.</p>   <p>At the time, opposition politician Guerra expressed concern that multiple currencies in the country could further deepen the crisis by creating "monetary chaos," the AP added.</p>   <p>Last month, President Nicolás Maduro also proposed a state-sponsored cryptocurrency to ease the cash crunch.</p>   <p>Reporter John Otis <a href="https://www.npr.org/2018/02/20/587195926/venezuela-set-to-launch-the-petro-its-new-cryptocurrency">told Morning Edition</a> that each unit of the currency would be backed by one barrel of oil. The president has touted the currency as a new innovation, Otis reports, though it has been met with skepticism by some critics who note that the oil "backing" the currency has not actually been taken out of the ground yet.</p>   <p>On Monday, the White House imposed new sanctions on Venezuelan cryptocurrency. The executive order prohibits transactions by U.S. citizens using "any digital currency, digital coin, or digital token," issued by Venezuela's government since January.</p>   <p>As Reuters reports, Maduro's government "blames the country's crisis on an 'economic war' being waged by Washington and the opposition, aimed at toppling his government."</p>   <p>But critics say strict currency controls are a major factor contributing to the crisis. <a href="https://www.cfr.org/backgrounder/venezuela-crisis">The Council on Foreign Relations explains</a>:</p>   <blockquote class="edTag"><div>   <p>"By selling U.S. dollars at different rates, the government effectively created a black market and increased opportunities for corruption. A business that is authorized to buy dollars at preferential rates to purchase priority goods like food or medicine could instead sell those dollars for a significant profit to third parties."</p>   </div></blockquote>   <p>The country recently reintroduced currency auctions to try to address hyperinflation and foreign currency shortages, <a href="https://www.bloomberg.com/news/articles/2018-02-05/venezuela-devalues-bolivar-more-than-80-in-currency-auction">as Bloomberg reports</a>, leading to its official rate's losing 80 percent of its value in February. Bloomberg adds that rate was still about 10 times stronger than the black market rate.</p>
+</div>
+ <!--googleoff: index--><div class="tags">
+      <ul>
+            <li><a class="tag tag--story" data-metrics='{"category":"story actions","action":"click tag"}' href="https://www.npr.org/tags/127986573/currency">currency</a></li>
+      <li><a class="tag tag--story" data-metrics='{"category":"story actions","action":"click tag"}' href="https://www.npr.org/tags/126944133/venezuela">Venezuela</a></li>
+   </ul>
+</div>
+
+<!-- END CLASS="TAGS" -->
+<div class="share-tools share-tools--secondary" aria-label="Share tools">
+      <ul>
+            <li class="share-tools__service share-tools__service--facebook"><button class="fbStory594890393" data-share-facebook='{"storyId": 594890393 }'  data-metrics='{"action":"Click Facebook","category":"Share Tools","label":"https:\/\/www.npr.org\/sections\/thetwo-way\/2018\/03\/19\/594890393\/venezuelan-city-launches-its-own-currency-amid-cash-crunch"}' ><b class="share-tools__service-name">Facebook</b></button></li>
+      <li class="share-tools__service share-tools__service--twitter"><button class="story594890393" data-share-twitter='{"storyId": 594890393 }'  data-metrics='{"action":"Click Twitter","category":"Share Tools","label":"https:\/\/www.npr.org\/sections\/thetwo-way\/2018\/03\/19\/594890393\/venezuelan-city-launches-its-own-currency-amid-cash-crunch"}' ><b class="share-tools__service-name">Twitter</b></button></li>
+      <li class="share-tools__service share-tools__service--flipboard"><button class="story594890393" data-share-flipboard='{"storyId": 594890393 }'  data-metrics='{"action":"Click Flipboard","category":"Share Tools","label":"https:\/\/www.npr.org\/sections\/thetwo-way\/2018\/03\/19\/594890393\/venezuelan-city-launches-its-own-currency-amid-cash-crunch"}' ><b class="share-tools__service-name">Flipboard</b></button></li>
+      <li class="share-tools__service share-tools__service--email"><button class='share-tools__email-link' data-story-id='594890393'  data-metrics='{"action":"Click Email a Friend","category":"Share Tools","label":"https:\/\/www.npr.org\/sections\/thetwo-way\/2018\/03\/19\/594890393\/venezuelan-city-launches-its-own-currency-amid-cash-crunch"}' ><b class="share-tools__service-name">Email</b></button></li>
+   </ul>
+</div>
+
+<!-- END CLASS="SHARE-TOOLS SHARE-TOOLS--SECONDARY" ARIA-LABEL="SHARE TOOLS" -->
+<div id="newsletter-acquisition-callout-data" data-newsletter="{&quot;newsletterId&quot;:&quot;breaking-news&quot;,&quot;title&quot;:&quot;Breaking News Alerts&quot;,&quot;marketingHeader&quot;:&quot;Read All About It: Breaking News From NPR&quot;,&quot;frequency&quot;:&quot;&quot;,&quot;shortDescription&quot;:&quot;When major news happens, stay on top of the latest developments, delivered to your inbox.&quot;,&quot;contentImage&quot;:&quot;&quot;,&quot;staticMarkupDir&quot;:&quot;\/buckets\/blogs\/thetwo-way\/subnav.html&quot;,&quot;brandingDir&quot;:&quot;\/branding\/sections\/thetwo-way\/&quot;,&quot;brandingLink&quot;:&quot;https:\/\/www.npr.org\/sections\/thetwo-way\/&quot;}">
+   </div>
+
+<!-- END ID="NEWSLETTER-ACQUISITION-CALLOUT-DATA" DATA-NEWSLETTER="{&QUOT;NEWSLETTERID&QUOT;:&QUOT;BREAKING-NEWS&QUOT;,&QUOT;TITLE&QUOT;:&QUOT;BREAKING NEWS ALERTS&QUOT;,&QUOT;MARKETINGHEADER&QUOT;:&QUOT;READ ALL ABOUT IT: BREAKING NEWS FROM NPR&QUOT;,&QUOT;FREQUENCY&QUOT;:&QUOT;&QUOT;,&QUOT;SHORTDESCRIPTION&QUOT;:&QUOT;WHEN MAJOR NEWS HAPPENS, STAY ON TOP OF THE LATEST DEVELOPMENTS, DELIVERED TO YOUR INBOX.&QUOT;,&QUOT;CONTENTIMAGE&QUOT;:&QUOT;&QUOT;,&QUOT;STATICMARKUPDIR&QUOT;:&QUOT;\/BUCKETS\/BLOGS\/THETWO-WAY\/SUBNAV.HTML&QUOT;,&QUOT;BRANDINGDIR&QUOT;:&QUOT;\/BRANDING\/SECTIONS\/THETWO-WAY\/&QUOT;,&QUOT;BRANDINGLINK&QUOT;:&QUOT;HTTPS:\/\/WWW.NPR.ORG\/SECTIONS\/THETWO-WAY\/&QUOT;}" -->
+<div id="callout-end-of-story-mount">
+   </div>
+
+<!-- END ID="CALLOUT-END-OF-STORY-MOUNT" -->
+<aside id="end-of-story-recommendations-mount" class="recommended-stories" aria-label="recommended stories"></aside>
+<!-- END ID="END-OF-STORY-RECOMMENDATIONS-MOUNT" CLASS="RECOMMENDED-STORIES" ARIA-LABEL="RECOMMENDED STORIES" -->
+</article><header class="contentheader contentheader--two" data-metrics='{"category":"The Two-Way"}' ><div class="branding branding--custom">
+      <a href="https://www.npr.org/sections/thetwo-way/" data-metrics='{"action":"click branding"}' ><img src="https://media.npr.org/branding/sections/thetwo-way/branding_icon-aec8943f7fba654246d504d81ae2999f30b3106f.png" class="branding__image-icon" alt="The Two-Way" /><div class="branding__inner">
+      <h2 class="branding__title branding__title--custom-text">The <b>Two-Way</b></h2>
+   <b class="branding__mini-teaser">Breaking News From NPR</b>
+</div>
+
+<!-- END CLASS="BRANDING__INNER" -->
+</a>
+</div>
+
+<!-- END CLASS="BRANDING BRANDING--CUSTOM" -->
+</header><div id="contentfooterwrap">
+      <footer id="contentfooter" data-metrics-category="The Two-Way"><div class="branding branding--custom">
+      <a href="https://www.npr.org/sections/thetwo-way/" data-metrics='{"action":"click branding"}' ><img src="https://media.npr.org/branding/sections/thetwo-way/branding_icon-aec8943f7fba654246d504d81ae2999f30b3106f.png" class="branding__image-icon" alt="The Two-Way" /><div class="branding__inner">
+      <h2 class="branding__title branding__title--custom-text">The <b>Two-Way</b></h2>
+   <b class="branding__mini-teaser">Breaking News From NPR</b>
+</div>
+
+<!-- END CLASS="BRANDING__INNER" -->
+</a>
+</div>
+
+<!-- END CLASS="BRANDING BRANDING--CUSTOM" -->
+<div class="modules">
+      <div class="module first">
+            <h3><a href="#"  data-metrics='{"action":"Toggle Footer Dropdown","label":"About","category":"The Two-Way"}' >About</a></h3>
+      <div id="footer_module" class="agglocation linkLocation">
+                  <div id="res163940646" class="bucketwrap listtext">
+                        <div class="bucket">
+                              <p><em>The Two-Way</em> is the place to come for breaking news, analysis and for stories that are just too interesting – or too entertaining – to pass up. <a href="http://help.npr.org/customer/portal/emails/new?i=1&s=The%20Two-Way">Get in touch with your questions, comments and leads.</a></p>
+            </div>
+            
+<!-- END CLASS="BUCKET" -->
+         </div>
+         
+<!-- END ID="RES163940646" CLASS="BUCKETWRAP LISTTEXT" -->
+      </div>
+   </div>
+   
+<!-- END CLASS="MODULE FIRST" -->
+   <div class="module second">
+    <h3><a href="#" data-metrics='{"action":"Toggle Footer Dropdown","label":"Subscribe"}'>Subscribe</a></h3>
+
+    <div>
+        <ul class="subscribe">
+            <li class="twitter"><a href="https://twitter.com/publicbill" data-metrics='{"action":"Click Twitter"}'>Follow Bill</a></li>
+            <li class="twitter"><a href="https://twitter.com/camilareads" data-metrics='{"action":"Click Twitter"}'>Follow Camila</a></li>
+            <li class="twitter"><a href="https://twitter.com/colintdwyer" data-metrics='{"action":"Click Twitter"}'>Follow Colin</a></li>
+            <li class="twitter"><a href="https://twitter.com/merritk" data-metrics='{"action":"Click Twitter"}'>Follow Merrit</a></li>
+            <li class="facebook"><a href="https://www.facebook.com/NPR" data-metrics='{"action":"Click Facebook"}'>Facebook</a></li>
+            <li class="rss"><a href="feed://www.npr.org/rss/rss.php?id=103943429" data-metrics='{"action":"Click RSS"}'>RSS</a></li>
+        </ul>
+    </div>
+</div>
+<!-- end class="module second" -->
+
+<div class="module third">
+    <h3><a href="#" data-metrics='{"action":"Toggle Footer Dropdown","label":"NPR News Twitter"}'>NPR Twitter</a></h3>
+
+    <div class="promo-bucket twitter-promo" data-metrics-all data-metrics='{"action":"Click Footer Promo"}'>
+        <a href="https://twitter.com/NPR" title="Follow @NPR">
+            <img class="twitter-bird" src="//media.npr.org/images/twitter-bird-light-bgs.png" class="Twitter logo" />
+           <h4>Follow <b>@NPR</b></h4>
+        </a>
+    </div>
+</div>
+<!-- end class="module third" -->
+</div>
+
+<!-- END CLASS="MODULES" -->
+</footer>
+</div>
+
+<!-- END ID="CONTENTFOOTERWRAP" -->
+<footer id="npr-footer" class="npr-footer" role="contentinfo" aria-label="NPR footer"><div class="npr-footer__content" data-metrics-category="Global Footer" data-metrics-label="Footer">
+    <div class="npr-footer__module-group">
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Read &amp; Listen</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/" data-metrics-action="Click Homepage">Home</a></li>
+                <li class="npr-footer__item"><a href="/sections/news/" data-metrics-action="Click News">News</a></li>
+                <li class="npr-footer__item"><a href="/sections/arts/" data-metrics-action="Click Arts &amp; Life">Arts &amp; Life</a></li>
+                <li class="npr-footer__item"><a href="/music/" data-metrics-action="Click Music">Music</a></li>
+                <li class="npr-footer__item"><a href="/podcasts/" data-metrics-action="Click Podcasts">Podcasts</a></li>
+                <li class="npr-footer__item"><a href="/programs/" data-metrics-action="Click Programs">Programs</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Connect</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/about-npr/471757314/newsletters" data-metrics-action="Click Newsletters">Newsletters</a></li>
+                <li class="npr-footer__item"><a href="https://www.facebook.com/NPR/" data-metrics-action="Click Facebook">Facebook</a></li>
+                <li class="npr-footer__item"><a href="https://twitter.com/NPR" data-metrics-action="Click Twitter">Twitter</a></li>
+                <li class="npr-footer__item"><a href="https://www.instagram.com/npr/" data-metrics-action="Click Instagram">Instagram</a></li>
+                <li class="npr-footer__item"><a href="https://www.npr.org/contact" data-metrics-action="Click Contact">Contact</a></li>
+                <li class="npr-footer__item"><a href="https://help.npr.org" data-metrics-action="Click Help">Help</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">About NPR</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/about/" data-metrics-action="Click Overview">Overview</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/178660742/public-radio-finances" data-metrics-action="Click Finances">Finances</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/179803822/people-at-npr" data-metrics-action="Click People">People</a></li>
+                <li class="npr-footer__item"><a href="/series/750003/press-room/" data-metrics-action="Click Press">Press</a></li>
+                <li class="npr-footer__item"><a href="/sections/ombudsman/" data-metrics-action="Click Ombudsman">Ombudsman</a></li>
+                <li class="npr-footer__item"><a href="/corrections/" data-metrics-action="Click Corrections">Corrections</a></li>
+            </ul>
+        </div>
+
+        <div class="npr-footer__module">
+            <h6 class="npr-footer__header">Get Involved</h6>
+
+            <ul>
+                <li class="npr-footer__item"><a href="/series/750002/support-public-radio" data-metrics-action="Click Support Public Radio">Support Public Radio</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/186948703/corporate-sponsorship" data-metrics-action="Click Sponsor NPR">Sponsor NPR</a></li>
+                <li class="npr-footer__item"><a href="/careers/" data-metrics-action="Click NPR Careers">NPR Careers</a></li>
+                <li class="npr-footer__item"><a href="https://shop.npr.org/" data-metrics-action="Click NPR Shop">NPR Shop</a></li>
+                <li class="npr-footer__item"><a href="https://www.nprpresents.org" data-metrics-action="Click NPR Events">NPR Events</a></li>
+                <li class="npr-footer__item"><a href="/about-npr/177066727/visit-npr" data-metrics-action="Click Visit NPR">Visit NPR</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="npr-footer__module npr-footer__module--secondary">
+        <ul>
+            <li class="npr-footer__item"><a href="/about-npr/179876898/terms-of-use" data-metrics-action="Click Terms of Use">Terms of Use</a></li>
+            <li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy" data-metrics-action="Click Privacy">Privacy</a></li>
+            <li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy#opting-out-of-cookies-and-web-beacons" data-metrics-action="Click Sponsorship Choices">Sponsorship Choices</a></li>
+            <li class="npr-footer__item"><a href="https://text.npr.org/" data-metrics-action="Click Text Only">Text Only</a></li>
+            <li class="npr-footer__item"><span class="copy-year"></span></li>
+        </ul>
+    </div>
+</div></footer></section>   <div id="main-sidebar">
+            <aside id="ad-standard-wrap" aria-label="advertisement">
+    
+
+    <div id="ad-standard-News_World_Latin_America" class="ad-standard" data-ad-config='{"network":"\/6735\/n6735","site":{"default":"NPR","mobile":"NPRMOBILE"},"zone":"News_World_Latin_America","targets":{"testserver":"false","storyId":"594890393","agg":"103943429","blog":"103943429"},"location":"standard","deferred":false,"isBetweenContent":false}'></div>
+    <p class="left">NPR thanks our sponsors</p><p class="right"><a href="/about-npr/186948703/corporate-sponsorship">Become an NPR sponsor</a></p>
+
+</aside>
+   </div>
+   
+<!-- END ID="MAIN-SIDEBAR" -->
+</div>
+
+<!-- END ID="WRAPPER" -->
+<script type="text/javascript">
+   (function () {
+    var loadPageJs = function () { webpackJsonp([72,22],{0:function(n,t,c){n.exports=c(1277)},1277:function(n,t,c){"use strict";c.p=NPR.serverVars.webpackPublicPath,function(){var n=2,t=function(){--n<1&&function(n){c(21),c(1347),c(139),c(369),c(109),c(263),c(161),c(1352),c(160),c(1351),c(1350),c(583),c(165)}(c)}.bind(this);c.e(0,t),c.e(2,t)}.call(this)}}); };
+    if (document.readyState === 'complete') {
+        loadPageJs();
+    } else {
+        window.addEventListener('load', function load() {
+            window.removeEventListener('load', load, false);
+            loadPageJs();
+        });
+    }
+})();
+</script>
+<div d="ttdUniversalPixelTag53f1888d7923458abf666fadbafb67b0" style="display:none">
+   <script src="https://js.adsrvr.org/up_loader.1.1.0.js" type="text/javascript"></script>
+<script type="text/javascript">
+    (function(global) {
+        if (typeof TTDUniversalPixelApi === 'function') {
+            var universalPixelApi = new TTDUniversalPixelApi();
+            universalPixelApi.init("vflsioo", ["gkjeidp"], "https://insight.adsrvr.org/track/up", "ttdUniversalPixelTag53f1888d7923458abf666fadbafb67b0");
+        }
+    })(this);
+</script>
+</div>
+<script type="text/javascript">
+   /* <![CDATA[ */
+var google_conversion_id = 824814092;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<noscript><div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/824814092/?guid=ON&amp;script=0"/>
+</div></noscript></main><noscript><iframe style="display:none;padding:0;margin:0;" width="0" height="0" src="//20655831p.rfihub.com/ca.html?rb=3035&ca=20501671&ra=gtmcb"></iframe></noscript><noscript><iframe><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1621557368158968&ev=PageView&noscript=1" /></iframe></noscript><script type='text/javascript'>
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = '18888';
+    _sf_async_config.domain = NPR.ServerConstants.cbHost;
+    _sf_async_config.useCanonical = true;
+
+    /** CONFIGURATION END **/
+    (function() {
+        function loadChartbeat() {
+            window._sf_endpt = (new Date()).getTime();
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src', 'https://static.chartbeat.com/js/chartbeat.js');
+            document.body.appendChild(e);
+        }
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+                loadChartbeat : function() {
+            oldonload();
+            loadChartbeat();
+        };
+    })();
+</script></body></html>

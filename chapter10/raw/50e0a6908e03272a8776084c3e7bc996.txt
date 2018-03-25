@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html dir="ltr" lang="en" data-locale="en" data-locale-long="en_US" data-locale-name="English (United States)" data-locale-facebook="en_US" data-locale-twitter="en" data-locale-google="en-US" data-locale-linkedin="en_US" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html dir="ltr" lang="en" data-locale="en" data-locale-long="en_US" data-locale-name="English (United States)" data-locale-facebook="en_US" data-locale-twitter="en" data-locale-google="en-US" data-locale-linkedin="en_US" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html dir="ltr" lang="en" data-locale="en" data-locale-long="en_US" data-locale-name="English (United States)" data-locale-facebook="en_US" data-locale-twitter="en" data-locale-google="en-US" data-locale-linkedin="en_US" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html dir="ltr" lang="en" data-locale="en" data-locale-long="en_US" data-locale-name="English (United States)" data-locale-facebook="en_US" data-locale-twitter="en" data-locale-google="en-US" data-locale-linkedin="en_US" class="no-js "> <!--<![endif]-->
+    <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+                <meta charset="utf-8">
+        <title>Sarkozy&#x20;placed&#x20;under&#x20;formal&#x20;investigation&#x20;for&#x20;illegal&#x20;campaign&#x20;financing&#x20;in&#x20;Libya&#x20;probe&#x20;-&#x20;France&#x20;24</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1">
+        
+                                        <meta name="title" content="Sarkozy&#x20;placed&#x20;under&#x20;formal&#x20;investigation&#x20;for&#x20;illegal&#x20;campaign&#x20;financing&#x20;in&#x20;Libya&#x20;probe&#x20;-&#x20;France&#x20;24"><meta name="description" content="Former&#x20;French&#x20;president&#x20;Nicolas&#x20;Sarkozy&#x20;was&#x20;placed&#x20;under&#x20;formal&#x20;investigation&#x20;Wednesday&#x20;evening&#x20;after&#x20;two&#x20;days&#x20;of&#x20;questioning&#x20;over&#x20;allegations&#x20;that&#x20;late&#x20;Libyan&#x20;leader&#x20;Muammar&#x20;Gaddafi&#x20;illegally&#x20;helped&#x20;finance&#x20;his&#x20;2007&#x20;campaign."><meta name="news_keywords" content="corruption,&#x20;France,&#x20;Libya,&#x20;Muammar&#x20;Gaddafi,&#x20;Nicolas&#x20;Sarkozy,&#x20;Saif&#x20;al-Islam&#x20;Gaddafi"><link rel="search" type="application/opensearchdescription+xml" href="/opensearch_en.xml?version=20180301121500" title="France 24"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="France 24"><meta name="application-name" content="France 24"><link rel="shortcut icon" href="/favicon.ico?version=20180301121500" type="image/x-icon"><link rel="apple-touch-icon" href="/apple-touch-icon-57x57.png?version=20180301121500" sizes="57x57"><link rel="apple-touch-icon" href="/apple-touch-icon-60x60.png?version=20180301121500" sizes="60x60"><link rel="apple-touch-icon" href="/apple-touch-icon-72x72.png?version=20180301121500" sizes="72x72"><link rel="apple-touch-icon" href="/apple-touch-icon-76x76.png?version=20180301121500" sizes="76x76"><link rel="apple-touch-icon" href="/apple-touch-icon-114x114.png?version=20180301121500" sizes="114x114"><link rel="apple-touch-icon" href="/apple-touch-icon-120x120.png?version=20180301121500" sizes="120x120"><link rel="apple-touch-icon" href="/apple-touch-icon-144x144.png?version=20180301121500" sizes="144x144"><link rel="apple-touch-icon" href="/apple-touch-icon-152x152.png?version=20180301121500" sizes="152x152"><link rel="apple-touch-icon" href="/apple-touch-icon-180x180.png?version=20180301121500" sizes="180x180"><link rel="icon" type="image/png" href="/favicon-16x16.png?version=20180301121500" sizes="16x16"><link rel="icon" type="image/png" href="/favicon-32x32.png?version=20180301121500" sizes="32x32"><link rel="icon" type="image/png" href="/favicon-48x48.png?version=20180301121500" sizes="48x48"><link rel="icon" type="image/png" href="/favicon-64x64.png?version=20180301121500" sizes="64x64"><link rel="icon" type="image/png" href="/favicon-96x96.png?version=20180301121500" sizes="96x96"><link rel="icon" type="image/png" href="/favicon-160x160.png?version=20180301121500" sizes="160x160"><link rel="icon" type="image/png" href="/favicon-192x192.png?version=20180301121500" sizes="192x192"><meta name="msapplication-TileColor" content="#454349"><meta name="msapplication-TileImage" content="/mstile-144x144.png?version=20180301121500"><link rel="icon" type="image/x-icon" href="/favicon.ico?version=20180301121500"><meta property="og:site_name" content="France 24"><meta property="og:url" content="http://www.france24.com/en/20180321-sarkozy-placed-under-formal-investigation-illegal-campaign-financing-libya-gaddafi"><meta property="og:type" content="article"><meta property="og:image" content="http://scd.france24.com/en/files/imagecache/home_1024/article/image/sarkozy-m_25.jpg"><meta property="og:image:width" content="1024"><meta property="og:image:height" content="576"><meta property="og:image:type" content="image/jpg"><meta property="og:title" content="Sarkozy&#x20;placed&#x20;under&#x20;formal&#x20;investigation&#x20;for&#x20;illegal&#x20;campaign&#x20;financing&#x20;in&#x20;Libya&#x20;probe&#x20;-&#x20;France&#x20;24"><meta property="og:description" content="Former&#x20;French&#x20;president&#x20;Nicolas&#x20;Sarkozy&#x20;was&#x20;placed&#x20;under&#x20;formal&#x20;investigation&#x20;Wednesday&#x20;evening&#x20;after&#x20;two&#x20;days&#x20;of&#x20;questioning&#x20;over&#x20;allegations&#x20;that&#x20;late&#x20;Libyan&#x20;leader&#x20;Muammar&#x20;Gaddafi&#x20;illegally&#x20;helped&#x20;finance&#x20;his&#x20;2007&#x20;campaign."><meta property="fb:app_id" content="121241974571942"><meta property="fb:pages" content="176585044433"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:url" content="http://www.france24.com/en/20180321-sarkozy-placed-under-formal-investigation-illegal-campaign-financing-libya-gaddafi"><meta name="twitter:creator" content="@France24_en"><meta name="twitter:site" content="@FRANCE24"><meta name="twitter:image" content="http://scd.france24.com/en/files/imagecache/home_1024/article/image/sarkozy-m_25.jpg"><meta name="twitter:title" content="Sarkozy&#x20;placed&#x20;under&#x20;formal&#x20;investigation&#x20;for&#x20;illegal&#x20;campaign&#x20;financing&#x20;in&#x20;Libya&#x20;probe&#x20;-&#x20;France&#x20;24"><meta name="twitter:description" content="Former&#x20;French&#x20;president&#x20;Nicolas&#x20;Sarkozy&#x20;was&#x20;placed&#x20;under&#x20;formal&#x20;investigation&#x20;Wednesday&#x20;evening&#x20;after&#x20;two&#x20;days&#x20;of&#x20;questioning&#x20;over&#x20;allegations&#x20;that&#x20;late&#x20;Libyan&#x20;leader&#x20;Muammar&#x20;Gaddafi&#x20;illegally&#x20;helped&#x20;finance&#x20;his&#x20;2007&#x20;campaign."><meta name="twitter:domain" content="FRANCE24.com"><meta name="twitter:account_id" content="1994321"><meta name="twitter:app:id:iphone" content="364379394"><meta name="twitter:app:id:ipad" content="364379394"><meta name="twitter:app:id:googleplay" content="com.france24.androidapp"><meta name="apple-itunes-app" content="app-id=364379394"><meta name="msApplication-ID" content="57d03d56-dd7c-449e-8fa1-a87c090f54df"><meta name="msApplication-PackageFamilyName" content="FRANCE24.FRANCE24-MCD-RFI_3zfmvk45gp28r"><meta name="twitter:app:name:iphone" content="FRANCE 24"><meta name="twitter:app:name:ipad" content="FRANCE 24"><meta name="twitter:app:name:googleplay" content="FRANCE 24 for Android"><meta property="og:locale" content="en_US"><link href="https://plus.google.com/102302812252644717886/" rel="publisher"><meta property="article:publisher" content="https://www.facebook.com/FRANCE24.English" /><meta property="article:author" content="https://www.facebook.com/FRANCE24.English" /><meta property="article:published_time" content="2018-03-21T21:41:41+01:00"/><meta property="article:modified_time" content="2018-03-22T07:12:17+01:00"/><meta property="article:section" content="France" /><meta property="article:tag" content="corruption" /><meta property="article:tag" content="France" /><meta property="article:tag" content="Libya" /><meta property="article:tag" content="Muammar&#x20;Gaddafi" /><meta property="article:tag" content="Nicolas&#x20;Sarkozy" /><meta property="article:tag" content="Saif&#x20;al-Islam&#x20;Gaddafi" /><meta property="og:see_also" content="http://www.france24.com/en/20180320-france-libya-sarkozy-gaddafi-relations-haunt-2007-campaign-financing-case-custody" /><meta property="og:see_also" content="http://www.france24.com/en/20180320-sarkozy-france-bling-bling-former-president-legal-woes-libya-gaddafi-campaign" /><meta property="og:see_also" content="http://www.france24.com/en/20180320-france-sarkozy-custody-campaign-financing-libya-gaddafi" />
+                        
+    <link rel="alternate" href="android-app://com.france24.androidapp/f24/en/article/WB5895465-F24-EN-20180321" />
+    <meta name="twitter:app:url:googleplay" content="f24://en/article/WB5895465-F24-EN-20180321" />
+
+
+
+                    <link rel="canonical" href="http://www.france24.com/en/20180321-sarkozy-placed-under-formal-investigation-illegal-campaign-financing-libya-gaddafi"/>
+        
+                    <link rel="alternate amphtml" href="https://amp.france24.com/en/20180321-sarkozy-placed-under-formal-investigation-illegal-campaign-financing-libya-gaddafi"/>
+        
+        
+                                    <link rel="stylesheet" type="text/css" href="/css/compiled/main.mobile.css?version=20180301121500">
+                    
+        
+                                                <script type="text/javascript" src="/js/compiled/mobile-savereferrer.js?version=20180301121500"></script>
+            
+            <script type="text/javascript">
+                var domainConfig = {
+    baseDomain: "france24.com",
+    defaultSubdomain: "www",
+    mobileSubdomain: "m",
+    tabletSubdomain: "t",
+    currentSubdomain: "m",
+    currentLocale: {
+        short: "en",
+        long: "en_GB"
+    }
+};
+var isAefHermes = true;
+
+        
+            </script>
+
+            <script type="text/javascript" data-main="/js/main.mobile.built.js?version=20180301121500" src="/js/require.js?version=20180301121500" async></script>
+
+        
+        
+                                                    <script class='tc-config-vars' type="text/javascript"><!--
+var tms_vars = {};
+tms_vars["page"] = "Detail\x20page";
+tms_vars["env_context"] = "main";
+tms_vars["reqtag"] = "";
+tms_vars["locale"] = "en";
+tms_vars["aef_libelle_contenu_page"] = "Sarkozy\x20placed\x20under\x20formal\x20investigation\x20for\x20illegal\x20campaign\x20financing\x20in\x20Libya\x20probe";
+tms_vars["aef_id_contenu"] = "WB5895465\x2DF24\x2DEN\x2D20180321";
+tms_vars["aef_marque"] = "france24";
+tms_vars["aef_rep1"] = "france";
+tms_vars["aef_rep2"] = "defaut";
+tms_vars["aef_rep3"] = "defaut";
+tms_vars["aef_rep_global"] = "france";
+tms_vars["aef_thema"] = "corruption,france,libya,muammar\x20gaddafi,nicolas\x20sarkozy,saif\x20al\x2Dislam\x20gaddafi";
+tms_vars["aef_type_page1"] = "article";
+tms_vars["aef_type_page2"] = "article";
+tms_vars["aef_type_contenu1"] = "video";
+tms_vars["aef_section1"] = "article";
+tms_vars["aef_section2"] = "france";
+tms_vars["aef_auteur"] = "france\x2024";
+tms_vars["aef_acces"] = "gratuit";
+tms_vars["markup_ftp"] = "france";
+tms_vars["nom_page"] = "20180321\x2Dsarkozy\x2Dplaced\x2Dunder\x2Dformal\x2Dinvestigation\x2Dillegal\x2Dcampaign\x2Dfinancing\x2Dlibya\x2Dgaddafi";
+tms_vars["aef_dpubli"] = "2018\x2D03\x2D22";
+tms_vars["aef_hpubli"] = "07\x3A12";
+tms_vars["env_work"] = 'prod';
+tms_vars["aef_version_environnement"] = 'v3.0.57';
+        var tc_vars = {};
+window.tc_vars = tms_vars;
+//--></script>
+                                                                
+                    
+                    
+    <script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":"True","url":"http:\/\/www.france24.com\/en\/20180321-sarkozy-placed-under-formal-investigation-illegal-campaign-financing-libya-gaddafi","thumbnailUrl":"http:\/\/scd.france24.com\/en\/files\/imagecache\/home_1024\/article\/image\/sarkozy-m_25.jpg","headline":"Sarkozy placed under formal investigation for illegal campaign financing in Libya probe","alternativeHeadline":"Sarkozy placed under formal investigation for illegal campaign financing","description":"Former French president Nicolas Sarkozy was placed under formal investigation Wednesday evening after two days of questioning over allegations that late Libyan leader Muammar Gaddafi illegally helped finance his 2007 campaign.","image":{"@type":"ImageObject","url":"http:\/\/scd.france24.com\/en\/files\/imagecache\/home_1024\/article\/image\/sarkozy-m_25.jpg","width":"1024","height":"576"},"keywords":["corruption","France","Libya","Muammar Gaddafi","Nicolas Sarkozy","Saif al-Islam Gaddafi"],"datePublished":"2018-03-21T21:41:41Z","dateCreated":"2018-03-21T21:41:41Z","dateModified":"2018-03-22T07:12:17Z","articleSection":"France","creator":"FRANCE 24","author":[{"@type":"Person","name":"FRANCE 24","url":"http:\/\/m.france24.com"}],"publisher":{"@type":"Organization","name":"France 24","url":"https:\/\/plus.google.com\/102302812252644717886\/","logo":{"@type":"ImageObject","url":"http:\/\/static.france24.com\/meta_og_twcards\/jsonld_publisher.png","width":"1200","height":"1200"}}}</script>
+
+            </head>
+
+    <body class="">
+            <div class="site-container">
+            <div class="site-pusher">
+                                    <header class="header" id="toolbar">
+                        <a href="#" id="header-icon"></a>
+                                                <a href="/en/live/" class="player-trigg">Player</a>
+                        <h1 class="logo"><a href="/en/" class="ir">France 24 Mobile – International News 24/7</a></h1>
+                        <nav class="menu">
+                            <div class="logoLang">
+                                <p class="logo"><a href="#" class="ir">france24</a></p>
+                                            <div class="textLanguage"><a href="/fr/" class="language-item-link" title="Fran&#x00E7;ais">Français</a><a href="http://m.france24.com/es/" class="language-item-link" title="Espa&#x00F1;ol">Español</a><a href="/ar/" class="language-item-link" title="&#x0639;&#x0631;&#x0628;&#x064A;">عربي</a></div>
+                            </div>
+                                                            
+                        <ul>
+                                                                                                                                                                    <li class="">
+                                                                                                                                                                                                                            <a href="/en/" class=" language-item-link" title="International&#x20;breaking&#x20;news&#x20;and&#x20;headlines">
+                            Top stories
+                        </a>
+                                    </li>
+                                                                                                                                                            <li class="">
+                                                                                                                                                                                                                            <a href="/en/tv-shows/" class=" language-item-link" title="TV&#x20;shows,&#x20;VOD,&#x20;exclusive&#x20;interviews&#x20;and&#x20;reports">
+                            Shows
+                        </a>
+                                    </li>
+                                                                                                                                                            <li class="">
+                                                                                                                                                                                                                            <a href="/en/video/" class=" language-item-link" title="Video&#x20;news&#x20;and&#x20;international&#x20;news&#x20;-&#x20;France24">
+                            Videos
+                        </a>
+                                    </li>
+                                                                                                                                                            <li class="">
+                                                                                                                                                                                                                            <a href="/en/france/" class=" language-item-link" title="Latest&#x20;news&#x20;reports&#x20;on&#x20;FRANCE,&#x20;French&#x20;politics&#x20;and&#x20;culture&#x20;-&#x20;France&#x20;24">
+                            France
+                        </a>
+                                    </li>
+                                                                                                                                                            <li class="">
+                                                                                                                                                                                                                            <a href="/en/africa/" class=" language-item-link" title="Breaking&#x20;news&#x20;from&#x20;AFRICA,&#x20;Maghreb&#x20;and&#x20;Sub-Saharan&#x20;Africa&#x20;-&#x20;France&#x20;24">
+                            Africa
+                        </a>
+                                    </li>
+                                                                                                                                                            <li class="">
+                                                                                                                                                                                                                            <a href="/en/middle-east/" class=" language-item-link" title="Latest&#x20;news&#x20;from&#x20;the&#x20;Middle&#x20;East,&#x20;daily&#x20;international&#x20;news&#x20;reports">
+                            Middle east
+                        </a>
+                                    </li>
+                                                                                                                                                            <li class="">
+                                                                                                                                                                                                                            <a href="/en/europe/" class=" language-item-link" title="News&#x20;from&#x20;Europe&#x20;-&#x20;Latest&#x20;world&#x20;headlines&#x20;and&#x20;daily&#x20;news&#x20;-&#x20;France&#x20;24">
+                            Europe
+                        </a>
+                                    </li>
+                                                                                                                                                            <li class="">
+                                                                                                                                                                                                                            <a href="/en/americas/" class=" language-item-link" title="International&#x20;news&#x20;from&#x20;the&#x20;Americas&#x20;-&#x20;France&#x20;24">
+                            Americas
+                        </a>
+                                    </li>
+                                                                                                                                                            <li class="">
+                                                                                                                                                                                                                            <a href="/en/asia-pacific/" class=" language-item-link" title="News&#x20;from&#x20;Asia&#x20;Pacific&#x20;-&#x20;Latest&#x20;headlines&#x20;and&#x20;news&#x20;reports&#x20;-&#x20;France&#x20;24">
+                            Asia / pacific
+                        </a>
+                                    </li>
+                                                                                                                                                            <li class="">
+                                                                                                                                                                                                                            <a href="/en/sport/" class=" language-item-link" title="SPORTS&#x20;news,&#x20;stories&#x20;and&#x20;scores&#x20;-&#x20;Football,&#x20;tennis,&#x20;F1&#x2026;">
+                            Sports
+                        </a>
+                                    </li>
+                                                                                                                                                            <li class="">
+                                                                                                                                                                                                                            <a href="/en/business-tech/" class=" language-item-link" title="Business&#x20;news,&#x20;technology,&#x20;media&#x20;and&#x20;finance&#x20;reports&#x20;-&#x20;France&#x20;24">
+                            Business / tech
+                        </a>
+                                    </li>
+                                                                                                                                                            <li class="">
+                                                                                                                                                                                                                            <a href="/en/culture/" class=" language-item-link" title="News&#x20;and&#x20;stories&#x20;on&#x20;CULTURE,&#x20;movies,&#x20;music,&#x20;literature&#x20;-&#x20;France&#x20;24">
+                            Culture
+                        </a>
+                                    </li>
+                                                                                                                                                            <li class="">
+                                                                                                                                            <a href="http://www.france24.com/en/cop21" class=" language-item-link" title="Environment" target="_blank">
+                            Environment
+                        </a>
+                                    </li>
+                                                                                                                                                            <li class="">
+                                                                                                                                                                                                                            <a href="/en/on-the-ground/" class=" language-item-link" title="Watch&#x20;the&#x20;latest&#x20;&quot;Documentaries&quot;&#x20;reports">
+                            Documentaries
+                        </a>
+                                    </li>
+                                                                                                                                                            <li class="">
+                                                                                                                                                                                                                            <a href="/en/webdocumentaries/" class=" language-item-link" title="Webdocumentaries&#x20;and&#x20;Infographics&#x20;-&#x20;France&#x20;24">
+                            Infographics
+                        </a>
+                                    </li>
+                                                                                                                                                                                                <li class="">
+                                                                                                                                            <a href="http://www.infomigrants.net/en/" class="logo-im language-item-link" title="InfoMigrants" target="_blank">
+                            Infomigrants
+                        </a>
+                                    </li>
+                                                                                                                                                                                                <li class="">
+                                                                                                                                            <a href="http://observers.france24.com/en/" class="logo-observ language-item-link" title="The&#x20;Observers" target="_blank">
+                            The observers
+                        </a>
+                                    </li>
+                                                                                                                                                                                                <li class="">
+                                                                                                                                            <a href="http://m.france24.com/en/terms-of-use" class="m-cgu language-item-link" title="Terms&#x20;of&#x20;use" target="_blank">
+                            Terms of use
+                        </a>
+                                    </li>
+                        </ul>
+
+     
+                                                    </nav>
+                    </header>
+                                <div id="content" class="site-content">
+                    <div class="container">
+                                                                    
+<article class="article">
+
+    <header>
+                                    <ul class="tag">
+                                    <li><a href="/en/tag/corruption/" title="corruption" class="modeless">corruption</a></li>
+                            <li><a href="/en/tag/france/" title="France" class="modeless">France</a></li>
+                            <li><a href="/en/tag/libya/" title="Libya" class="modeless">Libya</a></li>
+                        </ul>
+
+
+        <h2 class="title">Sarkozy placed under formal investigation for illegal campaign financing in Libya probe</h2>
+        <p class="modification">Latest update : 22/03/2018</p>
+        <div class="share-bar">
+                                                                            
+    <ul>
+                                                
+                    
+<li class="social-cell fb">
+<div class="fb-share" data-href="http://f24.my/2hUx.F" data-callback="trackingSocial.fb_tracker"></div>
+</li>
+<li class="social-cell tt">
+<div class="tt-share" data-href="http://f24.my/2hUx.T" data-text="Sarkozy&#x20;placed&#x20;under&#x20;formal&#x20;investigation&#x20;for&#x20;illegal&#x20;campaign&#x20;financing" data-callback="trackingSocial.tt_tracker"></div>
+</li>
+<li class="social-cell gp">
+<div class="gp-share" data-href="http://www.france24.com/en/20180321-sarkozy-placed-under-formal-investigation-illegal-campaign-financing-libya-gaddafi" data-callback="trackingSocial.gp_tracker"></div>
+</li>
+<li class="social-cell re">
+<div class="re-share" data-href="http://www.france24.com/en/20180321-sarkozy-placed-under-formal-investigation-illegal-campaign-financing-libya-gaddafi" data-callback="trackingSocial.re_tracker"></div>
+</li>
+<li class="social-cell wa">
+<div class="wa-share" data-href="http://www.france24.com/en/20180321-sarkozy-placed-under-formal-investigation-illegal-campaign-financing-libya-gaddafi" data-text="Sarkozy&#x20;placed&#x20;under&#x20;formal&#x20;investigation&#x20;for&#x20;illegal&#x20;campaign&#x20;financing&#x20;in&#x20;Libya&#x20;probe" data-callback="trackingSocial.wa_tracker"></div>
+</li>
+<li class="social-cell mt">
+<div class="mt-share" data-href="http://www.france24.com/en/20180321-sarkozy-placed-under-formal-investigation-illegal-campaign-financing-libya-gaddafi" data-text="Sarkozy&#x20;placed&#x20;under&#x20;formal&#x20;investigation&#x20;for&#x20;illegal&#x20;campaign&#x20;financing&#x20;in&#x20;Libya&#x20;probe" data-callback="trackingSocial.mt_tracker"></div>
+</li>
+    </ul>
+
+
+        </div><!-- / .share-bar -->
+        
+        <figure class="img">
+                                                                                                                             
+                                    <div style="background-image: url('http://scd.france24.com/en/files/imagecache/france24_ct_api_medium_169/article/image/sarkozy-m_25.jpg'); background-size: cover" class="player-yt"><div data-ytplayer-id="G7DJdyH6N88" class="player-yt-content"></div></div>
+                                        <figcaption>© AFP file photo | Former French president Nicolas Sarkozy, 63, had a complex relationship with late Libyan dictator Muammar Gaddafi.  </figcaption>
+        </figure>
+        <p class="author">
+                                                                        Article text by <a title="FRANCE 24"
+                                                 href="/en/author/france-24/">FRANCE 24</a>
+                                                    <a href="https://twitter.com/France24_en" class="twitter-follow-button" data-show-count="false" data-lang="en" data-show-screen-name="false">Follow france24_en on twitter</a>
+                                    </p>
+    </header>
+
+    <div class="bd">
+        <p class="lead"> Former French president Nicolas Sarkozy was placed under formal investigation Wednesday evening after two days of questioning over allegations that late Libyan leader Muammar Gaddafi illegally helped finance his 2007 campaign. </p>
+                                    
+    <div class="tms-block"
+         data-pos="1"
+         data-type="pave"
+         data-location="content"
+         data-expand="false"
+         data-loaded="false">
+    </div>
+
+
+        <p>Being placed under &quot;formal investigation&quot; in France indicates that magistrates have found sufficient evidence of wrongdoing&nbsp;&ndash; in this case of illegal campaign financing, &quot;passive&quot; corruption and the misuse of Libyan public funds&nbsp;&ndash; that the investigation can go forward, possibly to trial.</p>
+<p>Sarkozy was <a href="http://www.france24.com/en/20180321-sarkozy-second-day-questioning-libya-probe-gaddafi-campaign-funding" target="_blank">released earlier</a> in the day after facing a second day of questions in the investigation,<span><span><span lang="EN-US"><span><span> which is exploring allegations that <a href="http://www.france24.com/en/tag/muammar-gaddafi/" target="_blank">Gaddafi</a>&#39;s regime secretly gave Sarkozy &euro;50 million for his inaugural presidential campaign in 2007. The allegations were first made by one of the late dictator&rsquo;s sons, </span></span></span>Saif al-Islam, in 2011.</span></span></p>
+<p><span><span><span lang="EN-US"><span><span><a href="http://www.france24.com/en/tag/nicolas-sarkozy/" target="_blank">Sarkozy</a> arrived just before 8am on Wednesday at the offices of judicial investigators specialising in corruption, money laundering and tax evasion in the western Parisian suburb of Nanterre. He was first <a href="http://www.france24.com/en/20180320-france-sarkozy-custody-campaign-financing-libya-gaddafi" target="_blank">taken into custody</a> on Tuesday morning and left around midnight.</span></span></span></span></span></p>
+<p></p><div class="video-material  orientation-center" data-bo-type="em" data-bo-nid="4B441326-8AE7-4BAF-8CA3-64293561E887">
+
+        
+            <div class="hd">
+            <h5 class="default-header-2">Video: The many legal woes dogging Nicolas Sarkozy</h5>
+        </div>
+        <figure class="bd" id="4B441326-8AE7-4BAF-8CA3-64293561E887">
+                                                                                
+                            <div style="background-image: url('http://scd.france24.com/en/files/2018-03-22_0704_beyond_the_libya_probe_sarkozys_many_legal_troubles.jpeg'); background-size: cover" class="player-yt"><div data-ytplayer-id="hpWytBu_Z18" class="player-yt-content"></div></div>
+                        </figure>
+</div>
+<p></p>
+<p><span><span><span lang="EN-US"><span><span>The case drew heightened scrutiny in November 2016 when Franco-Lebanese businessman Ziad Takieddine said he delivered three suitcases stuffed with Libyan cash to Sarkozy&#39;s former chief of staff and campaign director, Claude Gu&eacute;ant, between 2006 and 2007.</span></span></span></span></span></p>
+<p>In January, British police detained French businessman <a href="http://www.france24.com/en/20180108-france-businessman-arrested-london-linked-sarkozy-2007-presidential-campaign" target="_blank">Alexandre Djouhri</a> at Heathrow Airport as part of the long-running investigation into Sarkozy&rsquo;s suspected Libyan financing. A spokesman for London&#39;s Metropolitan Police confirmed Djouhri&#39;s arrest was executed &quot;under a European arrest warrant&quot; for fraud and money laundering.</p>
+<p><span><span><span lang="EN-US"><span><span>Sarkozy has always denied the allegations.</span></span></span></span></span></p>
+<p><strong><a href="http://www.france24.com/en/20180320-france-libya-sarkozy-gaddafi-relations-haunt-2007-campaign-financing-case-custody" target="_blank"><span><span><span lang="EN-US"><span><span>&gt;&gt; Read more: </span></span></span></span></span>Gaddafi relations haunt Sarkozy in 2007 campaign financing case</a></strong></p>
+<p><span><span><span lang="EN-US"><span><span>The former French president had a <a href="http://www.france24.com/en/20180320-france-libya-sarkozy-gaddafi-relations-haunt-2007-campaign-financing-case-custody" target="_blank">complex relationship</a> with Gaddafi. Soon after his election to the presidency, he controversially invited the Libyan leader to Paris for a state visit and welcomed him with high honours. But Sarkozy then put France at the forefront of NATO-led airstrikes against Gaddafi&#39;s troops that helped a hodgepodge of rebel fighters topple his regime in 2011.</span></span></span></span></span></p>
+<p><span><span><span lang="EN-US"><span><span>The Libyan investigation is just one of several legal probes that have dogged </span></span></span>the former head of state<span lang="EN-US"><span><span> since his one-term presidency ended in 2012. Investigating magistrates have recommended he face trial on separate charges of illegal campaign financing over his failed re-election bid. </span></span></span></span></span></p>
+<p></p><div class="video-material  orientation-center" data-bo-type="em" data-bo-nid="D493371A-0510-4019-8EBD-287A4CC0BA91">
+
+        
+            <div class="hd">
+            <h5 class="default-header-2">'Of all Sarkozy's investigations, this could be the most damaging'</h5>
+        </div>
+        <figure class="bd" id="D493371A-0510-4019-8EBD-287A4CC0BA91">
+                                                                                
+                            <div style="background-image: url('http://scd.france24.com/en/files/2018-03-20_1031_libyan_funding_probe_of_all_sarkozys_investigations_this_could_be_the_most_damaging.jpeg'); background-size: cover" class="player-yt"><div data-ytplayer-id="vRf4cLyrnI8" class="player-yt-content"></div></div>
+                        </figure>
+</div>
+<p></p>
+<p><i><span lang="EN-US">(FRANCE 24 with AFP)</span></i></p>
+    </div>
+
+    <div class="share-bar">
+                                                                
+    <ul>
+                                                
+                    
+<li class="social-cell fb">
+<div class="fb-share" data-href="http://f24.my/2hUx.F" data-callback="trackingSocial.fb_tracker"></div>
+</li>
+<li class="social-cell tt">
+<div class="tt-share" data-href="http://f24.my/2hUx.T" data-text="Sarkozy&#x20;placed&#x20;under&#x20;formal&#x20;investigation&#x20;for&#x20;illegal&#x20;campaign&#x20;financing" data-callback="trackingSocial.tt_tracker"></div>
+</li>
+<li class="social-cell gp">
+<div class="gp-share" data-href="http://www.france24.com/en/20180321-sarkozy-placed-under-formal-investigation-illegal-campaign-financing-libya-gaddafi" data-callback="trackingSocial.gp_tracker"></div>
+</li>
+<li class="social-cell re">
+<div class="re-share" data-href="http://www.france24.com/en/20180321-sarkozy-placed-under-formal-investigation-illegal-campaign-financing-libya-gaddafi" data-callback="trackingSocial.re_tracker"></div>
+</li>
+<li class="social-cell wa">
+<div class="wa-share" data-href="http://www.france24.com/en/20180321-sarkozy-placed-under-formal-investigation-illegal-campaign-financing-libya-gaddafi" data-text="Sarkozy&#x20;placed&#x20;under&#x20;formal&#x20;investigation&#x20;for&#x20;illegal&#x20;campaign&#x20;financing&#x20;in&#x20;Libya&#x20;probe" data-callback="trackingSocial.wa_tracker"></div>
+</li>
+<li class="social-cell mt">
+<div class="mt-share" data-href="http://www.france24.com/en/20180321-sarkozy-placed-under-formal-investigation-illegal-campaign-financing-libya-gaddafi" data-text="Sarkozy&#x20;placed&#x20;under&#x20;formal&#x20;investigation&#x20;for&#x20;illegal&#x20;campaign&#x20;financing&#x20;in&#x20;Libya&#x20;probe" data-callback="trackingSocial.mt_tracker"></div>
+</li>
+    </ul>
+
+
+    </div><!-- / .share-bar -->
+
+                        <div class="related-article">
+            <ul class="bd">
+                                                        <li>
+                        <p class="media"><img alt="" src="http://scd.france24.com/en/files/imagecache/france24_ct_api_medium2_169/article/image/20032018_gaddafi_sarkozy.jpg" /></p>
+                        <div class="copy">
+                            <h4>FRANCE</h4>
+                            <p>Gaddafi relations haunt Sarkozy in 2007 campaign financing case</p>
+                        </div>
+                        <p class="default-read-more">
+                            <a rel="nofollow" class="modeless" href="/en/20180320-france-libya-sarkozy-gaddafi-relations-haunt-2007-campaign-financing-case-custody">Read more</a>
+                        </p>
+                    </li>
+                                                        <li>
+                        <p class="media"><img alt="" src="http://scd.france24.com/en/files/imagecache/france24_ct_api_medium2_169/article/image/sarko_16.jpg" /></p>
+                        <div class="copy">
+                            <h4>FRANCE</h4>
+                            <p>Sarkozy, France's 'bling-bling' former president dogged by legal woes</p>
+                        </div>
+                        <p class="default-read-more">
+                            <a rel="nofollow" class="modeless" href="/en/20180320-sarkozy-france-bling-bling-former-president-legal-woes-libya-gaddafi-campaign">Read more</a>
+                        </p>
+                    </li>
+                                                        <li>
+                        <p class="media"><img alt="" src="http://scd.france24.com/en/files/imagecache/france24_ct_api_medium2_169/article/image/france-nicolassarkozy-kadhafi_1.jpg" /></p>
+                        <div class="copy">
+                            <h4>FRANCE</h4>
+                            <p>France's Sarkozy in custody over allegations of campaign financing by Libya's Gaddafi </p>
+                        </div>
+                        <p class="default-read-more">
+                            <a rel="nofollow" class="modeless" href="/en/20180320-france-sarkozy-custody-campaign-financing-libya-gaddafi">Read more</a>
+                        </p>
+                    </li>
+                            </ul>
+        </div>
+                                        
+    <div class="tms-block"
+         data-pos="2"
+         data-type="pave"
+         data-location="content"
+         data-expand="false"
+         data-loaded="false">
+    </div>
+
+
+    
+                                    
+    <div class="tms-block"
+         data-pos="1"
+         data-type="post_article"
+         data-location="content"
+         data-expand="false"
+         data-loaded="false">
+    </div>
+
+
+
+    
+</article>
+
+
+                                                                                        
+                                            </div>
+                </div>
+                <div class="site-cache" id="site-cache">
+                </div>
+            </div>
+        </div>
+                                                                            <!-- mobile placeholder F24x4 -->
+<style type="text/css">
+/* Masquage JR */
+.user-janrain, #janrain {
+display: none;
+}
+.orientation-center{width: 100% !important;}
+.citation-material.orientation-center{width: auto !important;}
+.social-cell.re {margin-right: 3px;}
+.flash-material{width: 100% !important;}
+.default-header-2{width: auto !important;}
+.main-nav .item-im {
+height: 21px;
+text-indent: -9999px !important;
+background: transparent url(//static.france24.com/infomigrants/menu/logo_fren_v2@1x.png) center center no-repeat;
+}
+.site-pusher nav li .logo-im {
+display: block;
+padding: 10px;
+height: 21px;
+overflow: hidden;
+text-indent: -9999em;
+background-image: url(//static.france24.com/infomigrants/menu/logo_fren_v2@1x.png);
+background-position: left 10px center;
+background-repeat: no-repeat;
+}
+/* fixed for bs player fallback */
+.alt-player.bsplayer-container {
+padding-bottom:10px;
+}
+a.m-cgu {
+font-size: 80% !important;
+border-top: solid 1px #ccc;
+}
+</style>
+<script type="text/javascript">
+var CEM=function(){
+$('div.emissions-list.emmission-last.shadow-section h5:contains("ENCORE!")').html('Daily culture show : ENCORE!');
+};
+</script>
+                <script type="text/javascript" src="//nexus.ensighten.com/francemm/f24/Bootstrap.js"></script>
+    </body>
+</html>

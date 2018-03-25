@@ -1,0 +1,2624 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        
+    <meta charset="utf-8">
+
+    
+    
+
+
+        
+    
+        
+    <script>
+    var gomez={
+    gs: new Date().getTime(),
+    acctId:"D3FD89",
+    grpId:"Escenic",
+    grpId1:"MDC",
+    grpId2:window.location.hostname,
+    grpId3:"unknown",
+    pgId:"story-detail",
+    wrate:1
+};
+</script>
+
+
+
+
+    
+        <meta name="msapplication-TileColor" content="#FFFFFF"/>
+    
+
+    
+        <meta name="msapplication-TileImage" content="http://www.mcclatchydc.com/static/theme/mcclatchydc/base/ico/windowsmetro-144.png"/>
+    
+
+    
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.mcclatchydc.com/static/theme/mcclatchydc/base/ico/apple-touch-icon-144-precomposed.png"/>
+    
+
+    
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.mcclatchydc.com/static/theme/mcclatchydc/base/ico/apple-touch-icon-114-precomposed.png"/>
+    
+
+    
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.mcclatchydc.com/static/theme/mcclatchydc/base/ico/apple-touch-icon-72-precomposed.png"/>
+    
+
+    
+        <link rel="apple-touch-icon-precomposed" href="http://www.mcclatchydc.com/static/theme/mcclatchydc/base/ico/apple-touch-icon-57-precomposed.png"/>
+    
+
+    
+        <link rel="shortcut icon" href="http://www.mcclatchydc.com/static/theme/mcclatchydc/base/ico/favicon.png"/>
+    
+
+    
+        <meta name="twitter:card" content="summary_large_image"/>
+    
+
+    
+        <meta name="twitter:site" content="McClatchyDC"/>
+    
+
+    
+        <meta name="twitter:title" content="US to give $2.5M to assist with Venezuelan refugees stranded across border"/>
+    
+
+    
+        <meta property="og:site_name" content="mcclatchydc"/>
+    
+
+    
+        <meta property="og:type" content="article"/>
+    
+
+    
+        <meta property="og:title" content="US to give $2.5M to assist with Venezuelan refugees stranded across border"/>
+    
+
+    
+        <meta property="og:url" content="http://www.mcclatchydc.com/news/nation-world/national/article205988034.html"/>
+    
+
+    
+        <meta property="og:image" content="http://www.mcclatchydc.com/news/nation-world/national/i1451r/picture205988029/alternates/LANDSCAPE_1140/Venezuela%20-%20refugees"/>
+    
+
+    
+        <meta name="twitter:image" content="http://www.mcclatchydc.com/news/nation-world/national/i1451r/picture205988029/alternates/LANDSCAPE_1140/Venezuela%20-%20refugees"/>
+    
+
+    
+        <meta property="og:description" content="The Trump administration will provide an additional $2.5 million in humanitarian aid for Venezuelan refugees fleeing poverty and oppression to Colombian and overwhelmed its border towns."/>
+    
+
+    
+        <meta name="twitter:description" content="The Trump administration will provide an additional $2.5 million in humanitarian aid for Venezuelan refugees fleeing poverty and oppression to Colombian and overwhelmed its border towns."/>
+    
+
+    
+        <meta property="fb:app_id" content="1407731799445564"/>
+    
+
+    
+
+    
+        <meta name="title" content="Trump administration to provide $2.5 million to help with Venezuela refugees | McClatchy Washington Bureau"/>
+    
+
+    
+        <meta name="allow-comments" content="true"/>
+    
+
+    
+        <meta name="description" content="The Trump administration will provide an additional $2.5 million in humanitarian aid for Venezuelan refugees fleeing poverty and oppression to Colombian and overwhelmed its border towns."/>
+    
+
+    
+        <meta name="keywords" content="Trump administration, $2.5 million, Colombia, Venezuela refugees"/>
+    
+
+    
+        <meta name="news_keywords" content="Trump administration, $2.5 million, Colombia, Venezuela refugees"/>
+    
+
+    
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    
+
+    
+        <meta name="googlebot" content="noodp, noarchive"/>
+    
+
+    
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    
+
+    
+        <link rel="canonical" href="http://www.mcclatchydc.com/news/nation-world/national/article205988034.html"/>
+    
+
+    
+        <meta name="original-source" content="http://www.mcclatchydc.com/news/nation-world/national/article205988034.html"/>
+    
+
+    
+        <meta name="google-site-verification" content="EedtwJCD34vv_4BAyiBZEQMjnQ_W3-NUVzBgXyT6ooY"/>
+    
+
+
+
+
+
+    <title>Trump administration to provide $2.5 million to help with Venezuela refugees | McClatchy Washington Bureau</title>
+
+
+<link rel="amphtml" href="http://amp.mcclatchydc.com/news/nation-world/national/article205988034.html">
+
+<meta name="msapplication-TileImage" content="/wps/build/images/mcclatchydc/windowsmetro-144.png"/>
+
+
+
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/wps/build/images/mcclatchydc/apple-touch-icon-144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/wps/build/images/mcclatchydc/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/wps/build/images/mcclatchydc/apple-touch-icon-72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="/wps/build/images/mcclatchydc/apple-touch-icon-57-precomposed.png">
+<link rel="shortcut icon" href="/wps/build/images/mcclatchydc/favicon.png">
+
+
+
+
+
+<script type="text/javascript"
+            src="/wps/source/scripts/libs/require.js"></script>
+
+<script type="text/javascript">
+    var wpsConfig = {
+        baseUrl: '/wps/source/scripts/src',
+        urlArgs: 'misv=1d02ada',
+        paths: {
+            'fastdom': '../libs/fastdom.min',
+            'moment': '../libs/moment.min',
+            'flickity': '../libs/flickity.pkgd.min',
+            'identity': '../libs/identityModulev3.min',
+            'videojs': '../libs/video.min',
+            'videojsplaylist': '../libs/videojs-playlist.min',
+            "ads": [
+                "../libs/videojs.ads.min",
+                "../libs/adblocked.ads"
+                ],
+            'ima': [
+                '../libs/videojs.ima.min',
+                "../libs/adblocked.ima"
+                ],
+            'googleima': [
+                '//imasdk.googleapis.com/js/sdkloader/ima3',
+                "../libs/adblocked.sdk"
+                ]
+        },
+        shim:{
+            'ima': {
+                deps: ['googleima','ads']
+            }
+        },
+        map: {
+            '*': {
+                'video.js': 'videojs'
+            }
+        },
+        waitSeconds: 0
+    };
+    
+    var wpsRequire = requirejs.config(wpsConfig);
+
+</script>
+
+<script>
+    var mi = (function(mod) {
+        mod.lazyloaders = mod.lazyloaders || [];
+        return mod;
+    })(mi || {});
+    
+</script>
+
+
+    <script>mi.inMarket=false</script>
+
+
+
+<link href="/wps/build/css/theme.markets/mcclatchydc-8d2cb1e38e.css" rel="stylesheet" type="text/css"/>
+
+
+<!--[if lt IE 9]>
+<script type="text/javascript" src="//oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+<script type="text/javascript" src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/es5-shim/4.5.9/es5-shim.min.js"></script>
+<![endif]-->
+
+<script type="text/javascript" src=" /wps/source/scripts/libs/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="/wps/build/js/mi-header-b57491d113.js"></script>
+
+
+
+    <script type="text/javascript" src="/wps/source/scripts/libs/guid.js"></script>
+    <script>
+        wpsRequire(['identity'], function(IdentityModule) {
+            $(window).load(function() {
+                var identityCookieName = 'AccessToken';
+                var accessTokenCookie = mi.getCookie(identityCookieName);
+                
+                if (!accessTokenCookie) {
+                    var identityModule = new IdentityModule();
+                    var identityPrefix = 'mcv4';
+                    
+                    $.getJSON('https://api.ipify.org?format=jsonp&callback=?')
+                    .done(function(json) {
+                        identityModule.GenerateIdentity(identityCookieName, identityPrefix, [json.ip]);
+                    })
+                    .fail(function() {
+                        identityModule.GenerateIdentity(identityCookieName, identityPrefix, [getGuid()]);
+                    });
+                }
+            });
+        });
+    </script>
+    
+        
+
+
+        <!-- 
+                
+                
+                
+                
+
+                
+                
+                
+                
+
+                
+                
+                
+
+                
+                
+
+                
+                
+                
+                
+                
+                
+                
+
+                
+                
+                
+                
+
+                
+                
+                
+                
+
+
+                
+                    
+                        
+                        
+                    
+
+                
+                
+
+                
+                    
+                
+
+                
+                
+                 -->
+
+
+    
+
+
+
+<script type="text/javascript">
+mi.pageInfo.setConf({
+'marketInfo.viewsizes':[{"Extra-Small":[0,0]},{"Large":[1200,600]},{"Medium":[992,300]},{"Small":[768,300]}],
+'marketInfo.adsizes':{"outofpage":{},"wallpaper":{'1600x600':[1600,600],'None':[]},"floorboard":{'285x70':[285,70],'None':[]},"default":{'120x20':[120,20],'120x240':[120,240],'120x600':[120,600],'146x60':[146,60],'160x600':[160,600],'160x90':[160,90],'168x28':[168,28],'180x150':[180,150],'216x36':[216,36],'234x60':[234,60],'240x400':[240,400],'300x100':[300,100],'300x250':[300,250],'300x50':[300,50],'300x600':[300,600],'300x75':[300,75],'320x450':[320,450],'320x50':[320,50],'336x280':[336,280],'468x60':[468,60],'500x300':[500,300],'600x250':[600,250],'728x90':[728,90],'960x30':[960,30],'970x90':[970,90],'Billboard Flex':[[960,30],[970,30],[970,90],[970,250]],'Billboard Flex2':[[970,90],[970,250]],'Flex Ad':[[300,250],[300,600]],'None':[],'Rising Star':[500,300],'Welcome Ad':[[300,250],[300,600],[550,480],[600,500]]} },'accuweather.apiKey':'2ce96fe9da724185a27db1e6a3ecf580',
+'accuweather.dev':'false',
+'accuweather.locationKey':'',
+'accuweather.locationKey1':'',
+'accuweather.locationKey2':'',
+'accuweather.locationKey3':'',
+'accuweather.locationString':'',
+'accuweather.locationString1':'',
+'accuweather.locationString2':'',
+'accuweather.locationString3':'',
+'accuweather.partnerCode':'MCCLATCHY',
+'cs.circ_phone':'202-383-6001',
+'cs.circ_url':'http://www.mcclatchydc.com/plus/',
+'facebook.app.id':'1407731799445564',
+'financialContent.account':'bellinghamherald',
+'findnsave.tracking':'findnsave',
+'headerDateDisplay':'false',
+'marketInfo.CarsAFF':'na',
+'marketInfo.CarsSEO':'na',
+'marketInfo.JobsQSCTY':'Washington',
+'marketInfo.JobsQSSTS':'DC,US',
+'marketInfo.JobsSEO':'naa',
+'marketInfo.JobsSiteID':'na',
+'marketInfo.Jobslr':'na',
+'marketInfo.addcities':'New York, Los Angeles, Chicago, Houston',
+'marketInfo.adretargeting.kill_list':'[&quot;simpli.fi&quot;]',
+'marketInfo.allow_ads':'true',
+'marketInfo.careerbuilder.dmc_code':'',
+'marketInfo.careerbuilder.dmc_id':'',
+'marketInfo.careerbuilder.lr':'na',
+'marketInfo.city':'Washington',
+'marketInfo.clipped_taxonomy':'News/National',
+'marketInfo.code':'MDC',
+'marketInfo.county':'Washington metropolitan area',
+'marketInfo.domain':'mcclatchydc',
+'marketInfo.followLinks':'1',
+'marketInfo.location':'Washington',
+'marketInfo.logoAltText':'McClatchy DC',
+'marketInfo.market_identifier':'MDC.site_mcclatchydc',
+'marketInfo.name':'McClatchy DC',
+'marketInfo.networkid':'7675',
+'marketInfo.phone':'202-383-6001',
+'marketInfo.product':'site',
+'marketInfo.region':'across the US',
+'marketInfo.shortURL':'breaking',
+'marketInfo.siteId':'91',
+'marketInfo.sourcelevel':'national',
+'marketInfo.state':'District of Columbia',
+'marketInfo.state_abbreviation':'DC',
+'marketInfo.staticDirectory':'mcclatchydc',
+'marketInfo.street_address':'1025 Connecticut Ave. NW, Suite 1100, Washington DC 20036',
+'marketInfo.taxonomy':'News/National///',
+'marketInfo.webmaster_email':'web@mcclatchydc.com',
+'marketInfo.zipcode':'20005',
+'nativo.story.placements':'840234,840253,844382',
+'nativo.video.placements':'869363,869362',
+'obituaries.deathNoticeEmail':'web@mcclatchydc.com',
+'obituaries.deathNoticePhone':'202-383-6001',
+'obituaries.deathNoticeUrl':'',
+'publication.domain':'McClatchyDC.com',
+'publication.mediadomain':'media.mcclatchydc.com',
+'wufoo.formID':'',
+'marketInfo.pagelevel':'story',
+});
+</script>
+
+<script type="text/javascript">
+    var mistats = mistats || {};
+    mistats.pagelevel="Story";
+    mistats.cmsid="Story:205988034";
+    mistats.pagename="Story:205988034|US to give $2.5M to assist with Venezuelan refugees stranded across border";
+    mistats.taxonomy="News|National|||";
+    mistats.channel="National";
+    mistats.contentsource="DCBureau|Franco Ordoñez";
+    mistats.pubdate="2018/03/20";
+    mistats.moddate="2018/03/20 H14";
+    mistats.keywords="Trump administration $2.5 million Colombia Venezuela refugees";
+</script>
+
+
+<script src="//media.mcclatchydc.com/misites/mcd/mcclatchydc.js"></script>
+
+
+    <script type="text/javascript">
+        var imgLazyLoadThreshold = 500;
+    </script>
+
+
+
+        
+    
+
+    
+        
+    <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [],
+        googletag.cmd.push(function(){
+            googletag.pubads().disableInitialLoad();
+        });
+        var getPreBidVarValue = function() {
+            var constructedVar;
+            var urlPathReg = /([^\/]*)\/*$/;
+            var classifiedSearchReg = /homes|cars|jobs|search/;
+            var urlPath = window.location.pathname;
+            var lastUrlComponent = urlPath.match(urlPathReg)[1];
+            var marketIdentifier = mi.pageInfo.getConf('marketInfo.market_identifier');
+            var pageLevel = mi.pageInfo.getConf('marketInfo.pagelevel');
+            var sourceLevel = mi.pageInfo.getConf('marketInfo.sourcelevel');
+            var isArticle = new RegExp(/.html$/).test(urlPath);
+            if ( lastUrlComponent === 'video' ) {
+                pageLevel = 'videofront';
+            } else if ( lastUrlComponent === 'galleries' ) {
+                pageLevel = 'galleryfront';
+            } else if ( lastUrlComponent.match(classifiedSearchReg) ) {
+                pageLevel = pageLevel + '.' + sourceLevel;
+            } else if (urlPath.search("/weather/") !== -1  && !isArticle) {
+                pageLevel = 'sectfront.weather';
+            } else if (urlPath.search("/latest-news/") !== -1 && !isArticle) {
+                pageLevel = 'sectfront.latestnews';
+            } else if (urlPath.search("-columns-blogs/") !== -1 && !isArticle) {
+                pageLevel = 'blogfront';
+            }
+
+            if ( mi_Ads.env.outOfMarket.pageLevelOOM === true && mi_Ads.env.outOfMarket.serverOOMHeader === true ) {
+                pageLevel = pageLevel + '-oom';
+            }
+
+            constructedVar = marketIdentifier + '.' + pageLevel;
+
+            return constructedVar;
+        };
+        var preBidMarketPage = getPreBidVarValue();
+    </script>
+    <script src="//acdn.adnxs.com/prebid/c/7543_midwest/pb.js" async="true"></script>
+
+    
+    
+    <script type="text/javascript" src="//ad.crwdcntrl.net/5/c=7436/pe=y/callback=extractPid"></script>
+
+
+
+
+
+
+<script type="text/javascript">
+    var getSubscribedFlag = false;
+</script>
+
+
+    <!-- paywall disabled for this page type or disabled by configuration -->
+
+
+
+<script>
+    var _prx = window._prx || [];
+    _prx.push(['cfg.SetNoAutoStart']);
+</script>
+<script src="https://s.ntv.io/serve/load.js" async></script>
+
+
+
+
+    <script src="http://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5" async></script>
+
+
+
+
+
+    </head>
+
+    
+
+    
+    
+    
+    
+
+    <body class="story wps-body-main  paywalled">
+           
+    <header>
+    
+    
+        <div class="hide">
+            <div class="ad-widget" id="mn-gpt-1" adtype="outofpage" pkg="None" data-ad-policy="onPageLoad" audience="all" articleId="205988034"></div>
+        </div>
+    
+    
+     <div id="masthead-container">
+        <div class="container">
+            <div class="masthead-row">
+                <div id="masthead-main">
+                    <div id="masthead-logo">
+                        <a href="/" target="_top">
+                            <img src="/wps/build/images/mcclatchydc/logo-lg.png" alt="McClatchy DC | McClatchyDC.com" class="img-responsive center-block" />
+                            
+                                <h1>US to give $2.5M to assist with Venezuelan refugees stranded across border | McClatchy Washington Bureau</h1>
+                            
+                        </a>
+                    </div>
+                    
+<div id="quick-nav" class="hidden-xs">
+    <ul class="nav navbar-nav">
+        
+            <li><a href="/news/politics-government/white-house/#navlink=subnav">White House</a></li>
+        
+            <li><a href="/news/politics-government/congress/#navlink=navbar">Congress</a></li>
+        
+            <li><a href="/news/nation-world/national/#navlink=navbar">Nation</a></li>
+        
+            <li><a href="/opinion/editorial-cartoons/#navlink=navbar">Cartoons</a></li>
+        
+    </ul>
+
+    <div id="site-search-lg" class="visible-lg">
+        
+        
+    <form action="/search/" class="form-inline" id="site-search" role="search">
+
+        <input type="text" name="q" class="form-control"/>
+        <button class="input-group-addon" type="submit">
+          <span class="glyphicon glyphicon-search"></span>
+        </button>
+    </form>
+
+    </div>
+    <div id="search-icon-sm-md" class="site-search dropdown visible-md visible-sm">
+        <a href="#" class="btn btn-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-search"></span></a>
+        <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+            <li class="input-group">
+                
+                
+    <form action="/search/" class="form-inline" id="site-search" role="search">
+
+        <input type="text" name="q" class="form-control" placeholder="Search the site"/>
+        <button class="input-group-addon" type="submit">
+          <span class="glyphicon glyphicon-search"></span>
+        </button>
+    </form>
+
+            </li>
+        </ul>
+    </div>
+</div>
+
+                </div>
+                
+                    <div id="masthead-ad" class="visible-md visible-lg"><div class="ad-widget" id="mn-gpt-2" adtype="default" pkg="None" data-ad-policy="onPageLoad" audience="all" atf="y" defaultsize="Large" Large="234x60" Medium="234x60" Small="None" Extra-Small="None" articleId="205988034"></div></div>
+                
+            </div>
+            <div id="main-nav-container">
+                <div class="weather-container hidden-xs">
+                    <div class="miWeather">
+    <div class="miWeatherCurrent">
+        <!-- Weather alerts not set-->
+        <!-- Weather conditions not set-->
+    </div>
+</div>
+
+                </div>
+                <div id="login-subscribe" class="hidden-xs">
+                    
+<ul class="paywall-links">
+    
+        
+        
+        
+        
+        
+        
+            
+        
+        <script type="text/javascript">
+            var userName = checkUserSubscribed('MPPUser');
+            var signInOrAccountLink = '<li class="mpp-usericon"><a href="https://account.mcclatchydc.com/static/signin"> Sign In</a> </li>';
+            var subscribeOrSignOutLink = '<li><a href="https://account.mcclatchydc.com/static/subscribe">Subscribe</a></li>';
+            if ( getSubscribedFlag ) {
+                if(userName) {
+                    userName = JSON.parse(userName);
+                }
+                subscribeOrSignOutLink = '<li><a href="https://account.mcclatchydc.com/sign-out">Sign Out</a> </li>';
+                if( userName && userName.firstName) {
+                    signInOrAccountLink = '<li class="mpp-username mpp-usericon"><a href="https://account.mcclatchydc.com/my-account"> '+userName.firstName+'</a></li>';
+                }else{
+                    signInOrAccountLink = '<li class="mpp-usericon"><a href="https://account.mcclatchydc.com/my-account"> My Account</a></li>';
+                }
+            }
+            if ( 1 ==1 ) {
+                $(".hidden-xs ul.paywall-links").prepend(signInOrAccountLink," ",subscribeOrSignOutLink);
+            }
+            else {
+                $("#navbar-collapse-1 ul.paywall-links").prepend(signInOrAccountLink," ",subscribeOrSignOutLink);
+            }
+        </script>
+    
+</ul>
+                </div>
+                
+<div id="main-nav">
+    <nav class="navbar navbar-default " role="navigation">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1">
+                <span class="nav-label hidden-xs">Full Menu</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <div id="navbar-collapse-1" class="navbar-collapse collapse">
+            <div id="search-icon-xs" class="site-search dropdown visible-xs">
+                <a href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-search"></span></a>
+                <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+                    <li class="input-group">
+                        
+                        
+    <form action="/search/" class="form-inline" id="site-search" role="search">
+
+        <input type="text" name="q" class="form-control" placeholder="Search the site"/>
+        <button class="input-group-addon" type="submit">
+          <span class="glyphicon glyphicon-search"></span>
+        </button>
+    </form>
+
+                    </li>
+                </ul>
+            </div>
+            <div class="weather-container visible-xs">
+                <div class="miWeather">
+    <div class="miWeatherCurrent">
+        <!-- Weather alerts not set-->
+        <!-- Weather conditions not set-->
+    </div>
+</div>
+
+            </div>
+            
+<ul class="paywall-links">
+    
+        
+        
+        
+        
+        
+        
+            
+        
+        <script type="text/javascript">
+            var userName = checkUserSubscribed('MPPUser');
+            var signInOrAccountLink = '<li class="mpp-usericon"><a href="https://account.mcclatchydc.com/static/signin"> Sign In</a> </li>';
+            var subscribeOrSignOutLink = '<li><a href="https://account.mcclatchydc.com/static/subscribe">Subscribe</a></li>';
+            if ( getSubscribedFlag ) {
+                if(userName) {
+                    userName = JSON.parse(userName);
+                }
+                subscribeOrSignOutLink = '<li><a href="https://account.mcclatchydc.com/sign-out">Sign Out</a> </li>';
+                if( userName && userName.firstName) {
+                    signInOrAccountLink = '<li class="mpp-username mpp-usericon"><a href="https://account.mcclatchydc.com/my-account"> '+userName.firstName+'</a></li>';
+                }else{
+                    signInOrAccountLink = '<li class="mpp-usericon"><a href="https://account.mcclatchydc.com/my-account"> My Account</a></li>';
+                }
+            }
+            if ( 2 ==1 ) {
+                $(".hidden-xs ul.paywall-links").prepend(signInOrAccountLink," ",subscribeOrSignOutLink);
+            }
+            else {
+                $("#navbar-collapse-1 ul.paywall-links").prepend(signInOrAccountLink," ",subscribeOrSignOutLink);
+            }
+        </script>
+    
+</ul>
+            <ul class="nav navbar-nav">
+                
+                    
+                        <li class="dropdown">
+                            <a href="/customer-service/#navlink=subnav" class="dropdown-toggle" data-toggle="dropdown">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                                Customer Service
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                                <b class="caret"></b>
+                            </a>
+                            
+    <ul class="dropdown-menu">
+        
+            
+                <li><a href="/customer-service/#navlink=subnav">Customer Service</a></li>
+            
+        
+            
+                <li><a href="http://www.mcclatchydc.com/mobile/#navlink=subnav">Mobile &amp; Apps</a></li>
+            
+        
+            
+                <li><a href="/customer-service/contact-us/#navlink=subnav">Contact Us</a></li>
+            
+        
+            
+                <li><a href="http://x.email.mcclatchydc.com/ats/url.aspx?cr=663&amp;wu=20#navlink=subnav">Newsletters</a></li>
+            
+        
+            
+                <li><a href="/customer-service/#navlink=subnav">Subscriber Services</a></li>
+            
+        
+    </ul>
+
+                        </li>
+                    
+                
+                    
+                        <li class="nav-divider"></li>
+                    
+                
+                    
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                                Politics
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                                <b class="caret"></b>
+                            </a>
+                            
+    <ul class="dropdown-menu">
+        
+            
+                <li><a href="/news/politics-government/#navlink=subnav">All Politics</a></li>
+            
+        
+            
+                <li><a href="/news/politics-government/congress/#navlink=subnav">Congress</a></li>
+            
+        
+            
+                <li><a href="/news/politics-government/white-house/#navlink=subnav">White House</a></li>
+            
+        
+            
+                <li><a href="/news/politics-government/election/#navlink=subnav">Elections</a></li>
+            
+        
+    </ul>
+
+                        </li>
+                    
+                
+                    
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                                Nation
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                                <b class="caret"></b>
+                            </a>
+                            
+    <ul class="dropdown-menu">
+        
+            
+                <li><a href="/news/nation-world/national/#navlink=subnav">All Nation</a></li>
+            
+        
+            
+                <li><a href="/news/crime/#navlink=subnav">Courts &amp; Crime</a></li>
+            
+        
+            
+                <li><a href="/news/nation-world/national/economy/#navlink=subnav">Economy</a></li>
+            
+        
+            
+                <li><a href="/news/nation-world/national/national-security/#navlink=subnav">National Security</a></li>
+            
+        
+    </ul>
+
+                        </li>
+                    
+                
+                    
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                                Podcasts
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                                <b class="caret"></b>
+                            </a>
+                            
+    <ul class="dropdown-menu">
+        
+            
+                <li><a href="/podcasts/#navlink=subnav">All Podcasts</a></li>
+            
+        
+            
+                <li><a href="/podcasts/acc-now/#navlink=subnav">ACC Now</a></li>
+            
+        
+            
+                <li><a href="/podcasts/beyond-the-bubble/#navlink=subnav">Beyond the Bubble</a></li>
+            
+        
+            
+                <li><a href="/podcasts/majority-minority/#navlink=subnav">Majority Minority</a></li>
+            
+        
+    </ul>
+
+                        </li>
+                    
+                
+                    
+                        <li><a href="/opinion/editorial-cartoons/#navlink=subnav">Cartoons</a><li>
+                    
+                
+                    
+                        <li class="nav-divider"></li>
+                    
+                
+                    
+                        <li><a href="/customer-service/contact-us/article24465067.html#navlink=subnav">Our Newsrooms</a><li>
+                    
+                
+            </ul>
+        </div>
+    </nav>
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        mi.mainNav.init();
+    });
+</script>
+
+            </div>
+        </div>
+    </div>
+    
+</header>
+
+
+        
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+<div class="container">
+    <div id="leaderboard-ad" class="ad border-bottom">
+      <!-- mobile-leaderboard class is integrated with sticky-leaderboard.js -->
+        <div class="visible-xs mobile-leaderboard">
+            <div class="ad-widget" id="mn-gpt-3" adtype="default" pkg="b" data-ad-policy="onPageLoad" audience="all" atf="y" defaultsize="Extra-Small" Large="None" Medium="None" Small="None" Extra-Small="320x50" articleId="205988034"></div>
+        </div>
+        <div class="hidden-xs">
+            <div class="ad-widget" id="mn-gpt-4" adtype="default" pkg="d" data-ad-policy="onPageLoad" audience="all" atf="y" defaultsize="Large" Large="728x90" Medium="728x90" Small="728x90" Extra-Small="None" articleId="205988034"></div>
+        </div>
+    </div>
+</div>
+<section class="container story" role="main">
+    <div class="row story-rail-wrapper">
+        
+        <div class="wide-rail">
+            
+                
+
+
+
+
+
+    <div class="lead-item">
+        
+            
+
+
+
+
+
+
+    <div class="img-container picture ">   
+        <picture>
+            <!--[if IE 9]><video style="display: none;"><![endif]-->
+            <source srcset="//www.mcclatchydc.com/news/nation-world/national/i1451r/picture205988029/alternates/LANDSCAPE_1140/Venezuela%20-%20refugees" media="(min-width: 992px)">
+            <source srcset="//www.mcclatchydc.com/news/nation-world/national/i1451r/picture205988029/alternates/LANDSCAPE_960/Venezuela%20-%20refugees" media="(min-width: 768px)">
+            <source srcset="//www.mcclatchydc.com/news/nation-world/national/i1451r/picture205988029/alternates/LANDSCAPE_768/Venezuela%20-%20refugees" media="(min-width: 601px)">
+            <source srcset="//www.mcclatchydc.com/news/nation-world/national/i1451r/picture205988029/alternates/LANDSCAPE_640/Venezuela%20-%20refugees" media="(min-width: 441px)">
+            <source srcset="//www.mcclatchydc.com/news/nation-world/national/i1451r/picture205988029/alternates/LANDSCAPE_480/Venezuela%20-%20refugees" media="(min-width: 320px)">
+            <!--[if IE 9]></video><![endif]-->
+            
+            <img class="responsive-image"  srcset="//www.mcclatchydc.com/news/nation-world/national/i1451r/picture205988029/alternates/LANDSCAPE_1140/Venezuela%20-%20refugees" alt="In this Feb. 21, 2018 photo, Venezuelans cross the International Simon Bolivar bridge into the Colombia. As Venezuela&#39;s economic crisis worsens, rising numbers are fleeing in a burgeoning refugee crisis that could soon match the flight of Syrians from the war-torn Middle East." title="In this Feb. 21, 2018 photo, Venezuelans cross the International Simon Bolivar bridge into the Colombia. As Venezuela's economic crisis worsens, rising numbers are fleeing in a burgeoning refugee crisis that could soon match the flight of Syrians from the war-torn Middle East." />
+            
+        </picture> 
+
+</div>
+
+            
+                <div class="caption">
+                    
+    
+        <span class="caption-text">In this Feb. 21, 2018 photo, Venezuelans cross the International Simon Bolivar bridge into the Colombia. As Venezuela&#39;s economic crisis worsens, rising numbers are fleeing in a burgeoning refugee crisis that could soon match the flight of Syrians from the war-torn Middle East. </span>
+    
+    
+        <span class="photographer">Fernando Vergara</span>
+    
+    
+        <span class="credits">AP</span>
+    
+
+                </div>
+            
+        
+        
+            <div class="lead-caption">
+                
+                    
+                        
+    
+        <span class="caption-text">In this Feb. 21, 2018 photo, Venezuelans cross the International Simon Bolivar bridge into the Colombia. As Venezuela&#39;s economic crisis worsens, rising numbers are fleeing in a burgeoning refugee crisis that could soon match the flight of Syrians from the war-torn Middle East. </span>
+    
+    
+        <span class="photographer">Fernando Vergara</span>
+    
+    
+        <span class="credits">AP</span>
+    
+
+                    
+                
+            </div>
+        
+    </div>
+    <script>
+        jQuery(document).ready(function () {
+            mi.leadAssets.init();
+        });
+    </script>
+
+            
+            
+    
+    
+    
+
+            <div id="story-header">
+                <h2 class="heading section-main-heading link">
+                    <a href="//www.mcclatchydc.com/news/nation-world/national/">National</a>
+                </h2>
+
+                <h3 class="title">US to give $2.5M to assist with Venezuelan refugees stranded across border</h3>
+            </div>
+            <div id="story-body-items"><div class="byline element-spacing-small"><p><span class="ng_byline_name">By Franco Ordoñez</span></p><p><span class="ng_byline_email">
+                                            <a href="mailto:fordonez@mcclatchydc.com">fordonez@mcclatchydc.com</a>
+                                        </span></p></div>
+                    <div class="share-tools-wrapper">
+                        
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+<ul class="share-icons">
+    <li class="facebook">
+        
+            
+                <a class="facebook-share" title="Share on Facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://www.mcclatchydc.com/news/nation-world/national/article205988034.html" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;"></a>
+            
+         
+        <div class="glyphicon glyphicon-facebook"></div>
+    </li>
+    <li class="twitter">
+        
+            <a title="Share on Twitter" href="https://twitter.com/share?text=US+to+give+$2.5M+to+assist+with+Venezuelan+refugees+stranded+across+border&amp;url=http://www.mcclatchydc.com/news/nation-world/national/article205988034.html" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;"></a>
+        
+        <div class="glyphicon glyphicon-twitter"></div>
+    </li>
+    
+    <li class="email">
+        
+            <a title="Share by Email" href="mailto:?subject=US to give $2.5M to assist with Venezuelan refugees stranded across border&body=http://www.mcclatchydc.com/news/nation-world/national/article205988034.html"></a>
+        
+        <div class="glyphicon glyphicon-envelope"></div>
+    </li>
+    <li class="more" onClick="return true">
+        <ul class="share-options">
+            
+                <li class="linked-in"><a title="Share on LinkedIn" href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.mcclatchydc.com/news/nation-world/national/article205988034.html&title=US to give $2.5M to assist with Venezuelan refugees stranded across border"><span class="glyphicon glyphicon-linkedin"></span>LinkedIn</a></li>
+            
+            
+                <li class="google"><a title="Share on Google Plus" href="https://plus.google.com/share?url=http://www.mcclatchydc.com/news/nation-world/national/article205988034.html" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;"><span class="glyphicon glyphicon-google-plus"></span>Google+</a></li>
+            
+            
+                <li class="pinterest"><a title="Share on Pinterest" href="https://www.pinterest.com/pin/create/button/?url=http://www.mcclatchydc.com/news/nation-world/national/article205988034.html&description=US to give $2.5M to assist with Venezuelan refugees stranded across border&media=http://www.mcclatchydc.com/news/nation-world/national/i1451r/picture205988029/alternates/LANDSCAPE_1140/Venezuela%20-%20refugees"><span class="glyphicon glyphicon-pinterest-p"></span>Pinterest</a></li>
+            
+            <li class="reddit"><a title="Share on Reddit" href="https://www.reddit.com/submit?url=http://www.mcclatchydc.com/news/nation-world/national/article205988034.html"><span class="glyphicon glyphicon-reddit"></span>Reddit</a></li>
+            <li class="print"><a title="Print" href="javascript:window.print();"><span class="glyphicon glyphicon-print"></span>Print</a></li>
+            <li class="reprints"><a title="Reprints" href="https://www.mcclatchyreprints.com">Order Reprint of this Story</a></li>
+        </ul>
+        <div class="glyphicon glyphicon-share"></div>
+    </li>
+</ul>
+<script type="text/javascript">
+    $(document).ready(function () {
+        mi.articleShareTools.init({
+            nextLinkedin: '',
+            nextPinterest: ''
+        });
+        mi.socialSharingScroll.init();
+    });
+</script>
+                    </div>
+                
+                
+                <div class="published-date-widget">
+                    <p class="published-date">
+                        <span id="publish_date">
+                            March 20, 2018 11:00 AM
+                        </span>
+                    </p>
+                    <p class="published-date">
+                        
+                            <span id="update_date">
+                               
+                            </span>
+                        
+                    </p>
+                </div>
+
+                <div class="dateline-storybody">
+                    
+                        <span class="dateline">
+                            WASHINGTON
+                        </span>
+                    
+                    <div id="story-target" class="clearfix">
+                        <div id="content-body-" class="content-body">
+                            
+                            
+                            
+                            
+                                
+                                    <p> The Trump administration will provide $2.5 million in humanitarian aid for Venezuelan refugees who have fled into Colombian border towns fleeing poverty and oppression.</p>
+                                    
+                                    
+                                    
+                                
+                                    <p>The extra money, provided through the U.S. Agency for International Development, will provide emergency food and health assistance as the Colombian government struggles to provide necessary medical and social services, said Mark Green, USAID administrator.</p>
+                                    
+                                    
+                                    
+                                
+                                    <p>“The influx of hundreds of thousands of Venezuelans has strained the medical and social services of Colombian border communities and others throughout the Western Hemisphere,” Green said. “Regrettably, this crisis in Venezuela, which is now spilling into the broader region, is man-made — the result of continued political mismanagement and corruption by the Maduro regime.”</p>
+                                    
+                                    
+                                    
+                                
+                                    <p>The United Nations has warned of an unfolding humanitarian crisis on the Colombia-Venezuela border and has called on international governments to help Colombia and other neighbors. More than 600,000 Venezuelans have fled into Colombia to escape economic uncertainty and a political crackdown. </p>
+                                    
+                                        
+    <div id="newsletter-signUpWidget"></div>
+    <script>
+        jQuery(document).ready(function () {
+            mi.renderNewsletterIframe.init({ 
+                container: '#newsletter-signUpWidget',
+                url: 'http://x.email.mcclatchydc.com/ats/url.aspx?cr=663&wu=206,http://x.email.mcclatchydc.com/ats/url.aspx?cr=663&wu=209'
+            });
+        });
+    </script>
+
+
+ 
+<script>
+    jQuery(document).ready(function () {
+        mi.calltoActionCtrl.init();
+    });
+</script>
+
+                                    
+                                    
+                                    
+                                
+                                    <p>The United States government would prefer to provide the aid to Venezuelans inside the country, but Venezuelan President Nicolas Maduro has so far rejected such offers while<strong> </strong>downplaying the crisis. He accuses the United States of attempting to undermine his government. </p>
+                                    
+                                    
+                                    
+                                        
+    
+    
+    <div class="ad visible-xs" >
+        <div class="ad-widget" id="mn-gpt-5" adtype="default" pkg="c" data-ad-policy="onPageLoad" audience="all" atf="n" defaultsize="Extra-Small" Large="None" Medium="None" Small="None" Extra-Small="300x250" articleId="205988034"></div>
+    </div>
+
+                                        
+                                    
+                                
+                                    <p>The European Union on Monday also announced that it will provide an additional $2.6 million to help Colombia deal with the migrant crisis as part of a larger package that includes support for victims of the country’s decades-old armed conflict.</p>
+                                    
+                                    
+                                    
+                                
+                                    <p>The U.S. funding will be distributed through the Colombian government, Pan American Health Organization and United Nations World Food Program. </p>
+                                    
+                                    
+                                    
+                                
+                                    <div class="ng_mm_link1"><div><blockquote class="twitter-tweet" data-lang="en"><p dir="ltr" lang="en">Today’s <a href="https://twitter.com/USAID?ref_src=twsrc%5Etfw">@USAID</a> announcement will provide $2.5 million in food and health assistance to Venezuelans living in <a href="https://twitter.com/hashtag/Colombia?src=hash&amp;ref_src=twsrc%5Etfw">#Colombia</a>. The incompetence of <a href="https://twitter.com/NicolasMaduro?ref_src=twsrc%5Etfw">@NicolasMaduro</a>'s regime has plunged <a href="https://twitter.com/hashtag/Venezuela?src=hash&amp;ref_src=twsrc%5Etfw">#Venezuela</a> into a humanitarian crisis.</p>— Senator Rubio Press (@SenRubioPress) <a href="https://twitter.com/SenRubioPress/status/976115616015880198?ref_src=twsrc%5Etfw">March 20, 2018</a></blockquote><script async="async" charset="utf-8" src="https://platform.twitter.com/widgets.js">//</script></div></div>
+                                    
+                                    
+                                    
+                                
+                                    <p>David Beasley, the executive director of the World Food Program, warned Congress last week of a “tipping point” as 50,000 to 100,000 desperate Venezuelans cross the border each day. During his recent visit to the border, Beasley said he learned of the<strong> </strong>prostitution of young<strong> </strong>girls while young boys were signing up with extremist and other armed groups.</p>
+                                    
+                                    
+                                    
+                                
+                                    <p>“It was heartbreaking to see what's taking place,” Beasley said.</p>
+                                    
+                                    
+                                    
+                                        
+    
+    
+    <div class="ad visible-xs" >
+        <div class="ad-widget" id="mn-gpt-6" adtype="default" pkg="e" data-ad-policy="onPageLoad" audience="all" atf="n" defaultsize="Extra-Small" Large="None" Medium="None" Small="None" Extra-Small="300x250" articleId="205988034"></div>
+    </div>
+
+                                        
+                                    
+                                
+                                    <p></p>
+                                    
+                                    
+                                    
+                                
+                                    <div class="embed-media inline-video"><div class="teaser"><div id="video-detail-205937139-1521595004847" class="media-wrap ">
+    <div class="video-media" data-index="">
+        <div class="vjs-wrapper legacy-player-share-identifier">
+            <video id="player-205937139-1521595004847" class="video-js mi-videojs vjs-16-9" poster="//www.miamiherald.com/news/nation-world/world/americas/colombia/1sov6x-Asylum-Venezuela-Keyframe.jpg/alternates/LANDSCAPE_560/Asylum%20Venezuela%20Keyframe.jpg"></video>
+            <div class="vjs-share">
+    <button class="vjs-share-trigger">
+        <span class="vjs-share-text">SHARE</span>
+        <span class="vjs-share-icon glyphicon glyphicon-share"></span>
+    </button>
+</div>
+<div class="vjs-overlay">
+    <div class="vjs-overlay__sharing video-share-icons">
+        <a href="" target="blank" class="vjs-overlay-sharing_item facebook-share glyphicon glyphicon-facebook"></a>
+        <a href="" target="blank" class="vjs-overlay-sharing_item twitter-share glyphicon glyphicon-twitter"></a>
+        <a href="mailto:?&amp;subject=&amp;body=" target="blank" class="vjs-overlay-sharing_item email-share glyphicon glyphicon-envelope"></a>
+        <a href="#" class="vjs-overlay-sharing_item glyphicon glyphicon-code vjs-overlay-sharing__embed"></a>
+        <form class="vjs-sharing__link">
+            <textarea class="overlay-embed-share" cols="30"></textarea>
+            <div class="vjs-input__wrapper">
+                <input type="text" class="mi-share-link" readonly="" value="">
+            </div>
+            <button type="button">COPY LINK</button>
+        </form>
+    </div>
+</div>
+        </div>
+    </div>
+
+    <div id="mi-video-overlay-205937139-1521595004847" class="mi-video-custom-overlay-wrap">
+    <div class="mi-video-eos-wrap">
+    <h3 class="mi-video-overlay-title">More Videos</h3>
+
+    <div class="mi-video-eos">
+        
+            <div class="mi-overlay-item" data-index="0">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.mcclatchydc.com/news/nation-world/national/2gxt0z-GreatMills.jpg/alternates/LANDSCAPE_200/GreatMills.jpg" alt="Police respond to reports of shooting at Maryland high school">
+                    <span class="duration">49</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Police respond to reports of shooting at Maryland high school</h4>
+                </div>
+                
+                    <div class="svg-timer-wrap">
+                        <svg class="svg-timer" viewBox="0 0 34 34">
+                            <g>
+                                <circle class="svg-timer-circle" cx="15" cy="17" r="15.9" transform="rotate(-90 16 16)"></circle>
+                                <text class="svg-timer-text" x="17" y="24"></text>
+                            </g>
+                        </svg>
+                        <a class="svg-timer-pause" href="javascript:void(0)">
+                            <span class="glyphicon glyphicon-pause"></span> Pause
+                        </a>
+                    </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="1">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.mcclatchydc.com/news/nation-world/national/3rzdhu-The-blended-burger-a-new-healthy-alternative-to-the-hamburger/alternates/LANDSCAPE_200/The%20%27blended%20burger%27%20a%20new%20healthy%20alternative%20to%20the%20hamburger" alt="The 'blended burger' a new, healthier alternative to the hamburger">
+                    <span class="duration">94</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">The 'blended burger' a new, healthier alternative to the hamburger</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="2">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.mcclatchydc.com/news/nation-world/national/j43qh4-Screen-Shot-2018-03-04-at-5.06.51-PM.png/alternates/LANDSCAPE_200/Screen%20Shot%202018-03-04%20at%205.06.51%20PM.png" alt="Most Americans Want More Gun Control. Why Doesn’t It Happen?">
+                    <span class="duration">230</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Most Americans Want More Gun Control. Why Doesn’t It Happen?</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="3">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.mcclatchydc.com/news/nation-world/national/s5iv87-Walkouts.jpg/alternates/LANDSCAPE_200/Walkouts.jpg" alt="Student walkouts, marches take gun control fight to the streets">
+                    <span class="duration">96</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Student walkouts, marches take gun control fight to the streets</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="4">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.mcclatchydc.com/news/nation-world/national/3trxs5-nrasheriff.jpg/alternates/LANDSCAPE_200/nrasheriff.jpg" alt="Sheriff, NRA spokeswoman, clash at CNN Town Hall">
+                    <span class="duration">80</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Sheriff, NRA spokeswoman, clash at CNN Town Hall</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="5">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.mcclatchydc.com/news/nation-world/national/145n13-nsacrash.jpg/alternates/LANDSCAPE_200/nsacrash.jpg" alt="Shooting reported near Fort Meade NSA campus">
+                    <span class="duration">72</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Shooting reported near Fort Meade NSA campus</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="6">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.mcclatchydc.com/news/nation-world/national/bp8z6c-wallstreet.jpg/alternates/LANDSCAPE_200/wallstreet.jpg" alt="Dow first falls 500 points as U.S. stock market opens, then recovers most of losses">
+                    <span class="duration">108</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Dow first falls 500 points as U.S. stock market opens, then recovers most of losses</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="7">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.mcclatchydc.com/news/nation-world/national/nnn26m-LosAngeles.jpg/alternates/LANDSCAPE_200/LosAngeles.jpg" alt="Two students shot inside California middle school">
+                    <span class="duration">57</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Two students shot inside California middle school</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="8">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.mcclatchydc.com/news/nation-world/national/hjdp12-Screen-Shot-2018-01-13-at-4.19.26-PM.png/alternates/LANDSCAPE_200/Screen%20Shot%202018-01-13%20at%204.19.26%20PM.png" alt="Hawaii 'ballistic missile threat' false alarm, sent in error">
+                    <span class="duration">43</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Hawaii 'ballistic missile threat' false alarm, sent in error</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="9">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.mcclatchydc.com/news/nation-world/national/dar4g4-trumptower.jpg/alternates/LANDSCAPE_200/trumptower.jpg" alt="Fire breaks out at Trump Tower in New York">
+                    <span class="duration">25</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Fire breaks out at Trump Tower in New York</h4>
+                </div>
+                
+            </div>
+        
+    </div>
+</div>
+
+    <div class="mi-video-share-wrap">
+    <span class="mi-video-close-share glyphicon glyphicon-remove"></span>
+    <ul class="video-share-icons video">
+        <li class="embed">
+            <div class="form-group">
+                <label>Video Link</label>
+                <textarea class="mi-share-link" readonly="true"></textarea>
+                <button class="btn btn-primary select-btn">copy</button>
+            </div>
+            <div class="form-group">
+                <label>Embed Code</label>
+                <textarea class="overlay-embed-share" readonly="true"></textarea>
+                <button class="btn btn-primary select-btn">copy</button>
+            </div>
+        </li>
+        <li class="facebook">
+            <a class="facebook-share" href="" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;" title="Share on Facebook">
+                <span class="glyphicon glyphicon-facebook"></span>
+                <span class="utility-text">Facebook</span>
+            </a>
+        </li>
+        <li class="twitter">
+            <a class="twitter-share" href="" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;" title="Share on Twitter">
+                <span class="glyphicon glyphicon-twitter"></span>
+                <span class="utility-text">Twitter</span>
+            </a>
+        </li>
+        <li class="email">
+            <a class="email-share" href="">
+                <span class="glyphicon glyphicon-envelope"></span>
+                <span class="utility-text">Email</span>
+            </a>
+        </li>
+        <li class="media-det">
+            
+                <h4 class="media-title"></h4>
+                <p class="media-leadtext"></p>
+            
+        </li>
+    </ul>
+</div>
+
+</div>
+
+    <script>
+    wpsRequire([ 'legacy-video' ], function ( video ) {
+        return video.play([{"id":"205937139","publication":"miamiherald","brightcoveId":"","asset_type":"videoIngest","url":"http://www.miamiherald.com/news/nation-world/world/americas/colombia/article205937139.html","duration":137,"poster":"//www.miamiherald.com/news/nation-world/world/americas/colombia/1sov6x-Asylum-Venezuela-Keyframe.jpg/alternates/LANDSCAPE_768/Asylum%20Venezuela%20Keyframe.jpg","title":"A Venezuelan exile sings in Colombia to make ends meet","displayDescription":"Mery “Balvina” Muñoz, a Venezuelan exile in Colombia, doesn’t have a work permit. So she spends most days singing for spare change, including this song that her mother wrote while she was jailed in Venezuela.","videographer":"Jim Wyss","credit":"Miami Herald Staff","published":1521502510,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/19/23/1437582013143-p5k4ma/Asylum_Venezuela___MH___Edit_2-1521504078189.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/19/23/1437580321678-6bjrso/Asylum_Venezuela___MH___Edit_2-1521504078706.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/19/23/art_205937139/Asylum_Venezuela___MH___Edit_2.m3u8","type":"application/x-mpegURL"}],"ads":false,"langCode":"en","brightcoveData":{"enabled":false,"account":"5618154292001","policyKey":"BCpkADawqM048yYnLJpeYsUKKU1nVPRqMbfA7w0B9-sDVQfPDd_-hSQRaYuYXt0ZLPyx9IixqmO8-VobPlxXLq8Tj7WsWwWPLPuVck7bDrhCly78ENHmcWGzPNk-eeG1Vc-WtBVjZ8zSQBTi"}}], [{"id":"205985419","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article205985419.html","duration":49,"poster":"//www.mcclatchydc.com/news/nation-world/national/2gxt0z-GreatMills.jpg/alternates/LANDSCAPE_768/GreatMills.jpg","title":"Police respond to reports of shooting at Maryland high school","displayDescription":"Police responded to reports of a shooting at Great Mills High School in Great Mills, Maryland. Several injuries have been reported. The local sheriff’s department urged parents to avoid going to the scene and to instead report to a nearby high school.","videographer":"","credit":"The Bay Net via Storyful","published":1521557140,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/20/14/1437582013143-p5k4ma/GreatMills_1-1521557139365.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/20/14/1437580321678-6bjrso/GreatMills_1-1521557139655.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/20/14/art_205985419/GreatMills_1.m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D205985419%26eid%3D205988034%26vidlength%3Dshort%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}},{"id":"205096814","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article205096814.html","duration":94,"poster":"//www.mcclatchydc.com/news/nation-world/national/3rzdhu-The-blended-burger-a-new-healthy-alternative-to-the-hamburger/alternates/LANDSCAPE_768/The%20%27blended%20burger%27%20a%20new%20healthy%20alternative%20to%20the%20hamburger","title":"The 'blended burger' a new, healthier alternative to the hamburger","displayDescription":"Sodexo, a multinational food company, is experimenting with their burgers to make them healthier and better on the environment. The result is the 'blended burger' which is made up of 25% mushroom and antibiotic-free beef. Americans eat about 10 billion burgers yearly. If the blended burger and other alternatives reduce burger beef consumption by 30 percent, that's equivalent to taking about 2.3 million cars off the road. ","videographer":"Stuart Leavenworth and Alexa Ard","credit":"McClatchy","published":1520744400,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/14/17/1437582013143-p5k4ma/Mushroom_burger_video-1521048273596.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/14/17/1437580321678-6bjrso/Mushroom_burger_video-1521048274276.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/14/17/art_205096814/Mushroom_burger_video.m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D205096814%26eid%3D205988034%26vidlength%3Dlong%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}},{"id":"203457574","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article203457574.html","duration":230,"poster":"//www.mcclatchydc.com/news/nation-world/national/j43qh4-Screen-Shot-2018-03-04-at-5.06.51-PM.png/alternates/LANDSCAPE_768/Screen%20Shot%202018-03-04%20at%205.06.51%20PM.png","title":"Most Americans Want More Gun Control. Why Doesn’t It Happen?","displayDescription":"Polls show solid support for stricter laws, especially after mass shootings. But there are also deep disagreement, staunch opposition and growing disenchantment with gun control.","videographer":"","credit":"NYT","published":1520205522,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/4/23/1437582013143-p5k4ma/Most_Americans_Want__enUS_h264_16ea.-1520205519371.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/4/23/1437580321678-6bjrso/Most_Americans_Want__enUS_h264_16ea.-1520205520068.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/4/23/art_203457574/Most_Americans_Want__enUS_h264_16ea..m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D203457574%26eid%3D205988034%26vidlength%3Dlong%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}},{"id":"201426814","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article201426814.html","duration":96,"poster":"//www.mcclatchydc.com/news/nation-world/national/s5iv87-Walkouts.jpg/alternates/LANDSCAPE_768/Walkouts.jpg","title":"Student walkouts, marches take gun control fight to the streets","displayDescription":"High school students across Florida staged walkouts and protests to show solidarity and demand tougher state and federal gun laws. The protests were in response to the deadly shooting at Marjory Stoneman Douglas High School in Parkland, Florida that killed 17 people.","videographer":"Nicole L. Cvetnic","credit":"McClatchy","published":1519253487,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/21/22/1437582013143-p5k4ma/Walkouts-1519253485325.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/21/22/1437580321678-6bjrso/Walkouts-1519253485800.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/21/22/art_201426814/Walkouts.m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D201426814%26eid%3D205988034%26vidlength%3Dlong%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}},{"id":"201506929","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article201506929.html","duration":80,"poster":"//www.mcclatchydc.com/news/nation-world/national/3trxs5-nrasheriff.jpg/alternates/LANDSCAPE_768/nrasheriff.jpg","title":"Sheriff, NRA spokeswoman, clash at CNN Town Hall","displayDescription":"NRA spokeswoman Dana Loesch appeared on a CNN Town Hall on guns in Sunrise, Florida and said law enforcement could have done more to stop the Florida school shooting. Broward County Sheriff Scott Israel said Loesch had her facts wrong.","videographer":"CNN via AP","credit":"","published":1518930000,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/22/14/1437582013143-p5k4ma/NRASpokespersonSheriffCNN-1519309259262.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/22/14/1437580321678-6bjrso/NRASpokespersonSheriffCNN-1519309259518.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/22/14/art_201506929/NRASpokespersonSheriffCNN.m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D201506929%26eid%3D205988034%26vidlength%3Dlong%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}},{"id":"200026019","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article200026019.html","duration":72,"poster":"//www.mcclatchydc.com/news/nation-world/national/145n13-nsacrash.jpg/alternates/LANDSCAPE_768/nsacrash.jpg","title":"Shooting reported near Fort Meade NSA campus","displayDescription":"Video from the scene shows a black SUV stopped at the barricades to the National Security Agency campus in Fort Meade, Maryland on Feb. 14, 2018.","videographer":"","credit":"","published":1518584400,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/14/15/1437582013143-p5k4ma/NSACrash-1518621949274.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/14/15/1437580321678-6bjrso/NSACrash-1518621949907.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/14/15/art_200026019/NSACrash.m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D200026019%26eid%3D205988034%26vidlength%3Dlong%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}},{"id":"198619234","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article198619234.html","duration":108,"poster":"//www.mcclatchydc.com/news/nation-world/national/bp8z6c-wallstreet.jpg/alternates/LANDSCAPE_768/wallstreet.jpg","title":"Dow first falls 500 points as U.S. stock market opens, then recovers most of losses","displayDescription":"The Dow Jones industrial average fell as much as 567 points shortly after the opening bell on Tuesday, then jumped as much as 367 points in the first half-hour of trading.","videographer":"Meta Viers","credit":"McClatchy","published":1517893200,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/6/16/1437582013143-p5k4ma/StocksMoves-1517934673687.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/6/16/1437580321678-6bjrso/StocksMoves-1517934674041.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/6/16/art_198619234/StocksMoves.m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D198619234%26eid%3D205988034%26vidlength%3Dlong%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}},{"id":"198028539","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article198028539.html","duration":57,"poster":"//www.mcclatchydc.com/news/nation-world/national/nnn26m-LosAngeles.jpg/alternates/LANDSCAPE_768/LosAngeles.jpg","title":"Two students shot inside California middle school","displayDescription":"Two students were shot and wounded inside a classroom Thursday morning at Salvador B. Castro Middle School in Los Angeles. Police arrested a female student believed to be 12 years old and recovered a gun after the shooting, authorities said.","videographer":"","credit":"AP","published":1517586462,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/2/15/1437582013143-p5k4ma/LosAngeles_1-1517586713438.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/2/15/1437580321678-6bjrso/LosAngeles_1-1517586713806.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/2/15/art_198028539/LosAngeles_1.m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D198028539%26eid%3D205988034%26vidlength%3Dshort%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}},{"id":"194586734","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article194586734.html","duration":43,"poster":"//www.mcclatchydc.com/news/nation-world/national/hjdp12-Screen-Shot-2018-01-13-at-4.19.26-PM.png/alternates/LANDSCAPE_768/Screen%20Shot%202018-01-13%20at%204.19.26%20PM.png","title":"Hawaii 'ballistic missile threat' false alarm, sent in error","displayDescription":"An emergency alert was sent to mobile phones \nand interrupted TV broadcasts warning people \nof an imminent missile threat on Saturday morning. ","videographer":"","credit":"Alexa Ard / McClatchy","published":1515878181,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/13/21/1437582013143-p5k4ma/v2_hawaii_threat_false_alarm-1515878179761.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/13/21/1437580321678-6bjrso/v2_hawaii_threat_false_alarm-1515878180058.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/13/21/art_194586734/v2_hawaii_threat_false_alarm.m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D194586734%26eid%3D205988034%26vidlength%3Dshort%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}},{"id":"193500034","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article193500034.html","duration":25,"poster":"//www.mcclatchydc.com/news/nation-world/national/dar4g4-trumptower.jpg/alternates/LANDSCAPE_768/trumptower.jpg","title":"Fire breaks out at Trump Tower in New York","displayDescription":"Firefighters responded to the report of a fire on the top floor of Trump Tower in Manhattan on Monday morning.  Aerial views showed firefighters on the roof, with smoke billowing from one corner of the high-rise. There were no immediate reports of injuries.","videographer":" @NYCBMD and WNYW via AP","credit":"","published":1515419565,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/8/13/1437582013143-p5k4ma/TrumpTower-1515419564136.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/8/13/1437580321678-6bjrso/TrumpTower-1515419564404.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/8/13/art_193500034/TrumpTower.m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D193500034%26eid%3D205988034%26vidlength%3Dshort%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}}], {"wpsInclude":false,"wpsArea":null,"autoPlay":false,"pubName":"mcclatchydc","embed":false,"cacheBust":"1d02ada","iterator":1,"uniqueId":"205937139-1521595004847","paywallEnabled":true,"domainName":"www.mcclatchydc.com","pubId":"57","isSecureRequest":false,"primaryVideoIsBrightcove":false,"baseTemplate":"story","videoType":"inline"} );
+    });
+</script>
+</div><div class="embed-media-details"><p class="media-leadtext">Mery “Balvina” Muñoz, a Venezuelan exile in Colombia, doesn’t have a work permit. So she spends most days singing for spare change, including this song that her mother wrote while she was jailed in Venezuela. <span class="photographer videographer"><strong>Jim Wyss</strong></span><span class="credits">Miami Herald Staff</span></p></div></div></div>
+                                    
+                                    
+                                    
+                                
+                                    <p></p>
+                                    
+                                    
+                                    
+                                
+                                    <p>It’s unclear what type of congressional support the additional funding will have. But a similar measure introduced by Reps. Ileana Ros-Lehtinen, R-Fl., and Eliot Engel, D-NY, the ranking Democrat on the House Foreign Relations Committee, to instruct USAID to provide humanitarian assistance to the Venezuelan people handedly passed the House in December. </p>
+                                    
+                                    
+                                    
+                                
+                                    <p>Ros-Lehtinen and Engel called the USAID funding a “welcome start” and encouraged South American allies to provide similar aid. </p>
+                                    
+                                    
+                                    
+                                        
+    
+    
+        
+
+
+
+
+    
+    <div class="ad visible-xs" >
+        <div class="ad-widget" id="mn-gpt-7" adtype="default" pkg="f" data-ad-policy="onPageLoad" audience="all" atf="n" defaultsize="Extra-Small" Large="None" Medium="None" Small="None" Extra-Small="300x250" articleId="205988034"></div>
+    </div>
+
+                                        
+                                    
+                                
+                                    <p>“It is long past time for the international community to step up and provide much-needed food and medicine to the countless Venezuelans who continue to suffer both inside and outside of the country,” they said in a statement.</p>
+                                    
+                                    
+                                    
+                                
+                                    <p>Sen. Bob Menendez, D-N.J., ranking member of the Senate Foreign Relations Committee, called for a donors summit to help coordinate the international response. </p>
+                                    
+                                    
+                                    
+                                
+                                    <p>“As Venezuela’s crisis spills beyond its border and threatens to destabilize neighboring countries, today’s announcement must only be a first step,” Menendez said.<strong> </strong></p>
+                                    
+                                    
+                                    
+                                
+                                    <p>During his trip to Latin America, Secretary of State Rex Tillerson told Colombian President Juan Santos that the United States would like to provide assistance<strong> </strong>inside Venezuela, said Francisco Palmieri, the current acting assistant secretary for Western Hemisphere affairs, in a State Department video interview.</p>
+                                    
+                                    
+                                    
+                                
+                                    <p>“The idea is to keep them near the border so that when democracy is restored, they can go home,” Palmieri said. </p>
+                                    
+                                    
+                                    
+                                
+                                    <div class="ng_endnote_contact"><p>Email: <a href="mailto:fordonez@mclcatchydc.com" title="">fordonez@mcclatchydc.com</a>; Twitter: <a href="https://twitter.com/francoordonez" target="_blank" title="">@francoordonez</a>.</p><span class="ng-command" data-value="252"> </span><p></p><div class="embed-media inline-video"><div class="teaser"><div id="video-detail-205536844-1521595004849" class="media-wrap ">
+    <div class="video-media" data-index="">
+        <div class="vjs-wrapper legacy-player-share-identifier">
+            <video id="player-205536844-1521595004849" class="video-js mi-videojs vjs-16-9" poster="//www.miamiherald.com/news/nation-world/world/americas/venezuela/tg3da2-Violin.jpg/alternates/LANDSCAPE_560/Violin.jpg"></video>
+            <div class="vjs-share">
+    <button class="vjs-share-trigger">
+        <span class="vjs-share-text">SHARE</span>
+        <span class="vjs-share-icon glyphicon glyphicon-share"></span>
+    </button>
+</div>
+<div class="vjs-overlay">
+    <div class="vjs-overlay__sharing video-share-icons">
+        <a href="" target="blank" class="vjs-overlay-sharing_item facebook-share glyphicon glyphicon-facebook"></a>
+        <a href="" target="blank" class="vjs-overlay-sharing_item twitter-share glyphicon glyphicon-twitter"></a>
+        <a href="mailto:?&amp;subject=&amp;body=" target="blank" class="vjs-overlay-sharing_item email-share glyphicon glyphicon-envelope"></a>
+        <a href="#" class="vjs-overlay-sharing_item glyphicon glyphicon-code vjs-overlay-sharing__embed"></a>
+        <form class="vjs-sharing__link">
+            <textarea class="overlay-embed-share" cols="30"></textarea>
+            <div class="vjs-input__wrapper">
+                <input type="text" class="mi-share-link" readonly="" value="">
+            </div>
+            <button type="button">COPY LINK</button>
+        </form>
+    </div>
+</div>
+        </div>
+    </div>
+
+    <div id="mi-video-overlay-205536844-1521595004849" class="mi-video-custom-overlay-wrap">
+    <div class="mi-video-eos-wrap">
+    <h3 class="mi-video-overlay-title">More Videos</h3>
+
+    <div class="mi-video-eos">
+        
+            <div class="mi-overlay-item" data-index="0">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.mcclatchydc.com/news/nation-world/national/2gxt0z-GreatMills.jpg/alternates/LANDSCAPE_200/GreatMills.jpg" alt="Police respond to reports of shooting at Maryland high school">
+                    <span class="duration">49</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Police respond to reports of shooting at Maryland high school</h4>
+                </div>
+                
+                    <div class="svg-timer-wrap">
+                        <svg class="svg-timer" viewBox="0 0 34 34">
+                            <g>
+                                <circle class="svg-timer-circle" cx="15" cy="17" r="15.9" transform="rotate(-90 16 16)"></circle>
+                                <text class="svg-timer-text" x="17" y="24"></text>
+                            </g>
+                        </svg>
+                        <a class="svg-timer-pause" href="javascript:void(0)">
+                            <span class="glyphicon glyphicon-pause"></span> Pause
+                        </a>
+                    </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="1">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.mcclatchydc.com/news/nation-world/national/3rzdhu-The-blended-burger-a-new-healthy-alternative-to-the-hamburger/alternates/LANDSCAPE_200/The%20%27blended%20burger%27%20a%20new%20healthy%20alternative%20to%20the%20hamburger" alt="The 'blended burger' a new, healthier alternative to the hamburger">
+                    <span class="duration">94</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">The 'blended burger' a new, healthier alternative to the hamburger</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="2">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.mcclatchydc.com/news/nation-world/national/j43qh4-Screen-Shot-2018-03-04-at-5.06.51-PM.png/alternates/LANDSCAPE_200/Screen%20Shot%202018-03-04%20at%205.06.51%20PM.png" alt="Most Americans Want More Gun Control. Why Doesn’t It Happen?">
+                    <span class="duration">230</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Most Americans Want More Gun Control. Why Doesn’t It Happen?</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="3">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.mcclatchydc.com/news/nation-world/national/s5iv87-Walkouts.jpg/alternates/LANDSCAPE_200/Walkouts.jpg" alt="Student walkouts, marches take gun control fight to the streets">
+                    <span class="duration">96</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Student walkouts, marches take gun control fight to the streets</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="4">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.mcclatchydc.com/news/nation-world/national/3trxs5-nrasheriff.jpg/alternates/LANDSCAPE_200/nrasheriff.jpg" alt="Sheriff, NRA spokeswoman, clash at CNN Town Hall">
+                    <span class="duration">80</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Sheriff, NRA spokeswoman, clash at CNN Town Hall</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="5">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.mcclatchydc.com/news/nation-world/national/145n13-nsacrash.jpg/alternates/LANDSCAPE_200/nsacrash.jpg" alt="Shooting reported near Fort Meade NSA campus">
+                    <span class="duration">72</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Shooting reported near Fort Meade NSA campus</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="6">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.mcclatchydc.com/news/nation-world/national/bp8z6c-wallstreet.jpg/alternates/LANDSCAPE_200/wallstreet.jpg" alt="Dow first falls 500 points as U.S. stock market opens, then recovers most of losses">
+                    <span class="duration">108</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Dow first falls 500 points as U.S. stock market opens, then recovers most of losses</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="7">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.mcclatchydc.com/news/nation-world/national/nnn26m-LosAngeles.jpg/alternates/LANDSCAPE_200/LosAngeles.jpg" alt="Two students shot inside California middle school">
+                    <span class="duration">57</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Two students shot inside California middle school</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="8">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.mcclatchydc.com/news/nation-world/national/hjdp12-Screen-Shot-2018-01-13-at-4.19.26-PM.png/alternates/LANDSCAPE_200/Screen%20Shot%202018-01-13%20at%204.19.26%20PM.png" alt="Hawaii 'ballistic missile threat' false alarm, sent in error">
+                    <span class="duration">43</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Hawaii 'ballistic missile threat' false alarm, sent in error</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="9">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.mcclatchydc.com/news/nation-world/national/dar4g4-trumptower.jpg/alternates/LANDSCAPE_200/trumptower.jpg" alt="Fire breaks out at Trump Tower in New York">
+                    <span class="duration">25</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Fire breaks out at Trump Tower in New York</h4>
+                </div>
+                
+            </div>
+        
+    </div>
+</div>
+
+    <div class="mi-video-share-wrap">
+    <span class="mi-video-close-share glyphicon glyphicon-remove"></span>
+    <ul class="video-share-icons video">
+        <li class="embed">
+            <div class="form-group">
+                <label>Video Link</label>
+                <textarea class="mi-share-link" readonly="true"></textarea>
+                <button class="btn btn-primary select-btn">copy</button>
+            </div>
+            <div class="form-group">
+                <label>Embed Code</label>
+                <textarea class="overlay-embed-share" readonly="true"></textarea>
+                <button class="btn btn-primary select-btn">copy</button>
+            </div>
+        </li>
+        <li class="facebook">
+            <a class="facebook-share" href="" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;" title="Share on Facebook">
+                <span class="glyphicon glyphicon-facebook"></span>
+                <span class="utility-text">Facebook</span>
+            </a>
+        </li>
+        <li class="twitter">
+            <a class="twitter-share" href="" onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;" title="Share on Twitter">
+                <span class="glyphicon glyphicon-twitter"></span>
+                <span class="utility-text">Twitter</span>
+            </a>
+        </li>
+        <li class="email">
+            <a class="email-share" href="">
+                <span class="glyphicon glyphicon-envelope"></span>
+                <span class="utility-text">Email</span>
+            </a>
+        </li>
+        <li class="media-det">
+            
+                <h4 class="media-title"></h4>
+                <p class="media-leadtext"></p>
+            
+        </li>
+    </ul>
+</div>
+
+</div>
+
+    <script>
+    wpsRequire([ 'legacy-video' ], function ( video ) {
+        return video.play([{"id":"205536844","publication":"miamiherald","brightcoveId":"","asset_type":"videoIngest","url":"http://www.miamiherald.com/news/nation-world/world/americas/venezuela/article205536844.html","duration":312,"poster":"//www.miamiherald.com/news/nation-world/world/americas/venezuela/tg3da2-Violin.jpg/alternates/LANDSCAPE_768/Violin.jpg","title":"Fighting Venezuela’s repression with my violin","displayDescription":"Wuilly Arteaga is a peace icon known for playing his violin during last year’s deadly protests against President Nicolás Maduro of Venezuela. The National Guard destroyed his violin and tortured Arteaga in jail. Now he’s calling on the world to condemn Venezuela’s rulers.","videographer":"","credit":"New York Times","published":1521225762,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/16/18/1437582013143-p5k4ma/Fighting_Venezuela___enUS_h264_d9db.-1521225757157.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/16/18/1437580321678-6bjrso/Fighting_Venezuela___enUS_h264_d9db.-1521225758535.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/16/18/art_205536844/Fighting_Venezuela___enUS_h264_d9db..m3u8","type":"application/x-mpegURL"}],"ads":false,"langCode":"en","brightcoveData":{"enabled":false,"account":"5618154292001","policyKey":"BCpkADawqM048yYnLJpeYsUKKU1nVPRqMbfA7w0B9-sDVQfPDd_-hSQRaYuYXt0ZLPyx9IixqmO8-VobPlxXLq8Tj7WsWwWPLPuVck7bDrhCly78ENHmcWGzPNk-eeG1Vc-WtBVjZ8zSQBTi"}}], [{"id":"205985419","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article205985419.html","duration":49,"poster":"//www.mcclatchydc.com/news/nation-world/national/2gxt0z-GreatMills.jpg/alternates/LANDSCAPE_768/GreatMills.jpg","title":"Police respond to reports of shooting at Maryland high school","displayDescription":"Police responded to reports of a shooting at Great Mills High School in Great Mills, Maryland. Several injuries have been reported. The local sheriff’s department urged parents to avoid going to the scene and to instead report to a nearby high school.","videographer":"","credit":"The Bay Net via Storyful","published":1521557140,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/20/14/1437582013143-p5k4ma/GreatMills_1-1521557139365.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/20/14/1437580321678-6bjrso/GreatMills_1-1521557139655.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/20/14/art_205985419/GreatMills_1.m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D205985419%26eid%3D205988034%26vidlength%3Dshort%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}},{"id":"205096814","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article205096814.html","duration":94,"poster":"//www.mcclatchydc.com/news/nation-world/national/3rzdhu-The-blended-burger-a-new-healthy-alternative-to-the-hamburger/alternates/LANDSCAPE_768/The%20%27blended%20burger%27%20a%20new%20healthy%20alternative%20to%20the%20hamburger","title":"The 'blended burger' a new, healthier alternative to the hamburger","displayDescription":"Sodexo, a multinational food company, is experimenting with their burgers to make them healthier and better on the environment. The result is the 'blended burger' which is made up of 25% mushroom and antibiotic-free beef. Americans eat about 10 billion burgers yearly. If the blended burger and other alternatives reduce burger beef consumption by 30 percent, that's equivalent to taking about 2.3 million cars off the road. ","videographer":"Stuart Leavenworth and Alexa Ard","credit":"McClatchy","published":1520744400,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/14/17/1437582013143-p5k4ma/Mushroom_burger_video-1521048273596.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/14/17/1437580321678-6bjrso/Mushroom_burger_video-1521048274276.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/14/17/art_205096814/Mushroom_burger_video.m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D205096814%26eid%3D205988034%26vidlength%3Dlong%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}},{"id":"203457574","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article203457574.html","duration":230,"poster":"//www.mcclatchydc.com/news/nation-world/national/j43qh4-Screen-Shot-2018-03-04-at-5.06.51-PM.png/alternates/LANDSCAPE_768/Screen%20Shot%202018-03-04%20at%205.06.51%20PM.png","title":"Most Americans Want More Gun Control. Why Doesn’t It Happen?","displayDescription":"Polls show solid support for stricter laws, especially after mass shootings. But there are also deep disagreement, staunch opposition and growing disenchantment with gun control.","videographer":"","credit":"NYT","published":1520205522,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/4/23/1437582013143-p5k4ma/Most_Americans_Want__enUS_h264_16ea.-1520205519371.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/4/23/1437580321678-6bjrso/Most_Americans_Want__enUS_h264_16ea.-1520205520068.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/4/23/art_203457574/Most_Americans_Want__enUS_h264_16ea..m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D203457574%26eid%3D205988034%26vidlength%3Dlong%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}},{"id":"201426814","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article201426814.html","duration":96,"poster":"//www.mcclatchydc.com/news/nation-world/national/s5iv87-Walkouts.jpg/alternates/LANDSCAPE_768/Walkouts.jpg","title":"Student walkouts, marches take gun control fight to the streets","displayDescription":"High school students across Florida staged walkouts and protests to show solidarity and demand tougher state and federal gun laws. The protests were in response to the deadly shooting at Marjory Stoneman Douglas High School in Parkland, Florida that killed 17 people.","videographer":"Nicole L. Cvetnic","credit":"McClatchy","published":1519253487,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/21/22/1437582013143-p5k4ma/Walkouts-1519253485325.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/21/22/1437580321678-6bjrso/Walkouts-1519253485800.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/21/22/art_201426814/Walkouts.m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D201426814%26eid%3D205988034%26vidlength%3Dlong%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}},{"id":"201506929","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article201506929.html","duration":80,"poster":"//www.mcclatchydc.com/news/nation-world/national/3trxs5-nrasheriff.jpg/alternates/LANDSCAPE_768/nrasheriff.jpg","title":"Sheriff, NRA spokeswoman, clash at CNN Town Hall","displayDescription":"NRA spokeswoman Dana Loesch appeared on a CNN Town Hall on guns in Sunrise, Florida and said law enforcement could have done more to stop the Florida school shooting. Broward County Sheriff Scott Israel said Loesch had her facts wrong.","videographer":"CNN via AP","credit":"","published":1518930000,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/22/14/1437582013143-p5k4ma/NRASpokespersonSheriffCNN-1519309259262.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/22/14/1437580321678-6bjrso/NRASpokespersonSheriffCNN-1519309259518.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/22/14/art_201506929/NRASpokespersonSheriffCNN.m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D201506929%26eid%3D205988034%26vidlength%3Dlong%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}},{"id":"200026019","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article200026019.html","duration":72,"poster":"//www.mcclatchydc.com/news/nation-world/national/145n13-nsacrash.jpg/alternates/LANDSCAPE_768/nsacrash.jpg","title":"Shooting reported near Fort Meade NSA campus","displayDescription":"Video from the scene shows a black SUV stopped at the barricades to the National Security Agency campus in Fort Meade, Maryland on Feb. 14, 2018.","videographer":"","credit":"","published":1518584400,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/14/15/1437582013143-p5k4ma/NSACrash-1518621949274.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/14/15/1437580321678-6bjrso/NSACrash-1518621949907.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/14/15/art_200026019/NSACrash.m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D200026019%26eid%3D205988034%26vidlength%3Dlong%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}},{"id":"198619234","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article198619234.html","duration":108,"poster":"//www.mcclatchydc.com/news/nation-world/national/bp8z6c-wallstreet.jpg/alternates/LANDSCAPE_768/wallstreet.jpg","title":"Dow first falls 500 points as U.S. stock market opens, then recovers most of losses","displayDescription":"The Dow Jones industrial average fell as much as 567 points shortly after the opening bell on Tuesday, then jumped as much as 367 points in the first half-hour of trading.","videographer":"Meta Viers","credit":"McClatchy","published":1517893200,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/6/16/1437582013143-p5k4ma/StocksMoves-1517934673687.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/6/16/1437580321678-6bjrso/StocksMoves-1517934674041.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/6/16/art_198619234/StocksMoves.m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D198619234%26eid%3D205988034%26vidlength%3Dlong%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}},{"id":"198028539","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article198028539.html","duration":57,"poster":"//www.mcclatchydc.com/news/nation-world/national/nnn26m-LosAngeles.jpg/alternates/LANDSCAPE_768/LosAngeles.jpg","title":"Two students shot inside California middle school","displayDescription":"Two students were shot and wounded inside a classroom Thursday morning at Salvador B. Castro Middle School in Los Angeles. Police arrested a female student believed to be 12 years old and recovered a gun after the shooting, authorities said.","videographer":"","credit":"AP","published":1517586462,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/2/15/1437582013143-p5k4ma/LosAngeles_1-1517586713438.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/2/15/1437580321678-6bjrso/LosAngeles_1-1517586713806.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/2/15/art_198028539/LosAngeles_1.m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D198028539%26eid%3D205988034%26vidlength%3Dshort%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}},{"id":"194586734","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article194586734.html","duration":43,"poster":"//www.mcclatchydc.com/news/nation-world/national/hjdp12-Screen-Shot-2018-01-13-at-4.19.26-PM.png/alternates/LANDSCAPE_768/Screen%20Shot%202018-01-13%20at%204.19.26%20PM.png","title":"Hawaii 'ballistic missile threat' false alarm, sent in error","displayDescription":"An emergency alert was sent to mobile phones \nand interrupted TV broadcasts warning people \nof an imminent missile threat on Saturday morning. ","videographer":"","credit":"Alexa Ard / McClatchy","published":1515878181,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/13/21/1437582013143-p5k4ma/v2_hawaii_threat_false_alarm-1515878179761.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/13/21/1437580321678-6bjrso/v2_hawaii_threat_false_alarm-1515878180058.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/13/21/art_194586734/v2_hawaii_threat_false_alarm.m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D194586734%26eid%3D205988034%26vidlength%3Dshort%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}},{"id":"193500034","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article193500034.html","duration":25,"poster":"//www.mcclatchydc.com/news/nation-world/national/dar4g4-trumptower.jpg/alternates/LANDSCAPE_768/trumptower.jpg","title":"Fire breaks out at Trump Tower in New York","displayDescription":"Firefighters responded to the report of a fire on the top floor of Trump Tower in Manhattan on Monday morning.  Aerial views showed firefighters on the roof, with smoke billowing from one corner of the high-rise. There were no immediate reports of injuries.","videographer":" @NYCBMD and WNYW via AP","credit":"","published":1515419565,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/8/13/1437582013143-p5k4ma/TrumpTower-1515419564136.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/8/13/1437580321678-6bjrso/TrumpTower-1515419564404.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/8/13/art_193500034/TrumpTower.m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D193500034%26eid%3D205988034%26vidlength%3Dshort%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}}], {"wpsInclude":false,"wpsArea":null,"autoPlay":false,"pubName":"mcclatchydc","embed":false,"cacheBust":"1d02ada","iterator":1,"uniqueId":"205536844-1521595004849","paywallEnabled":true,"domainName":"www.mcclatchydc.com","pubId":"57","isSecureRequest":false,"primaryVideoIsBrightcove":false,"baseTemplate":"story","videoType":"inline"} );
+    });
+</script>
+</div><div class="embed-media-details"><p class="media-leadtext">Wuilly Arteaga is a peace icon known for playing his violin during last year’s deadly protests against President Nicolás Maduro of Venezuela. The National Guard destroyed his violin and tortured Arteaga in jail. Now he’s calling on the world to condemn Venezuela’s rulers. <span class="credits">New York Times</span></p></div></div></div><p></p><span class="ng-command" data-value="252"> </span></div>
+                                    
+                                    
+                                    
+                                
+                            
+                            
+                        </div>
+                        <div class="hidden">
+                            <div class="ad-widget" id="mn-gpt-8" adtype="default" pkg="None" data-ad-policy="onPageLoad" audience="all" atf="n" defaultsize="Large" Large="336x280" Medium="336x280" Small="336x280" Extra-Small="336x280" articleId="205988034"></div>
+                        </div>
+                        
+                            
+                                <!-- Nothing is configured -->
+                            
+                        
+                            
+                                <!-- Nothing is configured -->
+                            
+                        
+                            
+                                <!-- Nothing is configured -->
+                            
+                        
+                        
+                        
+                            
+                            
+                        
+                    </div>
+                </div>
+                
+                
+                    
+
+                
+
+                
+                
+                    
+
+
+    <script type='text/template' id='zerg-template'> 
+        <div id="vendor-stories-content">
+            <h2 class='heading vendor-storiescontent-heading'>Suggested for you</h2>
+        </div>
+        <div class="vendor-storiescontent-main-container" id="zergnet-widget-53332"></div>
+     </script><div id='zerg-target'></div><script> lazyLoadingModule("zerg-template", "zerg-target", "zerg",500,
+        undefined, undefined, undefined,  "53332", undefined , undefined ); </script>
+
+                
+
+                
+                
+                    <div id="commenting-container" class="commenting-container element-spacing-large">
+                        <h2 class="heading link">
+    <a class="comments-toggle" href="javascript:void(0);">
+        <span class="glyphicon glyphicon-comment-o"></span>&nbsp; Comments &nbsp;<span class="glyphicon glyphicon-chevron-down rotate"></span>
+    </a>
+</h2>
+
+<!--Needs to be on the DOM on page load for IE. Needs to be visible to set the correct height of the comment component. I'm hiding it on document ready. Appending it later did not work-->
+<div id="fb-comments" class="fb-comments in" data-href="" data-width="100%" data-numposts="10"></div>
+
+<script>
+    jQuery(document).ready(function () {
+        mi.commentingFaceboook.init();
+    });
+</script>
+
+                    </div>
+                
+            </div>
+            <div id="nativoArticlePage" ></div>
+        </div>
+        
+
+
+<div class="narrow-rail">
+    <div class="ad hidden-xs">
+        <div class="ad-widget" id="mn-gpt-9" adtype="default" pkg="b" data-ad-policy="onPageLoad" audience="all" atf="y" defaultsize="Large" Large="Flex Ad" Medium="Flex Ad" Small="300x250" Extra-Small="None" articleId="205988034"></div>
+    </div>
+    <div class="element-spacing-medium">
+        <div id="video-widget" class="headline-list">
+            <h2 class="heading link"><a href="/video/">Videos</a></h2>
+            <div class="teaser">
+                <div id="container-" class="container-">
+                    
+                        
+
+
+
+
+
+
+<div class="wf-wps-side-bar mi-video-sidebar-widget">
+    
+        
+<div id="video-detail-205985419-1521595004953" class="media-wrap ">
+    <div class="video-media" data-index>
+        <div class="vjs-wrapper legacy-player-share-identifier">
+            <video id="player-205985419-1521595004953" class="video-js mi-videojs vjs-16-9" poster="//www.mcclatchydc.com/news/nation-world/national/2gxt0z-GreatMills.jpg/alternates/LANDSCAPE_560/GreatMills.jpg"></video>
+            <div class="vjs-share">
+    <button class="vjs-share-trigger">
+        <span class="vjs-share-text">SHARE</span>
+        <span class="vjs-share-icon glyphicon glyphicon-share"></span>
+    </button>
+</div>
+<div class="vjs-overlay">
+    <div class="vjs-overlay__sharing video-share-icons">
+        <a href="" target="blank" class="vjs-overlay-sharing_item facebook-share glyphicon glyphicon-facebook"></a>
+        <a href="" target="blank" class="vjs-overlay-sharing_item twitter-share glyphicon glyphicon-twitter"></a>
+        <a href="mailto:?&subject=&body=" target="blank" class="vjs-overlay-sharing_item email-share glyphicon glyphicon-envelope"></a>
+        <a href="#" class="vjs-overlay-sharing_item glyphicon glyphicon-code vjs-overlay-sharing__embed"></a>
+        <form class="vjs-sharing__link">
+            <textarea class="overlay-embed-share" cols="30"></textarea>
+            <div class="vjs-input__wrapper">
+                <input type="text" class="mi-share-link" readonly value="">
+            </div>
+            <button type="button">COPY LINK</button>
+        </form>
+    </div>
+</div>
+        </div>
+    </div>
+
+    <div id="mi-video-overlay-205985419-1521595004953" class="mi-video-custom-overlay-wrap" >
+    <div class="mi-video-eos-wrap">
+    <h3 class="mi-video-overlay-title">More Videos</h3>
+
+    <div class="mi-video-eos">
+        
+            <div class="mi-overlay-item" data-index="0">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.mcclatchydc.com/news/nation-world/national/2gxt0z-GreatMills.jpg/alternates/LANDSCAPE_200/GreatMills.jpg" alt="Police respond to reports of shooting at Maryland high school"/>
+                    <span class="duration">49</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Police respond to reports of shooting at Maryland high school</h4>
+                </div>
+                
+                    <div class="svg-timer-wrap">
+                        <svg class="svg-timer" viewBox="0 0 34 34">
+                            <g>
+                                <circle class="svg-timer-circle" cx="15" cy="17" r="15.9" transform="rotate(-90 16 16)"></circle>
+                                <text class="svg-timer-text" x="17" y="24"></text>
+                            </g>
+                        </svg>
+                        <a class="svg-timer-pause" href="javascript:void(0)">
+                            <span class="glyphicon glyphicon-pause"></span> Pause
+                        </a>
+                    </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="1">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.mcclatchydc.com/news/nation-world/national/3rzdhu-The-blended-burger-a-new-healthy-alternative-to-the-hamburger/alternates/LANDSCAPE_200/The%20%27blended%20burger%27%20a%20new%20healthy%20alternative%20to%20the%20hamburger" alt="The 'blended burger' a new, healthier alternative to the hamburger"/>
+                    <span class="duration">94</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">The 'blended burger' a new, healthier alternative to the hamburger</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="2">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.mcclatchydc.com/news/nation-world/national/j43qh4-Screen-Shot-2018-03-04-at-5.06.51-PM.png/alternates/LANDSCAPE_200/Screen%20Shot%202018-03-04%20at%205.06.51%20PM.png" alt="Most Americans Want More Gun Control. Why Doesn’t It Happen?"/>
+                    <span class="duration">230</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Most Americans Want More Gun Control. Why Doesn’t It Happen?</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="3">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.mcclatchydc.com/news/nation-world/national/s5iv87-Walkouts.jpg/alternates/LANDSCAPE_200/Walkouts.jpg" alt="Student walkouts, marches take gun control fight to the streets"/>
+                    <span class="duration">96</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Student walkouts, marches take gun control fight to the streets</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="4">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.mcclatchydc.com/news/nation-world/national/3trxs5-nrasheriff.jpg/alternates/LANDSCAPE_200/nrasheriff.jpg" alt="Sheriff, NRA spokeswoman, clash at CNN Town Hall"/>
+                    <span class="duration">80</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Sheriff, NRA spokeswoman, clash at CNN Town Hall</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="5">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.mcclatchydc.com/news/nation-world/national/145n13-nsacrash.jpg/alternates/LANDSCAPE_200/nsacrash.jpg" alt="Shooting reported near Fort Meade NSA campus"/>
+                    <span class="duration">72</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Shooting reported near Fort Meade NSA campus</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="6">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.mcclatchydc.com/news/nation-world/national/bp8z6c-wallstreet.jpg/alternates/LANDSCAPE_200/wallstreet.jpg" alt="Dow first falls 500 points as U.S. stock market opens, then recovers most of losses"/>
+                    <span class="duration">108</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Dow first falls 500 points as U.S. stock market opens, then recovers most of losses</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="7">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.mcclatchydc.com/news/nation-world/national/nnn26m-LosAngeles.jpg/alternates/LANDSCAPE_200/LosAngeles.jpg" alt="Two students shot inside California middle school"/>
+                    <span class="duration">57</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Two students shot inside California middle school</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="8">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.mcclatchydc.com/news/nation-world/national/hjdp12-Screen-Shot-2018-01-13-at-4.19.26-PM.png/alternates/LANDSCAPE_200/Screen%20Shot%202018-01-13%20at%204.19.26%20PM.png" alt="Hawaii 'ballistic missile threat' false alarm, sent in error"/>
+                    <span class="duration">43</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Hawaii 'ballistic missile threat' false alarm, sent in error</h4>
+                </div>
+                
+            </div>
+        
+            <div class="mi-overlay-item" data-index="9">
+                <div class="media-wrap">
+                    <img data-flickity-lazyload="//www.mcclatchydc.com/news/nation-world/national/dar4g4-trumptower.jpg/alternates/LANDSCAPE_200/trumptower.jpg" alt="Fire breaks out at Trump Tower in New York"/>
+                    <span class="duration">25</span>
+                </div>
+                <div class="media-desc">
+                    <h4 class="video-title">Fire breaks out at Trump Tower in New York</h4>
+                </div>
+                
+            </div>
+        
+    </div>
+</div>
+
+    <div class="mi-video-share-wrap">
+    <span class="mi-video-close-share glyphicon glyphicon-remove"></span>
+    <ul class="video-share-icons video">
+        <li class="embed">
+            <div class="form-group">
+                <label>Video Link</label>
+                <textarea class="mi-share-link" readonly="true" ></textarea>
+                <button class="btn btn-primary select-btn">copy</button>
+            </div>
+            <div class="form-group">
+                <label>Embed Code</label>
+                <textarea class="overlay-embed-share" readonly="true" ></textarea>
+                <button class="btn btn-primary select-btn">copy</button>
+            </div>
+        </li>
+        <li class="facebook">
+            <a class="facebook-share"
+               href=""
+               onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;"
+               title="Share on Facebook">
+                <span class="glyphicon glyphicon-facebook"></span>
+                <span class="utility-text">Facebook</span>
+            </a>
+        </li>
+        <li class="twitter">
+            <a class="twitter-share"
+               href=""
+               onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=600');return false;"
+               title="Share on Twitter">
+                <span class="glyphicon glyphicon-twitter"></span>
+                <span class="utility-text">Twitter</span>
+            </a>
+        </li>
+        <li class="email">
+            <a class="email-share" href="">
+                <span class="glyphicon glyphicon-envelope"></span>
+                <span class="utility-text">Email</span>
+            </a>
+        </li>
+        <li class="media-det">
+            
+                <h4 class="media-title"></h4>
+                <p class="media-leadtext"></p>
+            
+        </li>
+    </ul>
+</div>
+
+</div>
+
+    <script>
+    wpsRequire([ 'legacy-video' ], function ( video ) {
+        return video.play([{"id":"205985419","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article205985419.html","duration":49,"poster":"//www.mcclatchydc.com/news/nation-world/national/2gxt0z-GreatMills.jpg/alternates/LANDSCAPE_768/GreatMills.jpg","title":"Police respond to reports of shooting at Maryland high school","displayDescription":"Police responded to reports of a shooting at Great Mills High School in Great Mills, Maryland. Several injuries have been reported. The local sheriff’s department urged parents to avoid going to the scene and to instead report to a nearby high school.","videographer":"","credit":"The Bay Net via Storyful","published":1521557140,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/20/14/1437582013143-p5k4ma/GreatMills_1-1521557139365.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/20/14/1437580321678-6bjrso/GreatMills_1-1521557139655.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/20/14/art_205985419/GreatMills_1.m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D205985419%26eid%3D205988034%26vidlength%3Dshort%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}},{"id":"205096814","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article205096814.html","duration":94,"poster":"//www.mcclatchydc.com/news/nation-world/national/3rzdhu-The-blended-burger-a-new-healthy-alternative-to-the-hamburger/alternates/LANDSCAPE_768/The%20%27blended%20burger%27%20a%20new%20healthy%20alternative%20to%20the%20hamburger","title":"The 'blended burger' a new, healthier alternative to the hamburger","displayDescription":"Sodexo, a multinational food company, is experimenting with their burgers to make them healthier and better on the environment. The result is the 'blended burger' which is made up of 25% mushroom and antibiotic-free beef. Americans eat about 10 billion burgers yearly. If the blended burger and other alternatives reduce burger beef consumption by 30 percent, that's equivalent to taking about 2.3 million cars off the road. ","videographer":"Stuart Leavenworth and Alexa Ard","credit":"McClatchy","published":1520744400,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/14/17/1437582013143-p5k4ma/Mushroom_burger_video-1521048273596.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/14/17/1437580321678-6bjrso/Mushroom_burger_video-1521048274276.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/14/17/art_205096814/Mushroom_burger_video.m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D205096814%26eid%3D205988034%26vidlength%3Dlong%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}},{"id":"203457574","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article203457574.html","duration":230,"poster":"//www.mcclatchydc.com/news/nation-world/national/j43qh4-Screen-Shot-2018-03-04-at-5.06.51-PM.png/alternates/LANDSCAPE_768/Screen%20Shot%202018-03-04%20at%205.06.51%20PM.png","title":"Most Americans Want More Gun Control. Why Doesn’t It Happen?","displayDescription":"Polls show solid support for stricter laws, especially after mass shootings. But there are also deep disagreement, staunch opposition and growing disenchantment with gun control.","videographer":"","credit":"NYT","published":1520205522,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/4/23/1437582013143-p5k4ma/Most_Americans_Want__enUS_h264_16ea.-1520205519371.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/4/23/1437580321678-6bjrso/Most_Americans_Want__enUS_h264_16ea.-1520205520068.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/4/23/art_203457574/Most_Americans_Want__enUS_h264_16ea..m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D203457574%26eid%3D205988034%26vidlength%3Dlong%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}}], [{"id":"205985419","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article205985419.html","duration":49,"poster":"//www.mcclatchydc.com/news/nation-world/national/2gxt0z-GreatMills.jpg/alternates/LANDSCAPE_768/GreatMills.jpg","title":"Police respond to reports of shooting at Maryland high school","displayDescription":"Police responded to reports of a shooting at Great Mills High School in Great Mills, Maryland. Several injuries have been reported. The local sheriff’s department urged parents to avoid going to the scene and to instead report to a nearby high school.","videographer":"","credit":"The Bay Net via Storyful","published":1521557140,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/20/14/1437582013143-p5k4ma/GreatMills_1-1521557139365.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/20/14/1437580321678-6bjrso/GreatMills_1-1521557139655.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/20/14/art_205985419/GreatMills_1.m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D205985419%26eid%3D205988034%26vidlength%3Dshort%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}},{"id":"205096814","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article205096814.html","duration":94,"poster":"//www.mcclatchydc.com/news/nation-world/national/3rzdhu-The-blended-burger-a-new-healthy-alternative-to-the-hamburger/alternates/LANDSCAPE_768/The%20%27blended%20burger%27%20a%20new%20healthy%20alternative%20to%20the%20hamburger","title":"The 'blended burger' a new, healthier alternative to the hamburger","displayDescription":"Sodexo, a multinational food company, is experimenting with their burgers to make them healthier and better on the environment. The result is the 'blended burger' which is made up of 25% mushroom and antibiotic-free beef. Americans eat about 10 billion burgers yearly. If the blended burger and other alternatives reduce burger beef consumption by 30 percent, that's equivalent to taking about 2.3 million cars off the road. ","videographer":"Stuart Leavenworth and Alexa Ard","credit":"McClatchy","published":1520744400,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/14/17/1437582013143-p5k4ma/Mushroom_burger_video-1521048273596.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/14/17/1437580321678-6bjrso/Mushroom_burger_video-1521048274276.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/14/17/art_205096814/Mushroom_burger_video.m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D205096814%26eid%3D205988034%26vidlength%3Dlong%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}},{"id":"203457574","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article203457574.html","duration":230,"poster":"//www.mcclatchydc.com/news/nation-world/national/j43qh4-Screen-Shot-2018-03-04-at-5.06.51-PM.png/alternates/LANDSCAPE_768/Screen%20Shot%202018-03-04%20at%205.06.51%20PM.png","title":"Most Americans Want More Gun Control. Why Doesn’t It Happen?","displayDescription":"Polls show solid support for stricter laws, especially after mass shootings. But there are also deep disagreement, staunch opposition and growing disenchantment with gun control.","videographer":"","credit":"NYT","published":1520205522,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/4/23/1437582013143-p5k4ma/Most_Americans_Want__enUS_h264_16ea.-1520205519371.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/4/23/1437580321678-6bjrso/Most_Americans_Want__enUS_h264_16ea.-1520205520068.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/3/4/23/art_203457574/Most_Americans_Want__enUS_h264_16ea..m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D203457574%26eid%3D205988034%26vidlength%3Dlong%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}},{"id":"201426814","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article201426814.html","duration":96,"poster":"//www.mcclatchydc.com/news/nation-world/national/s5iv87-Walkouts.jpg/alternates/LANDSCAPE_768/Walkouts.jpg","title":"Student walkouts, marches take gun control fight to the streets","displayDescription":"High school students across Florida staged walkouts and protests to show solidarity and demand tougher state and federal gun laws. The protests were in response to the deadly shooting at Marjory Stoneman Douglas High School in Parkland, Florida that killed 17 people.","videographer":"Nicole L. Cvetnic","credit":"McClatchy","published":1519253487,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/21/22/1437582013143-p5k4ma/Walkouts-1519253485325.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/21/22/1437580321678-6bjrso/Walkouts-1519253485800.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/21/22/art_201426814/Walkouts.m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D201426814%26eid%3D205988034%26vidlength%3Dlong%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}},{"id":"201506929","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article201506929.html","duration":80,"poster":"//www.mcclatchydc.com/news/nation-world/national/3trxs5-nrasheriff.jpg/alternates/LANDSCAPE_768/nrasheriff.jpg","title":"Sheriff, NRA spokeswoman, clash at CNN Town Hall","displayDescription":"NRA spokeswoman Dana Loesch appeared on a CNN Town Hall on guns in Sunrise, Florida and said law enforcement could have done more to stop the Florida school shooting. Broward County Sheriff Scott Israel said Loesch had her facts wrong.","videographer":"CNN via AP","credit":"","published":1518930000,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/22/14/1437582013143-p5k4ma/NRASpokespersonSheriffCNN-1519309259262.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/22/14/1437580321678-6bjrso/NRASpokespersonSheriffCNN-1519309259518.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/22/14/art_201506929/NRASpokespersonSheriffCNN.m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D201506929%26eid%3D205988034%26vidlength%3Dlong%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}},{"id":"200026019","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article200026019.html","duration":72,"poster":"//www.mcclatchydc.com/news/nation-world/national/145n13-nsacrash.jpg/alternates/LANDSCAPE_768/nsacrash.jpg","title":"Shooting reported near Fort Meade NSA campus","displayDescription":"Video from the scene shows a black SUV stopped at the barricades to the National Security Agency campus in Fort Meade, Maryland on Feb. 14, 2018.","videographer":"","credit":"","published":1518584400,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/14/15/1437582013143-p5k4ma/NSACrash-1518621949274.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/14/15/1437580321678-6bjrso/NSACrash-1518621949907.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/14/15/art_200026019/NSACrash.m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D200026019%26eid%3D205988034%26vidlength%3Dlong%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}},{"id":"198619234","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article198619234.html","duration":108,"poster":"//www.mcclatchydc.com/news/nation-world/national/bp8z6c-wallstreet.jpg/alternates/LANDSCAPE_768/wallstreet.jpg","title":"Dow first falls 500 points as U.S. stock market opens, then recovers most of losses","displayDescription":"The Dow Jones industrial average fell as much as 567 points shortly after the opening bell on Tuesday, then jumped as much as 367 points in the first half-hour of trading.","videographer":"Meta Viers","credit":"McClatchy","published":1517893200,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/6/16/1437582013143-p5k4ma/StocksMoves-1517934673687.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/6/16/1437580321678-6bjrso/StocksMoves-1517934674041.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/6/16/art_198619234/StocksMoves.m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D198619234%26eid%3D205988034%26vidlength%3Dlong%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=long&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}},{"id":"198028539","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article198028539.html","duration":57,"poster":"//www.mcclatchydc.com/news/nation-world/national/nnn26m-LosAngeles.jpg/alternates/LANDSCAPE_768/LosAngeles.jpg","title":"Two students shot inside California middle school","displayDescription":"Two students were shot and wounded inside a classroom Thursday morning at Salvador B. Castro Middle School in Los Angeles. Police arrested a female student believed to be 12 years old and recovered a gun after the shooting, authorities said.","videographer":"","credit":"AP","published":1517586462,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/2/15/1437582013143-p5k4ma/LosAngeles_1-1517586713438.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/2/15/1437580321678-6bjrso/LosAngeles_1-1517586713806.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/2/2/15/art_198028539/LosAngeles_1.m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D198028539%26eid%3D205988034%26vidlength%3Dshort%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}},{"id":"194586734","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article194586734.html","duration":43,"poster":"//www.mcclatchydc.com/news/nation-world/national/hjdp12-Screen-Shot-2018-01-13-at-4.19.26-PM.png/alternates/LANDSCAPE_768/Screen%20Shot%202018-01-13%20at%204.19.26%20PM.png","title":"Hawaii 'ballistic missile threat' false alarm, sent in error","displayDescription":"An emergency alert was sent to mobile phones \nand interrupted TV broadcasts warning people \nof an imminent missile threat on Saturday morning. ","videographer":"","credit":"Alexa Ard / McClatchy","published":1515878181,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/13/21/1437582013143-p5k4ma/v2_hawaii_threat_false_alarm-1515878179761.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/13/21/1437580321678-6bjrso/v2_hawaii_threat_false_alarm-1515878180058.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/13/21/art_194586734/v2_hawaii_threat_false_alarm.m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D194586734%26eid%3D205988034%26vidlength%3Dshort%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}},{"id":"193500034","publication":"mcclatchydc","brightcoveId":"","asset_type":"videoIngest","url":"http://www.mcclatchydc.com/news/nation-world/national/article193500034.html","duration":25,"poster":"//www.mcclatchydc.com/news/nation-world/national/dar4g4-trumptower.jpg/alternates/LANDSCAPE_768/trumptower.jpg","title":"Fire breaks out at Trump Tower in New York","displayDescription":"Firefighters responded to the report of a fire on the top floor of Trump Tower in Manhattan on Monday morning.  Aerial views showed firefighters on the roof, with smoke billowing from one corner of the high-rise. There were no immediate reports of injuries.","videographer":" @NYCBMD and WNYW via AP","credit":"","published":1515419565,"sources":[{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/8/13/1437582013143-p5k4ma/TrumpTower-1515419564136.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/8/13/1437580321678-6bjrso/TrumpTower-1515419564404.mp4","type":"video/mp4"},{"src":"//dr6lcqo3bxtwa.cloudfront.net/binary/2018/1/8/13/art_193500034/TrumpTower.m3u8","type":"application/x-mpegURL"}],"ads":"//pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250&correlator=%5Btimestamp%5D&cust_params=sect%3Dnational%26id%3D193500034%26eid%3D205988034%26vidlength%3Dshort%26pl%3D&description_url=%5Breferrer_url%5D&env=vp&gdfp_req=1&hl=en&impl=s&iu=%2F7675%2FMDC.site_mcclatchydc%2FNews%2FNational&output=vast&sz=400x300&unviewed_position_start=1&url=%5Breferrer_url%5D&vidlength=short&vpos=preroll","langCode":"en","brightcoveData":{"enabled":false,"account":"5615998022001","policyKey":"BCpkADawqM1o8PO0-6-48vllsuJWSHQyH20CyQNdNpuU4Bklod1Xocv7Q60Td9Ejutf1f-KvCqweJURnOyZwAiQEkFUq_DLR38msFDqUirpmvPgUe3YXcJrZtRravEvwgFw4O-Zm2hth5DQJ"}}], {"wpsInclude":false,"wpsArea":null,"autoPlay":false,"pubName":"mcclatchydc","embed":false,"cacheBust":"1d02ada","iterator":10,"uniqueId":"205985419-1521595004953","paywallEnabled":true,"domainName":"www.mcclatchydc.com","pubId":"57","isSecureRequest":false,"primaryVideoIsBrightcove":false,"baseTemplate":"story","videoType":"sidebar"} );
+    });
+</script>
+</div>
+
+
+        <div class="video-details">
+            <h2 class="title video-title">
+                <a href="//www.mcclatchydc.com/news/nation-world/national/article205985419.html">Police respond to reports of shooting at Maryland high school</a>
+            </h2>
+        </div>
+        <div id="playlist-205985419-1521595004953">
+            <div class="mi-playlist-sidebar">
+                
+                    
+                        <a class="playlist-item" href="#0" data-index="0">
+                            <div class="media posterframe-wrapper">
+                                <img src="//www.mcclatchydc.com/news/nation-world/national/2gxt0z-GreatMills.jpg/alternates/LANDSCAPE_200/GreatMills.jpg" alt="Police respond to reports of shooting at Maryland high school"/>
+                                <span class="glyphicon glyphicon-play-circle"></span>
+                                <span class="duration">0:50</span>
+                            </div>
+                            <div class="media-desc">
+                                <h4 class="title video-title">Police respond to reports of shooting at Maryland high school</h4>
+                            </div>
+                        </a>
+                   
+                
+                    
+                        <a class="playlist-item" href="#1" data-index="1">
+                            <div class="media posterframe-wrapper">
+                                <img src="//www.mcclatchydc.com/news/nation-world/national/3rzdhu-The-blended-burger-a-new-healthy-alternative-to-the-hamburger/alternates/LANDSCAPE_200/The%20%27blended%20burger%27%20a%20new%20healthy%20alternative%20to%20the%20hamburger" alt="The 'blended burger' a new, healthier alternative to the hamburger"/>
+                                <span class="glyphicon glyphicon-play-circle"></span>
+                                <span class="duration">1:35</span>
+                            </div>
+                            <div class="media-desc">
+                                <h4 class="title video-title">The 'blended burger' a new, healthier alternative to the hamburger</h4>
+                            </div>
+                        </a>
+                   
+                
+                    
+                        <a class="playlist-item" href="#2" data-index="2">
+                            <div class="media posterframe-wrapper">
+                                <img src="//www.mcclatchydc.com/news/nation-world/national/j43qh4-Screen-Shot-2018-03-04-at-5.06.51-PM.png/alternates/LANDSCAPE_200/Screen%20Shot%202018-03-04%20at%205.06.51%20PM.png" alt="Most Americans Want More Gun Control. Why Doesn’t It Happen?"/>
+                                <span class="glyphicon glyphicon-play-circle"></span>
+                                <span class="duration">3:51</span>
+                            </div>
+                            <div class="media-desc">
+                                <h4 class="title video-title">Most Americans Want More Gun Control. Why Doesn’t It Happen?</h4>
+                            </div>
+                        </a>
+                   
+                
+            </div>
+        </div>
+    
+</div>
+
+                    
+                </div>
+                <div class="clearfix footer element_spacing_large">
+                    <p class="readmore ">
+                        <a href="/video">
+                            View More Video
+                        </a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="ad hidden-xs">
+        <div class="ad-widget" id="mn-gpt-10" adtype="default" pkg="c" data-ad-policy="onPageLoad" audience="all" atf="n" defaultsize="Large" Large="300x250" Medium="300x250" Small="300x250" Extra-Small="None" articleId="205988034"></div>
+    </div>
+    
+    
+    
+
+
+<div class="element-spacing-medium">
+    <section id="more-stories-widget" class="headline-list element_spacing_large">
+        
+            
+                <h2 class="heading link">
+                    <a href="/news/nation-world/national/">
+                        National
+                    </a>
+                </h2>
+                
+                    
+                        <article class="media">
+                            <div class="teaser">
+                                <h2 class="title">
+                                    <a href="//www.mcclatchydc.com/news/nation-world/national/article206043379.html">
+                                        On trial for causing climate change, oil companies don’t plan to deny it’s happening
+                                    </a>
+                                </h2>
+                            </div>
+                        </article>
+                    
+                
+                    
+                        <article class="media">
+                            <div class="teaser">
+                                <h2 class="title">
+                                    <a href="//www.mcclatchydc.com/news/nation-world/national/article205907034.html">
+                                        Cities want supervised injection sites to cut overdoses — risk DEA wrath
+                                    </a>
+                                </h2>
+                            </div>
+                        </article>
+                    
+                
+                    
+                        <article class="media">
+                            <div class="teaser">
+                                <h2 class="title">
+                                    <a href="//www.mcclatchydc.com/news/nation-world/national/article205890759.html">
+                                        Vulnerable House Republicans craft an immigration plan
+                                    </a>
+                                </h2>
+                            </div>
+                        </article>
+                    
+                
+                    
+                        <article class="media">
+                            <div class="teaser">
+                                <h2 class="title">
+                                    <a href="//www.mcclatchydc.com/news/nation-world/national/article205866274.html">
+                                        President Trump issues new sanctions against Venezuelan digital currency
+                                    </a>
+                                </h2>
+                            </div>
+                        </article>
+                    
+                
+                    
+                        <article class="media">
+                            <div class="teaser">
+                                <h2 class="title">
+                                    <a href="//www.mcclatchydc.com/news/nation-world/national/article205551214.html">
+                                        Do pregnancy centers run by abortion foes have to provide information about abortion?
+                                    </a>
+                                </h2>
+                            </div>
+                        </article>
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                <div class="clearfix">
+                    <div class="more-stories-link wps-stories-link">
+                        <a href="/news/nation-world/national/">
+                            National
+                        </a>
+                    </div>
+                </div>
+            
+        
+            
+        
+    </section>
+</div>
+    <div class="ad hidden-xs">
+        <div class="ad-widget" id="mn-gpt-11" adtype="default" pkg="e" data-ad-policy="onPageLoad" audience="all" atf="n" defaultsize="Large" Large="Flex Ad" Medium="Flex Ad" Small="300x250" Extra-Small="None" articleId="205988034"></div>
+    </div>
+    <div class="ad hidden-xs">
+        <div class="ad-widget" id="mn-gpt-12" adtype="default" pkg="None" data-ad-policy="onPageLoad" audience="nonsub" atf="n" defaultsize="Large" Large="300x250" Medium="300x250" Small="300x250" Extra-Small="None" oom="y"  articleId="205988034"></div>
+    </div>
+    <div class="ad hidden-xs">
+        <div class="ad-widget" id="mn-gpt-13" adtype="default" pkg="None" data-ad-policy="onPageLoad" audience="nonsub" atf="n" defaultsize="Large" Large="300x250" Medium="300x250" Small="300x250" Extra-Small="None" oom="y"  articleId="205988034"></div>
+    </div>
+</div>
+
+    </div>
+</section>
+
+<div class="container">
+    <div class="ad hidden-xs">
+        <div class="ad-widget" id="mn-gpt-14" adtype="default" pkg="None" data-ad-policy="onPageLoad" audience="all" atf="n" defaultsize="Large" Large="728x90" Medium="728x90" Small="728x90" Extra-Small="none" articleId="205988034"></div>
+    </div>
+</div>
+
+<img src="http://cdn.relaymedia.com/ping?url=%2F%2Fwww.mcclatchydc.com%2Fnews%2Fnation-world%2Fnational%2Farticle205988034.html" width="1" height="1">
+
+ <script type="text/javascript">
+  jQuery(document).ready(function () {
+    UD.updateDate.getDiffDate("1521569726", "MMMM DD, YYYY hh:mm A", "America/New_York", "en" , "-04:00");  
+  });
+</script>
+    
+
+        
+    
+<div id="footer" class="wps-footer">
+    <header id="footer-logo">
+        <div class="container text-center">
+            <a href="/" target="_top">
+                <img src="/wps/build/images/mcclatchydc/logo-sm.png" alt="McClatchy DC | McClatchyDC.com" class="img-responsive" />
+            </a>
+        </div>
+    </header>
+    <div class="container">
+        <div class="row">
+            <div id="accordion" class="panel-group">
+                <div class="panel full-width-content col-sm-6 col-md-6">
+                    <div class="panel-heading">
+                        <h2 class="heading"><a data-toggle="" data-parent="#accordion" href="#collapseOne">Subscriptions</a></h2>
+                    </div>
+                    <div id="collapseOne" class="panel-collapse collapse in">
+                        <div class="panel-body">
+                            <ul class="footer-menu">
+                                
+                                    <li><a href="http://x.email.mcclatchydc.com/ats/url.aspx?cr=663&amp;wu=20#navlink=mi_footer">Newsletters</a></li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel full-width-content col-sm-6 col-md-6">
+                    <div class="panel-heading">
+                        <h2 class="heading"><a data-toggle="" data-parent="#accordion" href="#collapseTwo">Site Information</a></h2>
+                    </div>
+                    <div id="collapseTwo" class="panel-collapse collapse in">
+                        <div class="panel-body">
+                            <ul class="footer-menu">
+                                
+                                    <li><a href="/customer-service/#navlink=mi_footer">Customer Service</a></li>
+                                
+                                    <li><a href="/customer-service/contact-us/#navlink=mi_footer">Contact Us</a></li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel full-width-content col-sm-6 col-md-6">
+                    <div class="panel-heading">
+                        <h2 class="heading"><a data-toggle="" data-parent="#accordion" href="#collapseThree">Social, Mobile &amp; More</a></h2>
+                    </div>
+                    <div id="collapseThree" class="panel-collapse collapse in">
+                        <div class="panel-body">
+                            <ul class="footer-menu">
+                                
+                                    <li><a href="http://x.email.mcclatchydc.com/ats/url.aspx?cr=663&amp;wu=42#navlink=mi_footer">Text News Alerts</a></li>
+                                
+                                    <li><a href="/mobile/#navlink=mi_footer">Mobile &amp; Apps</a></li>
+                                
+                                    <li><a href="https://itunes.apple.com/us/podcast/beyond-the-bubble/id1199102479?mt=2#navlink=mi_footer">Beyond The Bubble Podcast</a></li>
+                                
+                                    <li><a href="https://itunes.apple.com/us/podcast/acc-now-podcast/id1173645386?mt=2#navlink=mi_footer">The ACC Now Podcast</a></li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel full-width-content col-sm-6 col-md-6">
+                    <div class="panel-heading">
+                        <h2 class="heading"><a data-toggle="" data-parent="#accordion" href="#collapseFour">Advertising</a></h2>
+                    </div>
+                    <div id="collapseFour" class="panel-collapse collapse in">
+                        <div class="panel-body">
+                            <ul class="footer-menu">
+                                
+                                    <li><a href="http://www.mcclatchy.com/advertise/#navlink=mi_footer">Advertise With Us</a></li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row" id="footer-legal">
+            <div class="panel col-sm-6 col-md-3 full-width-content">
+                <div class="panel-heading">
+                    <h2 class="heading"><a data-toggle="" data-parent="#footer-legal" href="#collapseLegal">More</a></h2>
+                </div>
+                <div id="collapseLegal" class="panel-collapse collapse in">
+                    <div class="panel-body">
+                        <ul class="footer-menu-legal">
+                            
+                                <li><a href="/customer-service/copyright/#navlink=mi_footer">Copyright</a></li>
+                            
+                                <li><a href="/customer-service/privacy-policy/#navlink=mi_footer">Privacy Policy</a></li>
+                            
+                                <li><a href="/customer-service/terms-of-service/#navlink=mi_footer">Terms of Service</a></li>
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+  jQuery(document).ready(function () {
+    mi.footer.init();
+  });
+</script>
+       
+    <div id="wallpaperWrapper" style="display:none;">
+        <div class="ad-widget" id="mn-gpt-15" adtype="wallpaper" pkg="None" data-ad-policy="onPageLoad" audience="all" atf="y" defaultsize="Large" Large="1600x600" Medium="None" Small="None" Extra-Small="None" articleId="205988034"><script type='text/javascript'>initWallpaperAd(['#mn-gpt-15'], 'section[role="main"]'); createWallpaperAd();</script></div>
+    </div>
+      
+          <div id="floorboard" class="hidden-xs">
+              <div id="floorboard_outer">
+                  <div id="floorTagWrapper" style="display:none;">
+                      <div class="ad-widget" id="mn-gpt-16" adtype="floorboard" pkg="a" data-ad-policy="onPageLoad" audience="all" atf="n" defaultsize="Large" Large="285x70" Medium="285x70" Small="285x70" Extra-Small="None" articleId="205988034"></div>
+                  </div>
+              </div>
+          </div>
+      
+    
+    
+        <script type="text/javascript">
+        var optimeraEnabled = false;
+            optimeraEnabled = true;
+            var oDv = [];
+            var oVa = {};
+            mi_OptimeraTools.init('11');
+            //Do not edit
+            (function() {
+                var optimeraHost = window.location.host;
+                var optimeraPathName = window.location.pathname;
+                var optimeraScript = document.createElement('script');
+                optimeraScript.async = true;
+                optimeraScript.type = 'text/javascript';
+                rand = Math.random();
+                optimeraScript.src="https://s3.amazonaws.com/elasticbeanstalk-us-east-1-397719490216/json/client/"+oDv[0]+"/"+optimeraHost+optimeraPathName+".js?t="+rand;
+                var node = document.getElementsByTagName('script')[0];
+                node.parentNode.insertBefore(optimeraScript, node);
+                var optimeraOpsScript = document.createElement('script');
+                optimeraOpsScript.async = true;
+                optimeraOpsScript.type = 'text/javascript';
+                optimeraOpsScript.src="https://s3.amazonaws.com/elasticbeanstalk-us-east-1-397719490216/external_json/oPS.js";
+                document.head.appendChild(optimeraOpsScript);
+                var s = +new Date;
+                while (+new Date < s + 200) {/*Default 200ms Timeout*/};
+            })();
+
+            mi_Ads.env.create();
+        mi_Ads.env.init();
+        </script>
+    
+  
+
+<div id="mistatstag" style="display:none;">
+    
+        <script src="//media.mcclatchydc.com/mistats/products/escenic_s_code.js"></script>
+        <script src="//media.mcclatchydc.com/mistats/products/escenic.js"></script>
+        <script src="//media.mcclatchydc.com/mistats/finalizestats.js"></script>
+    
+</div>
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+        
+    
+
+<script type="text/javascript">
+    //<![CDATA[
+    var clientDT = new Date().getTime();
+    document.write('<img style="display:none;" src="http://ece-logger.nandomedia.com:8083/analysis-logger/Logger?rt=1&ctxId=23115&contextPath=21306-23115&pubId=57&cat=&meta=read-story&objId=205988034&type=article&title=US+to+give+%242.5M+to+assist+with+Venezuelan+refugees+stranded+across+border&url=%2F%2Fwww.mcclatchydc.com%2Fnews%2Fnation-world%2Fnational%2Farticle205988034.html&amp;clientDT=' + clientDT + '" alt="" width="1" height="1"/>');
+    //]]>
+</script>
+
+<noscript>
+    <div>
+        <img src="http://ece-logger.nandomedia.com:8083/analysis-logger/Logger?rt=1&ctxId=23115&contextPath=21306-23115&pubId=57&cat=&meta=read-story&objId=205988034&type=article&title=US+to+give+%242.5M+to+assist+with+Venezuelan+refugees+stranded+across+border&url=%2F%2Fwww.mcclatchydc.com%2Fnews%2Fnation-world%2Fnational%2Farticle205988034.html" alt="one pixel graphics" width="1" height="1"/>
+    </div>
+</noscript>
+
+
+
+
+
+        
+    
+
+
+
+
+<div class="overlay overlay-data">
+    <div id="overlayParent">
+        <div class="overlayHeading">
+            <h3 class="title"></h3>
+             
+            <div class="arrow-box"></div>
+        </div>
+        
+
+
+       
+    </div>
+    
+    <div id="backToStory">
+        <a class="backLink" href="//www.mcclatchydc.com/news/nation-world/national/article205988034.html">
+            <span class="fa glyphicon-long-arrow-left"></span>
+            <span class="back-label">Back to story</span>
+        </a>
+    </div>
+</div>
+
+
+        
+        
+    
+<script type="text/javascript">
+    var WFClientTypeDef = {
+        "extraSmall": "(max-width: 767px)",
+        "medium": "(min-width: 992px) and (max-width: 1199px)",
+        "large": "(min-width: 1200px)",
+        "small": "(min-width: 768px) and (max-width: 991px)"
+    };
+    var imageSizes = [80, 160, 200, 320, 400, 480, 560, 640, 720, 768, 960, 1080, 1140];
+</script>
+<script type="text/javascript" src="/wps/build/js/mi-footer-a49ba2503e.js"></script>
+
+
+    <script>(function(){document.addEventListener('DOMContentLoaded',function(){var b=document.querySelector('.mi-videojs.brightcoveEnabled');if(null!==b){var e = document.createElement('script');e.src = '//imasdk.googleapis.com/js/sdkloader/ima3.js',e.type='text/javascript';var c=document.createElement('script');c.src='https://ovp.iris.tv/libs/adaptive/v2/iris.adaptive.js',c.type='text/javascript';var d=document.createElement('script');d.src='/wps/build/brightcoveVideo.bundle-1abc14f7e59809c7420f.js',d.type='text/javascript';document.body.appendChild(c),document.body.appendChild(d),document.body.appendChild(e)}})})()</script>
+
+
+
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 968074018;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/968074018/?value=0&guid=ON&script=0"/>
+        </div>
+    </noscript>
+
+
+    <!-- Start MdotLabs Tag -->
+<div class="mlabs_container">
+    <script src="https://tags.mdotlabs.com/tracking.php?siteID=e8AJ" async></script>
+</div>
+<!-- End MdotLabs Tag -->
+
+
+
+
+
+    <script type="text/javascript">
+        mi.pageInfo.setConf("chartbeat.uid", 62447);
+    </script>
+
+<script src="/wps/source/scripts/libs/md5.min.js"></script>
+<script type="text/javascript">
+    var nextbee = {
+        user_cookie: undefined,
+        user_email: undefined,
+        nextbee_host: "",
+        nextbee_campaign: "",
+        nextbee_client: "",
+        API_AUTHORIZATION_KEY: 'DECGCFCFHEACGCDBIBGZ158469415068700193Y!n-868654787',
+        ENCRYPTION_KEY: '0.9240762',
+
+        credit_read_story: function() {
+            this.post_to_nextbee("");
+        },
+
+        credit_watch_video: function() {
+            this.post_to_nextbee("");
+        },
+
+        credit_share_articles: function(id, url) {
+            this.post_to_nextbee(id, url);
+        },
+
+        initialize: function() {
+            this.user_cookie = checkUserSubscribed('MPPUser');
+            if (this.user_cookie) {
+                var cookie_json = JSON.parse(this.user_cookie);
+                if (cookie_json) {
+                    this.user_email = cookie_json.NextBeeEmail;
+                }
+            }
+            
+                this.credit_read_story();
+            
+        },
+
+        required_values_present: function (widget_id) {
+            return this.user_cookie && this.user_email &&
+                   this.nextbee_host && this.nextbee_client && this.nextbee_campaign &&
+                   widget_id;
+        },
+
+        post_to_nextbee: function (widget_id, href) {
+            if (this.required_values_present(widget_id)) {
+                var nextbee_url = ['https://' + this.nextbee_host, 'nextbeeapis',
+                    this.nextbee_client, this.nextbee_campaign, 'Event'].join('/') +
+                    '?email=' + encodeURIComponent(this.user_email) +
+                    '&widget_config_id=' + widget_id;
+                var timestamp_key = Math.floor(Date.now()).toString();
+                var api_call_signature = md5(this.API_AUTHORIZATION_KEY +
+                    this.ENCRYPTION_KEY + timestamp_key);
+
+                console.log("NextBee URL: " + nextbee_url +
+                    "\nAuth. Key: " + this.API_AUTHORIZATION_KEY +
+                    "\nEnc. Key:  " + this.ENCRYPTION_KEY +
+                    "\nTimestamp: " + timestamp_key +
+                    "\nSignature: " + api_call_signature);
+
+                $.ajax( { url: nextbee_url, type: 'post', headers: {
+                    'ts-key': timestamp_key,
+                    'api-call-signature': api_call_signature,
+                    'cache-control': 'no-cache',
+                    'content-type': 'application/json',
+                    },
+                    complete: function(data) {
+                        if(href)
+                        {
+                            window.location.href = href;
+                        }
+                        console.log("NextBee API response: " + data.responseText);
+                    }
+                } );
+            }
+        }
+    };
+
+    $(function(){
+        nextbee.initialize();
+    });
+</script>
+
+
+
+<!-- Start Lotame Tag -->
+    <script src="//tags.crwdcntrl.net/c/7871/cc.js?ns=_cc7871" id="LOTCC_7871"></script>
+    <script>_cc7871.bcp();</script>
+<!-- End Lotame Tag -->
+
+
+
+
+    </body>
+</html>

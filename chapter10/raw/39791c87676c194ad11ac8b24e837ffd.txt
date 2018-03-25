@@ -1,0 +1,742 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+.ntv-mw .socialContainer.twoCol {
+  position:relative !important;
+}
+</style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<link rel="icon" type="image/png" href="../../dist/assets/icons/favicon.ico">
+<link href="../../dist/assets/icons/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="../../dist/assets/icons/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="../../dist/assets/icons/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="../../dist/assets/icons/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+<link href="../../dist/assets/icons/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
+<link href="../../dist/assets/icons/icon-hires.png" rel="icon" sizes="192x192" />
+<link href="../../dist/assets/icons/icon-normal.png" rel="icon" sizes="128x128" />
+<link rel="stylesheet" type="text/css" href="/dist/css_1521016599896/main.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<script type="text/javascript" src="/dist/bower_components/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular/angular.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular-animate/angular-animate.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular-touch/angular-touch.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular-ui/build/angular-ui.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/toastr/toastr.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/waypoints/lib/jquery.waypoints.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/waypoints/lib/shortcuts/sticky.min.js"></script>
+<script type="text/javascript"
+        src="/dist/bower_components/angular-ui-router/release/angular-ui-router.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/moment/min/moment.min.js"></script>
+<script type='text/javascript' src='../../dist/assets/js/ng-infinite-scroll.js'></script>
+<meta property="al:ios:app_name" content="ap-news-app">
+<meta property="al:ios:app_store_id" content="364677107">
+
+<meta name="ap-news-app" content="app-id=364677107, app-argument=https://www.apnews.com/3d7d35b8f9344d9bbc99d8870031cc03/UK%27s-info-chief-looking-into-Cambridge-Analytica,-Facebook">
+<meta property="fb:pages" content="249655421622"/>
+
+<meta name="referrer" content="origin">
+<meta name="google-site-verification" content="LJ7vk4czBDDGQtqBLAiY_a9dcLP5v9X-sLlrYaW5kbM" />
+
+<script type="text/javascript">
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 11689; // ACCOUNT NUMBER
+    _sf_async_config.domain = 'apnews.com'; // DOMAIN
+    _sf_async_config.flickerControl = false;
+    _sf_async_config.useCanonical = true;
+    /** CONFIGURATION END **/
+    var _sf_startpt = (new Date()).getTime();
+</script>
+<script async src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+<script type='text/javascript'>
+    var environment_type = 'PRODUCTION';
+
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function () {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script>
+
+<!-- Branch WEB SDK
+    TODO: Implement deeplinks and Journeys
+-->
+<script type="text/javascript">
+  (function(b,r,a,n,c,h,_,s,d,k){if(!b[n]||!b[n]._q){for(;s<_.length;)c(h,_[s++]);d=r.createElement(a);d.async=1;d.src="https://cdn.branch.io/branch-latest.min.js";k=r.getElementsByTagName(a)[0];k.parentNode.insertBefore(d,k);b[n]=h}})(window,document,"script","branch",function(b,r){b[r]=function(){b._q.push([r,arguments])}},{_q:[],_v:1},"addListener applyCode banner closeBanner creditHistory credits data deepview deepviewCta first getCode init link logout redeem referrals removeListener sendSMS setBranchViewData setIdentity track validateCode".split(" "), 0);
+
+    branch.init('key_live_ndufC8VAc2V3dnaX3lenvdhkvAc3rs4S', function(err, data) {
+    });
+</script>
+
+    <script type="text/javascript" src="../../dist/assets/js/jquery.mobile.min.js"></script>
+    <script type="text/javascript" src="../../dist/assets/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../../dist/assets/js/smartquotes.js"></script>
+    <script>smartquotes()</script>
+
+    <!-- APNews app tags -->
+    <meta property="al:ios:url" content="apnews://3d7d35b8f9344d9bbc99d8870031cc03">
+    <!-- video js -->
+    <link href="//vjs.zencdn.net/5.3/video-js.min.css" rel="stylesheet">
+    <!--<link rel="stylesheet" href="../../dist/assets/js/videojs.ads.css"/>
+    <link rel="stylesheet" href="../../dist/assets/js/videojs.ima.css"/>-->
+    <title>Zuckerberg asked to testify; data firm&#39;s CEO suspended</title>
+    <meta id="adMetaTags" name="keywords" content="AP Top News,Technology,Elections,North America,International News,Business,Europe,Donald Trump"/>
+    <meta name="description" content="
+              LONDON (AP) — The head of Trump-affiliated data-mining firm Cambridge Analytica has been suspended, while government authorities are bearing down on both the firm and Facebook ove"/>
+    <link rel="canonical" href="https://www.apnews.com/3d7d35b8f9344d9bbc99d8870031cc03"/>
+    <link rel="amphtml" href="https://www.apnews.com/amp/3d7d35b8f9344d9bbc99d8870031cc03">
+
+    <!-- OG Tags -->
+    <meta property="og:url" content="https://www.apnews.com/3d7d35b8f9344d9bbc99d8870031cc03/UK%27s-info-chief-looking-into-Cambridge-Analytica,-Facebook"/>
+    <meta property="og:image" content="https://storage.googleapis.com/afs-prod/media/media:2cdf32ddb0ae49d79ca9e66bd7626f1d/800.jpeg"/>
+    <meta property="og:image:width" content="800"/>
+    <meta property="og:image:height" content="600"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:title" content="Zuckerberg asked to testify; data firm&#39;s CEO suspended"/>
+    <meta property="og:site_name" content="AP News"/>
+    <meta property="fb:app_id" content="870613919693099"/>
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:description" content="
+              LONDON (AP) — The head of Trump-affiliated data-mining firm Cambridge Analytica has been suspended, while government authorities are bearing down on both the firm and Facebook ove"/>
+    <meta property="article:publisher" content="https://www.facebook.com/APNews"/>
+
+    <!-- Twitter Card tags -->
+    <meta property="twitter:card" content="summary_large_image"/>
+    <meta property="twitter:site" content="@ap"/>
+    <meta property="twitter:title" content="Zuckerberg asked to testify; data firm&#39;s CEO suspended"/>
+    <meta property="twitter:description" content="
+              LONDON (AP) — The head of Trump-affiliated data-mining firm Cambridge Analytica has been suspended, while government authorities are bearing down on both the firm and Facebook ove"/>
+    <meta property="twitter:image" content="https://storage.googleapis.com/afs-prod/media/media:2cdf32ddb0ae49d79ca9e66bd7626f1d/800.jpeg"/>
+    <meta property="twitter:url" content=" https://www.apnews.com/3d7d35b8f9344d9bbc99d8870031cc03"/>
+    <meta name="twitter:image:alt" content="https://storage.googleapis.com/afs-prod/media/media:2cdf32ddb0ae49d79ca9e66bd7626f1d/800.jpeg"/>
+
+    <!-- AppNexus -->
+    <script src="https://acdn.adnxs.com/prebid/c/7403/pb.js" async=true></script>
+    <script>
+        var googletag = googletag || {};
+
+        googletag.cmd = googletag.cmd || [];
+        googletag.cmd.push(function () {
+          googletag.pubads().disableInitialLoad();
+        });
+    </script>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push(
+                {article: 'auto'}
+        );
+        !function (e, f, u) {
+            e.async = 1;
+            e.src = u;
+            f.parentNode.insertBefore(e, f);
+        }(document.createElement('script'),
+                document.getElementsByTagName('script')[0],
+                '//cdn.taboola.com/libtrc/associatedpress-apnews/loader.js');
+    </script>
+    <script type='text/javascript'>
+      googletag.cmd.push(function(){
+        var isSticked = false;
+        var bottomAdPos;
+        googletag.pubads().addEventListener('slotRenderEnded', function (event) {
+            if (event.slot.getSlotElementId() === "div-gpt-ad-1461247613791-1") {
+              var bottomAd = $("#bottomAd");
+              bottomAdPos = bottomAd.position().top;
+              var articleContent = $("#articleContent");
+              var rightRail = $(".rightRail");
+              $(window).scroll(function() {
+                  var windowPos = $(window).scrollTop();
+                  if (windowPos >=  bottomAd.position().top + bottomAd.height()){
+                      if(!isSticked){
+                        bottomAdPos = bottomAd.position().top;
+                        isSticked = true;
+                      }
+                      bottomAd.addClass("stickBottomAd");
+                  }
+                  if(windowPos < bottomAdPos){
+                      bottomAd.removeClass("stickBottomAd");
+                  }
+              });
+             }
+         });
+        googletag.defineSlot('/15786418/APNews/site/article/rectangle1', [[300, 250], [300, 600]], 'div-gpt-ad-1461247613791-1').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        googletag.defineSlot('/15786418/APNews/site/article/rectangle2', [300, 250], 'div-gpt-ad-1461247613791-2').addService(googletag.pubads());
+      });
+    </script>
+
+    <base href="/">
+    <script type="text/javascript">
+      $(document).ready(function(){
+        var imageClassList = $('.articleImage').prop('classList');
+        if(jQuery.inArray('tallImage',imageClassList) != -1){
+          $('.articleBody .ad-placeholder:nth(0)').remove();
+        }
+        $('a').on('click', function(){
+            ga('send',{
+                hitType: 'event',
+                eventCategory: 'StoryLink',
+                eventAction: 'LinkOpened',
+                eventLabel: $(this).href
+            });
+        });
+      });
+    </script>
+    <script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-19104461-33', 'auto');
+        ga('set', {
+            'dimension1': '3d7d35b8f9344d9bbc99d8870031cc03',
+            'dimension4': "Zuckerberg asked to testify; data firm's CEO suspended",
+            'dimension8': '',
+            'dimension11'   : 'NO'
+        });
+        ga('send', 'pageview');
+
+    </script>
+
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.apnews.com/3d7d35b8f9344d9bbc99d8870031cc03"
+        },
+        "headline": "Zuckerberg asked to testify; data firm&#39;s CEO suspended",
+        "image":{
+            "@type": "ImageObject",
+            "url": "https://storage.googleapis.com/afs-prod/media/media:2cdf32ddb0ae49d79ca9e66bd7626f1d/800.jpeg",
+            "height": "516",
+            "width": "800"
+        },
+        "datePublished": "2018-03-20 23:38:12",
+        "dateModified": "2018-03-20 23:38:12",
+        "author": {
+            "@type": "Person",
+            "name": "By DANICA KIRKA and GREGORY KATZ"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Associated Press",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "http://apcontextual.appspot.com/Support/AMPLogo.png",
+              "width": 600,
+              "height": 60
+            }
+        },
+        "description": ""
+      }
+
+
+    </script>
+
+</head>
+<body ng-app="articleContent" style="background-color: white">
+<script type="text/javascript" src="../../dist/assets/js/socialMedia.js"></script>
+
+<!-- Modal -->
+<div id="imageModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="closeContentModalButton">
+                    <a type="button" data-dismiss="modal">&times;</a>
+                </div>
+            </div>
+            <div class="modal-body">
+                <div id="imageCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner" role="listbox">
+                        
+                        <div class="item  active ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:2cdf32ddb0ae49d79ca9e66bd7626f1d/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              Chief Executive of Cambridge Analytica (CA) Alexander Nix, leaves the offices in central London, Tuesday March 20, 2018.  Cambridge Analytica, has been accused of improperly using information from more than 50 million Facebook accounts. It denies wrongdoing. (Dominic Lipinski/PA via AP)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:4125ec6d0cc441f09ce7779eaa939b75/800.jpeg" alt="Facebook">
+                            <div class="carousel-caption">
+                                
+              <p>
+              FILE - In this March 15, 2013, file photo, a Facebook employee walks past a sign at Facebook headquarters in Menlo Park, Calif. The San Jose Mercury News reports Saturday, March 17, 2018 that building permits compiled by Buildzoom show Facebook plans to erect the 465,000 square-foot (43,200 square-meter) building at its campus in Menlo Park, Calif. (AP Photo/Jeff Chiu, File)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:f007988017804da992a4f7ff5d989947/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              The offices of Cambridge Analytica (CA) in central London, after it was announced that Britain's information commissioner Elizabeth Denham is pursuing a warrant to search Cambridge Analytica's computer servers, Tuesday March 20, 2018.  Denham said Tuesday that she is using all her legal powers to investigate Facebook and political campaign consultants Cambridge Analytica over the alleged misuse of millions of people's data. Cambridge Analytica said it is committed to helping the U.K. investigation. (Kirsty O'Connor/PA via AP)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                    </div>
+
+                    <!-- Left and right controls -->
+                    
+                    <a class="left carousel-control" href="#imageCarousel" role="button" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"><div class="sr-only carousel-round"> <svg class="carousel-arrow" viewBox="0 0 100 100"><path d="M 25,50 L 60,85 L 65,80 L 35,50  L 65,20 L 60,15 Z" class="arrow"></path></svg> </div></span>
+                    </a>
+                    <a class="right carousel-control" href="#imageCarousel" role="button" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"><div class="sr-only carousel-round"> <svg class="carousel-arrow" viewBox="0 0 100 100"><path d="M 25,50 L 60,85 L 65,80 L 35,50  L 65,20 L 60,15 Z" class="arrow" transform="translate(100, 100) rotate(180) "></path></svg> </div></span>
+                    </a>
+
+                    <ol class="carousel-indicators">
+                        
+                        <li data-target="#imageCarousel" data-slide-to="0" 
+                            class="active" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="1" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="2" ></li>
+                        
+                    </ol>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div page-header></div>
+
+
+<div class="articleView" >
+    <div class="articleContentContainer">
+        <div class="sideRail leftRail" >
+            <div class="fullscreen">
+                <div>
+                    <h4>By DANICA KIRKA and GREGORY KATZ</h4>
+                </div>
+                <div>
+                    <h4 class="updatedString">Yesterday</h4>
+                </div>
+            </div>
+            <div class="outerShareContainer">
+                <!--share-container is Angular directive, search for 'searchContainer'-->
+<!--fbShare, tweet and deeplink are handled by jQuery, search for file socialMedia.js-->
+<div class="fbShare socialIcons" data-url="https://www.apnews.com/3d7d35b8f9344d9bbc99d8870031cc03/UK%27s-info-chief-looking-into-Cambridge-Analytica,-Facebook" data-title="Zuckerberg asked to testify; data firm&#39;s CEO suspended" data-image="https://storage.googleapis.com/afs-prod/media/media:2cdf32ddb0ae49d79ca9e66bd7626f1d/800.jpeg"
+     data-member="" data-id="urn:publicid:ap.org:3d7d35b8f9344d9bbc99d8870031cc03" data-cardType="">
+    <img src="../../dist/assets/icons/facebook-share.png" class="shareIcon"/>
+</div>
+<div class="tweet socialIcons" data-title="Zuckerberg asked to testify; data firm&#39;s CEO suspended" data-url="https://www.apnews.com/3d7d35b8f9344d9bbc99d8870031cc03"
+     data-member="" data-id="urn:publicid:ap.org:3d7d35b8f9344d9bbc99d8870031cc03" data-cardType="">
+    <img src="../../dist/assets/icons/twitter-share.png" class="shareIcon"/>
+</div>
+<div id="mailTo" class="socialIcons" data-url="https://www.apnews.com/3d7d35b8f9344d9bbc99d8870031cc03" data-member=""
+     data-id="urn:publicid:ap.org:3d7d35b8f9344d9bbc99d8870031cc03" data-cardType="">
+    <img src="../../dist/assets/icons/email.png" class="shareIcon"/>
+</div>
+<div class="deeplink socialIcons" data-url="https://www.apnews.com/3d7d35b8f9344d9bbc99d8870031cc03">
+    <img  class="deeplink-image" src="../../dist/assets/icons/permalink-field.jpg"/>
+    <span class="deeplink-text">https://www.apnews.com/3d7d35b8f9344d9bbc99d8870031cc03</span>
+    <div class="deeplink-hint">Link copied!</div>
+</div>
+<div share-container name="Zuckerberg asked to testify; data firm&#39;s CEO suspended" is-share="false" url="https://www.apnews.com/3d7d35b8f9344d9bbc99d8870031cc03" id="urn:publicid:ap.org:3d7d35b8f9344d9bbc99d8870031cc03" short-id="3d7d35b8f9344d9bbc99d8870031cc03" type="content" page="card"
+     card-type="" card-title="Zuckerberg asked to testify; data firm&#39;s CEO suspended" member-name=""></div>
+            </div>
+
+            <div class="leftRailTags leftRailTitle">
+                <h4>RELATED TOPICS</h4>
+                <ul>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/apf-technology">Technology</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/Elections">Elections</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/apf-NorthAmerica">North America</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/apf-intlnews">International News</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/apf-business">Business</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/apf-europe">Europe</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/DonaldTrump">Donald Trump</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <div>
+                <span class="leftRailTitle">More from</span><br/>
+                <a href="/tag/apf-topnews"><span class="moreFrom">AP Top News</span></a>
+            </div>
+        </div>
+
+        
+        <div class="articleContent" id="articleContent">
+            <div class="dtTitle">
+                <ul class="topTags">
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-technology">Technology</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/Elections">Elections</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-NorthAmerica">North America</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-intlnews">International News</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-business">Business</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-europe">Europe</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/DonaldTrump">Donald Trump</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-topnews">AP Top News</a>
+                    </li>
+                </ul>
+                <div class="dtTitleContainer">
+                    <h1 class="topTitle">Zuckerberg asked to testify; data firm&#39;s CEO suspended</h1>
+                </div>
+            </div>
+            
+            <div class=" articleImage modalImageButton  ">
+                <div class="articleIcons">
+                    
+                    <button data-toggle="modal" class="modalImageButton"><img
+                            src="../../dist/assets/icons/slideshow-story-view.png" class="articleIcon"></button>
+                    
+                    
+                </div>
+                <img class="afkl-lazy-image primaryImage" src="https://storage.googleapis.com/afs-prod/media/media:2cdf32ddb0ae49d79ca9e66bd7626f1d/800.jpeg"><!--src="https://storage.googleapis.com/afs-prod/media/media:2cdf32ddb0ae49d79ca9e66bd7626f1d/800.jpeg"-->
+            </div>
+            
+            <script>
+            </script>
+            <article id="contentArea"
+                     class="    ">
+                
+                <div class="mobileTitle">
+                    <ul style="padding: 0">
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-technology">Technology</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Elections">Elections</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-NorthAmerica">North America</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-intlnews">International News</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-business">Business</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-europe">Europe</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/DonaldTrump">Donald Trump</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-topnews">AP Top News</a>
+                        </li>
+                    </ul>
+                    <h3>Zuckerberg asked to testify; data firm&#39;s CEO suspended</h3>
+                </div>
+                
+                <div class="tabletTitle">
+                    <ul style="padding: 0">
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-technology">Technology</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Elections">Elections</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-NorthAmerica">North America</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-intlnews">International News</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-business">Business</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-europe">Europe</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/DonaldTrump">Donald Trump</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-topnews">AP Top News</a>
+                        </li>
+                    </ul>
+                    <h3>Zuckerberg asked to testify; data firm&#39;s CEO suspended</h3>
+                </div>
+                <div class="mobile">
+                    <div>
+                        <h6>By DANICA KIRKA and GREGORY KATZ</h6>
+                    </div>
+                    <div>
+                        <h6>Yesterday</h6>
+                    </div>
+
+                </div>
+                <div class="mobile mobileShareTemplate">
+                    <!--share-container is Angular directive, search for 'searchContainer'-->
+<!--fbShare, tweet and deeplink are handled by jQuery, search for file socialMedia.js-->
+<div class="fbShare socialIcons" data-url="https://www.apnews.com/3d7d35b8f9344d9bbc99d8870031cc03/UK%27s-info-chief-looking-into-Cambridge-Analytica,-Facebook" data-title="Zuckerberg asked to testify; data firm&#39;s CEO suspended" data-image="https://storage.googleapis.com/afs-prod/media/media:2cdf32ddb0ae49d79ca9e66bd7626f1d/800.jpeg"
+     data-member="" data-id="urn:publicid:ap.org:3d7d35b8f9344d9bbc99d8870031cc03" data-cardType="">
+    <img src="../../dist/assets/icons/facebook-share.png" class="shareIcon"/>
+</div>
+<div class="tweet socialIcons" data-title="Zuckerberg asked to testify; data firm&#39;s CEO suspended" data-url="https://www.apnews.com/3d7d35b8f9344d9bbc99d8870031cc03"
+     data-member="" data-id="urn:publicid:ap.org:3d7d35b8f9344d9bbc99d8870031cc03" data-cardType="">
+    <img src="../../dist/assets/icons/twitter-share.png" class="shareIcon"/>
+</div>
+<div id="mailTo" class="socialIcons" data-url="https://www.apnews.com/3d7d35b8f9344d9bbc99d8870031cc03" data-member=""
+     data-id="urn:publicid:ap.org:3d7d35b8f9344d9bbc99d8870031cc03" data-cardType="">
+    <img src="../../dist/assets/icons/email.png" class="shareIcon"/>
+</div>
+<div class="deeplink socialIcons" data-url="https://www.apnews.com/3d7d35b8f9344d9bbc99d8870031cc03">
+    <img  class="deeplink-image" src="../../dist/assets/icons/permalink-field.jpg"/>
+    <span class="deeplink-text">https://www.apnews.com/3d7d35b8f9344d9bbc99d8870031cc03</span>
+    <div class="deeplink-hint">Link copied!</div>
+</div>
+<div share-container name="Zuckerberg asked to testify; data firm&#39;s CEO suspended" is-share="false" url="https://www.apnews.com/3d7d35b8f9344d9bbc99d8870031cc03" id="urn:publicid:ap.org:3d7d35b8f9344d9bbc99d8870031cc03" short-id="3d7d35b8f9344d9bbc99d8870031cc03" type="content" page="card"
+     card-type="" card-title="Zuckerberg asked to testify; data firm&#39;s CEO suspended" member-name=""></div>
+                </div>
+                <div class="articleBody" mark-urls>
+                    
+<p>LONDON (AP) &#8212; The head of Trump-affiliated data-mining firm Cambridge Analytica has been suspended, while government authorities are bearing down on both the firm and Facebook over allegations the firm stole data from 50 million Facebook users to manipulate elections.</p>
+<p>Cambridge's board of directors suspended CEO Alexander Nix pending an investigation after Nix boasted of various unsavory services to an undercover reporter for Britain's Channel 4 News.</p>
+<p>Channel 4 News broadcast clips Tuesday that also show Nix saying his data-mining firm played a major role in securing Donald Trump's victory in the 2016 presidential elections.</p><div class="ad-placeholder"></div>
+<p>Nix said the firm handled "all the data, all the analytics, all the targeting" and said Cambridge used emails with a "self-destruct timer" to make its role more difficult to trace.</p>
+<p>"There's no evidence, there's no paper trail, there's nothing," he said.</p>
+<p>In a statement, Cambridge's board said Nix's comments "do not represent the values or operations of the firm and his suspension reflects the seriousness with which we view this violation."</p>
+<p>Cambridge has denied wrongdoing, and Trump's campaign has said it didn't use Cambridge's data.</p>
+<p>Facebook also drew continued criticism for its alleged inaction to protect users' privacy. Earlier Tuesday, the chairman of the U.K. parliamentary media committee, Damian Collins, said his group has repeatedly asked Facebook how it uses data. He said Facebook officials "have been misleading to the committee."</p>
+<p>The committee summoned Facebook CEO Mark Zuckerberg to testify.</p>
+<p>"It is now time to hear from a senior Facebook executive with the sufficient authority to give an accurate account of this catastrophic failure of process," Collins wrote Zuckerberg. "Given your commitment at the start of the New Year to 'fixing' Facebook, I hope that this representative will be you."</p>
+<p>Leading Democrats in the U.S. Senate also called on Zuckerberg to testify. Sen. Dianne Feinstein of California, the top Democrat on the Senate Judiciary Committee, called Facebook's latest privacy scandal a "danger signal." She wants Zuckerberg's assurances that Facebook is prepared to take the lead on security measures that protect people's privacy &#8212; or Congress may step in.</p>
+<p>Facebook sidestepped questions on whether Zuckerberg would appear, saying instead that it's currently focused on conducting its own reviews.</p><div class="ad-placeholder"></div>
+<p>The request to appear comes as Britain's information commissioner said she was using all her legal powers to investigate the social-media giant and Cambridge Analytica.</p>
+<p>Commissioner Elizabeth Denham is pursuing a warrant to search Cambridge Analytica's servers. She has also asked Facebook to cease its own audit of Cambridge Analytica's data use.</p>
+<p>"Our advice to Facebook is to back away and let us go in and do our work," she said.</p>
+<p>Facebook has weathered many such blow-ups before and is used to apologizing and moving on. But the stakes are bigger this time. The latest scandal has <a href="https://apnews.com/18ecd2abaa334adcaabb9ea79c542a73">some people reconsidering their relationship</a> status with the social network, though there isn't much of anywhere else to go.</p>
+<p>Cambridge Analytica said it is committed to helping the U.K. investigation. However, Denham's office said the firm failed to meet a deadline to produce the information requested.</p>
+<p>Denham said the prime allegation against Cambridge Analytica is that it acquired personal data in an unauthorized way, adding that the data provisions act requires services like Facebook to have strong safeguards against misuse of data.</p>
+<p>Chris Wylie, who once worked for Cambridge Analytica, was quoted as saying the company used the data to build psychological profiles so voters could be targeted with ads and stories.</p>
+<p>Wylie has agreed to be interviewed by Democrats on the U.S. House Intelligence Committee. A date has not been set, and it's unclear if Republicans on the panel will attend.</p>
+<p>On Tuesday, Wylie said he found Facebook's reaction to the revelations bizarre. He told an audience at the Frontline Club in London that before the story broke, Facebook had agreed to work with him to improve its platform. But he said he was blindsided on Friday with a news release that identified him as a suspect in the case.</p>
+<p>Cambridge Analytica found itself in further allegations of wrongdoing. Britain's Channel 4 used an undercover investigation to record Nix saying that the company could use unorthodox methods to wage successful political campaigns for clients.</p>
+<p>In footage released Monday, Nix said the company could "send some girls" around to a rival candidate's house, suggesting that girls from Ukraine are beautiful and effective in this role.</p>
+<p>He also said the company could "offer a large amount of money" to a rival candidate and have the whole exchange recorded so it could be posted on the internet to show that the candidate was corrupt.</p>
+<p>Nix says in a statement that he deeply regrets his role in the meeting and has apologized to staff.</p>
+<p>"I am aware how this looks, but it is simply not the case," he said. "I must emphatically state that Cambridge Analytica does not condone or engage in entrapment, bribes or so-called 'honeytraps', and nor does it use untrue material for any purposes."</p>
+<p>Nix told the BBC that the Channel 4 sting was "intended to embarrass us".</p>
+<p>"We see this as a coordinated attack by the media that's been going on for very, very many months in order to damage the company that had some involvement with the election of Donald Trump," he said.</p>
+<p>The data harvesting used by Cambridge Analytica has also triggered calls for further investigation from the European Union, as well as federal and state officials in the United States.</p>
+<p>On Tuesday, a dozen consumer-advocacy organizations pressed the Federal Trade Commission in the U.S. to investigate whether the release of data violated an agreement Facebook signed with the FTC in 2011 offering privacy assurances.</p>
+<p>The move comes after Bloomberg News first reported the FTC could already be investigating. The FTC hasn't confirmed the investigation but said it takes "any allegations of violations of our consent decrees very seriously."</p>
+<p>___</p>
+<p>AP Technology Writers Mae Anderson and Anick Jesdanun in New York and AP writers Mary Clare Jalonick and Richard Lardner in Washington contributed to this story.</p>
+
+                </div>
+            </article>
+            
+            <div class="taboolaContainer" id="taboolaContainer">
+                <div id="taboola-below-article-text-links"></div>
+                <div id="taboola-below-article-thumbnails-2nd"></div>
+                <div id="taboola-below-article-thumbnails"></div>
+            </div>
+        </div>
+        
+        <div class="sideRail rightRail">
+            <div class="adUnit" id="div-gpt-ad-1461247613791-2">
+            </div>
+            <script type='text/javascript'>
+                googletag.cmd.push(function () {
+                    googletag.display('div-gpt-ad-1461247613791-2');
+                });
+            </script>
+            <div class="rightRailContent" side-feed tag-id="apf-topnews" content-id="3d7d35b8f9344d9bbc99d8870031cc03">
+            </div>
+            <div class="bottomAd" id="bottomAd">
+                <div class="feedAd" id="div-gpt-ad-1461247613791-1">
+                </div>
+            </div>
+            <script type='text/javascript'>
+                googletag.cmd.push(function () {
+                    googletag.display('div-gpt-ad-1461247613791-1');
+                });
+            </script>
+        </div>
+        
+
+
+    </div>
+    <div page-footer></div>
+</div>
+<script type="application/javascript" src="/dist/articleContent_1521016612264.js"></script> 
+<script type="application/javascript" src="/dist/contentTemplates_1521016624504/templates.js"></script>
+<script src="//vjs.zencdn.net/5.3/video.min.js"></script>
+<script type="text/javascript" src="//imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
+<script src="../../dist/assets/js/videojs.ads.js"></script>
+<script src="../../dist/assets/js/videojs.ima.js"></script>
+<script type="application/javascript" src="/dist/articleManager_1521016612264.js"></script> 
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push(
+            {flush: true}
+    );
+</script>
+
+<script type="text/javascript">
+    $(function () {
+        window._taboola = window._taboola || [];
+        _taboola.push(
+                {
+                    mode: 'thumbnails-a',
+                    container: 'taboola-below-article-thumbnails',
+                    placement: 'Below Article Thumbnails',
+                    target_type: 'mix'
+                }
+        );
+        _taboola.push(
+            {
+                mode: 'organic-thumbnails-a',
+                container: 'taboola-below-article-thumbnails-2nd',
+                placement: 'Below Article Thumbnails 2nd',
+                target_type: 'mix'
+            }
+        );
+        _taboola.push(
+            {
+                mode: 'organic-text-links-a',
+                container: 'taboola-below-article-text-links',
+                placement: 'Below Article Text Links',
+                target_type: 'mix'
+            }
+        );
+    });
+</script>
+<!-- Twitter universal website tag code -->
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">twttr.conversion.trackPid('nv0fp',
+        {tw_sale_amount: 0, tw_order_quantity: 0}
+);</script>
+<noscript>
+    <img height="1" width="1" style="display:none;" alt=""
+         src="https://analytics.twitter.com/i/adsct?txn_id=nv0fp&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0"/>
+    <img height="1" width="1" style="display:none;" alt=""
+         src="//t.co/i/adsct?txn_id=nv0fp&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0"/>
+</noscript>
+<!-- End Twitter universal website tag code -->
+<input id="hiddenTitle" type="hidden" value="Zuckerberg asked to testify; data firm&#39;s CEO suspended">
+<input type="hidden" value="None" id="userAccount">
+<input type="hidden" value="None" id="userToken">
+<input type="hidden" value="https://afs-prod.appspot.com" id="baseAFS">
+<input type="hidden" value="https://storage.googleapis.com/afs-prod/" id="baseGCS">
+<input type="hidden" value="31.230416,121.473701" id="latLong">
+<input type="hidden" value="31" id="region">
+<input type="hidden" value="shanghai" id="city">
+<input type="hidden" value="CN" id="country">
+
+<script type='text/javascript'>
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.sections = 'Topnews, Technology, Northamerica, Intlnews, Business, Europe';
+    _sf_async_config.authors = 'By DANICA KIRKA and GREGORY KATZ';
+    _sf_async_config.alias = window.location.href;
+
+    /** CONFIGURATION END **/
+    (function() {
+      function loadChartbeat() {
+          window._sf_endpt = (new Date()).getTime();
+          var e = document.createElement('script');
+          e.setAttribute('language', 'javascript');
+          e.setAttribute('type', 'text/javascript');
+          e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+          document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+          loadChartbeat : function() {
+              oldonload();
+              loadChartbeat();
+          };
+
+      })();
+  </script>
+</body>
+</html>

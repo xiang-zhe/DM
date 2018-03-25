@@ -1,0 +1,774 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html lang="" class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]--><!--[if IE 7]><html lang="" class="no-js lt-ie9 lt-ie8"><![endif]--><!--[if IE 8]><html lang="" class="no-js lt-ie9"><![endif]--><!--[if IE 9]><html lang="" class="no-js ie9"><![endif]--><!--[if IE]><![if (gt IE 9)|!(IE)]><![endif]--><html lang="" class="no-js">
+<!--[if IE]><![endif]><![endif]--><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Israel Investigating Facebook Over Cambridge Analytica – The Forward</title>
+<meta name="description" content="Israel’s Justice Ministry has opened an investigation into Facebook amid reports of the transfer of users’ data to Cambridge Analytica.">
+<meta property="og:site_name" content="The Forward">
+<meta property="og:title" content="Israel Opens Investigation Into Facebook Over Cambridge Analytica Breach">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://forward.com/fast-forward/397270/israel-opens-investigation-into-facebook-over-cambridge-analytica-breach/">
+<meta property="og:image" content="https://s3.amazonaws.com/assets.forward.com/images/cropped/b-hebrewfacebook-060911-1425666859.jpg">
+<meta property="twitter:image" content="https://s3.amazonaws.com/assets.forward.com/images/cropped/b-hebrewfacebook-060911-1425666859.jpg">
+<meta property="fb:app_id" content="186464554784446">
+<meta property="og:description" content="Cambridge Analytica, a company launched by Stephen Bannon, is alleged to have improperly received data on potential voters from an app developer.">
+<meta property="fb:pages" content="39846147446">
+<meta property="twitter:site" content="@jdforward">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:title" content="Israel Opens Investigation Into Facebook Over Cambridge Analytica Breach">
+<meta property="twitter:description" content="Cambridge Analytica, a company launched by Stephen Bannon, is alleged to have improperly received data on potential voters from an app developer.">
+<meta property="twitter:url" content="https://forward.com/fast-forward/397270/israel-opens-investigation-into-facebook-over-cambridge-analytica-breach/">
+<meta name="p:domain_verify" content="0ca032fc72a6636649d5cc6684c68bdb">
+<meta name="sailthru.title" content="Israel Opens Investigation Into Facebook Over Cambridge Analytica Breach">
+<meta name="sailthru.type" content="article">
+<meta name="sailthru.tags" content="News&gt;Breaking News,News&gt;Israel,Fast Forward,Cambridge Analytica,Facebook,Israel,article,JTA">
+<meta name="sailthru.source" content="">
+<meta name="sailthru.full-url" content="https://forward.com/fast-forward/397270/israel-opens-investigation-into-facebook-over-cambridge-analytica-breach/">
+<meta name="sailthru.author" content="JTA">
+<meta name="sailthru.section" content="News">
+<meta name="date" content="2018-03-22 16:55 -0400">
+<meta name="sailthru.duration" content="">
+<meta name="hoirzon-images">
+<meta name="sailthru.image.thumb" content="https://s3.amazonaws.com/assets.forward.com/images/50x50/b-hebrewfacebook-060911-1425666859.jpg">
+<meta name="sailthru.image.80x60" content="https://s3.amazonaws.com/assets.forward.com/images/80x60/b-hebrewfacebook-060911-1425666859.jpg">
+<meta name="sailthru.image.128x79" content="https://s3.amazonaws.com/assets.forward.com/images/128x79/b-hebrewfacebook-060911-1425666859.jpg">
+<meta name="sailthru.image.78x78" content="https://s3.amazonaws.com/assets.forward.com/images/78x78/b-hebrewfacebook-060911-1425666859.jpg">
+<meta name="sailthru.image.thumb" content="https://s3.amazonaws.com/assets.forward.com/images/50x50/b-hebrewfacebook-060911-1425666859.jpg">
+<meta name="sailthru.image.80x60" content="https://s3.amazonaws.com/assets.forward.com/images/80x60/b-hebrewfacebook-060911-1425666859.jpg">
+<meta name="sailthru.image.128x79" content="https://s3.amazonaws.com/assets.forward.com/images/128x79/b-hebrewfacebook-060911-1425666859.jpg">
+<meta name="sailthru.image.78x78" content="https://s3.amazonaws.com/assets.forward.com/images/78x78/b-hebrewfacebook-060911-1425666859.jpg">
+<meta name="sailthru.image.thumb" content="https://s3.amazonaws.com/assets.forward.com/images/50x50/b-hebrewfacebook-060911-1425666859.jpg">
+<meta name="sailthru.image.80x60" content="https://s3.amazonaws.com/assets.forward.com/images/80x60/b-hebrewfacebook-060911-1425666859.jpg">
+<meta name="sailthru.image.128x79" content="https://s3.amazonaws.com/assets.forward.com/images/128x79/b-hebrewfacebook-060911-1425666859.jpg">
+<meta name="sailthru.image.170x" content="https://s3.amazonaws.com/assets.forward.com/images/170x/b-hebrewfacebook-060911-1425666859.jpg">
+<meta name="sailthru.image.78x78" content="https://s3.amazonaws.com/assets.forward.com/images/78x78/b-hebrewfacebook-060911-1425666859.jpg">
+<meta name="sailthru.image.full" content="https://s3.amazonaws.com/assets.forward.com/images/cropped/b-hebrewfacebook-060911-1425666859.jpg">
+<meta name="search.author" content="jta">
+<meta name="search.section" content="news, fastforward">
+<meta name="search.subsection" content="breakingnews, israel">
+<meta name="search.timestamp" content="1521752100">
+<meta name="search.type" content="article">
+<link rel="amphtml" href="https://forward.com/fast-forward/397270/israel-opens-investigation-into-facebook-over-cambridge-analytica-breach/?gamp">
+<meta name="parsely-title" content="Israel Opens Investigation Into Facebook Over Cambridge Analytica Breach">
+<meta name="parsely-link" content="https://forward.com/fast-forward/397270/israel-opens-investigation-into-facebook-over-cambridge-analytica-breach/">
+<meta name="parsely-type" content="post">
+<meta name="parsely-image-url" content="https://s3.amazonaws.com/assets.forward.com/images/cropped/b-hebrewfacebook-060911-1425666859.jpg">
+<meta name="parsely-pub-date" content="2018-03-22 16:55 -0400">
+<meta name="parsely-section" content="Fast Forward">
+<meta name="parsely-tags" content="News&gt;Breaking News,News&gt;Israel,Fast Forward,Cambridge Analytica,Facebook,Israel,article">
+<meta name="parsely-author" content="JTA">
+<link rel="canonical" href="https://forward.com/fast-forward/397270/israel-opens-investigation-into-facebook-over-cambridge-analytica-breach/">
+<script>var CurrentArticleInfo = { "article-id" : "397270", "section" : ["news-and-gt-breaking-news","news-and-gt-israel","fast-forward"], "pageType" :"Blog", "article_title" : "Israel Opens Investigation Into Facebook Over Cambridge Analytica Breach", "article_url" : "https://forward.com/fast-forward/397270/israel-opens-investigation-into-facebook-over-cambridge-analytica-breach/", "section_id" : ["50393","147","356214"], "tags" : ["cambridge-analytica","facebook","israel"], "authors" : ["jta"], "authors_id" : []}</script><link rel="apple-touch-icon" sizes="57x57" href="https://forward.com/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://forward.com/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://forward.com/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://forward.com/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://forward.com/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://forward.com/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://forward.com/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://forward.com/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://forward.com/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="https://forward.com/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://forward.com/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://forward.com/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://forward.com/favicon-16x16.png">
+<link rel="manifest" href="https://forward.com/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://forward.com/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link href="https://forward.com/workspace/res/css/blogstyles.min.css?p=2b1511b7c" rel="stylesheet" type="text/css">
+<link href="//p.forward.com/paywall_js/jBox.css" rel="stylesheet" type="text/css">
+<link href="//p.forward.com/paywall_js/css/pw_lightbox.css" rel="stylesheet" type="text/css">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script><script src="https://forward.com/workspace/res/js/vendor/modernizr-2.8.3.js"></script><script>window.deployads_disabled=true;</script><script>
+        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1138270999612182'); // Insert your pixel ID here.
+        fbq('track', 'PageView');
+    </script><noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1138270999612182&amp;ev=PageView&amp;noscript=1"></noscript>
+<script>var _sf_startpt=(new Date()).getTime()</script><script>
+        var Forward = {
+            'pageType' : 'article',
+            'rootPage' : 'blog',
+            
+                'entryID' : '397270',
+                'url' : 'https://forward.com/fast-forward/397270/israel-opens-investigation-into-facebook-over-cambridge-analytica-breach/',
+            
+            'ajax' : 'https://forward.com/ajax/',
+            
+            'gApiKey' : 'AIzaSyCBzAnwOZ1sLqzZGbhPInr--vHwxAIqWgQ',
+            
+                    'disqus' : {
+                        'key' : 'mTpl4CN0fVuhgIS6sYE4eHWwmwksDmyqKLc3YUTtpLEKkC7heIvmhtGiIWUr0nVW',
+                        'name' : 'jewish-daily-forward',
+                        
+                    },
+                
+                    'horizonTrack' : {"title" : "Israel Opens Investigation Into Facebook Over Cambridge Analytica Breach","date" : "2018-03-22 16:55 -0400","tags" : ["forward_original_content","News>Breaking News","News>Israel","Fast Forward","Cambridge Analytica","Facebook","Israel"],"author" : "JTA","site_name" : "Forward","url" : "https://forward.com/articles/397270/","domain" : "horizon.forward.com","track_url" : true},
+                
+            'disableAds' : false,
+            'sumo' : function(id){
+                var head = document.getElementsByTagName('head')[0];
+                var script = document.createElement('script');
+                script.type = 'text/javascript';
+                script.src = '//load.sumome.com/';
+                script.setAttribute('data-sumo-site-id', id)
+                script.async= 'async';
+                head.appendChild(script);
+            }
+        };
+        </script><script src="//p.forward.com/paywall_js/jBox_min.js"></script><script src="//p.forward.com/paywall_js/forward_paywall.js"></script><script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        </script><script>
+        var adsize = [];
+        var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+
+        <!--
+            function get_cookie(name) {
+                if (document.cookie && document.cookie.length && document.cookie.split) {
+                    var cookies = document.cookie.split(';');
+                    for (var i in cookies) {
+                      if (cookies[i] && cookies[i].split) {
+                        var data = cookies[i].split('=');
+                        var key = data[0];
+                        var value = data[1];
+                
+                        if (key) {
+                            key = key.split(' ').join('');
+                        }
+                
+                        if (value) {
+                            value = value.split(' ').join('');
+                        }
+
+                        if (key == name) {
+                            return value;
+                        }
+                      }
+                    }
+                }
+
+                return false;
+            }
+        -->
+
+        var slotPath = '/33475945/News_Section_Pages/Fast_Forward';
+        window.dfpAds = [];
+        
+            if ((width < 640  )) {
+                adsize = [[320,50],[320,100]];
+            }
+            else if ((width < 960  )) {
+                adsize = [[728,90],[540,480],[590,115]];
+            }
+            else if ((width < 1140  )) {
+                adsize = [[728,90]];
+            }
+            else {
+                adsize = [[728,90]];
+            }
+            window.dfpAds['top-horizontal'] = {name:'top-horizontal',location:'top', size: adsize};
+        
+            if ((width < 640  )) {
+                adsize = [[320,50],[320,100]];
+            }
+            else if ((width < 960  )) {
+                adsize = [[728,90],[540,480],[590,115]];
+            }
+            else if ((width < 1140  )) {
+                adsize = [[728,90],[1090,100],[970,250]];
+            }
+            else {
+                adsize = [[728,90],[1090,100],[970,250]];
+            }
+            window.dfpAds['bottom-horizontal'] = {name:'bottom-horizontal',location:'bottom', size: adsize};
+        
+            if ((width < 640  )) {
+                adsize = [[300,250],[300,100],[300,50]];
+            }
+            else if ((width < 960  )) {
+                adsize = [[300,250],[300,100],[300,50],[300,600],[160,600]];
+            }
+            else if ((width < 1140  )) {
+                adsize = [[300,250],[300,100],[300,50],[300,600],[160,600]];
+            }
+            else {
+                adsize = [[300,250],[300,100],[300,50],[300,600],[160,600]];
+            }
+            window.dfpAds['top-right'] = {name:'top-right',location:'top', size: adsize};
+        
+            if ((width < 640  )) {
+                adsize = [[300,250],[300,100],[300,50]];
+            }
+            else if ((width < 960  )) {
+                adsize = [[300,250],[300,100],[300,50],[300,600],[160,600]];
+            }
+            else if ((width < 1140  )) {
+                adsize = [[300,250],[300,100],[300,50],[300,600],[160,600]];
+            }
+            else {
+                adsize = [[300,250],[300,100],[300,50],[300,600],[160,600]];
+            }
+            window.dfpAds['sidebar-middle'] = {name:'sidebar-middle',location:'middle', size: adsize};
+        
+            if ((width < 640  )) {
+                adsize = [[300,250],[300,100],[300,50]];
+            }
+            else if ((width < 960  )) {
+                adsize = [[300,250],[300,100],[300,50]];
+            }
+            else if ((width < 1140  )) {
+                adsize = [[300,250],[300,100],[300,50]];
+            }
+            else {
+                adsize = [[300,250],[300,100],[300,50]];
+            }
+            window.dfpAds['comments-ad'] = {name:'comments-ad',location:'middle', size: adsize};
+        
+            if ((width < 640  )) {
+                adsize = [[300,250],[300,100],[300,50]];
+            }
+            else if ((width < 960  )) {
+                adsize = [[300,250],[300,100],[300,50],[300,600],[160,600]];
+            }
+            else if ((width < 1140  )) {
+                adsize = [[300,250],[300,100],[300,50],[300,600],[160,600]];
+            }
+            else {
+                adsize = [[300,250],[300,100],[300,50],[300,600],[160,600]];
+            }
+            window.dfpAds['middle-right'] = {name:'middle-right',location:'middle', size: adsize};
+        
+            if ((width < 640  )) {
+                adsize = [[300,250],[300,100],[300,50]];
+            }
+            else if ((width < 960  )) {
+                adsize = [[728,90],[590,115]];
+            }
+            else if ((width < 1140  )) {
+                adsize = [[728,90],[590,115]];
+            }
+            else {
+                adsize = [[728,90],[590,115]];
+            }
+            window.dfpAds['ff-ad'] = {name:'ff-ad',location:'middle', size: adsize};
+        
+            if ((width < 640  )) {
+                adsize = [[300,250],[300,100],[300,50]];
+            }
+            else if ((width < 960  )) {
+                adsize = [[300,250],[300,100],[300,50],[300,600]];
+            }
+            else if ((width < 1140  )) {
+                adsize = [[300,250],[300,100],[300,50],[300,600]];
+            }
+            else {
+                adsize = [[300,250],[300,100],[300,50],[300,600]];
+            }
+            window.dfpAds['inbody'] = {name:'inbody',location:'middle', size: adsize};
+        
+
+        window.dfpAdSlots = [];
+
+        googletag.cmd.push(function()
+        { 
+
+            googletag.defineOutOfPageSlot(slotPath, 'div-gpt-ad-1514596591620-0').addService(googletag.pubads());
+            
+            
+                window.dfpAdSlots['top-horizontal-0'] = googletag.defineSlot(slotPath, window.dfpAds['top-horizontal']['size'], 'top-horizontal-0').addService(googletag.pubads()).setTargeting('Position', ['top']); 
+            
+                window.dfpAdSlots['bottom-horizontal-0'] = googletag.defineSlot(slotPath, window.dfpAds['bottom-horizontal']['size'], 'bottom-horizontal-0').addService(googletag.pubads()).setTargeting('Position', ['bottom']); 
+            
+                window.dfpAdSlots['top-right-0'] = googletag.defineSlot(slotPath, window.dfpAds['top-right']['size'], 'top-right-0').addService(googletag.pubads()).setTargeting('Position', ['top']); 
+            
+                window.dfpAdSlots['sidebar-middle-0'] = googletag.defineSlot(slotPath, window.dfpAds['sidebar-middle']['size'], 'sidebar-middle-0').addService(googletag.pubads()).setTargeting('Position', ['middle']); 
+            
+                window.dfpAdSlots['comments-ad-0'] = googletag.defineSlot(slotPath, window.dfpAds['comments-ad']['size'], 'comments-ad-0').addService(googletag.pubads()).setTargeting('Position', ['middle']); 
+            
+                window.dfpAdSlots['middle-right-0'] = googletag.defineSlot(slotPath, window.dfpAds['middle-right']['size'], 'middle-right-0').addService(googletag.pubads()).setTargeting('Position', ['middle']); 
+            
+                window.dfpAdSlots['ff-ad-0'] = googletag.defineSlot(slotPath, window.dfpAds['ff-ad']['size'], 'ff-ad-0').addService(googletag.pubads()).setTargeting('Position', ['middle']); 
+            
+                window.dfpAdSlots['inbody-0'] = googletag.defineSlot(slotPath, window.dfpAds['inbody']['size'], 'inbody-0').addService(googletag.pubads()).setTargeting('Position', ['middle']); 
+            
+            googletag.pubads().enableSingleRequest(); 
+            googletag.pubads().collapseEmptyDivs(); 
+
+            if (get_cookie("meterpaywall_last_login")){
+                googletag.pubads().setTargeting('Login', ['yes']); 
+            }
+            if (get_cookie("sailthru_hid")){
+                googletag.pubads().setTargeting('NLSubscriber', ['yes']); 
+            }
+
+            
+                googletag.pubads().setTargeting('Tags', ["Cambridge Analytica","Facebook","Israel"]); 
+            
+            googletag.pubads().setTargeting('Path', ['fast-forward','397270','israel-opens-investigation-into-facebook-over-cambridge-analytica-breach']);
+            
+            googletag.enableServices(); }
+        );
+        </script><script type="text/javascript">
+
+        var load_ads = 0;
+
+        
+
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            
+
+            ga('create', 'UA-7290892-1', 'auto', {'useAmpClientId': true});
+            ga('require', 'linkid', 'linkid.js');
+            ga('set', 'dimension1', 'Article');ga('set', 'contentGroup1', 'Article');ga('set', 'dimension2', 'JTA');ga('set', 'dimension14', 'Aiden Pink');ga('set', 'dimension3', '20180322');ga('set', 'metric1', '20180322');ga('set', 'dimension4', 'Thursday');ga('set', 'dimension5', 'Fast Forward');ga('set', 'dimension6', 'bottom_only');ga('set', 'dimension7', 'Breaking News');ga('set', 'dimension8', 'Cambridge Analytica_Facebook_Israel');ga('set', 'dimension11', 'No');ga('set', 'dimension12', 'Cambridge Analytica');ga('set', 'dimension13', '397270');ga('set', 'dimension15', 'Yes');
+            ga('set', 'dimension16', window.deployads_ga);
+
+            if (get_cookie("meterpaywall_last_login")){
+                ga('set', 'dimension20', 'yes');
+            } else {
+                ga('set', 'dimension20', 'no');
+            }
+
+            ga('send', 'pageview');
+
+        </script><script>
+
+          ga('create', 'UA-7290892-13', 'auto', {'name': 'BackupTracker'});
+          ga('BackupTracker.send', 'pageview');
+
+        </script>
+</head>
+<body class="fast-forward">
+<!--[if lte IE 8]>
+				  <p>You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+				<![endif]--><div id="div-gpt-ad-1514596591620-0"><script>
+						googletag.cmd.push(function() { googletag.display('div-gpt-ad-1514596591620-0'); });
+					</script></div>
+<div class="blog-wrapper" data-page="blog-post">
+<div class="container search-mobile nocontent"><div class="row"><div class="col-24"><form action="https://forward.com/search/" method="get" id="form-search-mobile"><fieldset>
+<input type="text" name="q" id="search-mobile" placeholder="Enter a Search Term"><input type="submit" class="icon-search">
+</fieldset></form></div></div></div>
+<section class="blog-article container resizing-columns"><div class="header-sticky-container nocontent">
+<div class="container header-sticky-search"><div class="row"><div class="col-24"><form action="https://forward.com/search/" method="get"><fieldset><input type="text" name="q" id="search-sticky-ff" placeholder="Enter a Search Term"></fieldset></form></div></div></div>
+<div class="container header-sticky"><div class="row">
+<div class="col-1"><span class="btn-open-menu">Menu</span></div>
+<div class="col-17 offset-1"><span class="headline "><a href="https://forward.com" class="logo">Home</a><a href="https://forward.com/fast-forward/"><span>Fast Forward: </span><span class="sticky-header-italics">Quick reads through a Jewish lens</span></a></span></div>
+<div class="col-4"><ul class="toolbar">
+<li><a href="https://forward.com" class="icon logo">Home</a></li>
+<li><span class="icon give"><a href="https://forward.com/donate/?int_campaign=General&amp;int_appeal=General&amp;int_source=forward.com&amp;int_medium=referral&amp;int_content=join_header_button" class="button">Give</a></span></li>
+<li><span class="icon share">Share</span></li>
+<li><span class="icon search">Search</span></li>
+<li><span class="icon subscribe">Subscribe</span></li>
+</ul></div>
+</div></div>
+<div class="container header-sticky-share"><div class="row"><div class="col-24"><ul class="social-nav sticky">
+<li><a href="#" class="js-recommend-article"><em class="social icon email"></em><span>Email</span></a></li>
+<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?app_id=113869198637480&amp;u=https://forward.com/fast-forward/397270/israel-opens-investigation-into-facebook-over-cambridge-analytica-breach/&amp;display=popup&amp;ref=plugin" data-href="https://www.facebook.com/sharer/sharer.php?app_id=113869198637480&amp;u=https://forward.com/fast-forward/397270/israel-opens-investigation-into-facebook-over-cambridge-analytica-breach/&amp;display=popup&amp;ref=plugin"><em class="social icon facebook"></em><span>Facebook</span></a></li>
+<li><a target="_blank" href="https://plusone.google.com/_/+1/confirm?hl=en&amp;url=https://forward.com/fast-forward/397270/israel-opens-investigation-into-facebook-over-cambridge-analytica-breach/" data-href="https://plusone.google.com/_/+1/confirm?hl=en&amp;url=https://forward.com/fast-forward/397270/israel-opens-investigation-into-facebook-over-cambridge-analytica-breach/"><em class="social icon google"></em><span>Google+</span></a></li>
+<li><a target="_blank" href="https://twitter.com/intent/tweet?text=Israel%20Opens%20Investigation%20Into%20Facebook%20Over%20Cambridge%20Analytica%20Breach&amp;url=http://jd.fo/RWOQ&amp;via=jdforward&amp;source=webclient" data-href="https://twitter.com/intent/tweet?text=Israel%20Opens%20Investigation%20Into%20Facebook%20Over%20Cambridge%20Analytica%20Breach&amp;url=http://jd.fo/RWOQ&amp;via=jdforward&amp;source=webclient"><em class="social icon twitter"></em><span>Twitter</span></a></li>
+</ul></div></div></div>
+<div class="container header-sticky-subscribe"><div class="row"><div class="col-24">
+<ul class="subscribe-nav-col paywall-log-in-button"><li>
+<span class="subscriber-login"><em></em></span><span class="title"><a href="#" class="pw_login_link">Log in</a></span>
+</li></ul>
+<ul class="subscribe-nav-col paywall-log-out-button"><li>
+<span class="subscriber-logout"><em></em></span><span class="title"><a href="#" class="pw_logout_link">Log out</a></span>
+</li></ul>
+<ul class="subscribe-nav-col subscribe-button">
+<li>
+<span class="expand-collapse"><em></em></span><span class="title"><a href="https://forward.com/subscribe/">Subscribe</a></span>
+</li>
+<li><span class="title"><a href="https://forward.com/faq/subscription/">FAQ</a></span></li>
+<li><span class="title"><a href="https://subscriptions.forward.com/tfe/r-gift.do">Give a gift</a></span></li>
+<li><span class="title"><a href="https://subscriptions.forward.com/tfe/r-custsrvlogin.do">Renew</a></span></li>
+<li><span class="title"><a href="https://subscriptions.forward.com/tfe/r-custsrvlogin.do">Check your account</a></span></li>
+</ul>
+</div></div></div>
+<div class="container header-sticky-megamenu"><div class="row"><div class="col-24"><nav class="mobile-nav"><span class="btn-menu">Menu</span><div class="mobile-nav-container">
+<ul class="mobile-nav-col no-sub-nav"><li>
+<span class="expand-collapse"></span><span class="title"><a href="https://forward.com">Home</a></span>
+</li></ul>
+<nav class="mobile-nav"><h3>Forward</h3>
+<ul><li><a href="https://forward.com/">Home</a></li></ul>
+<h3>Fast Forward</h3>
+<ul>
+<li><a href="https://forward.com/fast-forward/">Home</a></li>
+<li><a href="https://forward.com/fast-forward/about/"></a></li>
+</ul>
+<h3>Explore</h3>
+<ul>
+<li class=""><a href="https://forward.com/news/" target="_blank">News</a></li>
+<li class=""><a href="https://forward.com/culture/" target="_blank">Culture</a></li>
+<li class=""><a href="https://forward.com/opinion/" target="_blank">Opinion</a></li>
+<li class=""><a href="https://forward.com/life/" target="_blank">Life</a></li>
+<li><a href="/scribe/">Community</a></li>
+</ul></nav><nav class="mobile-nav"><h3>Forward</h3>
+<ul><li><a href="https://forward.com/">Home</a></li></ul>
+<h3>Fast Forward</h3>
+<ul>
+<li><a href="https://forward.com/fast-forward/">Home</a></li>
+<li><a href="https://forward.com/fast-forward/about/"></a></li>
+</ul>
+<h3>Explore</h3>
+<ul>
+<li class=""><a href="https://forward.com/news/" target="_blank">News</a></li>
+<li class=""><a href="https://forward.com/culture/" target="_blank">Culture</a></li>
+<li class=""><a href="https://forward.com/opinion/" target="_blank">Opinion</a></li>
+<li class=""><a href="https://forward.com/life/" target="_blank">Life</a></li>
+<li><a href="/scribe/">Community</a></li>
+</ul></nav><nav class="mobile-nav"><h3>Forward</h3>
+<ul><li><a href="https://forward.com/">Home</a></li></ul>
+<h3>Fast Forward</h3>
+<ul>
+<li><a href="https://forward.com/fast-forward/">Home</a></li>
+<li><a href="https://forward.com/fast-forward/about/"></a></li>
+</ul>
+<h3>Explore</h3>
+<ul>
+<li class=""><a href="https://forward.com/news/" target="_blank">News</a></li>
+<li class=""><a href="https://forward.com/culture/" target="_blank">Culture</a></li>
+<li class=""><a href="https://forward.com/opinion/" target="_blank">Opinion</a></li>
+<li class=""><a href="https://forward.com/life/" target="_blank">Life</a></li>
+<li><a href="/scribe/">Community</a></li>
+</ul></nav><nav class="mobile-nav"><h3>Forward</h3>
+<ul><li><a href="https://forward.com/">Home</a></li></ul>
+<h3>Fast Forward</h3>
+<ul>
+<li><a href="https://forward.com/fast-forward/">Home</a></li>
+<li><a href="https://forward.com/fast-forward/about/"></a></li>
+</ul>
+<h3>Explore</h3>
+<ul>
+<li class=""><a href="https://forward.com/news/" target="_blank">News</a></li>
+<li class=""><a href="https://forward.com/culture/" target="_blank">Culture</a></li>
+<li class=""><a href="https://forward.com/opinion/" target="_blank">Opinion</a></li>
+<li class=""><a href="https://forward.com/life/" target="_blank">Life</a></li>
+<li><a href="/scribe/">Community</a></li>
+</ul></nav><ul class="mobile-nav-col">
+<li>
+<span class="expand-collapse"><em></em></span><span class="title"><strong>More</strong></span>
+</li>
+<li><a href="https://forward.com/schmooze/" class="" target="_blank">The Schmooze</a></li>
+<li><a href="https://forward.com/sisterhood/" class="" target="_blank">Sisterhood</a></li>
+<li><a href="https://forward.com/wondering-jew/" class="" target="_blank">Wondering Jew</a></li>
+<li><a href="https://forward.com/food/" class="" target="_blank">Eat, Drink + Think</a></li>
+<li><a href="https://forward.com/my-heretical-year/" class="" target="_blank">My Heretical Year</a></li>
+<li><a href="https://forward.com/video/" class="" target="_blank">Video</a></li>
+<li><a href="http://yiddish.forward.com" class="" target="_blank">Yiddish Forverts</a></li>
+<li><a href="http://go.forward.com" class="" target="_blank">Go Forward travel</a></li>
+</ul>
+</div>
+<ul class="footer-nav-social">
+<li><a href="https://www.facebook.com/jewishdailyforward" class="icon-facebook" target="_blank">Facebook</a></li>
+<li><a href="https://instagram.com/jdforward/" class="icon-instagram" target="_blank">Instagram</a></li>
+<li><a href="https://twitter.com/jdforward/" class="icon-twitter" target="_blank">Twitter</a></li>
+</ul>
+<div class="mobile-nav-util"><ul class="footer-nav-util group">
+<li><a href="https://forward.com/donate/?int_campaign=General&amp;int_appeal=General&amp;int_source=forward.com&amp;int_medium=referral&amp;int_content=join_footer_link" class="" target="_blank">Give</a></li>
+<li><a href="http://advertise.forward.com/" class="" target="_blank">Advertise</a></li>
+<li><a href="https://subscriptions.forward.com/tfe/r-paid-2.do?p=WDEFAB18&amp;mode=abtesting" class="" target="_blank">Subscribe</a></li>
+</ul></div></nav></div></div></div>
+</div>
+<div class="row">
+<div class="col-16 blog-content">
+<div class="ad-unit-header-top nocontent"><div id="top-horizontal-0" class="ad-unit"></div></div>
+<div class="container article-listings">
+<section class="row article-listings-container"><article data-title="Israel Investigating Facebook Over Cambridge Analytica – The Forward" data-id="397270" data-analytics='{"dimension1" :"Article","contentGroup1" :"Article","dimension2" :"JTA","dimension14" :"Aiden Pink","dimension3" :"20180322","metric1" :"20180322","dimension4" :"Thursday","dimension5" :"Fast Forward","dimension6" :"bottom_only","dimension7" :"Breaking News","dimension8" :"Cambridge Analytica_Facebook_Israel","dimension11" :"No","dimension12" :"Cambridge Analytica","dimension13" :"397270"}' data-article='{ "article-id" : "397270", "pageType" : "Blog", "article_title" : "Israel Opens Investigation Into Facebook Over Cambridge Analytica Breach", "article_url" : "https://forward.com/fast-forward/397270/israel-opens-investigation-into-facebook-over-cambridge-analytica-breach/", "section" : ["news-and-gt-breaking-news","news-and-gt-israel","fast-forward"], "section_id" : ["50393","147","356214"], "tags" : ["cambridge-analytica","facebook","israel"], "authors" : ["jta"], "authors_id" : []}' data-horizon='{"title" : "Israel Opens Investigation Into Facebook Over Cambridge Analytica Breach","date" : "2018-03-22 16:55 -0400","tags" : ["forward_original_content","News&gt;Breaking News","News&gt;Israel","Fast Forward","Cambridge Analytica","Facebook","Israel"],"author" : "JTA","site_name" : "Forward","url" : "https://forward.com/articles/397270/","domain" : "horizon.forward.com","track_url" : true}' class="article-listing "><div>
+<a href="https://forward.com/news/" class="category category-news">News</a><h1><a href="https://forward.com/fast-forward/397270/israel-opens-investigation-into-facebook-over-cambridge-analytica-breach/" id="blog-article-listing-1-headline-https://forward.com/fast-forward/397270/israel-opens-investigation-into-facebook-over-cambridge-analytica-breach/" data-attribution-id="blog-article-listing-1-headline">Israel Opens Investigation Into Facebook Over Cambridge Analytica Breach</a></h1>
+<span class="byline" data-attribution-id="blog-article-listing-1-byline"><span><span class="date" itemprop="datePublished">March 22, 2018</span></span><span class="author">
+					By <span itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person"><a href="https://forward.com/author/jta/" itemprop="url" class="author-name"><span itemprop="name">JTA</span></a></span></span></span><div>
+<div class="row"></div>
+<div class="post-item-media-wrap share-cta">
+<figure class="img full photo-credits-container" itemprop="associatedMedia image" itemscope="itemscope" itemtype="http://schema.org/ImageObject"><img data-src="https://s3.amazonaws.com/assets.forward.com/images/cropped/b-hebrewfacebook-060911-1425666859.jpg" data-high-res="https://s3.amazonaws.com/assets.forward.com/images/cropped/b-hebrewfacebook-060911-1425666859.jpg" alt="" class=" " width="250" height="93"><meta itemprop="url" content="https://s3.amazonaws.com/assets.forward.com/images/cropped/b-hebrewfacebook-060911-1425666859.jpg">
+<meta itemprop="contentUrl" content="https://s3.amazonaws.com/assets.forward.com/images/cropped/b-hebrewfacebook-060911-1425666859.jpg">
+<meta itemprop="author" content="">
+<meta itemprop="width" content="250">
+<meta itemprop="height" content="93">
+<figcaption></figcaption></figure><div class="share-icon-container"><a class="share-icon-block" href="#"><span class="share-icon-text">Share</span><span class="share-icon-arrow"></span></a></div>
+<div class="social-share-container"><nav class="social-nav share"><ul>
+<li><a target="_blank" class="social icon facebook" href="https://www.facebook.com/sharer/sharer.php?app_id=113869198637480&amp;u=https://forward.com/fast-forward/397270/israel-opens-investigation-into-facebook-over-cambridge-analytica-breach/%3Fshareimg=138530&amp;display=popup&amp;ref=plugin">Facebook</a></li>
+<li><a target="_blank" class="social icon twitter" href="https://twitter.com/intent/tweet?text=Israel%20Opens%20Investigation%20Into%20Facebook%20Over%20Cambridge%20Analytica%20Breach&amp;url=https://forward.com/fast-forward/397270/israel-opens-investigation-into-facebook-over-cambridge-analytica-breach/%3Fshareimg=138530&amp;via=jdforward&amp;source=webclient">Twitter</a></li>
+<li><a target="_blank" href="http://www.pinterest.com/pin/create/button/?url=https://forward.com/fast-forward/397270/israel-opens-investigation-into-facebook-over-cambridge-analytica-breach/%3Fshareimg=138530&amp;media=https://s3.amazonaws.com/assets.forward.com/images/cropped/b-hebrewfacebook-060911-1425666859.jpg" class="social icon pinterest">Pinterest</a></li>
+<li><a href="#" class="social icon email js-recommend-article" data-article="397270" data-headline="Israel Opens Investigation Into Facebook Over Cambridge Analytica Breach" data-link="https://forward.com/fast-forward/397270/israel-opens-investigation-into-facebook-over-cambridge-analytica-breach/">Email</a></li>
+</ul></nav></div>
+</div>
+<p>JERUSALEM (<a href="http://jta.org" target="_blank" title="">JTA</a>) — Israel’s Justice Ministry has opened an investigation into Facebook amid reports of the transfer of users’ data from the social media platform to the British data-mining company Cambridge Analytica.</p>
+<p>The ministry’s Privacy Protection Authority said in a statement Thursday that it will “investigate whether personal data of Israeli citizens was illegally used in a way that infringes upon their right to privacy and the provisions of the Israeli Privacy Law.”</p>
+<p>Under the Israeli privacy law, personal data may only be used to the purpose for which it was given and with the consent of the individual.</p>
+<p>Cambridge Analytica, a company launched by former Trump adviser Stephen Bannon and bankrolled by the Republican donor Robert Mercer, is alleged to have improperly received data on potential voters from a researcher and app developer who had violated Facebook policy.</p>
+<p>Over the weekend, news outlets reported that the user data collected were used to influence the vote in the 2016 presidential election. The Trump campaign reportedly paid Cambridge Analytica more than $6 million, according to federal election records. As many as 200,000 U.S. citizens live in Israel and have the right to vote in the U.S. election, Haaretz reported, citing iVoteIsrael.</p>
+<p>The CEO of Cambridge Analytica claimed to an undercover reporter posing as a potential client to have used Israeli companies and former Israeli spies in its intelligence gathering. The report by a British TV station did not connect the Israeli companies with the reported Trump operation.</p>
+</div>
+<div class="share-box nocontent">
+<span>Share This:</span><nav class="social-icons"><a class="fa fa-envelope js-recommend-article" href="#"></a><a class="fa fa-facebook-f" target="_blank" href="https://www.facebook.com/sharer/sharer.php?app_id=113869198637480&amp;u=https://forward.com/fast-forward/397270/israel-opens-investigation-into-facebook-over-cambridge-analytica-breach/&amp;display=popup&amp;ref=plugin"></a><a class="fa fa-google-plus" target="_blank" href="https://plusone.google.com/_/+1/confirm?hl=en&amp;url=https://forward.com/fast-forward/397270/israel-opens-investigation-into-facebook-over-cambridge-analytica-breach/"></a><a class="fa fa-twitter" target="_blank" href="https://twitter.com/intent/tweet?text=Israel%20Opens%20Investigation%20Into%20Facebook%20Over%20Cambridge%20Analytica%20Breach&amp;url=http://jd.fo/RWOQ&amp;via=jdforward&amp;source=webclient"></a></nav>
+</div>
+</div></article></section><div class="modal remodal recommend-article">
+<div class="recommend-article-container">
+<h5>Recommend this article</h5>
+<h4><a href="https://forward.com/fast-forward/397270/israel-opens-investigation-into-facebook-over-cambridge-analytica-breach/">Israel Opens Investigation Into Facebook Over Cambridge Analytica Breach</a></h4>
+<form id="recommendArticleForm" data-article="397270"><fieldset>
+<div class="field-row">
+<label for="reco-email-from-name">From</label><input type="text" id="reco-email-from-name" name="reco-email-from-name" placeholder="Add your name" data-rule-required="true" data-msg-required="Your name is required"><input type="email" id="reco-email-from" name="reco-email-from" placeholder="Add your email address" data-rule-required="true" data-rule-email="true" data-rule-validateEmail="true" data-msg-required="Invalid email address">
+</div>
+<div class="recipients-container"><div class="field-row">
+<label for="reco-email-to-1">Send to</label><input type="email" id="reco-email-to-1" name="reco-email-to-1" placeholder="Email address" data-rule-required="true" data-rule-email="true" data-rule-validateEmail="true" data-msg-required="Invalid email address">
+</div></div>
+<div class="field-row"><a class="add-email"><span>+</span> Add another</a></div>
+<div class="field-row">
+<label for="reco-message">Add a message</label><textarea id="reco-message" name="reco-message" placeholder="Type an optional message"></textarea>
+</div>
+<div class="field-row"><div class="g-recaptcha" data-sitekey="6LeipSETAAAAACut-ldSAG4PPkwJJ_uP1-SCO3g1"></div></div>
+<div class="bottom-row">
+<div class="cc-me"><div class="checkbox-wrap">
+<input type="checkbox" name="reco-cc-me" id="reco-cc-me"><label for="reco-cc-me">Send me a copy</label>
+</div></div>
+<div class="submit-button"><input type="submit" value="Send" class="submit button gold"></div>
+</div>
+</fieldset></form>
+</div>
+<div class="recommend-article-success">
+<h6>Thank you!</h6>
+<p>This article has been sent!</p>
+<a class="button gold close">Close</a>
+</div>
+</div>
+</div>
+<div class="container more-article-listings"><section class="row"><div class="col-24"><a class="button more-articles show-more-link" href="https://forward.com/fast-forward/?after-id=397270&amp;p=1" data-container="article-listings-container" data-item="article-listing" data-count="4" data-base-link="https://forward.com/fast-forward/?after-id=397270&amp;p=" data-current="0" data-total="1" data-preload="true" data-track="no">More Articles</a></div></section></div>
+</div>
+<div class="blog-sidebar col-7 offset-1 nocontent">
+<div class="blog-sidebar mobile"><div class="blog-signup-container">
+<div class="newsletter-signup">
+<h3 class="blog-signup-tagline">Sign up for our Newsletters</h3>
+<form method="post" action="" class="blog-form">
+<input type="hidden" name="action[sailthru-subscribe]" value="1"><input type="hidden" name="vars[source]" value="fast-forward_article"><fieldset>
+<input class="email-signup-input" type="email" name="user[email]" placeholder="Enter your e-mail" data-rule-required="true" data-msg-required="Please re-enter your e-mail, it was not submitted successfully" data-msg-email="Please re-enter your e-mail, it was not submitted successfully"><input type="submit" value="Sign up" class="submit button lightOrange">
+</fieldset>
+</form>
+</div>
+<div class="newsletter-signup-success"><div>
+<h3>Thank you!</h3>
+<p>You are now signed up to receive posts.</p>
+</div></div>
+<div class="newsletter-signup-error"></div>
+</div></div>
+<div class="blog-sidebar desktop tablet">
+<aside id="blog-sidebar-ad-container" class="blog-sidebar-ad-container"><div id="top-right-0" class="ad-unit"></div></aside><div class="blog-signup-container">
+<div class="newsletter-signup">
+<h3 class="blog-signup-tagline">Sign up for our Newsletters</h3>
+<form method="post" action="" class="blog-form">
+<input type="hidden" name="action[sailthru-subscribe]" value="1"><input type="hidden" name="vars[source]" value="fast-forward_article"><fieldset>
+<input class="email-signup-input" type="email" name="user[email]" placeholder="Enter your e-mail" data-rule-required="true" data-msg-required="Please re-enter your e-mail, it was not submitted successfully" data-msg-email="Please re-enter your e-mail, it was not submitted successfully"><input type="submit" value="Sign up" class="submit button lightOrange">
+</fieldset>
+</form>
+</div>
+<div class="newsletter-signup-success"><div>
+<h3>Thank you!</h3>
+<p>You are now signed up to receive posts.</p>
+</div></div>
+<div class="newsletter-signup-error"></div>
+</div>
+</div>
+</div>
+</div></section><div class="ad-unit-footer nocontent"><div id="bottom-horizontal-0" class="ad-unit"></div></div>
+<footer class="nocontent" itemscope="" itemtype="http://schema.org/CreativeWork"><div class="row"><nav><div class="col-4 footer-newsletter newsletter-mobile">
+<div class="newsletter-signup">
+<h2 class="title">Sign up for <strong>The Daily Newsletter</strong>
+</h2>
+<form method="post" action="">
+<input type="hidden" name="action[sailthru-subscribe]" value="1"><input type="hidden" name="vars[source]" value="footer"><fieldset>
+<input type="email" name="user[email]" class="newsletter-input uniform-input email" placeholder="Enter e-mail"><span class="newsletter-icon"><input type="submit" value="Submit" class="button"></span>
+</fieldset>
+</form>
+</div>
+<div class="newsletter-signup-success"><div>
+<h5>Thank you!</h5>
+<p>You are now signed up to receive our newsletters.</p>
+</div></div>
+<div class="newsletter-signup-error"></div>
+</div>
+<div class="col-3"><ul class="footer-nav-col" id="blog-footer-block-1" data-attribution-id="blog-footer-block-1">
+<li>
+<span class="expand-collapse"><em></em></span><span class="title"><a id="blog-footer-block-header-1" data-attribution-id="blog-footer-block-header-1" href="https://forward.com/news/">News</a></span>
+</li>
+<li class=""><a href="https://forward.com/fast-forward" target="_blank" class="current">Fast Forward</a></li>
+<li class=""><a href="https://forward.com/news/breaking-news/" target="_blank">Breaking  News</a></li>
+<li class=""><a href="https://forward.com/news/israel/" target="_blank">Israel</a></li>
+<li class=""><a href="https://forward.com/news/national/" target="_blank">National</a></li>
+<li class=""><a href="https://forward.com/news/world/" target="_blank">World</a></li>
+</ul></div>
+<div class="col-3"><ul class="footer-nav-col" id="blog-footer-block-2" data-attribution-id="blog-footer-block-2">
+<li>
+<span class="expand-collapse"><em></em></span><span class="title"><a id="blog-footer-block-header-2" data-attribution-id="blog-footer-block-header-2" href="https://forward.com/culture/">Culture</a></span>
+</li>
+<li class=""><a href="https://forward.com/culture/art/" target="_blank">Art</a></li>
+<li class=""><a href="https://forward.com/culture/books/" target="_blank">Books</a></li>
+<li class=""><a href="https://forward.com/culture/film-tv/" target="_blank">Film &amp; TV</a></li>
+<li class=""><a href="https://forward.com/culture/music/" target="_blank">Music</a></li>
+<li class=""><a href="https://forward.com/culture/theater/" target="_blank">Theater</a></li>
+<li class=""><a href="https://forward.com/culture/longform/" target="_blank">Longform</a></li>
+<li class=""><a href="https://forward.com/culture/yiddish-culture/" target="_blank">Yiddish Culture</a></li>
+<li class="blog-item"><a href="https://forward.com/shma-now/" target="_blank">Sh'ma Now</a></li>
+</ul></div>
+<div class="col-3"><ul class="footer-nav-col" id="blog-footer-block-3" data-attribution-id="blog-footer-block-3">
+<li>
+<span class="expand-collapse"><em></em></span><span class="title"><a id="blog-footer-block-header-3" data-attribution-id="blog-footer-block-header-3" href="https://forward.com/opinion/">Opinion</a></span>
+</li>
+<li class=""><a href="https://forward.com/opinion/israel/" target="_blank">Israel</a></li>
+<li class=""><a href="https://forward.com/opinion/world/" target="_blank">World</a></li>
+<li class=""><a href="https://forward.com/opinion/politics/" target="_blank">Politics</a></li>
+<li class=""><a href="https://forward.com/opinion/spirituality/" target="_blank">Spirituality</a></li>
+<li class=""><a href="https://forward.com/opinion/national/" target="_blank">National</a></li>
+<li class=""><a href="https://forward.com/opinion/letters/" target="_blank">Letters</a></li>
+<li class=""><a href="https://forward.com/opinion/editorial/" target="_blank">Editorial</a></li>
+<li class="blog-item"><a href="https://forward.com/scribe/" target="_blank">Scribe</a></li>
+<li class="blog-item"><a href="https://forward.com/author/jane-eisner/" target="_blank">Jane Eisner</a></li>
+<li class="blog-item"><a href="https://forward.com/author/j-j-goldberg/" target="_blank">J. J. Goldberg</a></li>
+<li class="blog-item"><a href="https://forward.com/author/peter-beinart/" target="_blank">Peter Beinart</a></li>
+</ul></div>
+<div class="col-3"><ul class="footer-nav-col" id="blog-footer-block-4" data-attribution-id="blog-footer-block-4">
+<li>
+<span class="expand-collapse"><em></em></span><span class="title"><a id="blog-footer-block-header-4" data-attribution-id="blog-footer-block-header-4" href="https://forward.com/life/">Life</a></span>
+</li>
+<li class=""><a href="https://forward.com/life/travel/" target="_blank">Travel</a></li>
+<li class=""><a href="https://forward.com/life/tech/" target="_blank">Tech</a></li>
+<li class=""><a href="https://forward.com/life/style/" target="_blank">Style</a></li>
+<li class=""><a href="https://forward.com/life/health/" target="_blank">Health</a></li>
+<li class=""><a href="https://forward.com/life/faith/" target="_blank">Faith</a></li>
+<li class=""><a href="https://forward.com/life/family/" target="_blank">Family</a></li>
+<li class="blog-item"><a href="https://forward.com/schmooze/" target="_blank">The Schmooze</a></li>
+<li class="blog-item"><a href="https://forward.com/sisterhood/" target="_blank">The Sisterhood</a></li>
+<li class="blog-item"><a href="https://games.forward.com" target="_blank">Games</a></li>
+<li class="blog-item"><a href="https://forward.com/food/" target="_blank">Food</a></li>
+</ul></div>
+<div class="col-6">
+<ul class="footer-nav-col" id="blog-footer-block-community" data-attribution-id="blog-footer-block-community">
+<li>
+<span class="expand-collapse disabled"><a data-attribution-id="blog-footer-block-community-header" style="margin:0px !important; padding:0px !important" href="https://forward.com/scribe"><em></em></a></span><span class="title"><a id="blog-footer-block-community-header" data-attribution-id="blog-footer-block-community-header" href="https://forward.com/scribe">Community</a></span>
+</li>
+<li style="margin-bottom:0px !important; padding-bottom:0px !important; padding-top:0px !important">
+</ul>
+<ul class="footer-nav-col" id="blog-footer-block-4" data-attribution-id="blog-footer-block-4">
+<li>
+<span class="expand-collapse"><em></em></span><span class="title"><strong>More</strong></span>
+</li>
+<li><a href="https://forward.com/schmooze/" class="" target="_blank">The Schmooze</a></li>
+<li><a href="https://forward.com/sisterhood/" class="" target="_blank">Sisterhood</a></li>
+<li><a href="https://forward.com/wondering-jew/" class="" target="_blank">Wondering Jew</a></li>
+<li><a href="https://forward.com/food/" class="" target="_blank">Eat, Drink + Think</a></li>
+<li><a href="https://forward.com/my-heretical-year/" class="" target="_blank">My Heretical Year</a></li>
+<li><a href="https://forward.com/video/" class="" target="_blank">Video</a></li>
+<li><a href="http://yiddish.forward.com" class="" target="_blank">Yiddish Forverts</a></li>
+<li><a href="http://go.forward.com" class="" target="_blank">Go Forward travel</a></li>
+</ul>
+</div>
+<div class="col-6"><div class="col-24">
+<ul class="footer-nav-util group" id="blog-footer-block-5" data-attribution-id="blog-footer-block-5">
+<li><a href="https://forward.com/donate/?int_campaign=General&amp;int_appeal=General&amp;int_source=forward.com&amp;int_medium=referral&amp;int_content=join_footer_link" class="" target="_blank">Give</a></li>
+<li><a href="http://advertise.forward.com/" class="" target="_blank">Advertise</a></li>
+<li><a href="https://subscriptions.forward.com/tfe/r-paid-2.do?p=WDEFAB18&amp;mode=abtesting" class="" target="_blank">Subscribe</a></li>
+</ul>
+<div class="footer-newsletter newsletter-desktop">
+<div class="newsletter-signup">
+<span class="title"><strong>Get more Forward in your inbox</strong></span><form method="post" action="">
+<input type="hidden" name="action[sailthru-subscribe]" value="1"><input type="hidden" name="vars[source]" value="footer"><fieldset>
+<input type="email" name="user[email]" class="newsletter-input uniform-input email" placeholder="Enter your e-mail"><span class="newsletter-icon"><input type="submit" value="Submit" class="button btn-envelope"></span>
+</fieldset>
+</form>
+</div>
+<div class="newsletter-signup-success"><div>
+<h5>Thank you!</h5>
+<p>You are now signed up to receive our newsletters.</p>
+</div></div>
+<div class="newsletter-signup-error"></div>
+</div>
+<div class="manage-newsletters"><a href="/newsletter/manage">Manage Your Newsletters</a></div>
+</div></div></nav></div>
+<div class="row"><div class="col-24">
+<ul class="footer-nav-social" id="blog-footer-social" data-attribution-id="blog-footer-social">
+<li><a href="https://www.facebook.com/jewishdailyforward" class="fa fa-facebook-f icon" target="_blank"></a></li>
+<li><a href="https://instagram.com/jdforward/" class="fa fa-instagram icon" target="_blank"></a></li>
+<li><a href="https://twitter.com/jdforward/" class="fa fa-twitter icon" target="_blank"></a></li>
+</ul>
+<div class="footer-copyright" id="blog-footer-links" data-attribution-id="blog-footer-links">
+<p itemprop="copyrightHolder provider sourceOrganization" itemscope="" itemtype="http://schema.org/Organization" itemid="http://www.forward.com">Copyright ©2018<span itemprop="name">The Forward Association, Inc.</span><span>All rights reserved.</span>   |   <a href="https://forward.com/contact/" target="_blank">Contact</a>   |   <a href="https://forward.com/privacy-policy/" target="_blank">Privacy Policy</a>   |   <a href="https://forward.com/terms-and-conditions/" target="_blank">Terms &amp; Conditions</a>   |   <a href="https://forward.com/trademarks/" target="_blank">Trademarks</a>   |   <a href="https://forward.com/about-us/" target="_blank">About</a>   |   <a href="https://forward.com/about-us/employment/" target="_blank">Jobs</a></p>
+<meta name="itemprop" content="2018">
+</div>
+</div></div></footer><section class="forward-lightbox--screen"><div class="forward-lightbox--column"><div class="forward-lightbox--column-inner"><div class="forward-lightbox--block">
+<div class="forward-lightbox--close">Close</div>
+<div class="forward-lightbox--insert"></div>
+</div></div></div></section><div class="page-mask"></div>
+</div>
+<script>
+        
+            window.jQuery || document.write('<script src="https://forward.com/workspace/res/js/vendor/jquery-2.1.1.min.js" type="text/javascript"><\/script>')
+        
+    </script><script>
+    window.twttr = (function(d, s, id) {
+        var t, js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "https://platform.twitter.com/widgets.js";
+        fjs.parentNode.insertBefore(js, fjs);
+        return window.twttr || (t = {
+            _e: [],
+            ready: function(f) {
+                t._e.push(f)
+            }
+        });
+    }(document, "script", "twitter-wjs"));
+    </script><div id="parsely-root" style="display: none"><span id="parsely-cfg" data-parsely-site="forward.com"></span></div>
+<script>
+        (function(s, p, d) {
+          var h=d.location.protocol, i=p+"-"+s,
+              e=d.getElementById(i), r=d.getElementById(p+"-root"),
+              u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+              :"static."+p+".com";
+          if (e) return;
+          e = d.createElement(s); e.id = i; e.async = true;
+          e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+        })("script", "parsely", document);
+    </script><script src="https://forward.com/workspace/res/js/blog.min.js?p=54f43fce0" type="text/javascript"></script><link rel="stylesheet" media="screen" href="/workspace/res/popups/popup-generic/style.css?2" type="text/css">
+<div id="generic-popup-controller">
+<div id="generic-popup-background"></div>
+<div id="generic-popup">
+<a id="generic-popup-close-button" href="#"></a><div id="generic-popup-content">
+<div id="popup-signup-form-container"><form id="popup-signup-form" method="post" action="">
+<input type="hidden" name="action[sailthru-subscribe]" value="1"><input type="hidden" name="vars[source]" value="Popup_Many_Ways_to_be_Jewish" id="popup-signup-form-source"><input type="hidden" name="lists[0]" value="daily"><input type="hidden" name="lists[1]" value="sisterhood"><input type="hidden" name="lists[2]" value="schmooze"><input type="hidden" name="lists[3]" value="food"><input type="hidden" name="lists[4]" value="opinion"><input type="hidden" name="lists[5]" value="promo"><input type="hidden" name="promo" value="1"><fieldset>
+<input type="email" name="user[email]" placeholder="Enter email" required="required" class="email"><input type="submit" value="submit" class="submit">
+</fieldset>
+</form></div>
+<div id="popup-signup-form-success" style="display:none">
+                    thank you.
+                </div>
+</div>
+</div>
+</div>
+<script src="/workspace/res/popups/forward-tools/ForwardTags.js"></script><script src="/workspace/res/popups/forward-tools/ForwardUser.js?p=1"></script><script src="https://www.google.com/recaptcha/api.js"></script><script type="text/javascript">
+        var _qevents = _qevents || [];
+
+        (function() {
+        var elem = document.createElement('script');
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem, scpt);
+        })();
+
+        _qevents.push({
+        qacct:"p-dcoXs-3nqillU"
+        });
+        </script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-dcoXs-3nqillU.gif" border="0" height="1" width="1" alt="Quantcast"></div></noscript>
+<script src="//static.getclicky.com/js" type="text/javascript"></script><script type="text/javascript">try{ clicky.init(66401599); }catch(e){}</script><noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66401599ns.gif"></p></noscript>
+</body>
+</html>

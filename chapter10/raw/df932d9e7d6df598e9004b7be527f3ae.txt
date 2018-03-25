@@ -1,0 +1,966 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+.ntv-mw .socialContainer.twoCol {
+  position:relative !important;
+}
+</style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<link rel="icon" type="image/png" href="../../dist/assets/icons/favicon.ico">
+<link href="../../dist/assets/icons/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="../../dist/assets/icons/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="../../dist/assets/icons/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="../../dist/assets/icons/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+<link href="../../dist/assets/icons/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" />
+<link href="../../dist/assets/icons/icon-hires.png" rel="icon" sizes="192x192" />
+<link href="../../dist/assets/icons/icon-normal.png" rel="icon" sizes="128x128" />
+<link rel="stylesheet" type="text/css" href="/dist/css_1521016599896/main.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<script type="text/javascript" src="/dist/bower_components/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular/angular.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular-animate/angular-animate.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular-touch/angular-touch.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/angular-ui/build/angular-ui.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/toastr/toastr.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/waypoints/lib/jquery.waypoints.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/waypoints/lib/shortcuts/sticky.min.js"></script>
+<script type="text/javascript"
+        src="/dist/bower_components/angular-ui-router/release/angular-ui-router.min.js"></script>
+<script type="text/javascript" src="/dist/bower_components/moment/min/moment.min.js"></script>
+<script type='text/javascript' src='../../dist/assets/js/ng-infinite-scroll.js'></script>
+<meta property="al:ios:app_name" content="ap-news-app">
+<meta property="al:ios:app_store_id" content="364677107">
+
+<meta name="ap-news-app" content="app-id=364677107, app-argument=https://www.apnews.com/f447c4e387a54298925d307850f68468/Putin%27s-dilemma:-Scrap-term-limits-or-choose-a-successor">
+<meta property="fb:pages" content="249655421622"/>
+
+<meta name="referrer" content="origin">
+<meta name="google-site-verification" content="LJ7vk4czBDDGQtqBLAiY_a9dcLP5v9X-sLlrYaW5kbM" />
+
+<script type="text/javascript">
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 11689; // ACCOUNT NUMBER
+    _sf_async_config.domain = 'apnews.com'; // DOMAIN
+    _sf_async_config.flickerControl = false;
+    _sf_async_config.useCanonical = true;
+    /** CONFIGURATION END **/
+    var _sf_startpt = (new Date()).getTime();
+</script>
+<script async src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+<script type='text/javascript'>
+    var environment_type = 'PRODUCTION';
+
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function () {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script>
+
+<!-- Branch WEB SDK
+    TODO: Implement deeplinks and Journeys
+-->
+<script type="text/javascript">
+  (function(b,r,a,n,c,h,_,s,d,k){if(!b[n]||!b[n]._q){for(;s<_.length;)c(h,_[s++]);d=r.createElement(a);d.async=1;d.src="https://cdn.branch.io/branch-latest.min.js";k=r.getElementsByTagName(a)[0];k.parentNode.insertBefore(d,k);b[n]=h}})(window,document,"script","branch",function(b,r){b[r]=function(){b._q.push([r,arguments])}},{_q:[],_v:1},"addListener applyCode banner closeBanner creditHistory credits data deepview deepviewCta first getCode init link logout redeem referrals removeListener sendSMS setBranchViewData setIdentity track validateCode".split(" "), 0);
+
+    branch.init('key_live_ndufC8VAc2V3dnaX3lenvdhkvAc3rs4S', function(err, data) {
+    });
+</script>
+
+    <script type="text/javascript" src="../../dist/assets/js/jquery.mobile.min.js"></script>
+    <script type="text/javascript" src="../../dist/assets/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../../dist/assets/js/smartquotes.js"></script>
+    <script>smartquotes()</script>
+
+    <!-- APNews app tags -->
+    <meta property="al:ios:url" content="apnews://f447c4e387a54298925d307850f68468">
+    <!-- video js -->
+    <link href="//vjs.zencdn.net/5.3/video-js.min.css" rel="stylesheet">
+    <!--<link rel="stylesheet" href="../../dist/assets/js/videojs.ads.css"/>
+    <link rel="stylesheet" href="../../dist/assets/js/videojs.ima.css"/>-->
+    <title>Putin&#39;s dilemma: Scrap term limits or choose a successor</title>
+    <meta id="adMetaTags" name="keywords" content="AP Top News,International News,Russia Election,Moscow,Elections,Financial markets,Vladimir Putin,Term limits,Europe,Russia"/>
+    <meta name="description" content="
+              MOSCOW (AP) — With his best election showing ever, President Vladimir Putin is shifting comfortably into his next six-year term, but the gnawing question of what comes next alread"/>
+    <link rel="canonical" href="https://www.apnews.com/f447c4e387a54298925d307850f68468"/>
+    <link rel="amphtml" href="https://www.apnews.com/amp/f447c4e387a54298925d307850f68468">
+
+    <!-- OG Tags -->
+    <meta property="og:url" content="https://www.apnews.com/f447c4e387a54298925d307850f68468/Putin%27s-dilemma:-Scrap-term-limits-or-choose-a-successor"/>
+    <meta property="og:image" content="https://storage.googleapis.com/afs-prod/media/media:4c0456c4107a471ea289bd7ffd7d2bd9/800.jpeg"/>
+    <meta property="og:image:width" content="800"/>
+    <meta property="og:image:height" content="600"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:title" content="Putin&#39;s dilemma: Scrap term limits or choose a successor"/>
+    <meta property="og:site_name" content="AP News"/>
+    <meta property="fb:app_id" content="870613919693099"/>
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:description" content="
+              MOSCOW (AP) — With his best election showing ever, President Vladimir Putin is shifting comfortably into his next six-year term, but the gnawing question of what comes next alread"/>
+    <meta property="article:publisher" content="https://www.facebook.com/APNews"/>
+
+    <!-- Twitter Card tags -->
+    <meta property="twitter:card" content="summary_large_image"/>
+    <meta property="twitter:site" content="@ap"/>
+    <meta property="twitter:title" content="Putin&#39;s dilemma: Scrap term limits or choose a successor"/>
+    <meta property="twitter:description" content="
+              MOSCOW (AP) — With his best election showing ever, President Vladimir Putin is shifting comfortably into his next six-year term, but the gnawing question of what comes next alread"/>
+    <meta property="twitter:image" content="https://storage.googleapis.com/afs-prod/media/media:4c0456c4107a471ea289bd7ffd7d2bd9/800.jpeg"/>
+    <meta property="twitter:url" content=" https://www.apnews.com/f447c4e387a54298925d307850f68468"/>
+    <meta name="twitter:image:alt" content="https://storage.googleapis.com/afs-prod/media/media:4c0456c4107a471ea289bd7ffd7d2bd9/800.jpeg"/>
+
+    <!-- AppNexus -->
+    <script src="https://acdn.adnxs.com/prebid/c/7403/pb.js" async=true></script>
+    <script>
+        var googletag = googletag || {};
+
+        googletag.cmd = googletag.cmd || [];
+        googletag.cmd.push(function () {
+          googletag.pubads().disableInitialLoad();
+        });
+    </script>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push(
+                {article: 'auto'}
+        );
+        !function (e, f, u) {
+            e.async = 1;
+            e.src = u;
+            f.parentNode.insertBefore(e, f);
+        }(document.createElement('script'),
+                document.getElementsByTagName('script')[0],
+                '//cdn.taboola.com/libtrc/associatedpress-apnews/loader.js');
+    </script>
+    <script type='text/javascript'>
+      googletag.cmd.push(function(){
+        var isSticked = false;
+        var bottomAdPos;
+        googletag.pubads().addEventListener('slotRenderEnded', function (event) {
+            if (event.slot.getSlotElementId() === "div-gpt-ad-1461247613791-1") {
+              var bottomAd = $("#bottomAd");
+              bottomAdPos = bottomAd.position().top;
+              var articleContent = $("#articleContent");
+              var rightRail = $(".rightRail");
+              $(window).scroll(function() {
+                  var windowPos = $(window).scrollTop();
+                  if (windowPos >=  bottomAd.position().top + bottomAd.height()){
+                      if(!isSticked){
+                        bottomAdPos = bottomAd.position().top;
+                        isSticked = true;
+                      }
+                      bottomAd.addClass("stickBottomAd");
+                  }
+                  if(windowPos < bottomAdPos){
+                      bottomAd.removeClass("stickBottomAd");
+                  }
+              });
+             }
+         });
+        googletag.defineSlot('/15786418/APNews/site/article/rectangle1', [[300, 250], [300, 600]], 'div-gpt-ad-1461247613791-1').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        googletag.defineSlot('/15786418/APNews/site/article/rectangle2', [300, 250], 'div-gpt-ad-1461247613791-2').addService(googletag.pubads());
+      });
+    </script>
+
+    <base href="/">
+    <script type="text/javascript">
+      $(document).ready(function(){
+        var imageClassList = $('.articleImage').prop('classList');
+        if(jQuery.inArray('tallImage',imageClassList) != -1){
+          $('.articleBody .ad-placeholder:nth(0)').remove();
+        }
+        $('a').on('click', function(){
+            ga('send',{
+                hitType: 'event',
+                eventCategory: 'StoryLink',
+                eventAction: 'LinkOpened',
+                eventLabel: $(this).href
+            });
+        });
+      });
+    </script>
+    <script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-19104461-33', 'auto');
+        ga('set', {
+            'dimension1': 'f447c4e387a54298925d307850f68468',
+            'dimension4': "Putin's dilemma: Scrap term limits or choose a successor",
+            'dimension8': '',
+            'dimension11'   : 'YES'
+        });
+        ga('send', 'pageview');
+
+    </script>
+
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.apnews.com/f447c4e387a54298925d307850f68468"
+        },
+        "headline": "Putin&#39;s dilemma: Scrap term limits or choose a successor",
+        "image":{
+            "@type": "ImageObject",
+            "url": "https://storage.googleapis.com/afs-prod/media/media:4c0456c4107a471ea289bd7ffd7d2bd9/800.jpeg",
+            "height": "533",
+            "width": "800"
+        },
+        "datePublished": "2018-03-19 17:44:52",
+        "dateModified": "2018-03-19 17:44:52",
+        "author": {
+            "@type": "Person",
+            "name": "By ANGELA CHARLTON and VLADIMIR ISACHENKOV"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Associated Press",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "http://apcontextual.appspot.com/Support/AMPLogo.png",
+              "width": 600,
+              "height": 60
+            }
+        },
+        "description": ""
+      }
+
+
+    </script>
+
+</head>
+<body ng-app="articleContent" style="background-color: white">
+<script type="text/javascript" src="../../dist/assets/js/socialMedia.js"></script>
+
+<!-- Modal -->
+<div id="imageModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="closeContentModalButton">
+                    <a type="button" data-dismiss="modal">&times;</a>
+                </div>
+            </div>
+            <div class="modal-body">
+                <div id="imageCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner" role="listbox">
+                        
+                        <div class="item  active ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:4c0456c4107a471ea289bd7ffd7d2bd9/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              Russian President Vladimir Putin arrives to attend a meeting with opposition candidates who ran against him in yesterday's presidential election, Boris Titov, Maxim Suraykin, Ksenia Sobchak, Vladimir Zhirinivsky, Pavel Grudinin, Sergei Baburin and Grigory Yavlinsky, at the Kremlin in Moscow, Russia, Monday, March 19, 2018. Putin, who won a landslide victory in Sunday's vote, said during a Kremlin meeting with seven other candidates who challenged him, that the focus should now be on raising living standards and solving other domestic issues. (Yuri Kadobnov/Pool Photo via AP)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:af9da313b6e44ca38db4a1bd6c5fe05f/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              Russian opposition candidates who ran against Vladimir Putin  in yesterday's presidential election, Vladimir Zhirinivsky, left, Ksenia Sobchak, second left, Pavel Grudinin, second right, and Sergei Baburin, right, wait for a meeting with Russian President Vladimir Putin at the Kremlin in Moscow, Russia, Monday, March 19, 2018. Putin, who won a landslide victory in Sunday's vote, said during a Kremlin meeting with seven other candidates who challenged him, that the focus should now be on raising living standards and solving other domestic issues. (Yuri Kadobnov/Pool Photo via AP)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:f3edd23412a34dd18bdb1558e790302d/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              Russian President Vladimir Putin meets with co-chairs of his campaign headquarters in the Kremlin in Moscow, Russia, Monday, March 19, 2018. Now that Vladimir Putin has overwhelmingly won re-election for another six years in power, some are wondering whether he will try to stay in power for life. (Yuri Kadobnov/Pool Photo via AP)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:93519e18d3d04e8a96c9adc86c1da903/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              Russian President Vladimir Putin, second right, meets with opposition candidates who ran against him in Sunday's presidential election, Boris Titov, left, Maxim Suraykin, second left, Ksenia Sobchak, third left, Vladimir Zhirinovsky, fourth left, Pavel Grudinin, fourth right, Sergei Baburin, third right, and Grigory Yavlinsky, right, at the Kremlin in Moscow, Russia, Monday, March 19, 2018. Putin, who won a landslide victory in Sunday's vote, said during a Kremlin meeting with seven other candidates who challenged him, that the focus should now be on raising living standards and solving other domestic issues. (Alexei Nikolsky, Sputnik, Kremlin Pool Photo via AP)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:020632d94b9547ec9646fb93c33e4f48/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              Russian President Vladimir Putin, right, speaks to Ksenia Sobchak, back to a camera, as Sergei Baburin, left, looks at him during his meeting with opposition candidates who ran against him in yesterday's presidential election, Boris Titov, Maxim Suraykin, Vladimir Zhirinivsky, Pavel Grudinin, and Grigory Yavlinsky, at the Kremlin in Moscow, Russia, Monday, March 19, 2018. Putin, who won a landslide victory in Sunday's vote, said during a Kremlin meeting with seven other candidates who challenged him, that the focus should now be on raising living standards and solving other domestic issues. (Alexei Nikolsky, Sputnik, Kremlin Pool Photo via AP)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:0e38038395024cbfb9e0e458f86a0e6b/800.jpeg" alt="Marietta Tidei, Georg Link">
+                            <div class="carousel-caption">
+                                
+              <p>
+              Marietta Tidei of the OSCE's Parliamentary Assembly, left, speaks to Michael Georg Link, a coordinator of the observer mission during a news conference in Moscow, Russia, Monday, March 19, 2018. European election observers said Monday that Russia's President Vladimir Putin won a landslide vote conducted in an orderly way but lacked genuine political competition. (AP Photo/Alexander Zemlianichenko)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:bd1d4c4b3d374f3391a04be881449b63/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              Russian President Vladimir Putin gestures as he speaks during a meeting with opposition candidates who ran against him in yesterday's presidential election, Boris Titov, Maxim Suraykin, Ksenia Sobchak, Vladimir Zhirinivsky, Pavel Grudinin, Sergei Baburin and Grigory Yavlinsky, at the Kremlin in Moscow, Russia, Monday, March 19, 2018. Putin, who won a landslide victory in Sunday's vote, said during a Kremlin meeting with seven other candidates who challenged him, that the focus should now be on raising living standards and solving other domestic issues. (Yuri Kadobnov/Pool Photo via AP)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:3644a7b4c7494f99ac2c4ba7434bce96/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              Russian President Vladimir Putin gestures as he speaks during a meeting with opposition candidates who ran against him in yesterday's presidential election, Boris Titov, Maxim Suraykin, Ksenia Sobchak, Vladimir Zhirinivsky, Pavel Grudinin, Sergei Baburin and Grigory Yavlinsky, at the Kremlin in Moscow, Russia, Monday, March 19, 2018. Putin, who won a landslide victory in Sunday's vote, said during a Kremlin meeting with seven other candidates who challenged him, that the focus should now be on raising living standards and solving other domestic issues. (Yuri Kadobnov/Pool Photo via AP)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:98d6ea612b384346a8c25e226a689b18/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              Russian President Vladimir Putin, second right, meets with opposition candidates who ran against him in yesterday's presidential election, Boris Titov, , left, Maxim Suraykin, second left, Ksenia Sobchak, third left, Vladimir Zhirinovsky, fourth left, Pavel Grudinin, fourth right, third right, Sergei Baburin and Grigory Yavlinsky, right, at the Kremlin in Moscow, Russia, Monday, March 19, 2018. Putin, who won a landslide victory in Sunday's vote, said during a Kremlin meeting with seven other candidates who challenged him, that the focus should now be on raising living standards and solving other domestic issues. (Yuri Kadobnov/Pool Photo via AP)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:cca53028dcc44891a63eec2327f06c3c/800.jpeg" alt="None">
+                            <div class="carousel-caption">
+                                
+              <p>
+              Russian President Vladimir Putin, left, meets with opposition candidates who ran against him in yesterday's presidential election, shaking hands with Vladimir Zhirinovsky, and with Pavel Grudinin, 2nd right, and Sergei Baburin, right, at the Kremlin in Moscow, Russia, Monday, March 19, 2018. Putin, who won a landslide victory in Sunday&#8217;s vote, said during a Kremlin meeting with seven other candidates who challenged him, that the focus should now be on raising living standards and solving other domestic issues. (Yuri Kadobnov/Pool Photo via AP)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:b7786117640b468ab85d7e08ef1d551d/800.jpeg" alt="Pavel Grudinin">
+                            <div class="carousel-caption">
+                                
+              <p>
+              Communist party candidate Pavel Grudinin, right, and Communist Party leader Gennady Zyuganov, attend a news conference in Moscow, Russia, Monday, March 19, 2018. Grudinin, a millionaire strawberry farm director, polled 11.9 percent in Sunday's presidential vote, trailing far behind President Vladimir Putin who won nearly 77 percent of the vote. (AP Photo/Pavel Golovkin)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:8738960eb9174e13a42c3f6dbff09d00/400.jpeg" alt="Putin Wins Six More Years As Russian President">
+                            <div class="carousel-caption">
+                                
+              <p>
+              Russian President Vladimir Putin rolled to a crushing re-election victory Sunday. He told cheering supporters that "we are bound for success." Putin faced seven minor candidates. His strongest opponent was barred from running. (March 19)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                        <div class="item ">
+                            <img src="https://storage.googleapis.com/afs-prod/media/media:8738960eb9174e13a42c3f6dbff09d00/400.jpeg" alt="Putin Wins Six More Years As Russian President">
+                            <div class="carousel-caption">
+                                
+              <p>
+              Russian President Vladimir Putin rolled to a crushing re-election victory Sunday. He told cheering supporters that "we are bound for success." Putin faced seven minor candidates. His strongest opponent was barred from running. (March 19)
+            </p>
+            
+                            </div>
+                        </div>
+                        
+                    </div>
+
+                    <!-- Left and right controls -->
+                    
+                    <a class="left carousel-control" href="#imageCarousel" role="button" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"><div class="sr-only carousel-round"> <svg class="carousel-arrow" viewBox="0 0 100 100"><path d="M 25,50 L 60,85 L 65,80 L 35,50  L 65,20 L 60,15 Z" class="arrow"></path></svg> </div></span>
+                    </a>
+                    <a class="right carousel-control" href="#imageCarousel" role="button" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"><div class="sr-only carousel-round"> <svg class="carousel-arrow" viewBox="0 0 100 100"><path d="M 25,50 L 60,85 L 65,80 L 35,50  L 65,20 L 60,15 Z" class="arrow" transform="translate(100, 100) rotate(180) "></path></svg> </div></span>
+                    </a>
+
+                    <ol class="carousel-indicators">
+                        
+                        <li data-target="#imageCarousel" data-slide-to="0" 
+                            class="active" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="1" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="2" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="3" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="4" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="5" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="6" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="7" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="8" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="9" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="10" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="11" ></li>
+                        
+                        <li data-target="#imageCarousel" data-slide-to="12" ></li>
+                        
+                    </ol>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="videoModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="closeContentModalButton">
+                    <a type="button" data-dismiss="modal">&times;</a>
+                </div>
+            </div>
+            <div class="modal-body" id="content_html5_video">
+                <video id="content_video" class="video-js vjs-default-skin"
+                       poster="https://storage.googleapis.com/afs-prod/media/media:8738960eb9174e13a42c3f6dbff09d00/400.jpeg" controls preload="auto">
+                    <source src="https://storage.googleapis.com/afs-prod/media/media:8738960eb9174e13a42c3f6dbff09d00/576.mp4"
+                            type="video/mp4"/>
+                </video>
+
+                <div id="caption" style="padding-top:50px">
+                    
+              <p>
+              Russian President Vladimir Putin rolled to a crushing re-election victory Sunday. He told cheering supporters that "we are bound for success." Putin faced seven minor candidates. His strongest opponent was barred from running. (March 19)
+            </p>
+            
+                </div>
+                
+                <div style="margin: 0 auto; width: 100%;">
+                    
+                    <a class="playList" data-url="https://storage.googleapis.com/afs-prod/media/media:8738960eb9174e13a42c3f6dbff09d00/576.mp4" data-caption="
+              &lt;p&gt;
+              Russian President Vladimir Putin rolled to a crushing re-election victory Sunday. He told cheering supporters that &#34;we are bound for success.&#34; Putin faced seven minor candidates. His strongest opponent was barred from running. (March 19)
+            &lt;/p&gt;
+            "
+                       style="color:white">
+                        <img src="https://storage.googleapis.com/afs-prod/media/media:8738960eb9174e13a42c3f6dbff09d00/400.jpeg" class="playListIcon">
+                    </a>
+                    
+                    <a class="playList" data-url="https://storage.googleapis.com/afs-prod/media/media:8738960eb9174e13a42c3f6dbff09d00/576.mp4" data-caption="
+              &lt;p&gt;
+              Russian President Vladimir Putin rolled to a crushing re-election victory Sunday. He told cheering supporters that &#34;we are bound for success.&#34; Putin faced seven minor candidates. His strongest opponent was barred from running. (March 19)
+            &lt;/p&gt;
+            "
+                       style="color:white">
+                        <img src="https://storage.googleapis.com/afs-prod/media/media:8738960eb9174e13a42c3f6dbff09d00/400.jpeg" class="playListIcon">
+                    </a>
+                    
+                </div>
+                
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<div page-header></div>
+
+
+<div class="articleView" >
+    <div class="articleContentContainer">
+        <div class="sideRail leftRail" >
+            <div class="fullscreen">
+                <div>
+                    <h4>By ANGELA CHARLTON and VLADIMIR ISACHENKOV</h4>
+                </div>
+                <div>
+                    <h4 class="updatedString">Yesterday</h4>
+                </div>
+            </div>
+            <div class="outerShareContainer">
+                <!--share-container is Angular directive, search for 'searchContainer'-->
+<!--fbShare, tweet and deeplink are handled by jQuery, search for file socialMedia.js-->
+<div class="fbShare socialIcons" data-url="https://www.apnews.com/f447c4e387a54298925d307850f68468/Putin%27s-dilemma:-Scrap-term-limits-or-choose-a-successor" data-title="Putin&#39;s dilemma: Scrap term limits or choose a successor" data-image="https://storage.googleapis.com/afs-prod/media/media:4c0456c4107a471ea289bd7ffd7d2bd9/800.jpeg"
+     data-member="" data-id="urn:publicid:ap.org:f447c4e387a54298925d307850f68468" data-cardType="">
+    <img src="../../dist/assets/icons/facebook-share.png" class="shareIcon"/>
+</div>
+<div class="tweet socialIcons" data-title="Putin&#39;s dilemma: Scrap term limits or choose a successor" data-url="https://www.apnews.com/f447c4e387a54298925d307850f68468"
+     data-member="" data-id="urn:publicid:ap.org:f447c4e387a54298925d307850f68468" data-cardType="">
+    <img src="../../dist/assets/icons/twitter-share.png" class="shareIcon"/>
+</div>
+<div id="mailTo" class="socialIcons" data-url="https://www.apnews.com/f447c4e387a54298925d307850f68468" data-member=""
+     data-id="urn:publicid:ap.org:f447c4e387a54298925d307850f68468" data-cardType="">
+    <img src="../../dist/assets/icons/email.png" class="shareIcon"/>
+</div>
+<div class="deeplink socialIcons" data-url="https://www.apnews.com/f447c4e387a54298925d307850f68468">
+    <img  class="deeplink-image" src="../../dist/assets/icons/permalink-field.jpg"/>
+    <span class="deeplink-text">https://www.apnews.com/f447c4e387a54298925d307850f68468</span>
+    <div class="deeplink-hint">Link copied!</div>
+</div>
+<div share-container name="Putin&#39;s dilemma: Scrap term limits or choose a successor" is-share="false" url="https://www.apnews.com/f447c4e387a54298925d307850f68468" id="urn:publicid:ap.org:f447c4e387a54298925d307850f68468" short-id="f447c4e387a54298925d307850f68468" type="content" page="card"
+     card-type="" card-title="Putin&#39;s dilemma: Scrap term limits or choose a successor" member-name=""></div>
+            </div>
+
+            <div class="leftRailTags leftRailTitle">
+                <h4>RELATED TOPICS</h4>
+                <ul>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/apf-intlnews">International News</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/RussiaElection">Russia Election</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/Moscow">Moscow</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/Elections">Elections</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/Financialmarkets">Financial markets</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/VladimirPutin">Vladimir Putin</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/Termlimits">Term limits</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/apf-europe">Europe</a>
+                    </li>
+                    
+                    <li>
+                        <a class="leftRailTagButtons" href="/tag/Russia">Russia</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <div>
+                <span class="leftRailTitle">More from</span><br/>
+                <a href="/tag/apf-topnews"><span class="moreFrom">AP Top News</span></a>
+            </div>
+        </div>
+
+        
+        <div class="articleContent" id="articleContent">
+            <div class="dtTitle">
+                <ul class="topTags">
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-intlnews">International News</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/RussiaElection">Russia Election</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/Moscow">Moscow</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/Elections">Elections</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/Financialmarkets">Financial markets</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/VladimirPutin">Vladimir Putin</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/Termlimits">Term limits</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-europe">Europe</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/Russia">Russia</a>
+                    </li>
+                    
+                    <li class="tagsList">
+                        <a href="/tag/apf-topnews">AP Top News</a>
+                    </li>
+                </ul>
+                <div class="dtTitleContainer">
+                    <h1 class="topTitle">Putin&#39;s dilemma: Scrap term limits or choose a successor</h1>
+                </div>
+            </div>
+            
+            <div class=" articleImage modalImageButton  ">
+                <div class="articleIcons">
+                    
+                    <button data-toggle="modal" class="modalImageButton"><img
+                            src="../../dist/assets/icons/slideshow-story-view.png" class="articleIcon"></button>
+                    
+                    
+                    <button data-toggle="modal" class="modalVideoButton"><img
+                            src="../../dist/assets/icons/play-story-view.png" class="articleIcon"></button>
+                    
+                </div>
+                <img class="afkl-lazy-image primaryImage" src="https://storage.googleapis.com/afs-prod/media/media:4c0456c4107a471ea289bd7ffd7d2bd9/800.jpeg"><!--src="https://storage.googleapis.com/afs-prod/media/media:4c0456c4107a471ea289bd7ffd7d2bd9/800.jpeg"-->
+            </div>
+            
+            <script>
+            </script>
+            <article id="contentArea"
+                     class="    ">
+                
+                <div class="mobileTitle">
+                    <ul style="padding: 0">
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-intlnews">International News</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/RussiaElection">Russia Election</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Moscow">Moscow</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Elections">Elections</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Financialmarkets">Financial markets</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/VladimirPutin">Vladimir Putin</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Termlimits">Term limits</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-europe">Europe</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Russia">Russia</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-topnews">AP Top News</a>
+                        </li>
+                    </ul>
+                    <h3>Putin&#39;s dilemma: Scrap term limits or choose a successor</h3>
+                </div>
+                
+                <div class="tabletTitle">
+                    <ul style="padding: 0">
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-intlnews">International News</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/RussiaElection">Russia Election</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Moscow">Moscow</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Elections">Elections</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Financialmarkets">Financial markets</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/VladimirPutin">Vladimir Putin</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Termlimits">Term limits</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-europe">Europe</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/Russia">Russia</a>
+                        </li>
+                        
+                        <li class="tagsList">
+                            <a href="/tag/apf-topnews">AP Top News</a>
+                        </li>
+                    </ul>
+                    <h3>Putin&#39;s dilemma: Scrap term limits or choose a successor</h3>
+                </div>
+                <div class="mobile">
+                    <div>
+                        <h6>By ANGELA CHARLTON and VLADIMIR ISACHENKOV</h6>
+                    </div>
+                    <div>
+                        <h6>Yesterday</h6>
+                    </div>
+
+                </div>
+                <div class="mobile mobileShareTemplate">
+                    <!--share-container is Angular directive, search for 'searchContainer'-->
+<!--fbShare, tweet and deeplink are handled by jQuery, search for file socialMedia.js-->
+<div class="fbShare socialIcons" data-url="https://www.apnews.com/f447c4e387a54298925d307850f68468/Putin%27s-dilemma:-Scrap-term-limits-or-choose-a-successor" data-title="Putin&#39;s dilemma: Scrap term limits or choose a successor" data-image="https://storage.googleapis.com/afs-prod/media/media:4c0456c4107a471ea289bd7ffd7d2bd9/800.jpeg"
+     data-member="" data-id="urn:publicid:ap.org:f447c4e387a54298925d307850f68468" data-cardType="">
+    <img src="../../dist/assets/icons/facebook-share.png" class="shareIcon"/>
+</div>
+<div class="tweet socialIcons" data-title="Putin&#39;s dilemma: Scrap term limits or choose a successor" data-url="https://www.apnews.com/f447c4e387a54298925d307850f68468"
+     data-member="" data-id="urn:publicid:ap.org:f447c4e387a54298925d307850f68468" data-cardType="">
+    <img src="../../dist/assets/icons/twitter-share.png" class="shareIcon"/>
+</div>
+<div id="mailTo" class="socialIcons" data-url="https://www.apnews.com/f447c4e387a54298925d307850f68468" data-member=""
+     data-id="urn:publicid:ap.org:f447c4e387a54298925d307850f68468" data-cardType="">
+    <img src="../../dist/assets/icons/email.png" class="shareIcon"/>
+</div>
+<div class="deeplink socialIcons" data-url="https://www.apnews.com/f447c4e387a54298925d307850f68468">
+    <img  class="deeplink-image" src="../../dist/assets/icons/permalink-field.jpg"/>
+    <span class="deeplink-text">https://www.apnews.com/f447c4e387a54298925d307850f68468</span>
+    <div class="deeplink-hint">Link copied!</div>
+</div>
+<div share-container name="Putin&#39;s dilemma: Scrap term limits or choose a successor" is-share="false" url="https://www.apnews.com/f447c4e387a54298925d307850f68468" id="urn:publicid:ap.org:f447c4e387a54298925d307850f68468" short-id="f447c4e387a54298925d307850f68468" type="content" page="card"
+     card-type="" card-title="Putin&#39;s dilemma: Scrap term limits or choose a successor" member-name=""></div>
+                </div>
+                <div class="articleBody" mark-urls>
+                    
+<p>MOSCOW (AP) &#8212; With his best election showing ever, President Vladimir Putin is shifting comfortably into his next six-year term, but the gnawing question of what comes next already looms on Russia's horizon.</p>
+<p>At his first appearance after Sunday's victory, Putin was immediately asked about his plans beyond 2024, reflecting Russia's nervousness about the succession issue that will dominate the political landscape for the near future.</p><div class="ad-placeholder"></div>
+<p>Putin piled up nearly 77 percent of the vote, burnishing his credentials as a leader who enjoys overwhelming public support. That will give him more room to ponder his choice: groom a reliable successor, scrap term limits or create a new position of power so he can continue pulling the strings after his fourth term ends.</p>
+<p>All those options will remain on the table, and Putin probably will wait a few more years before making his choice.</p>
+<p>Asked if he could initiate changes to the constitution, he answered with a characteristic reticence, saying he has no such plans "yet." He also laughed off a suggestion that he could take a six-year break before moving to reclaim the presidency in 2030.</p>
+<p>"It's a bit ridiculous, let's do the math. Shall I sit here until I turn 100? No!" he said.</p><div id="media:8738960eb9174e13a42c3f6dbff09d00" class="media-placeholder"><img src="https://storage.googleapis.com/afs-prod/media/media:8738960eb9174e13a42c3f6dbff09d00/400.jpeg" class="embedded embeddedVideo" data-url="https://storage.googleapis.com/afs-prod/media/media:8738960eb9174e13a42c3f6dbff09d00/576.mp4" data-caption='
+              &lt;p&gt;
+              Russian President Vladimir Putin rolled to a crushing re-election victory Sunday. He told cheering supporters that "we are bound for success." Putin faced seven minor candidates. His strongest opponent was barred from running. (March 19)
+            &lt;/p&gt;
+            ' /><div class="playMark"><img class="playVideoIcon" src="../../dist/assets/icons/video_play_button.png" /></div></div><div class="embeddedCaption"><p class="caption">Russian President Vladimir Putin rolled to a crushing re-election victory Sunday. He told cheering supporters that "we are bound for success." Putin faced seven minor candidates. His strongest opponent was barred from running. (March 19)</p></div>
+<p>Alexander Baunov, an analyst with the Carnegie Moscow Center, said it would be good for Putin "to leave the presidential post with a record high result," since this is theoretically his final presidential term.</p>
+<p>"His final term in this chair ... will be a period of transition of power. It's much easier to enter this transition of power when you have this especially high result," Baunov said.</p>
+<p>In the last few years, Putin has methodically reshuffled Cabinet members and provincial governors. Some of them, such as Tula Gov. Alexei Dyumin, 45, and Economics Minister Maxim Oreshkin, 35, have been named among potential successors.</p>
+<p>Skeptics note, however, that the Kremlin might deliberately encourage succession rumors to see how the elites and broader public react, even though Putin might intend to stay on the job.</p>
+<p>The 65-year-old Russian leader remains in good physical shape, continuing to play ice hockey and engaging in other vigorous outdoor activities, and he could be strong enough to carry on beyond 2024.</p>
+<p>Chinese leader Xi Jinping's action to scrap term limits could offer a tempting example for the Russian leader. Xi was one of the first foreign leaders to congratulate Putin on his victory.</p><div class="ad-placeholder"></div>
+<p>Putin observed the two-term limit in 2008, shifting into the prime minister's seat and allowing longtime associate Dmitry Medvedev to serve as a placeholder president for four years. Putin, however, was unhappy with Medvedev's performance, particularly his decision to allow the West launch a military action in Libya that led to the ouster and death of its longtime leader, Moammar Gadhafi.</p>
+<p>After reclaiming the presidency in 2012, Putin focused on reasserting Russia's global clout and acted boldly to defy the West. That policy culminated in Russia's 2014 annexation of Crimea and support for a separatist insurgency in eastern Ukraine &#8212; actions that drew Western sanctions and sparked tensions unseen since Cold War times.</p>
+<p>Putin has cast himself as a protector against U.S.-led plots to sideline and weaken Russia, and with those bitter strains with the West showing no signs of abating, it could be hard to imagine him leaving the job in 2024.</p>
+<p>While those showdowns have exacerbated Russia's economic woes, they also raised patriotic feelings and bolstered Putin's support.</p>
+<p>"If a Russian leader is very welcomed and received as ... a personal friend, smiling together from morning to evening with different Western leaders, it raises suspicions here at home," Baunov said. "But if a Russian leader is heavily criticized by the West, by media and politicians, it means most probably he is defending Russia's national interest as much as he can."</p>
+<p>Tatyana Orlova, a 67-year-old St. Petersburg pensioner who voted for Putin, praised him as "the defender of our Motherland, who revived the army, brought Crimea back to Russia, raised up Russia from its knees."</p>
+<p>"I pray to God for him," she added.</p>
+<p>While such defiance of the West resonates well with Russians, there has been a plunge in living standards triggered by the combined blow of sanctions and lower oil prices. Many are unhappy with his performance at home and expect him to raise wages, improve ailing education and health care systems and modernize crumbling infrastructure.</p>
+<p>"Six years ago, everyone was well-off, people were buying cars, apartments," said Irina Korovina, 34, who voted for Putin in Yekaterinburg. "Now things are more difficult. People are economizing on food, on clothes. I'd like things to go back to where they were."</p>
+<p>Earlier this month, Putin had set a target of a 50 percent increase in Russian GDP per capita by the middle of the next decade, but he offered little detail of how that could be achieved. His state-of-the-nation speech reflected concern about Russia being left behind other countries if it doesn't innovate more.</p>
+<p>"We've already had two economic crises caused by the overreliance on oil and gas, in 2008-09 the oil price collapsed and in 2014-15 the oil price collapsed," said Chris Weafer of Macro Advisory.</p>
+<p>"It's a bit like the Oscar Wilde quote, 'One is unfortunate, two looks like carelessness,' but in the case of Russia, two were unfortunate but the third would look like carelessness," Weafer said. "I think the government is desperate not to again become overreliant on oil and gas."</p>
+<p>Putin's promises to wean Russia off its overwhelming dependence on exports of oil, gas and other raw materials are unlikely to materialize soon, and plans to encourage economic growth could be hard to implement. Yet, economic problems probably will not pose any significant challenge to his rule.</p>
+<p>Russia does occasionally see local protests over economic issues like wage cuts, but there's no national movement and many labor unions are under the control of employers.</p>
+<p>Sunday's election further marginalized the divided the opposition. Even widespread reports of ballot-stuffing and complaints by observers and opposition activists of coercion of voters to boost turnout won't blemish Putin's victory for most Russians.</p>
+<p>"At least we'll have stability &#8212; that's already something," said 20-year-old university student Yekaterina Korniltseva in Yekaterinburg, who said she voted for Putin.</p>
+<p>Yelena Solovyova of St. Petersburg, a 43-year-old manager, said she voted for others in past elections, but went for Putin this time because "I don't want any collapse that could make my life and the life of my children worse."</p>
+<p>In the short term, Putin may shake up his government and security structures and test some new names to see if they are worthy successors.</p>
+<p>They probably will be young technocrats "who have no political past and no ideological passions," said Paris-based analyst Tatyana Stanovaya.</p>
+<p>If he hasn't found a serious candidate by the middle of his term and is facing "fear and nervousness ... then Putin will have a greater temptation to stay in power," she added.</p>
+<p>___</p>
+<p>Associated Press writers Nataliya Vasilyeva in Yekaterinburg, James Ellingsworth in Moscow and Irina Titova in St. Petersburg contributed.</p>
+<p>__</p>
+<p>See complete Associated Press coverage of the Russian election: <a href="https://www.apnews.com/tag/RussiaElection">https://www.apnews.com/tag/RussiaElection</a></p>
+
+                </div>
+            </article>
+            
+            <div class="taboolaContainer" id="taboolaContainer">
+                <div id="taboola-below-article-text-links"></div>
+                <div id="taboola-below-article-thumbnails-2nd"></div>
+                <div id="taboola-below-article-thumbnails"></div>
+            </div>
+        </div>
+        
+        <div class="sideRail rightRail">
+            <div class="adUnit" id="div-gpt-ad-1461247613791-2">
+            </div>
+            <script type='text/javascript'>
+                googletag.cmd.push(function () {
+                    googletag.display('div-gpt-ad-1461247613791-2');
+                });
+            </script>
+            <div class="rightRailContent" side-feed tag-id="apf-topnews" content-id="f447c4e387a54298925d307850f68468">
+            </div>
+            <div class="bottomAd" id="bottomAd">
+                <div class="feedAd" id="div-gpt-ad-1461247613791-1">
+                </div>
+            </div>
+            <script type='text/javascript'>
+                googletag.cmd.push(function () {
+                    googletag.display('div-gpt-ad-1461247613791-1');
+                });
+            </script>
+        </div>
+        
+
+
+    </div>
+    <div page-footer></div>
+</div>
+<script type="application/javascript" src="/dist/articleContent_1521016612264.js"></script> 
+<script type="application/javascript" src="/dist/contentTemplates_1521016624504/templates.js"></script>
+<script src="//vjs.zencdn.net/5.3/video.min.js"></script>
+<script type="text/javascript" src="//imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
+<script src="../../dist/assets/js/videojs.ads.js"></script>
+<script src="../../dist/assets/js/videojs.ima.js"></script>
+<script type="application/javascript" src="/dist/articleManager_1521016612264.js"></script> 
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push(
+            {flush: true}
+    );
+</script>
+
+<script type="text/javascript">
+    $(function () {
+        window._taboola = window._taboola || [];
+        _taboola.push(
+                {
+                    mode: 'thumbnails-a',
+                    container: 'taboola-below-article-thumbnails',
+                    placement: 'Below Article Thumbnails',
+                    target_type: 'mix'
+                }
+        );
+        _taboola.push(
+            {
+                mode: 'organic-thumbnails-a',
+                container: 'taboola-below-article-thumbnails-2nd',
+                placement: 'Below Article Thumbnails 2nd',
+                target_type: 'mix'
+            }
+        );
+        _taboola.push(
+            {
+                mode: 'organic-text-links-a',
+                container: 'taboola-below-article-text-links',
+                placement: 'Below Article Text Links',
+                target_type: 'mix'
+            }
+        );
+    });
+</script>
+<!-- Twitter universal website tag code -->
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">twttr.conversion.trackPid('nv0fp',
+        {tw_sale_amount: 0, tw_order_quantity: 0}
+);</script>
+<noscript>
+    <img height="1" width="1" style="display:none;" alt=""
+         src="https://analytics.twitter.com/i/adsct?txn_id=nv0fp&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0"/>
+    <img height="1" width="1" style="display:none;" alt=""
+         src="//t.co/i/adsct?txn_id=nv0fp&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0"/>
+</noscript>
+<!-- End Twitter universal website tag code -->
+<input id="hiddenTitle" type="hidden" value="Putin&#39;s dilemma: Scrap term limits or choose a successor">
+<input type="hidden" value="None" id="userAccount">
+<input type="hidden" value="None" id="userToken">
+<input type="hidden" value="https://afs-prod.appspot.com" id="baseAFS">
+<input type="hidden" value="https://storage.googleapis.com/afs-prod/" id="baseGCS">
+<input type="hidden" value="31.230416,121.473701" id="latLong">
+<input type="hidden" value="31" id="region">
+<input type="hidden" value="shanghai" id="city">
+<input type="hidden" value="CN" id="country">
+
+<script type='text/javascript'>
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.sections = 'Topnews, Intlnews, Europe';
+    _sf_async_config.authors = 'By ANGELA CHARLTON and VLADIMIR ISACHENKOV';
+    _sf_async_config.alias = window.location.href;
+
+    /** CONFIGURATION END **/
+    (function() {
+      function loadChartbeat() {
+          window._sf_endpt = (new Date()).getTime();
+          var e = document.createElement('script');
+          e.setAttribute('language', 'javascript');
+          e.setAttribute('type', 'text/javascript');
+          e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+          document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+          loadChartbeat : function() {
+              oldonload();
+              loadChartbeat();
+          };
+
+      })();
+  </script>
+</body>
+</html>

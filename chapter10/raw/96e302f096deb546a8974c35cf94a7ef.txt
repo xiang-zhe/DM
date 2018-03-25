@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html itemscope itemtype="http://schema.org/NewsArticle" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product#" class="no-js ie iem7" lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html itemscope itemtype="http://schema.org/NewsArticle" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product#" class="no-js ie lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html itemscope itemtype="http://schema.org/NewsArticle" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product#" class="no-js ie lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html itemscope itemtype="http://schema.org/NewsArticle" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product#" class="no-js ie lt-ie9" lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><html itemscope itemtype="http://schema.org/NewsArticle" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product#" class="no-js ie" lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product#"><![endif]-->
+<!--[if !IE]><!--><html itemscope itemtype="http://schema.org/NewsArticle" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product#" class="no-js" lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product#"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet" />
+<link rel="shortcut icon" href="https://www.commondreams.org/sites/all/themes/omega_dreams/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon-precomposed" href="https://www.commondreams.org/sites/all/themes/omega_dreams/images/apple-touch/favicon-120x120.png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="https://www.commondreams.org/sites/all/themes/omega_dreams/images/apple-touch/favicon.png" />
+<meta name="MobileOptimized" content="width" />
+<meta http-equiv="cleartype" content="on" />
+<link rel="apple-touch-icon-precomposed" href="https://www.commondreams.org/sites/all/themes/omega_dreams/images/apple-touch/favicon-76x76.png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="https://www.commondreams.org/sites/all/themes/omega_dreams/images/apple-touch/favicon-150x150.png" sizes="150x150" />
+  <script type='text/javascript' data-cfasync='false'>
+    //<![CDATA[
+      _SHR_SETTINGS = {"endpoints":{"share_counts_url":"https:\/\/www.commondreams.org\/shareaholic\/api\/share_counts\/v1"}};
+    //]]>
+  </script>
+  <!-- This site is powered by Shareaholic - https://shareaholic.com -->
+  <script type='text/javascript'
+    data-cfasync='false'
+    src='//apps.shareaholic.com/assets/pub/shareaholic.js'
+    data-shr-siteid='cd402eba906de7188c28179edbb4ddef'
+    async='async' >
+  </script>
+
+<!-- Shareaholic Content Tags -->
+<meta name='shareaholic:site_name' content='Common Dreams' />
+<meta name='shareaholic:language' content='en' />
+<meta name='shareaholic:site_id' content='cd402eba906de7188c28179edbb4ddef' />
+<meta name='shareaholic:drupal_version' content='7.x-3.29' />
+<meta name='shareaholic:url' content='https://www.commondreams.org/newswire/2018/03/19/greenpeace-co-founder-and-allies-arrested-protesting-trans-mountain-pipeline' />
+<meta name='shareaholic:article_published_time' content='2018-03-19T18:38:27-04:00' />
+<meta name='shareaholic:article_modified_time' content='2018-03-19T18:38:56-04:00' />
+<meta name='shareaholic:article_author_name' content='jon' />
+<meta name='shareaholic:keywords' content='climate, menu categories, u.s., canada, people&#039;s climate, greenpeace, kinder morgan' />
+<!-- Shareaholic Content Tags End -->
+<link rel="amphtml" href="https://www.commondreams.org/newswire/2018/03/19/greenpeace-co-founder-and-allies-arrested-protesting-trans-mountain-pipeline?amp" />
+<meta name="description" content="Today, Greenpeace co-founder | Greenpeace" />
+<meta name="keywords" content="Greenpeace, Climate, U.S., Canada, People&#039;s Climate, Greenpeace, Kinder Morgan" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+<meta name="generator" content="Drupal 7 (https://drupal.org)" />
+<link rel="image_src" href="https://www.commondreams.org/sites/default/files/organizations/greenpeace.jpg" />
+<link rel="canonical" href="https://www.commondreams.org/newswire/2018/03/19/greenpeace-co-founder-and-allies-arrested-protesting-trans-mountain-pipeline" />
+<link rel="shortlink" href="https://www.commondreams.org/node/117252" />
+<meta property="og:type" content="cause" />
+<meta property="og:site_name" content="Common Dreams" />
+<meta property="og:url" content="https://www.commondreams.org/newswire/2018/03/19/greenpeace-co-founder-and-allies-arrested-protesting-trans-mountain-pipeline" />
+<meta property="og:title" content="Greenpeace Co-Founder and Allies Arrested Protesting Trans Mountain Pipeline That Threatens Pacific Coast" />
+<meta property="og:description" content="Today, Greenpeace co-founder" />
+<meta property="og:image" content="https://www.commondreams.org/sites/default/files/users/user18439/cd_tall_logo_bw_tparent.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@commondreams" />
+<meta name="twitter:site:id" content="14296273" />
+<meta name="twitter:creator" content="@commondreams" />
+<meta name="twitter:creator:id" content="14296273" />
+<meta name="twitter:url" content="https://www.commondreams.org/newswire/2018/03/19/greenpeace-co-founder-and-allies-arrested-protesting-trans-mountain-pipeline" />
+<meta name="twitter:title" content="Greenpeace Co-Founder and Allies Arrested Protesting Trans Mountain Pipeline That Threatens Pacific Coast" />
+<meta name="twitter:description" content="Today, Greenpeace co-founder" />
+<meta name="twitter:image" content="https://www.commondreams.org/sites/default/files/users/user18439/cd_tall_logo_bw_tparent.png" />
+<meta name="twitter:image:alt" content="Today, Greenpeace co-founder" />
+  <title>Greenpeace Co-Founder and Allies Arrested Protesting Trans Mountain Pipeline That Threatens Pacific Coast</title>
+  <link type="text/css" rel="stylesheet" href="https://www.commondreams.org/sites/default/files/css/css_IK1p9DItyBxVvrPmvjrodstL8Zdt1hussVotRQYgWZ8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.commondreams.org/sites/default/files/css/css_5zBJ2KmYwxjVw8E2wrCblXh9BKQZH4S5amAyfpNyJQU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.commondreams.org/sites/default/files/css/css_CXpF3yiPFnPY2ep5yZdtMEiF4suMqIrK0flnJt0tUxI.css" media="all" />
+
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="https://www.commondreams.org/sites/default/files/css/css_wpJzFglesB33x_2-2FkObj7L7ABV__2H8VCDbmSfD5Q.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://www.commondreams.org/sites/default/files/css/css_f5MRPfWVasRfNy-x_DzIo2PKKF-5lh9Oq_rxffu_uQQ.css" media="all" />
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js'>\x3C/script>")</script>
+<script src="https://www.commondreams.org/sites/default/files/js/js_ALflW1qsV-wPL6o1rSDEQRU4nUcXy95j4wWybir5MUc.js"></script>
+<script src="https://www.commondreams.org/sites/default/files/js/js_CaLfg8G471nyYwgmuC2-ievdAnqE9J_KCTCKN6ZoyE4.js"></script>
+
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script src="https://www.commondreams.org/sites/default/files/js/js_l1iEl-hY65c79QTBBcl2tmNsnQFuMrbhOOFZUO_dkyw.js"></script>
+<![endif]-->
+<script src="https://www.commondreams.org/sites/default/files/js/js_wr8JU6enzif-F_GrRxDR0oXwgeWJIACGSnhr9_ts8Mg.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-19360686-1", {"cookieDomain":".commondreams.org"});ga("send", "pageview");</script>
+<script src="https://www.commondreams.org/sites/default/files/js/js_VVAo6F6twt36JIyYoJ6N7Vjmum0NXMggeo5KxSCeGps.js"></script>
+<script src="//platform.twitter.com/widgets.js"></script>
+<script src="https://www.commondreams.org/sites/default/files/js/js_qkszW65KIuWugDOAjTYzg6Hu6YH7bQgXZp45zDjLjHY.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","image_caption":{"selector":".node--full .node__content img, img.caption, .field--type-image.caption img"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"urlIsAjaxTrusted":{"\/newswire\/2018\/03\/19\/greenpeace-co-founder-and-allies-arrested-protesting-trans-mountain-pipeline":true},"ctas":{"modal_popup":{"delta":"cta_modal_winter_2017","after_page_views":"5"}}});</script>
+  <link href=”https://plus.google.com/u/0/112945048567964551573” rel=”publisher” />
+    <script type="text/javascript">
+        var _sf_async_config = _sf_async_config || {};
+        /** CONFIGURATION START **/
+        _sf_async_config.uid = 65712; // ACCOUNT NUMBER
+        _sf_async_config.domain = 'commondreams.org'; // DOMAIN
+        _sf_async_config.flickerControl = false;
+        _sf_async_config.useCanonical = true;
+        /** CONFIGURATION END **/
+        var _sf_startpt = (new Date()).getTime();
+    </script>
+    <script async src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-117252 node-type-newswire section-newswire">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+    
+  <div id="navigation" class="slide-menu">
+<!--    <div id="close-slide-menu-button"><a href="#"><i class="fa fa-window-close-o"></i></a></div>-->
+    <div class="slide-menu-container">
+        <div class="l-region l-region--navigation">
+    <div id="block-block-63" class="block block--block block--block-63">
+        <div class="block__content">
+    <ul class="menu"><li><a href="/">Home</a></li>
+<li><a href="/email-subscription">Subscribe</a></li>
+<li><a href="https://secure.actblue.com/donate/support-independent-media?refcode=menu" target="blank">Donate</a></li>
+</ul>  </div>
+</div>
+<nav id="block-system-main-menu" role="navigation" class="block block--system block--menu block--system-main-menu">
+      
+  <ul class="menu"><li class="first leaf"><a href="/world" title="International news and editorials published by Common Dreams, an independent media outlet based in Portland Maine since 1997">World</a></li>
+<li class="leaf"><a href="/war-peace" title="War &amp;amp; Peace news and editorials published by Common Dreams, an independent media outlet based in Portland Maine since 1997">War &amp; Peace</a></li>
+<li class="leaf"><a href="/economy" title="News and editorials related to the economy published by Common Dreams, an independent media outlet based in Portland Maine since 1997">Economy</a></li>
+<li class="leaf"><a href="/climate" title="News and editorials related to the climate, climate change, and global warming published by Common Dreams, an independent media outlet based in Portland Maine since 1997">Climate</a></li>
+<li class="leaf"><a href="/rights" title="News and editorials related to the human and civil rights published by Common Dreams, an independent media outlet based in Portland Maine since 1997">Rights</a></li>
+<li class="leaf"><a href="/solutions" title="Solutions to issues facing U.S. citizens and humanity within news and editorials published by Common Dreams, an independent media outlet based in Portland Maine since 1997">Solutions</a></li>
+<li class="leaf"><a href="/us" title="News and editorials related to issues within the United States published by Common Dreams, an independent media outlet based in Portland Maine since 1997">U.S.</a></li>
+<li class="last leaf"><a href="/canada" title="News and editorials related to issues within the Canada published by Common Dreams, an independent media outlet based in Portland Maine since 1997">Canada</a></li>
+</ul></nav>
+<div id="block-block-64" class="block block--block block--block-64">
+        <div class="block__content">
+    <ul class="menu"><li><a href="https://www.facebook.com/commondreams.org" target="blank"><img src="https://www.commondreams.org/sites/default/files/facebook-white-300.png" alt="Common Dreams on Facebook" width="30" height="40" style="vertical-align: middle;" /></a><a href="https://www.twitter.com/commondreams" target="blank"><img src="https://www.commondreams.org/sites/default/files/twitter-white-transparent-lg.png" alt="Common Dreams on Twitter" width="40" height="40" style="vertical-align: middle; margin-right: 8px; margin-left: 8px;" /></a><a href="/rss.xml"><img src="https://www.commondreams.org/sites/default/files/rss-white-lg.png" alt="Common Dreams RSS feed" width="40" height="40" style="vertical-align: middle;" /></a></li>
+</ul>  </div>
+</div>
+<div id="block-block-65" class="block block--block block--block-65">
+        <div class="block__content">
+    <ul class="menu"><li><a href="/about-us">Common Dreams, a non-profit newscenter, was founded in 1997</a></li>
+<li><a href="/testimonials">Testimonials</a></li>
+</ul>  </div>
+</div>
+  </div>
+    </div>
+  </div>
+
+<div class="l-page has-one-sidebar has-sidebar-second">
+  <div id="header-container">
+    <div id="header-top">
+      <div class="l-header">
+        <div class="col header-left">
+          <div id="mobile-menu-wrapper">
+            <a id="slide-menu-button" href="#">
+              <span class="slide-menu-lines"></span>
+              <span class="label">Sections</span>
+            </a>
+          </div>
+
+          <div id="search-icon">
+            <a id="search-toggle" href="#"><i class="fa fa-search"></i> </a>
+          </div>
+        </div>
+
+        <div class="col header-middle">
+          <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+            <meta itemprop="name" content="Common Dreams">
+            <meta itemprop="url" content="https://www.commondreams.org/sites/default/files/cd_stacked_white_600.png">
+                          <a href="/" title="Home" rel="home" class="site-logo">
+                  <meta itemprop="foundingdate" content="1997" />
+                  <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+                  <img src="/sites/all/themes/omega_dreams/images/cd_stacked_blue.jpg" alt="Home" />
+                  <meta itemprop="url" content="https://www.commondreams.org/sites/default/files/cd_stacked_white_600.png">
+                  <meta itemprop="width" content="600">
+                  <meta itemprop="height" content="60">
+                </span>
+              </a>
+                                  </div>
+        </div>
+
+        <div class="col header-right">
+          <a class="button button--secondary" href="/email-subscription">SUBSCRIBE</a>
+          <a class="button button--primary" href="https://secure.actblue.com/donate/support-independent-media?refcode=header" target="_blank">DONATE</a>
+        </div>
+      </div>
+
+    </div>
+
+          <div id="header-content">
+          <div class="l-region l-region--header">
+    <div id="block-search-form" role="search" class="block block--search block--search-form">
+        <div class="block__content">
+    <form class="search-block-form" action="/newswire/2018/03/19/greenpeace-co-founder-and-allies-arrested-protesting-trans-mountain-pipeline" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><button type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt;" class="form-button"><i class="fa fa-search"></i></button></div><input type="hidden" name="form_build_id" value="form-sYYjdt6dXoS89fFoeg2lLBHXxDFqMtLxvYBXIlGbfZY" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+  </div>
+      </div>
+    
+<!--    <div id="navigation-container">-->
+<!--      --><!--    </div>-->
+  </div>
+
+  <div id="highlighted-container">
+        </div>
+
+  <div class="l-main">
+    <div class="l-content" role="main">
+      <a id="main-content"></a>
+                                    <article role="article" class="node node--newswire node--full node--newswire--full">
+  
+  
+  <div class="grid-size-12 node__content">
+    <div class='shareaholic-canvas' data-app-id='6840205' data-app-id-name='newswire_above_content' data-app='share_buttons' data-title='Greenpeace Co-Founder and Allies Arrested Protesting Trans Mountain Pipeline That Threatens Pacific Coast' data-link='https://www.commondreams.org/newswire/2018/03/19/greenpeace-co-founder-and-allies-arrested-protesting-trans-mountain-pipeline' data-summary=''></div><div class="field-wrapper content-container clearfix" id="field-wrapper-article-content"><div class="field-wrapper content-container clearfix" id="field-wrapper-org-info"><div class="field field--name-field-profile-img field--type-image field--label-hidden"><div class="field__items"><div class="field__item even"><div itemscope itemprop="image" itemtype="http://schema.org/ImageObject"><meta itemprop="url" content="https://www.commondreams.org/sites/default/files/organizations/greenpeace.jpg"><img class="" src="https://www.commondreams.org/sites/default/files/organizations/greenpeace.jpg" width="506" height="253" alt="" /></div></div></div></div><div class="field-wrapper content-column span-6" id="field-wrapper-date"><div class="inner-column clearfix"><h3 class="field-wrapper-title">For Immediate Release</h3>
+<div class="field field--name-field-article-date field--type-datestamp field--label-hidden"><div class="field__items"><div class="field__item even"><span class="pb-timestamp" itemprop="datePublished" content="Mon, 19 Mar 2018 18:30:00 -0400"><span class="date-display-single">Monday, March 19, 2018 - 6:30pm</span><time class="dateline" datetime="Mon, 19 Mar 2018 18:30:00 -0400" itemprop="dateModified" content="Mon, 19 Mar 2018 18:30:00 -0400"></time></span></div></div></div></div></div><div class="field-wrapper content-column span-6" id="field-wrapper-org-contact"><div class="inner-column clearfix"><div class="field field--name-field-organization field--type-entityreference field--label-above"><div class="field__label">Organization Profile:&nbsp;</div><div class="field__items"><div class="field__item even"><span class="pb-byline" itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a href="/organization/greenpeace">Greenpeace</a></div></div></div><div class="field field--name-field-contact-info field--type-text-long field--label-above"><div class="field__label">Contact:&nbsp;</div><div class="field__items"><div class="field__item even"><p>Washington DC: (202) 462-1177<br />San Francisco: (415) 255-9221</p></div></div></div></div></div></div><h1 class="node__title managed-node-title" itemprop="headline"><span itemprop="mainEntityOfPage">Greenpeace Co-Founder and Allies Arrested Protesting Trans Mountain Pipeline That Threatens Pacific Coast</span></h1>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even"><div itemprop="articleBody"><meta itemprop="wordCount" content="718"><p>WASHINGTON - Today, Greenpeace co-founder<a href="http://email.prnewswire.com/wf/click?upn=mG6wLADgfMPhcsxlE2l7w1D6XSIAa-2F7Gho3v4aYBQHDpA12f41A0d8WvP-2FxNd40LCaUW2KuxpcE-2FY07ihcr68hg7-2Fs4SOEofnGCLjUoVO7yPIDevAU4OHYd-2BwEGE0gIOtza2EFzMYOsnSGS-2B02TIhW27Ez5bFQeVSCxkEPsTpXNp2byOW5F4ZlwQaL4JPwdWzLO17-2F3DjHptz2myc419FTY7Zc227z9nc0E0UDDa1ddmYaX6kOmXZcrp8IH2lbwP_lZyMkwqm0dwylylyeUm0R4p5LOd2gLGXYzSBRwff5FUe3H-2F-2FLvbHobnJKE17G7DDexS4TSJsP4ez2R-2B6wEe-2FEvguoX8U8I8YiueBQ0UAms-2FBO5LV9eTgtUzwSdii7j9VxiAgNCwYgqVT5fiNkf6qGe5KrMgDW-2BmuqEzop-2B6jJANcgdf2D2WWMtt19NCt-2F-2Bk3k1VyG7THvkA39DCcpm1IyV8ioCO3ve9vATkY-2BHyt90d4OvIIB4A5UnAjNHC6n4FLPGqzgT7PhPbie2bO-2FnjpZF9c-2F5e1oEe26mZ-2BXYRdlYDpFmoZuQ56PoM1DBbWL-2F2p"> Rex Weyler</a> and the children of founding family members were arrested while peacefully protesting the expansion of the Kinder Morgan Trans Mountain pipeline. They were joined at the independently organized protest on unceded Coast Salish Territories (Vancouver, Canada) by Canadian and American allies who oppose the pipeline for violating Indigenous rights, worsening the effects of global warming, harming the environment and its wildlife, as well as threatening the health and wellbeing of local communities from Canada to the Pacific Coasts of Washington, Oregon, and California.</p>
+
+<p>Rex Weyler, a founding member of Greenpeace, said: “Forty-six years ago, Greenpeace got its start right here in Vancouver protecting this coastline, and the world, from the sorts of ecological disasters and social disruption that Kinder Morgan’s pipeline threatens. Like then, we stand now for protection of the natural bounty that keeps our communities alive and prosperous. We stand here on the land and by the waters of the Tsleil Waututh people, who have shown us generosity and taught us responsibility, in solidarity and prepared to go to jail, to preserve the ecological integrity of this coast for ourselves and future generations.”</p>
+
+<p>Barbara and Bob Stowe, daughter and son of Greenpeace founders Dorothy and Irving Stowe, said: “We see a lot of parallels between the fight against Kinder Morgan today, and Greenpeace's first action: sailing a boat to stop nuclear bomb tests in Alaska in 1971. Like Kinder Morgan’s pipeline, those tests did not have Indigenous consent and would devastate a pristine environment. Both projects amounted to a government-approved home invasion on Indigenous territory. Today, we will stand with Coast Salish Peoples against it. If our parents were alive today, they'd be standing right here with us.”</p>
+
+<p>A British Columbia judge recently issued an injunction to stifle protests along the route of the Trans Mountain pipeline. Weyler, an American-Canadian who grew up and was educated in the United States, was joined by Barbara and Bobby Stowe, the children of Greenpeace co-founders <a href="http://email.prnewswire.com/wf/click?upn=mG6wLADgfMPhcsxlE2l7w1D6XSIAa-2F7Gho3v4aYBQHDpA12f41A0d8WvP-2FxNd40LCaUW2KuxpcE-2FY07ihcr68hg7-2Fs4SOEofnGCLjUoVO7yPIDevAU4OHYd-2BwEGE0gIOtza2EFzMYOsnSGS-2B02TIhW27Ez5bFQeVSCxkEPsTpXNp2byOW5F4ZlwQaL4JPwdWzLO17-2F3DjHptz2myc419FapnUCMYNIfYmHjGCyjX2Gu7uZUnEgSCHAWqxTld-2FdnK_lZyMkwqm0dwylylyeUm0R4p5LOd2gLGXYzSBRwff5FUe3H-2F-2FLvbHobnJKE17G7DDexS4TSJsP4ez2R-2B6wEe-2FEvguoX8U8I8YiueBQ0UAms-2FBO5LV9eTgtUzwSdii7j9VxiAgNCwYgqVT5fiNkf6qGe5KrMgDW-2BmuqEzop-2B6jJANog-2F1TiK8dw4EGCqgcbwVRyln6ZZ86m09YaRg1jzwu-2FqWDc2kMzcvcXkg-2BMsOGUrOI-2FARJbw6UmRHltMH-2BJIlBhNuk765Rm5prNGQPYwvoTr-2F8Aj1v3kbMAgWpCFOVxT9xLDt0JWCSsbONcf6aMy7c">Dorothy and Irving Stowe</a>. They protested in solidarity with Indigenous and environmental allies, risking arrest to stop construction of the Kinder Morgan pipeline and to prove that Big Oil CEOs won’t succeed in limiting the free speech of concerned citizens and their right to peaceful assembly. This comes against the backdrop of Energy Transfer Partners’ (ETP)<a href="http://email.prnewswire.com/wf/click?upn=mG6wLADgfMPhcsxlE2l7w1D6XSIAa-2F7Gho3v4aYBQHDpA12f41A0d8WvP-2FxNd40LCaUW2KuxpcE-2FY07ihcr68hg7-2Fs4SOEofnGCLjUoVO7yPIDevAU4OHYd-2BwEGE0gIOtza2EFzMYOsnSGS-2B02TIhW27Ez5bFQeVSCxkEPsTpXNp2byOW5F4ZlwQaL4JPwdWzLO17-2F3DjHptz2myc419FcHDwDHhnj27srE50u6bf-2BKnyjcMM-2FlgTaLcBpfhrpMv_lZyMkwqm0dwylylyeUm0R4p5LOd2gLGXYzSBRwff5FUe3H-2F-2FLvbHobnJKE17G7DDexS4TSJsP4ez2R-2B6wEe-2FEvguoX8U8I8YiueBQ0UAms-2FBO5LV9eTgtUzwSdii7j9VxiAgNCwYgqVT5fiNkf6qGe5KrMgDW-2BmuqEzop-2B6jJAOl21St9xJOHMsOkzNQXXwWiuAQCJlvmJQ3f4hJmxjl-2BRIu-2Fl4ewd6jADkNv8vtzId2QaMzKHPzb-2B6jMXMezjlr61VM-2Ba6-2BdcgU-2FLS9bye5vVIzIVq-2BryW9CClsqrKLRgk-2BDZCyUij0pkJxDXE-2FZNhE"> baseless $900 million lawsuit</a> against Greenpeace and others alleging that independent organizations formed a “criminal enterprise” that instigated violence to damage the company. But the transparent goal of the oil industry is to squelch any and all opposition to its pipelines.</p>
+
+<p>Today’s protest, however, continues the overwhelming momentum in the fight to keep the Trans Mountain pipeline expansion from being constructed. Today’s protest was one of several independently planned this week by Canadian and American individuals and follows the recent Indigenous-led <a href="http://email.prnewswire.com/wf/click?upn=mG6wLADgfMPhcsxlE2l7w1D6XSIAa-2F7Gho3v4aYBQHDpA12f41A0d8WvP-2FxNd40LCaUW2KuxpcE-2FY07ihcr68hg7-2Fs4SOEofnGCLjUoVO7yPIDevAU4OHYd-2BwEGE0gIOtza2EFzMYOsnSGS-2B02TIhW27Ez5bFQeVSCxkEPsTpXNp2byOW5F4ZlwQaL4JPwdWzLO17-2F3DjHptz2myc419FYctg8QN-2BNr7WEaT-2FqrLvpQpRWHcvqOt79o4TwKGM-2FV9_lZyMkwqm0dwylylyeUm0R4p5LOd2gLGXYzSBRwff5FUe3H-2F-2FLvbHobnJKE17G7DDexS4TSJsP4ez2R-2B6wEe-2FEvguoX8U8I8YiueBQ0UAms-2FBO5LV9eTgtUzwSdii7j9VxiAgNCwYgqVT5fiNkf6qGe5KrMgDW-2BmuqEzop-2B6jJAPwyAUXL6c7QyO-2BSl3xxQ-2FWmieLw-2BPElDaBjwXtjC2xzYZ-2Bi8-2BO9UFIywWoFy5Zvu5uAii24fLJINCbouu8xEyOspN2ORUoKGIYnFmEPxQboK489EOWZpC0YWWyspdKBdXf5-2Fsm4z4uxz1xoUEqT3P-2F">march of more than 10,000</a> people who voiced their opposition to the pipeline and its harmful effects, making international news in the process. This was followed by the announcement of Washington Governor Jay Inslee that he too opposes the Trans Mountain pipeline expansion because it would threaten our climate and the existence of the Endangered Southern Resident Killer Whale. Greenpeace<a href="http://email.prnewswire.com/wf/click?upn=mG6wLADgfMPhcsxlE2l7w1D6XSIAa-2F7Gho3v4aYBQHDpA12f41A0d8WvP-2FxNd40LCaUW2KuxpcE-2FY07ihcr68hg7-2Fs4SOEofnGCLjUoVO7yPIDevAU4OHYd-2BwEGE0gIOtza2EFzMYOsnSGS-2B02TIhW27Ez5bFQeVSCxkEPsTpXNp2byOW5F4ZlwQaL4JPwdWzLO17-2F3DjHptz2myc419FT8vpEo1IM8N51HDMwMzTHSa86NwzTEb30Dr-2Fpgzrqgt_lZyMkwqm0dwylylyeUm0R4p5LOd2gLGXYzSBRwff5FUe3H-2F-2FLvbHobnJKE17G7DDexS4TSJsP4ez2R-2B6wEe-2FEvguoX8U8I8YiueBQ0UAms-2FBO5LV9eTgtUzwSdii7j9VxiAgNCwYgqVT5fiNkf6qGe5KrMgDW-2BmuqEzop-2B6jJAOIF7TbFJPrtbxEEtqmRHCqM-2BsLLS62RXln5fssMcmv1m6HCZAEfkHjB9QgosyWZ-2F3dPz8MDQfNQIbtrJIqA6S1Kh6X8hZxvD6chXIHo6UBH6K0Q2y4qlTNIm8r0MfKBP4URwTm2vxbZ30VcC7A3v86"> applauded Governor Inslee</a> and called for him to continue using the full weight of his influence to ensure the Trans Mountain expansion is never completed, and for his fellow elected officials in Washington, Oregon, and California to do the same</p>
+
+<p>Pipelines like Trans Mountain, Keystone XL, and Enbridge’s Line 3 worsen the effects of climate change because of their high carbon emissions when oil is extracted and burned. Further, research into Kinder Morgan, Trans Canada, and Enbridge have shown that from 2010 to the present they have had 373 hazardous liquid spills from their U.S. pipeline networks, jeopardizing the safety of drinking water. Further, expansion of the Trans Mountain pipeline would increase tar sands oil tanker traffic along the Pacific Coast. The noise these ships make would jeopardize the survival of the Southern Resident Killer Whale, whose numbers have dwindled to just 76 in recent years. And since more tankers mean more spills, any increase in coastal traffic puts marine life and local fish populations at risk, including the tourism and fishing industry jobs they support.</p>
+
+<p>To learn more about the detrimental effects of oil pipelines and what Greenpeace is doing to oppose them, click<a href="http://email.prnewswire.com/wf/click?upn=mG6wLADgfMPhcsxlE2l7w1D6XSIAa-2F7Gho3v4aYBQHDpA12f41A0d8WvP-2FxNd40LCaUW2KuxpcE-2FY07ihcr68hg7-2Fs4SOEofnGCLjUoVO7yPIDevAU4OHYd-2BwEGE0gIOtza2EFzMYOsnSGS-2B02TIhW27Ez5bFQeVSCxkEPsTpXNp2byOW5F4ZlwQaL4JPwdWzLO17-2F3DjHptz2myc419FWUDv4Ya64RBkiO6VSA58sllCMSxBCbehZWt2U33TJ69_lZyMkwqm0dwylylyeUm0R4p5LOd2gLGXYzSBRwff5FUe3H-2F-2FLvbHobnJKE17G7DDexS4TSJsP4ez2R-2B6wEe-2FEvguoX8U8I8YiueBQ0UAms-2FBO5LV9eTgtUzwSdii7j9VxiAgNCwYgqVT5fiNkf6qGe5KrMgDW-2BmuqEzop-2B6jJAPOkncjU6yStqefJAWgAZoW4BPbBnY-2FpzdYBXIa6syhYq-2F8-2FrfAvepvJX7pS5BwlGLxfxo4-2FiC8Owjo9W-2BRjcBGCCdLhlJWVSA6LWmyw3lpNRlA0tfduop7T2edEypgJZdHXgEohbJUXlu3qkLq8vSo"> HERE</a>.</p><div class="newswire-end">###</div></div></div></div></div><div class="field-wrapper content-container clearfix" id="field-wrapper-fundraiser"><div class="content-prompt clearfix"><p><div class="cta-content-block-one">
+    <div class="card">
+        <div class="card-header">
+            <h4>FRIENDS: Now More Than Ever</h4>
+        </div>
+        <div class="card-block">
+          <p><big>Independent journalism has become the last firewall against government and corporate lies. Yet, with frightening regularity, independent media sources are losing funding, closing down or being blacked out by Google and Facebook. Never before has independent media been more endangered. <strong>If you believe in Common Dreams, if you believe in people-powered independent media, <a href="https://secure.actblue.com/donate/free-and-independent?refcode=article_body" target="_blank"> please support us now</a> and help us fight—with truths—against the lies that would smother our democracy.</strong> Please help keep Common Dreams alive and growing. Thank you. <em>-- Craig Brown, Co-founder </em></big></p>
+<p><a href="https://secure.actblue.com/donate/free-and-independent?refcode=article_body_button" target="_blank"><img src="/sites/default/files/users/user18439/support-common-dreams-gold.png" alt="Support Common Dreams" width="265" height="42" /></a><a href="https://secure.actblue.com/donate/free-and-independent?refcode=article_body_button_cc" target="_blank"><img src="/sites/default/files/users/user18439/cc_payment_options.svg" alt="Support Common Dreams" width="269" height="42" /></a></p>
+        </div>
+    </div>
+</div>
+</p>
+</div></div><div class="field-wrapper content-container clearfix" id="field-wrapper-org-profile"><div class="field field--name-field-desc field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even"><p>Independent campaigning organization that uses non-violent, creative confrontation to expose global environmental problems, and to force solutions that are essential to a green and peaceful future.</p></div></div></div></div><div class="field-wrapper content-container clearfix" id="field-wrapper-org-links"><h3 class="field-wrapper-title inline">Organization Links</h3>
+<div class="field field--name-field-org-website field--type-link-field field--label-hidden"><div class="field__items"><div class="field__item even"><a href="http://www.greenpeace.org" target="_blank" rel="nofollow">Greenpeace</a></div></div></div><div class="field field--name-field-pressmedia-link field--type-link-field field--label-hidden"><div class="field__items"><div class="field__item even"><a href="http://www.greenpeace.org/usa/press-center/" target="_blank" rel="nofollow">Greenpeace (Press Center)</a></div></div></div><div class="field field--name-field-action-link field--type-link-field field--label-hidden"><div class="field__items"><div class="field__item even"><a href="http://www.greenpeace.org/action/index.php" target="_blank" rel="nofollow">Greenpeace (Action Center)</a></div></div></div></div></div><div class="field-wrapper content-container clearfix" id="field-wrapper-share"><h3 class="field-wrapper-title">Share This Article</h3>
+<div class='shareaholic-canvas' data-app-id='6840196' data-app-id-name='newswire_below_content' data-app='share_buttons' data-title='Greenpeace Co-Founder and Allies Arrested Protesting Trans Mountain Pipeline That Threatens Pacific Coast' data-link='https://www.commondreams.org/newswire/2018/03/19/greenpeace-co-founder-and-allies-arrested-protesting-trans-mountain-pipeline' data-summary=''></div></div><div class="iwsearch-related-content clearfix">
+  <div class="related-content-title clearfix"><h3>Related Articles</h3></div>
+
+  <div class="clearfix related-content-wrapper">
+            <div class="clearfix">
+                                          <div class="related-item alpha">
+                      <article role="article" class="node node--views_article node--promoted node--sticky node--related node--views_article--related">
+                        <div class="grid-size-12 node__content">
+                                                        <div class="field field--name-field-image field--type-image field--label-hidden">
+                                <div class="field__items">
+                                    <div class="field__item even">
+                                        <a href="/views/2018/03/03/we-will-continue-resist-assault-environmental-protest"><img src="https://www.commondreams.org/sites/default/files/styles/cd_medium_thumb/public/views-article/thumbs/keystonexlpipelineprotest_012417getty2.jpg?itok=R8OWKiwg" width="220" height="115" alt="" /></a>                                    </div>
+                                </div>
+                            </div>
+                                                                                    <div class="field field--name-field-hp-title field--type-text field--label-hidden">
+                                <div class="field__items">
+                                    <div class="field__item even">
+                                        <a href="/views/2018/03/03/we-will-continue-resist-assault-environmental-protest">We Will Continue to Resist the Assault on Environmental Protest</a>                                    </div>
+                                </div>
+                            </div>
+                                                    </div>
+                      </article>
+                  </div>
+                                                        <div class="related-item">
+                      <article role="article" class="node node--headline node--promoted node--sticky node--related node--headline--related">
+                        <div class="grid-size-12 node__content">
+                                                        <div class="field field--name-field-image field--type-image field--label-hidden">
+                                <div class="field__items">
+                                    <div class="field__item even">
+                                        <a href="/news/2018/03/10/protecttheinlet-massive-protest-bc-thousands-march-stop-kinder-morgan-pipeline"><img src="https://www.commondreams.org/sites/default/files/styles/cd_medium_thumb/public/headline/thumbs/stop_km.png?itok=QmxyaMS0" width="220" height="115" alt="" /></a>                                    </div>
+                                </div>
+                            </div>
+                                                                                    <div class="field field--name-field-hp-title field--type-text field--label-hidden">
+                                <div class="field__items">
+                                    <div class="field__item even">
+                                        <a href="/news/2018/03/10/protecttheinlet-massive-protest-bc-thousands-march-stop-kinder-morgan-pipeline">#ProtectTheInlet: Massive Protest in BC as Thousands March to Stop Kinder Morgan Pipeline</a>                                    </div>
+                                </div>
+                            </div>
+                                                    </div>
+                      </article>
+                  </div>
+                                                        <div class="related-item">
+                      <article role="article" class="node node--headline node--promoted node--sticky node--related node--headline--related">
+                        <div class="grid-size-12 node__content">
+                                                        <div class="field field--name-field-image field--type-image field--label-hidden">
+                                <div class="field__items">
+                                    <div class="field__item even">
+                                        <a href="/news/2018/03/13/tillerson-out-and-pompeo-exxons-ceo-koch-brothers-most-loyal-lapdog"><img src="https://www.commondreams.org/sites/default/files/styles/cd_medium_thumb/public/headline/thumbs/6236849468_4cdae32b32_o_1.jpg?itok=K01EgL-H" width="220" height="115" alt="" /></a>                                    </div>
+                                </div>
+                            </div>
+                                                                                    <div class="field field--name-field-hp-title field--type-text field--label-hidden">
+                                <div class="field__items">
+                                    <div class="field__item even">
+                                        <a href="/news/2018/03/13/tillerson-out-and-pompeo-exxons-ceo-koch-brothers-most-loyal-lapdog">Tillerson Out and Pompeo In: &#039;From Exxon&#039;s CEO to the Koch Brothers&#039; Most Loyal Lapdog&#039;</a>                                    </div>
+                                </div>
+                            </div>
+                                                    </div>
+                      </article>
+                  </div>
+                                                        <div class="related-item omega">
+                      <article role="article" class="node node--headline node--promoted node--sticky node--related node--headline--related">
+                        <div class="grid-size-12 node__content">
+                                                        <div class="field field--name-field-image field--type-image field--label-hidden">
+                                <div class="field__items">
+                                    <div class="field__item even">
+                                        <a href="/news/2018/03/17/we-must-protect-water-indigenous-leaders-stage-sit-protest-kinder-morgan-pipeline"><img src="https://www.commondreams.org/sites/default/files/styles/cd_medium_thumb/public/headline/thumbs/dyhshl7u8aarf0e.jpg_large.jpg?itok=fRb5KB5K" width="220" height="115" alt="" /></a>                                    </div>
+                                </div>
+                            </div>
+                                                                                    <div class="field field--name-field-hp-title field--type-text field--label-hidden">
+                                <div class="field__items">
+                                    <div class="field__item even">
+                                        <a href="/news/2018/03/17/we-must-protect-water-indigenous-leaders-stage-sit-protest-kinder-morgan-pipeline">&#039;We Must Protect the Water&#039;: Indigenous Leaders and Allies Stage Sit-In to Protest Kinder Morgan Pipeline</a>                                    </div>
+                                </div>
+                            </div>
+                                                    </div>
+                      </article>
+                  </div>
+                                </div>
+      </div>
+</div>
+<div class="field-wrapper content-container clearfix inline-fields" id="field-wrapper-terms"><div class="grouping-prefix">More in: </div><div class="field field--name-field-menu-categories field--type-taxonomy-term-reference field--label-hidden"><div class="field__items"><div class="field__item even"><a href="/climate">Climate</a>, <a href="/us">U.S.</a>, <a href="/canada">Canada</a></div></div></div><div class="grouping-spacer">, </div><div class="field field--name-field-topics field--type-taxonomy-term-reference field--label-hidden"><div class="field__items"><div class="field__item even"><a href="/tag/peoples-climate">People&#039;s Climate</a>, <a href="/tag/greenpeace">Greenpeace</a>, <a href="/tag/kinder-morgan">Kinder Morgan</a></div></div></div></div>  </div>
+
+    </article>
+          </div>
+
+          <aside class="l-region l-region--sidebar-second">
+    <div id="block-block-54" class="block block--block block--block-54">
+        <h2 class="block__title"><span>Sign-up for Newsletter</span></h2>
+      <div class="block__content">
+    <div class="newsletter-form">
+<form name="custom_form" action="https://info.commondreams.org/acton/eform/33231/0004/d-ext-0001" enctype="multipart/form-data" accept-charset="UTF-8" id="custom_form">
+<p><input type="checkbox" name="Subscription Choice" id="form_0004_fld_1-0" value="Daily Newsletter" checked="checked" /> Daily Newsletter<br /><input type="checkbox" name="Subscription Choice" id="form_0004_fld_1-1" value="Weekly Newsletter" checked="checked" /> Weekly Newsletter</p>
+<p><input type="text" class="formFieldText formFieldLarge" id="form_0004_fld_0" name="Email" placeholder="E-mail address" required="" /></p>
+<p><input id="form_0004_ao_submit_input" type="submit" name="Submit" value="Sign Up" onclick="doSubmit(document.getElementById('form_0004'))" /><br /></p></form>
+</div>  </div>
+</div>
+<div id="block-views-views-articles-block-1" class="block block--views block--views-views-articles-block-1">
+        <h2 class="block__title"><span>Today's Views</span></h2>
+      <div class="block__content">
+    <div class="view view-views-articles view-id-views_articles view-display-id-block_1 view-dom-id-7d316e21b8a54bdc95a118108f7a0e30">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1">
+      
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="/views/2018/03/20/these-children-iraq-help-did-not-arrive"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/views-article/thumbs/screen_shot_2018-03-20_at_3.29.47_pm.png?itok=3KZlZEfg" width="100" height="58" alt="" /></a></span>  </span>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Claudia Lefko</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2018/03/20/these-children-iraq-help-did-not-arrive">For These Children of Iraq, Help Did Not Arrive</a></div>  </div>  </div>
+  <div class="views-row views-row-2">
+      
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="/views/2018/03/20/unmitigated-failure-operation-iraqi-freedom-15-years-later"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/views-article/thumbs/iraq_war_15_years.jpg?itok=HcGceCvN" width="100" height="58" alt="" /></a></span>  </span>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Danny Sjursen</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2018/03/20/unmitigated-failure-operation-iraqi-freedom-15-years-later">Unmitigated Failure: Operation Iraqi Freedom, 15 Years Later</a></div>  </div>  </div>
+  <div class="views-row views-row-3">
+      
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="/views/2018/03/20/donald-trumps-new-cia-chief-cant-hide-her-role-torture-cover"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/views-article/thumbs/waterboard_torture_haspel.jpg?itok=A2vnClkt" width="100" height="58" alt="" /></a></span>  </span>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Moazzam Begg</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2018/03/20/donald-trumps-new-cia-chief-cant-hide-her-role-torture-cover">Donald Trump's New CIA Chief Can't Hide Her Role in Torture Cover-Up...</a></div>  </div>  </div>
+  <div class="views-row views-row-4">
+      
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="/views/2018/03/20/15-years-ago-america-destroyed-my-country"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/views-article/thumbs/baghdad-bombing_0_0.jpg?itok=dQaWe1hu" width="100" height="58" alt="" /></a></span>  </span>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Sinan Antoon</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2018/03/20/15-years-ago-america-destroyed-my-country">15 Years Ago, America Destroyed My Country</a></div>  </div>  </div>
+  <div class="views-row views-row-5">
+      
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="/views/2018/03/20/scott-pruitt-will-restrict-epas-use-legitimate-science"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/views-article/thumbs/pruitt_hearing_0.jpeg?itok=opr6lN0r" width="100" height="58" alt="" /></a></span>  </span>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Gretchen Goldman</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2018/03/20/scott-pruitt-will-restrict-epas-use-legitimate-science">Scott Pruitt Will Restrict EPA's Use of Legitimate Science...</a></div>  </div>  </div>
+  <div class="views-row views-row-6">
+      
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="/views/2018/03/20/its-not-just-drug-dealers-need-worry-about-inspiration-trump-took-duterte"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/views-article/thumbs/duterte-trump-thumb_0.jpeg?itok=U1xtS_4j" width="100" height="58" alt="" /></a></span>  </span>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Nick Meynen</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2018/03/20/its-not-just-drug-dealers-need-worry-about-inspiration-trump-took-duterte">It’s Not Just Drug Dealers That Need to Worry About Inspiration Trump Took From Duterte</a></div>  </div>  </div>
+  <div class="views-row views-row-7">
+      
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="/views/2018/03/20/cambridge-analytica-matrix-information-dominance-and-next-level-fake-news"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/views-article/thumbs/matrix_donald_trump.jpg?itok=wZXPTr-s" width="100" height="58" alt="" /></a></span>  </span>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Juan Cole</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2018/03/20/cambridge-analytica-matrix-information-dominance-and-next-level-fake-news">Cambridge Analytica as the Matrix: Information Dominance and the Next Level of Fake News</a></div>  </div>  </div>
+  <div class="views-row views-row-8">
+      
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="/views/2018/03/20/cambridge-analytica-scandal-drop-water-trickling-down-visible-top-iceberg"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/views-article/thumbs/facebook_cambridge.jpg?itok=HgWCwKo8" width="100" height="58" alt="" /></a></span>  </span>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Juan Ortiz Freuler</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2018/03/20/cambridge-analytica-scandal-drop-water-trickling-down-visible-top-iceberg">The Cambridge Analytica Scandal Is a Drop of Water Trickling Down the Visible Top of an Iceberg</a></div>  </div>  </div>
+  <div class="views-row views-row-9">
+      
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="/views/2018/03/20/seeing-americas-whole-wars-memo-publisher-new-york-times"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/views-article/thumbs/new-york-times_iraq_bacevich.jpg?itok=pnVAbF-Q" width="100" height="58" alt="" /></a></span>  </span>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Andrew Bacevich</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2018/03/20/seeing-americas-whole-wars-memo-publisher-new-york-times">On Seeing America's Whole Wars: A Memo to the Publisher of the New York Times...</a></div>  </div>  </div>
+  <div class="views-row views-row-10">
+      
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="/views/2018/03/19/dont-believe-media-hype-about-saudi-prince-mohammed-bin-salman"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/views-article/thumbs/mbs_60_minutes_dont_believe_hype.jpg?itok=y9lVBANL" width="100" height="58" alt="" /></a></span>  </span>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Medea Benjamin</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2018/03/19/dont-believe-media-hype-about-saudi-prince-mohammed-bin-salman">Don’t Believe the Media Hype About Saudi Prince Mohammed Bin Salman</a></div>  </div>  </div>
+  <div class="views-row views-row-11">
+      
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="/views/2018/03/19/resistance-needs-better-heroes"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/views-article/thumbs/screen_shot_2018-03-19_at_8.47.12_am.png?itok=TtVwH6lN" width="100" height="58" alt="" /></a></span>  </span>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Richard Eskow</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2018/03/19/resistance-needs-better-heroes">The Resistance Needs Better Heroes</a></div>  </div>  </div>
+  <div class="views-row views-row-12">
+      
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="/views/2018/03/19/jared-kushner-youre-fired"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/views-article/thumbs/kushgettyimages-821622486_0_0.jpg?itok=WuYFXj13" width="100" height="58" alt="" /></a></span>  </span>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Nomi Prins</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2018/03/19/jared-kushner-youre-fired">Jared Kushner, You're Fired!...</a></div>  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="https://www.commondreams.org/views">
+    More Views  </a>
+</div>
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-block-28" class="block block--block block--block-28">
+        <h2 class="block__title"><span>Order stickers here...</span></h2>
+      <div class="block__content">
+    <table style="width: 100%;border-spacing: 5px; text-align: center;"><tbody><tr><td style="width: 32%; text-align: left;">
+<p><a href="/resist#resist"><img src="/sites/default/files/resist-bumper-sticker-200px.jpg" alt="Order 99% Stickers Here..." /></a></p>
+</td>
+<td style="width: 2%; text-align: left;"> </td>
+<td style="width: 32%; text-align: left;">
+<p align="center"><a href="/resist#99"><img src="/sites/default/files/users/user18439/99_h.png" alt="Order 99% Stickers Here..." /></a></p>
+</td>
+<td style="width: 2%; text-align: left;"> </td>
+<td style="width: 32%; text-align: left;">
+<p><a href="/resist#notnormal"><img src="/sites/default/files/notnormal-resist-bumper-sticker-200px.jpg" alt="Order #NotNormal Stickers Here..." /></a></p>
+</td>
+</tr></tbody></table>  </div>
+</div>
+<div id="block-views-news-block-todays-top-news" class="block block--views block--views-news-block-todays-top-news">
+        <h2 class="block__title"><span>News That Matters</span></h2>
+      <div class="block__content">
+    <div class="view view-news view-id-news view-display-id-block_todays_top_news primary-news-article view-dom-id-51a8c904d2e6dffa0b26723413084d8f">
+        
+  
+      <div class="attachment attachment-before">
+      <div class="view view-news view-id-news view-display-id-block_promoted primary-news-article">
+        
+  
+  
+      <div class="view-content">
+      <table class="views-table cols-0">
+      <tbody>
+      <tr>
+              <td class="views-field views-field-field-image">
+          <a href="/news/2018/03/20/blood-thousands-their-hands-55-senators-vote-continue-us-backed-carnage-yemen"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/headline/thumbs/gettyimages-898191570.jpg?itok=_6lU1UgV" width="100" height="58" alt="" /></a>        </td>
+              <td class="views-field views-field-field-hp-title">
+          <a href="/news/2018/03/20/blood-thousands-their-hands-55-senators-vote-continue-us-backed-carnage-yemen">&#039;Blood of Thousands on Their Hands&#039;: Senate Votes for More Carnage in Yemen</a>        </td>
+          </tr>
+      <tr>
+              <td class="views-field views-field-field-image">
+          <a href="/news/2018/03/20/trumps-middle-school-project-level-posters-reveal-much-about-americas-blood-soaked"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/headline/thumbs/gettyimages-9351808741_0.jpg?itok=7_LxeH56" width="100" height="58" alt="" /></a>        </td>
+              <td class="views-field views-field-field-hp-title">
+          <a href="/news/2018/03/20/trumps-middle-school-project-level-posters-reveal-much-about-americas-blood-soaked">Trump&#039;s &#039;Middle School Project-Level&#039; Posters Reveal Much About America&#039;s Blood-Soaked Backing of Saudi Regime</a>        </td>
+          </tr>
+      <tr>
+              <td class="views-field views-field-field-image">
+          <a href="/news/2018/03/20/neglect-and-bureaucracy-six-months-after-maria-trump-condemned-failed-response"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/headline/thumbs/screen_shot_2017-10-20_at_2.18.09_pm_0.png?itok=b96pnZph" width="100" height="58" alt="Puerto Rico" /></a>        </td>
+              <td class="views-field views-field-field-hp-title">
+          <a href="/news/2018/03/20/neglect-and-bureaucracy-six-months-after-maria-trump-condemned-failed-response">&#039;Neglect and Bureaucracy&#039;: Six Months After Maria, Trump Condemned for Failed Response in Puerto Rico</a>        </td>
+          </tr>
+      <tr>
+              <td class="views-field views-field-field-image">
+          <a href="/news/2018/03/20/15-years-after-invasion-many-americans-still-fail-recognize-unending-scale-crime"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/headline/thumbs/gettyimages-497398286.jpg?itok=7o5EMnew" width="100" height="58" alt="" /></a>        </td>
+              <td class="views-field views-field-field-hp-title">
+          <a href="/news/2018/03/20/15-years-after-invasion-many-americans-still-fail-recognize-unending-scale-crime">15 Years After Invasion, Many Americans Still Fail To Recognize Unending Scale of the Crime</a>        </td>
+          </tr>
+    </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+      <div class="view-content">
+      <table class="views-table cols-0">
+      <tbody>
+      <tr>
+              <td class="views-field views-field-field-image">
+          <a href="/news/2018/03/20/lawmakers-accuse-devos-lack-regard-students-her-own-staffer-admits-things-have"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/headline/thumbs/screen_shot_2018-03-20_at_11.25.27_am.jpg?itok=pkOYPYhg" width="100" height="58" alt="" /></a>        </td>
+              <td class="views-field views-field-field-hp-title">
+          <a href="/news/2018/03/20/lawmakers-accuse-devos-lack-regard-students-her-own-staffer-admits-things-have">As Lawmakers Accuse DeVos of Lack of Regard for Students, Her Own Staffer Admits &#039;Things Have Gotten Pretty Awful Here&#039;</a>        </td>
+          </tr>
+      <tr>
+              <td class="views-field views-field-field-image">
+          <a href="/news/2018/03/20/vote-looming-anti-war-groups-call-nation-demand-congress-end-us-backed-slaughter"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/headline/thumbs/dyves2pw4aaqk8c.jpg?itok=mL7bai09" width="100" height="58" alt="stop war graphic" /></a>        </td>
+              <td class="views-field views-field-field-hp-title">
+          <a href="/news/2018/03/20/vote-looming-anti-war-groups-call-nation-demand-congress-end-us-backed-slaughter">With Vote Looming, Anti-War Groups Call on Nation to Demand Congress End US-Backed Slaughter in Yemen</a>        </td>
+          </tr>
+      <tr>
+              <td class="views-field views-field-field-image">
+          <a href="/news/2018/03/20/north-korea-halts-missile-tests-talks-pentagon-refuses-put-war-games-hold"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/headline/thumbs/gettyimages-1696492101_0.jpg?itok=FtFqu6Xf" width="100" height="58" alt="" /></a>        </td>
+              <td class="views-field views-field-field-hp-title">
+          <a href="/news/2018/03/20/north-korea-halts-missile-tests-talks-pentagon-refuses-put-war-games-hold">As North Korea Halts Missile Tests for Talks, Pentagon Refuses to Put War Games on Hold</a>        </td>
+          </tr>
+      <tr>
+              <td class="views-field views-field-field-image">
+          <a href="/news/2018/03/20/facebook-ire-grows-senator-says-zuckerberg-ought-be-subpoenaed"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/headline/thumbs/gettyimages-6698897701_0.jpg?itok=VFS2Twna" width="100" height="58" alt="" /></a>        </td>
+              <td class="views-field views-field-field-hp-title">
+          <a href="/news/2018/03/20/facebook-ire-grows-senator-says-zuckerberg-ought-be-subpoenaed">As Facebook Ire Grows, Senator Says Zuckerberg &#039;Ought to Be Subpoenaed&#039;</a>        </td>
+          </tr>
+      <tr>
+              <td class="views-field views-field-field-image">
+          <a href="/news/2018/03/20/judge-issues-restraining-order-block-mississippi-attack-abortion-rights"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/headline/thumbs/32269858100_9d8d42c7f4_o11_0.jpg?itok=zkZlvuwV" width="100" height="58" alt="keep abortion legal" /></a>        </td>
+              <td class="views-field views-field-field-hp-title">
+          <a href="/news/2018/03/20/judge-issues-restraining-order-block-mississippi-attack-abortion-rights">Judge Issues Restraining Order to Block Mississippi Attack on Abortion Rights</a>        </td>
+          </tr>
+      <tr>
+              <td class="views-field views-field-field-image">
+          <a href="/news/2018/03/20/fifth-texas-bombing-three-weeks-believed-be-linked-austin-explosions"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_tiny_thumb/public/headline/thumbs/screen_shot_2018-03-20_at_8.35.06_am.jpg?itok=HbZX9Pgo" width="100" height="58" alt="" /></a>        </td>
+              <td class="views-field views-field-field-hp-title">
+          <a href="/news/2018/03/20/fifth-texas-bombing-three-weeks-believed-be-linked-austin-explosions">Fifth Texas Bombing in Three Weeks Believed to Be Linked to Austin Explosions</a>        </td>
+          </tr>
+    </tbody>
+</table>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="https://www.commondreams.org/news">
+    More News  </a>
+</div>
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-views-further-block" class="block block--views block--views-further-block">
+        <h2 class="block__title"><span>Further</span></h2>
+      <div class="block__content">
+    <div class="view view-further view-id-further view-display-id-block view-dom-id-db12ad7dd5200230f2c627691bed57d7">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/further/2018/03/19/these-kids-arent-playing-badass-breakfast-club-turns-detention-yet-another-gun">These Kids Aren&#039;t Playing: Badass Breakfast Club Turns Detention Into Yet Another Gun Reform Protest</a></div>  </div>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><p class="print-no">
+   <a href="/further/2018/03/19/these-kids-arent-playing-badass-breakfast-club-turns-detention-yet-another-gun"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/further/trouble_screenshot_pennridge_proteststudents-800x430.png?itok=zeJ28gQN" width="420" height="220" alt="" /></a></p>
+</div>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content">Lookit These Kids Redux: Over 200 kids in Pennsylvania who defied their school's ban on joining last week's nationwide walkout transformed their ostensible punishment into Civil Disobedience 101 by turning their detention into a silent, moving sit-in. With the community offering support - and pizza - the #Pennridge 225 linked arms, wore the names of Parkland victims and declared the consequences of their actions "a badge of honor" to show "we’ll stand up for what is right."</div>  </div>  
+  <div class="views-field views-field-field-more-text">        <div class="field-content"><a href="/further/2018/03/19/these-kids-arent-playing-badass-breakfast-club-turns-detention-yet-another-gun">Read More...</a></div>  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="https://www.commondreams.org/further">
+    More Further  </a>
+</div>
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-block-73" class="block block--block block--block-73">
+        <div class="block__content">
+    <p><a href="https://secure.actblue.com/donate/free-and-independent?refcode=winter18_sidebar" target="_blank"><img src="/sites/default/files/users/user18439/sidebar-jon_1.png" alt="Help Common Dreams Survive" width="433" height="300" /></a></p>
+  </div>
+</div>
+<div id="block-block-9" class="block block--block block--block-9">
+        <div class="block__content">
+    <div class="sidebar-social"><center>Connect With Us <a href="http://www.facebook.com/commondreams.org" target="_blank"><em class="fa fa-facebook-square"></em></a><a href="http://www.twitter.com/commondreams" target="_blank"><em class="fa fa-twitter-square"></em></a><a href="/rss.xml" target="_blank"><em class="fa fa-rss-square"></em></a></center></div>
+  </div>
+</div>
+  </aside>
+  </div>
+
+  <footer class="l-footer" role="contentinfo">
+      <div class="l-region l-region--footer">
+    <div id="block-panels-mini-footer-panel" class="block block--panels-mini block--panels-mini-footer-panel">
+        <div class="block__content">
+    <div class="grid-3 panel-display panel-display--grid-3">
+            <div class="grid-3-region grid-3-region--first">
+        <div class="panel-pane pane-block pane-block-5">
+          <h2 class="pane-title"><span>About Common Dreams</span></h2>
+        <p>Our Mission:<br />To inform. To inspire.<br />To ignite change for the common good.</p>
+<p>Common Dreams has been providing breaking news &amp; views for the progressive community since 1997. We are independent, non-profit, advertising-free and 100% reader supported.</p>
+<ul><li><a rel="nofollow" href="/about-us">About Common Dreams</a></li>
+<li><a rel="nofollow" href="/testimonials">Testimonials</a></li>
+<li><a rel="nofollow" href="/key-staff">Key Staff</a></li>
+<li><a rel="nofollow" href="/writers-guidelines">Writers' Guidelines</a></li>
+<li><a rel="nofollow" href="/commons-community-guidelines">The Commons - Community Guidelines</a></li>
+<li><a rel="nofollow" href="/privacy-policy">Privacy Policy</a></li>
+<li><a rel="nofollow" href="/jobs">Jobs</a></li>
+</ul>    </div>
+      </div>
+                <div class="grid-3-region grid-3-region--second">
+        <div class="panel-pane pane-block pane-block-4">
+          <h2 class="pane-title"><span>Contact Us</span></h2>
+        <p class="contact-map">Common Dreams<br />P.O. Box 443<br />Portland, ME 04112-0443<br />USA</p>
+
+<p class="contact-mail">via Email:</p>
+
+<ul><li><a href="mailto:editor@commondreams.org">Editor</a></li><li><a href="mailto:newstips@commondreams.org">News Tips?</a></li><li><a href="mailto:submissions@commondreams.org">Article Submissions</a></li><li><a href="mailto:news@commondreams.org">News Release Submissions</a></li><li><a href="mailto:webmaster@commondreams.org">Webmaster / General Info</a></li></ul>
+
+<p class="contact-phone">207.775.0488</p>    </div>
+      </div>
+                <div class="grid-3-region grid-3-region--third">
+        <div class="panel-pane pane-block pane-block-6">
+          <h2 class="pane-title"><span>Common Dreams brings you the news that matters.</span></h2>
+        <p><a rel="nofollow" href="https://secure.actblue.com/donate/support-independent-media?refcode=footer" target="_blank" class="button">SUPPORT Common Dreams</a></p>
+    </div>
+<div class="panel-pane pane-block pane-block-8">
+          <h2 class="pane-title"><span>Sign up for Newsletter</span></h2>
+        <p><a class="button" rel="nofollow" href="https://www.commondreams.org/common-dreams-count-us" target="_blank">Click to Sign Up</a></p>
+    </div>
+<div class="panel-pane pane-block pane-block-7">
+          <h2 class="pane-title"><span>Connect With Us</span></h2>
+        <div class="footer-social"><span itemscope="" itemtype="http://schema.org/Organization"><a itemprop="sameAs" target="_blank" rel="nofollow" href="http://www.facebook.com/commondreams.org"><em class="fa fa-facebook-square"></em></a><a itemprop="sameAs" target="_blank" rel="nofollow" href="http://www.twitter.com/commondreams"><em class="fa fa-twitter-square"></em></a><a target="_blank" rel="nofollow" href="/rss.xml"><em class="fa fa-rss-square"></em></a><a itemprop="sameAs" target="_blank" rel="nofollow" href="https://plus.google.com/u/0/b/112945048567964551573"><em class="fa fa-google-plus-square"></em></a></span></div>
+    </div>
+      </div>
+                        </div>
+  </div>
+</div>
+<div id="block-block-3" class="block block--block block--block-3">
+        <div class="block__content">
+    <div style="margin-top:10px;">
+<div style="float:left;" itemscope="" itemtype="http://schema.org/Organization"><a itemprop="url" href="https://www.commondreams.org"><img itemprop="logo" src="/sites/default/files/cd_stacked_white_600.png" alt="Common Dreams News and Views Published in Maine Since 1997" width="200" height="50" /></a></div>
+<div style="float:right;">
+<a href="/commons-community-guidelines">© <span itemprop="copyrightYear">2017</span><span itemprop="copyrightHolder provider sourceOrganization" itemscope="" itemtype="http://schema.org/Organization" itemid="https://www.commondreams.org"><span itemprop="name"> Common Dreams</span></span><br /></a>
+</div>
+</div>
+  </div>
+</div>
+<div id="block-ctas-cta-modal-winter-2017" class="block block--ctas block--ctas-cta-modal-winter-2017">
+        <div class="block__content">
+    <style>
+#bio_ep {
+  border: 3px solid #FFCC00;
+  border-radius: 6px;
+}
+#bio_ep .content {
+  padding: 15px;
+}
+#bio_ep #bio_ep_close {
+    position: relative;
+    left: auto;
+    float: right;
+    background: transparent;
+    color: #000;
+    margin: 0;
+}
+</style>
+<div id="bio_ep_bg"></div>
+<div id="bio_ep">
+  <div id="bio_ep_close">X</div>
+  <div class="content">
+    
+<div class="logo"><img src="/sites/all/modules/custom/ctas/images/common-dreams-logo.png" alt="Common Dreams Free Newsletter Subscription" /></div><div class="text"><br /><big><strong>SUBSCRIBE FOR OUR FREE NEWSLETTER</strong></big></div><form action="https://info.commondreams.org/acton/eform/33231/0002/d-ext-0001" name="custom_form" enctype="multipart/form-data" accept-charset="UTF-8"><p><input id="form_0002_fld_0_1" class="formFieldText formFieldMediumLeft" type="text" name="First Name" value="" />&nbsp;&nbsp; <input id="form_0002_fld_0_2" class="formFieldText formFieldMediumRight" type="text" name="Last Name" value="" /></p><p>&nbsp;<input id="form_0002_fld_2-0" type="checkbox" name="Subscription Choice" value="Daily Newsletter" checked="checked" /> <span style="color: white;">Daily Newsletter&nbsp; &nbsp;<input id="form_0002_fld_2-1" type="checkbox" name="Subscription Choice" value="Weekly Newsletter" checked="checked" /> Weekly Newsletter</span></p><p><input id="form_0002_fld_1" class="formFieldText formFieldLarge" type="text" name="Email" /></p><p><input id="form_0002_ao_submit_input" onclick="doSubmit(document.getElementById('form_0002'))" type="submit" name="Submit" value="Sign Up" /></p><div class="actions"><a href="#" class="btn btn-default" id="close-modal">No Thank You</a></div></form>  </div>
+</div>
+  </div>
+</div>
+  </div>
+  </footer>
+</div>
+  <script src="https://www.commondreams.org/sites/default/files/js/js_GdW4c3QuRKuLgT0IcbsFzRiRiPPjmBoj882j85OMt3w.js"></script>
+  <!-- Hotjar Tracking Code for https://www.commondreams.org -->
+  <script>
+      (function(h,o,t,j,a,r){
+          h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+          h._hjSettings={hjid:783101,hjsv:6};
+          a=o.getElementsByTagName('head')[0];
+          r=o.createElement('script');r.async=1;
+          r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+          a.appendChild(r);
+      })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+  </script>
+  <script>/*<![CDATA[*/(function(w,a,b,d,s){w[a]=w[a]||{};w[a][b]=w[a][b]||{q:[],track:function(r,e,t){this.q.push({r:r,e:e,t:t||+new Date});}};var e=d.createElement(s);var f=d.getElementsByTagName(s)[0];e.async=1;e.src='//info.commondreams.org/cdnr/29/acton/bn/tracker/33231';f.parentNode.insertBefore(e,f);})(window,'ActOn','Beacon',document,'script');ActOn.Beacon.track();/*]]>*/</script>
+  <script type='text/javascript'>
+      var _sf_async_config = _sf_async_config || {};
+      /** CONFIGURATION START **/
+      _sf_async_config.sections = "Climate, U.S., Canada";
+      _sf_async_config.authors = "Greenpeace";
+      /** CONFIGURATION END **/
+      (function() {
+          function loadChartbeat() {
+              window._sf_endpt = (new Date()).getTime();
+              var e = document.createElement('script');
+              e.setAttribute('language', 'javascript');
+              e.setAttribute('type', 'text/javascript');
+              e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+
+              document.body.appendChild(e);
+          }
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function() {
+                  oldonload();
+                  loadChartbeat();
+              };
+
+      })();
+  </script>
+</body>
+</html>

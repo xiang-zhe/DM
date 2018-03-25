@@ -1,0 +1,723 @@
+
+<!DOCTYPE html>
+
+<!--[if IE 8]> <html class="ie ie8" lang="en-GB" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"> <![endif]-->
+<!--[if IE 9]> <html class="ie ie9" lang="en-GB" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="en-GB" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"> <!--<![endif]-->
+
+<head>
+
+
+<meta charset="UTF-8" />
+<title>  Israel experiment with unmanned drones as crowd control instruments, dropping tear gas on Palestinian demonstrators.</title>
+
+ 
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="pingback" href="https://amityunderground.com/xmlrpc.php" />
+	
+
+	
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Amity Underground &raquo; Feed" href="https://amityunderground.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Amity Underground &raquo; Comments Feed" href="https://amityunderground.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Amity Underground &raquo; Israel experiment with unmanned drones as crowd control instruments, dropping tear gas on Palestinian demonstrators. Comments Feed" href="https://amityunderground.com/israel-experiment-with-unmanned-drones-as-crowd-control-instruments-dropping-tear-gas-on-palestinian-demonstrators-drone-uav-riot-control-ispra-cyclone/feed/" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.0.4 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var mi_track_user = true;
+	var disableStr = 'ga-disable-UA-86905865-2';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-86905865-2', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('require', 'linkid', 'linkid.js');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you\'re not being tracked. ");
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+		})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/amityunderground.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.4"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='ap-front-styles-css'  href='https://amityunderground.com/wp-content/plugins/accesspress-anonymous-post/css/frontend-style.css?ver=2.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://amityunderground.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ctf_styles-css'  href='https://amityunderground.com/wp-content/plugins/custom-twitter-feeds-pro/css/ctf-styles.css?ver=1.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://amityunderground.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.3.1.5' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='smartmag-fonts-css'  href='https://fonts.googleapis.com/css?family=Libre+Franklin%3A400%2C400i%2C500%2C600%7CLato%3A400%2C700%2C900%7CHind%3A400%2C500%2C600%7CMerriweather%3A300italic&#038;subset' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-core-css'  href='https://amityunderground.com/wp-content/themes/smart-mag/style.css?ver=3.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-responsive-css'  href='https://amityunderground.com/wp-content/themes/smart-mag/css/responsive.css?ver=3.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='pretty-photo-css'  href='https://amityunderground.com/wp-content/themes/smart-mag/css/prettyPhoto.css?ver=3.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-font-awesome-css'  href='https://amityunderground.com/wp-content/themes/smart-mag/css/fontawesome/css/font-awesome.min.css?ver=3.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=2.0.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpcw-css'  href='https://amityunderground.com/wp-content/plugins/contact-widgets/assets/css/style.min.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='highlight-and-share-css'  href='https://amityunderground.com/wp-content/plugins/highlight-and-share/css/highlight-and-share.css?ver=20180211' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-skin-css'  href='https://amityunderground.com/wp-content/themes/smart-mag/css/skin-trendy.css?ver=4.9.4' type='text/css' media='all' />
+<style id='smartmag-skin-inline-css' type='text/css'>
+.main-featured { background-image: url(https://amityunderground.com/wp-content/uploads/2017/02/rorywood103.jpg);;background-repeat: repeat; }
+
+
+
+</style>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"https:\/\/amityunderground.com","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://amityunderground.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.0.4'></script>
+<script type='text/javascript' src='https://amityunderground.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://amityunderground.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://amityunderground.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.3.1.5'></script>
+<script type='text/javascript' src='https://amityunderground.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.3.1.5'></script>
+<script type='text/javascript' src='https://amityunderground.com/wp-content/themes/smart-mag/js/jquery.prettyPhoto.js?ver=4.9.4'></script>
+<link rel='https://api.w.org/' href='https://amityunderground.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://amityunderground.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://amityunderground.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='To Preserve a World Graced by Life (Carl Sagan, 1982)' href='https://amityunderground.com/to-preserve-a-world-graced-by-life-carl-sagan-nuclear-warfare-cold-war-nuclear-winter/' />
+<meta name="generator" content="WordPress 4.9.4" />
+<link rel="canonical" href="https://amityunderground.com/israel-experiment-with-unmanned-drones-as-crowd-control-instruments-dropping-tear-gas-on-palestinian-demonstrators-drone-uav-riot-control-ispra-cyclone/" />
+<link rel='shortlink' href='https://amityunderground.com/?p=1774' />
+<link rel="alternate" type="application/json+oembed" href="https://amityunderground.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Famityunderground.com%2Fisrael-experiment-with-unmanned-drones-as-crowd-control-instruments-dropping-tear-gas-on-palestinian-demonstrators-drone-uav-riot-control-ispra-cyclone%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://amityunderground.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Famityunderground.com%2Fisrael-experiment-with-unmanned-drones-as-crowd-control-instruments-dropping-tear-gas-on-palestinian-demonstrators-drone-uav-riot-control-ispra-cyclone%2F&#038;format=xml" />
+<meta name="generator" content="Powered by Slider Revolution 5.3.1.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://amityunderground.com/wp-content/uploads/2018/01/cropped-rorywood103-B-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://amityunderground.com/wp-content/uploads/2018/01/cropped-rorywood103-B-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://amityunderground.com/wp-content/uploads/2018/01/cropped-rorywood103-B-180x180.png" />
+<meta name="msapplication-TileImage" content="https://amityunderground.com/wp-content/uploads/2018/01/cropped-rorywood103-B-270x270.png" />
+
+<!-- START - Facebook Open Graph, Google+ and Twitter Card Tags 2.2.3.1 -->
+ <!-- Facebook Open Graph -->
+  <meta property="og:locale" content="en_GB"/>
+  <meta property="og:site_name" content="Amity Underground"/>
+  <meta property="og:title" content="Israel experiment with unmanned drones as crowd control instruments, dropping tear gas on Palestinian demonstrators."/>
+  <meta property="og:url" content="https://amityunderground.com/israel-experiment-with-unmanned-drones-as-crowd-control-instruments-dropping-tear-gas-on-palestinian-demonstrators-drone-uav-riot-control-ispra-cyclone/"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:description" content="Israel deployed unmanned drones to drop tear gas on Palestinian protesters for the first time on the 9th of March 2018 in an unprovoked attack on the militarised Gaza border.
+
+The Lebanese press outlet Al-Mayadeen reported that a crowd of dozens of Palestinians protesting their occupation in front"/>
+  <meta property="og:image" content="https://amityunderground.com/wp-content/uploads/2018/03/ham3.jpeg"/>
+  <meta property="article:published_time" content="2018-03-20T20:51:25+00:00"/>
+  <meta property="article:modified_time" content="2018-03-20T20:51:25+00:00" />
+  <meta property="og:updated_time" content="2018-03-20T20:51:25+00:00" />
+  <meta property="article:section" content="Israel/Palestine"/>
+ <!-- Google+ / Schema.org -->
+  <meta itemprop="name" content="Israel experiment with unmanned drones as crowd control instruments, dropping tear gas on Palestinian demonstrators."/>
+  <meta itemprop="headline" content="Israel experiment with unmanned drones as crowd control instruments, dropping tear gas on Palestinian demonstrators."/>
+  <meta itemprop="description" content="Israel deployed unmanned drones to drop tear gas on Palestinian protesters for the first time on the 9th of March 2018 in an unprovoked attack on the militarised Gaza border.
+
+The Lebanese press outlet Al-Mayadeen reported that a crowd of dozens of Palestinians protesting their occupation in front"/>
+  <meta itemprop="image" content="https://amityunderground.com/wp-content/uploads/2018/03/ham3.jpeg"/>
+  <meta itemprop="datePublished" content="2018-03-20"/>
+  <meta itemprop="dateModified" content="2018-03-20T20:51:25+00:00" />
+  <meta itemprop="author" content="Rory Wood"/>
+  <!--<meta itemprop="publisher" content="Amity Underground"/>--> <!-- To solve: The attribute publisher.itemtype has an invalid value -->
+ <!-- Twitter Cards -->
+  <meta name="twitter:title" content="Israel experiment with unmanned drones as crowd control instruments, dropping tear gas on Palestinian demonstrators."/>
+  <meta name="twitter:url" content="https://amityunderground.com/israel-experiment-with-unmanned-drones-as-crowd-control-instruments-dropping-tear-gas-on-palestinian-demonstrators-drone-uav-riot-control-ispra-cyclone/"/>
+  <meta name="twitter:description" content="Israel deployed unmanned drones to drop tear gas on Palestinian protesters for the first time on the 9th of March 2018 in an unprovoked attack on the militarised Gaza border.
+
+The Lebanese press outlet Al-Mayadeen reported that a crowd of dozens of Palestinians protesting their occupation in front"/>
+  <meta name="twitter:image" content="https://amityunderground.com/wp-content/uploads/2018/03/ham3.jpeg"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:site" content="@amityuground"/>
+ <!-- SEO -->
+ <!-- Misc. tags -->
+ <!-- is_singular -->
+<!-- END - Facebook Open Graph, Google+ and Twitter Card Tags 2.2.3.1 -->
+	
+	
+<!--[if lt IE 9]>
+<script src="https://amityunderground.com/wp-content/themes/smart-mag/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+
+</head>
+
+
+<body class="post-template-default single single-post postid-1774 single-format-standard page-builder right-sidebar full skin-tech has-nav-light has-nav-full has-head-centered has-mobile-head">
+
+<div class="main-wrap">
+
+	
+	
+	<div class="top-bar">
+
+		<div class="wrap">
+			<section class="top-bar-content cf">
+			
+							
+								<div class="trending-ticker">
+					<span class="heading">Trending</span>
+
+					<ul>
+												
+												
+							<li><a href="https://amityunderground.com/war-is-a-racket-by-smedley-butler-still-ringing-true-80-years-on-war-profiteering-military-industrial-complex/" title="War is a Racket by Smedley Butler &#8211; Still ringing true 80 years on.">War is a Racket by Smedley Butler &#8211; Still ringing true 80 years on.</a></li>
+						
+												
+							<li><a href="https://amityunderground.com/15-years-after-the-invasion-of-iraq-and-now-largely-out-of-the-glare-of-the-media-us-and-uk-oil-corporations-start-to-flaunt-the-spoils-of-imperial-conquest-bp-rumaila-oil-field-extraction-contract-jo/" title="15 years after the invasion of Iraq, and now largely out of the glare of the media, US and UK oil corporations start to flaunt the spoils of imperial conquest.">15 years after the invasion of Iraq, and now largely out of the glare of the media, US and UK oil corporations start to flaunt the spoils of imperial conquest.</a></li>
+						
+												
+							<li><a href="https://amityunderground.com/john-mccain-and-other-neocons-whove-spent-a-lifetime-lobbying-to-nuke-iran-back-to-the-stone-age-are-suddenly-filled-with-opportunistic-concern-for-ordinary-iranians-iran-protests-2017-wikileaks/" title="John McCain and other neocons, who&#8217;ve spent a lifetime lobbying to nuke Iran back to the stone age, are suddenly filled with opportunistic concern for ordinary Iranians.">John McCain and other neocons, who&#8217;ve spent a lifetime lobbying to nuke Iran back to the stone age, are suddenly filled with opportunistic concern for ordinary Iranians.</a></li>
+						
+												
+							<li><a href="https://amityunderground.com/israel-experiment-with-unmanned-drones-as-crowd-control-instruments-dropping-tear-gas-on-palestinian-demonstrators-drone-uav-riot-control-ispra-cyclone/" title="Israel experiment with unmanned drones as crowd control instruments, dropping tear gas on Palestinian demonstrators.">Israel experiment with unmanned drones as crowd control instruments, dropping tear gas on Palestinian demonstrators.</a></li>
+						
+												
+							<li><a href="https://amityunderground.com/to-preserve-a-world-graced-by-life-carl-sagan-nuclear-warfare-cold-war-nuclear-winter/" title="To Preserve a World Graced by Life (Carl Sagan, 1982)">To Preserve a World Graced by Life (Carl Sagan, 1982)</a></li>
+						
+												
+							<li><a href="https://amityunderground.com/noam-chomsky-and-jill-stein-lead-support-for-an-end-to-foreign-electoral-meddling-by-the-us-concerning-venezuela-sanctions-hugo-chavez-us-imperialism-nicolas-maduro-venezuela-democracy/" title="Noam Chomsky and Jill Stein lead support for an end to foreign electoral meddling… by the US concerning Venezuela.">Noam Chomsky and Jill Stein lead support for an end to foreign electoral meddling… by the US concerning Venezuela.</a></li>
+						
+												
+							<li><a href="https://amityunderground.com/turkey-have-slaughtered-165-kurdish-civilians-including-32-children-since-the-start-of-the-un-syrian-ceasefire-rojava-afrin-turkey-genocide-abdullah-ocalan-pkk-syria-kurdistan-defend-afrin/" title="Turkey have slaughtered 165 Kurdish civilians including 32 children since the start of the UN Syrian ceasefire.">Turkey have slaughtered 165 Kurdish civilians including 32 children since the start of the UN Syrian ceasefire.</a></li>
+						
+												
+							<li><a href="https://amityunderground.com/military-industrial-panties-drop-and-financial-regulations-weaken-as-rockstar-war-criminal-mohammad-bin-salman-arrives-in-the-uk-saudi-arabia-uk-weapons-al-yamamah-yemen-blockade/" title="Military-industrial panties drop and financial regulations weaken as rockstar war criminal Mohammad Bin Salman arrives in the UK.">Military-industrial panties drop and financial regulations weaken as rockstar war criminal Mohammad Bin Salman arrives in the UK.</a></li>
+						
+												
+							<li><a href="https://amityunderground.com/ahed-tamimis-cousin-was-beaten-into-confessing-that-half-of-his-skull-was-lost-in-a-bicycle-accident-rather-than-from-an-israeli-rubber-bullet-mohammed-tamimi-nabi-saleh-israel-violence/" title="Ahed Tamimi’s cousin was beaten into ‘confessing’ that half of his skull was lost in a bicycle accident rather than from an Israeli rubber bullet.">Ahed Tamimi’s cousin was beaten into ‘confessing’ that half of his skull was lost in a bicycle accident rather than from an Israeli rubber bullet.</a></li>
+						
+												
+							<li><a href="https://amityunderground.com/the-uk-aware-of-authoritarian-erdogans-targeting-of-political-dissidents-still-granted-several-licenses-to-export-surveillance-equipment-to-turkey-in-2017-surveillancegroup-exports-turkey-human-rights/" title="The UK, aware of authoritarian Erdogan&#8217;s targeting of political dissidents, still granted several licenses to export surveillance equipment to Turkey in 2017.">The UK, aware of authoritarian Erdogan&#8217;s targeting of political dissidents, still granted several licenses to export surveillance equipment to Turkey in 2017.</a></li>
+						
+												
+							<li><a href="https://amityunderground.com/wikileaks-cables-wrongly-proscribed-from-court-case-that-saw-chagos-refugees-denied-the-right-to-return-to-their-homeland-chagos-refugees-us-airbase-wikileaks-cablegate-david-miliband-uk-supreme-court/" title="Wikileaks cables wrongly proscribed from court case that saw Chagos refugees denied the right to return to their homeland">Wikileaks cables wrongly proscribed from court case that saw Chagos refugees denied the right to return to their homeland</a></li>
+						
+												
+											</ul>
+				</div>
+				
+				
+				<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="menu"><li id="menu-item-170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170"><a href="https://amityunderground.com/home/">Post Article (Anonymity Optional)</a></li>
+<li id="menu-item-405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="https://amityunderground.com/twitter-feed/">Twitter Feed</a></li>
+</ul></div>				
+			</section>
+		</div>
+		
+	</div>
+	
+	<div id="main-head" class="main-head">
+		
+		<div class="wrap">
+			
+							<div class="mobile-head">
+				
+					<div class="menu-icon"><a href="#"><i class="fa fa-bars"></i></a></div>
+					<div class="title">
+								<a href="https://amityunderground.com/" title="Amity Underground" rel="home">
+		
+														
+								
+				<img src="https://amityunderground.com/wp-content/uploads/2018/01/Amity-Underground-1.jpeg" class="logo-image" alt="Amity Underground" />
+					 
+						
+		</a>					</div>
+					<div class="search-overlay">
+						<a href="#" title="Search" class="search-icon"><i class="fa fa-search"></i></a>
+					</div>
+					
+				</div>
+			
+			<header class="centered">
+			
+				<div class="title">
+							<a href="https://amityunderground.com/" title="Amity Underground" rel="home">
+		
+														
+								
+				<img src="https://amityunderground.com/wp-content/uploads/2018/01/Amity-Underground-1.jpeg" class="logo-image" alt="Amity Underground" />
+					 
+						
+		</a>				</div>
+				
+								
+			</header>
+				
+							
+		</div>
+		
+		
+<div class="main-nav">
+	<div class="navigation-wrap cf">
+	
+		<nav class="navigation cf nav-full nav-light">
+		
+			<div class="wrap">
+			
+				<div class="mobile" data-type="off-canvas" data-search="1">
+					<a href="#" class="selected">
+						<span class="text">Navigate</span><span class="current"></span> <i class="hamburger fa fa-bars"></i>
+					</a>
+				</div>
+				
+								
+								
+					<div class="mobile-menu-container"><ul id="menu-mobile-navigation" class="menu mobile-menu"><li id="menu-item-1785" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1785"><a href="https://www.facebook.com/amityunderground/">Facebook Page</a></li>
+<li id="menu-item-1463" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-432 menu-item-1463"><a href="https://amityunderground.com/category/wikileaks-2/">Wikileaks</a></li>
+<li id="menu-item-1783" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-cat-356 menu-item-1783"><a href="https://amityunderground.com/category/israel-palestine-conflict/">Israel/Palestine</a></li>
+<li id="menu-item-1784" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-66 menu-item-1784"><a href="https://amityunderground.com/category/europe/uk/">UK</a></li>
+<li id="menu-item-954" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-329 menu-item-954"><a href="https://amityunderground.com/category/yemen/">Yemen</a></li>
+<li id="menu-item-586" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-7 menu-item-586"><a href="https://amityunderground.com/category/syrian-civil-war/">Syrian Civil War</a></li>
+</ul></div>				
+						
+			</div>
+			
+		</nav>
+	
+				
+	</div>
+</div>		
+	</div>	
+	<div class="breadcrumbs-wrap">
+		
+		<div class="wrap">
+		<div class="breadcrumbs"><span class="location">You are at:</span><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="https://amityunderground.com/"><span itemprop="title">Home</span></a></span><span class="delim">&raquo;</span><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url"  href="https://amityunderground.com/category/israel-palestine-conflict/"><span itemprop="title">Israel/Palestine</span></a></span><span class="delim">&raquo;</span><span class="current">Israel experiment with unmanned drones as crowd control instruments, dropping tear gas on Palestinian demonstrators.</span></div>		</div>
+		
+	</div>
+
+
+<div class="main wrap cf">
+
+		
+	<div class="row">
+	
+		<div class="col-8 main-content">
+		
+				
+				
+<article id="post-1774" class="post-1774 post type-post status-publish format-standard has-post-thumbnail category-israel-palestine-conflict tag-drone-riot-control tag-drone-warfare tag-futuristic-warfare tag-ispra-cyclone tag-israel-palestine-conflict tag-israeli-occupation-of-palestine">
+	
+	<header class="post-header cf">
+	
+	
+	
+	<div class="featured">
+				
+					
+			<a href="https://amityunderground.com/wp-content/uploads/2018/03/ham3.jpeg" title="Israel experiment with unmanned drones as crowd control instruments, dropping tear gas on Palestinian demonstrators.">
+			
+						
+								
+					<img width="702" height="459" src="https://amityunderground.com/wp-content/uploads/2018/03/ham3-702x459.jpeg" class="attachment-main-featured size-main-featured wp-post-image" alt="ISPRA Cyclone, Drone UAV Riot Control, Tear Gas on Palestinian Protestors." title="Israel experiment with unmanned drones as crowd control instruments, dropping tear gas on Palestinian demonstrators." srcset="https://amityunderground.com/wp-content/uploads/2018/03/ham3-702x459.jpeg 702w, https://amityunderground.com/wp-content/uploads/2018/03/ham3-104x69.jpeg 104w, https://amityunderground.com/wp-content/uploads/2018/03/ham3-214x140.jpeg 214w" sizes="(max-width: 702px) 100vw, 702px" />				
+								
+										
+			</a>
+							
+						
+			</div>	
+		
+				<div class="heading cf">
+				
+			<h1 class="post-title item fn">
+			Israel experiment with unmanned drones as crowd control instruments, dropping tear gas on Palestinian demonstrators.			</h1>
+			
+			<a href="https://amityunderground.com/israel-experiment-with-unmanned-drones-as-crowd-control-instruments-dropping-tear-gas-on-palestinian-demonstrators-drone-uav-riot-control-ispra-cyclone/#respond" class="comments"><i class="fa fa-comments-o"></i> 0</a>
+		
+		</div>
+
+		<div class="post-meta cf">
+			<span class="posted-by">By 
+				<span class="reviewer"><a href="https://amityunderground.com/author/rwood95/" title="Posts by Rory Wood" rel="author">Rory Wood</a></span>
+			</span>
+			 
+			<span class="posted-on">on				<span class="dtreviewed">
+					<time class="value-title" datetime="2018-03-20T20:51:25+00:00" title="2018-03-20">March 20, 2018</time>
+				</span>
+			</span>
+			
+			<span class="cats"><a href="https://amityunderground.com/category/israel-palestine-conflict/" rel="category tag">Israel/Palestine</a></span>
+				
+		</div>		
+			
+	</header><!-- .post-header -->
+
+	
+
+	<div class="post-container cf">
+	
+		<div class="post-content-right">
+			<div class="post-content description ">
+	
+					
+				
+		<div class="has-content-area" data-url="https://amityunderground.com/israel-experiment-with-unmanned-drones-as-crowd-control-instruments-dropping-tear-gas-on-palestinian-demonstrators-drone-uav-riot-control-ispra-cyclone/" data-title="Israel experiment with unmanned drones as crowd control instruments, dropping tear gas on Palestinian demonstrators."><p>Israel deployed unmanned drones to drop tear gas on Palestinian protesters for the first time on the 9th of March 2018 in an unprovoked attack on the militarised Gaza border.</p>
+<p>The Lebanese press outlet Al-Mayadeen reported that a crowd of dozens of Palestinians protesting their occupation in front of the Gaza-Israel barrier fled the scene as tear gas canisters fell from UAVs.</p>
+<p><img class="alignnone size-full wp-image-1775" src="https://amityunderground.com/wp-content/uploads/2018/03/Israel-Tear-Gas.gif" alt="UAV Drone Tear Gas on Palestinian Protestors." width="480" height="270" /></p>
+<p>Though Israel have not provided details on the technology in question, an Israeli company called ISPRA unveiled their Cyclone riot control drone system in a <a href="https://www.popularmechanics.com/flight/drones/g2445/tear-gas-capable-drones/">French Military trade show called Milipol back in 2015</a>, boasting that it offers ‘maximum accuracy, real time control of riot situations, and minimum injuries to civilians while maintaining distance between police forces and rioters’. However, there are various other UAVs marketed as ‘riot control’ tools, including a U.S army-contracted model called ShadowHawk produced by Vanguard Industries in the US.</p>
+<p><img class="alignnone size-full wp-image-1776" src="https://amityunderground.com/wp-content/uploads/2018/03/Cyclone-gif-.gif" alt="Cyclone UAV Drone Tear Gas Riot Control, ISPRA" width="480" height="270" /></p>
+<p>According to Israeli newspaper <a href="https://www.haaretz.com/israel-news/in-first-israeli-drones-drop-tear-gas-to-disperse-palestinian-protest-1.5892756">Haaretz</a>, officials in Tel Aviv say that the new crowd-control technique remains ‘experimental and has not yet been made operational’, but apparently deemed it appropriate to beta test the robotic dispersion of a gas that can cause blindness on the encaged residents of the Gaza strip.</p>
+<p>The State of Israel have long marketed themselves as the Samsung of emerging militaristic technologies, treating global cable news footage of efficient IDF slaughter as a free advertisement of their instruments to authoritarian regimes around the world.</p>
+<p>A freedom of information request in 2013 revealed that <a href="https://www.aljazeera.com/indepth/features/2013/08/201381410565517125.html">over 6,800 Israelis have been granted State licences</a> to broker death machines. From the training pitches of civilian crowds in Gaza and the West Bank, window units are then sold across America, Europe and across the world to military leaders confident that they are purchasing weapons of the highest quality owing to their &#8216;experience&#8217; and &#8216;test-readiness&#8217;.</p>
+<p>Benjamin Ben Eliezer, a former defence minister turned industry minister, attributes Israel&#8217;s huge arms industry to the fact that &#8216;people like to buy things that have been tested&#8217;, he told Al Jazeera.&#8217; If Israel sells weapons, they have been tested, tried out. We can say we&#8217;ve used this 10 years, 15 years.&#8221;</p>
+<p>Needless to say, Israel are the global tastemakers when it comes to weapons, and many of the world&#8217;s most iconic violent devices first strut their stuff on the Jerusalem catwalk. The Uzi submachine gun was designed for IDF use in the 1956 Suez Campaign, remaining relatively unloved for couple of decades as a favoured tool of South African and Rhodesian apartheid militias, before going mainstream in US culture in the 80s as a symbol of the Miami drug wars. Largely omitted from Scarface tales of Cocaine trafficking and gang violence was the flow of Israeli weapons to South and Central American cartels.</p>
+<p>Similar stories are heard in a variety of weapons technology coups: surface-to-air guided missiles, mine-protected armoured vehicles &#8211; both developed and perfected in Israel before becoming US army staples and ultimately finding their way into the hands of the worst of us through the black market.</p>
+<p>Israel&#8217;s dominant position at the summit of UAV technology should therefore serve some indication of the direction of futuristic warfare and policing. 45% of the global industry belongs to Tel Aviv, and it&#8217;s rapidly growing.</p>
+<p>According to the <a href="http://www.tealgroup.com/index.php/about-teal-group-corporation/press-releases/132-teal-group-predicts-worldwide-military-uas-production-will-total-70-billion-in-its-2016-uas-market-profile-and-forecast">Teal Group</a>, current worldwide military UAV production stands at around $2.8 billion, and they project it will grow to $9.4 billion in 2025. What started as an improvised method of spying on Egypt and their Suez Canal, 70% of the Israeli airforces’ flying time now takes place without a warm body in the cockpit.</p>
+<p>Given Israel’s status as weapons mavericks and influencers, and the rapid growth of UAVs designed specifically for ‘crowd control’ purposes or at least with modular capabilities, it is surely a question of when, not if, we see these techniques used at Standing Rock or Occupy demonstrations on the streets of London?</p>
+<p><em><strong>Amity Underground | Israel/Palestine</strong></em></p>
+</div>		
+		
+		
+				
+				
+			</div><!-- .post-content -->
+		</div>
+		
+	</div>
+	
+	
+	
+	
+	<div class="post-share">
+		<span class="text">Share.</span>
+		
+		<span class="share-links">
+
+			<a href="http://twitter.com/home?status=https%3A%2F%2Famityunderground.com%2Fisrael-experiment-with-unmanned-drones-as-crowd-control-instruments-dropping-tear-gas-on-palestinian-demonstrators-drone-uav-riot-control-ispra-cyclone%2F" class="fa fa-twitter" title="Tweet It" target="_blank">
+				<span class="visuallyhidden">Twitter</span></a>
+				
+			<a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Famityunderground.com%2Fisrael-experiment-with-unmanned-drones-as-crowd-control-instruments-dropping-tear-gas-on-palestinian-demonstrators-drone-uav-riot-control-ispra-cyclone%2F" class="fa fa-facebook" title="Share on Facebook" target="_blank">
+				<span class="visuallyhidden">Facebook</span></a>
+				
+			<a href="http://plus.google.com/share?url=https%3A%2F%2Famityunderground.com%2Fisrael-experiment-with-unmanned-drones-as-crowd-control-instruments-dropping-tear-gas-on-palestinian-demonstrators-drone-uav-riot-control-ispra-cyclone%2F" class="fa fa-google-plus" title="Share on Google+" target="_blank">
+				<span class="visuallyhidden">Google+</span></a>
+				
+			<a href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Famityunderground.com%2Fisrael-experiment-with-unmanned-drones-as-crowd-control-instruments-dropping-tear-gas-on-palestinian-demonstrators-drone-uav-riot-control-ispra-cyclone%2F&amp;media=https%3A%2F%2Famityunderground.com%2Fwp-content%2Fuploads%2F2018%2F03%2Fham3.jpeg" class="fa fa-pinterest"
+				title="Share on Pinterest" target="_blank">
+				<span class="visuallyhidden">Pinterest</span></a>
+				
+			<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Famityunderground.com%2Fisrael-experiment-with-unmanned-drones-as-crowd-control-instruments-dropping-tear-gas-on-palestinian-demonstrators-drone-uav-riot-control-ispra-cyclone%2F" class="fa fa-linkedin" title="Share on LinkedIn" target="_blank">
+				<span class="visuallyhidden">LinkedIn</span></a>
+				
+			<a href="http://www.tumblr.com/share/link?url=https%3A%2F%2Famityunderground.com%2Fisrael-experiment-with-unmanned-drones-as-crowd-control-instruments-dropping-tear-gas-on-palestinian-demonstrators-drone-uav-riot-control-ispra-cyclone%2F&amp;name=Israel+experiment+with+unmanned+drones+as+crowd+control+instruments%2C+dropping+tear+gas+on+Palestinian+demonstrators." class="fa fa-tumblr"
+				title="Share on Tumblr" target="_blank">
+				<span class="visuallyhidden">Tumblr</span></a>
+				
+			<a href="mailto:?subject=Israel%20experiment%20with%20unmanned%20drones%20as%20crowd%20control%20instruments%2C%20dropping%20tear%20gas%20on%20Palestinian%20demonstrators.&amp;body=https%3A%2F%2Famityunderground.com%2Fisrael-experiment-with-unmanned-drones-as-crowd-control-instruments-dropping-tear-gas-on-palestinian-demonstrators-drone-uav-riot-control-ispra-cyclone%2F" class="fa fa-envelope-o"
+				title="Share via Email">
+				<span class="visuallyhidden">Email</span></a>
+			
+		</span>
+	</div>
+	
+		
+</article>
+
+
+
+
+	<div class="author-box">
+		<h3 class="section-head">About Author</h3>
+
+				<section class="author-info">
+		
+			<img src="https://amityunderground.com/wp-content/uploads/2018/01/drstrangelove1964.73309_092720131013-1-150x150.jpg" width="100" height="100" alt="Rory Wood" class="avatar avatar-100 wp-user-avatar wp-user-avatar-100 alignnone photo" />			
+			<div class="description">
+				<a href="https://amityunderground.com/author/rwood95/" title="Posts by Rory Wood" rel="author">Rory Wood</a>				
+				<ul class="social-icons">
+									
+					<li>
+						<a href="https://twitter.com/DJKhalidBakdash" class="icon fa fa-twitter" title="Twitter"> 
+							<span class="visuallyhidden">Twitter</span></a>				
+					</li>
+					
+					
+								</ul>
+				
+				<p class="bio">Gentlemen, you can't fight in here! This is the War Room!</p>
+			</div>
+			
+		</section>	</div>
+
+
+	
+	<section class="related-posts">
+		<h3 class="section-head"><span class="color">Related</span> Posts</h3> 
+		<ul class="highlights-box three-col related-posts">
+		
+				
+			<li class="highlights column one-third">
+				
+				<article>
+						
+					<a href="https://amityunderground.com/ahed-tamimis-cousin-was-beaten-into-confessing-that-half-of-his-skull-was-lost-in-a-bicycle-accident-rather-than-from-an-israeli-rubber-bullet-mohammed-tamimi-nabi-saleh-israel-violence/" title="Ahed Tamimi’s cousin was beaten into ‘confessing’ that half of his skull was lost in a bicycle accident rather than from an Israeli rubber bullet." class="image-link">
+						<img width="214" height="140" src="https://amityunderground.com/wp-content/uploads/2018/03/mohammad-tamimi-Bilal-e1519827156227-214x140.jpg" class="image wp-post-image" alt="Mohammed Tamimi rubber bullet removed from brain, shot by Israeli forces. Ahed Tamimi Nabi Saleh." title="Ahed Tamimi’s cousin was beaten into ‘confessing’ that half of his skull was lost in a bicycle accident rather than from an Israeli rubber bullet." srcset="https://amityunderground.com/wp-content/uploads/2018/03/mohammad-tamimi-Bilal-e1519827156227-214x140.jpg 214w, https://amityunderground.com/wp-content/uploads/2018/03/mohammad-tamimi-Bilal-e1519827156227-104x69.jpg 104w, https://amityunderground.com/wp-content/uploads/2018/03/mohammad-tamimi-Bilal-e1519827156227-702x459.jpg 702w" sizes="(max-width: 214px) 100vw, 214px" />	
+											</a>
+					
+										
+					<h2><a href="https://amityunderground.com/ahed-tamimis-cousin-was-beaten-into-confessing-that-half-of-his-skull-was-lost-in-a-bicycle-accident-rather-than-from-an-israeli-rubber-bullet-mohammed-tamimi-nabi-saleh-israel-violence/" title="Ahed Tamimi’s cousin was beaten into ‘confessing’ that half of his skull was lost in a bicycle accident rather than from an Israeli rubber bullet.">Ahed Tamimi’s cousin was beaten into ‘confessing’ that half of his skull was lost in a bicycle accident rather than from an Israeli rubber bullet.</a></h2>
+					
+								<div class="cf listing-meta meta below">
+					
+				<time datetime="2018-03-04T23:54:49+00:00" class="meta-item">March 4, 2018</time><span class="meta-item comments"><a href="https://amityunderground.com/ahed-tamimis-cousin-was-beaten-into-confessing-that-half-of-his-skull-was-lost-in-a-bicycle-accident-rather-than-from-an-israeli-rubber-bullet-mohammed-tamimi-nabi-saleh-israel-violence/#comments"><i class="fa fa-comments-o"></i> 2</a></span>					
+			</div>
+							
+				</article>
+			</li>
+			
+				
+			<li class="highlights column one-third">
+				
+				<article>
+						
+					<a href="https://amityunderground.com/israeli-social-media-crawler-used-to-detain-400-palestinians-shin-bet-social-media-surveillance-nsa-palestine-israel/" title="Israel use social media crawler to detain 400 Palestinians without charge." class="image-link">
+						<img width="214" height="140" src="https://amityunderground.com/wp-content/uploads/2017/09/n-PALESTINIAN-ON-MOBILE-628x314-214x140.jpg" class="image wp-post-image" alt="Israel Shin Bet monitor social media traffic, Palestine social media" title="Israel use social media crawler to detain 400 Palestinians without charge." srcset="https://amityunderground.com/wp-content/uploads/2017/09/n-PALESTINIAN-ON-MOBILE-628x314-214x140.jpg 214w, https://amityunderground.com/wp-content/uploads/2017/09/n-PALESTINIAN-ON-MOBILE-628x314-104x69.jpg 104w" sizes="(max-width: 214px) 100vw, 214px" />	
+											</a>
+					
+										
+					<h2><a href="https://amityunderground.com/israeli-social-media-crawler-used-to-detain-400-palestinians-shin-bet-social-media-surveillance-nsa-palestine-israel/" title="Israel use social media crawler to detain 400 Palestinians without charge.">Israel use social media crawler to detain 400 Palestinians without charge.</a></h2>
+					
+								<div class="cf listing-meta meta below">
+					
+				<time datetime="2017-09-04T21:58:17+00:00" class="meta-item">September 4, 2017</time><span class="meta-item comments"><a href="https://amityunderground.com/israeli-social-media-crawler-used-to-detain-400-palestinians-shin-bet-social-media-surveillance-nsa-palestine-israel/#comments"><i class="fa fa-comments-o"></i> 1</a></span>					
+			</div>
+							
+				</article>
+			</li>
+			
+				
+			<li class="highlights column one-third">
+				
+				<article>
+						
+					<a href="https://amityunderground.com/palestinian-authority-and-israel-cut-gazas-electricity-supply-even-further-gaza-strip-hamas-fatah-conflict-electricity-cuts/" title="Palestinian Authority and Israel cut Gaza&#8217;s electricity supply even further" class="image-link">
+						<img width="214" height="140" src="https://amityunderground.com/wp-content/uploads/2017/06/F160519ARK01-1-214x140.jpg" class="image wp-post-image" alt="Israel, Palestinian Authority cut electricity to Gaza. Hamas-PA conflict" title="Palestinian Authority and Israel cut Gaza&#8217;s electricity supply even further" srcset="https://amityunderground.com/wp-content/uploads/2017/06/F160519ARK01-1-214x140.jpg 214w, https://amityunderground.com/wp-content/uploads/2017/06/F160519ARK01-1-104x69.jpg 104w, https://amityunderground.com/wp-content/uploads/2017/06/F160519ARK01-1-702x459.jpg 702w" sizes="(max-width: 214px) 100vw, 214px" />	
+											</a>
+					
+										
+					<h2><a href="https://amityunderground.com/palestinian-authority-and-israel-cut-gazas-electricity-supply-even-further-gaza-strip-hamas-fatah-conflict-electricity-cuts/" title="Palestinian Authority and Israel cut Gaza&#8217;s electricity supply even further">Palestinian Authority and Israel cut Gaza&#8217;s electricity supply even further</a></h2>
+					
+								<div class="cf listing-meta meta below">
+					
+				<time datetime="2017-06-19T12:43:11+00:00" class="meta-item">June 19, 2017</time><span class="meta-item comments"><a href="https://amityunderground.com/palestinian-authority-and-israel-cut-gazas-electricity-supply-even-further-gaza-strip-hamas-fatah-conflict-electricity-cuts/#respond"><i class="fa fa-comments-o"></i> 0</a></span>					
+			</div>
+							
+				</article>
+			</li>
+			
+				</ul>
+	</section>
+
+	
+				<div class="comments">
+				
+<div id="disqus_thread"></div>
+				</div>
+	
+				
+		</div>
+		
+		
+			
+		
+		
+		<aside class="col-4 sidebar">
+		
+					<div class="">
+			
+				<ul>
+				
+				<li id="nav_menu-59" class="widget widget_nav_menu"><h3 class="widgettitle">Trending Categories</h3><div class="menu-popular-categories-container"><ul id="menu-popular-categories" class="menu"><li id="menu-item-1497" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1497"><a href="https://amityunderground.com/category/wikileaks-2/">Wikileaks</a></li>
+<li id="menu-item-1780" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1780"><a href="https://amityunderground.com/category/israel-palestine-conflict/">Israel/Palestine</a></li>
+<li id="menu-item-989" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-989"><a href="https://amityunderground.com/category/syrian-civil-war/">Syrian Civil War</a></li>
+<li id="menu-item-1781" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1781"><a href="https://amityunderground.com/category/europe/uk/">UK</a></li>
+<li id="menu-item-992" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-992"><a href="https://amityunderground.com/category/yemen/">Yemen</a></li>
+</ul></div></li>
+<li id="nav_menu-60" class="widget widget_nav_menu"><div class="menu-post-article-anonymity-optional-container"><ul id="menu-post-article-anonymity-optional" class="menu"><li id="menu-item-372" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-372"><a href="https://amityunderground.com/home/">Submit Article</a></li>
+</ul></div></li>
+<li id="text-85" class="widget widget_text"><h3 class="widgettitle">Palestine</h3>			<div class="textwidget"><!-- Custom Twitter Feeds by Smash Balloon --><div id="ctf" class="ctf ctf-type-usertimeline  ctf-styles" style="width: 100%;" data-ctfshortcode="{&quot;screenname&quot;: &quot;mondoweiss&quot;}" data-ctfneeded="0" data-ctfmaxmedia="4" data-ctfimagecols="auto"><div class="ctf-tweets"><div class="ctf-item ctf-author-mondoweiss ctf-new" id="ctf_976292381363290112" style=""><div class="ctf-author-box"><div class="ctf-author-box-link" target="_blank" style=""><a href="https://twitter.com/Mondoweiss" class="ctf-author-avatar" target="_blank" style=""><img src="https://pbs.twimg.com/profile_images/966332168174632960/Z1POJb9m_normal.jpg" width="48" height="48"></a><a href="https://twitter.com/Mondoweiss" target="_blank" class="ctf-author-name" style="">Mondoweiss</a><a href="https://twitter.com/Mondoweiss" class="ctf-author-screenname" target="_blank" style="">@Mondoweiss</a><span class="ctf-screename-sep">&middot;</span><div class="ctf-tweet-meta"><a href="https://twitter.com/Mondoweiss/status/976292381363290112" class="ctf-tweet-date" target="_blank" style="">29m</a></div></div></div><div class="ctf-tweet-content"><p class="ctf-tweet-text" style="">. @Jonathan_K_Cook writes that "seemingly unrelated events all point to a tectonic shift in which Israel has begun preparing the ground to annex the occupied Palestinian territories."<br />
+<br />
+https://t.co/025Zxrt59D<br />
+<br />
+#Palestine #Israel</p></div><div class="ctf-tweet-actions"><a href="https://twitter.com/intent/tweet?in_reply_to=976292381363290112&related=Mondoweiss" class="ctf-reply" target="_blank" style=""><i class="fa fa-reply"></i><span class="ctf-screenreader">Reply on Twitter</span></a><a href="https://twitter.com/intent/retweet?tweet_id=976292381363290112&related=Mondoweiss" class="ctf-retweet" target="_blank" style=""><i class="fa fa-retweet"></i><span class="ctf-screenreader">Retweet on Twitter</span><span class="ctf-action-count ctf-retweet-count">10</span></a><a href="https://twitter.com/intent/like?tweet_id=976292381363290112&related=Mondoweiss" class="ctf-like" target="_blank" style=""><i class="fa fa-heart"></i><span class="ctf-screenreader">Like on Twitter</span><span class="ctf-action-count ctf-favorite-count">1</span></a><a href="https://twitter.com/Mondoweiss/status/976292381363290112" class="ctf-twitterlink" style="" target="_blank">Twitter</a></div></div><div class="ctf-item ctf-author-mondoweiss ctf-new" id="ctf_976262188544483328" style=""><div class="ctf-author-box"><div class="ctf-author-box-link" target="_blank" style=""><a href="https://twitter.com/Mondoweiss" class="ctf-author-avatar" target="_blank" style=""><img src="https://pbs.twimg.com/profile_images/966332168174632960/Z1POJb9m_normal.jpg" width="48" height="48"></a><a href="https://twitter.com/Mondoweiss" target="_blank" class="ctf-author-name" style="">Mondoweiss</a><a href="https://twitter.com/Mondoweiss" class="ctf-author-screenname" target="_blank" style="">@Mondoweiss</a><span class="ctf-screename-sep">&middot;</span><div class="ctf-tweet-meta"><a href="https://twitter.com/Mondoweiss/status/976262188544483328" class="ctf-tweet-date" target="_blank" style="">2h</a></div></div></div><div class="ctf-tweet-content"><p class="ctf-tweet-text" style="">Israel’s military appeals court ruled on Monday against an appeal by Ahed Tamimi &amp; her defense team to hold the teenager’s trial proceedings in open court, citing historical "benefit" of closed-door trials for minors.<br />
+<br />
+https://t.co/7e7IjKAnSE<br />
+<br />
+#Palestine #FreeAhed @yumna_patel</p></div><div class="ctf-tweet-actions"><a href="https://twitter.com/intent/tweet?in_reply_to=976262188544483328&related=Mondoweiss" class="ctf-reply" target="_blank" style=""><i class="fa fa-reply"></i><span class="ctf-screenreader">Reply on Twitter</span></a><a href="https://twitter.com/intent/retweet?tweet_id=976262188544483328&related=Mondoweiss" class="ctf-retweet" target="_blank" style=""><i class="fa fa-retweet"></i><span class="ctf-screenreader">Retweet on Twitter</span><span class="ctf-action-count ctf-retweet-count">18</span></a><a href="https://twitter.com/intent/like?tweet_id=976262188544483328&related=Mondoweiss" class="ctf-like" target="_blank" style=""><i class="fa fa-heart"></i><span class="ctf-screenreader">Like on Twitter</span><span class="ctf-action-count ctf-favorite-count">11</span></a><a href="https://twitter.com/Mondoweiss/status/976262188544483328" class="ctf-twitterlink" style="" target="_blank">Twitter</a></div></div><div class="ctf-item ctf-author-mondoweiss ctf-new ctf-retweet" id="ctf_976245515980505089" style=""><div class="ctf-context"><a href="https://twitter.com/intent/user?screen_name=Mondoweiss" target="_blank" class="ctf-retweet-icon"><i class="fa fa-retweet"></i><span class="ctf-screenreader">Retweet on Twitter</span></a><a href="https://twitter.com/Mondoweiss" target="_blank" class="ctf-retweet-text" style="">Mondoweiss Retweeted</a></div><div class="ctf-author-box"><div class="ctf-author-box-link" target="_blank" style=""><a href="https://twitter.com/BettyMcCollum04" class="ctf-author-avatar" target="_blank" style=""><img src="https://pbs.twimg.com/profile_images/968221322907127813/8f03lWP3_normal.jpg" width="48" height="48"></a><a href="https://twitter.com/BettyMcCollum04" target="_blank" class="ctf-author-name" style="">Rep. Betty McCollum</a><span class="ctf-verified" ><i class="fa fa-check-circle" ></i ></span><a href="https://twitter.com/BettyMcCollum04" class="ctf-author-screenname" target="_blank" style="">@BettyMcCollum04</a><span class="ctf-screename-sep">&middot;</span><div class="ctf-tweet-meta"><a href="https://twitter.com/BettyMcCollum04/status/975877327216242688" class="ctf-tweet-date" target="_blank" style="">19 Mar</a></div></div></div><div class="ctf-tweet-content"><p class="ctf-tweet-text" style="">It was wonderful to meet with American Muslims for Palestine @amp today to talk about my bill, H.R. 4391, which promotes human rights by ending Israel's military detention of Palestinian children. Learn more → https://t.co/oCEpslsyaE </p><div class="ctf-tweet-media"><a href="https://pbs.twimg.com/media/DYraHswXkAEgwU6.jpg" data-ctf-lightbox="1" data-title="It was wonderful to meet with American Muslims for Palestine @amp today to talk about my bill, H.R. 4391, which promotes human rights by ending Israel&#039;s military detention of Palestinian children. Learn more → https://t.co/oCEpslsyaE " data-user="BettyMcCollum04" data-name="Rep. Betty McCollum" data-id="976245515980505089" data-url="https://twitter.com/BettyMcCollum04/status/975877327216242688" data-avatar="https://pbs.twimg.com/profile_images/968221322907127813/8f03lWP3_normal.jpg" data-date="19 Mar" class="ctf-lightbox-link ctf-image" data-video="" data-iframe=""><div class="ctf-photo-hover"><i class="fa fa-arrows-alt"></i></div><img src="https://pbs.twimg.com/media/DYraHswXkAEgwU6.jpg:thumb" alt="It was wonderful to meet with American Muslims for Palestine @amp today to talk about my bill, H.R. 4391, which promotes human rights by ending Israel&#039;s military detention of Palestinian children. Learn more → https://t.co/oCEpslsyaE " data-ctfsizes="150,680,1200,2048"></a></div></div><div class="ctf-tweet-actions"><a href="https://twitter.com/intent/tweet?in_reply_to=975877327216242688&related=BettyMcCollum04" class="ctf-reply" target="_blank" style=""><i class="fa fa-reply"></i><span class="ctf-screenreader">Reply on Twitter</span></a><a href="https://twitter.com/intent/retweet?tweet_id=975877327216242688&related=BettyMcCollum04" class="ctf-retweet" target="_blank" style=""><i class="fa fa-retweet"></i><span class="ctf-screenreader">Retweet on Twitter</span><span class="ctf-action-count ctf-retweet-count">92</span></a><a href="https://twitter.com/intent/like?tweet_id=975877327216242688&related=BettyMcCollum04" class="ctf-like" target="_blank" style=""><i class="fa fa-heart"></i><span class="ctf-screenreader">Like on Twitter</span><span class="ctf-action-count ctf-favorite-count">161</span></a><a href="https://twitter.com/BettyMcCollum04/status/975877327216242688" class="ctf-twitterlink" style="" target="_blank">Twitter</a></div></div><div class="ctf-item ctf-author-mondoweiss ctf-new" id="ctf_976231916448952320" style=""><div class="ctf-author-box"><div class="ctf-author-box-link" target="_blank" style=""><a href="https://twitter.com/Mondoweiss" class="ctf-author-avatar" target="_blank" style=""><img src="https://pbs.twimg.com/profile_images/966332168174632960/Z1POJb9m_normal.jpg" width="48" height="48"></a><a href="https://twitter.com/Mondoweiss" target="_blank" class="ctf-author-name" style="">Mondoweiss</a><a href="https://twitter.com/Mondoweiss" class="ctf-author-screenname" target="_blank" style="">@Mondoweiss</a><span class="ctf-screename-sep">&middot;</span><div class="ctf-tweet-meta"><a href="https://twitter.com/Mondoweiss/status/976231916448952320" class="ctf-tweet-date" target="_blank" style="">4h</a></div></div></div><div class="ctf-tweet-content"><p class="ctf-tweet-text" style="">. @SenSchumer says the greatest threats to Israel are 1) Iran, 2) disaffection of America's youth toward Israel.<br />
+<br />
+https://t.co/onLmmzY33Q<br />
+<br />
+#Israel #Iran</p></div><div class="ctf-tweet-actions"><a href="https://twitter.com/intent/tweet?in_reply_to=976231916448952320&related=Mondoweiss" class="ctf-reply" target="_blank" style=""><i class="fa fa-reply"></i><span class="ctf-screenreader">Reply on Twitter</span></a><a href="https://twitter.com/intent/retweet?tweet_id=976231916448952320&related=Mondoweiss" class="ctf-retweet" target="_blank" style=""><i class="fa fa-retweet"></i><span class="ctf-screenreader">Retweet on Twitter</span><span class="ctf-action-count ctf-retweet-count">10</span></a><a href="https://twitter.com/intent/like?tweet_id=976231916448952320&related=Mondoweiss" class="ctf-like" target="_blank" style=""><i class="fa fa-heart"></i><span class="ctf-screenreader">Like on Twitter</span><span class="ctf-action-count ctf-favorite-count">9</span></a><a href="https://twitter.com/Mondoweiss/status/976231916448952320" class="ctf-twitterlink" style="" target="_blank">Twitter</a></div></div><div class="ctf-item ctf-author-mondoweiss ctf-new" id="ctf_976201788671094784" style=""><div class="ctf-author-box"><div class="ctf-author-box-link" target="_blank" style=""><a href="https://twitter.com/Mondoweiss" class="ctf-author-avatar" target="_blank" style=""><img src="https://pbs.twimg.com/profile_images/966332168174632960/Z1POJb9m_normal.jpg" width="48" height="48"></a><a href="https://twitter.com/Mondoweiss" target="_blank" class="ctf-author-name" style="">Mondoweiss</a><a href="https://twitter.com/Mondoweiss" class="ctf-author-screenname" target="_blank" style="">@Mondoweiss</a><span class="ctf-screename-sep">&middot;</span><div class="ctf-tweet-meta"><a href="https://twitter.com/Mondoweiss/status/976201788671094784" class="ctf-tweet-date" target="_blank" style="">6h</a></div></div></div><div class="ctf-tweet-content"><p class="ctf-tweet-text" style="">. @Anna_Baltzer of the @US_Campaign gave a talk at TEDx in Ocala, Florida, about how she became an activist. Bearing witness to the occupation was all it took to change her life.<br />
+<br />
+https://t.co/lsdEDVP0tS<br />
+<br />
+#Palestine #Israel</p></div><div class="ctf-tweet-actions"><a href="https://twitter.com/intent/tweet?in_reply_to=976201788671094784&related=Mondoweiss" class="ctf-reply" target="_blank" style=""><i class="fa fa-reply"></i><span class="ctf-screenreader">Reply on Twitter</span></a><a href="https://twitter.com/intent/retweet?tweet_id=976201788671094784&related=Mondoweiss" class="ctf-retweet" target="_blank" style=""><i class="fa fa-retweet"></i><span class="ctf-screenreader">Retweet on Twitter</span><span class="ctf-action-count ctf-retweet-count">16</span></a><a href="https://twitter.com/intent/like?tweet_id=976201788671094784&related=Mondoweiss" class="ctf-like" target="_blank" style=""><i class="fa fa-heart"></i><span class="ctf-screenreader">Like on Twitter</span><span class="ctf-action-count ctf-favorite-count">17</span></a><a href="https://twitter.com/Mondoweiss/status/976201788671094784" class="ctf-twitterlink" style="" target="_blank">Twitter</a></div></div><div class="ctf-item ctf-author-mondoweiss ctf-new ctf-retweet" id="ctf_976172920962772994" style=""><div class="ctf-context"><a href="https://twitter.com/intent/user?screen_name=Mondoweiss" target="_blank" class="ctf-retweet-icon"><i class="fa fa-retweet"></i><span class="ctf-screenreader">Retweet on Twitter</span></a><a href="https://twitter.com/Mondoweiss" target="_blank" class="ctf-retweet-text" style="">Mondoweiss Retweeted</a></div><div class="ctf-author-box"><div class="ctf-author-box-link" target="_blank" style=""><a href="https://twitter.com/EoinHiggins_" class="ctf-author-avatar" target="_blank" style=""><img src="https://pbs.twimg.com/profile_images/845760400637542400/kWbCClWR_normal.jpg" width="48" height="48"></a><a href="https://twitter.com/EoinHiggins_" target="_blank" class="ctf-author-name" style="">Eoin Higgins</a><span class="ctf-verified" ><i class="fa fa-check-circle" ></i ></span><a href="https://twitter.com/EoinHiggins_" class="ctf-author-screenname" target="_blank" style="">@EoinHiggins_</a><span class="ctf-screename-sep">&middot;</span><div class="ctf-tweet-meta"><a href="https://twitter.com/EoinHiggins_/status/976172886317830144" class="ctf-tweet-date" target="_blank" style="">8h</a></div></div></div><div class="ctf-tweet-content"><p class="ctf-tweet-text" style="">On the anniversary of the Iraq War, let's take another look at how the press is treating Bush these days<br />
+<br />
+https://t.co/9Ot1Bwqhjy</p></div><div class="ctf-tweet-actions"><a href="https://twitter.com/intent/tweet?in_reply_to=976172886317830144&related=EoinHiggins_" class="ctf-reply" target="_blank" style=""><i class="fa fa-reply"></i><span class="ctf-screenreader">Reply on Twitter</span></a><a href="https://twitter.com/intent/retweet?tweet_id=976172886317830144&related=EoinHiggins_" class="ctf-retweet" target="_blank" style=""><i class="fa fa-retweet"></i><span class="ctf-screenreader">Retweet on Twitter</span><span class="ctf-action-count ctf-retweet-count">30</span></a><a href="https://twitter.com/intent/like?tweet_id=976172886317830144&related=EoinHiggins_" class="ctf-like" target="_blank" style=""><i class="fa fa-heart"></i><span class="ctf-screenreader">Like on Twitter</span><span class="ctf-action-count ctf-favorite-count">70</span></a><a href="https://twitter.com/EoinHiggins_/status/976172886317830144" class="ctf-twitterlink" style="" target="_blank">Twitter</a></div></div></div><a href="javascript:void(0);" id="ctf-more" class="ctf-more" style=""><span>Load More...</span></a></div>
+</div>
+		</li>
+		
+				</ul>
+		
+			</div>
+		
+		</aside>
+		
+		
+	</div> <!-- .row -->
+		
+	
+</div> <!-- .main -->
+
+
+		
+	<footer class="main-footer">
+	
+			<div class="wrap">
+		
+				
+		</div>
+	
+		
+	
+			<div class="lower-foot">
+			<div class="wrap">
+		
+						
+			<div class="widgets">
+				Amity Underground Twitter<ul><li class="no-label"><a href="https://twitter.com/leakofnations" target="_blank" title="Visit Amity Underground on Twitter"><span class="fa fa-2x fa-twitter"></span></a></li></ul>			</div>
+			
+					
+			</div>
+		</div>		
+		
+	</footer>
+	
+</div> <!-- .main-wrap -->
+
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Article","headline":"Israel experiment with unmanned drones as crowd control instruments, dropping tear gas on Palestinian demonstrators.","url":"https:\/\/amityunderground.com\/israel-experiment-with-unmanned-drones-as-crowd-control-instruments-dropping-tear-gas-on-palestinian-demonstrators-drone-uav-riot-control-ispra-cyclone\/","image":{"@type":"ImageObject","url":"https:\/\/amityunderground.com\/wp-content\/uploads\/2018\/03\/ham3-702x459.jpeg","width":702,"height":459},"datePublished":"2018-03-20T20:51:25+00:00","dateModified":"2018-03-20T20:51:25+00:00","author":{"@type":"Person","name":"Rory Wood"},"publisher":{"@type":"Organization","name":"Amity Underground","logo":{"@type":"ImageObject","url":"https:\/\/amityunderground.com\/wp-content\/uploads\/2018\/01\/Amity-Underground-1.jpeg"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/amityunderground.com\/israel-experiment-with-unmanned-drones-as-crowd-control-instruments-dropping-tear-gas-on-palestinian-demonstrators-drone-uav-riot-control-ispra-cyclone\/"}}</script>
+<script type='text/javascript' src='https://amityunderground.com/wp-includes/js/comment-reply.min.js?ver=4.9.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ap_form_required_message = "This field is required";
+var ap_captcha_error_message = "Sum is not correct.";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://amityunderground.com/wp-content/plugins/accesspress-anonymous-post/js/frontend.js?ver=2.7.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/amityunderground.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://amityunderground.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.1'></script>
+<script type='text/javascript' src='https://amityunderground.com/wp-content/plugins/custom-twitter-feeds-pro/js/ctf-widgets.js?ver=1.4.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ctf = {"ajax_url":"https:\/\/amityunderground.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://amityunderground.com/wp-content/plugins/custom-twitter-feeds-pro/js/ctf-scripts.js?ver=1.4.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"leakofnations-com"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://amityunderground.com/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.15'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.15"},"disqusIdentifier":"1774 https:\/\/amityunderground.com\/?p=1774","disqusShortname":"leakofnations-com","disqusTitle":"Israel experiment with unmanned drones as crowd control instruments, dropping tear gas on Palestinian demonstrators.","disqusUrl":"https:\/\/amityunderground.com\/israel-experiment-with-unmanned-drones-as-crowd-control-instruments-dropping-tear-gas-on-palestinian-demonstrators-drone-uav-riot-control-ispra-cyclone\/","postId":"1774"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://amityunderground.com/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js?ver=3.0.15'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var Bunyad = {"ajaxurl":"https:\/\/amityunderground.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://amityunderground.com/wp-content/themes/smart-mag/js/bunyad-theme.js?ver=3.0.2'></script>
+<script type='text/javascript' src='https://amityunderground.com/wp-content/themes/smart-mag/js/jquery.flexslider-min.js?ver=3.0.2'></script>
+<script type='text/javascript' src='https://amityunderground.com/wp-content/themes/smart-mag/js/jquery.sticky-sidebar.min.js?ver=3.0.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var highlight_and_share = {"show_facebook":"1","show_twitter":"1","show_linkedin":"","show_pinterest":"","show_email":"","show_xing":"","twitter_username":"","mobile":"","content":".has-content-area,.has-excerpt-area","tweet_text":"Tweet","facebook_text":"Share","linkedin_text":"LinkedIn","pinterest_text":"Pinterest","xing_text":"Xing","email_text":"E-mail","icons":"1","facebook_app_id":"0","email_url":"https:\/\/amityunderground.com?action=has_email&nonce=a2a53b2504&title=%title%&url=%url%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://amityunderground.com/wp-content/plugins/highlight-and-share/js/highlight-and-share.js?ver=20180210'></script>
+<script type='text/javascript' src='https://amityunderground.com/wp-includes/js/wp-embed.min.js?ver=4.9.4'></script>
+
+</body>
+</html>

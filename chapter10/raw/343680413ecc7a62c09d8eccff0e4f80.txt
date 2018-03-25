@@ -1,0 +1,877 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie10 lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie10 lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie10 lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 9)&(!IEMobile)]><html class="lt-ie10"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<link rel="amphtml" href="https://www.pri.org/stories/2018-03-18/philippines-duterte-says-hell-convince-nations-leave-international-criminal-court?amp" />
+<link rel="shortcut icon" href="https://media.pri.org/s3fs-public/favicon_0.ico" type="image/vnd.microsoft.icon" />
+<script>var _sf_startpt=(new Date()).getTime();</script>
+<script src="https://cdns.gigya.com/JS/socialize.js?apikey=3_4cQ3u7YBliE19GFsoTZ6dOzWUGPUscCrB1lnf9NJqoi8rg38bxSu5GDvqHKsJhg1">{"enabledProviders":"Site, Facebook, Twitter, googleplus, Linkedin","lang":"en","sessionExpiration":2000000,"connectWithoutLoginBehavior":"loginExistingUser","useSiteLogin":"true"}</script><meta name="description" content="Duterte&#039;s comments during a speech to graduating cadets at the Philippine Military Academy in northern Philippines comes after ICC prosecutors last month opened a preliminary examination into the president&#039;s &quot;war on drugs,&quot; which has led to the death of thousands since it began in July 2016." />
+<meta name="abstract" content="Duterte&#039;s comments during a speech to graduating cadets at the Philippine Military Academy in northern Philippines comes after ICC prosecutors last month opened a preliminary examination into the president&#039;s &quot;war on drugs,&quot; which has led to the death of thousands since it began in July 2016." />
+<meta name="robots" content="follow, index" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.pri.org/stories/2018-03-18/philippines-duterte-says-hell-convince-nations-leave-international-criminal-court" />
+<link rel="shortlink" href="https://www.pri.org/node/173210" />
+<meta property="fb:admins" content="16800048" />
+<meta property="fb:app_id" content="142079625983010" />
+<meta property="og:site_name" content="Public Radio International" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Philippines&#039; Duterte says he&#039;ll convince nations to leave the International Criminal Court" />
+<meta property="og:url" content="https://www.pri.org/stories/2018-03-18/philippines-duterte-says-hell-convince-nations-leave-international-criminal-court" />
+<meta property="og:description" content="Duterte&#039;s comments during a speech to graduating cadets at the Philippine Military Academy in northern Philippines comes after ICC prosecutors last month opened a preliminary examination into the president&#039;s &quot;war on drugs,&quot; which has led to the death of thousands since it began in July 2016." />
+<meta property="og:image" content="https://media.pri.org/s3fs-public/styles/open_graph/public/story/images/PHILIPPINES-DUTERTE-ICC.jpg?itok=aVcp7Vcm" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="707" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:url" content="https://www.pri.org/stories/2018-03-18/philippines-duterte-says-hell-convince-nations-leave-international-criminal-court" />
+<meta name="twitter:title" content="Philippines&#039; Duterte says he&#039;ll convince nations to leave the International Criminal Court" />
+<meta name="twitter:description" content="Duterte&#039;s comments during a speech to graduating cadets at the Philippine Military Academy in northern Philippines comes after ICC prosecutors last month opened a preliminary examination into the president&#039;s &quot;war on drugs,&quot; which has led to the death of thousands since it began in July 2016." />
+<meta name="twitter:image" content="https://media.pri.org/s3fs-public/styles/story_main/public/story/images/PHILIPPINES-DUTERTE-ICC.jpg?itok=SDapAJsV" />
+<meta property="og:locale" content="en_US" />
+<meta property="article:publisher" content="https://www.facebook.com/publicradiointernational" />
+  <title>Philippines&#039; Duterte says he&#039;ll convince nations to leave the International Criminal Court  | Public Radio International</title>
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+  <link type="text/css" rel="stylesheet" href="https://media.pri.org/s3fs-public/css/css_luJkfk5-PH03QGny5n5T3tvleqB7f5-_MQfhkxRGZ8o.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://media.pri.org/s3fs-public/css/css_J7qaxGGdlAqVS-RMuWw2R4cyehdnnUZrxg7B12PTTy0.css" media="all" />
+
+<!--[if (lt IE 9)]>
+<link type="text/css" rel="stylesheet" href="https://media.pri.org/s3fs-public/css/css_wVxmjT9ukOk4MxsjPzRpJUkwn0KCQ5it3GQombjLMGE.css" media="all" />
+<![endif]-->
+
+<!--[if (gte IE 9)|(IEMobile)|(!IE)]><!-->
+<link type="text/css" rel="stylesheet" href="https://media.pri.org/s3fs-public/css/css_pf7I4MHL1Cy5QqlUS18ue8R4OO3waepVoDgVgWGwAzI.css" media="all" />
+<!--<![endif]-->
+  <script src="https://media.pri.org/s3fs-public/js/js_RC7d2_dhfBsqLAPQvLz26Tw_1pi8VuJA8XTLntJVGuM.js"></script>
+<script>var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+googletag.slots = googletag.slots || {};</script>
+<script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script src="https://media.pri.org/s3fs-public/js/js_s3L_uC35AiN5EGYY533su-jccnLRp2aKpOnjgPLbo34.js"></script>
+<script src="https://media.pri.org/s3fs-public/js/js_S4mLlPoowXcAN9VxGAR25vGvmWgBaRjY92FpJMk1bzs.js"></script>
+<script src="https://cdn.jsdelivr.net/mediaelement/2.13.1/mediaelement-and-player.min.js"></script>
+<script src="https://media.pri.org/s3fs-public/js/js_e1QX-jmMYBt2twHJIMJU7NnzS5nxHo2oCTNRhCFdiH8.js"></script>
+<script>googletag.slots["dfp_ad_atf_728x90"] = googletag.defineSlot("/1009951/dfp-ad-atf_728x90", [728, 90], "dfp-ad-dfp_ad_atf_728x90")
+  .addService(googletag.pubads());</script>
+<script>googletag.slots["in_content_video"] = googletag.defineSlot("/1009951/In_Content_Video", [1, 1], "dfp-ad-in_content_video")
+  .addService(googletag.pubads());</script>
+<script>googletag.slots["pri_ros_btf_300x250"] = googletag.defineSlot("/1009951/PRI_ROS_BTF_300x250", [300, 250], "dfp-ad-pri_ros_btf_300x250")
+  .addService(googletag.pubads());</script>
+<script>googletag.slots["pri_ros_atf_300x600"] = googletag.defineSlot("/1009951/PRI_STORY_ATF", [[300, 250], [300, 600]], "dfp-ad-pri_ros_atf_300x600")
+  .addService(googletag.pubads());</script>
+<script src="https://media.pri.org/s3fs-public/js/js_Ac1tmZEwBPuAHRUqOXKlQKCFuagdcK42cBW-P6Su1OA.js"></script>
+<script src="https://media.pri.org/s3fs-public/js/js_3u6lCvdaJNpYygufrKybPvehD4kDCktRG3GKifSoHL4.js"></script>
+<script>googletag.cmd.push(function() {
+  googletag.pubads().enableAsyncRendering();
+  googletag.pubads().enableSingleRequest();
+  googletag.pubads().collapseEmptyDivs();
+  googletag.pubads().disableInitialLoad();
+});
+googletag.enableServices();</script>
+<script src="https://media.pri.org/s3fs-public/js/js_R8wP635Unoc6L4y7muC6X2utcZvZlz5keVN8Z1ZKsgA.js"></script>
+<script src="https://cdn.optimizely.com/js/3118500020.js"></script>
+<script src="https://media.pri.org/s3fs-public/js/js_dTzpEfg5C8aCKXF1xNgEebophY6fm3bvn1HT7ZtCxpM.js"></script>
+<script src="https://cdns.gigya.com/js/gigyaGAIntegration.js"></script>
+<script src="https://media.pri.org/s3fs-public/js/js_wVaywLfrpxMLtrDuwZxyjT_HZNsMN3ZHl3ZpHKxK4no.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-2145282-1", {"cookieDomain":"auto"});ga("require", "displayfeatures");ga("set", "dimension2", "Reuters");ga("set", "dimension3", "\u003Cspan class=\u0022date-display-single\u0022 property=\u0022dc:date\u0022 datatype=\u0022xsd:dateTime\u0022 content=\u00222018-03-18T12:00:00-04:00\u0022\u003E2018-03-18\u003C\/span\u003E");ga("set", "dimension4", ", , , , , , ");ga("set", "dimension5", ", \u003Ca href=\u0022\/sections\/conflict\u0022 typeof=\u0022skos:Concept\u0022 property=\u0022rdfs:label skos:prefLabel\u0022 datatype=\u0022\u0022\u003EConflict\u003C\/a\u003E, \u003Ca href=\u0022\/sections\/global-politics");ga("send", "pageview");</script>
+<script src="https://media.pri.org/s3fs-public/js/js_NinZcjnlYNOIfZ6RJRTaKzLyaTZVLoL1ZzKe-0DDqoo.js"></script>
+<script src="https://media.pri.org/s3fs-public/js/js_dSsRX1hy-mHzJFwhi0jf7vvqkko1g7l1UcLInxsOI_U.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"pri","theme_token":"kkVeapH3ITbNr_JKJkIRb-_uPdxkrUX1lIu7U0WYo4Y","js":{"0":1,"sites\/all\/modules\/contrib\/gigya\/js\/gigya_comments.js":1,"sites\/all\/modules\/features\/pri_gigya\/js\/pri_gigya.js":1,"sites\/all\/themes\/pri\/js\/ss-icons.min.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"1":1,"https:\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"https:\/\/cdn.jsdelivr.net\/mediaelement\/2.13.1\/mediaelement-and-player.min.js":1,"misc\/jquery.cookie.js":1,"misc\/jquery.form.js":1,"2":1,"3":1,"4":1,"5":1,"sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js":1,"misc\/ui\/jquery.ui.button.min.js":1,"misc\/ui\/jquery.ui.mouse.min.js":1,"misc\/ui\/jquery.ui.draggable.min.js":1,"misc\/ui\/jquery.ui.position.min.js":1,"misc\/ui\/jquery.ui.resizable.min.js":1,"misc\/ui\/jquery.ui.dialog.min.js":1,"sites\/all\/modules\/contrib\/views\/js\/jquery.ui.dialog.patch.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/custom\/custom_player\/js\/mediaelement_overrides.js":1,"sites\/all\/modules\/features\/pri_newsletter\/pri_newsletter_register.js":1,"sites\/all\/modules\/features\/pri_poll\/pri_poll.js":1,"sites\/all\/modules\/features\/pri_story_act\/pri_story_act.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"6":1,"sites\/all\/modules\/contrib\/mediaelement\/mediaelement.js":1,"https:\/\/cdn.optimizely.com\/js\/3118500020.js":1,"sites\/all\/modules\/contrib\/panels\/js\/panels.js":1,"https:\/\/cdns.gigya.com\/js\/gigyaGAIntegration.js":1,"sites\/all\/modules\/contrib\/gigya\/js\/gigya.js":1,"sites\/all\/modules\/contrib\/gigya\/js\/gigya.behaviors.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/ajax-responder.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/modal.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"7":1,"sites\/all\/modules\/contrib\/google_analytics_et\/js\/google_analytics_et.js":1,"sites\/all\/modules\/features\/pri_dfp\/js\/dfp.js":1,"sites\/all\/modules\/features\/pri_dfp\/js\/block.js":1,"sites\/all\/libraries\/ScrollToFixed\/jquery-scrolltofixed-min.js":1,"sites\/all\/modules\/custom\/custom\/js\/custom_gigya.js":1,"sites\/all\/libraries\/jquery-storage\/storage.min.js":1,"sites\/all\/modules\/contrib\/hide_submit\/hide_submit.js":1,"sites\/all\/themes\/pri\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/pri_interactives_core\/pri_interactives_core.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/libraries\/mediaelement\/build\/mediaelementplayer.min.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"sites\/all\/modules\/contrib\/amazon\/amazon.css":1,"sites\/all\/modules\/contrib\/chartbeat\/chartbeat.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/wysiwyg_linebreaks\/wysiwyg_linebreaks.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/modal.css":1,"sites\/all\/modules\/contrib\/campaignmonitor\/css\/campaignmonitor.theme.css":1,"sites\/all\/modules\/contrib\/hide_submit\/hide_submit.css":1,"sites\/all\/themes\/pri\/css\/styles-ie8.css":1,"sites\/all\/themes\/pri\/css\/styles.css":1,"sites\/all\/themes\/pri\/system.menus.css":1,"sites\/all\/themes\/pri\/system.messages.css":1,"sites\/all\/themes\/pri\/system.base.css":1,"sites\/all\/themes\/pri\/system.theme.css":1,"sites\/all\/themes\/pri\/comment.css":1,"sites\/all\/themes\/pri\/ctools.css":1,"sites\/all\/themes\/pri\/date.css":1,"sites\/all\/themes\/pri\/datepicker.1.7.css":1,"sites\/all\/themes\/pri\/field.css":1,"sites\/all\/themes\/pri\/gigya.css":1,"sites\/all\/themes\/pri\/mediaelementplayer.min.css":1,"sites\/all\/themes\/pri\/node.css":1,"sites\/all\/themes\/pri\/panels.css":1,"sites\/all\/themes\/pri\/quicktabs.css":1,"sites\/all\/themes\/pri\/search.css":1,"sites\/all\/themes\/pri\/token.css":1,"sites\/all\/themes\/pri\/jquery.treeTable.css":1,"sites\/all\/themes\/pri\/user.css":1,"sites\/all\/themes\/pri\/views.css":1,"sites\/all\/themes\/pri\/wysiwyg_linebreaks.css":1}},"chartbeat":{"uid":19027,"domain":"pri.org","useCanonical":true,"noCookies":false,"sections":"Conflict,Global Politics,Leaders,Conflict \u0026 Justice,Politics,Lifestyle \u0026 Belief","authors":"Anna Pratt"},"mediaelementAll":true,"pri_newsletter_ids":{"subscribe":"986c7a3cd11f67a0ee74fabf7c05f6c0","subscribeGlobalNation":"d9de18c3670b1cb3c913dadfe4d87737","subscribeHumanNeeds":"ea99728e85d856a5969b14dad392073a","SubscribeSafeMode":"9335a7f62a07d77c3a24790ab324714d","subscribeAWL":"78e487a9e35077831c7105b3681379b3"},"gigya":{"enabledProviders":"Site, Facebook, Twitter, googleplus, Linkedin","lang":"en","sessionExpiration":2000000,"connectWithoutLoginBehavior":"loginExistingUser","useSiteLogin":"true","mv":"mayor","loginMode":"raas","raas":{"login":{"screenSet":"Login-web","mobileScreenSet":"Mobile-login","startScreen":"gigya-login-screen"},"register":{"screenSet":"Login-web","mobileScreenSet":"Mobile-login","startScreen":"gigya-register-screen"}}},"CToolsModal":{"loadingText":"Loading...","closeText":"Close Window","closeImage":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022https:\/\/www.pri.org\/sites\/all\/modules\/contrib\/ctools\/images\/icon-close-window.png\u0022 alt=\u0022Close window\u0022 title=\u0022Close window\u0022 \/\u003E","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022https:\/\/www.pri.org\/sites\/all\/modules\/contrib\/ctools\/images\/throbber.gif\u0022 alt=\u0022Loading\u0022 title=\u0022Loading...\u0022 \/\u003E"},"hide_submit":{"hide_submit_status":true,"hide_submit_method":"hide","hide_submit_css":"hide-submit-disable","hide_submit_abtext":"","hide_submit_atext":"","hide_submit_hide_css":"hide-submit-processing","hide_submit_hide_text":"Processing...","hide_submit_hide_fx":0,"hide_submit_reset_time":0},"gigyaComments":{"commentsUIparams":{"categoryID":"production","streamID":"173210","containerID":"gigya-comments","scope":"external","privacy":"private","context":{"id":"gigya-comments"},"version":2,"useSiteLogin":"true"}},"extlink":{"extTarget":"_blank","extClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"googleAnalyticsETSettings":{"selectors":[{"event":"mousedown","selector":"a","category":"main navigation","action":"click","label":"!test","value":0,"noninteraction":true},{"event":"mousedown","selector":"#page-title","category":"main navigation","action":"click","label":"!test","value":0,"noninteraction":true},{"event":"mousedown","selector":"a#logo","category":"Home Link","action":"click","label":"Logo","value":0,"noninteraction":true},{"event":"mousedown","selector":"div","category":"Home Link","action":"Public Radio International","label":"test","value":0,"noninteraction":true},{"event":"blur","selector":"#edit-name","category":"[TEST] blurred from the user login username\/email input field.","action":"BLUR","label":"!test","value":0,"noninteraction":true}],"settings":{"debug":true}},"urlIsAjaxTrusted":{"\/stories\/2018-03-18\/philippines-duterte-says-hell-convince-nations-leave-international-criminal-court":true},"pri_story_act":{"entity_embed_params":"{\u0022cta_border\u0022:{\u0022title\u0022:\u0022Border\u0022,\u0022classes\u0022:[{\u0022label\u0022:\u0022No Border\u0022,\u0022class\u0022:\u0022cta_no_border\u0022},{\u0022label\u0022:\u0022Border\u0022,\u0022class\u0022:\u0022cta_border\u0022}]},\u0022cta_alignment\u0022:{\u0022title\u0022:\u0022Alignment\u0022,\u0022classes\u0022:[{\u0022label\u0022:\u0022Align Left\u0022,\u0022class\u0022:\u0022cta_align-left\u0022},{\u0022label\u0022:\u0022Align Right\u0022,\u0022class\u0022:\u0022cta_align-right\u0022}]},\u0022cta_icon\u0022:{\u0022title\u0022:\u0022Icon\u0022,\u0022classes\u0022:[{\u0022label\u0022:\u0022No Icon\u0022,\u0022class\u0022:\u0022cta_no-icon\u0022},{\u0022label\u0022:\u0022Engagement Icon\u0022,\u0022class\u0022:\u0022cta_icon-engagement\u0022}]},\u0022cta_background\u0022:{\u0022title\u0022:\u0022Background\u0022,\u0022classes\u0022:[{\u0022label\u0022:\u0022White\u0022,\u0022class\u0022:\u0022cta_bg-white\u0022},{\u0022label\u0022:\u0022Gray (preferred if using color)\u0022,\u0022class\u0022:\u0022cta_bg-gray\u0022},{\u0022label\u0022:\u0022Blue (don\\u0027t overuse)\u0022,\u0022class\u0022:\u0022cta_bg-blue\u0022},{\u0022label\u0022:\u0022Yellow (for when you need to shout)\u0022,\u0022class\u0022:\u0022cta_bg-yellow\u0022}]}}"}});</script>
+  <link rel="apple-touch-icon" href="/sites/all/themes/pri/apple-touch-icon.png">
+  <link href="/opensearch.xml" rel="search" title="priorg" type="application/opensearchdescription+xml">
+  <!-- Facebook Page Verification -->
+  <meta property="fb:pages" content="5905172331" /> <!--PRI-->
+  <meta property="fb:pages"content="6162159887" /> <!--The World-->
+  <meta property="fb:pages"content="35930083446" /> <!--GlobalPost-->
+  <meta property="fb:pages"content="8434194801" /> <!--The Takeaway-->
+  <meta property="fb:pages"content="15776362553" /> <!--Studio 360-->
+  <meta property="fb:pages"content="1521907261467746" /> <!--Across Women's Lives-->
+  <meta property="fb:pages"content="113141975417106" /> <!--The World in Words-->
+  <meta property="fb:pages"content="1037912116248164" /> <!--Otherhood-->
+  <meta property="twitter:account_id" content="24953039" />
+  <meta name="p:domain_verify" content="64e034384212a1d25ac7debae5fccf54"/>
+  <script src="/sites/all/libraries/blockadblock/blockadblock.js"></script>
+
+  <!-- Begin comScore Tag -->
+  <script>
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "20076093" });
+    (function() {
+      var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+      s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+      el.parentNode.insertBefore(s, el);
+    })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=20076093&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/contrib/zen/js/html5.js"></script>
+    <![endif]-->
+  
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '813271415445416');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=813271415445416&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+</head>
+<body class="not-front not-logged-in page-node page-node- page-node-173210 node-type-story area list story section-stories page-panels" >
+      <p id="skip-link">
+      <a href="#main-content" class="element-invisible element-focusable">Skip to content</a>
+    </p>
+      <header>
+<section class="navbar__wrapper">
+  <div class="navbar-1">
+    <div class="l-centered l-navbar" role="banner">
+      <div class="l-navbar__left">
+        <a href="/" title="PRI Home" rel="home" class="navbar__logo icon-pri"><span aria-label="Public Radio International">PRI Public Radio International</span></a>
+      </div>
+      <div class="l-navbar__right">
+        <ul class="links-utility">
+          <li class="links-utility__link">
+              <a href="/listen" onclick=" window.open(this.href, 'listen_live', 'resizable=yes, scrollbars=yes, menubar=yes, width=600, height=600,'); return false;" title="Listen Live | Public Radio International"><i aria-hidden="true" class="ss-icon ss-standard play">play</i><span class="links-utility__text">Listen</span></a>
+          </li>
+          <li class="links-utility__link">
+            <a href="/donate/index.html?utm_source=navigation&utm_medium=website&utm_campaign=donations" title="Donate"><i aria-hidden="true" class="ss-icon ss-standard">heart</i><span class="links-utility__text">Give</span></a>
+          </li>
+          <li class="links-utility__link links-utility__link-optional">
+             <a href="/search" title="Search"><i aria-hidden="true" class="ss-icon ss-standard search">search</i><span class="links-utility__text">Search</span></a>
+          </li>
+          <li class="links-utility__link links-utility__link-optional user logged-out">
+            <a id="login-link" class="gigya-raas-login" href="/user/me" title="Login"><i aria-hidden="true" class="ss-icon ss-standard user">user</i><span class="links-utility__text">Log in</span></a>
+          </li>
+          <li class="links-utility__link links-utility__link-optional user logged-in">
+            <a id="profile-link" class="gigya-raas-profile" href="/user/me" title="My Account"><i aria-hidden="true" class="ss-icon ss-standard user">user</i><span class="links-utility__text">Log in</span></a>
+          </li>
+          <li class="links-utility__link mobile-only">
+            <a class="js-dropnav-trigger" href="#"><i aria-hidden="true" class="ss-icon ss-standard rows">rows</i><span class="links-utility__text">Menu</span></a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="navbar-1b desktop-nav">
+    <div class="l-centered l-navbar" role="banner">
+        <div class="b-left">
+           <ul class="sub-nav">
+             <li class="sub-nav__link">
+                <a class="js-dropnav-trigger-1 navbar-trigger" data-target-navbar="navbar-3" href="#"><span class="links-utility__text">Sections</span><i aria-hidden="true" class="ss-icon ss-standard">navigate down</i></a>
+            </li>
+            <li class="sub-nav__link">
+                <a class="js-dropnav-trigger-2 navbar-trigger" data-target-navbar="navbar-4" href="#"><span class="links-utility__text">Special Coverage</span><i aria-hidden="true" class="ss-icon ss-standard">navigate down</i></a>
+            </li>
+            <li class="sub-nav__link">
+                <a class="js-dropnav-trigger-3 navbar-trigger" data-target-navbar="navbar-5" href="#"><span class="links-utility__text">Shows</span><i aria-hidden="true" class="ss-icon ss-standard">navigate down</i></a>
+            </li>
+            <li class="sub-nav__link">
+                <a class="js-dropnav-trigger-4 navbar-trigger" data-target-navbar="navbar-6" href="#"><span class="links-utility__text">About</span><i aria-hidden="true" class="ss-icon ss-standard">navigate down</i></a>
+            </li>
+        </ul>
+        </div>
+        <div class="lead-in__credit b-right">
+          <ul>
+            <li class="lead-in__powered-by">Powered by</li>
+            <li class="tw"><a class="lead-in__icon icon-tw-solid" href="/programs/the-world"><span>PRI’s The World</span></a></li>
+            <li class="ampersand">&amp;</li>
+            <li class="gp"><a class="lead-in__icon logo-gp" href="/programs/global-post">GlobalPost</a></li>
+          </ul>
+        </div>
+    </div>
+  </div>
+  <div class="navbar-2 mobile-nav">
+    <div class="l-centered l-navbar__menus" role="banner">
+      <div class="panel-pane pane-menu-tree pane-main-menu" >
+  
+        <h2 class="pane-title pane__title">Main menu</h2>
+    
+  
+  <div class="menu-block-wrapper menu-block-ctools-main-menu-1 menu-name-main-menu parent-mlid-main-menu:0 menu-level-1">
+  <ul class="l-dropnav dropnav"><li class="dropnav__item is-mobile gigya-raas-login" id="gigya-raas-login"><a href="/user" title="" class="dropnav__link">Log in</a></li><li class="dropnav__item is-mobile"><a href="/search" title="" class="dropnav__link">Search</a></li><li class="l-dropnav__item-1 dropnav__item"><a href="#" title="" class="dropnav__heading">Sections <i class="ss-icon ss-standard ss-icon--down">navigatedown</i></a><ul class="dropnav__list menu"><li class="dropnav__item"><a href="/sections/arts-culture-media" title="" class="dropnav__link">Arts, Culture &amp; Media</a></li><li class="dropnav__item"><a href="/sections/business-economics-and-jobs" title="" class="dropnav__link">Business, Economics and Jobs</a></li><li class="dropnav__item"><a href="/sections/conflict-justice" title="" class="dropnav__link">Conflict &amp; Justice</a></li><li class="dropnav__item"><a href="/sections/development-education" title="" class="dropnav__link">Development &amp; Education</a></li><li class="dropnav__item"><a href="/sections/global-politics" title="" class="dropnav__link">Global Politics</a></li><li class="dropnav__item"><a href="/sections/health-medicine" title="" class="dropnav__link">Health &amp; Medicine</a></li><li class="dropnav__item"><a href="/sections/lifestyle-belief" title="" class="dropnav__link">Lifestyle &amp; Belief</a></li><li class="dropnav__item"><a href="/sections/science-tech-environment" title="" class="dropnav__link">Science, Tech &amp; Environment</a></li><li class="dropnav__item"><a href="/sections/sports" title="" class="dropnav__link">Sports</a></li></ul></li><li class="l-dropnav__item-2 dropnav__item"><a href="#" title="" class="dropnav__heading">Featured <i class="ss-icon ss-standard ss-icon--down">navigatedown</i></a><ul class="dropnav__list menu"><li class="dropnav__item"><a href="/sections/election-2016" title="" class="dropnav__link">Election 2016</a></li><li class="dropnav__item"><a href="/verticals/across-womens-lives" class="dropnav__link">Across Women&#039;s Lives</a></li><li class="dropnav__item"><a href="/verticals/global-nation" title="Stories of a changing America and its people" class="dropnav__link">Global Nation</a></li><li class="dropnav__item"><a href="/verticals/global-security" class="dropnav__link">Global Security</a></li><li class="dropnav__item"><a href="/verticals/livable-planet" title="It’s about people and the planet that support us. It’s about what we need to have a future." class="dropnav__link">Livable Planet</a></li><li class="dropnav__item"><a href="https://gpinvestigations.pri.org/" title="" class="dropnav__link">GP Investigations</a></li><li class="dropnav__item"><a href="/collections/global-satire" title="" class="dropnav__link">Global Satire</a></li><li class="dropnav__item"><a href="/collections/global-hit" title="" class="dropnav__link">Global Hit</a></li><li class="dropnav__item"><a href="/music-heard-on-air" title="" class="dropnav__link">Music Heard On Air</a></li><li class="dropnav__item"><a href="/programs/world-words" title="" class="dropnav__link">The World in Words</a></li><li class="dropnav__item"><a href="/programs/whose-century" title="" class="dropnav__link">Whose Century Is It?</a></li></ul></li><li class="l-dropnav__item-3 dropnav__item"><a href="#" title="" class="dropnav__heading">About PRI <i class="ss-icon ss-standard ss-icon--down">navigatedown</i></a><ul class="dropnav__list menu"><li class="dropnav__item"><a href="/about-pri" class="dropnav__link">About</a></li><li class="dropnav__item"><a href="/programs" title="" class="dropnav__link">Programs</a></li><li class="dropnav__item"><a href="/ways-listen" title="Ways to Listen" class="dropnav__link">Ways to Listen</a></li><li class="dropnav__item"><a href="/priorg-contact" class="dropnav__link">Contact Us</a></li><li class="dropnav__item"><a href="/ways-support-pri" class="dropnav__link">Support PRI</a></li></ul></li><li class="l-dropnav__item-4 dropnav__item"><a href="#" title="" class="dropnav__heading">Follow <i class="ss-icon ss-standard ss-icon--down">navigatedown</i></a><ul class="dropnav__list menu"><li class="dropnav__item"><a href="/newsletters" class="dropnav__link">Newsletters</a></li><li class="dropnav__item"><a href="/social-media" title="" class="dropnav__link">Social Media</a></li></ul></li></ul></div>
+
+  
+  </div>
+    </div>
+  </div>
+  <div class="navbar-3 desktop-sub-nav">
+    <div class="l-centered l-navbar__menus" role="banner">
+      <ul class="menu"><li class="menu__item is-expanded first expanded"><a href="/sections" title="" class="menu__link">Topics</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/sections/arts-culture-media" title="" class="menu__link">Arts, Culture, &amp; Media</a></li><li class="menu__item is-leaf leaf"><a href="/sections/business-economics-and-jobs" title="" class="menu__link">Business, Economics and Jobs</a></li><li class="menu__item is-leaf leaf"><a href="/sections/conflict-justice" title="" class="menu__link">Conflict &amp; Justice</a></li><li class="menu__item is-leaf last leaf"><a href="/sections/development-education" title="" class="menu__link">Development &amp; Education</a></li></ul></li><li class="menu__item is-expanded expanded"><a href="/sections" title="" class="menu__link">More Topics</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/sections/global-politics" title="" class="menu__link">Global Politics</a></li><li class="menu__item is-leaf leaf"><a href="/sections/health-medicine" title="" class="menu__link">Health &amp; Medicine</a></li><li class="menu__item is-leaf leaf"><a href="/verticals/global-nation" title="" class="menu__link">Immigration</a></li><li class="menu__item is-leaf last leaf"><a href="/verticals/global-security" title="" class="menu__link">International Security</a></li></ul></li><li class="menu__item is-expanded last expanded"><a href="/collections" title="" class="menu__link">Collections</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/sections/lifestyle-belief" title="" class="menu__link">Lifestyle &amp; Belief</a></li><li class="menu__item is-leaf leaf"><a href="/sections/science-tech-environment" title="" class="menu__link">Science, Tech &amp; Environment</a></li><li class="menu__item is-leaf leaf"><a href="/sections/sports" title="" class="menu__link">Sports</a></li><li class="menu__item is-leaf last leaf"><a href="/verticals/across-womens-lives" title="" class="menu__link">Women &amp; Girls</a></li></ul></li></ul>    </div>
+  </div>
+  <div class="navbar-4 desktop-sub-nav">
+    <div class="l-centered l-navbar__menus" role="banner">
+      <ul class="menu"><li class="menu__item is-expanded first expanded"><a href="/series" title="" class="menu__link">Special Coverage</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/verticals/across-womens-lives" title="" class="menu__link">Across Women&#039;s Lives</a></li><li class="menu__item is-leaf leaf"><a href="/verticals/global-nation" title="" class="menu__link">Global Nation</a></li><li class="menu__item is-leaf leaf"><a href="/verticals/livable-planet" title="" class="menu__link">Livable Planet</a></li><li class="menu__item is-leaf last leaf"><a href="/verticals/global-security" title="" class="menu__link">Global Security</a></li></ul></li><li class="menu__item is-expanded expanded"><a href="/trending-topics" title="" class="menu__link">Trending Topics</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="https://gpinvestigations.pri.org/" title="" class="menu__link">GlobalPost Investigations</a></li><li class="menu__item is-leaf leaf"><a href="/collections/global-hit" title="" class="menu__link">Global Hit</a></li><li class="menu__item is-leaf leaf"><a href="/collections/global-satire" title="" class="menu__link">Global Satire</a></li><li class="menu__item is-leaf last leaf"><a href="/music-heard-on-air" title="" class="menu__link">Music Heard on Air</a></li></ul></li><li class="menu__item is-expanded last expanded"><a href="/series" title="" class="menu__link">Series</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/tags/syrian-refugees" title="" class="menu__link">Syrian Refugees</a></li><li class="menu__item is-leaf leaf"><a href="/tags/religion" title="" class="menu__link">Religion</a></li><li class="menu__item is-leaf leaf"><a href="/series/owning-it" title="" class="menu__link">Owning It</a></li><li class="menu__item is-leaf last leaf"><a href="/series/sold" title="" class="menu__link">Sold</a></li></ul></li></ul>    </div>
+  </div>
+  <div class="navbar-5 desktop-sub-nav">
+    <div class="l-centered l-navbar__menus" role="banner">
+      <ul class="menu"><li class="menu__item is-expanded first expanded"><a href="/programs" title="" class="menu__link">Programs</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/programs/the-world" title="" class="menu__link">PRI&#039;s The World</a></li><li class="menu__item is-leaf leaf"><a href="/programs/globalpost" title="" class="menu__link">GlobalPost</a></li><li class="menu__item is-leaf leaf"><a href="/programs/takeaway" title="" class="menu__link">The Takeaway</a></li><li class="menu__item is-leaf leaf"><a href="/programs/studio-360" title="" class="menu__link">Studio 360</a></li><li class="menu__item is-leaf leaf"><a href="/programs/science-friday" title="" class="menu__link">Science Friday</a></li><li class="menu__item is-leaf last leaf"><a href="/programs/live-wire" title="" class="menu__link">Live Wire</a></li></ul></li><li class="menu__item is-expanded expanded"><a href="/programs" title="" class="menu__link">More Shows</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/programs/living-earth" title="" class="menu__link">Living on Earth</a></li><li class="menu__item is-leaf leaf"><a href="/programs/world-words" title="" class="menu__link">The World in Words</a></li><li class="menu__item is-leaf leaf"><a href="/programs/otherhood" title="" class="menu__link">Otherhood</a></li><li class="menu__item is-leaf leaf"><a href="/programs/innovation-hub" title="" class="menu__link">Innovation Hub</a></li><li class="menu__item is-leaf leaf"><a href="/programs/science-happiness" title="" class="menu__link">The Science of Happiness</a></li><li class="menu__item is-leaf last leaf"><a href="/programs/things-go-boom" title="" class="menu__link">Things That Go Boom</a></li></ul></li><li class="menu__item is-expanded last expanded"><a href="/programs" title="" class="menu__link">Additional</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/shows" title="" class="menu__link"><strong>View All Shows</strong></a></li><li class="menu__item is-leaf leaf"><a href="/ways-listen" title="" class="menu__link">Ways to Listen</a></li><li class="menu__item is-leaf last leaf"><a href="/music-heard-on-air" title="" class="menu__link">Music Heard on Air</a></li></ul></li></ul>    </div>
+  </div>
+  <div class="navbar-6 desktop-sub-nav">
+    <div class="l-centered l-navbar__menus" role="banner">
+      <ul class="menu"><li class="menu__item is-expanded first expanded"><a href="/about-pri" title="" class="menu__link">Information</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/about-pri" title="" class="menu__link">General Info</a></li><li class="menu__item is-leaf leaf"><a href="/priorg-contact" title="" class="menu__link">Contact Us</a></li><li class="menu__item is-leaf leaf"><a href="/team" title="" class="menu__link">Meet the PRI.org team</a></li><li class="menu__item is-leaf last leaf"><a href="/work-us" title="" class="menu__link">Work with Us</a></li></ul></li><li class="menu__item is-expanded expanded"><a href="/support-pri" title="" class="menu__link">Support PRI</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="https://www.pri.org/donate/index.html?utm_source=navigation&amp;utm_medium=website&amp;utm_campaign=donations" title="" class="menu__link">Donate</a></li><li class="menu__item is-leaf leaf"><a href="/global-reporting-fund" title="" class="menu__link">Global Reporting Fund</a></li><li class="menu__item is-leaf leaf"><a href="/planned-giving" title="" class="menu__link">Planned Giving</a></li><li class="menu__item is-leaf last leaf"><a href="/become-sponsor" title="" class="menu__link">Sponsorship</a></li></ul></li><li class="menu__item is-expanded last expanded"><a href="/social-media" title="" class="menu__link">Follow</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="https://www.facebook.com/publicradiointernational" title="" class="menu__link">Like us on Facebook</a></li><li class="menu__item is-leaf leaf"><a href="https://twitter.com/pri" title="" class="menu__link">Follow us on Twitter</a></li><li class="menu__item is-leaf leaf"><a href="/stories/feed/everything" title="" class="menu__link">RSS</a></li><li class="menu__item is-expanded last expanded"><a href="/newsletters" title="" class="menu__link">Newsletters</a></li></ul></li></ul>    </div>
+  </div>
+</section>
+</header>
+
+<aside class="promo-box--promo panel-pane pane-block pane-dfp-dfp-ad-atf-728x90 story__leaderboard nav__below" >
+  
+    
+  
+  <div id="dfp-ad-dfp_ad_atf_728x90-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-dfp_ad_atf_728x90" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-dfp_ad_atf_728x90");
+    });
+  </script>
+</div>
+</div>
+  
+  </aside>
+<div class="max-1200 content-wrapper l-centered">
+  <div class="main-content story__content">
+    <div class="home__main">
+      <div class="l-centered">
+        <header class="l-story__full">
+          <p class="field-terms-sections">
+	<a href="/sections/conflict-justice" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Conflict &amp; Justice</a></p>
+<h1>Philippines&#039; Duterte says he&#039;ll convince nations to leave the International Criminal Court </h1>
+
+
+<div class="panel-pane pane-views pane-story-page-program-elements logo" >
+  
+      
+  
+  <div class="view view-story-page-program-elements view-id-story_page_program_elements view-display-id-block view-dom-id-ae0ccc436f11b62328a4205aeb7aea18">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+  
+  </div>
+
+  <p class="field-ref-program story__program story__meta">
+    <a href="/programs/reuters">Reuters</a>  </p>
+
+  <p class="field-date-published story__meta">
+    <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-03-18T12:00:00-04:00">March 18, 2018 · 12:00 PM EDT</span>  </p>
+<div class="panel-pane pane-views pane-story-page-program-elements embed embed-lede embed-image" >
+  
+      
+  
+  <div class="view view-story-page-program-elements view-id-story_page_program_elements view-display-id-block_1 view-dom-id-aee3e275c84f3bb9d7588fea52a676da">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+          
+  <figure class="field-image">
+    <div id="file-188252" class="file file-image file-image-jpeg">
+
+        <h2 class="element-invisible"><a href="/file/philippines-duterte-iccjpg">PHILIPPINES-DUTERTE-ICC.jpg</a></h2>
+    
+  
+  <div class="content">
+    <img typeof="foaf:Image" src="https://media.pri.org/s3fs-public/styles/story_main/public/story/images/PHILIPPINES-DUTERTE-ICC.jpg?itok=SDapAJsV" width="937" height="528" alt="Philippine President Rodrigo Duterte " />
+  <div class="field-caption">
+    <p>Philippine President Rodrigo Duterte announces the disbandment of police operations against illegal drugs at the Malacanang palace in Manila, Philippines early on&nbsp;Jan.&nbsp;30, 2017.</p>
+  </div>
+  <div class="image__credit">
+    <span class="image__credit-label">
+      Credit:
+    </span>
+    <p>Ezra Acayan/Reuters/File photo</p>
+  </div>
+  </div>
+
+  
+</div>
+  </figure>
+    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+  
+  </div>
+        </header>
+        <div class="panel-pane pane-page-content" >
+  
+      
+  
+  <article class="node-173210 node node-story view-mode-full clearfix" about="/stories/2018-03-18/philippines-duterte-says-hell-convince-nations-leave-international-criminal-court" typeof="sioc:Item foaf:Document">
+
+      <header>
+                  <span property="dc:title" content="Philippines&#039; Duterte says he&#039;ll convince nations to leave the International Criminal Court " class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      
+          </header>
+  
+  
+  <div class="story__deck"><p>Philippines President Rodrigo Duterte on Sunday called for other signatories of the Rome Statute that established the International Criminal Court (ICC) to join his country in withdrawing from the treaty.</p></div>
+<p>Duterte's comments during a speech to graduating cadets at the Philippine Military Academy in northern Philippines comes after ICC prosecutors last month opened a preliminary examination into the president's "war on drugs," which has led to the death of thousands since it began in July 2016.</p>
+<p>The Southeast Asian nation last week notified the United Nations secretary-general of its decision to withdraw from the ICC because of what the outspoken Philippine leader called "outrageous" attacks by UN officials and violations of due process.</p>
+<p>"I will convince everybody now under the treaty to get out, get out," Duterte said. "It is not a document that was prepared by anybody, it's EU-sponsored."</p>
+<p>About 4,000 Filipinos have been killed by police in the past 19 months in a brutal crackdown that has alarmed the international community. Activists believe the death toll is far higher.</p>
+<p>Police say those thousands of deaths were during legitimate anti-drugs operations in which the suspects had violently resisted arrest.</p>
+<p><em>(Reporting by Neil Jerome Morales; Editing by David Goodman)</em></p>
+
+  
+  
+</article>
+
+  
+  </div>
+<div class="panel-pane pane-block pane-block-14" >
+  
+      
+  
+  <aside class="donate__story-msg">
+      <p><strong>While you're here...</strong></p>
+      <p>Did you know that PRI turns 35 in 2018? We’re proud to celebrate 35 years of telling essential stories, like the one you just read. If you value independent, fact-based journalism, consider supporting PRI with a financial contribution. </p>
+      <p>And thanks to a passionate supporter, <strong>your gift will be matched dollar for dollar.</strong></p>
+<a class="more-btn" href="/donate/end-story?utm_source=donateStoryMsg&amp;utm_medium=website&amp;utm_campaign=donations">Donate Today &gt;</a>
+</aside>
+  
+  </div>
+<div class="sharing-links--story"><span class="share-label">Share</span><div class="item-list"><ul><li class="comment first"><a href="#comments"><i class="ss-icon ss-standard">comment</i> <span class="share__text">Comment</span></a></li>
+<li><a href="http://www.facebook.com/sharer.php?u=https%3A//www.pri.org/stories/2018-03-18/philippines-duterte-says-hell-convince-nations-leave-international-criminal-court" target="_blank" onClick="javascript: window.open(this.href, &#039;Philippines&amp;#039; Duterte says he&amp;#039;ll convince nations to leave the International Criminal Court &#039;,&#039;width=320, height=420&#039;); return false;"><i class="sharing-links__icon ss-icon ss-social-circle">facebook</i> <span class="share__text">Share on Facebook</span></a></li>
+<li><a href="http://twitter.com/share?url=https%3A//www.pri.org/stories/2018-03-18/philippines-duterte-says-hell-convince-nations-leave-international-criminal-court&amp;text=Philippines%27%20Duterte%20says%20he%27ll%20convince%20nations%20to%20leave%20the%20International%20Criminal%20Court%20&amp;hashtags=" target="_blank" onClick="javascript: window.open(this.href, &#039;Philippines&amp;#039; Duterte says he&amp;#039;ll convince nations to leave the International Criminal Court  https://www.pri.org/stories/2018-03-18/philippines-duterte-says-hell-convince-nations-leave-international-criminal-court&#039;, &#039;width=320, height=420&#039;); return false;"><i class="sharing-links__icon ss-icon ss-social-circle">twitter</i> <span class="share__text">Share on Twitter</span></a></li>
+<li class="googleplus"><a href="https://plus.google.com/share?url=https%3A//www.pri.org/stories/2018-03-18/philippines-duterte-says-hell-convince-nations-leave-international-criminal-court" target="_blank" onClick="javascript:window.open(this.href, &#039;&#039;, &#039;menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=500&#039;);return false;"><i class="sharing-links__icon ss-icon ss-social-circle">googleplus</i> <span class="share__text">Share on Google +</span></a></li>
+<li class="email last"><a href='mailto:?subject=Philippines' Duterte says he'll convince nations to leave the International Criminal Court &amp;body=Check%20out%20this%20story%20I%20read%20on%20PRI.org%3A%20https://www.pri.org/stories/2018-03-18/philippines-duterte-says-hell-convince-nations-leave-international-criminal-court' target='_blank'><i class='ss-icon ss-standard'>email</i> <span class='share__text'>Email</span></a></li>
+</ul></div></div><div class="story__categories"><p class="categories"><strong>In</strong> <span><a href="/sections/conflict-justice">Conflict &amp; Justice</a></span><span><a href="/sections/conflict">Conflict</a></span><span><a href="/sections/politics">Politics</a></span><span><a href="/sections/global-politics">Global Politics</a></span><span><a href="/sections/lifestyle-belief">Lifestyle &amp; Belief</a></span><span><a href="/sections/leaders">Leaders</a></span>.</p><p class="categories tags"><strong>Tagged:</strong> <span><a href="/continent/asia">Asia</a></span><span><a href="/country/philippines">Philippines</a></span>.</p></div><div class="panel-pane pane-block pane-dfp-in-content-video" >
+  
+      
+  
+  <div id="dfp-ad-in_content_video-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-in_content_video" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-in_content_video");
+    });
+  </script>
+</div>
+</div>
+  
+  </div>
+<div  class="story-meta bottom panel-pane pane-block pane-campaignmonitor-986c7a3cd11f67a0ee74fabf7c05f6c0">
+  <aside class="newsletter__signup text-center">
+        <h4 class="header-alt">Sign up for The Scan, PRI's daily email newsletter</h4>
+    <form class="campaignmonitor-subscribe-form campaignmonitor-subscribe-form-the-scan" action="/stories/2018-03-18/philippines-duterte-says-hell-convince-nations-leave-international-criminal-court" method="post" id="campaignmonitor-subscribe-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-email">
+  <label for="edit-email">Email <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-email" name="email" value="" size="60" maxlength="200" class="form-text required" />
+</div>
+<input type="hidden" name="list_id" value="986c7a3cd11f67a0ee74fabf7c05f6c0" />
+<input type="submit" id="edit-submit--3" name="op" value="Subscribe" class="form-submit" /><input type="hidden" name="form_build_id" value="form-goVaJc2sd--gfi5DoqmG3K8nmCMvOp73wPRLAgB53cQ" />
+<input type="hidden" name="form_id" value="campaignmonitor_subscribe_form" />
+</div></form>  </aside>
+</div>      </div>
+    </div>
+  </div>
+  <aside class="story__sidebar">
+    <div class="panel-pane pane-views pane-story-sidebar" >
+  
+      
+  
+  <div class="view view-story-sidebar view-id-story_sidebar view-display-id-block_1 view-dom-id-a4e3f843f6558dad43166e15c126024c">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first article--list-item">
+      
+          <h4><a href="/stories/2018-03-20/after-pedestrian-fatality-new-legal-questions-surround-self-driving-cars">After pedestrian fatality, new legal questions surround self-driving cars</a></h4>    
+          
+  <p class="field-ref-program story__program story__meta">
+    <a href="/programs/reuters">Reuters</a>  </p>
+    </div>
+  <div class="views-row views-row-2 views-row-even views-row-last article--list-item">
+      
+          <h4><a href="/stories/2018-03-20/expelled-russian-diplomats-leave-britain-nerve-agent-crisis">Expelled Russian diplomats leave Britain in nerve agent crisis</a></h4>    
+          
+  <p class="field-ref-program story__program story__meta">
+    <a href="/programs/reuters">Reuters</a>  </p>
+    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+  
+  </div>
+<aside class="promo-box--promo panel-pane pane-block pane-dfp-pri-ros-atf-300x600 promo-box" >
+  
+    
+  
+  <div id="dfp-ad-pri_ros_atf_300x600-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-pri_ros_atf_300x600" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-pri_ros_atf_300x600");
+    });
+  </script>
+</div>
+</div>
+  
+  </aside>
+    <div id="sticky-sidebar">
+      <div class="sticky-inner">
+        <div class="panel-pane pane-views pane-story-sidebar article__list" >
+  
+      
+  
+  <div class="view view-story-sidebar view-id-story_sidebar view-display-id-block view-dom-id-3b61d39b947d5b7386479241f0aea5bb">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first article--list-item">
+      
+          <h4><a href="/stories/2018-03-20/undocumented-workers-fight-wages-under-threat-deportation">Undocumented workers fight for wages under the threat of deportation</a></h4>    
+          
+  <p class="field-ref-program story__program story__meta">
+    <a href="/programs/the-world" class="story__program-the-world">PRI&#039;s The World</a>  </p>
+    </div>
+  <div class="views-row views-row-2 views-row-even article--list-item">
+      
+          <h4><a href="/stories/2018-03-20/heres-album-third-culture-kids-0">Here&#039;s an album for &#039;third culture kids&#039;</a></h4>    
+          
+  <p class="field-ref-program story__program story__meta">
+    <a href="/programs/the-world" class="story__program-the-world">PRI&#039;s The World</a>  </p>
+    </div>
+  <div class="views-row views-row-3 views-row-odd article--list-item">
+      
+          <h4><a href="/stories/2018-03-20/chinas-premier-hopes-trade-war-can-be-averted-pledges-more-open-economy">China&#039;s premier hopes a trade war can be averted, pledges more open economy</a></h4>    
+          
+  <p class="field-ref-program story__program story__meta">
+    <a href="/programs/reuters">Reuters</a>  </p>
+    </div>
+  <div class="views-row views-row-4 views-row-even article--list-item">
+      
+          <h4><a href="/stories/2018-03-20/putin-wins-surprising-no-one-voter-turnout-rose">Putin wins, surprising no one, but voter turnout rose</a></h4>    
+          
+  <p class="field-ref-program story__program story__meta">
+    <a href="/programs/the-world" class="story__program-the-world">PRI&#039;s The World</a>  </p>
+    </div>
+  <div class="views-row views-row-5 views-row-odd article--list-item">
+      
+          <h4><a href="/stories/2018-03-19/kurdish-troops-fight-freedom-and-womens-equality-battlegrounds-across-middle-east">Kurdish troops fight for freedom — and women&#039;s equality — on battlegrounds across Middle East</a></h4>    
+          
+  <p class="field-ref-program story__program story__meta">
+    <a href="/programs/conversation">The Conversation</a>  </p>
+    </div>
+  <div class="views-row views-row-6 views-row-even article--list-item">
+      
+          <h4><a href="/stories/2018-03-19/saudi-crown-prince-says-women-should-have-choice-whether-wear-abaya">The Saudi Crown Prince says women should have a choice whether to wear the abaya</a></h4>    
+          
+  <p class="field-ref-program story__program story__meta">
+    <a href="/programs/reuters">Reuters</a>  </p>
+    </div>
+  <div class="views-row views-row-7 views-row-odd article--list-item">
+      
+          <h4><a href="/stories/2018-03-18/putins-landslide-re-election-victory-means-hell-rule-russia-another-six-years">Putin&#039;s landslide re-election victory means he&#039;ll rule Russia for another six years </a></h4>    
+          
+  <p class="field-ref-program story__program story__meta">
+    <a href="/programs/reuters">Reuters</a>  </p>
+    </div>
+  <div class="views-row views-row-8 views-row-even article--list-item">
+      
+          <h4><a href="/stories/2018-03-18/sydney-myanmar-leader-suu-kyi-asks-help-dealing-troubled-rakhine-state">In Sydney, Myanmar leader Suu Kyi asks for help dealing with troubled Rakhine State </a></h4>    
+          
+  <p class="field-ref-program story__program story__meta">
+    <a href="/programs/reuters">Reuters</a>  </p>
+    </div>
+  <div class="views-row views-row-9 views-row-odd article--list-item">
+      
+          <h4><a href="/stories/2018-03-17/kremlin-expels-23-british-diplomats-wake-nerve-toxin-attack">The Kremlin expels 23 British diplomats in wake of nerve toxin attack </a></h4>    
+          
+  <p class="field-ref-program story__program story__meta">
+    <a href="/programs/reuters">Reuters</a>  </p>
+    </div>
+  <div class="views-row views-row-10 views-row-even article--list-item">
+      
+          <h4><a href="/stories/2018-03-17/trump-consultant-exploited-facebook-harvest-millions-people-s-profiles">Trump consultant &#039;exploited Facebook to harvest millions of people’s profiles,&#039; whistleblower says </a></h4>    
+          
+  <p class="field-ref-program story__program story__meta">
+    <a href="/programs/reuters">Reuters</a>  </p>
+    </div>
+  <div class="views-row views-row-11 views-row-odd article--list-item">
+      
+          <h4><a href="/stories/2018-03-19/city-northern-ireland-brexit-big-headache">For this city in Northern Ireland, Brexit is a big headache </a></h4>    
+          
+  <p class="field-ref-program story__program story__meta">
+    <a href="/programs/the-world" class="story__program-the-world">PRI&#039;s The World</a>  </p>
+    </div>
+  <div class="views-row views-row-12 views-row-even article--list-item">
+      
+          <h4><a href="/stories/2018-03-16/there-are-no-surprises-russias-upcoming-elections-putin-will-win">There are no surprises in Russia&#039;s upcoming elections. Putin will win. </a></h4>    
+          
+  <p class="field-ref-program story__program story__meta">
+    <a href="/programs/the-world" class="story__program-the-world">PRI&#039;s The World</a>  </p>
+    </div>
+  <div class="views-row views-row-13 views-row-odd article--list-item">
+      
+          <h4><a href="/stories/2018-03-16/kenya-evidence-shows-humans-traded-and-innovated-earlier-expected">Kenya evidence shows humans traded and innovated earlier than expected</a></h4>    
+          
+  <p class="field-ref-program story__program story__meta">
+    <a href="/programs/reuters">Reuters</a>  </p>
+    </div>
+  <div class="views-row views-row-14 views-row-even article--list-item">
+      
+          <h4><a href="/stories/2018-03-16/behind-rise-and-fall-growing-power">Behind the rise and fall of Growing Power</a></h4>    
+          
+  <p class="field-ref-program story__program story__meta">
+    <a href="/programs/civil-eats-0">Civil Eats</a>  </p>
+    </div>
+  <div class="views-row views-row-15 views-row-odd article--list-item">
+      
+          <h4><a href="/stories/2018-03-19/engineers-compete-detect-methane-leaks-powerful-climate-pollutant">Engineers compete to detect methane leaks, a powerful climate pollutant</a></h4>    
+          
+  <p class="field-ref-program story__program story__meta">
+    <a href="/programs/the-world" class="story__program-the-world">PRI&#039;s The World</a>  </p>
+    </div>
+  <div class="views-row views-row-16 views-row-even article--list-item">
+      
+          <h4><a href="/stories/2018-03-16/ties-us-grow-vietnam-marks-50th-anniversary-my-lai-massacre">As ties with US grow, Vietnam marks 50th anniversary of My Lai massacre</a></h4>    
+          
+  <p class="field-ref-program story__program story__meta">
+    <a href="/programs/reuters">Reuters</a>  </p>
+    </div>
+  <div class="views-row views-row-17 views-row-odd article--list-item">
+      
+          <h4><a href="/stories/2018-03-16/us-blames-russia-cyber-attacks-energy-grid">The US blames Russia for cyber attacks on the energy grid</a></h4>    
+          
+  <p class="field-ref-program story__program story__meta">
+    <a href="/programs/reuters">Reuters</a>  </p>
+    </div>
+  <div class="views-row views-row-18 views-row-even article--list-item">
+      
+          <h4><a href="/stories/2018-03-16/how-immigration-raids-have-and-havent-changed-under-trump-administration">How immigration raids have — and haven&#039;t — changed under the Trump administration</a></h4>    
+          
+  <p class="field-ref-program story__program story__meta">
+    <a href="/programs/the-world" class="story__program-the-world">PRI&#039;s The World</a>  </p>
+    </div>
+  <div class="views-row views-row-19 views-row-odd article--list-item">
+      
+          <h4><a href="/stories/2018-03-15/remarks-raise-prospect-nuclear-arms-race-middle-east">Remarks raise prospect of nuclear arms race in the Middle East</a></h4>    
+          
+  <p class="field-ref-program story__program story__meta">
+    <a href="/programs/reuters">Reuters</a>  </p>
+    </div>
+  <div class="views-row views-row-20 views-row-even views-row-last article--list-item">
+      
+          <h4><a href="/stories/2018-03-19/already-tenuous-housing-looming-monsoon-season-threatens-rohingya-refugee-camp">With already tenuous housing, the looming monsoon season threatens Rohingya refugee camps</a></h4>    
+          
+  <p class="field-ref-program story__program story__meta">
+    <a href="/programs/the-world" class="story__program-the-world">PRI&#039;s The World</a>  </p>
+    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+  
+  </div>
+<aside class="promo-box--promo panel-pane pane-block pane-dfp-pri-ros-btf-300x250 promo-box" >
+  
+    
+  
+  <div id="dfp-ad-pri_ros_btf_300x250-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-pri_ros_btf_300x250" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-pri_ros_btf_300x250");
+    });
+  </script>
+</div>
+</div>
+  
+  </aside>
+      </div>
+    </div>
+  </aside></div>
+<div class="fluid-row end-of-story">
+  <div class="max-1200">
+    <div class="panel-pane pane-views pane-end-of-story list-style" >
+  
+      
+  
+  <div class="view view-end-of-story view-id-end_of_story view-display-id-block_1 view-dom-id-0256f87264e1b6c908a5987a21530f04">
+        
+  
+      <div class="attachment attachment-before">
+      <div class="view view-end-of-story view-id-end_of_story view-display-id-attachment_1">
+        
+  
+  
+      <div class="view-content">
+        <figure  class="field-image views-row views-row-1 Reuters">
+      
+          <div class="banner-image" style="background-image: url('https://media.pri.org/s3fs-public/program-banner/Reuters.png');"></div>    
+          <h3><a href="/programs/reuters"><a href="/programs/reuters">Reuters</a></h3>    </figure>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+      <div class="view-content">
+          <ul class="stories-list thumbnails">          <li class="views-row views-row-1">  
+          <div class="field-content related-link-text"><a href="/stories/2018-03-20/after-pedestrian-fatality-new-legal-questions-surround-self-driving-cars">After pedestrian fatality, new legal questions surround self-driving cars</a></div>    
+          <div class="related-link-image"><a href="/stories/2018-03-20/after-pedestrian-fatality-new-legal-questions-surround-self-driving-cars"><img src="https://media.pri.org/s3fs-public/styles/feature_small/public/story/images/2018.03.20.Volvo_.png?itok=Wxc9Draa" alt="A self-driving Volvo vehicle, purchased by Uber, moves through an intersection in Scottsdale, Arizona, Dec. 1, 2017. " /></a></div>  </li>
+          <li class="views-row views-row-2">  
+          <div class="field-content related-link-text"><a href="/stories/2018-03-20/expelled-russian-diplomats-leave-britain-nerve-agent-crisis">Expelled Russian diplomats leave Britain in nerve agent crisis</a></div>    
+          <div class="related-link-image"><a href="/stories/2018-03-20/expelled-russian-diplomats-leave-britain-nerve-agent-crisis"><img src="https://media.pri.org/s3fs-public/styles/feature_small/public/story/images/2018-03-20-russia-plane.png?itok=ExSy8z7H" alt="An aircraft sent to collect diplomats and their families from Russia's embassy in London, who were expelled by Britain after the poisoning of former Russian intelligence officer Sergei Skripal and his daughter Yulia in Salisbury, takes off from Stansted a" /></a></div>  </li>
+          <li class="views-row views-row-3">  
+          <div class="field-content related-link-text"><a href="/stories/2018-03-20/chinas-premier-hopes-trade-war-can-be-averted-pledges-more-open-economy">China&#039;s premier hopes a trade war can be averted, pledges more open economy</a></div>    
+          <div class="related-link-image"><a href="/stories/2018-03-20/chinas-premier-hopes-trade-war-can-be-averted-pledges-more-open-economy"><img src="https://media.pri.org/s3fs-public/styles/feature_small/public/story/images/20180320-china-trade-war.jpg?itok=cQ-3tJ-h" alt="Chinese Premier Li Keqiang speaks at a table lined with microphones during a news conference in Beijing." /></a></div>  </li>
+          <li class="views-row views-row-4">  
+          <div class="field-content related-link-text"><a href="/stories/2018-03-19/saudi-crown-prince-says-women-should-have-choice-whether-wear-abaya">The Saudi Crown Prince says women should have a choice whether to wear the abaya</a></div>    
+          <div class="related-link-image"><a href="/stories/2018-03-19/saudi-crown-prince-says-women-should-have-choice-whether-wear-abaya"><img src="https://media.pri.org/s3fs-public/styles/feature_small/public/story/images/20180319-saudi-riyadh.jpg?itok=v5-7ntjj" alt=" Saudi Arabian women, seeking a job, talk with recruiters during a job fair in Riyadh. " /></a></div>  </li>
+          <li class="views-row views-row-5">  
+          <div class="field-content related-link-text"><a href="/stories/2018-03-18/putins-landslide-re-election-victory-means-hell-rule-russia-another-six-years">Putin&#039;s landslide re-election victory means he&#039;ll rule Russia for another six years </a></div>    
+          <div class="related-link-image"><a href="/stories/2018-03-18/putins-landslide-re-election-victory-means-hell-rule-russia-another-six-years"><img src="https://media.pri.org/s3fs-public/styles/feature_small/public/story/images/RUSSIA-ELECTION-PUTIN.jpg?itok=nwT3qTYa" alt="Putin " /></a></div>  </li>
+      </ul>    </div>
+  
+  
+  
+  
+  
+  
+</div>
+  
+  </div>
+<div class="panel-pane pane-views pane-end-of-story list-style" >
+  
+      
+  
+  <div class="view view-end-of-story view-id-end_of_story view-display-id-block_3 view-dom-id-e4996884bd0221c591595ec1e4d6d70b">
+        
+  
+      <div class="attachment attachment-before">
+      <div class="view view-end-of-story view-id-end_of_story view-display-id-attachment_3">
+        
+  
+  
+      <div class="view-content">
+        <figure  class="field-image Conflict">
+      
+          <h3><a href="/sections/conflict">Conflict</a></h3>    
+          <div class="banner-image" style="background-image: url('');"></div>    </figure>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+      <div class="view-content">
+          <ul class="stories-list thumbnails">          <li class="views-row views-row-1">  
+          <div class="field-content related-link-text"><a href="/stories/2018-03-20/expelled-russian-diplomats-leave-britain-nerve-agent-crisis">Expelled Russian diplomats leave Britain in nerve agent crisis</a></div>    
+          <div class="related-link-image"><a href="/stories/2018-03-20/expelled-russian-diplomats-leave-britain-nerve-agent-crisis"><img src="https://media.pri.org/s3fs-public/styles/feature_small/public/story/images/2018-03-20-russia-plane.png?itok=ExSy8z7H" alt="An aircraft sent to collect diplomats and their families from Russia's embassy in London, who were expelled by Britain after the poisoning of former Russian intelligence officer Sergei Skripal and his daughter Yulia in Salisbury, takes off from Stansted a" /></a></div>  </li>
+          <li class="views-row views-row-2">  
+          <div class="field-content related-link-text"><a href="/stories/2018-03-20/undocumented-workers-fight-wages-under-threat-deportation">Undocumented workers fight for wages under the threat of deportation</a></div>    
+          <div class="related-link-image"><a href="/stories/2018-03-20/undocumented-workers-fight-wages-under-threat-deportation"><img src="https://media.pri.org/s3fs-public/styles/feature_small/public/story/images/03202018-migrantworkers.jpg?itok=XhiZ3XaH" alt="Farm workers repair irrigation pipes during spring planting" /></a></div>  </li>
+          <li class="views-row views-row-3">  
+          <div class="field-content related-link-text"><a href="/stories/2018-03-19/kurdish-troops-fight-freedom-and-womens-equality-battlegrounds-across-middle-east">Kurdish troops fight for freedom — and women&#039;s equality — on battlegrounds across Middle East</a></div>    
+          <div class="related-link-image"><a href="/stories/2018-03-19/kurdish-troops-fight-freedom-and-womens-equality-battlegrounds-across-middle-east"><img src="https://media.pri.org/s3fs-public/styles/feature_small/public/story/images/2018-03-19-Kurdish-troops.png?itok=bpR-uTpP" alt="A Yazidi woman who joined the Kurdish Peshmerga forces sits next to rifles in the town of Bashiqa, after it was recaptured from the Islamic State, east of Mosul, Iraq Nov. 10, 2016." /></a></div>  </li>
+          <li class="views-row views-row-4">  
+          <div class="field-content related-link-text"><a href="/stories/2018-03-18/putins-landslide-re-election-victory-means-hell-rule-russia-another-six-years">Putin&#039;s landslide re-election victory means he&#039;ll rule Russia for another six years </a></div>    
+          <div class="related-link-image"><a href="/stories/2018-03-18/putins-landslide-re-election-victory-means-hell-rule-russia-another-six-years"><img src="https://media.pri.org/s3fs-public/styles/feature_small/public/story/images/RUSSIA-ELECTION-PUTIN.jpg?itok=nwT3qTYa" alt="Putin " /></a></div>  </li>
+          <li class="views-row views-row-5">  
+          <div class="field-content related-link-text"><a href="/stories/2018-03-18/sydney-myanmar-leader-suu-kyi-asks-help-dealing-troubled-rakhine-state">In Sydney, Myanmar leader Suu Kyi asks for help dealing with troubled Rakhine State </a></div>    
+          <div class="related-link-image"><a href="/stories/2018-03-18/sydney-myanmar-leader-suu-kyi-asks-help-dealing-troubled-rakhine-state"><img src="https://media.pri.org/s3fs-public/styles/feature_small/public/story/images/ASEAN-AUSTRALIA-ROHINGYA.jpg?itok=heO0pDXv" alt="Aung San Suu Kyi " /></a></div>  </li>
+      </ul>    </div>
+  
+  
+  
+  
+  
+  
+</div>
+  
+  </div>
+<div class="panel-pane pane-views pane-end-of-story list-style" >
+  
+      
+  
+  <div class="view view-end-of-story view-id-end_of_story view-display-id-block view-dom-id-865a9d205432dab747bed64d0e35252c">
+            <div class="view-header">
+      <figure class="field-image">
+<h3><a href="/news/latest">Latest Content</a></h3>    
+<div class="banner-image" style="background-image: url('http://media.pri.org/s3fs-public/styles/story_main/public/story/images/Earth-from-space.png');"></div>
+</figure>    </div>
+  
+  
+  
+      <div class="view-content">
+          <ul class="stories-list thumbnails">          <li class="views-row views-row-1">  
+          <div class="field-content related-link-text"><a href="/stories/2018-03-20/after-pedestrian-fatality-new-legal-questions-surround-self-driving-cars">After pedestrian fatality, new legal questions surround self-driving cars</a></div>    
+          <div class="related-link-image"><a href="/stories/2018-03-20/after-pedestrian-fatality-new-legal-questions-surround-self-driving-cars"><img src="https://media.pri.org/s3fs-public/styles/feature_small/public/story/images/2018.03.20.Volvo_.png?itok=Wxc9Draa" alt="A self-driving Volvo vehicle, purchased by Uber, moves through an intersection in Scottsdale, Arizona, Dec. 1, 2017. " /></a></div>  </li>
+          <li class="views-row views-row-2">  
+          <div class="field-content related-link-text"><a href="/stories/2018-03-20/expelled-russian-diplomats-leave-britain-nerve-agent-crisis">Expelled Russian diplomats leave Britain in nerve agent crisis</a></div>    
+          <div class="related-link-image"><a href="/stories/2018-03-20/expelled-russian-diplomats-leave-britain-nerve-agent-crisis"><img src="https://media.pri.org/s3fs-public/styles/feature_small/public/story/images/2018-03-20-russia-plane.png?itok=ExSy8z7H" alt="An aircraft sent to collect diplomats and their families from Russia's embassy in London, who were expelled by Britain after the poisoning of former Russian intelligence officer Sergei Skripal and his daughter Yulia in Salisbury, takes off from Stansted a" /></a></div>  </li>
+          <li class="views-row views-row-3">  
+          <div class="field-content related-link-text"><a href="/stories/2018-03-20/undocumented-workers-fight-wages-under-threat-deportation">Undocumented workers fight for wages under the threat of deportation</a></div>    
+          <div class="related-link-image"><a href="/stories/2018-03-20/undocumented-workers-fight-wages-under-threat-deportation"><img src="https://media.pri.org/s3fs-public/styles/feature_small/public/story/images/03202018-migrantworkers.jpg?itok=XhiZ3XaH" alt="Farm workers repair irrigation pipes during spring planting" /></a></div>  </li>
+          <li class="views-row views-row-4">  
+          <div class="field-content related-link-text"><a href="/stories/2018-03-20/heres-album-third-culture-kids-0">Here&#039;s an album for &#039;third culture kids&#039;</a></div>    
+          <div class="related-link-image"><a href="/stories/2018-03-20/heres-album-third-culture-kids-0"><img src="https://media.pri.org/s3fs-public/styles/feature_small/public/story/images/3202018-Sirintip.jpg?itok=Ckl7JStL" alt="Sirintip in a brightly-covered room " /></a></div>  </li>
+          <li class="views-row views-row-5">  
+          <div class="field-content related-link-text"><a href="/stories/2018-03-20/chinas-premier-hopes-trade-war-can-be-averted-pledges-more-open-economy">China&#039;s premier hopes a trade war can be averted, pledges more open economy</a></div>    
+          <div class="related-link-image"><a href="/stories/2018-03-20/chinas-premier-hopes-trade-war-can-be-averted-pledges-more-open-economy"><img src="https://media.pri.org/s3fs-public/styles/feature_small/public/story/images/20180320-china-trade-war.jpg?itok=cQ-3tJ-h" alt="Chinese Premier Li Keqiang speaks at a table lined with microphones during a news conference in Beijing." /></a></div>  </li>
+      </ul>    </div>
+  
+  
+  
+  
+  
+  
+</div>
+  
+  </div>
+  </div>
+</div><section class="comments-container">
+  <div class="l-centered max-1200">
+    <div id="comments" class="clearfix">
+      <div class="comments__wrapper">
+        <h3 class="element-invisible"><a name="comments"></a>Comments</h3>
+        <div id="gigya-comments"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="sponsors">
+  <div class="l-centered">
+    <div class="panel-pane pane-block pane-block-4" >
+  
+      
+  
+  <div class="sponsors__pri-logo">
+	<p><a href="/"><img height="48" width="466" alt="Public Radio International" title="Public Radio International" class="media-element file-default" typeof="foaf:Image" src="https://media.pri.org/s3fs-public/styles/large/public/different-voice.png"></a></p>
+</div>
+<p>Major funding provided by:</p>
+<div class="sponsors-logo-group">
+	<div class="sponsors-logo--billmelinda sponsors-logo">
+		<p><a href="http://www.gatesfoundation.org/"  target="_blank"><img height="52" width="149" alt="Bill &amp;amp; Melinda Gates Foundation" title="Bill &amp;amp; Melinda Gates Foundation" class="media-element file-default" typeof="foaf:Image" src="https://cdn1.pri.org/sites/all/themes/pri/images/logo-gates-color.jpg"></a></p>
+	</div>
+	<div class="sponsors-logo--ford sponsors-logo">
+		<p><a href="https://www.macfound.org/" target="_blank"><img height="52" width="149" alt="MacArthur Foundation" title="MacArthur Foundation" class="media-element file-default" typeof="foaf:Image" src="https://media.pri.org/s3fs-public/logo-macarthur-color.jpg"></a></p>
+	</div>
+</div>
+<p>A Partner of OZY Media News</p>
+  
+  </div>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="l-centered">
+    <div class="panel-pane pane-block pane-menu-block-sections-footer" >
+  
+      
+  
+  <div class="menu-block-wrapper menu-block-sections-footer menu-name-main-menu parent-mlid-992 menu-level-1">
+  <ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-785"><a href="/sections/arts-culture-media" title="" class="menu__link">Arts, Culture &amp; Media</a></li><li class="menu__item is-leaf leaf menu-mlid-1877"><a href="/sections/business-economics-and-jobs" title="" class="menu__link">Business, Economics and Jobs</a></li><li class="menu__item is-leaf leaf menu-mlid-804"><a href="/sections/conflict-justice" title="" class="menu__link">Conflict &amp; Justice</a></li><li class="menu__item is-leaf leaf menu-mlid-2423"><a href="/sections/development-education" title="" class="menu__link">Development &amp; Education</a></li><li class="menu__item is-leaf leaf menu-mlid-802"><a href="/sections/global-politics" title="" class="menu__link">Global Politics</a></li><li class="menu__item is-leaf leaf menu-mlid-801"><a href="/sections/health-medicine" title="" class="menu__link">Health &amp; Medicine</a></li><li class="menu__item is-leaf leaf menu-mlid-2424"><a href="/sections/lifestyle-belief" title="" class="menu__link">Lifestyle &amp; Belief</a></li><li class="menu__item is-leaf leaf menu-mlid-803"><a href="/sections/science-tech-environment" title="" class="menu__link">Science, Tech &amp; Environment</a></li><li class="menu__item is-leaf last leaf menu-mlid-2422"><a href="/sections/sports" title="" class="menu__link">Sports</a></li></ul></div>
+
+  
+  </div>
+<div class="panel-pane pane-menu-tree pane-menu-footer" >
+  
+      
+  
+  <div class="menu-block-wrapper menu-block-ctools-menu-footer-1 menu-name-menu-footer parent-mlid-menu-footer:0 menu-level-1">
+  <ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-1713"><a href="/about-pri" title="" class="menu__link">About PRI</a></li><li class="menu__item is-leaf leaf menu-mlid-778"><a href="/priorg-contact" title="" class="menu__link">Contact us</a></li><li class="menu__item is-leaf leaf menu-mlid-779"><a href="/team" title="" class="menu__link">Meet the PRI.org Team</a></li><li class="menu__item is-leaf leaf menu-mlid-1653"><a href="https://www.pri.org/donate/index.html?utm_source=footerNav&amp;utm_medium=website&amp;utm_campaign=donations" title="" class="menu__link">Donate</a></li><li class="menu__item is-leaf leaf menu-mlid-780"><a href="/become-sponsor" title="" class="menu__link">Sponsorship</a></li><li class="menu__item is-leaf leaf menu-mlid-781"><a href="/privacy" title="" class="menu__link">Privacy policy</a></li><li class="menu__item is-leaf last leaf menu-mlid-782"><a href="/terms" title="" class="menu__link">Terms of use</a></li></ul></div>
+
+  
+  </div>
+<div class="panel-pane pane-custom pane-1" >
+  
+      
+  
+  <p>©2016 Public Radio International</p>
+
+  
+  </div>
+  </div>
+</footer>
+<div id="cta_prompt_bottom" class="js-cta_prompt">
+  <div  id="donate_load_under" class="js-cta_prompt_item panel-pane pane-block pane-block-20 always-under dark" data-content-hash="569625cd908e2baeb9ec067bf4ff568b">
+  <a class="close corner js-dismiss" href="#"><i class="ss-icon ss-standard play">close</i></a>
+  <div class="content">
+    
+    <p class="donation large"><span class="icon-pri"></span><strong>DOUBLE YOUR IMPACT.</strong> Give today and your gift will be matched, dollar for dollar.<span class="btn-group"><a href="/donate/load-under.html?utm_source=loadUnder&amp;utm_medium=website&amp;utm_campaign=donations" class="button-default js-dismiss">SUPPORT PRI &gt;</a><a class="button-default close no-thanks js-dismiss">No Thanks</a></span></p>  </div>
+</div>
+
+</div>
+  <script type="text/javascript">
+  var _sf_async_config=Drupal.settings.chartbeat;
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+         (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+         "static.chartbeat.com/js/chartbeat.js");
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script><script>
+      setTimeout(function(){var a=document.createElement("script");
+      var b=document.getElementsByTagName('script')[0];
+      a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0022/4394.js";
+      a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+      </script>
+<script src="https://media.pri.org/s3fs-public/js/js_z_v1_fwMvbUOEDOvpRkTwEx-uJlDb9zJQ5c6DzXWsHk.js"></script>
+<script src="https://media.pri.org/s3fs-public/js/js_Zk6WIegBbzDNKDsu-_hwiSxYQCE2qr_zEc9kozyqDx0.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e37c582ee8","applicationID":"95131642","transactionName":"ZFYGZBRUXhdZWxIMVl0cJVMSXF8KF0gHAlxsXgVeB1JVFmdWCQFcbEUNVRFqQAVfXQ==","queueTime":0,"applicationTime":902,"atts":"SBEFElxOTRk=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

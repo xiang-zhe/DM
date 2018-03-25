@@ -1,0 +1,2265 @@
+<!DOCTYPE html>
+<html lang="en-GB" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" class="articleRenderer2HTML no-js">
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+<head>
+<script data-pagespeed-no-defer>//<![CDATA[
+(function(){function d(b){var a=window;if(a.addEventListener)a.addEventListener("load",b,!1);else if(a.attachEvent)a.attachEvent("onload",b);else{var c=a.onload;a.onload=function(){b.call(this);c&&c.call(this)}}}var p=Date.now||function(){return+new Date};window.pagespeed=window.pagespeed||{};var q=window.pagespeed;function r(){this.a=!0}r.prototype.c=function(b){b=parseInt(b.substring(0,b.indexOf(" ")),10);return!isNaN(b)&&b<=p()};r.prototype.hasExpired=r.prototype.c;r.prototype.b=function(b){return b.substring(b.indexOf(" ",b.indexOf(" ")+1)+1)};r.prototype.getData=r.prototype.b;r.prototype.f=function(b){var a=document.getElementsByTagName("script"),a=a[a.length-1];a.parentNode.replaceChild(b,a)};r.prototype.replaceLastScript=r.prototype.f;
+r.prototype.g=function(b){var a=window.localStorage.getItem("pagespeed_lsc_url:"+b),c=document.createElement(a?"style":"link");a&&!this.c(a)?(c.type="text/css",c.appendChild(document.createTextNode(this.b(a)))):(c.rel="stylesheet",c.href=b,this.a=!0);this.f(c)};r.prototype.inlineCss=r.prototype.g;
+r.prototype.h=function(b,a){var c=window.localStorage.getItem("pagespeed_lsc_url:"+b+" pagespeed_lsc_hash:"+a),f=document.createElement("img");c&&!this.c(c)?f.src=this.b(c):(f.src=b,this.a=!0);for(var c=2,k=arguments.length;c<k;++c){var g=arguments[c].indexOf("=");f.setAttribute(arguments[c].substring(0,g),arguments[c].substring(g+1))}this.f(f)};r.prototype.inlineImg=r.prototype.h;
+function t(b,a,c,f){a=document.getElementsByTagName(a);for(var k=0,g=a.length;k<g;++k){var e=a[k],m=e.getAttribute("data-pagespeed-lsc-hash"),h=e.getAttribute("data-pagespeed-lsc-url");if(m&&h){h="pagespeed_lsc_url:"+h;c&&(h+=" pagespeed_lsc_hash:"+m);var l=e.getAttribute("data-pagespeed-lsc-expiry"),l=l?(new Date(l)).getTime():"",e=f(e);if(!e){var n=window.localStorage.getItem(h);n&&(e=b.b(n))}e&&(window.localStorage.setItem(h,l+" "+m+" "+e),b.a=!0)}}}
+function u(b){t(b,"img",!0,function(a){return a.src});t(b,"style",!1,function(a){return a.firstChild?a.firstChild.nodeValue:null})}
+q.i=function(){if(window.localStorage){var b=new r;q.localStorageCache=b;d(function(){u(b)});d(function(){if(b.a){for(var a=[],c=[],f=0,k=p(),g=0,e=window.localStorage.length;g<e;++g){var m=window.localStorage.key(g);if(!m.indexOf("pagespeed_lsc_url:")){var h=window.localStorage.getItem(m),l=h.indexOf(" "),n=parseInt(h.substring(0,l),10);if(!isNaN(n))if(n<=k){a.push(m);continue}else if(n<f||!f)f=n;c.push(h.substring(l+1,h.indexOf(" ",l+1)))}}k="";f&&(k="; expires="+(new Date(f)).toUTCString());document.cookie=
+"_GPSLSC="+c.join("!")+k;g=0;for(e=a.length;g<e;++g)window.localStorage.removeItem(a[g]);b.a=!1}})}};q.localStorageCacheInit=q.i;})();
+pagespeed.localStorageCacheInit();
+//]]></script><link rel="stylesheet" href="/etc/designs/telegraph/core/clientlibs/tmgchannels.min.4-21--0.css" type="text/css"><link rel="stylesheet" href="/etc/designs/telegraph/core/clientlibs/tmgchannels/news.min.4-21--0.css" type="text/css"><script>
+		window.tmgFacebookAppId = "1785449471702494";
+	</script>
+
+	
+	
+	
+	
+	
+	
+
+
+	
+			
+		
+
+	
+			
+
+			
+					
+				
+
+			
+				
+					<script>
+					// Meter did not return any assign values
+					</script>
+				
+
+			
+
+			
+					
+					<script>
+						var tmg = tmg || {};
+						tmg.REGWALL_ON = true;
+					</script>
+				
+		
+
+
+			
+
+			
+					
+				
+			
+					<script>
+						var tmg = tmg || {};
+						tmg.COMMENTING_STATUS = true;
+					</script>
+				
+		
+<title>BBC presenter reveals she tried to kill herself over corporation&#39;s handling of her tax affairs</title>
+<link rel="dns-prefetch" href="//static.telegraph.co.uk"/>
+<link rel="dns-prefetch" href="//cdn.optimizely.com"/>
+<link rel="dns-prefetch" href="//cdn3.optimizely.com"/>
+<link rel="dns-prefetch" href="//d3c3cq33003psk.cloudfront.net"/>
+<link rel="dns-prefetch" href="//assets.adobedtm.com"/>
+<link rel="dns-prefetch" href="//cf.eip.telegraph.co.uk"/>
+<link rel="dns-prefetch" href="//www.google-analytics.com"/>
+<link rel="dns-prefetch" href="//www.googletagservices.com"/>
+<link rel="amphtml" href="https://www.telegraph.co.uk/politics/2018/03/20/bbc-presenter-reveals-tried-kill-corporations-handling-tax-affairs/amp/">
+<link rel="shortcut icon" href="/etc/designs/telegraph/core/clientlibs/core/icons/favicon.ico">
+<link rel="icon" type="image/png" sizes="152x152" href="/etc/designs/telegraph/core/clientlibs/core/icons/favicon-152x152.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/etc/designs/telegraph/core/clientlibs/core/icons/favicon-152x152.png">
+<meta name="msapplication-TileColor" content="#2c769d">
+<meta name="msapplication-TileImage" content="/etc/designs/telegraph/core/clientlibs/core/icons/mstile-144x144.png">
+<!--/* IE 11 Tile for Windows 8.1 Start Screen */ -->
+<meta name="msapplication-tooltip" content="The Telegraph">
+<meta name="msapplication-config" content="/etc/designs/telegraph/core/clientlibs/core/icons/browserconfig.xml">
+<meta name="msapplication-square310x310logo" content="/etc/designs/telegraph/core/clientlibs/core/icons/mstile-310x310.png">
+<meta name="msapplication-wide310x150logo" content="/etc/designs/telegraph/core/clientlibs/core/icons/mstile-310x150.png">
+<meta name="msapplication-square150x150logo" content="/etc/designs/telegraph/core/clientlibs/core/icons/mstile-150x150.png">
+<meta name="msapplication-square70x70logo" content="/etc/designs/telegraph/core/clientlibs/core/icons/mstile-70x70.png">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes"/>
+<script>
+		var RUM=(function(r,o){var q=[];var e=[];var b="RUM_start";var p=r.performance||{};var m=Date.now?Date.now():+(new Date());if(p&&p.timing&&p.timing.navigationStart){m=p.timing.navigationStart}function f(){if(p){if(p.now){return p.now()}else{if(p.webkitNow){return p.now()}else{if(p.msNow){return p.now()}else{if(p.mozNow){return p.now()}}}}}var d=Date.now?Date.now():+(new Date());return d-m}function i(d){if(p){if(p.mark){return p.mark(d)}else{if(p.webkitMark){return p.webkitMark(d)}}}q.push({name:d,entryType:"mark",startTime:f(),duration:0});return}function a(u,y,x){if(typeof(y)==="undefined"&&h(b)){y=b}if(p){if(p.measure){if(y){if(x){return p.measure(u,y,x)}else{return p.measure(u,y)}}else{return p.measure(u)}}else{if(p.webkitMeasure){return p.webkitMeasure(u,y,x)}}}var A=0;var d=d();if(y){var w=h(y);if(w){A=w.startTime}else{if(p&&p.timing&&p.timing[y]){A=p.timing[y]-p.timing.navigationStart}else{return}}}if(x){var z=h(x);if(z){d=z.startTime}else{if(p&&p.timing&&p.timing[x]){d=p.timing[x]-p.timing.navigationStart}else{return}}}e.push({name:u,entryType:"measure",startTime:A,duration:(d-A)});return}function h(d){return g(d,j())}function g(u,d){for(var w=d.length-1;w>=0;w--){var x=d[w];if(u===x.name){return x}}return undefined}function j(){if(p){if(p.getEntriesByType){return p.getEntriesByType("mark")}else{if(p.webkitGetEntriesByType){return p.webkitGetEntriesByType("mark")}}}return q}function k(){var d=o.cookie.match("(^|;)\\s*AMCV_2C7336C753C676BA0A490D4B%40AdobeOrg\\s*=\\s*([^;]+)");return d?decodeURIComponent(d.pop()).split("|")[4]:""}function n(){var x=k(),u=j();if(!x||!("ga" in r)){return}for(var w=u.length-1;w>=0;w--){var d=u[w];s=d.name.split("_"),c=s[0],v=s[1],l=s[2],t=Math.round(d.startTime);if(c&&v&&l&&t){ga("send",{hitType:"timing",timingCategory:c,timingVar:v,timingValue:t,timingLabel:l})}}}r.addEventListener("beforeunload",n);return{now:f,mark:i,measure:a,marks:q,measures:e}}(window,document));
+	</script>
+<script>
+		RUM.mark( 'css_load_tmgchannels' );
+	</script>
+<script>
+		window.clientlibs ={"css":{},"js":{"respond_js":{"load":["/etc/designs/telegraph/core/clientlibs/respond.min.4-21--0.js"],"test":"Modernizr.mq(\"only all\")"},"json_js":{"load":["/etc/designs/telegraph/core/clientlibs/json.min.4-21--0.js"],"test":"window.JSON"},"core_js":{"load":["/etc/designs/telegraph/core/clientlibs/core.min.4-21--0.js"]}}};
+	</script>
+<script type="text/javascript" src="/etc/designs/telegraph/core/clientlibs/core/head.min.4-21--0.js"></script>
+<script>
+		RUM.mark( 'js_load_head' );
+	</script>
+<script>
+		window.clientlibs.js.twitter_js = {
+			test: "document.querySelectorAll && document.querySelectorAll('.twitter-follow-button, .twitter-tweet, .twitter-timeline').length === 0",
+			load: ["//platform.twitter.com/widgets.js"]
+		};
+		<!-- /* We cannot compile this JS into our clientLibs due to syntax errors in the Ooyala vendor files and our version of YUI compressor */ -->
+		window.clientlibs.js.ooyala_core = {
+			test: true,
+			load: ["/etc/designs/telegraph/core/clientlibs/core/vendor/ooyala/ooyala-player.min.js", "https://sb.scorecardresearch.com/c2/plugins/streamingtag_plugin_ooyalav4.js"]
+		};
+		window.clientlibs.js.facebook_sdk = {
+			test: "document.querySelectorAll && document.querySelectorAll('.fb-page').length === 0",
+			load: ["//connect.facebook.net/en_GB/sdk.js"]
+		};
+	</script>
+<script>
+		var mapApiPath = "//maps.googleapis.com/maps/api/js?v=3&client=gme-telegraphmediagroup1" + "&callback=tmgJQ.fn.telegraph_product_map";
+
+	    window.clientlibs.js.google_maps = {
+			test: "document.querySelectorAll && !document.querySelectorAll('.js-product-map').length",
+			load: [mapApiPath]
+		};
+	</script>
+
+		
+		
+			
+				
+						
+					
+			
+		
+				<script>
+					var tmg = tmg || {};
+					tmg.OPTIMIZELY_SYNC = false;
+				</script>
+			
+	
+<link rel="canonical" href="https://www.telegraph.co.uk/politics/2018/03/20/bbc-presenter-reveals-tried-kill-corporations-handling-tax-affairs/"/>
+<meta name="description" content="BBC presenters attempted suicide and suffered &amp;ldquo;irreparable damage&amp;rdquo; because of the corporation&amp;rsquo;s &amp;ldquo;horrific&amp;rdquo; handling of their tax affairs.">
+<meta name="keywords" content="In the news,Standard,Politics,BBC">
+<meta name="tmgads.channel" content="politics">
+<meta name="tmgads.section" content="politics-2018">
+<meta name="tmgads.zone" content="politics.2018.03.20">
+<meta name="tmgads.articleid" content="AqXd2W2w6cnp">
+<meta name="tmgads.pagetype" content="story">
+<meta name="tmgads.level" content="5">
+<meta name="tmgads.otherdata">
+
+	
+		<meta name="tmgads.geo" content="CN"></meta>
+	
+	
+<meta name="tmgads.keywords" content="In the news,Standard,Politics,BBC">
+<meta name="DCSext.Channel" content="politics">
+<meta name="DCSext.Category" content="2018">
+<meta name="DCSext.Genre" content="03">
+<meta name="DCSext.MLC" content="/politics/2018/03/20">
+<meta name="DCSext.articleId" content="AqXd2W2w6cnp">
+<meta name="DCSext.Content_Type" content="story">
+<meta name="DCSext.Level" content="5">
+<meta name="DCSext.author" content="Steven Swinford">
+<meta name="DCSext.articleFirstPublished" content="2018-03-20 00:01">
+
+	
+		<meta name="DCSext.cf" content="1"></meta>
+	
+	
+	
+		<meta name="DCSext.cd" content="0"></meta>
+	
+	
+	
+		<meta name="DCSext.cn" content="0"></meta>
+	
+	
+	
+		<meta name="DCSext.pd" content="1"></meta>
+	
+	
+<meta property="og:title" content="BBC presenter reveals she tried to kill herself over corporation&#39;s handling of her tax affairs">
+<meta property="og:description" content="BBC presenters attempted suicide and suffered &amp;ldquo;irreparable damage&amp;rdquo; because of the corporation&amp;rsquo;s &amp;ldquo;horrific&amp;rdquo; handling of their tax affairs.">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="The Telegraph">
+<meta property="og:url" content="https://www.telegraph.co.uk/politics/2018/03/20/bbc-presenter-reveals-tried-kill-corporations-handling-tax-affairs/">
+<meta property="og:image" content="https://www.telegraph.co.uk/content/dam/opinion/2018/03/07/TELEMMGLPICT000156695068-xlarge_trans_NvBQzQNjv4BqrpfQw2hJyG_yckwxPAr0go9KzD8cVu9iguqnaKUswZA.jpeg">
+<meta name="twitter:title" content="BBC presenter reveals she tried to kill herself over corporation&#39;s handling of her tax affairs">
+<meta name="twitter:url" content="https://www.telegraph.co.uk/politics/2018/03/20/bbc-presenter-reveals-tried-kill-corporations-handling-tax-affairs/">
+<meta name="twitter:image" content="https://www.telegraph.co.uk/content/dam/opinion/2018/03/07/TELEMMGLPICT000156695068-xlarge_trans_NvBQzQNjv4BqrpfQw2hJyG_yckwxPAr0go9KzD8cVu9iguqnaKUswZA.jpeg">
+<meta name="twitter:site" content="@TelePolitics">
+<meta name="twitter:description" content="BBC presenters attempted suicide and suffered &amp;ldquo;irreparable damage&amp;rdquo; because of the corporation&amp;rsquo;s &amp;ldquo;horrific&amp;rdquo; handling of their tax affairs.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="tmgads.businessSegment" content="politics">
+<meta name="tmg.sponsor">
+<meta name="DCSext.campaignId">
+<meta name="DCSext.campaignStart">
+<meta name="DCSext.campaignEnd">
+<meta name="DCSext.sponsored">
+<meta name="tmg.premium.override" content="false">
+<meta name="tmg.premium.state" content="false">
+<meta name="premiumContentOnFirstPublish" content="false">
+<meta property="article:content_tier" content="free">
+<meta property="fb:pages" content="143666524748">
+<meta property="fb:pages" content="1438053159792450">
+<meta property="fb:pages" content="1069269459751990">
+<meta property="fb:pages" content="985629951556153">
+<meta property="fb:pages" content="121391718031592">
+<meta property="fb:pages" content="187451147952038">
+<meta property="fb:pages" content="244632882562393">
+<meta property="fb:pages" content="1443454839014980">
+<meta property="fb:pages" content="551022578388741">
+<meta property="fb:pages" content="534435549980003">
+<meta property="fb:pages" content="751195545009382">
+<meta property="fb:pages" content="116941904987458">
+<meta property="fb:pages" content="285329994977070">
+<meta property="fb:pages" content="122346694516955">
+<script type="application/ld+json">
+	{"@context":"https://schema.org","@type":"NewsArticle","headline":"BBC presenter reveals she tried to kill herself over corporation\u0027s handling of her tax affairs","url":"https://www.telegraph.co.uk/politics/2018/03/20/bbc-presenter-reveals-tried-kill-corporations-handling-tax-affairs/","thumbnailUrl":"https://www.telegraph.co.uk/content/dam/opinion/2018/03/07/TELEMMGLPICT000156695068-thumbnail_trans_NvBQzQNjv4BqrpfQw2hJyG_yckwxPAr0go9KzD8cVu9iguqnaKUswZA.jpeg","dateCreated":"2018-03-20T12:20:38Z","articleSection":"Politics","creator":["Steven Swinford"],"keywords":["Politics","Story","In the news","Standard","Politics","BBC"]}
+
+	</script>
+<script>
+	var dataLayer = {pageName:'Politics\\\/2018\\\/03\\\/20\\\/BBC presenter reveals she tried to kill herself over corporation\\\x27s handling of her tax affairs', pageType: 'articleRenderer2', premiumContent: false, premiumOverride: false, pageId: 'AqXd2W2w6cnp', conceptIds: '[]', rollupContentPath: '/politics/2018/03/20/bbc-presenter-reveals-tried-kill-corporations-handling-tax-affairs', videoEmbedded: 'false', videoEmbedCount: '0' };
+	window.tmg.dataLayerUtils.update();
+</script>
+<script src="//assets.adobedtm.com/71dcbb11123ce6b2e1ce4d47fd79a130aad3fc95/satelliteLib-177113f60f763788009998023cd15615fe2168a2.js"></script>
+<script>
+		RUM.mark( 'js_load_dtm' );
+	</script>
+<script>
+	var pageData = {"topics":{"in-the-news":{},"organisations":{"bbc":{}}},"storytype":{"standard":{}},"structure":{"politics":{}}};
+
+	</script>
+<script>
+		var tmgAds = tmgAds || {};
+        tmgAds.sticky = true;
+    </script>
+<script src="https://static.telegraph.co.uk/telegraph-advertising/tmg-gpt.min.js" async></script>
+<script>
+			RUM.mark( 'js_load_gpt' );
+		</script>
+
+			
+		
+<meta name="robots" content="">
+<script>
+	window.tmgOoyala = {
+		api: {
+			pcode: 'RvbGU6Z74XE_a3bj4QwRGByhq9h2',
+			playerBrandingId: 'ZTIxYmJjZDM2NWYzZDViZGRiOWJjYzc5'
+		}
+	};
+</script>
+<!-- comScore Identifier: comscorekw=politics -->
+
+</head>
+<body class="articleRenderer2   ">
+<div class="advert-banner container js-advert-banner">
+<div id="advert_tmg_ban" class="js-advert advert " data-adType="ban"></div>
+</div>
+<div id="fb-root"></div>
+<script>
+    /*
+    * This script should be just after the open <body> tag
+    */
+    (function(){
+        if(window.XMLHttpRequest && window.tmg && window.tmg.GET_PARAM && typeof tmg.GET_PARAM.playlist != 'undefined') {
+
+            // inject CSS to hide the content
+            var currentCssVersion = '',
+                    xmlhttp = new XMLHttpRequest(),
+                    headTag = document.querySelector("head"),
+                    bodyTag = document.body,
+                    loadingDiv, metas = headTag.getElementsByTagName('meta'),
+                    videoURL,
+                    createElement = function(tag, attrs, innerHTML, parent) {
+                        var el = document.createElement(tag);
+                        if(typeof attrs == 'object') {
+                            for(k in attrs) {
+                                el.setAttribute(k, attrs[k]);
+                            }
+                        }
+                        if(typeof innerHTML === 'string' && innerHTML !== '')
+                            el.innerHTML = innerHTML;
+                        if(typeof parent === 'object')
+                            parent.appendChild(el);
+                        return el;
+                    },
+                    removeMetaIfExists = function (key) {
+                        // metas is defined outside this function
+                        for (var i = 0; i < metas.length; i++) {
+                            if (metas[i].getAttribute('name') == key) {
+                                headTag.removeChild(metas[i]);
+                            }
+                        }
+                    };
+
+            document.documentElement.className += ' video-loading';
+
+            // video player placeholder DIV with the loading image
+            loadingDiv = createElement(
+                'div',
+                {"id":"loading"},
+                '<div class="loading-content"><div class="loading-indicator loading-indicator--mediumBorder">' +
+                    '<div class="loading-indicator__cube"></div>' +
+                    '<div class="loading-indicator__cube"></div>' +
+                    '<div class="loading-indicator__cube"></div>' +
+                    '<div class="loading-indicator__cube"></div>' +
+                    '<div class="loading-indicator__cube"></div>' +
+                '</div></div>', bodyTag
+            );
+
+            // append video CSS tag to head
+            createElement(
+                'link',
+                {
+                    "href":"/etc/designs/telegraph/core/clientlibs/tmgchannels/video." + currentCssVersion + ".css",
+                    "rel":"stylesheet"
+                }, '',  headTag
+            );
+
+            // remove metas
+            removeMetaIfExists('tmgads.pagetype');
+            removeMetaIfExists('DCSext.Content_Type');
+            // append video meta datas
+            createElement('meta', {'name':'tmgads.pagetype', 'content':'video-play'}, '', headTag);
+            createElement('meta', {'name':'DCSext.Content_Type', 'content':'video-play'}, '', headTag);
+
+            // Static Overwrites are defined in metaTags
+            if(typeof metaStaticOverwrites === 'object') {
+                for(key in metaStaticOverwrites) {
+                    removeMetaIfExists(key);
+                    createElement('meta', {'name':key, 'content':metaStaticOverwrites[key]}, '', headTag);
+                }
+            }
+            if(typeof dataLayerStaticOverwrites === 'object' && typeof dataLayer === 'object') {
+                for(key in dataLayerStaticOverwrites) {
+                    dataLayer[key] = dataLayerStaticOverwrites[key];
+                }
+            }
+
+            if(typeof tmgAds === 'object') {
+                if(typeof tmgAdsInitData === 'function') {
+                    tmgAdsInitData(tmgAds);
+                }
+                if(typeof tmgAdsInitDFP === 'function') {
+                    tmgAdsInitDFP(tmgAds);
+                }
+            }
+
+            setTimeout(function() {
+                loadingDiv.innerHTML =  '<div class="loading-content">' +
+                                            '<a href="' + window.location + '"><p>' +
+                                                'It looks like something is not quite right<br> with your internet connection.<br> Please refresh the page and retry.' +
+                                            '</p></a>' +
+                                        '</div>';
+            }, 10000);
+
+            // get json
+            xmlhttp.onreadystatechange = function() {
+                if (xmlhttp.readyState === XMLHttpRequest.DONE ) {
+                    // if (status code == 200)
+                    if(xmlhttp.status === 200){
+                        // Remove old content from DOM
+                        var mainContents = document.getElementsByClassName('main-content'),
+                            videoPageMainContents;
+
+                        // append new content template
+                        var videoPage = createElement('div', {}, xmlhttp.responseText, false);
+                        videoPageMainContents = videoPage.getElementsByClassName('main-content');
+                        videoPlayerContents = videoPage.getElementsByClassName('videoPlayer');
+
+                        // remove removeMe DIV
+                        // simulating a small delay...
+                        if(mainContents.length && videoPageMainContents.length && videoPlayerContents.length) {
+                            mainContents[0].innerHTML = videoPageMainContents[0].innerHTML;
+                            mainContents[0].className += ' videoRenderer';
+
+                            // just be sure everything is actually written to the DOM before we close the loading
+                            setTimeout(function(){
+                                document.documentElement.className = document.documentElement.className.replace(' video-loading', '');
+                                bodyTag.removeChild(document.getElementById('loading'));
+
+                                var event = new CustomEvent('tmg:page-loaded', { bubbles: true, cancelable: true, detail: undefined });
+                                document.dispatchEvent(event);
+                            }, 0);
+                        } else {
+                            // remove playlist GET from URL by redirecting to the article
+                            window.location.replace(window.location.origin + window.location.pathname);
+                        }
+                    }
+                    // else status code != 200
+                    else {
+                        // remove playlist GET from URL by redirecting to the article
+                        window.location.replace(window.location.origin + window.location.pathname);
+                    }
+                }
+            }
+
+
+            videoURL = window.location.protocol + '//' + window.location.host
+
+            /*
+            Making it work in local as well as on live
+            article/?playlist=
+            article.html?playlist=
+            */
+
+            // does it end in .html?
+            if(window.location.pathname.indexOf('.html', window.location.pathname.length - 5) !== -1) {
+                videoURL += window.location.pathname.replace(/\.html$/, '.video.html');
+            } else {
+                videoURL += window.location.pathname.replace(/\/$/, '.video/');
+            }
+
+            videoURL += (window.location.href.indexOf('wcmmode=disabled') != -1 ? '?wcmmode=disabled' : '')
+
+            // tmg.GET_PARAM.playlist
+            xmlhttp.open("GET", videoURL, true);
+            xmlhttp.send();
+
+        }
+    })()
+</script>
+<section class="snippet-overlay-nav">
+<div class="container">
+<!-- OVERLAY LOGO BAR -->
+<div class="overlay-nav-logobar component">
+<div class="component-content">
+<a href="https://www.telegraph.co.uk/" class="overlay-nav-logobar__link">
+<img class="responsive-image overlay-nav-logobar__img" width="320" height="51" alt="The Telegraph" data-frz-ratio="6.27" src="/content/dam/TheTelegraph_portal_white-320-small.png" data-frz-src-array="[{'src':'/content/dam/TheTelegraph_portal_white-320-xsmall.png','width':160,'height':25,'percentageImageRatio':'15.62'},{'src':'/content/dam/TheTelegraph_portal_white-320-small.png','width':320,'height':51,'percentageImageRatio':'15.94'},{'src':'/content/dam/TheTelegraph_portal_white-320-medium.png','width':480,'height':76,'percentageImageRatio':'15.83'},{'src':'/content/dam/TheTelegraph_portal_white-320-large.png','width':720,'height':114,'percentageImageRatio':'15.83'},{'src':'/content/dam/TheTelegraph_portal_white-320-xlarge.png','width':1280,'height':204,'percentageImageRatio':'15.94'},{'src':'/content/dam/TheTelegraph_portal_white-320-xxlarge.png','width':1500,'height':239,'percentageImageRatio':'15.93'}]"/>
+</a>
+</div>
+</div>
+<!-- CLOSE BUTTON -->
+<div class="overlay-nav-button component">
+<div class="component-content">
+<button class="overlay-nav-button__button">
+<span class="overlay-nav-button__label"></span>
+</button>
+</div>
+</div>
+<div class="overlay-menu-wrapper">
+<!-- NAV PRIMARY -->
+<div class="overlay-nav-primary  component" data-tmg-dtm-nav-area="overlaynav">
+<div class="component-content">
+<nav>
+<ul class="overlay-nav-primary__list">
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " title="Premium" href="/premium/" data-tmg-dtm-nav="1-nav:/premium.html">
+Premium
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " href="/news/" data-tmg-dtm-nav="2-nav:/news.html">
+News
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " title="Politics" href="/news/politics/" data-tmg-dtm-nav="3-nav:/news/politics.html">
+Politics
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " href="/sport/" data-tmg-dtm-nav="4-nav:/sport.html">
+Sport
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " href="/technology/" data-tmg-dtm-nav="5-nav:/technology.html">
+Technology
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " href="/business/" data-tmg-dtm-nav="6-nav:/business.html">
+Business
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " href="/money/" data-tmg-dtm-nav="7-nav:/money.html">
+Money
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " href="/opinion/" data-tmg-dtm-nav="8-nav:/opinion.html">
+Opinion
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " href="/obituaries/" data-tmg-dtm-nav="9-nav:/obituaries.html">
+Obituaries
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " href="/travel/" data-tmg-dtm-nav="10-nav:/travel.html">
+Travel
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " href="/culture/" data-tmg-dtm-nav="11-nav:/culture.html">
+Culture
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " href="/films/" data-tmg-dtm-nav="12-nav:/films.html">
+Film
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " href="/tv/" data-tmg-dtm-nav="13-nav:/tv.html">
+TV
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " href="/lifestyle/" data-tmg-dtm-nav="14-nav:/lifestyle.html">
+Lifestyle
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " href="/fashion/" data-tmg-dtm-nav="15-nav:/fashion.html">
+Fashion
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " title="Luxury" href="/luxury/" data-tmg-dtm-nav="16-nav:/luxury.html">
+Luxury
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " href="/cars/" data-tmg-dtm-nav="17-nav:/cars.html">
+Cars
+</a>
+</li>
+<li class="overlay-nav-primary__item ">
+<a class="overlay-nav-primary__link " href="/video/" data-tmg-dtm-nav="18-nav:/video.html">
+Video
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<!-- NAV SECONDARY -->
+<div class="overlay-nav-secondary  component" data-tmg-dtm-nav-area="overlaynav">
+<div class="component-content">
+<nav>
+<ul class="overlay-nav-secondary__list">
+<li class="overlay-nav-secondary__item ">
+<a class="overlay-nav-secondary__link " title="Free Mobile app" href="http://m.onelink.me/710a462e" data-tmg-dtm-nav="1-nav:http://m.onelink.me/710a462e">
+Free Mobile App
+</a>
+</li>
+<li class="overlay-nav-secondary__item ">
+<a class="overlay-nav-secondary__link " href="http://jobs.telegraph.co.uk/" data-tmg-dtm-nav="2-nav:http://jobs.telegraph.co.uk/">
+Jobs
+</a>
+</li>
+<li class="overlay-nav-secondary__item ">
+<a class="overlay-nav-secondary__link " href="/financial-services/" data-tmg-dtm-nav="3-nav:/financial-services.html">
+Financial Services
+</a>
+</li>
+<li class="overlay-nav-secondary__item ">
+<a class="overlay-nav-secondary__link " href="/rewards/" data-tmg-dtm-nav="4-nav:/rewards.html">
+Rewards
+</a>
+</li>
+<li class="overlay-nav-secondary__item ">
+<a class="overlay-nav-secondary__link " href="/events/" data-tmg-dtm-nav="5-nav:/events.html">
+Events
+</a>
+</li>
+<li class="overlay-nav-secondary__item ">
+<a class="overlay-nav-secondary__link " href="http://dating.telegraph.co.uk/s/?utm_source=tmg&utm_medium=nav_A-Z&utm_campaign=none" data-tmg-dtm-nav="6-nav:http://dating.telegraph.co.uk/s/?utm_source=tmg&amp;utm_medium=nav_A-Z&amp;utm_campaign=none">
+Dating
+</a>
+</li>
+<li class="overlay-nav-secondary__item ">
+<a class="overlay-nav-secondary__link " href="https://www.telegraph.co.uk/promotions/" data-tmg-dtm-nav="7-nav:https://www.telegraph.co.uk/promotions/">
+Offers
+</a>
+</li>
+<li class="overlay-nav-secondary__item ">
+<a class="overlay-nav-secondary__link " href="http://shop.telegraph.co.uk/?utm_source=tmg&utm_medium=nav_A-Z&utm_campaign=none" data-tmg-dtm-nav="8-nav:http://shop.telegraph.co.uk/?utm_source=tmg&amp;utm_medium=nav_A-Z&amp;utm_campaign=none">
+Shop
+</a>
+</li>
+<li class="overlay-nav-secondary__item ">
+<a class="overlay-nav-secondary__link " href="https://gardenshop.telegraph.co.uk/" data-tmg-dtm-nav="9-nav:https://gardenshop.telegraph.co.uk/">
+Garden Shop
+</a>
+</li>
+<li class="overlay-nav-secondary__item ">
+<a class="overlay-nav-secondary__link " href="http://books.telegraph.co.uk/" data-tmg-dtm-nav="10-nav:http://books.telegraph.co.uk/">
+Bookshop
+</a>
+</li>
+<li class="overlay-nav-secondary__item ">
+<a class="overlay-nav-secondary__link " href="http://tickets.telegraph.co.uk/" data-tmg-dtm-nav="11-nav:http://tickets.telegraph.co.uk/">
+Box Office
+</a>
+</li>
+<li class="overlay-nav-secondary__item ">
+<a class="overlay-nav-secondary__link " href="https://puzzles.telegraph.co.uk/site/index.php" data-tmg-dtm-nav="12-nav:https://puzzles.telegraph.co.uk/site/index.php">
+Puzzles
+</a>
+</li>
+<li class="overlay-nav-secondary__item ">
+<a class="overlay-nav-secondary__link " href="https://fantasyfootball.telegraph.co.uk/" data-tmg-dtm-nav="13-nav:https://fantasyfootball.telegraph.co.uk/">
+Fantasy Football
+</a>
+</li>
+<li class="overlay-nav-secondary__item ">
+<a class="overlay-nav-secondary__link " href="/about-us/work-at-the-telegraph/" data-tmg-dtm-nav="14-nav:/about-us/work-at-the-telegraph.html">
+Work at The Telegraph
+</a>
+</li>
+<li class="overlay-nav-secondary__item ">
+<a class="overlay-nav-secondary__link " href="https://corporate.telegraph.co.uk/" data-tmg-dtm-nav="15-nav:https://corporate.telegraph.co.uk/">
+Telegraph Corporate
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="main-content">
+<div class="container-fluid">
+<section class="snippet-header container">
+<div class="header-top-wrapper">
+<div class="header-nav-global premium-mode component" data-tmg-dtm-nav-area="globalnav">
+<div class="component-content header-nav-global__logged-not-subscriber">
+<nav class="header-nav-global__holder">
+<ul class="header-nav-global__list header-nav-global__sections">
+<li class="header-nav-global__item global-nav-search-btn">
+<a class="header-nav-global__link" title="Search" href="https://www.telegraph.co.uk/search.html" data-tmg-dtadm-nav="1-nav:https://www.telegraph.co.uk/search.html">
+<svg class="global-nav-icon global-search-icon" xmlns="http://www.w3.org/2000/svg" width="32px" height="32px" viewBox="0 0 1792 1792">
+<path d="M1516.6,1741.9l-301-602c175.2-108.6,291.9-302.6,291.9-523.9c0-340.2-275.8-616-616-616c-340.2,0-616,275.8-616,616
+	s275.8,616,616,616c79,0,154.5-14.9,224-42l301,602L1516.6,1741.9z M387.4,616c0-277.9,226.1-504,504-504s504,226.1,504,504
+	s-226.1,504-504,504S387.4,893.9,387.4,616z"/>
+</svg>
+<div class="header-nav-global__link__text">Search</div>
+</a>
+</li>
+<li class="header-nav-global__item global-nav-video-btn">
+<a class="header-nav-global__link" title="Video" href="/video/" data-tmg-dtadm-nav="2-nav:/video.html">
+<div class="header-nav-global__link__text">Video</div>
+</a>
+</li>
+<li class="header-nav-global__item global-nav-rewards-btn">
+<a class="header-nav-global__link" title="Rewards" href="/rewards/" data-tmg-dtadm-nav="3-nav:/rewards.html">
+<div class="header-nav-global__link__text">Rewards</div>
+</a>
+</li>
+</ul>
+<ul class="header-nav-global__list header-nav-global__engagement">
+<li class="header-nav-global__item premium-btn  ">
+<a class="header-nav-global__link " title="Upgrade to Premium" href="https://www.telegraph.co.uk/subscriptions/sub-bar/?icid=generic_premiumsub_generic_generic_topnav&redirectTo=" data-tmg-dtm-nav="4-nav:https://www.telegraph.co.uk/subscriptions/sub-bar/?icid=generic_premiumsub_generic_generic_topnav&amp;redirectTo=">
+<svg class="global-nav-icon solid-diamond-icon" xmlns="http://www.w3.org/2000/svg" width="32px" height="32px" viewBox="0 0 1792 1792">
+<rect x="262.4" y="262.4" transform="matrix(0.7071 0.7071 -0.7071 0.7071 896 -371.1353)" width="1267.1" height="1267.1"/>
+</svg>
+<div class="header-nav-global__link__text">Upgrade to Premium</div>
+<!--My account btn-->
+<!--Premium btn-->
+<svg class="global-nav-icon nav-close-icon" xmlns="http://www.w3.org/2000/svg" width="1792px" height="1792px" viewBox="0 0 1792 1792">
+<g>
+<polygon points="1792,1712.8 975.2,896 1792,79.2 1712.8,0 896,816.8 79.2,0 0,79.2 816.8,896 0,1712.8 79.2,1792 896,975.2
+			1712.8,1792"/>
+</g>
+</svg>
+</a>
+<!--HTML EMBED-->
+</li>
+<li class="header-nav-global__item my-account-btn js-has-dropdown ">
+<a class="header-nav-global__link " title="My Account" href="https://secure.telegraph.co.uk/secure/account/" data-tmg-dtm-nav="5-nav:https://secure.telegraph.co.uk/secure/account/">
+<svg class="global-nav-icon user-account-icon" xmlns="http://www.w3.org/2000/svg" width="32px" height="32px" viewBox="0 0 1792 1792">
+<g>
+<path d="M895.9,1792c-120.5,0-721.9-9.6-721.9-200.1V1498c0-105.4,59.9-202.4,156.2-252.8l270-141.1c17.1-8.9,27.7-25.8,27.7-44.2
+				v-87C605.1,943.2,552.6,867.5,525,769c-30.9-26.8-48.4-64.6-48.4-105V547.9c0-30.8,10.6-60.8,30.2-85.5V317.6
+				c-2-17.2-8.7-120.8,70.1-206.8C644.3,37.3,751.6,0,895.9,0c144.5,0,251.9,37.3,319.3,110.9c78.1,85.4,72,189.4,69.9,209.4
+				l0.1,142.1c19.6,24.7,30.3,54.7,30.3,85.5V664c0,51.6-29.4,99-75.7,123.6c-22.4,59.6-52.4,115-89.3,165
+				c-5.7,7.7-11.3,14.9-16.7,21.5v88.5c0,19,11.3,36.4,29.5,45.2l289,138.4c102.2,49,165.7,147.6,165.7,257.5v88.2
+				C1618,1782.4,1016.5,1792,895.9,1792z M895.9,110.3c-110.9,0-190,24.9-235.1,74.1c-44.9,49-43.2,110.6-41.6,128.3l0.2,195.7
+				l-18.7,16.5c-7.6,6.5-11.4,14.4-11.4,23.1v116.1c0,10.5,5.9,20.4,15.6,26.4l19.3,11.9l5.4,21.7c24.6,103,85.5,179.8,97.4,194.1
+				l13.5,15.4V1060c0,59-33.5,113.2-87.3,141.4l-269.9,141.2c-59.6,31.2-96.7,90.7-96.7,155.5v93.9c18.3,22,222.1,89.9,609.2,89.9
+				c379,0,582.3-65,609.4-94.3v-83.8c0-67.6-39.3-128.4-102.5-158.6l-289.1-138.5c-57.1-27.4-92.5-82.6-92.5-144V932.9l14.4-15.7
+				c7.1-7.7,15.3-17.8,23.6-29.1c34.9-47.3,62.5-100.6,82-158.4l9.2-27.3l28-8.2c14.5-4.2,24.3-16.3,24.3-30V547.9
+				c0-8.5-4-16.7-11.1-22.8l-19.1-16.8l0.3-196.1c0.3-4.2,8-74.2-42.1-128.5C1085.6,135,1006.7,110.3,895.9,110.3z"/>
+</g>
+</svg>
+<div class="header-nav-global__link__text">My Account</div>
+<!--My account btn-->
+<svg class="global-nav-icon nav-direction-down-icon" xmlns="http://www.w3.org/2000/svg" width="32px" height="32px" viewBox="0 0 1792 1792">
+<g>
+<polygon points="896,896 56,448 0,504 896,1400 1792,504 1736,448"/>
+</g>
+</svg>
+<svg class="global-nav-icon nav-close-icon" xmlns="http://www.w3.org/2000/svg" width="1792px" height="1792px" viewBox="0 0 1792 1792">
+<g>
+<polygon points="1792,1712.8 975.2,896 1792,79.2 1712.8,0 896,816.8 79.2,0 0,79.2 816.8,896 0,1712.8 79.2,1792 896,975.2
+			1712.8,1792"/>
+</g>
+</svg>
+<!--Premium btn-->
+</a>
+<!--HTML EMBED-->
+<div class="header-nav-global__drop-down-menu">
+<div class="header-nav-global__drop-down-menu__item ">
+<a class="header-nav-global__drop-down-menu__link" title="My details" href="https://secure.telegraph.co.uk/secure/personal/" data-tmg-dtm-nav="1-nav:https://secure.telegraph.co.uk/secure/personal/">
+<svg class="global-nav-icon" xmlns="http://www.w3.org/2000/svg" width="32px" height="32px" viewBox="0 0 1792 1792">
+<g>
+<g>
+<path d="M840,1344V784h112v560H840z M784,560l112-112l112,112L896,672L784,560z"/>
+</g>
+<path d="M896,112c209.4,0,406.3,81.6,554.4,229.6C1598.4,489.7,1680,686.6,1680,896s-81.6,406.3-229.6,554.4
+				c-148.1,148.1-345,229.6-554.4,229.6s-406.3-81.5-554.4-229.6C193.6,1302.3,112,1105.4,112,896s81.6-406.3,229.6-554.4
+				C489.7,193.6,686.6,112,896,112 M896,0C401.2,0,0,401.2,0,896s401.2,896,896,896s896-401.2,896-896S1390.8,0,896,0L896,0z"/>
+</g>
+</svg>
+<div class="header-nav-global__drop-down-menu__link__text">My details</div>
+</a>
+</div>
+<div class="header-nav-global__drop-down-menu__item ">
+<a class="header-nav-global__drop-down-menu__link" title="My newsletters" href="https://secure.telegraph.co.uk/secure/newsletters/" data-tmg-dtm-nav="2-nav:https://secure.telegraph.co.uk/secure/newsletters/">
+<svg class="global-nav-icon" xmlns="http://www.w3.org/2000/svg" width="32px" height="32px" viewBox="0 0 1792 1792">
+<g>
+<g>
+<path d="M1456,1792H336l-112-112V168L392,0h1176v1680L1456,1792z M336,1680h1120V112H448L336,224V1680z"/>
+</g>
+<g>
+<g>
+<rect x="448" y="336" width="896" height="112"/>
+</g>
+<g>
+<rect x="448" y="560" width="896" height="112"/>
+</g>
+<g>
+<rect x="448" y="784" width="448" height="112"/>
+</g>
+</g>
+</g>
+</svg>
+<div class="header-nav-global__drop-down-menu__link__text">My newsletters</div>
+</a>
+</div>
+<div class="header-nav-global__drop-down-menu__item ">
+<a class="header-nav-global__drop-down-menu__link" title="Logout" href="https://secure.telegraph.co.uk/secure/logout?redirectTo=http%3A%2F%2Fwww.telegraph.co.uk%2F" data-tmg-dtm-nav="3-nav:https://secure.telegraph.co.uk/secure/logout?redirectTo=http%3A%2F%2Fwww.telegraph.co.uk%2F">
+<svg class="global-nav-icon" xmlns="http://www.w3.org/2000/svg" width="32px" height="32px" viewBox="0 0 1792 1792">
+<g>
+<path d="M1792,1680l-96,112H448c0-56,0-57.3,0-113l1236,1V145.5V112H451V0h1228l113,110V1680z M505,390l55,56L336,838h897l0,111
+				H336l224,393l-55,57L0,894L505,390z"/>
+</g>
+</svg>
+<div class="header-nav-global__drop-down-menu__link__text">Logout</div>
+</a>
+</div>
+<div class="header-nav-global__drop-down-menu__item premium-dropdown-btn">
+<a class="header-nav-global__drop-down-menu__link" title="Upgrade to Premium" href="https://www.telegraph.co.uk/subscriptions/sub-bar/?icid=generic_premiumsub_generic_generic_topnav-dropdown&redirectTo=http%3A%2F%2Fwww.telegraph.co.uk%2F" data-tmg-dtm-nav="4-nav:https://www.telegraph.co.uk/subscriptions/sub-bar/?icid=generic_premiumsub_generic_generic_topnav-dropdown&amp;redirectTo=http%3A%2F%2Fwww.telegraph.co.uk%2F">
+<svg class="global-nav-icon solid-diamond-icon" xmlns="http://www.w3.org/2000/svg" width="32px" height="32px" viewBox="0 0 1792 1792">
+<rect x="262.4" y="262.4" transform="matrix(0.7071 0.7071 -0.7071 0.7071 896 -371.1353)" width="1267.1" height="1267.1"/>
+</svg>
+<div class="header-nav-global__drop-down-menu__link__text">Upgrade to Premium</div>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</nav>
+</div>
+<div class="component-content header-nav-global__not-logged">
+<nav class="header-nav-global__holder">
+<ul class="header-nav-global__list header-nav-global__sections">
+<li class="header-nav-global__item global-nav-search-btn">
+<a class="header-nav-global__link" title="Search" href="https://www.telegraph.co.uk/search.html" data-tmg-dtadm-nav="1-nav:https://www.telegraph.co.uk/search.html">
+<svg class="global-nav-icon global-search-icon" xmlns="http://www.w3.org/2000/svg" width="32px" height="32px" viewBox="0 0 1792 1792">
+<path d="M1516.6,1741.9l-301-602c175.2-108.6,291.9-302.6,291.9-523.9c0-340.2-275.8-616-616-616c-340.2,0-616,275.8-616,616
+	s275.8,616,616,616c79,0,154.5-14.9,224-42l301,602L1516.6,1741.9z M387.4,616c0-277.9,226.1-504,504-504s504,226.1,504,504
+	s-226.1,504-504,504S387.4,893.9,387.4,616z"/>
+</svg>
+<div class="header-nav-global__link__text">Search</div>
+</a>
+</li>
+<li class="header-nav-global__item global-nav-video-btn">
+<a class="header-nav-global__link" title="Video" href="/video/" data-tmg-dtadm-nav="2-nav:/video.html">
+<div class="header-nav-global__link__text">Video</div>
+</a>
+</li>
+<li class="header-nav-global__item global-nav-rewards-btn">
+<a class="header-nav-global__link" title="Rewards" href="/rewards/" data-tmg-dtadm-nav="3-nav:/rewards.html">
+<div class="header-nav-global__link__text">Rewards</div>
+</a>
+</li>
+</ul>
+<ul class="header-nav-global__list header-nav-global__engagement">
+<li class="header-nav-global__item premium-btn  ">
+<a class="header-nav-global__link " title="Subscribe - 30 days free" href="https://www.telegraph.co.uk/subscriptions/sub-bar/?icid=generic_premiumsub_generic_generic_topnav&redirectTo=" data-tmg-dtm-nav="4-nav:https://www.telegraph.co.uk/subscriptions/sub-bar/?icid=generic_premiumsub_generic_generic_topnav&amp;redirectTo=">
+<svg class="global-nav-icon solid-diamond-icon" xmlns="http://www.w3.org/2000/svg" width="32px" height="32px" viewBox="0 0 1792 1792">
+<rect x="262.4" y="262.4" transform="matrix(0.7071 0.7071 -0.7071 0.7071 896 -371.1353)" width="1267.1" height="1267.1"/>
+</svg>
+<div class="header-nav-global__link__text">Subscribe - 30 days free</div>
+<!--My account btn-->
+<!--Premium btn-->
+<svg class="global-nav-icon nav-close-icon" xmlns="http://www.w3.org/2000/svg" width="1792px" height="1792px" viewBox="0 0 1792 1792">
+<g>
+<polygon points="1792,1712.8 975.2,896 1792,79.2 1712.8,0 896,816.8 79.2,0 0,79.2 816.8,896 0,1712.8 79.2,1792 896,975.2
+			1712.8,1792"/>
+</g>
+</svg>
+</a>
+<!--HTML EMBED-->
+</li>
+<li class="header-nav-global__item   ">
+<a class="header-nav-global__link header-nav-global__link--border-right" title="Login" href="https://secure.telegraph.co.uk/secure/login?ICID=generic_premiumlogin_generic_generic_topnav&redirectTo=" data-tmg-dtm-nav="5-nav:https://secure.telegraph.co.uk/secure/login?ICID=generic_premiumlogin_generic_generic_topnav&amp;redirectTo=">
+<svg class="global-nav-icon user-signin-icon" xmlns="http://www.w3.org/2000/svg" width="32px" height="32px" viewBox="0 0 1792 1792">
+<g>
+<path d="M1797,1680l-96,112H453c0-56,0-57.3,0-113l1236,1V145.5V112H456V0h1228l113,110V1680z M1238,894l-505,505l-55-57l224-393H5
+				l0-111h897L678,446l55-56L1238,894z"/>
+</g>
+</svg>
+<div class="header-nav-global__link__text">Login</div>
+<!--My account btn-->
+<!--Premium btn-->
+</a>
+<!--HTML EMBED-->
+</li>
+<li class="header-nav-global__item   ">
+<a class="header-nav-global__link " title="Register" href="https://secure.telegraph.co.uk/secure/registration/?icid=generic_premiumreg_generic_generic_topnav&redirectTo=" data-tmg-dtm-nav="6-nav:https://secure.telegraph.co.uk/secure/registration/?icid=generic_premiumreg_generic_generic_topnav&amp;redirectTo=">
+<svg class="global-nav-icon user-account-icon" xmlns="http://www.w3.org/2000/svg" width="32px" height="32px" viewBox="0 0 1792 1792">
+<g>
+<path d="M895.9,1792c-120.5,0-721.9-9.6-721.9-200.1V1498c0-105.4,59.9-202.4,156.2-252.8l270-141.1c17.1-8.9,27.7-25.8,27.7-44.2
+				v-87C605.1,943.2,552.6,867.5,525,769c-30.9-26.8-48.4-64.6-48.4-105V547.9c0-30.8,10.6-60.8,30.2-85.5V317.6
+				c-2-17.2-8.7-120.8,70.1-206.8C644.3,37.3,751.6,0,895.9,0c144.5,0,251.9,37.3,319.3,110.9c78.1,85.4,72,189.4,69.9,209.4
+				l0.1,142.1c19.6,24.7,30.3,54.7,30.3,85.5V664c0,51.6-29.4,99-75.7,123.6c-22.4,59.6-52.4,115-89.3,165
+				c-5.7,7.7-11.3,14.9-16.7,21.5v88.5c0,19,11.3,36.4,29.5,45.2l289,138.4c102.2,49,165.7,147.6,165.7,257.5v88.2
+				C1618,1782.4,1016.5,1792,895.9,1792z M895.9,110.3c-110.9,0-190,24.9-235.1,74.1c-44.9,49-43.2,110.6-41.6,128.3l0.2,195.7
+				l-18.7,16.5c-7.6,6.5-11.4,14.4-11.4,23.1v116.1c0,10.5,5.9,20.4,15.6,26.4l19.3,11.9l5.4,21.7c24.6,103,85.5,179.8,97.4,194.1
+				l13.5,15.4V1060c0,59-33.5,113.2-87.3,141.4l-269.9,141.2c-59.6,31.2-96.7,90.7-96.7,155.5v93.9c18.3,22,222.1,89.9,609.2,89.9
+				c379,0,582.3-65,609.4-94.3v-83.8c0-67.6-39.3-128.4-102.5-158.6l-289.1-138.5c-57.1-27.4-92.5-82.6-92.5-144V932.9l14.4-15.7
+				c7.1-7.7,15.3-17.8,23.6-29.1c34.9-47.3,62.5-100.6,82-158.4l9.2-27.3l28-8.2c14.5-4.2,24.3-16.3,24.3-30V547.9
+				c0-8.5-4-16.7-11.1-22.8l-19.1-16.8l0.3-196.1c0.3-4.2,8-74.2-42.1-128.5C1085.6,135,1006.7,110.3,895.9,110.3z"/>
+</g>
+</svg>
+<div class="header-nav-global__link__text">Register</div>
+<!--My account btn-->
+<!--Premium btn-->
+</a>
+<!--HTML EMBED-->
+</li>
+</ul>
+</nav>
+</div>
+<div class="component-content header-nav-global__logged-and-subscriber">
+<nav class="header-nav-global__holder">
+<ul class="header-nav-global__list header-nav-global__sections">
+<li class="header-nav-global__item global-nav-search-btn">
+<a class="header-nav-global__link" title="Search" href="https://www.telegraph.co.uk/search.html" data-tmg-dtadm-nav="1-nav:https://www.telegraph.co.uk/search.html">
+<svg class="global-nav-icon global-search-icon" xmlns="http://www.w3.org/2000/svg" width="32px" height="32px" viewBox="0 0 1792 1792">
+<path d="M1516.6,1741.9l-301-602c175.2-108.6,291.9-302.6,291.9-523.9c0-340.2-275.8-616-616-616c-340.2,0-616,275.8-616,616
+	s275.8,616,616,616c79,0,154.5-14.9,224-42l301,602L1516.6,1741.9z M387.4,616c0-277.9,226.1-504,504-504s504,226.1,504,504
+	s-226.1,504-504,504S387.4,893.9,387.4,616z"/>
+</svg>
+<div class="header-nav-global__link__text">Search</div>
+</a>
+</li>
+<li class="header-nav-global__item global-nav-video-btn">
+<a class="header-nav-global__link" title="Video" href="/video/" data-tmg-dtadm-nav="2-nav:/video.html">
+<div class="header-nav-global__link__text">Video</div>
+</a>
+</li>
+<li class="header-nav-global__item global-nav-rewards-btn">
+<a class="header-nav-global__link" title="Rewards" href="/rewards/" data-tmg-dtadm-nav="3-nav:/rewards.html">
+<div class="header-nav-global__link__text">Rewards</div>
+</a>
+</li>
+</ul>
+<ul class="header-nav-global__list header-nav-global__engagement">
+<li class="header-nav-global__item my-account-btn js-has-dropdown ">
+<a class="header-nav-global__link " title="My Account" href="https://secure.telegraph.co.uk/secure/account/" data-tmg-dtm-nav="4-nav:https://secure.telegraph.co.uk/secure/account/">
+<svg class="global-nav-icon user-account-icon" xmlns="http://www.w3.org/2000/svg" width="32px" height="32px" viewBox="0 0 1792 1792">
+<g>
+<path d="M895.9,1792c-120.5,0-721.9-9.6-721.9-200.1V1498c0-105.4,59.9-202.4,156.2-252.8l270-141.1c17.1-8.9,27.7-25.8,27.7-44.2
+				v-87C605.1,943.2,552.6,867.5,525,769c-30.9-26.8-48.4-64.6-48.4-105V547.9c0-30.8,10.6-60.8,30.2-85.5V317.6
+				c-2-17.2-8.7-120.8,70.1-206.8C644.3,37.3,751.6,0,895.9,0c144.5,0,251.9,37.3,319.3,110.9c78.1,85.4,72,189.4,69.9,209.4
+				l0.1,142.1c19.6,24.7,30.3,54.7,30.3,85.5V664c0,51.6-29.4,99-75.7,123.6c-22.4,59.6-52.4,115-89.3,165
+				c-5.7,7.7-11.3,14.9-16.7,21.5v88.5c0,19,11.3,36.4,29.5,45.2l289,138.4c102.2,49,165.7,147.6,165.7,257.5v88.2
+				C1618,1782.4,1016.5,1792,895.9,1792z M895.9,110.3c-110.9,0-190,24.9-235.1,74.1c-44.9,49-43.2,110.6-41.6,128.3l0.2,195.7
+				l-18.7,16.5c-7.6,6.5-11.4,14.4-11.4,23.1v116.1c0,10.5,5.9,20.4,15.6,26.4l19.3,11.9l5.4,21.7c24.6,103,85.5,179.8,97.4,194.1
+				l13.5,15.4V1060c0,59-33.5,113.2-87.3,141.4l-269.9,141.2c-59.6,31.2-96.7,90.7-96.7,155.5v93.9c18.3,22,222.1,89.9,609.2,89.9
+				c379,0,582.3-65,609.4-94.3v-83.8c0-67.6-39.3-128.4-102.5-158.6l-289.1-138.5c-57.1-27.4-92.5-82.6-92.5-144V932.9l14.4-15.7
+				c7.1-7.7,15.3-17.8,23.6-29.1c34.9-47.3,62.5-100.6,82-158.4l9.2-27.3l28-8.2c14.5-4.2,24.3-16.3,24.3-30V547.9
+				c0-8.5-4-16.7-11.1-22.8l-19.1-16.8l0.3-196.1c0.3-4.2,8-74.2-42.1-128.5C1085.6,135,1006.7,110.3,895.9,110.3z"/>
+</g>
+</svg>
+<div class="header-nav-global__link__text">My Account</div>
+<!--My account btn-->
+<svg class="global-nav-icon nav-direction-down-icon" xmlns="http://www.w3.org/2000/svg" width="32px" height="32px" viewBox="0 0 1792 1792">
+<g>
+<polygon points="896,896 56,448 0,504 896,1400 1792,504 1736,448"/>
+</g>
+</svg>
+<svg class="global-nav-icon nav-close-icon" xmlns="http://www.w3.org/2000/svg" width="1792px" height="1792px" viewBox="0 0 1792 1792">
+<g>
+<polygon points="1792,1712.8 975.2,896 1792,79.2 1712.8,0 896,816.8 79.2,0 0,79.2 816.8,896 0,1712.8 79.2,1792 896,975.2
+			1712.8,1792"/>
+</g>
+</svg>
+<!--Premium btn-->
+</a>
+<!--HTML EMBED-->
+<div class="header-nav-global__drop-down-menu">
+<div class="header-nav-global__drop-down-menu__item ">
+<a class="header-nav-global__drop-down-menu__link" title="My details" href="https://secure.telegraph.co.uk/secure/personal/" data-tmg-dtm-nav="1-nav:https://secure.telegraph.co.uk/secure/personal/">
+<svg class="global-nav-icon" xmlns="http://www.w3.org/2000/svg" width="32px" height="32px" viewBox="0 0 1792 1792">
+<g>
+<g>
+<path d="M840,1344V784h112v560H840z M784,560l112-112l112,112L896,672L784,560z"/>
+</g>
+<path d="M896,112c209.4,0,406.3,81.6,554.4,229.6C1598.4,489.7,1680,686.6,1680,896s-81.6,406.3-229.6,554.4
+				c-148.1,148.1-345,229.6-554.4,229.6s-406.3-81.5-554.4-229.6C193.6,1302.3,112,1105.4,112,896s81.6-406.3,229.6-554.4
+				C489.7,193.6,686.6,112,896,112 M896,0C401.2,0,0,401.2,0,896s401.2,896,896,896s896-401.2,896-896S1390.8,0,896,0L896,0z"/>
+</g>
+</svg>
+<div class="header-nav-global__drop-down-menu__link__text">My details</div>
+</a>
+</div>
+<div class="header-nav-global__drop-down-menu__item ">
+<a class="header-nav-global__drop-down-menu__link" title="My newsletters" href="https://secure.telegraph.co.uk/secure/newsletters/" data-tmg-dtm-nav="2-nav:https://secure.telegraph.co.uk/secure/newsletters/">
+<svg class="global-nav-icon" xmlns="http://www.w3.org/2000/svg" width="32px" height="32px" viewBox="0 0 1792 1792">
+<g>
+<g>
+<path d="M1456,1792H336l-112-112V168L392,0h1176v1680L1456,1792z M336,1680h1120V112H448L336,224V1680z"/>
+</g>
+<g>
+<g>
+<rect x="448" y="336" width="896" height="112"/>
+</g>
+<g>
+<rect x="448" y="560" width="896" height="112"/>
+</g>
+<g>
+<rect x="448" y="784" width="448" height="112"/>
+</g>
+</g>
+</g>
+</svg>
+<div class="header-nav-global__drop-down-menu__link__text">My newsletters</div>
+</a>
+</div>
+<div class="header-nav-global__drop-down-menu__item ">
+<a class="header-nav-global__drop-down-menu__link" title="Logout" href="https://secure.telegraph.co.uk/secure/logout?redirectTo=http%3A%2F%2Fwww.telegraph.co.uk%2F" data-tmg-dtm-nav="3-nav:https://secure.telegraph.co.uk/secure/logout?redirectTo=http%3A%2F%2Fwww.telegraph.co.uk%2F">
+<svg class="global-nav-icon" xmlns="http://www.w3.org/2000/svg" width="32px" height="32px" viewBox="0 0 1792 1792">
+<g>
+<path d="M1792,1680l-96,112H448c0-56,0-57.3,0-113l1236,1V145.5V112H451V0h1228l113,110V1680z M505,390l55,56L336,838h897l0,111
+				H336l224,393l-55,57L0,894L505,390z"/>
+</g>
+</svg>
+<div class="header-nav-global__drop-down-menu__link__text">Logout</div>
+</a>
+</div>
+</div>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<script>
+(function () {
+  var links = document.querySelectorAll('.header-nav-global__link');
+	for (var i = 0; i < links.length; i++) {
+		links[i].href = tmg.updateRedirectParam(links[i].href, document.location.href);
+	}
+}());
+</script>
+<div class="header-logobar header-logobar--small component">
+<div class="component-content">
+<a class="header-logobar__link" href="https://www.telegraph.co.uk/">
+<img class="responsive-image header-logobar__img" width="320" height="55" alt="The Telegraph" data-frz-ratio="5.77" src="/content/dam/best/telegraph_OUTLINE-small.png" data-frz-src-array="[{'src':'/content/dam/best/telegraph_OUTLINE-thumbnail.png','width':140,'height':24,'percentageImageRatio':'17.14'},{'src':'/content/dam/best/telegraph_OUTLINE-xlarge.png','width':1280,'height':221,'percentageImageRatio':'17.27'},{'src':'/content/dam/best/telegraph_OUTLINE-xxlarge.png','width':1500,'height':260,'percentageImageRatio':'17.33'},{'src':'/content/dam/best/telegraph_OUTLINE-xsmall.png','width':160,'height':27,'percentageImageRatio':'16.88'},{'src':'/content/dam/best/telegraph_OUTLINE-small.png','width':320,'height':55,'percentageImageRatio':'17.19'},{'src':'/content/dam/best/telegraph_OUTLINE-large.png','width':720,'height':124,'percentageImageRatio':'17.22'},{'src':'/content/dam/best/telegraph_OUTLINE-medium.png','width':480,'height':83,'percentageImageRatio':'17.29'}]"/>
+</a>
+</div>
+</div>
+<div class="header-nav-primary header-nav-primary--short component" data-tmg-dtm-nav-area="primarynav">
+<div class="component-content">
+<nav>
+<ul class="header-nav-primary__list">
+<li class="header-nav-primary__item ">
+<a class="header-nav-primary__link " href="https://www.telegraph.co.uk/" data-tmg-dtm-nav="1-nav:https://www.telegraph.co.uk/">
+Home
+</a>
+</li>
+<li class="header-nav-primary__item ">
+<a class="header-nav-primary__link " href="/news/" data-tmg-dtm-nav="2-nav:/news.html">
+News
+</a>
+</li>
+<li class="header-nav-primary__item ">
+<a class="header-nav-primary__link " href="/sport/" data-tmg-dtm-nav="3-nav:/sport.html">
+Sport
+</a>
+</li>
+<li class="header-nav-primary__item ">
+<a class="header-nav-primary__link " href="/business/" data-tmg-dtm-nav="4-nav:/business.html">
+Business
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<!-- NAV OVERLAY BUTTON-->
+<div class="header-nav-overlay-button component">
+<div class="component-content">
+<button class="header-nav-overlay-button__button">
+<span class="header-nav-overlay-button__label">ALL SECTIONS</span>
+</button>
+</div>
+</div>
+<script>
+	RUM.mark( 'content_load_navigation' );
+</script>
+</div>
+<div class="header-headline-wrapper">
+<div class="header-breadcrumbs component">
+<div class="component-content">
+<ul class="header-breadcrumbs__list">
+<li class="header-breadcrumbs__item"><a href="/news/" class="header-breadcrumbs__link">News</a></li>
+<li class="header-breadcrumbs__item"><a href="/politics/" class="header-breadcrumbs__link">Politics</a></li>
+</ul>
+</div>
+</div>
+<div class="sponsor-slot sponsor-slot__header">
+<div class="sponsor-slot__logo-space">
+<span class="sponsor-slot__text"></span>
+<span class="sponsor-slot__logo"></span>
+</div>
+<div class="sponsor-slot__message"></div>
+</div>
+</div>
+<div class="header-nav-local  component" data-tmg-dtm-nav-area="localnav">
+<div class="component-content">
+<nav>
+<ul class="header-nav-local__list">
+<li class="header-nav-local__item ">
+<a class="header-nav-local__link " href="/brexit/" data-tmg-dtm-nav="1-nav:/brexit.html">
+Brexit
+</a>
+</li>
+<li class="header-nav-local__item ">
+<a class="header-nav-local__link " href="/opinion/" data-tmg-dtm-nav="2-nav:/opinion.html">
+Opinion
+</a>
+</li>
+<li class="header-nav-local__item ">
+<a class="header-nav-local__link " href="/conservative-party/" data-tmg-dtm-nav="3-nav:/conservative-party.html">
+Conservatives
+</a>
+</li>
+<li class="header-nav-local__item ">
+<a class="header-nav-local__link " href="/democratic-unionist-party/" data-tmg-dtm-nav="4-nav:/democratic-unionist-party.html">
+DUP
+</a>
+</li>
+<li class="header-nav-local__item ">
+<a class="header-nav-local__link " href="/labour-party/" data-tmg-dtm-nav="5-nav:/labour-party.html">
+Labour Party
+</a>
+</li>
+<li class="header-nav-local__item ">
+<a class="header-nav-local__link " href="/liberal-democrats/" data-tmg-dtm-nav="6-nav:/liberal-democrats.html">
+Lib Dems
+</a>
+</li>
+<li class="header-nav-local__item ">
+<a class="header-nav-local__link " href="/scottish-national-party/" data-tmg-dtm-nav="7-nav:/scottish-national-party.html">
+SNP
+</a>
+</li>
+<li class="header-nav-local__item ">
+<a class="header-nav-local__link " href="/uk-independence-party/" data-tmg-dtm-nav="8-nav:/uk-independence-party.html">
+Ukip
+</a>
+</li>
+<li class="header-nav-local__item ">
+<a class="header-nav-local__link " href="/us-politics/" data-tmg-dtm-nav="9-nav:/us-politics.html">
+US Politics
+</a>
+</li>
+<li class="header-nav-local__item ">
+<a class="header-nav-local__link " href="https://registration.telegraph.co.uk/newsletters/front-bench/" data-tmg-dtm-nav="10-nav:https://registration.telegraph.co.uk/newsletters/front-bench/">
+Newsletters
+</a>
+</li>
+</ul>
+<button class="header-nav-local__button">
+<span class="header-nav-local__button-text" data-no-expanded-label="More" data-expanded-label="Less">
+More
+</span>
+</button>
+</nav>
+</div>
+</div>
+</section>
+<div class="container">
+<div class="spark-slot1">
+</div>
+</div>
+</div>
+<div class="page-article container  ">
+
+    
+    
+	
+		<script id="tmg_registration_confirm_seen"></script>
+	
+<div class="row article__breadcrumb">
+<div class="breadcrumb  ">
+<nav class="breadcrumbs component  ">
+<ul class="component-content breadcrumbs__container">
+<li class="breadcrumbs__item" data-breadcrumbs--active="true">
+<a class="breadcrumbs__item-content" href="https://www.telegraph.co.uk/">Telegraph</a>
+</li>
+<li class="breadcrumbs__item" data-breadcrumbs--active="true">
+<a class="breadcrumbs__item-content" href="/news/">News</a>
+</li>
+<li class="breadcrumbs__item" data-breadcrumbs--active="true">
+<a class="breadcrumbs__item-content" href="/politics/">Politics</a>
+</li>
+</ul>
+<script type="application/ld+json" id="breadcrumb-json-ld-markup">{&#34;@context&#34;:&#34;https://schema.org&#34;,&#34;@type&#34;:&#34;BreadcrumbList&#34;,&#34;itemListElement&#34;:[{&#34;@type&#34;:&#34;ListItem&#34;,&#34;position&#34;:1,&#34;item&#34;:{&#34;@id&#34;:&#34;https://www.telegraph.co.uk/&#34;,&#34;name&#34;:&#34;Telegraph&#34;}},{&#34;@type&#34;:&#34;ListItem&#34;,&#34;position&#34;:2,&#34;item&#34;:{&#34;@id&#34;:&#34;https://www.telegraph.co.uk/news/&#34;,&#34;name&#34;:&#34;News&#34;}},{&#34;@type&#34;:&#34;ListItem&#34;,&#34;position&#34;:3,&#34;item&#34;:{&#34;@id&#34;:&#34;https://www.telegraph.co.uk/politics/&#34;,&#34;name&#34;:&#34;Politics&#34;}}]}</script>
+</nav>
+</div>
+</div>
+<main class="row article__body" itemscope="https://schema.org/Article" itemtype="https://schema.org/Article">
+<div class="article__content js-article">
+<div class="js-article-inner">
+<header>
+<div class="sponsor-slot sponsor-slot__above-headline">
+<div class="sponsor-slot__logo-space">
+<span class="sponsor-slot__text"></span>
+<span class="sponsor-slot__logo"></span>
+</div>
+<div class="sponsor-slot__message"></div>
+</div>
+<div class="headline   component ">
+<div class="component-content">
+<h1 itemprop='headline name' class="headline__heading">
+BBC presenter reveals she tried to kill herself over corporation's handling of her tax affairs
+</h1>
+<script>
+			RUM.mark( 'content_load_fmp' );
+		</script>
+</div>
+</div>
+<div class="standfirst component ">
+<div class="component-content">
+</div>
+</div>
+<div class="sponsor-slot sponsor-slot__below-headline">
+<div class="sponsor-slot__logo-space">
+<span class="sponsor-slot__text"></span>
+<span class="sponsor-slot__logo"></span>
+</div>
+<div class="sponsor-slot__message"></div>
+</div>
+<div class="article__socials">
+<aside class="social-block">
+<div class="social-block__share">
+<div class="social-share" data-social-share="{'shareButtons':{'facebook':{'networkEnable':true,'account':''},'twitter':{'networkEnable':true,'account':'Telegraph'},'pinterest':{'networkEnable':false,'account':''},'whatsapp':{'networkEnable':true,'account':''},'linkedin':{'networkEnable':false,'account':''},'email':{'networkEnable':true,'account':''}},'showCounters':false,'disableAutoClone':false,'disableStickiness':true}">
+<ul class="social-share__list">
+<li class="social-share__item social-share__facebook">
+<a href="#" target="_blank" class="social-share__button" data-social-share-button="facebook" aria-label="Share on facebook">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68 32">
+<path d="M15.72,23.67V16.16h2.52l.38-2.93h-2.9V11.36c0-.85.24-1.43,1.45-1.43h1.55V7.32a20.74,20.74,0,0,0-2.26-.12,3.53,3.53,0,0,0-3.77,3.87v2.16H10.17v2.93H12.7v7.51Z"/><polygon points="62.55 0 62.06 0.48 65.98 1.4 61.83 5.55 62.53 6.25 66.6 2.18 67.51 5.93 68 5.45 67.94 0.05 62.55 0"/><path d="M30.43,14.89h-.16a2,2,0,0,0-1.42-.52c-.66,0-1.08.26-1.08.8s.37.8,1.32,1.1c1.29.41,2,.79,2,1.91s-.76,1.91-2.31,1.91a3.7,3.7,0,0,1-2.27-.74l.38-.73H27a2.73,2.73,0,0,0,1.78.68c.79,0,1.2-.28,1.2-.9s-.35-.82-1.58-1.2-1.72-.91-1.72-1.88c0-1.14,1-1.77,2.17-1.77a2.91,2.91,0,0,1,2,.61Z"/><path d="M33.48,14.58h.08a3,3,0,0,1,2.21-1c1.25,0,1.8.61,1.8,1.83V20H36.38V15.68c0-.85-.28-1.19-1.1-1.19a2.72,2.72,0,0,0-1.76.78V20H32.33V11l1-.13h.19Z"/><path d="M39,14.1a5.17,5.17,0,0,1,2.33-.55c1.52,0,2.22.6,2.22,1.82V18.8c0,.38.18.53.42.53a.88.88,0,0,0,.33-.07h.07l.16.61a1.78,1.78,0,0,1-.9.23c-.66,0-1.07-.26-1.14-.91h-.1a2,2,0,0,1-1.78.91c-1.06,0-1.79-.52-1.79-1.63s.56-1.44,1.67-1.78l1.86-.58V15.6c0-.83-.25-1.2-1.25-1.2a3.87,3.87,0,0,0-1.68.43h-.14Zm3.36,4.56V16.84l-1.4.44c-.7.22-1,.53-1,1.09,0,.74.41.92.92.92A2.08,2.08,0,0,0,42.32,18.65Z"/><path d="M46.67,14.59a1.79,1.79,0,0,1,1.55-1,1.33,1.33,0,0,1,.61.11l-.19,1.09h-.12a1.28,1.28,0,0,0-.55-.11,1.55,1.55,0,0,0-1.29.74V20H45.48V13.74l.85-.12h.2l0,1Z"/><path d="M52.37,20.09c-1.92,0-3.06-1.26-3.06-3.32s1.27-3.23,2.79-3.23c1.85,0,2.62,1.15,2.62,3.48H50.53c.06,1.33.61,2.22,2,2.22a2.26,2.26,0,0,0,1.66-.6h.14l.36.65A3.39,3.39,0,0,1,52.37,20.09Zm1.22-3.87c0-1.21-.43-1.89-1.45-1.89s-1.52.78-1.61,2l3.06,0Z"/><path d="M65.74,7.83,65,8.56A15,15,0,0,1,52,31H16A15,15,0,0,1,16,1H52a14.89,14.89,0,0,1,7.63,2.11l.73-.73A15.9,15.9,0,0,0,52,0H16a16,16,0,1,0,0,32H52A16,16,0,0,0,65.74,7.83Z"/>
+</svg>
+</a>
+</li>
+<li class="social-share__item social-share__twitter">
+<a href="#" target="_blank" class="social-share__button" data-social-share-button="twitter" aria-label="Share on twitter">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+<path d="M12.66,23.31A10.44,10.44,0,0,0,23.17,12.81c0-.16,0-.32,0-.48A7.51,7.51,0,0,0,25,10.42a7.37,7.37,0,0,1-2.12.58A3.71,3.71,0,0,0,24.5,9a7.4,7.4,0,0,1-2.34.9,3.7,3.7,0,0,0-6.29,3.37A10.48,10.48,0,0,1,8.25,9.36,3.7,3.7,0,0,0,9.4,14.29a3.67,3.67,0,0,1-1.67-.46s0,0,0,0a3.69,3.69,0,0,0,3,3.62A3.69,3.69,0,0,1,9,17.56a3.7,3.7,0,0,0,3.45,2.56,7.41,7.41,0,0,1-4.59,1.58A7.52,7.52,0,0,1,7,21.66a10.46,10.46,0,0,0,5.66,1.66"/><path d="M29.73,7.82,29,8.55a15.07,15.07,0,1,1-5.37-5.45l.73-.73a16,16,0,1,0,5.37,5.45Z"/><polygon class="cls-1" points="26.55 0 26.06 0.48 29.98 1.4 25.83 5.55 26.53 6.25 30.6 2.18 31.51 5.93 32 5.45 31.94 0.05 26.55 0"/>
+</svg>
+</a>
+</li>
+<li class="social-share__item social-share__whatsapp">
+<a href="#" target="_blank" class="social-share__button" data-social-share-button="whatsapp" aria-label="Share on whatsapp">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+<path d="M29.73,7.82,29,8.55a15.07,15.07,0,1,1-5.37-5.45l.73-.73a16,16,0,1,0,5.37,5.45Z"/><polygon points="26.55 0 26.06 0.48 29.98 1.4 25.83 5.55 26.53 6.25 30.6 2.18 31.51 5.93 32 5.45 31.94 0.05 26.55 0"/><path d="M22.62,9.34A9.31,9.31,0,0,0,8,20.57L6.66,25.39l4.93-1.29A9.3,9.3,0,0,0,16,25.23h0A9.31,9.31,0,0,0,22.62,9.34ZM16,23.66h0a7.72,7.72,0,0,1-3.94-1.08l-.28-.17-2.93.77.78-2.85L9.49,20A7.73,7.73,0,1,1,16,23.66Zm4.24-5.79c-.23-.12-1.38-.68-1.59-.76s-.37-.12-.52.12-.6.76-.74.91-.27.17-.5.06A6.35,6.35,0,0,1,15.06,17a7,7,0,0,1-1.29-1.61c-.14-.23,0-.36.1-.47s.23-.27.35-.41a1.59,1.59,0,0,0,.23-.39.43.43,0,0,0,0-.41c-.06-.12-.52-1.26-.72-1.73s-.38-.39-.52-.4h-.45a.85.85,0,0,0-.62.29,2.61,2.61,0,0,0-.81,1.94,4.52,4.52,0,0,0,.95,2.4,10.36,10.36,0,0,0,4,3.51,13.35,13.35,0,0,0,1.33.49,3.19,3.19,0,0,0,1.46.09,2.39,2.39,0,0,0,1.57-1.11,1.94,1.94,0,0,0,.14-1.11C20.67,18,20.51,18,20.28,17.86Z"/>
+</svg>
+</a>
+</li>
+<li class="social-share__item social-share__email">
+<a href="#" target="_blank" class="social-share__button" data-social-share-button="email" aria-label="Share on email">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+<path d="M29.73,7.82,29,8.56a15.07,15.07,0,1,1-5.37-5.45l.73-.73a16,16,0,1,0,5.37,5.45Z"/><polygon class="cls-1" points="26.55 0 26.06 0.49 29.98 1.4 25.83 5.55 26.53 6.25 30.6 2.18 31.51 5.93 32 5.45 31.99 0 26.55 0"/><path d="M26,12.25V11L24.75,9.75H7.25L6,11V21l1.25,1.25h17.5L26,21V12.25Zm-1.25,7.5-2.9-5.92,2.9-1.44ZM7.25,12.33l2.9,1.45-2.9,6V12.33ZM16,16.7l4.73-2.31L24.12,21H7.87l3.4-6.66ZM24.75,11h0L16,15.31,7.25,11Z"/>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="social-block__comment">
+<div class="comment-count comment-count--article ">
+<a data-tmg-event="click" data-tmg-name="commentBtnTop" data-js="comment-count" data-options="{ 'siteId': '384104', 'articleId': 'AqXd2W2w6cnp' }" class="comment-count__link" href="#comments">
+<div class="comment-count__icon">
+<svg viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" class="svg-icon svg-icon--speechBubble ">
+<g class="svg-icon__outline">
+<g class="svg-icon__background" transform="translate(-1138.000000, -314.000000)">
+<g transform="translate(1117.000000, 314.000000)">
+<path d="M34.6856011,0 L21.3143989,0 C21.1410172,0 21,0.141017173 21,0.314398943 L21,10.3416446 C21,10.5161823 21.1410172,10.6571995 21.3143989,10.6571995 L24.3428005,10.6571995 L24.3428005,13.6867569 C24.3428005,13.8127477 24.4190885,13.9283355 24.5369881,13.9768824 C24.5751321,13.9919089 24.6167437,14 24.6571995,14 C24.738111,14 24.8190225,13.9687913 24.8791281,13.9086856 L28.1317701,10.6571995 L34.6856011,10.6571995 C34.8589828,10.6571995 35,10.5161823 35,10.3416446 L35,0.314398943 C35,0.141017173 34.8589828,0 34.6856011,0"></path>
+</g>
+</g>
+</g>
+</svg>
+</div>
+<span class="comment-count__number" data-js="comment-count__number"></span>
+</a>
+</div>
+</div>
+</aside>
+</div>
+<div class="hero-area-wrapper"><div class="leadAsset section">
+<div class="lead-asset component" itemscope itemtype="https://schema.org/ImageObject" itemprop="image">
+<meta content="1280" itemprop="width"/>
+<meta content="799" itemprop="height"/>
+<meta itemprop="url" content="https://www.telegraph.co.uk/content/dam/opinion/2018/03/07/TELEMMGLPICT000156695068-xlarge_trans_NvBQzQNjv4BqrpfQw2hJyG_yckwxPAr0go9KzD8cVu9iguqnaKUswZA.jpeg"/>
+<div class="component-content">
+<figure class="lead-asset__figure">
+<span class="lead-asset-image-container">
+<img class="responsive lead-asset__image" src="/content/dam/opinion/2018/03/07/TELEMMGLPICT000156695068_trans_NvBQzQNjv4BqrpfQw2hJyG_yckwxPAr0go9KzD8cVu9iguqnaKUswZA.jpeg?imwidth=450" srcset="/content/dam/opinion/2018/03/07/TELEMMGLPICT000156695068_trans_NvBQzQNjv4BqrpfQw2hJyG_yckwxPAr0go9KzD8cVu9iguqnaKUswZA.jpeg?imwidth=450 450w,/content/dam/opinion/2018/03/07/TELEMMGLPICT000156695068_trans_NvBQzQNjv4BqrpfQw2hJyG_yckwxPAr0go9KzD8cVu9iguqnaKUswZA.jpeg?imwidth=900 900w,/content/dam/opinion/2018/03/07/TELEMMGLPICT000156695068_trans_NvBQzQNjv4BqrpfQw2hJyG_yckwxPAr0go9KzD8cVu9iguqnaKUswZA.jpeg?imwidth=620 620w,/content/dam/opinion/2018/03/07/TELEMMGLPICT000156695068_trans_NvBQzQNjv4BqrpfQw2hJyG_yckwxPAr0go9KzD8cVu9iguqnaKUswZA.jpeg?imwidth=1240 1240w,/content/dam/opinion/2018/03/07/TELEMMGLPICT000156695068_trans_NvBQzQNjv4BqrpfQw2hJyG_yckwxPAr0go9KzD8cVu9iguqnaKUswZA.jpeg?imwidth=700 700w,/content/dam/opinion/2018/03/07/TELEMMGLPICT000156695068_trans_NvBQzQNjv4BqrpfQw2hJyG_yckwxPAr0go9KzD8cVu9iguqnaKUswZA.jpeg?imwidth=1400 1400w" alt="The BBC is accused of causing huge stress to presenters over their tax affairs" sizes="100vw,(min-width: 480px) 450px,(min-width: 730px) 700px,(min-width: 1008px) 620px"/>
+</span>
+<figcaption>
+<span itemprop="caption" class="lead-asset-caption">The BBC is accused of causing huge stress to presenters over their tax affairs</span>
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</header>
+<span id="polar-ad-article-top"></span>
+<meta itemprop="datePublished" content="2018-03-20T00:01+0000"/>
+<footer class="footer-author">
+<div class="byline component  ">
+<ul class="component-content">
+<li class="byline__author" itemscope itemtype="https://schema.org/Person" itemprop="author">
+<span class="byline__author-name" itemprop="name" content="Steven Swinford">
+<a href="/authors/steven-swinford/">Steven Swinford</a>,
+</span>
+<span class="byline__author-role" itemprop="jobTitle">Deputy Political Editor
+</span>
+</li>
+</ul>
+</div>
+<span class="article-date component   ">
+<span class="component-content">
+<time itemprop="datePublished" dateTime="2018-03-20T00:01+0000" class="article-date-published">20 March 2018 • 12:01am</time>
+</span>
+</span>
+</footer>
+
+	
+			
+					<article itemprop="articleBody" data-insert-mobile-adslot>
+					
+
+
+<div class="articleBodyText section version-2">
+	<div class="article-body-text component version-2">
+		<div class="component-content">
+			<p><span
+    class="m_first-letter m_first-letter--flagged">B</span>BC presenters attempted suicide and suffered “irreparable damage” because of <a href="https://www.telegraph.co.uk/news/2018/03/04/bbc-lying-tax-affairs-have-emails-prove-170-presenters-say/">the corporation’s “horrific” handling of their tax affairs</a>.</p>
+ 
+<p>The corporation has been accused by 21 workers, including prominent television and radio presenters, of forcing them to set up personal service companies or risk losing their jobs.</p>
+ 
+<p>Many of them have since been pursued by HMRC over tens of thousands of pounds in unpaid tax, leading to significant “mental deterioration”.</p>
+ 
+<p>One of the presenters said that it had been a factor in a recent suicide attempt, while another said that in their “darkest hours” they had considered taking their own life.</p>
+ 
+<p>Another BBC worker accused the corporation of a “brazen attempt” to...</p>
+			<div class="premium-end-content"></div>
+		</div>
+	</div>
+</div>
+
+					</article>
+				
+		
+	
+		
+		
+				
+
+
+
+
+	
+
+
+	
+	
+	
+		<div class="registration-wall">
+			<h2 class="registration-wall__headline">Register or log in to view this and other Politics articles. It&#39;s free and easy to do.</h2>
+			<div class="registration-wall__body">
+				
+  <br />
+
+  <ul>
+    <li>Join regular debates with our journalists by commenting on articles</li>
+    <li>Sign up to exclusive newsletters that give you the inside track on Westminster and Brexit</li>
+  </ul>
+
+
+			</div>
+			<div class="registration-wall__footer">
+				
+					
+					<a href="https://secure.telegraph.co.uk/secure/sign-up/?redirectTo=http%3a%2f%2fwww.telegraph.co.uk%2fpolitics%2f2018%2f03%2f20%2fbbc-presenter-reveals-tried-kill-corporations-handling-tax-affairs%2f&amp;category=politics&amp;icid=politics_hardreg_generic_channel_overlay" rel="noindex, nofollow, noopener" class="register-club btn btn-primary">Register</a>
+					<a href="https://secure.telegraph.co.uk/secure/login/?redirectTo=http%3a%2f%2fwww.telegraph.co.uk%2fpolitics%2f2018%2f03%2f20%2fbbc-presenter-reveals-tried-kill-corporations-handling-tax-affairs%2f&tags=politics,bbc,in-the-news,standard&channel=politics&amp;category=politics&amp;icid=politics_hardreg_generic_channel_overlay" rel="noindex, nofollow, noopener" class="login-default btn btn-secondary">Log in</a>
+				
+			</div>
+		</div>
+		
+	
+	
+	
+	
+	
+		
+	<div class="htmlEmbed section"><div class="html-embed component ">
+	<div class="component-content">
+		
+	</div>
+	
+</div>
+</div>
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+	
+	
+
+		
+		
+
+		
+			
+				
+			
+
+		
+		
+		
+
+		
+
+	
+<div class="listOfTags section">
+<aside class="list-of-tags component ">
+<div class="js-settings" data-limit="20"></div>
+<div class="component-content">
+<h3 class="list-of-tags__title">Related Topics</h3>
+<ul class="list-of-tags__list">
+<li class="list-of-tags__item" aria-hidden="false">
+<a class="list-of-tags__link" href="/bbc/">BBC</a>
+</li>
+<li class="list-of-tags__item" aria-hidden="true">
+<a href="#" class="list-of-tags__show-more">Show more</a>
+</li>
+</ul>
+</div>
+</aside>
+</div>
+<aside class="social-block block-heading" aria-label="Share this article">
+<div class="social-block__share">
+<div class="social-share" data-social-share="{'shareButtons':{'facebook':{'networkEnable':true,'account':''},'twitter':{'networkEnable':true,'account':'Telegraph'},'pinterest':{'networkEnable':false,'account':''},'whatsapp':{'networkEnable':true,'account':''},'linkedin':{'networkEnable':false,'account':''},'email':{'networkEnable':true,'account':''}},'showCounters':false,'disableAutoClone':false,'disableStickiness':true}">
+<ul class="social-share__list">
+<li class="social-share__item social-share__facebook">
+<a href="#" target="_blank" class="social-share__button" data-social-share-button="facebook" aria-label="Share on facebook">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68 32">
+<path d="M15.72,23.67V16.16h2.52l.38-2.93h-2.9V11.36c0-.85.24-1.43,1.45-1.43h1.55V7.32a20.74,20.74,0,0,0-2.26-.12,3.53,3.53,0,0,0-3.77,3.87v2.16H10.17v2.93H12.7v7.51Z"/><polygon points="62.55 0 62.06 0.48 65.98 1.4 61.83 5.55 62.53 6.25 66.6 2.18 67.51 5.93 68 5.45 67.94 0.05 62.55 0"/><path d="M30.43,14.89h-.16a2,2,0,0,0-1.42-.52c-.66,0-1.08.26-1.08.8s.37.8,1.32,1.1c1.29.41,2,.79,2,1.91s-.76,1.91-2.31,1.91a3.7,3.7,0,0,1-2.27-.74l.38-.73H27a2.73,2.73,0,0,0,1.78.68c.79,0,1.2-.28,1.2-.9s-.35-.82-1.58-1.2-1.72-.91-1.72-1.88c0-1.14,1-1.77,2.17-1.77a2.91,2.91,0,0,1,2,.61Z"/><path d="M33.48,14.58h.08a3,3,0,0,1,2.21-1c1.25,0,1.8.61,1.8,1.83V20H36.38V15.68c0-.85-.28-1.19-1.1-1.19a2.72,2.72,0,0,0-1.76.78V20H32.33V11l1-.13h.19Z"/><path d="M39,14.1a5.17,5.17,0,0,1,2.33-.55c1.52,0,2.22.6,2.22,1.82V18.8c0,.38.18.53.42.53a.88.88,0,0,0,.33-.07h.07l.16.61a1.78,1.78,0,0,1-.9.23c-.66,0-1.07-.26-1.14-.91h-.1a2,2,0,0,1-1.78.91c-1.06,0-1.79-.52-1.79-1.63s.56-1.44,1.67-1.78l1.86-.58V15.6c0-.83-.25-1.2-1.25-1.2a3.87,3.87,0,0,0-1.68.43h-.14Zm3.36,4.56V16.84l-1.4.44c-.7.22-1,.53-1,1.09,0,.74.41.92.92.92A2.08,2.08,0,0,0,42.32,18.65Z"/><path d="M46.67,14.59a1.79,1.79,0,0,1,1.55-1,1.33,1.33,0,0,1,.61.11l-.19,1.09h-.12a1.28,1.28,0,0,0-.55-.11,1.55,1.55,0,0,0-1.29.74V20H45.48V13.74l.85-.12h.2l0,1Z"/><path d="M52.37,20.09c-1.92,0-3.06-1.26-3.06-3.32s1.27-3.23,2.79-3.23c1.85,0,2.62,1.15,2.62,3.48H50.53c.06,1.33.61,2.22,2,2.22a2.26,2.26,0,0,0,1.66-.6h.14l.36.65A3.39,3.39,0,0,1,52.37,20.09Zm1.22-3.87c0-1.21-.43-1.89-1.45-1.89s-1.52.78-1.61,2l3.06,0Z"/><path d="M65.74,7.83,65,8.56A15,15,0,0,1,52,31H16A15,15,0,0,1,16,1H52a14.89,14.89,0,0,1,7.63,2.11l.73-.73A15.9,15.9,0,0,0,52,0H16a16,16,0,1,0,0,32H52A16,16,0,0,0,65.74,7.83Z"/>
+</svg>
+</a>
+</li>
+<li class="social-share__item social-share__twitter">
+<a href="#" target="_blank" class="social-share__button" data-social-share-button="twitter" aria-label="Share on twitter">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+<path d="M12.66,23.31A10.44,10.44,0,0,0,23.17,12.81c0-.16,0-.32,0-.48A7.51,7.51,0,0,0,25,10.42a7.37,7.37,0,0,1-2.12.58A3.71,3.71,0,0,0,24.5,9a7.4,7.4,0,0,1-2.34.9,3.7,3.7,0,0,0-6.29,3.37A10.48,10.48,0,0,1,8.25,9.36,3.7,3.7,0,0,0,9.4,14.29a3.67,3.67,0,0,1-1.67-.46s0,0,0,0a3.69,3.69,0,0,0,3,3.62A3.69,3.69,0,0,1,9,17.56a3.7,3.7,0,0,0,3.45,2.56,7.41,7.41,0,0,1-4.59,1.58A7.52,7.52,0,0,1,7,21.66a10.46,10.46,0,0,0,5.66,1.66"/><path d="M29.73,7.82,29,8.55a15.07,15.07,0,1,1-5.37-5.45l.73-.73a16,16,0,1,0,5.37,5.45Z"/><polygon class="cls-1" points="26.55 0 26.06 0.48 29.98 1.4 25.83 5.55 26.53 6.25 30.6 2.18 31.51 5.93 32 5.45 31.94 0.05 26.55 0"/>
+</svg>
+</a>
+</li>
+<li class="social-share__item social-share__whatsapp">
+<a href="#" target="_blank" class="social-share__button" data-social-share-button="whatsapp" aria-label="Share on whatsapp">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+<path d="M29.73,7.82,29,8.55a15.07,15.07,0,1,1-5.37-5.45l.73-.73a16,16,0,1,0,5.37,5.45Z"/><polygon points="26.55 0 26.06 0.48 29.98 1.4 25.83 5.55 26.53 6.25 30.6 2.18 31.51 5.93 32 5.45 31.94 0.05 26.55 0"/><path d="M22.62,9.34A9.31,9.31,0,0,0,8,20.57L6.66,25.39l4.93-1.29A9.3,9.3,0,0,0,16,25.23h0A9.31,9.31,0,0,0,22.62,9.34ZM16,23.66h0a7.72,7.72,0,0,1-3.94-1.08l-.28-.17-2.93.77.78-2.85L9.49,20A7.73,7.73,0,1,1,16,23.66Zm4.24-5.79c-.23-.12-1.38-.68-1.59-.76s-.37-.12-.52.12-.6.76-.74.91-.27.17-.5.06A6.35,6.35,0,0,1,15.06,17a7,7,0,0,1-1.29-1.61c-.14-.23,0-.36.1-.47s.23-.27.35-.41a1.59,1.59,0,0,0,.23-.39.43.43,0,0,0,0-.41c-.06-.12-.52-1.26-.72-1.73s-.38-.39-.52-.4h-.45a.85.85,0,0,0-.62.29,2.61,2.61,0,0,0-.81,1.94,4.52,4.52,0,0,0,.95,2.4,10.36,10.36,0,0,0,4,3.51,13.35,13.35,0,0,0,1.33.49,3.19,3.19,0,0,0,1.46.09,2.39,2.39,0,0,0,1.57-1.11,1.94,1.94,0,0,0,.14-1.11C20.67,18,20.51,18,20.28,17.86Z"/>
+</svg>
+</a>
+</li>
+<li class="social-share__item social-share__email">
+<a href="#" target="_blank" class="social-share__button" data-social-share-button="email" aria-label="Share on email">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+<path d="M29.73,7.82,29,8.56a15.07,15.07,0,1,1-5.37-5.45l.73-.73a16,16,0,1,0,5.37,5.45Z"/><polygon class="cls-1" points="26.55 0 26.06 0.49 29.98 1.4 25.83 5.55 26.53 6.25 30.6 2.18 31.51 5.93 32 5.45 31.99 0 26.55 0"/><path d="M26,12.25V11L24.75,9.75H7.25L6,11V21l1.25,1.25h17.5L26,21V12.25Zm-1.25,7.5-2.9-5.92,2.9-1.44ZM7.25,12.33l2.9,1.45-2.9,6V12.33ZM16,16.7l4.73-2.31L24.12,21H7.87l3.4-6.66ZM24.75,11h0L16,15.31,7.25,11Z"/>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="social-block__comment">
+<div class="comment-count comment-count--article ">
+<a data-tmg-event="click" data-tmg-name="commentBtnTop" data-js="comment-count" data-options="{ 'siteId': '384104', 'articleId': 'AqXd2W2w6cnp' }" class="comment-count__link" href="#comments">
+<div class="comment-count__icon">
+<svg viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" class="svg-icon svg-icon--speechBubble ">
+<g class="svg-icon__outline">
+<g class="svg-icon__background" transform="translate(-1138.000000, -314.000000)">
+<g transform="translate(1117.000000, 314.000000)">
+<path d="M34.6856011,0 L21.3143989,0 C21.1410172,0 21,0.141017173 21,0.314398943 L21,10.3416446 C21,10.5161823 21.1410172,10.6571995 21.3143989,10.6571995 L24.3428005,10.6571995 L24.3428005,13.6867569 C24.3428005,13.8127477 24.4190885,13.9283355 24.5369881,13.9768824 C24.5751321,13.9919089 24.6167437,14 24.6571995,14 C24.738111,14 24.8190225,13.9687913 24.8791281,13.9086856 L28.1317701,10.6571995 L34.6856011,10.6571995 C34.8589828,10.6571995 35,10.5161823 35,10.3416446 L35,0.314398943 C35,0.141017173 34.8589828,0 34.6856011,0"></path>
+</g>
+</g>
+</g>
+</svg>
+</div>
+<span class="comment-count__number" data-js="comment-count__number"></span>
+</a>
+</div>
+</div>
+</aside>
+<div class="facebookLike section">
+<aside class="social-follow">
+<header class="social-follow__header">
+<h3 class="block-heading"><span class="block-heading__label">Follow Telegraph Politics</span></h3>
+</header>
+<ul class="social-follow__list">
+<li class="social-follow__item social-follow__facebook">
+<a class="social-follow__link" href="https://www.facebook.com/TelePolitics" target="_blank" rel="noopener noreferrer" data-social-follow-link="facebook">
+<span class="social-follow__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+<path d="M11,32V17.4H6.1v-5.7H11V7.5C11,2.6,14,0,18.3,0c2.1,0,3.8,0.2,4.4,0.2v5.1h-3c-2.4,0-2.8,1.1-2.8,2.8v3.6h5.6l-0.6,5.6 h-4.9V32H11z"/>
+</svg>
+</span>
+<span class="social-follow__label">
+Follow on Facebook
+</span>
+</a>
+</li>
+<li class="social-follow__item social-follow__twitter">
+<a class="social-follow__link" href="https://twitter.com/TelePolitics" target="_blank" rel="noopener noreferrer" data-social-follow-link="twitter">
+<span class="social-follow__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+<path d="M10.2,29.6c12,0,18.5-9.9,18.5-18.5v-0.8C30,9.4,31.1,8.2,32,6.9c-1.2,0.5-2.4,0.9-3.7,1.1c1.4-0.8,2.4-2.1,2.9-3.6 C29.9,5.2,28.5,5.7,27,6c-1.2-1.3-3-2-4.8-2c-3.6,0-6.5,2.9-6.5,6.5c0,0.5,0.1,1,0.2,1.5C10.7,11.6,5.8,9.2,2.4,5.1 c-0.6,1-0.9,2.1-0.9,3.3c0,2.2,1.1,4.2,2.9,5.5c-1.1,0-2.1-0.3-3-0.8v0.1c0,3.1,2.2,5.7,5.2,6.4c-0.5,0.2-1.1,0.2-1.7,0.2 c-0.4,0-0.8-0.1-1.2-0.2C4.5,22.2,7,24,9.8,24c-2.4,1.7-5.2,2.7-8.1,2.7H0C3.1,28.6,6.6,29.6,10.2,29.6"/>
+</svg>
+</span>
+<span class="social-follow__label">
+Follow on Twitter
+</span>
+</a>
+</li>
+</ul>
+</aside>
+</div>
+<aside id="comments" class="comments-block" data-options="{&#34;authorMode&#34;:false,&#34;articleSiteId&#34;:&#34;Mzg0MTA0OkFxWGQyVzJ3NmNucA==&#34;,&#34;articleCommentingConfig&#34;:true,&#34;networkConfig&#34;:{&#34;network&#34;:&#34;telegraphmedia.fyre.co&#34;},&#34;convConfig&#34;:{&#34;siteId&#34;:&#34;384104&#34;,&#34;articleId&#34;:&#34;AqXd2W2w6cnp&#34;,&#34;collectionMeta&#34;:&#34;eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcnRpY2xlSWQiOiJBcVhkMlcydzZjbnAiLCJpc3MiOiJ1cm46bGl2ZWZ5cmU6dGVsZWdyYXBobWVkaWEuZnlyZS5jbzpzaXRlXHUwMDNkMzg0MTA0IiwidGl0bGUiOiJCQkMgcHJlc2VudGVyIHJldmVhbHMgc2hlIHRyaWVkIHRvIGtpbGwgaGVyc2VsZiBvdmVyIGNvcnBvcmF0aW9uXHUwMDI3cyBoYW5kbGluZyBvZiBoZXIgdGF4IGFmZmFpcnMiLCJ0eXBlIjoibGl2ZWNvbW1lbnRzIiwidXJsIjoiaHR0cDovL3d3dy50ZWxlZ3JhcGguY28udWsvcG9saXRpY3MvMjAxOC8wMy8yMC9iYmMtcHJlc2VudGVyLXJldmVhbHMtdHJpZWQta2lsbC1jb3Jwb3JhdGlvbnMtaGFuZGxpbmctdGF4LWFmZmFpcnMifQ.hp_FQOnfVbELiFcnT_2NN-IIESi1fscVg02enJeATeo&#34;,&#34;checksum&#34;:&#34;7ba934b884b56a729331f745920241ac&#34;,&#34;title&#34;:&#34;BBC presenter reveals she tried to kill herself over corporation&#39;s handling of her tax affairs&#34;}}">
+<div class="comments-block__init">
+<button class="comments-block__load" data-label-loading="Loading...">Show comments</button>
+</div>
+<div class="comments-block__main">
+<div class="comments-block__login-cta-container">
+<div class="comments-block__login-prompt">
+If you would like to add a comment, please register or log in
+</div>
+<div class="comments-block__cta-buttons">
+<a href="https://secure.telegraph.co.uk/secure/registration?redirectTo=" class="comments-block__cta-button comments-block__cta-button--register">Register</a>
+<a href="https://secure.telegraph.co.uk/secure/login/?redirectTo=" class="comments-block__cta-button comments-block__cta-button--login">Log in</a>
+</div>
+</div>
+<div class="comments-block__house-rules">Please review our <a class="comments-block__house-rules-link" href="/commenting-policy/">commenting policy</a></div>
+<div class="livefyre-content"></div>
+</div>
+</aside>
+</div>
+</div>
+<aside class="article__spark">
+<span id="polar-ad-article-bottom"></span>
+</aside>
+<aside class="article__sidebar" itemscope itemtype="https://schema.org/WPSideBar">
+<div class="article__sidebar-inner js-sidebar">
+<div class="sidebar-sponsored">
+</div>
+<div class="spark-slot2">
+</div>
+<div class="js-snippet-sidebar snippet-sidebar">
+<div class="component-content">
+<div id="advert_tmg_mpu" class="js-advert advert " data-adType="mpu"></div>
+<div class="snippetReference section">
+<div class="snippet component ">
+<div class="component-content">
+<div class="htmlEmbed section"><div class="html-embed component ">
+<div class="component-content">
+<div id="li-recommendation-widget" data-title="More Stories"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<aside class="social-follow">
+<header class="social-follow__header">
+<h3 class="block-heading"><span class="block-heading__label">Follow Telegraph Politics</span></h3>
+</header>
+<ul class="social-follow__list">
+<li class="social-follow__item social-follow__facebook">
+<a class="social-follow__link" href="https://www.facebook.com/TelePolitics" target="_blank" rel="noopener noreferrer" data-social-follow-link="facebook">
+<span class="social-follow__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+<path d="M11,32V17.4H6.1v-5.7H11V7.5C11,2.6,14,0,18.3,0c2.1,0,3.8,0.2,4.4,0.2v5.1h-3c-2.4,0-2.8,1.1-2.8,2.8v3.6h5.6l-0.6,5.6 h-4.9V32H11z"/>
+</svg>
+</span>
+<span class="social-follow__label">
+Follow on Facebook
+</span>
+</a>
+</li>
+<li class="social-follow__item social-follow__twitter">
+<a class="social-follow__link" href="https://twitter.com/TelePolitics" target="_blank" rel="noopener noreferrer" data-social-follow-link="twitter">
+<span class="social-follow__icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+<path d="M10.2,29.6c12,0,18.5-9.9,18.5-18.5v-0.8C30,9.4,31.1,8.2,32,6.9c-1.2,0.5-2.4,0.9-3.7,1.1c1.4-0.8,2.4-2.1,2.9-3.6 C29.9,5.2,28.5,5.7,27,6c-1.2-1.3-3-2-4.8-2c-3.6,0-6.5,2.9-6.5,6.5c0,0.5,0.1,1,0.2,1.5C10.7,11.6,5.8,9.2,2.4,5.1 c-0.6,1-0.9,2.1-0.9,3.3c0,2.2,1.1,4.2,2.9,5.5c-1.1,0-2.1-0.3-3-0.8v0.1c0,3.1,2.2,5.7,5.2,6.4c-0.5,0.2-1.1,0.2-1.7,0.2 c-0.4,0-0.8-0.1-1.2-0.2C4.5,22.2,7,24,9.8,24c-2.4,1.7-5.2,2.7-8.1,2.7H0C3.1,28.6,6.6,29.6,10.2,29.6"/>
+</svg>
+</span>
+<span class="social-follow__label">
+Follow on Twitter
+</span>
+</a>
+</li>
+</ul>
+</aside>
+<div class="snippet component ">
+</div>
+
+<div class="html-embed component html-embed-noniab">
+<div class="component-content">
+</div>
+</div>
+
+<div id="advert_tmg_hpg" class="js-advert advert " data-adType="hpg"></div>
+</div>
+</div>
+</div>
+</aside>
+</main>
+<aside class="row article__related">
+<div class="snippet-onward-journey">
+<div class="component-content">
+<div class="col">
+<div class="list version-5 section">
+<div class="list-of-entities component version-5  " data-timelabels="false" data-timebreaks="false" data-tmg-dtm-nav-area="list">
+<div class="component-header">
+<h2 class="component-heading"><a href="/politics/">Politics latest</a>
+</h2>
+</div>
+<div class="js-list-of-entities component-content" data-options="{'url': '', 'noArrows': false, 'sliderMobileOnly': 'false'}">
+<ol class="js-list-of-entities__container list-of-entities__container">
+<li class="list-of-entities__item " data-timestamp="1521598504673">
+<div class="list-of-entities__item-link">
+<a href="/politics/2018/03/21/nhs-staff-set-pay-rise-trade-unions-agree-deal-wage-cap-lifted/" class="list-of-entities__item-image-container" tabindex="-1">
+<div class="responsive-image list-of-entities__item-image " data-width="297" data-height="185" data-alt="Nurses, midwives, healthcare assistants and paramedics are set for a 6.5 per cent pay increase over three years" data-frz-ratio="1.60" data-src="/content/dam/politics/2018/03/21/TELEMMGLPICT000154511043-small_trans_NvBQzQNjv4BqdTSan_LNDPP3QEi8Lkq48cm66Dsv9ACvsGijAjUzMgc.jpeg" data-frz-src-array="[{'src':'/content/dam/politics/2018/03/21/TELEMMGLPICT000154511043-xsmall_trans_NvBQzQNjv4BqdTSan_LNDPP3QEi8Lkq48cm66Dsv9ACvsGijAjUzMgc.jpeg','width':148,'height':92,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqdTSan_LNDPP3QEi8Lkq48cm66Dsv9ACvsGijAjUzMgc','percentageImageRatio':'62.16'},{'src':'/content/dam/politics/2018/03/21/TELEMMGLPICT000154511043-xlarge_trans_NvBQzQNjv4BqdTSan_LNDPP3QEi8Lkq48cm66Dsv9ACvsGijAjUzMgc.jpeg','width':1189,'height':743,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqdTSan_LNDPP3QEi8Lkq48cm66Dsv9ACvsGijAjUzMgc','percentageImageRatio':'62.49'},{'src':'/content/dam/politics/2018/03/21/TELEMMGLPICT000154511043-medium_trans_NvBQzQNjv4BqdTSan_LNDPP3QEi8Lkq48cm66Dsv9ACvsGijAjUzMgc.jpeg','width':446,'height':278,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqdTSan_LNDPP3QEi8Lkq48cm66Dsv9ACvsGijAjUzMgc','percentageImageRatio':'62.33'},{'src':'/content/dam/politics/2018/03/21/TELEMMGLPICT000154511043-thumbnail_trans_NvBQzQNjv4BqdTSan_LNDPP3QEi8Lkq48cm66Dsv9ACvsGijAjUzMgc.jpeg','width':130,'height':81,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqdTSan_LNDPP3QEi8Lkq48cm66Dsv9ACvsGijAjUzMgc','percentageImageRatio':'62.31'},{'src':'/content/dam/politics/2018/03/21/TELEMMGLPICT000154511043-small_trans_NvBQzQNjv4BqdTSan_LNDPP3QEi8Lkq48cm66Dsv9ACvsGijAjUzMgc.jpeg','width':297,'height':185,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqdTSan_LNDPP3QEi8Lkq48cm66Dsv9ACvsGijAjUzMgc','percentageImageRatio':'62.29'},{'src':'/content/dam/politics/2018/03/21/TELEMMGLPICT000154511043-large_trans_NvBQzQNjv4BqdTSan_LNDPP3QEi8Lkq48cm66Dsv9ACvsGijAjUzMgc.jpeg','width':669,'height':418,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqdTSan_LNDPP3QEi8Lkq48cm66Dsv9ACvsGijAjUzMgc','percentageImageRatio':'62.48'}]" style="padding-bottom:62.29%;" data-asset-type="article">
+<noscript>
+<img src="/content/dam/politics/2018/03/21/TELEMMGLPICT000154511043-small_trans_NvBQzQNjv4BqdTSan_LNDPP3QEi8Lkq48cm66Dsv9ACvsGijAjUzMgc.jpeg" alt="Nurses, midwives, healthcare assistants and paramedics are set for a 6.5 per cent pay increase over three years" width="297" height="185" class="responsive-image--fallback"/>
+</noscript>
+</div>
+</a>
+<div class="list-of-entities__item-body">
+<span class="m_meta-property">
+<time class="m_meta-property__date" title="21 Mar 2018, 2:15am" datetime="2018-03-21T02:15:04" itemprop="datePublished" pubdate>
+<span class="m_meta-property__date-date">21 Mar 2018</span><span class="m_meta-property__date-separator">,</span>
+<span class="m_meta-property__date-time">2:15am</span>
+</time>
+</span>
+<h3 class="list-of-entities__item-body-headline">
+<a href="/politics/2018/03/21/nhs-staff-set-pay-rise-trade-unions-agree-deal-wage-cap-lifted/">NHS staff set for pay rise as trade unions agree on deal for wage cap to be lifted</a>
+</h3>
+</div>
+</div>
+</li>
+<li class="list-of-entities__item " data-timestamp="1521586655083">
+<div class="list-of-entities__item-link">
+<a href="/politics/2018/03/20/spain-threatens-hold-brexit-transition-deal-gibraltar-veto/" class="list-of-entities__item-image-container" tabindex="-1">
+<div class="responsive-image list-of-entities__item-image " data-width="320" data-height="199" data-alt="Spain is threatening to hold up Brexit transition deal over its &#39;veto&#39;. " data-frz-ratio="1.60" data-src="/content/dam/politics/2018/03/20/TELEMMGLPICT000134413820-small_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg" data-frz-src-array="[{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000134413820-xsmall_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg','width':160,'height':99,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08','percentageImageRatio':'61.88'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000134413820-xlarge_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg','width':1280,'height':799,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08','percentageImageRatio':'62.42'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000134413820-medium_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg','width':480,'height':299,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08','percentageImageRatio':'62.29'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000134413820-thumbnail_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg','width':140,'height':87,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08','percentageImageRatio':'62.14'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000134413820-small_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg','width':320,'height':199,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08','percentageImageRatio':'62.19'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000134413820-large_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg','width':720,'height':449,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08','percentageImageRatio':'62.36'}]" style="padding-bottom:62.19%;" data-asset-type="article">
+<noscript>
+<img src="/content/dam/politics/2018/03/20/TELEMMGLPICT000134413820-small_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg" alt="Spain is threatening to hold up Brexit transition deal over its &#39;veto&#39;. " width="320" height="199" class="responsive-image--fallback"/>
+</noscript>
+</div>
+</a>
+<div class="list-of-entities__item-body">
+<span class="m_meta-property">
+<time class="m_meta-property__date" title="20 Mar 2018, 10:57pm" datetime="2018-03-20T10:57:35" itemprop="datePublished" pubdate>
+<span class="m_meta-property__date-date">20 Mar 2018</span><span class="m_meta-property__date-separator">,</span>
+<span class="m_meta-property__date-time">10:57pm</span>
+</time>
+</span>
+<h3 class="list-of-entities__item-body-headline">
+<a href="/politics/2018/03/20/spain-threatens-hold-brexit-transition-deal-gibraltar-veto/">Spain threatens to hold up Brexit transition deal over Gibraltar veto</a>
+</h3>
+</div>
+</div>
+</li>
+<li class="list-of-entities__item " data-timestamp="1521583200000">
+<div class="list-of-entities__item-link">
+<a href="/politics/2018/03/20/cutting-migration-could-boost-economic-growth-official-forecaster/" class="list-of-entities__item-image-container" tabindex="-1">
+<div class="responsive-image list-of-entities__item-image " data-width="320" data-height="199" data-alt="Robert Chote, chairman of the Office for Budget Responsibility" data-frz-ratio="1.60" data-src="/content/dam/business/2018/02/06/TELEMMGLPICT000001233077_1-small_trans_NvBQzQNjv4BqKkzUGe8q7_A35DWV6BPUcb-uLBykIJ5ZRR_c-flrW4M.jpeg" data-frz-src-array="[{'src':'/content/dam/business/2018/02/06/TELEMMGLPICT000001233077_1-xsmall_trans_NvBQzQNjv4BqKkzUGe8q7_A35DWV6BPUcb-uLBykIJ5ZRR_c-flrW4M.jpeg','width':160,'height':99,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqKkzUGe8q7_A35DWV6BPUcb-uLBykIJ5ZRR_c-flrW4M','percentageImageRatio':'61.88'},{'src':'/content/dam/business/2018/02/06/TELEMMGLPICT000001233077_1-xlarge_trans_NvBQzQNjv4BqKkzUGe8q7_A35DWV6BPUcb-uLBykIJ5ZRR_c-flrW4M.jpeg','width':1280,'height':799,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqKkzUGe8q7_A35DWV6BPUcb-uLBykIJ5ZRR_c-flrW4M','percentageImageRatio':'62.42'},{'src':'/content/dam/business/2018/02/06/TELEMMGLPICT000001233077_1-medium_trans_NvBQzQNjv4BqKkzUGe8q7_A35DWV6BPUcb-uLBykIJ5ZRR_c-flrW4M.jpeg','width':480,'height':299,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqKkzUGe8q7_A35DWV6BPUcb-uLBykIJ5ZRR_c-flrW4M','percentageImageRatio':'62.29'},{'src':'/content/dam/business/2018/02/06/TELEMMGLPICT000001233077_1-thumbnail_trans_NvBQzQNjv4BqKkzUGe8q7_A35DWV6BPUcb-uLBykIJ5ZRR_c-flrW4M.jpeg','width':140,'height':87,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqKkzUGe8q7_A35DWV6BPUcb-uLBykIJ5ZRR_c-flrW4M','percentageImageRatio':'62.14'},{'src':'/content/dam/business/2018/02/06/TELEMMGLPICT000001233077_1-small_trans_NvBQzQNjv4BqKkzUGe8q7_A35DWV6BPUcb-uLBykIJ5ZRR_c-flrW4M.jpeg','width':320,'height':199,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqKkzUGe8q7_A35DWV6BPUcb-uLBykIJ5ZRR_c-flrW4M','percentageImageRatio':'62.19'},{'src':'/content/dam/business/2018/02/06/TELEMMGLPICT000001233077_1-large_trans_NvBQzQNjv4BqKkzUGe8q7_A35DWV6BPUcb-uLBykIJ5ZRR_c-flrW4M.jpeg','width':720,'height':449,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqKkzUGe8q7_A35DWV6BPUcb-uLBykIJ5ZRR_c-flrW4M','percentageImageRatio':'62.36'}]" style="padding-bottom:62.19%;" data-asset-type="article">
+<noscript>
+<img src="/content/dam/business/2018/02/06/TELEMMGLPICT000001233077_1-small_trans_NvBQzQNjv4BqKkzUGe8q7_A35DWV6BPUcb-uLBykIJ5ZRR_c-flrW4M.jpeg" alt="Robert Chote, chairman of the Office for Budget Responsibility" width="320" height="199" class="responsive-image--fallback"/>
+</noscript>
+</div>
+</a>
+<div class="list-of-entities__item-body">
+<span class="m_meta-property">
+<time class="m_meta-property__date" title="20 Mar 2018, 10:00pm" datetime="2018-03-20T10:00:00" itemprop="datePublished" pubdate>
+<span class="m_meta-property__date-date">20 Mar 2018</span><span class="m_meta-property__date-separator">,</span>
+<span class="m_meta-property__date-time">10:00pm</span>
+</time>
+</span>
+<h3 class="list-of-entities__item-body-headline">
+<a href="/politics/2018/03/20/cutting-migration-could-boost-economic-growth-official-forecaster/">Cutting migration could boost economic growth, official forecaster says</a>
+</h3>
+</div>
+</div>
+</li>
+<li class="list-of-entities__item " data-timestamp="1521583020194">
+<div class="list-of-entities__item-link">
+<a href="/politics/2018/03/20/corbyn-mccluskey-tighten-grip-labour-party-ally-jennie-formby/" class="list-of-entities__item-image-container" tabindex="-1">
+<div class="responsive-image list-of-entities__item-image " data-width="320" data-height="199" data-alt="Jennie Formby at the Labour headquarters in central London after she was appointed as the party&#39;s new general secretary" data-frz-ratio="1.60" data-src="/content/dam/politics/2018/03/20/TELEMMGLPICT000157956806-small_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg" data-frz-src-array="[{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000157956806-xsmall_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg','width':160,'height':99,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08','percentageImageRatio':'61.88'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000157956806-xlarge_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg','width':1280,'height':799,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08','percentageImageRatio':'62.42'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000157956806-medium_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg','width':480,'height':299,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08','percentageImageRatio':'62.29'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000157956806-thumbnail_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg','width':140,'height':87,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08','percentageImageRatio':'62.14'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000157956806-small_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg','width':320,'height':199,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08','percentageImageRatio':'62.19'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000157956806-large_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg','width':720,'height':449,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08','percentageImageRatio':'62.36'}]" style="padding-bottom:62.19%;" data-asset-type="article">
+<noscript>
+<img src="/content/dam/politics/2018/03/20/TELEMMGLPICT000157956806-small_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg" alt="Jennie Formby at the Labour headquarters in central London after she was appointed as the party&#39;s new general secretary" width="320" height="199" class="responsive-image--fallback"/>
+</noscript>
+</div>
+</a>
+<div class="list-of-entities__item-body">
+<span class="m_meta-property">
+<time class="m_meta-property__date" title="20 Mar 2018, 9:57pm" datetime="2018-03-20T09:57:00" itemprop="datePublished" pubdate>
+<span class="m_meta-property__date-date">20 Mar 2018</span><span class="m_meta-property__date-separator">,</span>
+<span class="m_meta-property__date-time">9:57pm</span>
+</time>
+</span>
+<h3 class="list-of-entities__item-body-headline">
+<a href="/politics/2018/03/20/corbyn-mccluskey-tighten-grip-labour-party-ally-jennie-formby/">Corbyn and McCluskey tighten grip on Labour party as ally Jennie Formby appointed party&#39;s new general secretary</a>
+</h3>
+</div>
+</div>
+</li>
+<li class="list-of-entities__item  comment premium" data-timestamp="1521581400000">
+<div class="list-of-entities__item-link">
+<a href="/politics/2018/03/20/britain-ireland-can-sort-border-issue-resolved-trickier-problems/" class="list-of-entities__item-image-container" tabindex="-1">
+<div class="responsive-image list-of-entities__item-image " data-width="277" data-height="173" data-alt="Comment: A pedestrian walks past a billboard in west Belfast on December 8, 2017 erected by Republican Party Sinn Fein calling for a special status for northern Ireland with respect to Brexit " data-frz-ratio="1.60" data-src="/content/dam/politics/2018/03/20/TELEMMGLPICT000157857348-small_trans_NvBQzQNjv4BqyWpBy-fni92heetr3tbm7qaAqcfQcNNU9wB1mYhms7A.jpeg" data-frz-src-array="[{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000157857348-xsmall_trans_NvBQzQNjv4BqyWpBy-fni92heetr3tbm7qaAqcfQcNNU9wB1mYhms7A.jpeg','width':138,'height':86,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqyWpBy-fni92heetr3tbm7qaAqcfQcNNU9wB1mYhms7A','percentageImageRatio':'62.32'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000157857348-xlarge_trans_NvBQzQNjv4BqyWpBy-fni92heetr3tbm7qaAqcfQcNNU9wB1mYhms7A.jpeg','width':1110,'height':693,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqyWpBy-fni92heetr3tbm7qaAqcfQcNNU9wB1mYhms7A','percentageImageRatio':'62.43'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000157857348-medium_trans_NvBQzQNjv4BqyWpBy-fni92heetr3tbm7qaAqcfQcNNU9wB1mYhms7A.jpeg','width':416,'height':260,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqyWpBy-fni92heetr3tbm7qaAqcfQcNNU9wB1mYhms7A','percentageImageRatio':'62.5'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000157857348-thumbnail_trans_NvBQzQNjv4BqyWpBy-fni92heetr3tbm7qaAqcfQcNNU9wB1mYhms7A.jpeg','width':121,'height':75,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqyWpBy-fni92heetr3tbm7qaAqcfQcNNU9wB1mYhms7A','percentageImageRatio':'61.98'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000157857348-small_trans_NvBQzQNjv4BqyWpBy-fni92heetr3tbm7qaAqcfQcNNU9wB1mYhms7A.jpeg','width':277,'height':173,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqyWpBy-fni92heetr3tbm7qaAqcfQcNNU9wB1mYhms7A','percentageImageRatio':'62.45'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000157857348-large_trans_NvBQzQNjv4BqyWpBy-fni92heetr3tbm7qaAqcfQcNNU9wB1mYhms7A.jpeg','width':624,'height':390,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqyWpBy-fni92heetr3tbm7qaAqcfQcNNU9wB1mYhms7A','percentageImageRatio':'62.5'}]" style="padding-bottom:62.45%;" data-asset-type="article">
+<noscript>
+<img src="/content/dam/politics/2018/03/20/TELEMMGLPICT000157857348-small_trans_NvBQzQNjv4BqyWpBy-fni92heetr3tbm7qaAqcfQcNNU9wB1mYhms7A.jpeg" alt="A pedestrian walks past a billboard in west Belfast on December 8, 2017 erected by Republican Party Sinn Fein calling for a special status for northern Ireland with respect to Brexit " width="277" height="173" class="responsive-image--fallback"/>
+</noscript>
+</div>
+</a>
+<div class="list-of-entities__item-body">
+<span class="m_meta-property">
+<time class="m_meta-property__date" title="20 Mar 2018, 9:30pm" datetime="2018-03-20T09:30:00" itemprop="datePublished" pubdate>
+<span class="m_meta-property__date-date">20 Mar 2018</span><span class="m_meta-property__date-separator">,</span>
+<span class="m_meta-property__date-time">9:30pm</span>
+</time>
+</span>
+<h3 class="list-of-entities__item-body-headline">
+<a href="/politics/2018/03/20/britain-ireland-can-sort-border-issue-resolved-trickier-problems/"><span class="sr-only">Comment: </span>Britain and Ireland can sort out the border issue. They&#39;ve resolved trickier problems in the past </a>
+</h3>
+<div class="list-of-entities__item-author-name">
+Philip Johnston
+</div>
+<span class="premium-label">Premium</span>
+</div>
+<div class="list-of-entities__item-author-image">
+<div class="list-of-entities__item-author-image-container">
+<img class="responsive-image " width="320" height="320" alt="Philip Johnston" data-frz-ratio="1.00" src="/content/dam/Author%20photos/Philip_Johnston-small.png" data-frz-src-array="[{'src':'/content/dam/Author%20photos/Philip_Johnston-thumbnail.png','width':140,'height':140,'percentageImageRatio':'100'},{'src':'/content/dam/Author%20photos/Philip_Johnston-xlarge.png','width':1280,'height':1280,'percentageImageRatio':'100'},{'src':'/content/dam/Author%20photos/Philip_Johnston-xxlarge.png','width':1500,'height':1500,'percentageImageRatio':'100'},{'src':'/content/dam/Author%20photos/Philip_Johnston-xsmall.png','width':160,'height':160,'percentageImageRatio':'100'},{'src':'/content/dam/Author%20photos/Philip_Johnston-small.png','width':320,'height':320,'percentageImageRatio':'100'},{'src':'/content/dam/Author%20photos/Philip_Johnston-large.png','width':720,'height':720,'percentageImageRatio':'100'},{'src':'/content/dam/Author%20photos/Philip_Johnston-medium.png','width':480,'height':480,'percentageImageRatio':'100'}]"/>
+</div>
+</div>
+</div>
+</li>
+<li class="list-of-entities__item " data-timestamp="1521581400000">
+<div class="list-of-entities__item-link">
+<a href="/politics/2018/03/20/charities-could-forced-close-unions-make-pay-staff-sleep-job/" class="list-of-entities__item-image-container" tabindex="-1">
+<div class="responsive-image list-of-entities__item-image " data-width="320" data-height="200" data-alt="Samanthan Cameron, wife of former PM David Cameron, at a Mencap event" data-frz-ratio="1.60" data-src="/content/dam/politics/2018/03/20/Mencap-small_trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg.jpg" data-frz-src-array="[{'src':'/content/dam/politics/2018/03/20/Mencap-xsmall_trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg.jpg','width':160,'height':100,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg','percentageImageRatio':'62.5'},{'src':'/content/dam/politics/2018/03/20/Mencap-xlarge_trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg.jpg','width':1280,'height':800,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg','percentageImageRatio':'62.5'},{'src':'/content/dam/politics/2018/03/20/Mencap-medium_trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg.jpg','width':480,'height':300,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg','percentageImageRatio':'62.5'},{'src':'/content/dam/politics/2018/03/20/Mencap-thumbnail_trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg','percentageImageRatio':'62.14'},{'src':'/content/dam/politics/2018/03/20/Mencap-small_trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg.jpg','width':320,'height':200,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg','percentageImageRatio':'62.5'},{'src':'/content/dam/politics/2018/03/20/Mencap-large_trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg.jpg','width':720,'height':450,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg','percentageImageRatio':'62.5'}]" style="padding-bottom:62.5%;" data-asset-type="article">
+<noscript>
+<img src="/content/dam/politics/2018/03/20/Mencap-small_trans_NvBQzQNjv4BqtGQB12KHxxQCrwnTZkX0nwgWqwm85JEWpGVhFb46TTg.jpg" alt="Samanthan Cameron, wife of former PM David Cameron, at a Mencap event" width="320" height="200" class="responsive-image--fallback"/>
+</noscript>
+</div>
+</a>
+<div class="list-of-entities__item-body">
+<span class="m_meta-property">
+<time class="m_meta-property__date" title="20 Mar 2018, 9:30pm" datetime="2018-03-20T09:30:00" itemprop="datePublished" pubdate>
+<span class="m_meta-property__date-date">20 Mar 2018</span><span class="m_meta-property__date-separator">,</span>
+<span class="m_meta-property__date-time">9:30pm</span>
+</time>
+</span>
+<h3 class="list-of-entities__item-body-headline">
+<a href="/politics/2018/03/20/charities-could-forced-close-unions-make-pay-staff-sleep-job/">
+Charities &#39;could be forced to close&#39; if unions make them pay staff to sleep on the job</a>
+</h3>
+</div>
+</div>
+</li>
+<li class="list-of-entities__item " data-timestamp="1521580500000">
+<div class="list-of-entities__item-link">
+<a href="/tv/2018/03/20/great-celebrity-bake-episode-3-review-jamie-laing-heir-mcvities/" class="list-of-entities__item-image-container" tabindex="-1">
+<div class="responsive-image list-of-entities__item-image " data-width="320" data-height="199" data-alt="Sandi Toksvig, Prue Leith and Paul Hollywood with Made in Chelsea&#39;s Jamie Laing" data-frz-ratio="1.60" data-src="/content/dam/tv/2018/03/20/TELEMMGLPICT000157216241-small_trans_NvBQzQNjv4BqaoMNi4kgGP0fXgnKocWr3ENXpI3M5YOpD9gt2A8e_oA.jpeg" data-frz-src-array="[{'src':'/content/dam/tv/2018/03/20/TELEMMGLPICT000157216241-xsmall_trans_NvBQzQNjv4BqaoMNi4kgGP0fXgnKocWr3ENXpI3M5YOpD9gt2A8e_oA.jpeg','width':160,'height':99,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqaoMNi4kgGP0fXgnKocWr3ENXpI3M5YOpD9gt2A8e_oA','percentageImageRatio':'61.88'},{'src':'/content/dam/tv/2018/03/20/TELEMMGLPICT000157216241-xlarge_trans_NvBQzQNjv4BqaoMNi4kgGP0fXgnKocWr3ENXpI3M5YOpD9gt2A8e_oA.jpeg','width':1280,'height':799,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqaoMNi4kgGP0fXgnKocWr3ENXpI3M5YOpD9gt2A8e_oA','percentageImageRatio':'62.42'},{'src':'/content/dam/tv/2018/03/20/TELEMMGLPICT000157216241-medium_trans_NvBQzQNjv4BqaoMNi4kgGP0fXgnKocWr3ENXpI3M5YOpD9gt2A8e_oA.jpeg','width':480,'height':299,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqaoMNi4kgGP0fXgnKocWr3ENXpI3M5YOpD9gt2A8e_oA','percentageImageRatio':'62.29'},{'src':'/content/dam/tv/2018/03/20/TELEMMGLPICT000157216241-thumbnail_trans_NvBQzQNjv4BqaoMNi4kgGP0fXgnKocWr3ENXpI3M5YOpD9gt2A8e_oA.jpeg','width':140,'height':87,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqaoMNi4kgGP0fXgnKocWr3ENXpI3M5YOpD9gt2A8e_oA','percentageImageRatio':'62.14'},{'src':'/content/dam/tv/2018/03/20/TELEMMGLPICT000157216241-small_trans_NvBQzQNjv4BqaoMNi4kgGP0fXgnKocWr3ENXpI3M5YOpD9gt2A8e_oA.jpeg','width':320,'height':199,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqaoMNi4kgGP0fXgnKocWr3ENXpI3M5YOpD9gt2A8e_oA','percentageImageRatio':'62.19'},{'src':'/content/dam/tv/2018/03/20/TELEMMGLPICT000157216241-large_trans_NvBQzQNjv4BqaoMNi4kgGP0fXgnKocWr3ENXpI3M5YOpD9gt2A8e_oA.jpeg','width':720,'height':449,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqaoMNi4kgGP0fXgnKocWr3ENXpI3M5YOpD9gt2A8e_oA','percentageImageRatio':'62.36'}]" style="padding-bottom:62.19%;" data-asset-type="article">
+<noscript>
+<img src="/content/dam/tv/2018/03/20/TELEMMGLPICT000157216241-small_trans_NvBQzQNjv4BqaoMNi4kgGP0fXgnKocWr3ENXpI3M5YOpD9gt2A8e_oA.jpeg" alt="Sandi Toksvig, Prue Leith and Paul Hollywood with Made in Chelsea&#39;s Jamie Laing" width="320" height="199" class="responsive-image--fallback"/>
+</noscript>
+</div>
+</a>
+<div class="list-of-entities__item-body">
+<span class="m_meta-property">
+<time class="m_meta-property__date" title="20 Mar 2018, 9:15pm" datetime="2018-03-20T09:15:00" itemprop="datePublished" pubdate>
+<span class="m_meta-property__date-date">20 Mar 2018</span><span class="m_meta-property__date-separator">,</span>
+<span class="m_meta-property__date-time">9:15pm</span>
+</time>
+</span>
+<h3 class="list-of-entities__item-body-headline">
+<a href="/tv/2018/03/20/great-celebrity-bake-episode-3-review-jamie-laing-heir-mcvities/">The Great Celebrity Bake Off, episode 3, review: Jamie Laing, heir to the McVitie&#39;s fortune, bakes the worst cake ever </a>
+</h3>
+<div class="entity-property component entity-property-stars">
+<div class="component-content">
+<span class="entity-property-container" itemprop="reviewRating" itemscope="https://schema.org/Rating" itemtype="https://schema.org/Rating">
+<meta itemprop="ratingValue" content="4"/>
+<span class="entity-property-numeric-score">4</span>
+<span class="entity-property-numeric-bar">
+<span class="entity-property-numeric-bar-item is-active"></span>
+<span class="entity-property-numeric-bar-item is-active"></span>
+<span class="entity-property-numeric-bar-item is-active"></span>
+<span class="entity-property-numeric-bar-item is-active"></span>
+<span class="entity-property-numeric-bar-item"></span>
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="list-of-entities__item  premium" data-timestamp="1521573629037">
+<div class="list-of-entities__item-link">
+<a href="/politics/2018/03/20/angela-merkel-says-ireland-has-full-support-brexit-border-issue/" class="list-of-entities__item-image-container" tabindex="-1">
+<div class="responsive-image list-of-entities__item-image " data-width="273" data-height="170" data-alt="German Chancellor Angela Merkel and Irish Prime Minister Leo Varadkar" data-frz-ratio="1.60" data-src="/content/dam/politics/2018/03/20/TELEMMGLPICT000157949453-small_trans_NvBQzQNjv4BqHXhJ7c3Cpkz93dURO8DHfHz8afr01YMSHewHS_kOhFM.jpeg" data-frz-src-array="[{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000157949453-xsmall_trans_NvBQzQNjv4BqHXhJ7c3Cpkz93dURO8DHfHz8afr01YMSHewHS_kOhFM.jpeg','width':136,'height':85,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqHXhJ7c3Cpkz93dURO8DHfHz8afr01YMSHewHS_kOhFM','percentageImageRatio':'62.5'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000157949453-xlarge_trans_NvBQzQNjv4BqHXhJ7c3Cpkz93dURO8DHfHz8afr01YMSHewHS_kOhFM.jpeg','width':1095,'height':684,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqHXhJ7c3Cpkz93dURO8DHfHz8afr01YMSHewHS_kOhFM','percentageImageRatio':'62.47'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000157949453-medium_trans_NvBQzQNjv4BqHXhJ7c3Cpkz93dURO8DHfHz8afr01YMSHewHS_kOhFM.jpeg','width':410,'height':256,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqHXhJ7c3Cpkz93dURO8DHfHz8afr01YMSHewHS_kOhFM','percentageImageRatio':'62.44'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000157949453-thumbnail_trans_NvBQzQNjv4BqHXhJ7c3Cpkz93dURO8DHfHz8afr01YMSHewHS_kOhFM.jpeg','width':119,'height':74,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqHXhJ7c3Cpkz93dURO8DHfHz8afr01YMSHewHS_kOhFM','percentageImageRatio':'62.18'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000157949453-small_trans_NvBQzQNjv4BqHXhJ7c3Cpkz93dURO8DHfHz8afr01YMSHewHS_kOhFM.jpeg','width':273,'height':170,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqHXhJ7c3Cpkz93dURO8DHfHz8afr01YMSHewHS_kOhFM','percentageImageRatio':'62.27'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000157949453-large_trans_NvBQzQNjv4BqHXhJ7c3Cpkz93dURO8DHfHz8afr01YMSHewHS_kOhFM.jpeg','width':615,'height':384,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqHXhJ7c3Cpkz93dURO8DHfHz8afr01YMSHewHS_kOhFM','percentageImageRatio':'62.44'}]" style="padding-bottom:62.27%;" data-asset-type="article">
+<noscript>
+<img src="/content/dam/politics/2018/03/20/TELEMMGLPICT000157949453-small_trans_NvBQzQNjv4BqHXhJ7c3Cpkz93dURO8DHfHz8afr01YMSHewHS_kOhFM.jpeg" alt="German Chancellor Angela Merkel and Irish Prime Minister Leo Varadkar" width="273" height="170" class="responsive-image--fallback"/>
+</noscript>
+</div>
+</a>
+<div class="list-of-entities__item-body">
+<span class="m_meta-property">
+<time class="m_meta-property__date" title="20 Mar 2018, 7:20pm" datetime="2018-03-20T07:20:29" itemprop="datePublished" pubdate>
+<span class="m_meta-property__date-date">20 Mar 2018</span><span class="m_meta-property__date-separator">,</span>
+<span class="m_meta-property__date-time">7:20pm</span>
+</time>
+</span>
+<h3 class="list-of-entities__item-body-headline">
+<a href="/politics/2018/03/20/angela-merkel-says-ireland-has-full-support-brexit-border-issue/">Angela Merkel says Ireland has her &#39;full support&#39; on Brexit border issue</a>
+</h3>
+<span class="premium-label">Premium</span>
+</div>
+</div>
+</li>
+<li class="list-of-entities__item " data-timestamp="1521572914992">
+<div class="list-of-entities__item-link">
+<a href="/politics/2018/03/20/tory-peers-proposal-include-litter-picking-national-curriculum/" class="list-of-entities__item-image-container" tabindex="-1">
+<div class="responsive-image list-of-entities__item-image " data-width="320" data-height="200" data-alt="Children pick up litter" data-frz-ratio="1.60" data-src="/content/dam/politics/2018/03/20/TELEMMGLPICT000091846627-small_trans_NvBQzQNjv4BqGGw_fvcmF0SUFCNAbmVvB2NwIQNrrF9UFR4ve57Kz38.jpeg" data-frz-src-array="[{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000091846627-xsmall_trans_NvBQzQNjv4BqGGw_fvcmF0SUFCNAbmVvB2NwIQNrrF9UFR4ve57Kz38.jpeg','width':160,'height':100,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqGGw_fvcmF0SUFCNAbmVvB2NwIQNrrF9UFR4ve57Kz38','percentageImageRatio':'62.5'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000091846627-xlarge_trans_NvBQzQNjv4BqGGw_fvcmF0SUFCNAbmVvB2NwIQNrrF9UFR4ve57Kz38.jpeg','width':1280,'height':800,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqGGw_fvcmF0SUFCNAbmVvB2NwIQNrrF9UFR4ve57Kz38','percentageImageRatio':'62.5'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000091846627-medium_trans_NvBQzQNjv4BqGGw_fvcmF0SUFCNAbmVvB2NwIQNrrF9UFR4ve57Kz38.jpeg','width':480,'height':300,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqGGw_fvcmF0SUFCNAbmVvB2NwIQNrrF9UFR4ve57Kz38','percentageImageRatio':'62.5'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000091846627-thumbnail_trans_NvBQzQNjv4BqGGw_fvcmF0SUFCNAbmVvB2NwIQNrrF9UFR4ve57Kz38.jpeg','width':140,'height':87,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqGGw_fvcmF0SUFCNAbmVvB2NwIQNrrF9UFR4ve57Kz38','percentageImageRatio':'62.14'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000091846627-small_trans_NvBQzQNjv4BqGGw_fvcmF0SUFCNAbmVvB2NwIQNrrF9UFR4ve57Kz38.jpeg','width':320,'height':200,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqGGw_fvcmF0SUFCNAbmVvB2NwIQNrrF9UFR4ve57Kz38','percentageImageRatio':'62.5'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000091846627-large_trans_NvBQzQNjv4BqGGw_fvcmF0SUFCNAbmVvB2NwIQNrrF9UFR4ve57Kz38.jpeg','width':720,'height':450,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqGGw_fvcmF0SUFCNAbmVvB2NwIQNrrF9UFR4ve57Kz38','percentageImageRatio':'62.5'}]" style="padding-bottom:62.5%;" data-asset-type="article">
+<noscript>
+<img src="/content/dam/politics/2018/03/20/TELEMMGLPICT000091846627-small_trans_NvBQzQNjv4BqGGw_fvcmF0SUFCNAbmVvB2NwIQNrrF9UFR4ve57Kz38.jpeg" alt="Children pick up litter" width="320" height="200" class="responsive-image--fallback"/>
+</noscript>
+</div>
+</a>
+<div class="list-of-entities__item-body">
+<span class="m_meta-property">
+<time class="m_meta-property__date" title="20 Mar 2018, 7:08pm" datetime="2018-03-20T07:08:34" itemprop="datePublished" pubdate>
+<span class="m_meta-property__date-date">20 Mar 2018</span><span class="m_meta-property__date-separator">,</span>
+<span class="m_meta-property__date-time">7:08pm</span>
+</time>
+</span>
+<h3 class="list-of-entities__item-body-headline">
+<a href="/politics/2018/03/20/tory-peers-proposal-include-litter-picking-national-curriculum/">Tory peer&#39;s proposal to include litter picking in the National Curriculum blasted for being &#39;foolish&#39;</a>
+</h3>
+</div>
+</div>
+</li>
+<li class="list-of-entities__item " data-timestamp="1521572523414">
+<div class="list-of-entities__item-link">
+<a href="/politics/2018/03/20/jeremy-corbyn-russia-must-given-novichok-sample-would-still/" class="list-of-entities__item-image-container" tabindex="-1">
+<div class="responsive-image list-of-entities__item-image " data-width="320" data-height="200" data-alt="Jeremy Corbyn has said he would still do business with Vladimir Putin" data-frz-ratio="1.60" data-src="/content/dam/politics/2018/03/18/TELEMMGLPICT000109628115-small_trans_NvBQzQNjv4BqjIwIjDXBmcU79gdGK1cNflKnkkt7KGahg0-olobyDjY.jpeg" data-frz-src-array="[{'src':'/content/dam/politics/2018/03/18/TELEMMGLPICT000109628115-xsmall_trans_NvBQzQNjv4BqjIwIjDXBmcU79gdGK1cNflKnkkt7KGahg0-olobyDjY.jpeg','width':160,'height':100,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqjIwIjDXBmcU79gdGK1cNflKnkkt7KGahg0-olobyDjY','percentageImageRatio':'62.5'},{'src':'/content/dam/politics/2018/03/18/TELEMMGLPICT000109628115-xlarge_trans_NvBQzQNjv4BqjIwIjDXBmcU79gdGK1cNflKnkkt7KGahg0-olobyDjY.jpeg','width':1280,'height':800,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqjIwIjDXBmcU79gdGK1cNflKnkkt7KGahg0-olobyDjY','percentageImageRatio':'62.5'},{'src':'/content/dam/politics/2018/03/18/TELEMMGLPICT000109628115-medium_trans_NvBQzQNjv4BqjIwIjDXBmcU79gdGK1cNflKnkkt7KGahg0-olobyDjY.jpeg','width':480,'height':300,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqjIwIjDXBmcU79gdGK1cNflKnkkt7KGahg0-olobyDjY','percentageImageRatio':'62.5'},{'src':'/content/dam/politics/2018/03/18/TELEMMGLPICT000109628115-thumbnail_trans_NvBQzQNjv4BqjIwIjDXBmcU79gdGK1cNflKnkkt7KGahg0-olobyDjY.jpeg','width':140,'height':87,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqjIwIjDXBmcU79gdGK1cNflKnkkt7KGahg0-olobyDjY','percentageImageRatio':'62.14'},{'src':'/content/dam/politics/2018/03/18/TELEMMGLPICT000109628115-small_trans_NvBQzQNjv4BqjIwIjDXBmcU79gdGK1cNflKnkkt7KGahg0-olobyDjY.jpeg','width':320,'height':200,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqjIwIjDXBmcU79gdGK1cNflKnkkt7KGahg0-olobyDjY','percentageImageRatio':'62.5'},{'src':'/content/dam/politics/2018/03/18/TELEMMGLPICT000109628115-large_trans_NvBQzQNjv4BqjIwIjDXBmcU79gdGK1cNflKnkkt7KGahg0-olobyDjY.jpeg','width':720,'height':450,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqjIwIjDXBmcU79gdGK1cNflKnkkt7KGahg0-olobyDjY','percentageImageRatio':'62.5'}]" style="padding-bottom:62.5%;" data-asset-type="article">
+<noscript>
+<img src="/content/dam/politics/2018/03/18/TELEMMGLPICT000109628115-small_trans_NvBQzQNjv4BqjIwIjDXBmcU79gdGK1cNflKnkkt7KGahg0-olobyDjY.jpeg" alt="Jeremy Corbyn has said he would still do business with Vladimir Putin" width="320" height="200" class="responsive-image--fallback"/>
+</noscript>
+</div>
+</a>
+<div class="list-of-entities__item-body">
+<span class="m_meta-property">
+<time class="m_meta-property__date" title="20 Mar 2018, 7:02pm" datetime="2018-03-20T07:02:03" itemprop="datePublished" pubdate>
+<span class="m_meta-property__date-date">20 Mar 2018</span><span class="m_meta-property__date-separator">,</span>
+<span class="m_meta-property__date-time">7:02pm</span>
+</time>
+</span>
+<h3 class="list-of-entities__item-body-headline">
+<a href="/politics/2018/03/20/jeremy-corbyn-russia-must-given-novichok-sample-would-still/">Jeremy Corbyn mocked by his own MPs after claiming Russia should be given the right to test nerve agent itself</a>
+</h3>
+</div>
+</div>
+</li>
+<li class="list-of-entities__item " data-timestamp="1521570875722">
+<div class="list-of-entities__item-link">
+<a href="/politics/2018/03/20/michael-gove-threatens-eu-consequences-pillage-uk-waters-sub/" class="list-of-entities__item-image-container" tabindex="-1">
+<div class="responsive-image list-of-entities__item-image " data-width="320" data-height="199" data-alt="Environment Secretary Michael Gove" data-frz-ratio="1.60" data-src="/content/dam/politics/2018/03/01/TELEMMGLPICT000155960863-small_trans_NvBQzQNjv4BqDNdC_SyJQQ4BBcVMoM9Z3Jlx9G-qNIuzzo4z9ZZy7-8.jpeg" data-frz-src-array="[{'src':'/content/dam/politics/2018/03/01/TELEMMGLPICT000155960863-xsmall_trans_NvBQzQNjv4BqDNdC_SyJQQ4BBcVMoM9Z3Jlx9G-qNIuzzo4z9ZZy7-8.jpeg','width':160,'height':99,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqDNdC_SyJQQ4BBcVMoM9Z3Jlx9G-qNIuzzo4z9ZZy7-8','percentageImageRatio':'61.88'},{'src':'/content/dam/politics/2018/03/01/TELEMMGLPICT000155960863-xlarge_trans_NvBQzQNjv4BqDNdC_SyJQQ4BBcVMoM9Z3Jlx9G-qNIuzzo4z9ZZy7-8.jpeg','width':1280,'height':799,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqDNdC_SyJQQ4BBcVMoM9Z3Jlx9G-qNIuzzo4z9ZZy7-8','percentageImageRatio':'62.42'},{'src':'/content/dam/politics/2018/03/01/TELEMMGLPICT000155960863-medium_trans_NvBQzQNjv4BqDNdC_SyJQQ4BBcVMoM9Z3Jlx9G-qNIuzzo4z9ZZy7-8.jpeg','width':480,'height':299,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqDNdC_SyJQQ4BBcVMoM9Z3Jlx9G-qNIuzzo4z9ZZy7-8','percentageImageRatio':'62.29'},{'src':'/content/dam/politics/2018/03/01/TELEMMGLPICT000155960863-thumbnail_trans_NvBQzQNjv4BqDNdC_SyJQQ4BBcVMoM9Z3Jlx9G-qNIuzzo4z9ZZy7-8.jpeg','width':140,'height':87,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqDNdC_SyJQQ4BBcVMoM9Z3Jlx9G-qNIuzzo4z9ZZy7-8','percentageImageRatio':'62.14'},{'src':'/content/dam/politics/2018/03/01/TELEMMGLPICT000155960863-small_trans_NvBQzQNjv4BqDNdC_SyJQQ4BBcVMoM9Z3Jlx9G-qNIuzzo4z9ZZy7-8.jpeg','width':320,'height':199,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqDNdC_SyJQQ4BBcVMoM9Z3Jlx9G-qNIuzzo4z9ZZy7-8','percentageImageRatio':'62.19'},{'src':'/content/dam/politics/2018/03/01/TELEMMGLPICT000155960863-large_trans_NvBQzQNjv4BqDNdC_SyJQQ4BBcVMoM9Z3Jlx9G-qNIuzzo4z9ZZy7-8.jpeg','width':720,'height':449,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqDNdC_SyJQQ4BBcVMoM9Z3Jlx9G-qNIuzzo4z9ZZy7-8','percentageImageRatio':'62.36'}]" style="padding-bottom:62.19%;" data-asset-type="article">
+<noscript>
+<img src="/content/dam/politics/2018/03/01/TELEMMGLPICT000155960863-small_trans_NvBQzQNjv4BqDNdC_SyJQQ4BBcVMoM9Z3Jlx9G-qNIuzzo4z9ZZy7-8.jpeg" alt="Environment Secretary Michael Gove" width="320" height="199" class="responsive-image--fallback"/>
+</noscript>
+</div>
+</a>
+<div class="list-of-entities__item-body">
+<span class="m_meta-property">
+<time class="m_meta-property__date" title="20 Mar 2018, 6:34pm" datetime="2018-03-20T06:34:35" itemprop="datePublished" pubdate>
+<span class="m_meta-property__date-date">20 Mar 2018</span><span class="m_meta-property__date-separator">,</span>
+<span class="m_meta-property__date-time">6:34pm</span>
+</time>
+</span>
+<h3 class="list-of-entities__item-body-headline">
+<a href="/politics/2018/03/20/michael-gove-threatens-eu-consequences-pillage-uk-waters-sub/">Michael Gove threatens EU with &#39;consequences&#39; if they pillage UK waters during &#39;sub-optimal&#39; Brexit transition </a>
+</h3>
+</div>
+</div>
+</li>
+<li class="list-of-entities__item  comment premium" data-timestamp="1521569141563">
+<div class="list-of-entities__item-link">
+<a href="/politics/2018/03/20/fishermen-sold-river-remainer-rife-government/" class="list-of-entities__item-image-container" tabindex="-1">
+<div class="responsive-image list-of-entities__item-image " data-width="320" data-height="199" data-alt="Comment: The Fishing for Leave fishing boat Flotilla heading up the Thames with Nigel Farage, from Butler&#39;s Wharf to the Palace of Westminste" data-frz-ratio="1.60" data-src="/content/dam/politics/2018/03/20/TELEMMGLPICT000100756343-small_trans_NvBQzQNjv4BqejMVNjZ2Bv6EA7I5e4mELy5twttbUiN55rbZOKJP4mY.jpeg" data-frz-src-array="[{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000100756343-xsmall_trans_NvBQzQNjv4BqejMVNjZ2Bv6EA7I5e4mELy5twttbUiN55rbZOKJP4mY.jpeg','width':160,'height':99,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqejMVNjZ2Bv6EA7I5e4mELy5twttbUiN55rbZOKJP4mY','percentageImageRatio':'61.88'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000100756343-xlarge_trans_NvBQzQNjv4BqejMVNjZ2Bv6EA7I5e4mELy5twttbUiN55rbZOKJP4mY.jpeg','width':1280,'height':799,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqejMVNjZ2Bv6EA7I5e4mELy5twttbUiN55rbZOKJP4mY','percentageImageRatio':'62.42'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000100756343-medium_trans_NvBQzQNjv4BqejMVNjZ2Bv6EA7I5e4mELy5twttbUiN55rbZOKJP4mY.jpeg','width':480,'height':299,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqejMVNjZ2Bv6EA7I5e4mELy5twttbUiN55rbZOKJP4mY','percentageImageRatio':'62.29'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000100756343-thumbnail_trans_NvBQzQNjv4BqejMVNjZ2Bv6EA7I5e4mELy5twttbUiN55rbZOKJP4mY.jpeg','width':140,'height':87,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqejMVNjZ2Bv6EA7I5e4mELy5twttbUiN55rbZOKJP4mY','percentageImageRatio':'62.14'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000100756343-small_trans_NvBQzQNjv4BqejMVNjZ2Bv6EA7I5e4mELy5twttbUiN55rbZOKJP4mY.jpeg','width':320,'height':199,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqejMVNjZ2Bv6EA7I5e4mELy5twttbUiN55rbZOKJP4mY','percentageImageRatio':'62.19'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000100756343-large_trans_NvBQzQNjv4BqejMVNjZ2Bv6EA7I5e4mELy5twttbUiN55rbZOKJP4mY.jpeg','width':720,'height':449,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqejMVNjZ2Bv6EA7I5e4mELy5twttbUiN55rbZOKJP4mY','percentageImageRatio':'62.36'}]" style="padding-bottom:62.19%;" data-asset-type="article">
+<noscript>
+<img src="/content/dam/politics/2018/03/20/TELEMMGLPICT000100756343-small_trans_NvBQzQNjv4BqejMVNjZ2Bv6EA7I5e4mELy5twttbUiN55rbZOKJP4mY.jpeg" alt="The Fishing for Leave fishing boat Flotilla heading up the Thames with Nigel Farage, from Butler&#39;s Wharf to the Palace of Westminste" width="320" height="199" class="responsive-image--fallback"/>
+</noscript>
+</div>
+</a>
+<div class="list-of-entities__item-body">
+<span class="m_meta-property">
+<time class="m_meta-property__date" title="20 Mar 2018, 6:05pm" datetime="2018-03-20T06:05:41" itemprop="datePublished" pubdate>
+<span class="m_meta-property__date-date">20 Mar 2018</span><span class="m_meta-property__date-separator">,</span>
+<span class="m_meta-property__date-time">6:05pm</span>
+</time>
+</span>
+<h3 class="list-of-entities__item-body-headline">
+<a href="/politics/2018/03/20/fishermen-sold-river-remainer-rife-government/"><span class="sr-only">Comment: </span>Our fishermen are being sold down the river by this Remainer-rife Government </a>
+</h3>
+<div class="list-of-entities__item-author-name">
+Nigel Farage
+</div>
+<span class="premium-label">Premium</span>
+</div>
+<div class="list-of-entities__item-author-image">
+<div class="list-of-entities__item-author-image-container">
+<img class="responsive-image " width="320" height="320" alt="Nigel Farage" data-frz-ratio="1.00" src="/content/dam/Portal%20Curated/nigel-farage1-small.png" data-frz-src-array="[{'src':'/content/dam/Portal%20Curated/nigel-farage1-thumbnail.png','width':140,'height':140,'percentageImageRatio':'100'},{'src':'/content/dam/Portal%20Curated/nigel-farage1-xlarge.png','width':1280,'height':1280,'percentageImageRatio':'100'},{'src':'/content/dam/Portal%20Curated/nigel-farage1-xxlarge.png','width':1500,'height':1500,'percentageImageRatio':'100'},{'src':'/content/dam/Portal%20Curated/nigel-farage1-xsmall.png','width':160,'height':160,'percentageImageRatio':'100'},{'src':'/content/dam/Portal%20Curated/nigel-farage1-small.png','width':320,'height':320,'percentageImageRatio':'100'},{'src':'/content/dam/Portal%20Curated/nigel-farage1-large.png','width':720,'height':720,'percentageImageRatio':'100'},{'src':'/content/dam/Portal%20Curated/nigel-farage1-medium.png','width':480,'height':480,'percentageImageRatio':'100'}]"/>
+</div>
+</div>
+</div>
+</li>
+<li class="list-of-entities__item  comment premium" data-timestamp="1521568126631">
+<div class="list-of-entities__item-link">
+<a href="/politics/2018/03/20/ruth-davidson-must-choose-devil-deep-blue-sea-brexit-fisheries/" class="list-of-entities__item-image-container" tabindex="-1">
+<div class="responsive-image list-of-entities__item-image " data-width="319" data-height="199" data-alt="Comment: Fishing" data-frz-ratio="1.60" data-src="/content/dam/politics/2018/02/27/TELEMMGLPICT000148674217-small_trans_NvBQzQNjv4Bq7Ie8PkSw6zJj0WOAbK6siUqxYMpFvkH0i-0P7ycN7Bs.jpeg" data-frz-src-array="[{'src':'/content/dam/politics/2018/02/27/TELEMMGLPICT000148674217-xsmall_trans_NvBQzQNjv4Bq7Ie8PkSw6zJj0WOAbK6siUqxYMpFvkH0i-0P7ycN7Bs.jpeg','width':159,'height':99,'imageCropTransformSuffix':'trans_NvBQzQNjv4Bq7Ie8PkSw6zJj0WOAbK6siUqxYMpFvkH0i-0P7ycN7Bs','percentageImageRatio':'62.26'},{'src':'/content/dam/politics/2018/02/27/TELEMMGLPICT000148674217-xlarge_trans_NvBQzQNjv4Bq7Ie8PkSw6zJj0WOAbK6siUqxYMpFvkH0i-0P7ycN7Bs.jpeg','width':1278,'height':799,'imageCropTransformSuffix':'trans_NvBQzQNjv4Bq7Ie8PkSw6zJj0WOAbK6siUqxYMpFvkH0i-0P7ycN7Bs','percentageImageRatio':'62.52'},{'src':'/content/dam/politics/2018/02/27/TELEMMGLPICT000148674217-medium_trans_NvBQzQNjv4Bq7Ie8PkSw6zJj0WOAbK6siUqxYMpFvkH0i-0P7ycN7Bs.jpeg','width':479,'height':299,'imageCropTransformSuffix':'trans_NvBQzQNjv4Bq7Ie8PkSw6zJj0WOAbK6siUqxYMpFvkH0i-0P7ycN7Bs','percentageImageRatio':'62.42'},{'src':'/content/dam/politics/2018/02/27/TELEMMGLPICT000148674217-thumbnail_trans_NvBQzQNjv4Bq7Ie8PkSw6zJj0WOAbK6siUqxYMpFvkH0i-0P7ycN7Bs.jpeg','width':139,'height':86,'imageCropTransformSuffix':'trans_NvBQzQNjv4Bq7Ie8PkSw6zJj0WOAbK6siUqxYMpFvkH0i-0P7ycN7Bs','percentageImageRatio':'61.87'},{'src':'/content/dam/politics/2018/02/27/TELEMMGLPICT000148674217-small_trans_NvBQzQNjv4Bq7Ie8PkSw6zJj0WOAbK6siUqxYMpFvkH0i-0P7ycN7Bs.jpeg','width':319,'height':199,'imageCropTransformSuffix':'trans_NvBQzQNjv4Bq7Ie8PkSw6zJj0WOAbK6siUqxYMpFvkH0i-0P7ycN7Bs','percentageImageRatio':'62.38'},{'src':'/content/dam/politics/2018/02/27/TELEMMGLPICT000148674217-large_trans_NvBQzQNjv4Bq7Ie8PkSw6zJj0WOAbK6siUqxYMpFvkH0i-0P7ycN7Bs.jpeg','width':719,'height':449,'imageCropTransformSuffix':'trans_NvBQzQNjv4Bq7Ie8PkSw6zJj0WOAbK6siUqxYMpFvkH0i-0P7ycN7Bs','percentageImageRatio':'62.45'}]" style="padding-bottom:62.38%;" data-asset-type="article">
+<noscript>
+<img src="/content/dam/politics/2018/02/27/TELEMMGLPICT000148674217-small_trans_NvBQzQNjv4Bq7Ie8PkSw6zJj0WOAbK6siUqxYMpFvkH0i-0P7ycN7Bs.jpeg" alt="Fishing" width="319" height="199" class="responsive-image--fallback"/>
+</noscript>
+</div>
+</a>
+<div class="list-of-entities__item-body">
+<span class="m_meta-property">
+<time class="m_meta-property__date" title="20 Mar 2018, 5:48pm" datetime="2018-03-20T05:48:46" itemprop="datePublished" pubdate>
+<span class="m_meta-property__date-date">20 Mar 2018</span><span class="m_meta-property__date-separator">,</span>
+<span class="m_meta-property__date-time">5:48pm</span>
+</time>
+</span>
+<h3 class="list-of-entities__item-body-headline">
+<a href="/politics/2018/03/20/ruth-davidson-must-choose-devil-deep-blue-sea-brexit-fisheries/"><span class="sr-only">Comment: </span>Ruth Davidson must choose between the devil and the deep blue sea after the Brexit fisheries betrayal</a>
+</h3>
+<div class="list-of-entities__item-author-name">
+Alan Cochrane
+</div>
+<span class="premium-label">Premium</span>
+</div>
+<div class="list-of-entities__item-author-image">
+<div class="list-of-entities__item-author-image-container">
+<img class="responsive-image " width="320" height="320" alt="Alan Cochrane" data-frz-ratio="1.00" src="/content/dam/Author%20photos/Alan_Cochrane-small.png" data-frz-src-array="[{'src':'/content/dam/Author%20photos/Alan_Cochrane-thumbnail.png','width':140,'height':140,'percentageImageRatio':'100'},{'src':'/content/dam/Author%20photos/Alan_Cochrane-xlarge.png','width':1280,'height':1280,'percentageImageRatio':'100'},{'src':'/content/dam/Author%20photos/Alan_Cochrane-xxlarge.png','width':1500,'height':1500,'percentageImageRatio':'100'},{'src':'/content/dam/Author%20photos/Alan_Cochrane-xsmall.png','width':160,'height':160,'percentageImageRatio':'100'},{'src':'/content/dam/Author%20photos/Alan_Cochrane-small.png','width':320,'height':320,'percentageImageRatio':'100'},{'src':'/content/dam/Author%20photos/Alan_Cochrane-large.png','width':720,'height':720,'percentageImageRatio':'100'},{'src':'/content/dam/Author%20photos/Alan_Cochrane-medium.png','width':480,'height':480,'percentageImageRatio':'100'}]"/>
+</div>
+</div>
+</div>
+</li>
+<li class="list-of-entities__item  video" data-timestamp="1521567468259">
+<div class="list-of-entities__item-link">
+<a href="/politics/2018/03/20/watchrussian-diplomats-expelled-uk-head-back-moscow/" class="list-of-entities__item-image-container" tabindex="-1">
+<div class="video-icon-wrapper">
+<div class="video-icon video-icon--text-image component">
+<div class="video-icon__play">
+<div class="video-icon__arrow"></div>
+</div>
+<time class="video-icon__duration" datetime="PT0H0M57S">00:58
+</time>
+</div>
+<img class="responsive-image list-of-entities__item-image" width="320" height="179" alt="BRITAIN-RUSSIA/" data-frz-ratio="1.78" src="/content/dam/video_previews/1/l/1lm3rxzte6k9ak9lzublbmgdhafjuabb-small.jpg" data-frz-src-array="[{'src':'/content/dam/video_previews/1/l/1lm3rxzte6k9ak9lzublbmgdhafjuabb-xsmall.jpg','width':160,'height':89,'percentageImageRatio':'55.62'},{'src':'/content/dam/video_previews/1/l/1lm3rxzte6k9ak9lzublbmgdhafjuabb-xlarge.jpg','width':1280,'height':718,'percentageImageRatio':'56.09'},{'src':'/content/dam/video_previews/1/l/1lm3rxzte6k9ak9lzublbmgdhafjuabb-medium.jpg','width':480,'height':269,'percentageImageRatio':'56.04'},{'src':'/content/dam/video_previews/1/l/1lm3rxzte6k9ak9lzublbmgdhafjuabb-thumbnail.jpg','width':140,'height':78,'percentageImageRatio':'55.71'},{'src':'/content/dam/video_previews/1/l/1lm3rxzte6k9ak9lzublbmgdhafjuabb-small.jpg','width':320,'height':179,'percentageImageRatio':'55.94'},{'src':'/content/dam/video_previews/1/l/1lm3rxzte6k9ak9lzublbmgdhafjuabb-large.jpg','width':720,'height':404,'percentageImageRatio':'56.11'}]" data-asset-type="article"/>
+</div>
+</a>
+<div class="list-of-entities__item-body">
+<div class="video-icon video-icon--text-only component">
+<div class="video-icon__play">
+<div class="video-icon__arrow"></div>
+</div>
+</div>
+<span class="m_meta-property">
+<time class="m_meta-property__date" title="20 Mar 2018, 5:37pm" datetime="2018-03-20T05:37:48" itemprop="datePublished" pubdate>
+<span class="m_meta-property__date-date">20 Mar 2018</span><span class="m_meta-property__date-separator">,</span>
+<span class="m_meta-property__date-time">5:37pm</span>
+</time>
+</span>
+<h3 class="list-of-entities__item-body-headline">
+<a href="/politics/2018/03/20/watchrussian-diplomats-expelled-uk-head-back-moscow/">Watch: Russian diplomats expelled from UK head back to Moscow</a>
+</h3>
+</div>
+</div>
+</li>
+<li class="list-of-entities__item  comment premium" data-timestamp="1521566537149">
+<div class="list-of-entities__item-link">
+<a href="/politics/2018/03/20/cods-sake-tories-turned-michael-gove-brexit-fishing-sell-out/" class="list-of-entities__item-image-container" tabindex="-1">
+<div class="responsive-image list-of-entities__item-image " data-width="314" data-height="196" data-alt="Comment: Michael Gove, the Environment Secretary" data-frz-ratio="1.60" data-src="/content/dam/politics/2018/01/15/TELEMMGLPICT000142526045-small_trans_NvBQzQNjv4BqEDaeCCqlxDEMz2Al7aURZTyJD9qjTJzB7mCzxvBz8xE.jpeg" data-frz-src-array="[{'src':'/content/dam/politics/2018/01/15/TELEMMGLPICT000142526045-xsmall_trans_NvBQzQNjv4BqEDaeCCqlxDEMz2Al7aURZTyJD9qjTJzB7mCzxvBz8xE.jpeg','width':157,'height':98,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqEDaeCCqlxDEMz2Al7aURZTyJD9qjTJzB7mCzxvBz8xE','percentageImageRatio':'62.42'},{'src':'/content/dam/politics/2018/01/15/TELEMMGLPICT000142526045-xlarge_trans_NvBQzQNjv4BqEDaeCCqlxDEMz2Al7aURZTyJD9qjTJzB7mCzxvBz8xE.jpeg','width':1259,'height':787,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqEDaeCCqlxDEMz2Al7aURZTyJD9qjTJzB7mCzxvBz8xE','percentageImageRatio':'62.51'},{'src':'/content/dam/politics/2018/01/15/TELEMMGLPICT000142526045-medium_trans_NvBQzQNjv4BqEDaeCCqlxDEMz2Al7aURZTyJD9qjTJzB7mCzxvBz8xE.jpeg','width':472,'height':295,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqEDaeCCqlxDEMz2Al7aURZTyJD9qjTJzB7mCzxvBz8xE','percentageImageRatio':'62.5'},{'src':'/content/dam/politics/2018/01/15/TELEMMGLPICT000142526045-thumbnail_trans_NvBQzQNjv4BqEDaeCCqlxDEMz2Al7aURZTyJD9qjTJzB7mCzxvBz8xE.jpeg','width':137,'height':85,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqEDaeCCqlxDEMz2Al7aURZTyJD9qjTJzB7mCzxvBz8xE','percentageImageRatio':'62.04'},{'src':'/content/dam/politics/2018/01/15/TELEMMGLPICT000142526045-small_trans_NvBQzQNjv4BqEDaeCCqlxDEMz2Al7aURZTyJD9qjTJzB7mCzxvBz8xE.jpeg','width':314,'height':196,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqEDaeCCqlxDEMz2Al7aURZTyJD9qjTJzB7mCzxvBz8xE','percentageImageRatio':'62.42'},{'src':'/content/dam/politics/2018/01/15/TELEMMGLPICT000142526045-large_trans_NvBQzQNjv4BqEDaeCCqlxDEMz2Al7aURZTyJD9qjTJzB7mCzxvBz8xE.jpeg','width':708,'height':442,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqEDaeCCqlxDEMz2Al7aURZTyJD9qjTJzB7mCzxvBz8xE','percentageImageRatio':'62.43'}]" style="padding-bottom:62.42%;" data-asset-type="article">
+<noscript>
+<img src="/content/dam/politics/2018/01/15/TELEMMGLPICT000142526045-small_trans_NvBQzQNjv4BqEDaeCCqlxDEMz2Al7aURZTyJD9qjTJzB7mCzxvBz8xE.jpeg" alt="Michael Gove, the Environment Secretary" width="314" height="196" class="responsive-image--fallback"/>
+</noscript>
+</div>
+</a>
+<div class="list-of-entities__item-body">
+<span class="m_meta-property">
+<time class="m_meta-property__date" title="20 Mar 2018, 5:22pm" datetime="2018-03-20T05:22:17" itemprop="datePublished" pubdate>
+<span class="m_meta-property__date-date">20 Mar 2018</span><span class="m_meta-property__date-separator">,</span>
+<span class="m_meta-property__date-time">5:22pm</span>
+</time>
+</span>
+<h3 class="list-of-entities__item-body-headline">
+<a href="/politics/2018/03/20/cods-sake-tories-turned-michael-gove-brexit-fishing-sell-out/"><span class="sr-only">Comment: </span>For cod’s sake! How Tories turned on Michael Gove over the Brexit fishing sell-out</a>
+</h3>
+<div class="list-of-entities__item-author-name">
+Michael Deacon
+</div>
+<span class="premium-label">Premium</span>
+</div>
+<div class="list-of-entities__item-author-image">
+<div class="list-of-entities__item-author-image-container">
+<img class="responsive-image " width="320" height="320" alt="Michael Deacon" data-frz-ratio="1.00" src="/content/dam/Author%20photos/Michael_Deacon1-small.png" data-frz-src-array="[{'src':'/content/dam/Author%20photos/Michael_Deacon1-thumbnail.png','width':140,'height':140,'percentageImageRatio':'100'},{'src':'/content/dam/Author%20photos/Michael_Deacon1-xlarge.png','width':1280,'height':1280,'percentageImageRatio':'100'},{'src':'/content/dam/Author%20photos/Michael_Deacon1-xxlarge.png','width':1500,'height':1500,'percentageImageRatio':'100'},{'src':'/content/dam/Author%20photos/Michael_Deacon1-xsmall.png','width':160,'height':160,'percentageImageRatio':'100'},{'src':'/content/dam/Author%20photos/Michael_Deacon1-small.png','width':320,'height':320,'percentageImageRatio':'100'},{'src':'/content/dam/Author%20photos/Michael_Deacon1-large.png','width':720,'height':720,'percentageImageRatio':'100'},{'src':'/content/dam/Author%20photos/Michael_Deacon1-medium.png','width':480,'height':480,'percentageImageRatio':'100'}]"/>
+</div>
+</div>
+</div>
+</li>
+<li class="list-of-entities__item " data-timestamp="1521566037075">
+<div class="list-of-entities__item-link">
+<a href="/politics/2018/03/20/brexit-bulletin-fishing-deal/" class="list-of-entities__item-image-container" tabindex="-1">
+<div class="responsive-image list-of-entities__item-image " data-width="320" data-height="199" data-alt="European Union&#39;s chief Brexit negotiator Michel Barnier talks to representatives of the Danish fishing industry on a boat trip from Thyboron harbor in Jutland" data-frz-ratio="1.60" data-src="/content/dam/politics/2018/03/20/TELEMMGLPICT000156166277-small_trans_NvBQzQNjv4Bqqe94gVf5fwATDoCZ63F3bFNnSTnP2MdInW5qSl1TD3U.jpeg" data-frz-src-array="[{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000156166277-xsmall_trans_NvBQzQNjv4Bqqe94gVf5fwATDoCZ63F3bFNnSTnP2MdInW5qSl1TD3U.jpeg','width':160,'height':99,'imageCropTransformSuffix':'trans_NvBQzQNjv4Bqqe94gVf5fwATDoCZ63F3bFNnSTnP2MdInW5qSl1TD3U','percentageImageRatio':'61.88'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000156166277-xlarge_trans_NvBQzQNjv4Bqqe94gVf5fwATDoCZ63F3bFNnSTnP2MdInW5qSl1TD3U.jpeg','width':1280,'height':799,'imageCropTransformSuffix':'trans_NvBQzQNjv4Bqqe94gVf5fwATDoCZ63F3bFNnSTnP2MdInW5qSl1TD3U','percentageImageRatio':'62.42'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000156166277-medium_trans_NvBQzQNjv4Bqqe94gVf5fwATDoCZ63F3bFNnSTnP2MdInW5qSl1TD3U.jpeg','width':480,'height':299,'imageCropTransformSuffix':'trans_NvBQzQNjv4Bqqe94gVf5fwATDoCZ63F3bFNnSTnP2MdInW5qSl1TD3U','percentageImageRatio':'62.29'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000156166277-thumbnail_trans_NvBQzQNjv4Bqqe94gVf5fwATDoCZ63F3bFNnSTnP2MdInW5qSl1TD3U.jpeg','width':140,'height':87,'imageCropTransformSuffix':'trans_NvBQzQNjv4Bqqe94gVf5fwATDoCZ63F3bFNnSTnP2MdInW5qSl1TD3U','percentageImageRatio':'62.14'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000156166277-small_trans_NvBQzQNjv4Bqqe94gVf5fwATDoCZ63F3bFNnSTnP2MdInW5qSl1TD3U.jpeg','width':320,'height':199,'imageCropTransformSuffix':'trans_NvBQzQNjv4Bqqe94gVf5fwATDoCZ63F3bFNnSTnP2MdInW5qSl1TD3U','percentageImageRatio':'62.19'},{'src':'/content/dam/politics/2018/03/20/TELEMMGLPICT000156166277-large_trans_NvBQzQNjv4Bqqe94gVf5fwATDoCZ63F3bFNnSTnP2MdInW5qSl1TD3U.jpeg','width':720,'height':449,'imageCropTransformSuffix':'trans_NvBQzQNjv4Bqqe94gVf5fwATDoCZ63F3bFNnSTnP2MdInW5qSl1TD3U','percentageImageRatio':'62.36'}]" style="padding-bottom:62.19%;" data-asset-type="article">
+<noscript>
+<img src="/content/dam/politics/2018/03/20/TELEMMGLPICT000156166277-small_trans_NvBQzQNjv4Bqqe94gVf5fwATDoCZ63F3bFNnSTnP2MdInW5qSl1TD3U.jpeg" alt="European Union&#39;s chief Brexit negotiator Michel Barnier talks to representatives of the Danish fishing industry on a boat trip from Thyboron harbor in Jutland" width="320" height="199" class="responsive-image--fallback"/>
+</noscript>
+</div>
+</a>
+<div class="list-of-entities__item-body">
+<span class="m_meta-property">
+<time class="m_meta-property__date" title="20 Mar 2018, 5:13pm" datetime="2018-03-20T05:13:57" itemprop="datePublished" pubdate>
+<span class="m_meta-property__date-date">20 Mar 2018</span><span class="m_meta-property__date-separator">,</span>
+<span class="m_meta-property__date-time">5:13pm</span>
+</time>
+</span>
+<h3 class="list-of-entities__item-body-headline">
+<a href="/politics/2018/03/20/brexit-bulletin-fishing-deal/">Brexit Bulletin: Fishing for a deal</a>
+</h3>
+</div>
+</div>
+</li>
+<li class="list-of-entities__item " data-timestamp="1521560009221">
+<div class="list-of-entities__item-link">
+<a href="/politics/2018/03/20/jeremy-hunt-says-elderly-people-dementia-must-not-face-punitive/" class="list-of-entities__item-image-container" tabindex="-1">
+<div class="responsive-image list-of-entities__item-image " data-width="320" data-height="199" data-alt="Jeremy Hunt, the Health Secretary" data-frz-ratio="1.60" data-src="/content/dam/news/2018/02/22/136123929_PA_Mental-Health-Service-small_trans_NvBQzQNjv4BqyKbbTIvVbvqvypOgwykjr75Il_3RNQfqFqEHGHeRMNc.jpg" data-frz-src-array="[{'src':'/content/dam/news/2018/02/22/136123929_PA_Mental-Health-Service-xsmall_trans_NvBQzQNjv4BqyKbbTIvVbvqvypOgwykjr75Il_3RNQfqFqEHGHeRMNc.jpg','width':160,'height':99,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqyKbbTIvVbvqvypOgwykjr75Il_3RNQfqFqEHGHeRMNc','percentageImageRatio':'61.88'},{'src':'/content/dam/news/2018/02/22/136123929_PA_Mental-Health-Service-xlarge_trans_NvBQzQNjv4BqyKbbTIvVbvqvypOgwykjr75Il_3RNQfqFqEHGHeRMNc.jpg','width':1280,'height':799,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqyKbbTIvVbvqvypOgwykjr75Il_3RNQfqFqEHGHeRMNc','percentageImageRatio':'62.42'},{'src':'/content/dam/news/2018/02/22/136123929_PA_Mental-Health-Service-medium_trans_NvBQzQNjv4BqyKbbTIvVbvqvypOgwykjr75Il_3RNQfqFqEHGHeRMNc.jpg','width':480,'height':299,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqyKbbTIvVbvqvypOgwykjr75Il_3RNQfqFqEHGHeRMNc','percentageImageRatio':'62.29'},{'src':'/content/dam/news/2018/02/22/136123929_PA_Mental-Health-Service-thumbnail_trans_NvBQzQNjv4BqyKbbTIvVbvqvypOgwykjr75Il_3RNQfqFqEHGHeRMNc.jpg','width':140,'height':87,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqyKbbTIvVbvqvypOgwykjr75Il_3RNQfqFqEHGHeRMNc','percentageImageRatio':'62.14'},{'src':'/content/dam/news/2018/02/22/136123929_PA_Mental-Health-Service-small_trans_NvBQzQNjv4BqyKbbTIvVbvqvypOgwykjr75Il_3RNQfqFqEHGHeRMNc.jpg','width':320,'height':199,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqyKbbTIvVbvqvypOgwykjr75Il_3RNQfqFqEHGHeRMNc','percentageImageRatio':'62.19'},{'src':'/content/dam/news/2018/02/22/136123929_PA_Mental-Health-Service-large_trans_NvBQzQNjv4BqyKbbTIvVbvqvypOgwykjr75Il_3RNQfqFqEHGHeRMNc.jpg','width':720,'height':449,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqyKbbTIvVbvqvypOgwykjr75Il_3RNQfqFqEHGHeRMNc','percentageImageRatio':'62.36'}]" style="padding-bottom:62.19%;" data-asset-type="article">
+<noscript>
+<img src="/content/dam/news/2018/02/22/136123929_PA_Mental-Health-Service-small_trans_NvBQzQNjv4BqyKbbTIvVbvqvypOgwykjr75Il_3RNQfqFqEHGHeRMNc.jpg" alt="Jeremy Hunt, the Health Secretary" width="320" height="199" class="responsive-image--fallback"/>
+</noscript>
+</div>
+</a>
+<div class="list-of-entities__item-body">
+<span class="m_meta-property">
+<time class="m_meta-property__date" title="20 Mar 2018, 3:33pm" datetime="2018-03-20T03:33:29" itemprop="datePublished" pubdate>
+<span class="m_meta-property__date-date">20 Mar 2018</span><span class="m_meta-property__date-separator">,</span>
+<span class="m_meta-property__date-time">3:33pm</span>
+</time>
+</span>
+<h3 class="list-of-entities__item-body-headline">
+<a href="/politics/2018/03/20/jeremy-hunt-says-elderly-people-dementia-must-not-face-punitive/">Jeremy Hunt says elderly people with dementia must not face &#39;punitive&#39; care costs as he hints at cap</a>
+</h3>
+</div>
+</div>
+</li>
+<li class="list-of-entities__item  video" data-timestamp="1521554932976">
+<div class="list-of-entities__item-link">
+<a href="/politics/2018/03/20/bbc-presenter-reveals-had-work-throughout-cancer-treament-moved/" class="list-of-entities__item-image-container" tabindex="-1">
+<div class="video-icon-wrapper">
+<div class="video-icon video-icon--text-image component">
+<div class="video-icon__play">
+<div class="video-icon__arrow"></div>
+</div>
+<time class="video-icon__duration" datetime="PT0H0M53S">00:53
+</time>
+</div>
+<img class="responsive-image list-of-entities__item-image" width="320" height="179" alt="BBC presenter Kirsty Lang says &#39;worst fears&#39; about going freelance came true" data-frz-ratio="1.78" src="/content/dam/video_previews/z/r/zrcnjxzte6rruczp0xfhydovav1p42u1-small.jpg" data-frz-src-array="[{'src':'/content/dam/video_previews/z/r/zrcnjxzte6rruczp0xfhydovav1p42u1-xsmall.jpg','width':160,'height':89,'percentageImageRatio':'55.62'},{'src':'/content/dam/video_previews/z/r/zrcnjxzte6rruczp0xfhydovav1p42u1-xlarge.jpg','width':1280,'height':718,'percentageImageRatio':'56.09'},{'src':'/content/dam/video_previews/z/r/zrcnjxzte6rruczp0xfhydovav1p42u1-medium.jpg','width':480,'height':269,'percentageImageRatio':'56.04'},{'src':'/content/dam/video_previews/z/r/zrcnjxzte6rruczp0xfhydovav1p42u1-thumbnail.jpg','width':140,'height':78,'percentageImageRatio':'55.71'},{'src':'/content/dam/video_previews/z/r/zrcnjxzte6rruczp0xfhydovav1p42u1-small.jpg','width':320,'height':179,'percentageImageRatio':'55.94'},{'src':'/content/dam/video_previews/z/r/zrcnjxzte6rruczp0xfhydovav1p42u1-large.jpg','width':720,'height':404,'percentageImageRatio':'56.11'}]" data-asset-type="article"/>
+</div>
+</a>
+<div class="list-of-entities__item-body">
+<div class="video-icon video-icon--text-only component">
+<div class="video-icon__play">
+<div class="video-icon__arrow"></div>
+</div>
+</div>
+<span class="m_meta-property">
+<time class="m_meta-property__date" title="20 Mar 2018, 2:08pm" datetime="2018-03-20T02:08:52" itemprop="datePublished" pubdate>
+<span class="m_meta-property__date-date">20 Mar 2018</span><span class="m_meta-property__date-separator">,</span>
+<span class="m_meta-property__date-time">2:08pm</span>
+</time>
+</span>
+<h3 class="list-of-entities__item-body-headline">
+<a href="/politics/2018/03/20/bbc-presenter-reveals-had-work-throughout-cancer-treament-moved/">BBC presenter reveals she had to work during cancer treatment after being moved to freelance contract</a>
+</h3>
+</div>
+</div>
+</li>
+<li class="list-of-entities__item " data-timestamp="1521553934499">
+<div class="list-of-entities__item-link">
+<a href="/politics/2018/03/20/jean-claude-juncker-avoids-mention-spy-attack-congratulates/" class="list-of-entities__item-image-container" tabindex="-1">
+<div class="responsive-image list-of-entities__item-image " data-width="303" data-height="189" data-alt="Theresa May may not be impressed with Jean-Claude Juncker&#39;s letter to Vladimir Putin." data-frz-ratio="1.60" data-src="/content/dam/news/2017/12/07/TELEMMGLPICT000148382613-small_trans_NvBQzQNjv4BqKAhRcfi2wed_XpL7VymONkBMblUn5nVY9_kVT0b4gZM.jpeg" data-frz-src-array="[{'src':'/content/dam/news/2017/12/07/TELEMMGLPICT000148382613-xsmall_trans_NvBQzQNjv4BqKAhRcfi2wed_XpL7VymONkBMblUn5nVY9_kVT0b4gZM.jpeg','width':151,'height':94,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqKAhRcfi2wed_XpL7VymONkBMblUn5nVY9_kVT0b4gZM','percentageImageRatio':'62.25'},{'src':'/content/dam/news/2017/12/07/TELEMMGLPICT000148382613-xlarge_trans_NvBQzQNjv4BqKAhRcfi2wed_XpL7VymONkBMblUn5nVY9_kVT0b4gZM.jpeg','width':1213,'height':758,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqKAhRcfi2wed_XpL7VymONkBMblUn5nVY9_kVT0b4gZM','percentageImageRatio':'62.49'},{'src':'/content/dam/news/2017/12/07/TELEMMGLPICT000148382613-medium_trans_NvBQzQNjv4BqKAhRcfi2wed_XpL7VymONkBMblUn5nVY9_kVT0b4gZM.jpeg','width':455,'height':284,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqKAhRcfi2wed_XpL7VymONkBMblUn5nVY9_kVT0b4gZM','percentageImageRatio':'62.42'},{'src':'/content/dam/news/2017/12/07/TELEMMGLPICT000148382613-thumbnail_trans_NvBQzQNjv4BqKAhRcfi2wed_XpL7VymONkBMblUn5nVY9_kVT0b4gZM.jpeg','width':132,'height':82,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqKAhRcfi2wed_XpL7VymONkBMblUn5nVY9_kVT0b4gZM','percentageImageRatio':'62.12'},{'src':'/content/dam/news/2017/12/07/TELEMMGLPICT000148382613-small_trans_NvBQzQNjv4BqKAhRcfi2wed_XpL7VymONkBMblUn5nVY9_kVT0b4gZM.jpeg','width':303,'height':189,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqKAhRcfi2wed_XpL7VymONkBMblUn5nVY9_kVT0b4gZM','percentageImageRatio':'62.38'},{'src':'/content/dam/news/2017/12/07/TELEMMGLPICT000148382613-large_trans_NvBQzQNjv4BqKAhRcfi2wed_XpL7VymONkBMblUn5nVY9_kVT0b4gZM.jpeg','width':682,'height':426,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqKAhRcfi2wed_XpL7VymONkBMblUn5nVY9_kVT0b4gZM','percentageImageRatio':'62.46'}]" style="padding-bottom:62.38%;" data-asset-type="article">
+<noscript>
+<img src="/content/dam/news/2017/12/07/TELEMMGLPICT000148382613-small_trans_NvBQzQNjv4BqKAhRcfi2wed_XpL7VymONkBMblUn5nVY9_kVT0b4gZM.jpeg" alt="Theresa May may not be impressed with Jean-Claude Juncker&#39;s letter to Vladimir Putin." width="303" height="189" class="responsive-image--fallback"/>
+</noscript>
+</div>
+</a>
+<div class="list-of-entities__item-body">
+<span class="m_meta-property">
+<time class="m_meta-property__date" title="20 Mar 2018, 1:52pm" datetime="2018-03-20T01:52:14" itemprop="datePublished" pubdate>
+<span class="m_meta-property__date-date">20 Mar 2018</span><span class="m_meta-property__date-separator">,</span>
+<span class="m_meta-property__date-time">1:52pm</span>
+</time>
+</span>
+<h3 class="list-of-entities__item-body-headline">
+<a href="/politics/2018/03/20/jean-claude-juncker-avoids-mention-spy-attack-congratulates/">EU split over Russia scandal as Jean-Claude Juncker faces revolt for letter of congratulations to Putin</a>
+</h3>
+</div>
+</div>
+</li>
+<li class="list-of-entities__item  comment premium" data-timestamp="1521549844603">
+<div class="list-of-entities__item-link">
+<a href="/politics/2018/03/20/jeremy-corbyn-happy-vladimir-putin-judge-jury-executioner/" class="list-of-entities__item-image-container" tabindex="-1">
+<div class="responsive-image list-of-entities__item-image " data-width="320" data-height="199" data-alt="Comment: Vladimir Putin" data-frz-ratio="1.60" data-src="/content/dam/tv/2018/03/09/TELEMMGLPICT000154383025-small_trans_NvBQzQNjv4BqYHaHRqZzVuMJAn8HN8r1s0RpU0s_QgZFe5g2d5Lgw7U.jpeg" data-frz-src-array="[{'src':'/content/dam/tv/2018/03/09/TELEMMGLPICT000154383025-xsmall_trans_NvBQzQNjv4BqYHaHRqZzVuMJAn8HN8r1s0RpU0s_QgZFe5g2d5Lgw7U.jpeg','width':160,'height':99,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqYHaHRqZzVuMJAn8HN8r1s0RpU0s_QgZFe5g2d5Lgw7U','percentageImageRatio':'61.88'},{'src':'/content/dam/tv/2018/03/09/TELEMMGLPICT000154383025-xlarge_trans_NvBQzQNjv4BqYHaHRqZzVuMJAn8HN8r1s0RpU0s_QgZFe5g2d5Lgw7U.jpeg','width':1280,'height':799,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqYHaHRqZzVuMJAn8HN8r1s0RpU0s_QgZFe5g2d5Lgw7U','percentageImageRatio':'62.42'},{'src':'/content/dam/tv/2018/03/09/TELEMMGLPICT000154383025-medium_trans_NvBQzQNjv4BqYHaHRqZzVuMJAn8HN8r1s0RpU0s_QgZFe5g2d5Lgw7U.jpeg','width':480,'height':299,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqYHaHRqZzVuMJAn8HN8r1s0RpU0s_QgZFe5g2d5Lgw7U','percentageImageRatio':'62.29'},{'src':'/content/dam/tv/2018/03/09/TELEMMGLPICT000154383025-thumbnail_trans_NvBQzQNjv4BqYHaHRqZzVuMJAn8HN8r1s0RpU0s_QgZFe5g2d5Lgw7U.jpeg','width':140,'height':87,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqYHaHRqZzVuMJAn8HN8r1s0RpU0s_QgZFe5g2d5Lgw7U','percentageImageRatio':'62.14'},{'src':'/content/dam/tv/2018/03/09/TELEMMGLPICT000154383025-small_trans_NvBQzQNjv4BqYHaHRqZzVuMJAn8HN8r1s0RpU0s_QgZFe5g2d5Lgw7U.jpeg','width':320,'height':199,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqYHaHRqZzVuMJAn8HN8r1s0RpU0s_QgZFe5g2d5Lgw7U','percentageImageRatio':'62.19'},{'src':'/content/dam/tv/2018/03/09/TELEMMGLPICT000154383025-large_trans_NvBQzQNjv4BqYHaHRqZzVuMJAn8HN8r1s0RpU0s_QgZFe5g2d5Lgw7U.jpeg','width':720,'height':449,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqYHaHRqZzVuMJAn8HN8r1s0RpU0s_QgZFe5g2d5Lgw7U','percentageImageRatio':'62.36'}]" style="padding-bottom:62.19%;" data-asset-type="article">
+<noscript>
+<img src="/content/dam/tv/2018/03/09/TELEMMGLPICT000154383025-small_trans_NvBQzQNjv4BqYHaHRqZzVuMJAn8HN8r1s0RpU0s_QgZFe5g2d5Lgw7U.jpeg" alt="Vladimir Putin" width="320" height="199" class="responsive-image--fallback"/>
+</noscript>
+</div>
+</a>
+<div class="list-of-entities__item-body">
+<span class="m_meta-property">
+<time class="m_meta-property__date" title="20 Mar 2018, 12:44pm" datetime="2018-03-20T12:44:04" itemprop="datePublished" pubdate>
+<span class="m_meta-property__date-date">20 Mar 2018</span><span class="m_meta-property__date-separator">,</span>
+<span class="m_meta-property__date-time">12:44pm</span>
+</time>
+</span>
+<h3 class="list-of-entities__item-body-headline">
+<a href="/politics/2018/03/20/jeremy-corbyn-happy-vladimir-putin-judge-jury-executioner/"><span class="sr-only">Comment: </span>Jeremy Corbyn seems happy for Vladimir Putin to be judge, jury... and executioner</a>
+</h3>
+<div class="list-of-entities__item-author-name">
+Tom Harris
+</div>
+<span class="premium-label">Premium</span>
+</div>
+<div class="list-of-entities__item-author-image">
+<div class="list-of-entities__item-author-image-container">
+<img class="responsive-image " width="320" height="319" alt="Tom Harris" data-frz-ratio="1.00" src="/content/dam/Portal%20Curated/Tom%20Harris%20byline%20pic-small.png" data-frz-src-array="[{'src':'/content/dam/Portal%20Curated/Tom%20Harris%20byline%20pic-thumbnail.png','width':140,'height':139,'percentageImageRatio':'99.29'},{'src':'/content/dam/Portal%20Curated/Tom%20Harris%20byline%20pic-xlarge.png','width':1280,'height':1278,'percentageImageRatio':'99.84'},{'src':'/content/dam/Portal%20Curated/Tom%20Harris%20byline%20pic-xxlarge.png','width':1500,'height':1497,'percentageImageRatio':'99.8'},{'src':'/content/dam/Portal%20Curated/Tom%20Harris%20byline%20pic-xsmall.png','width':160,'height':159,'percentageImageRatio':'99.38'},{'src':'/content/dam/Portal%20Curated/Tom%20Harris%20byline%20pic-small.png','width':320,'height':319,'percentageImageRatio':'99.69'},{'src':'/content/dam/Portal%20Curated/Tom%20Harris%20byline%20pic-large.png','width':720,'height':719,'percentageImageRatio':'99.86'},{'src':'/content/dam/Portal%20Curated/Tom%20Harris%20byline%20pic-medium.png','width':480,'height':479,'percentageImageRatio':'99.79'}]"/>
+</div>
+</div>
+</div>
+</li>
+<li class="list-of-entities__item  premium" data-timestamp="1521544996739">
+<div class="list-of-entities__item-link">
+<a href="/politics/2018/03/19/jacob-rees-mogg-fling-fish-trawler-thames-protest-fishermen/" class="list-of-entities__item-image-container" tabindex="-1">
+<div class="responsive-image list-of-entities__item-image " data-width="319" data-height="199" data-alt="Jacob Rees-Mogg, leader of a 60-strong group of Eurosceptic Conservative MPs, and others are due to board a boat in protest at the alleged “sellout”. Other MPs will then discard fish into the Thames" data-frz-ratio="1.60" data-src="/content/dam/politics/2018/02/04/TELEMMGLPICT000142581088-small_trans_NvBQzQNjv4BqXgrBd0P19THPvf9738yRPYJvyzxzFHzAl1GjJQEYNtY.jpeg" data-frz-src-array="[{'src':'/content/dam/politics/2018/02/04/TELEMMGLPICT000142581088-xsmall_trans_NvBQzQNjv4BqXgrBd0P19THPvf9738yRPYJvyzxzFHzAl1GjJQEYNtY.jpeg','width':159,'height':99,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqXgrBd0P19THPvf9738yRPYJvyzxzFHzAl1GjJQEYNtY','percentageImageRatio':'62.26'},{'src':'/content/dam/politics/2018/02/04/TELEMMGLPICT000142581088-xlarge_trans_NvBQzQNjv4BqXgrBd0P19THPvf9738yRPYJvyzxzFHzAl1GjJQEYNtY.jpeg','width':1279,'height':800,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqXgrBd0P19THPvf9738yRPYJvyzxzFHzAl1GjJQEYNtY','percentageImageRatio':'62.55'},{'src':'/content/dam/politics/2018/02/04/TELEMMGLPICT000142581088-medium_trans_NvBQzQNjv4BqXgrBd0P19THPvf9738yRPYJvyzxzFHzAl1GjJQEYNtY.jpeg','width':479,'height':299,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqXgrBd0P19THPvf9738yRPYJvyzxzFHzAl1GjJQEYNtY','percentageImageRatio':'62.42'},{'src':'/content/dam/politics/2018/02/04/TELEMMGLPICT000142581088-thumbnail_trans_NvBQzQNjv4BqXgrBd0P19THPvf9738yRPYJvyzxzFHzAl1GjJQEYNtY.jpeg','width':139,'height':86,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqXgrBd0P19THPvf9738yRPYJvyzxzFHzAl1GjJQEYNtY','percentageImageRatio':'61.87'},{'src':'/content/dam/politics/2018/02/04/TELEMMGLPICT000142581088-small_trans_NvBQzQNjv4BqXgrBd0P19THPvf9738yRPYJvyzxzFHzAl1GjJQEYNtY.jpeg','width':319,'height':199,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqXgrBd0P19THPvf9738yRPYJvyzxzFHzAl1GjJQEYNtY','percentageImageRatio':'62.38'},{'src':'/content/dam/politics/2018/02/04/TELEMMGLPICT000142581088-large_trans_NvBQzQNjv4BqXgrBd0P19THPvf9738yRPYJvyzxzFHzAl1GjJQEYNtY.jpeg','width':719,'height':449,'imageCropTransformSuffix':'trans_NvBQzQNjv4BqXgrBd0P19THPvf9738yRPYJvyzxzFHzAl1GjJQEYNtY','percentageImageRatio':'62.45'}]" style="padding-bottom:62.38%;" data-asset-type="article">
+<noscript>
+<img src="/content/dam/politics/2018/02/04/TELEMMGLPICT000142581088-small_trans_NvBQzQNjv4BqXgrBd0P19THPvf9738yRPYJvyzxzFHzAl1GjJQEYNtY.jpeg" alt="Jacob Rees-Mogg, leader of a 60-strong group of Eurosceptic Conservative MPs, and others are due to board a boat in protest at the alleged “sellout”. Other MPs will then discard fish into the Thames" width="319" height="199" class="responsive-image--fallback"/>
+</noscript>
+</div>
+</a>
+<div class="list-of-entities__item-body">
+<span class="m_meta-property">
+<time class="m_meta-property__date" title="20 Mar 2018, 11:23am" datetime="2018-03-20T11:23:16" itemprop="datePublished" pubdate>
+<span class="m_meta-property__date-date">20 Mar 2018</span><span class="m_meta-property__date-separator">,</span>
+<span class="m_meta-property__date-time">11:23am</span>
+</time>
+</span>
+<h3 class="list-of-entities__item-body-headline">
+<a href="/politics/2018/03/19/jacob-rees-mogg-fling-fish-trawler-thames-protest-fishermen/">Tory MPs to fling fish from trawler on Thames in protest for fishermen &#39;betrayed&#39; by Brexit deal</a>
+</h3>
+<span class="premium-label">Premium</span>
+</div>
+</div>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<!-- <sly data-sly-call=""></sly> -->
+</div>
+</div>
+</div>
+</aside>
+<div class="spark-slot3">
+</div>
+<div class="article__footer">
+<section class="snippet-footer">
+<footer data-tmg-dtm-nav-area="footernav">
+<div class="footer-list-corporate  component">
+<div class="component-content">
+<nav>
+<ul class="footer-list-corporate__list">
+<li class="footer-list-corporate__item ">
+<a class="footer-list-corporate__link " href="/contact-us/" data-tmg-dtm-nav="1-nav:/contact-us.html">
+Contact us
+</a>
+</li>
+<li class="footer-list-corporate__item ">
+<a class="footer-list-corporate__link " href="https://corporate.telegraph.co.uk/" data-tmg-dtm-nav="2-nav:https://corporate.telegraph.co.uk/">
+About us
+</a>
+</li>
+<li class="footer-list-corporate__item ">
+<a class="footer-list-corporate__link " title="Rewards" href="/rewards/" data-tmg-dtm-nav="3-nav:/rewards.html">
+Rewards
+</a>
+</li>
+<li class="footer-list-corporate__item ">
+<a class="footer-list-corporate__link " href="https://www.telegraph.co.uk/archive/" data-tmg-dtm-nav="4-nav:https://www.telegraph.co.uk/archive/">
+Archive
+</a>
+</li>
+<li class="footer-list-corporate__item ">
+<a class="footer-list-corporate__link " href="http://telegraph.newsprints.co.uk/" data-tmg-dtm-nav="5-nav:http://telegraph.newsprints.co.uk/">
+Reader Prints
+</a>
+</li>
+<li class="footer-list-corporate__item ">
+<a class="footer-list-corporate__link " href="/spark/" data-tmg-dtm-nav="6-nav:/spark.html">
+Branded Content
+</a>
+</li>
+<li class="footer-list-corporate__item ">
+<a class="footer-list-corporate__link " title="Syndication &amp; Content Partnerships" href="/syndication/" data-tmg-dtm-nav="7-nav:/syndication.html">
+Syndication
+</a>
+</li>
+<li class="footer-list-corporate__item ">
+<a class="footer-list-corporate__link " href="/about-us/editorial-and-commercial-guidelines/" data-tmg-dtm-nav="8-nav:/about-us/editorial-and-commercial-guidelines.html">
+Guidelines
+</a>
+</li>
+<li class="footer-list-corporate__item ">
+<a class="footer-list-corporate__link " href="/about-us/privacy-and-cookie-policy/" data-tmg-dtm-nav="9-nav:/about-us/privacy-and-cookie-policy.html">
+Privacy
+</a>
+</li>
+<li class="footer-list-corporate__item ">
+<a class="footer-list-corporate__link " href="/about-us/terms-and-conditions/" data-tmg-dtm-nav="10-nav:/about-us/terms-and-conditions.html">
+Terms and Conditions
+</a>
+</li>
+<li class="footer-list-corporate__item ">
+<a class="footer-list-corporate__link " href="http://spark.telegraph.co.uk/toolkit/advertising/terms-and-conditions/" data-tmg-dtm-nav="11-nav:http://spark.telegraph.co.uk/toolkit/advertising/terms-and-conditions/">
+Advertising terms
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="footer-copyright component">
+<div class="component-content">
+<p>&copy; Telegraph Media Group Limited 2018</p>
+</div>
+</div>
+</footer>
+</section>
+<div class="footer-ads">
+<div id="advert_tmg_tmg" class="js-advert advert " data-adType="tmg"></div>
+<div id="advert_tmg_inr" class="js-advert advert " data-adType="inr"></div>
+<div id="advert_tmg_ftr" class="js-advert advert " data-adType="ftr"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="spark-slot4">
+</div>
+<script>
+        tmg.loadClientLibs.init();
+    </script>
+<script src="//d3c3cq33003psk.cloudfront.net/opentag-35657-1096944.js" defer></script>
+<script>
+		RUM.mark( 'js_load_opentag' );
+	</script>
+<script type="text/javascript">_satellite.pageBottom();</script>
+<div style="display: none;" class="adblocker-message component">
+<div class="component-content">
+<div class="cartoon">
+<img class="adblock-image" alt="Please support us by disabling your adblocker" src="/content/dam/generic/Matt-cartoon-255x206px-small.png"/>
+</div>
+<div class="adblocker-message__body">
+<h3>We've noticed you're adblocking.</h3>
+<p>We rely on advertising to help fund our award-winning journalism.</p>
+<p>We urge you to turn off your ad blocker for The Telegraph website so that you can continue to access our quality content in the future.</p>
+<p>Thank you for your support.</p>
+</div>
+<p class="bold">Need help?</p>
+<p>Click <a href="https://www.telegraph.co.uk/go/adblocking/" class="help" data-tmg-event="click" data-tmg-name="adBlockMessageHelp">here</a> for instructions </p>
+<div class="logo"></div>
+<button class="close" data-tmg-event="click" data-tmg-name="adBlockMessageClose">Close</button>
+</div>
+</div>
+
+            
+                    <script src="//cdn.optimizely.com/js/1425218314.js" defer></script>
+                    <script>
+                        RUM.mark( 'js_load_optimizelyasync' );
+                    </script>
+                
+		
+</body>
+</html>

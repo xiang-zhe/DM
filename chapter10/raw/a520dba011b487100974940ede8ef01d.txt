@@ -1,0 +1,845 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:g="http://base.google.com/ns/1.0">
+<!--<![endif]-->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>DWP wins legal case to block future benefit appeals  - Home Affairs</title>
+    <meta name="description" content="Government wins legal case which could have major implications for people fighting the DWP." />
+    <meta name="title" content="DWP wins legal case to block future benefit appeals  - Home Affairs" />
+    <meta name="keywords" content="benefits,dwp" />
+    <meta property="fb:app_id" content="117633821654643" />
+    <link rel="canonical" href="http://www.politics.co.uk/news/2018/03/20/dwp-wins-legal-case-to-block-future-benefit-appeals" />
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+    
+
+    <script>
+    (function () {
+        var useSSL = 'https:' == document.location.protocol;
+        var src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+        document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+    })();
+    </script>
+
+
+    <link href="/Content/css/app.css" rel="stylesheet"/>
+
+
+    <script src="/Content/javascripts/vendor/custom.modernizr.js"></script>
+<script src="/Content/javascripts/media-testing.js"></script>
+<script src="/Scripts/jquery-1.8.3.min.js"></script>
+<script src="/Scripts/basic-slider/bjqs-1.3.min.js"></script>
+<script src="/Content/javascripts/vendor/jquery.unveil.js"></script>
+<script src="/Content/javascripts/foundation/foundation.js"></script>
+<script src="/Scripts/jquery.easing.1.3.js"></script>
+<script src="/Scripts/jquery.color.js"></script>
+<script src="/Scripts/jquery.ennui.contentslider.js"></script>
+<script src="/Scripts/jquery.pagination.js"></script>
+<script src="/Scripts/dialog/basic.js"></script>
+<script src="/Scripts/ga_social_tracking.js"></script>
+<script src="/Scripts/jquery.CookieManager.js"></script>
+<script src="/Scripts/politics.js"></script>
+<script src="/Content/javascripts/rwd-politics.js"></script>
+<script src="/Content/javascripts/load-social-media.js"></script>
+<script src="/Content/javascripts/third-party-widgets.js"></script>
+<script src="/Scripts/jquery.homepagetakeover.js"></script>
+<script src="/Content/javascripts/advert-inject.js"></script>
+
+    
+    <!--[if lt IE 9]>
+        <script src="/Content/javascripts/vendor/custom.modernizr.js"></script>
+<script src="/Content/javascripts/media-testing.js"></script>
+
+    <![endif]-->
+    <!-- New Relic Header -->
+
+
+    <meta property="og:title" content="DWP wins legal case to block future benefit appeals " />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="http://www.politics.co.uk/news/2018/03/20/dwp-wins-legal-case-to-block-future-benefit-appeals" />
+    <meta property="og:image" content="http://p2.politics.co.uk/rwd-full-photos/the-carmichaels-took-their-case-to-the-suprem.21400222.jpg" />
+    <meta property="og:site_name" content="politics.co.uk" />
+    <meta property="og:description" content="Government wins legal case which could have major implications for people fighting the DWP." />
+    <meta property="og:created_time" content="3/20/2018 1:03:43 PM" />
+    <meta property="og:updated_time" content="3/20/2018 1:22:37 PM" />
+    
+    <meta property="og:tags" content="benefits,dwp" />
+    <meta property="og:section" content="News" />
+    <meta property="og:language" content="en">
+        <meta name="author" content="Natalie Bloomer" />
+        <meta property="article:author" content="http://www.politics.co.uk/author/natalie-bloomer"/>
+    <meta name="image" content="http://p2.politics.co.uk/thumbXL/the-carmichaels-took-their-case-to-the-suprem.21400222.jpg" />
+    <link rel="image_src" href="http://p2.politics.co.uk/rwd-full-photos/the-carmichaels-took-their-case-to-the-suprem.21400222.jpg" />
+    <meta name="publish_date" content="3/20/2018 12:58:04 PM" />
+    <meta name="category" content="News" />
+    <meta name="original-source" content="http://www.politics.co.uk/news/2018/03/20/dwp-wins-legal-case-to-block-future-benefit-appeals" />
+    <script type="text/javascript">
+        var disqus_identifier = 21400222;
+        var disqus_developer = 1;
+    </script>
+
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@politics_co_uk">
+
+
+    <meta name="twitter:title" content="DWP wins legal case to block future benefit appeals ">
+    <meta name="twitter:description" content="Government wins legal case which could have major implications for people fighting the DWP.">
+    <meta name="twitter:image" content="http://p2.politics.co.uk/rwd-full-photos/the-carmichaels-took-their-case-to-the-suprem.21400222.jpg">
+</head>
+<body>
+    <div class="row">
+        <div id="top" class="large-12 columns">
+<script>
+    googletag.cmd.push(function () {
+
+        var mapLeader = googletag.sizeMapping().
+		addSize([320, 400], [320, 50]).
+		addSize([320, 700], [320, 50]).
+		addSize([480, 200], [320, 50]).
+		addSize([768, 200], [728, 90]).
+		addSize([1000, 200], [970, 250]).
+		build();
+
+        googletag.defineSlot('/1071561/ROS_Leaderboard', [[728, 90], [320, 50], [970, 250]], 'div-gpt-ad-1479743878981-0').defineSizeMapping(mapLeader).addService(googletag.pubads());
+        
+        googletag.pubads().enableSyncRendering();
+        googletag.enableServices();
+    });
+</script>
+<div id="leaderboard" style="text-align: center;">
+    <div id='div-gpt-ad-1479743878981-0'>
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1479743878981-0'); });
+        </script>
+    </div>
+</div>
+
+
+
+
+        </div>
+    </div>
+
+    <div class="row row-logo">
+        <div class="small-8 large-6 columns logo">
+            <a href="/">
+                <img id="Img2" src="/Content/images/politics-logo-flat.gif" alt="Politics.co.uk" />
+            </a>
+        </div>
+        <div class="show-for-small small-4 columns follow-profile-btn"><a class="button" href="#">Follow</a></div>
+        <div class="hide-for-small large-6 columns social-profile-icons">
+
+            <ul class="inline-list">
+                <li><a class="icon-youtube" title="You Tube" href="http://www.youtube.com/user/politicscouk/"></a></li>
+                <li><a class="icon-twitter" title="Twitter" href="http://www.twitter.com/politics_co_uk" data-app="twitter://user?screen_name=politics_co_uk"></a></li>
+                <li><a class="icon-facebook" title="Facebook" href="http://www.facebook.com/pages/Politicscouk/124189634323190" data-app="fb://profile/124189634323190"></a></li>
+                <li><a class="icon-google-plus" title="Google Plus" href="https://plus.google.com/u/0/b/102716629977595967150/102716629977595967150/posts"></a></li>
+                <li><a class="icon-linkedin" title="LinkedIn" href="http://www.linkedin.com/company/politics-co-uk"></a></li>
+            </ul>
+
+            <form action="/search/" method="get" class="g-website-search">
+                <input class="top-search radius search-input" type='text' name='keyword' id="keyword2" onkeydown="if((event.which == 13) || ( event.keyCode == 13)){ document.getElementById('SearchButton2').click();return false;}"
+                       size="35" />
+                <button type="submit" class="small button radius top-search-btn icon-search" name="action"></button>
+            </form>
+        </div>
+    </div>
+
+    <div class="row top-nav-wrapper">
+        <div class="large-12 columns">
+            <nav class="top-nav">
+                <section class="top-nav-section">
+                    <ul>
+                        <li ><a id="home" class="icon-home-mobile" href="/"><span>Home</span></a></li>
+                        <li class=active><a id="news" href="/news/">News</a></li>
+                    </ul>
+
+                    <ul class="middle-nav">
+                        <li >
+                            <a id="comment_analysis" href="/comment-analysis/">
+                                Comment
+                                & Analysis
+                            </a>
+                        </li>
+                        <li >
+                            <a id="opinion_formers" href="/opinion-formers/">
+                                Opinion
+                                Formers
+                            </a>
+                        </li>
+                        
+                        <li ><a id="reference" href="/reference/">Reference</a></li>
+
+                        <li ><a id="video" href="/video/">Video</a></li>
+
+                    </ul>
+                    
+
+
+                    <ul class="has-form search-box">
+                        <li>
+                            <form id="searchForm" action="/search/" method="get" class="g-website-search">
+                                <input class="search radius search-input" type='text' name='keyword' id="keyword" onkeydown="if((event.which == 13) || ( event.keyCode == 13)){ document.getElementById('SearchButton2').click();return false;}"
+                                       size="35" />
+                                <button type="submit" class="small button radius search-btn icon-search" name="action"></button>
+
+                            </form>
+                        </li>
+                    </ul>
+
+                </section>
+                <a class="pull-menu" href="#"></a>
+            </nav>
+
+        </div>
+
+    </div>
+
+    <div class="row hide-for-medium-small-below">
+        <div class="large-12 columns sub-nav">
+
+
+<ul>
+        <li><a href="/news/westminster">Westminster</a> </li>
+        <li><a href="/news/home-affairs">Home Affairs</a> </li>
+        <li><a href="/news/foreign-affairs">Foreign Affairs</a> </li>
+        <li><a href="/news/economy">Economy</a> </li>
+        <li><a href="/news/health">Health</a> </li>
+        <li><a href="/news/education">Education</a> </li>
+        <li><a href="/news/culture-media-sport">Culture, media &amp; sport</a> </li>
+        <li><a href="/news/environment">Environment</a> </li>
+        <li><a href="/news/local">Local</a> </li>
+</ul>    
+        </div>
+    </div>
+
+    <div class="row">
+
+        <div class="small-12 large-12 columns">
+
+<ul id="pseudo_breadcrumbs" class="breadcrumbs">
+                <li><a href="/">Home</a></li>
+                <li><a href="/news/">News</a></li>
+                <li><a href="/news/home-affairs">Home Affairs</a></li>
+                <li>DWP wins legal case to block future benefit appeals  </li>
+</ul>
+
+            <div class="row">
+
+                
+    <div id="main_column" class="large-8 columns full_item">
+        <article>
+            <header>
+                <h1>DWP wins legal case to block future benefit appeals </h1>
+            </header>
+            
+            
+<div class="SocialMediaH">
+    <div class="site-buttons">
+        <a href="http://twitter.com/share" class="twitter-share-button" data-via="politics_co_uk" data-url="http://www.politics.co.uk/news/2018/03/20/dwp-wins-legal-case-to-block-future-benefit-appeals">
+            Tweet</a>
+        <g:plusone size="medium" href="http://www.politics.co.uk/news/2018/03/20/dwp-wins-legal-case-to-block-future-benefit-appeals"></g:plusone>
+        <fb:like send="false" show_faces="false" layout="button_count"  width="60" font="verdana" href="http://www.politics.co.uk/news/2018/03/20/dwp-wins-legal-case-to-block-future-benefit-appeals" ref="facebook_referrals"></fb:like>
+    </div>
+    <div class="icon-social-buttons">
+        <a class="mobile-comments-btn" href="#comments" title="Comments"><span class="icon-bubble"></span></a>
+        <a href="//twitter.com/intent/tweet?text=http://www.politics.co.uk/news/2018/03/20/dwp-wins-legal-case-to-block-future-benefit-appeals" title="Tweet" target="_blank" rel="nofollow" class="icon-twitter"></a>
+        <a href="//www.facebook.com/sharer/sharer.php?u=http://www.politics.co.uk/news/2018/03/20/dwp-wins-legal-case-to-block-future-benefit-appeals" title="Facebook Share" target="_blank" rel="nofollow" class="icon-facebook"></a>
+        <a href="//plus.google.com/share?url=http://www.politics.co.uk/news/2018/03/20/dwp-wins-legal-case-to-block-future-benefit-appeals" title="Google Plus Share" target="_blank" rel="nofollow" class="icon-google-plus"></a>
+    </div>
+</div>
+
+            
+            <figure class="article-image defer-image image-ratio:183x80 is-loading">
+                <noscript>
+                    <img src="http://p2.politics.co.uk/rwd-full-photos/the-carmichaels-took-their-case-to-the-suprem.21400222.jpg" alt="The Carmichaels took their case to the Supreme Court " title="The Carmichaels took their case to the Supreme Court " />
+                </noscript>
+                
+                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="http://p2.politics.co.uk/rwd-full-photos/the-carmichaels-took-their-case-to-the-suprem.21400222.jpg" alt="The Carmichaels took their case to the Supreme Court " title="The Carmichaels took their case to the Supreme Court " />
+                <figcaption class="caption"><em>The Carmichaels took their case to the Supreme Court </em></figcaption>
+            </figure>
+            
+            
+<div class="author-time">
+        <span class="author">
+                <span class="defer-image image-fixed:120x120 is-loading">
+                    <img class="img-left mini-img"
+                         src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                         data-src="http://p3.politics.co.uk/profile/14113791"
+                         alt="Natalie Bloomer"
+                         title="Natalie Bloomer" />
+                </span>
+            By <a rel="author" href="/author/natalie-bloomer">Natalie Bloomer</a>
+           
+        </span>
+            
+    <time datetime="2018-03-20 12:58:04" class="date">
+        Tuesday, 20 March 2018
+        12:58 PM
+    </time>
+
+         
+        <span class="comments">
+            <a href="#comments">
+                <span class="icon-bubble"></span>
+                <fb:comments-count href="http://www.politics.co.uk/news/2018/03/20/dwp-wins-legal-case-to-block-future-benefit-appeals"></fb:comments-count>
+            </a>
+        </span>
+            
+</div>
+           
+
+            <div class="articleContent">
+                
+<p>
+	The government has won a legal case which could have major implications for future benefit appeals.</p>
+<p>
+	The Department for Work and Pensions (DWP) used the case of Jayson and Charlotte Carmichael, who <a href="http://http://www.politics.co.uk/news/2017/03/14/bedroom-tax-couple-in-court-as-dwp-try-to-block-future-appea">successfully challenged </a>the bedroom tax at the Supreme Court, to prevent other people from relying on the Human Rights Act when appealing against benefits decisions at the first tier tribunal.</p>
+<p>
+	Speaking to Politics.co.uk at the time of the hearing last month, solicitors acting for the Carmichaels said a government victory would &quot;severely curtail&quot; the powers of the social security tribunal.</p>
+<p>
+	&quot;The tribunal would no longer be able to address the injustice that is caused to a social welfare claimant by the application of regulations that breach their rights protected by the Human Rights Act,&quot; Lucy Cadd of Leigh Day solicitors said.</p><script>
+  googletag.cmd.push(function() {
+      googletag.defineSlot('/1071561/ArticlePage_MPU', [300, 250], 'div-gpt-ad-1421844527899-0').addService(googletag.pubads());
+    googletag.pubads().enableSyncRendering();
+    googletag.enableServices();
+  });
+</script>
+
+
+<div id="mobileMPU" style="text-align: center;">
+
+    <!-- /1071561/Home_Second_MPU -->
+    <div id='div-gpt-ad-1421844527899-0' style='height:250px; width:300px;'>
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1421844527899-0'); });
+        </script>
+    </div>
+
+</div>                        <div class="left-mid-box">
+                            <div class="listing-box with-bottom-divider">
+                                
+<h3><a href="/opinion-former/press-releases-articles/">Opinion Former News</a></h3>        <ul>
+                <li>
+                    <h3>        <a href="/opinion-formers/rethink/article/rethink-mental-illness-response-to-disability-benefits-benef">
+            Rethink Mental Illness response to disability benefits benefit assessments report  
+        </a>
+</h3>
+                </li>
+                <li>
+                    <h3>        <a href="/opinion-formers/humanists-uk/article/noel-conway-wins-permission-to-appeal-his-assisted-dying-cas">
+            Noel Conway wins permission to appeal his assisted dying case 
+        </a>
+</h3>
+                </li>
+                <li>
+                    <h3>        <a href="/opinion-formers/british-association-for-shooting-and-conservation-basc/article/european-conference-appeals-for-help-from-uk-shooters">
+            European conference appeals for help from UK shooters 
+        </a>
+</h3>
+                </li>
+        </ul>
+
+
+
+
+                            </div>
+                        
+                            
+                            
+                            
+                        </div>
+                        <br class="midArticleClear"/>
+
+<p>
+	&quot;It is another example of the government seeking to undermine disabled people and social welfare claimants in general.&quot;</p>
+<p>
+	Today&#39;s decision comes almost four years after the couple first started their battle against the bedroom tax when a judge at a first tier tribunal ruled that the policy was in breach of their human rights.</p>
+<p>
+	The DWP appealed that decision but after a number of further hearings the Carmichaels won their case at the Supreme Court.</p>
+<p>
+	Several months later, the DWP went back to court to argue that the first tier tribunal only had the power to identify that legislation is incompatible with the Human Rights Act - not to rule on a case on that basis.</p>
+<p>
+	&quot;So many other people&#39;s rights depended on the outcome of this case,&quot; Jayson Carmichael said this morning.</p>
+<p>
+	&quot;I am infuriated that the government has taken this action but we remain proud of our case and the great victory that it brought forward against the bedroom tax.&quot;</p>
+<p>
+	The Carmichaels said they will take a few days to decide whether to take the case further.</p>
+<p>
+	&quot;It&#39;s been so stressful for us, we might decide that we&#39;ve just had enough and that it&#39;s time for somebody else to take up the fight,&quot; Jayson Carmichael said.</p>
+<p>
+	The DWP has been contacted for a comment.</p>
+                
+            </div>
+
+        </article>
+        
+        <ul class="tagList">
+            <li><a href='/tag/benefits'>benefits</a></li><li><a href='/tag/dwp'>dwp</a></li>
+        </ul>
+                
+        <div class="listing-box with-bottom-divider">
+            <h3>More on this story</h3>
+            <ul>
+    <li>
+    <h3>
+        <a href="/comment-analysis/2018/02/27/trapped-in-universal-credit-how-a-broken-leg-left-a-woman-st">Trapped in Universal Credit: How a broken leg left a woman starved of cash </a> </h3>
+    </li>
+    <li>
+    <h3>
+        <a href="/comment-analysis/2018/01/26/i-m-broken-britain-i-had-no-idea-how-bad-it-would-get">I&#39;m broken Britain: I had no idea how bad it would get </a> </h3>
+    </li>
+    <li>
+    <h3>
+        <a href="/comment-analysis/2017/12/15/the-only-way-to-fix-universal-credit-is-to-scrap-it-altogeth">The only way to fix Universal Credit is to scrap it altogether </a> </h3>
+    </li>
+</ul>
+            <ul>
+    <li>
+    <h3>
+        <a href="/news/2018/02/20/dwp-goes-back-to-court-to-block-future-benefit-appeals">DWP goes back to court to block future benefit appeals </a> </h3>
+    </li>
+    <li>
+    <h3>
+        <a href="/news/2017/08/07/dwp-fights-to-block-publication-of-fit-for-work-documents">DWP fights to block publication of fit-for-work documents  </a> </h3>
+    </li>
+    <li>
+    <h3>
+        <a href="/news/2017/10/17/private-landlords-turning-away-universal-credit-claimants">Private landlords turning away Universal Credit claimants in droves</a> </h3>
+    </li>
+</ul>
+        </div>
+
+        
+        <div>
+            <h4 id="comments" class="comments"><span class="icon-bubble"></span> Comments</h4>
+            <a href="#" class="small-fb-load-btn button expand">Load in comments</a>
+<fb:comments class="fb-comments" href="http://www.politics.co.uk/news/2018/03/20/dwp-wins-legal-case-to-block-future-benefit-appeals" num_posts="10"></fb:comments>
+
+        </div>
+    </div>
+
+
+
+    <div id="second_column" class="large-4 columns">
+    <script>
+    googletag.cmd.push(function () {
+
+        var mapLeader = googletag.sizeMapping().
+		addSize([320, 400], [300, 250]).
+		addSize([320, 700], [300, 250]).
+		addSize([480, 200], [300, 250]).
+		addSize([768, 200], [300, 600]).
+		addSize([1000, 200], [300, 600]).
+		build();
+
+        googletag.defineSlot('/1071561/ROS_MPU', [[300, 250], [300, 600]], 'div-gpt-ad-1479743919372-0').defineSizeMapping(mapLeader).addService(googletag.pubads());
+        googletag.pubads().enableSyncRendering();
+        googletag.enableServices();
+  });
+</script>
+
+<div id="mpu">
+    <!-- /1071561/ROS_MPU -->
+    <div id='div-gpt-ad-1479743919372-0'>
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1479743919372-0'); });
+        </script>
+    </div>
+</div>
+
+
+    <div class="basicNewsletterForm opinionFormersList colspan_2 omega">
+    <img id="Img2" src="/Content/images/newsletter.jpg" alt="Politics @ Lunch" />
+    <h3 class="newsHeading vo_heading">Friday lunchtime. Your Inbox. It's a date.</h3>
+    
+
+    <div id="mc_embed_signup">
+        <form action="//politics.us3.list-manage.com/subscribe/post?u=f5ab5efdb629954eb1b8df87b&amp;id=cb6d3a8c9c" method="post" id="newsletterSignup" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+            <div id="mc_embed_signup_scroll">
+                <input type="checkbox" data-dojo-type="dijit/form/CheckBox" id="group_1" name="group[14413][1]" value="1" class="av-checkbox" checked="checked" style="display:none">
+                <input type="checkbox" data-dojo-type="dijit/form/CheckBox" id="group_2" name="group[14413][2]" value="1" class="av-checkbox" checked="checked" style="display:none">
+                <input type="checkbox" data-dojo-type="dijit/form/CheckBox" id="group_4" name="group[14413][4]" value="1" class="av-checkbox" checked="checked" style="display:none">
+                <input type="checkbox" data-dojo-type="dijit/form/CheckBox" id="group_8" name="group[14413][8]" value="1" class="av-checkbox" checked="checked" style="display:none">
+                <input type="checkbox" data-dojo-type="dijit/form/CheckBox" id="group_16" name="group[14417][16]" value="1" class="av-checkbox" checked="checked" style="display:none">
+                <input type="checkbox" data-dojo-type="dijit/form/CheckBox" id="group_32" name="group[14417][32]" value="1" class="av-checkbox" checked="checked" style="display:none">
+                <input type="email" value="" name="EMAIL" class="email" id="news-emailAddress" placeholder="email address" required>
+                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                <div style="position: absolute; left: -5000px;"><input type="text" name="b_f5ab5efdb629954eb1b8df87b_cb6d3a8c9c" tabindex="-1" value=""></div>
+                <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="small button"></div>
+            </div>
+        </form>
+    </div>
+
+    <a class="newsUpdate" href="http://www.politics.co.uk/information/newsletter-update" style="text-align: right;display: block;font-size: 12px;">Newsletter update</a>
+    
+
+
+</div>
+
+    
+    <div class="listing-box headline-image-listing">
+        <h3>Most Read</h3>
+            <ul>
+            <li>
+                <h4>
+                    <a href="/comment-analysis/2017/12/28/brexit-corbyn-is-playing-a-clever-long-game-that-could-benef">Brexit: Corbyn is playing a clever long game that could benefit us all </a>
+                </h4>
+                
+
+            </li>
+            <li>
+                <h4>
+                    <a href="/news/2017/12/27/labour-councillors-sign-open-letter-urging-party-to-change-i">Labour councillors sign open letter urging party to change its Brexit position </a>
+                </h4>
+                
+
+            </li>
+            <li>
+                <h4>
+                    <a href="/comment-analysis/2017/12/20/brexit-all-that-s-left-for-may-to-get-through-is-the-unyield">Brexit: All that&#39;s left for May to get through is the unyielding wall of reality  </a>
+                </h4>
+                
+
+            </li>
+            <li>
+                <h4>
+                    <a href="/comment-analysis/2017/12/27/the-row-over-blue-passports-sums-brexit-up-perfectly">The row over blue passports sums Brexit up perfectly </a>
+                </h4>
+                
+
+            </li>
+            <li>
+                <h4>
+                    <a href="/comment-analysis/2017/12/29/year-in-review-the-hangover-from-2016-drags-on">Year in Review: The hangover from 2016 drags on </a>
+                </h4>
+                
+
+            </li>
+    </ul>
+
+
+    </div>
+
+
+    <div class="listing-box headline-image-listing">
+        <h3><a href="/news/">Latest Articles</a></h3>
+        <ul>
+    <li>
+    <h4>
+        <a href="/blogs/2018/03/22/this-is-what-the-eu-immigration-app-will-look-like">This is what the EU immigration app will look like </a> </h4>
+        
+            <a class="defer-image image-ratio:313x89 is-loading" href="/blogs/2018/03/22/this-is-what-the-eu-immigration-app-will-look-like">
+                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                     data-src="http://p3.politics.co.uk/right-col-headline-list/settled-status-millions-of-people-have-to-hav.21400223.jpg" 
+                     alt="Settled status: Millions of people have to have their legal status transferred under the system  " />
+            </a>
+    </li>
+    <li>
+    <h4>
+        <a href="/news/2018/03/20/dwp-wins-legal-case-to-block-future-benefit-appeals">DWP wins legal case to block future benefit appeals </a> </h4>
+        
+            <a class="defer-image image-ratio:313x89 is-loading" href="/news/2018/03/20/dwp-wins-legal-case-to-block-future-benefit-appeals">
+                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                     data-src="http://p2.politics.co.uk/right-col-headline-list/the-carmichaels-took-their-case-to-the-suprem.21400222.jpg" 
+                     alt="The Carmichaels took their case to the Supreme Court " />
+            </a>
+    </li>
+    <li>
+    <h4>
+        <a href="/comment-analysis/2018/03/20/iraq-15-years-on-the-birthplace-of-post-truth">Iraq 15 years on: The birthplace of post-truth </a> </h4>
+        
+            <a class="defer-image image-ratio:313x89 is-loading" href="/comment-analysis/2018/03/20/iraq-15-years-on-the-birthplace-of-post-truth">
+                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                     data-src="http://p1.politics.co.uk/right-col-headline-list/iraqis-celebrate-around-a-toppled-statue-of-s.21400221.jpg" 
+                     alt="Iraqis celebrate around a toppled statue of Saddam Hussein on April 12th 2003. " />
+            </a>
+    </li>
+</ul>
+    </div>
+
+    <div class="listing-box headline-image-listing">
+            <div class="listing-box three-col sub-feature">
+        <h3>Sponsored Content</h3>
+        <ul>
+                <li>
+                    <h4><a href="/opinion-formers/bakers-food-and-allied-workers-union/article/labour-s-plans-for-a-real-living-wage-would-be-life-changing">Labour&#39;s plans for a real living wage would be life changing for many people</a></h4>
+
+                    <a class="defer-image image-ratio:313x89 is-loading" href="/opinion-formers/bakers-food-and-allied-workers-union/article/labour-s-plans-for-a-real-living-wage-would-be-life-changing">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                             data-src="http://p3.politics.co.uk/right-col-headline-list/14085891"
+                             alt="&quot;Pay and exploitative employment are the real problems faced in modern Britain&quot;"
+                             title="&quot;Pay and exploitative employment are the real problems faced in modern Britain&quot;" />
+                    </a>
+
+                </li>
+                <li>
+                    <h4><a href="/opinion-formers/bakers-food-and-allied-workers-union/article/budget-tories-out-of-touch-once-again">Budget Tories out of touch once again</a></h4>
+
+                    <a class="defer-image image-ratio:313x89 is-loading" href="/opinion-formers/bakers-food-and-allied-workers-union/article/budget-tories-out-of-touch-once-again">
+                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                             data-src="http://p3.politics.co.uk/right-col-headline-list/14085891"
+                             alt="&quot;They refuse to acknowledge the problems working class people of this country face day in, day out&quot; "
+                             title="&quot;They refuse to acknowledge the problems working class people of this country face day in, day out&quot; " />
+                    </a>
+
+                </li>
+        </ul>
+</div>
+
+    </div>
+
+    <script>
+    googletag.cmd.push(function () {
+        googletag.defineSlot('/1071561/ArticlePage_MPU', [[300, 600], [300, 250]], 'div-gpt-ad-1479816035083-0').addService(googletag.pubads());
+        googletag.pubads().enableSyncRendering();
+        googletag.enableServices();
+    });
+</script>
+
+<div id="midArticleAd">
+    <!-- /1071561/ArticlePage_MPU -->
+    <div id='div-gpt-ad-1479816035083-0'>
+        <script>
+            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1479816035083-0'); });
+        </script>
+    </div>
+</div>
+
+
+    <div class="listing-box headline-image-listing">
+        <h3><a href="/comment-analysis/">More articles</a></h3>
+        <ul>
+    <li>
+    <h4>
+        <a href="/blogs/2018/03/20/those-post-brexit-trade-deals-will-only-cut-costs-by-1-2">Those post-Brexit tariff cuts will only reduce costs by 1.2% </a> </h4>
+        
+            <a class="defer-image image-ratio:313x89 is-loading" href="/blogs/2018/03/20/those-post-brexit-trade-deals-will-only-cut-costs-by-1-2">
+                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                     data-src="http://p0.politics.co.uk/right-col-headline-list/small-change-new-trade-deals-wouldn-t-add-up.21400220.jpg" 
+                     alt="Small change: New trade deals wouldn&#39;t add up to a substantial saving for shoppers " />
+            </a>
+    </li>
+    <li>
+    <h4>
+        <a href="/blogs/2018/03/19/brexit-transition-the-can-is-kicked-further-down-the-road">Brexit transition: The can is kicked further down the road </a> </h4>
+        
+            <a class="defer-image image-ratio:313x89 is-loading" href="/blogs/2018/03/19/brexit-transition-the-can-is-kicked-further-down-the-road">
+                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                     data-src="http://p3.politics.co.uk/right-col-headline-list/david-davis-addresses-journalists-as-michel-b.21400219.jpg" 
+                     alt="David Davis addresses journalists as Michel Barnier looks on during their press conference today.  " />
+            </a>
+    </li>
+    <li>
+    <h4>
+        <a href="/comment-analysis/2018/03/19/no-british-patriot-should-trade-with-putin">No British patriot should trade with Putin   </a> </h4>
+        
+            <a class="defer-image image-ratio:313x89 is-loading" href="/comment-analysis/2018/03/19/no-british-patriot-should-trade-with-putin">
+                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" 
+                     data-src="http://p2.politics.co.uk/right-col-headline-list/putin-addresses-supporters-during-a-rally-nea.21400218.jpg" 
+                     alt="Putin addresses supporters during a rally near the Kremlin yesterday, as he coasts to another election victory   " />
+            </a>
+    </li>
+</ul>
+    </div>
+    
+    <div id="jobslist" class="listing-box">
+<h3><a href="/jobs/">Jobs & Education</a></h3>
+    <p><a href="/information/advertise-your-job-vacancies">Advertise your job vacancies here</a></p>
+</div>
+
+</div>
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+    <div class="row">
+        <div class="footer">
+            <div class="small-6 large-3 columns">
+                <h5>News</h5>
+                
+<ul>
+        <li><a href="/news/westminster">Westminster</a> </li>
+        <li><a href="/news/home-affairs">Home Affairs</a> </li>
+        <li><a href="/news/foreign-affairs">Foreign Affairs</a> </li>
+        <li><a href="/news/economy">Economy</a> </li>
+        <li><a href="/news/health">Health</a> </li>
+        <li><a href="/news/education">Education</a> </li>
+        <li><a href="/news/environment">Environment</a> </li>
+        <li><a href="/news/local">Local</a> </li>
+</ul>
+            </div>
+
+            <div class="hide-for-small large-3 columns">
+                <h5>Comment &amp; Analysis</h5>
+                
+<ul>
+        <li><a href="/comment-analysis/comment">Comment</a> </li>
+        <li><a href="/comment-analysis/analysis">Analysis</a> </li>
+        <li><a href="/comment-analysis/sketches">Sketches</a> </li>
+        <li><a href="/comment-analysis/features">Features</a> </li>
+        <li><a href="/comment-analysis/interviews">Interviews</a> </li>
+        <li><a href="/comment-analysis/reviews">Reviews</a> </li>
+</ul>
+                <ul>
+                    <li><a href="/podcast/">Podcast</a></li>
+                </ul>
+            </div>
+
+            <div class="hide-for-small large-3 columns">
+                <h5>Opinion Formers</h5>
+                <ul>
+                    <li><a href="/video/opinion-former-videos/">Videos</a></li>
+                    <li><a href="/opinion-former/press-releases-articles/" class="selected">Press Releases &amp; Articles</a></li>
+                    <li><a href="/opinion-former/events/">Events</a></li>
+                    <li><a href="/opinion-former/of-comments/">Comments</a></li>
+                    <li><a href="/opinion-former/opinion-formers-az/">A-Z Directory</a></li>
+                    <li><a href="/information/become-an-opinion-former">Join Opinion Formers</a></li>
+                </ul>
+            </div>
+
+            <div class="small-6 large-3 columns">
+                <h5>About</h5>
+                <ul>
+                    <li><a href="http://www.polimapper.co.uk/" target="_blank">Interactive political maps</a></li>
+                        <li><a href="/information/advertise-on-politics-co-uk">Advertise on Politics.co.uk</a> </li>
+    <li><a href="/information/about-politics-co-uk">About Politics.co.uk</a> </li>
+    <li><a href="/information/about-voiceover">Video and animation production</a> </li>
+    <li><a href="/information/writing-for-politics-co-uk">Writing for Politics.co.uk </a> </li>
+    <li><a href="/information/newsletter-update">Newsletter update </a> </li>
+    <li><a href="/information/advertise-your-job-vacancies">Advertise your job vacancies</a> </li>
+    <li><a href="/information/editorial-contacts">Editorial Contacts</a> </li>
+    <li><a href="/information/become-an-opinion-former">About Opinion Formers</a> </li>
+    <li><a href="/information/privacy">Privacy</a> </li>
+    <li><a href="/information/cookies">Cookies</a> </li>
+    <li><a href="/information/terms-of-use">Terms of use</a> </li>
+
+                </ul>
+            </div>
+
+            <p class="copyright">
+                <img id="footer_logo" src="/Content/images/politics-logo-flat-foot.gif" alt="Politics.co.uk" />
+                &copy; 2004-2018
+            </p>
+        </div>
+    </div>
+
+    <script>
+        googletag.defineSlot('/1071561/Energy_takeover_1x1', [1, 1], 'div-gpt-ad-1391617970092-0')
+            .addService(googletag.pubads())
+            .setTargeting("Win_Title", window.document.title.toLowerCase().split(" "));
+        console.log("Energy Takeover");
+    </script>
+
+    <span id="EnergyTakeOver">
+        <div id="div-gpt-ad-1391617970092-0" style="width:1px; height:1px;">
+            <script>
+                googletag.cmd.push(function () { googletag.display('div-gpt-ad-1391617970092-0'); });
+            </script>
+        </div>
+    </span>
+
+    <script>
+        //hack to make energy advert load
+        jQuery(window).on("load", function (le) {
+
+            var energyAd = null;
+            if (document.getElementById("div-gpt-ad-1391617970092-0_ad_container")) {
+                if (window.clientUrl) {
+                    console.log("Client Url: " + window.backgroundImageUrl);
+                    jQuery(function () {
+                        jQuery("#EnergyTakeOver").homePageTakeOver({
+                            clientUrl: window.clientUrl,
+                            backgroundImageUrl: window.backgroundImageUrl
+                        });
+                    });
+                }
+            }
+            //$("#div-gpt-ad-1391617970092-0 div iframe", top.document);//;
+        });
+    </script>
+
+    
+    
+
+    
+
+
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-48230403-1']);
+    _gaq.push(['_setDomainName', 'politics.co.uk']);
+    if (document.location.href.search("fb_ref=") != -1) {
+        // Track traffic from Facebook Like & Send as Campaign traffic
+        _gaq.push(['_setCampMediumKey', 'fb_ref'], ['_setCampSourceKey', 'fb_ref'], ['_setCampNameKey', 'fb_ref'], ['_setCampContentKey', 'fb_source']);
+    } else if (document.location.href.search("fb_comment_id=") != -1) {
+        // Track traffic from Facebook Comments as Campaign traffic
+        _gaq.push(['_setCampMediumKey', 'fb_comment_id'], ['_setCampSourceKey', 'fb_comment_id'], ['_setCampNameKey', 'fb_comment_id'], ['_setCampContentKey', 'fb_comment_id']);
+    }
+    _gaq.push(['_setAllowLinker', true]);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+
+
+<script type="text/javascript" language="javascript">
+    var sc_project = 1704631;
+    var sc_invisible = 1;
+    var sc_partition = 16;
+    var sc_security = "69114f49"; 
+</script>
+<noscript>
+    <a href="http://www.statcounter.com/" target="_blank">
+        <img src="http://c17.statcounter.com/counter.php?sc_project=1704631&amp;java=0&amp;security=69114f49&amp;invisible=1"
+            alt="website page counter" border="0"></a>
+</noscript>
+ wa
+    <link href="/Content/css/pagination.css" rel="stylesheet"/>
+<link href="/Content/css/jquery.ennui.contentslider.css" rel="stylesheet"/>
+<link href="/Scripts/dialog/css/basic.css" rel="stylesheet"/>
+<link href="/Scripts/basic-slider/bjqs.css" rel="stylesheet"/>
+<link href="/Content/css/app-secondary-includes.css" rel="stylesheet"/>
+
+
+
+    <script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script>
+
+    
+    
+    
+
+    
+
+    <!-- New Relic Footer -->
+
+    <script type="text/javascript">
+        setTimeout(function () {
+            var a = document.createElement("script");
+            var b = document.getElementsByTagName("script")[0];
+            a.src = document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0017/4263.js?" + Math.floor(new Date().getTime() / 3600000);
+            a.async = true; a.type = "text/javascript"; b.parentNode.insertBefore(a, b)
+        }, 1);
+    </script>
+
+    
+
+</body>
+</html>
